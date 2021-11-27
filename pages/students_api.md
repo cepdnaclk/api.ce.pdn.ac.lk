@@ -11,7 +11,7 @@ title: 'Students Data API'
 You can access the batch information via following API
 
 ```bash
-GET: {{ site.url }}/people/students/
+GET {{ site.url }}/people/students/
 ```
 
 #### Example:
@@ -22,7 +22,7 @@ API Endpoint:
 
 ##### Request
 ```bash
-GET: {{ site.url }}/people/students/
+GET {{ site.url }}/people/students/
 ```
 
 ##### Response
@@ -51,7 +51,7 @@ GET: {{ site.url }}/people/students/
 You can access the student details via following API  
 
 ```bash
-GET: {{ site.url }}/people/students/{batch}/
+GET {{ site.url }}/people/students/{batch}/
 ```
 
 #### Example:
@@ -62,7 +62,7 @@ API Endpoint:
 
 ##### Request
 ```bash
-GET: {{ site.url }}/people/students/E15/
+GET {{ site.url }}/people/students/E15/
 ```
 ##### Response
 ```json

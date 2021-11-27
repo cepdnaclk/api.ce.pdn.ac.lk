@@ -7,7 +7,7 @@ import json
 import os
 
 # Where the API is available
-apiIndex = 'https://cepdnaclk.github.io/api.ce.pdn.ac.lk/students/'
+apiIndex = 'https://cepdnaclk.github.io/api.ce.pdn.ac.lk/people/'
 
 # Where the data is available
 apiSource = 'https://cepdnaclk.github.io/people.ce.pdn.ac.lk/api/all/'
@@ -17,7 +17,7 @@ def write_index(batch_groups):
     dict = {}
     for batch in batch_groups:
         # print(batch)
-        url = apiIndex + batch + '/'
+        url = apiIndex + 'students/' + batch + '/'
         count = len(batch_groups[batch].keys())
         dict[batch] = { 'batch': batch, 'url': url, 'count': count }
 
@@ -36,6 +36,18 @@ def write_batches(batch_groups):
 
         with open(filename, "w") as f:
             f.write(json.dumps(batch_groups[batch], indent = 4))
+
+def write_all(batch_groups):
+    for batch in batch_groups:
+        # print(batch)
+        filename = "../people/students/" + batch + "/index.json"
+        os.makedirs(os.path.dirname(filename), exist_ok=True)
+
+        # print(json.dumps(batch_groups[batch], indent = 4))
+
+        with open(filename, "w") as f:
+            f.write(json.dumps(batch_groups[batch], indent = 4))
+
 
 def emailFilter(email):
     if email != "":
