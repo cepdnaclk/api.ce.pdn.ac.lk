@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+<head>
+    {% include meta.html %}
+
+    {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include analytics.html -%}
+    {%- endif -%}
+
+    {%- include head.html -%}
+
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/swagger/swagger-ui.css' | relative_url }}" />
+    <link rel="icon" type="image/png" href="{{ '/assets/swagger/favicon-32x32.png' | relative_url }}" sizes="32x32" />
+    <link rel="icon" type="image/png" href="{{ '/assets/swagger/favicon-16x16.png' | relative_url }}" sizes="16x16" />
+
+    <style>
+    html { box-sizing: border-box; overflow: -moz-scrollbars-vertical; overflow-y: scroll; }
+    *,*:before,*:after{box-sizing: inherit;}
+    .swagger-ui .scheme-container, .swagger-ui .topbar { display: none !important; }
+    body {margin:0;background: #fafafa;}
+    </style>
+</head>
+
+<body>
+    <div class="container vh-75">
+        <div class="row">
+            <div class="container col-sm-12 col-md-10 col-lg-10 mx-auto mt-3 py-2">
+                <a href="{% link pages/home.md %}">Home</a><br>
+                <div class="text-end">
+                    <a href="{{  page.swagger_file }}">Swagger JSON </a>
+                </div>
+
+                <div id="swagger-section" data-url="{{ page.swagger_file }}"><div id="swagger-ui"></div></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+    window.onload = function() {
+        // Begin Swagger UI call region
+        {% if site.url %}
+        const url = "{{ site.url }}" + document.getElementById("swagger-section").getAttribute("data-url");
+        {% else %}
+        const url = "http://localhost:4000/api.ce.pdn.ac.lk/" + document.getElementById("swagger-section").getAttribute("data-url");
+        {% endif %}
+
+        const ui = SwaggerUIBundle({
+            url: url,
+            dom_id: '#swagger-ui',
+            deepLinking: true,
+            presets: [
+                SwaggerUIBundle.presets.apis,
+                SwaggerUIStandalonePreset
+            ],
+            plugins: [
+                SwaggerUIBundle.plugins.DownloadUrl
+            ],
+            layout: "StandaloneLayout"
+        });
+        // End Swagger UI call region
+
+        window.ui = ui;
+    };
+    </script>
+
+    <script src="{{ '/assets/swagger/swagger-ui-bundle.js' | relative_url }}" charset="UTF-8"> </script>
+    <script src="{{ '/assets/swagger/swagger-ui-standalone-preset.js' | relative_url }}" charset="UTF-8"> </script>
+</body>
+</html>
