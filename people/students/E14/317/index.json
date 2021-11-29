@@ -7,7 +7,10 @@
     "preferred_short_name": "Anjana",
     "preferred_long_name": "Anjana Senanayake",
     "emails": {
-        "personal": "",
+        "personal": {
+            "name": "",
+            "domain": ""
+        },
         "faculty": {
             "name": "e14317",
             "domain": "ce.pdn.ac.lk"
