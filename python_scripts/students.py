@@ -2,6 +2,10 @@
 # pip install requests
 # -------------------------
 
+# TODO:
+# No validation done by assume everything is ok,
+# But better to write validation logic too
+
 import requests
 import json
 import os
@@ -33,9 +37,27 @@ def write_batches(batch_groups):
         os.makedirs(os.path.dirname(filename), exist_ok=True)
 
         # print(json.dumps(batch_groups[batch], indent = 4))
+        data = {}
+        for student in batch_groups[batch]:
+            regNumber = batch_groups[batch][student]['eNumber'].split('/')[2]
+            url =  apiIndex + 'students/' + batch + '/' + regNumber + '/'
+            data[student] = { 'url': url }
 
         with open(filename, "w") as f:
-            f.write(json.dumps(batch_groups[batch], indent = 4))
+            f.write(json.dumps(data, indent = 4))
+
+def write_students(batch, batch_group):
+    for student in batch_group:
+        # print(student)
+        eNumber = batch_group[student]['eNumber']
+        regNumber = eNumber.split('/')[2]
+
+        filename = "../people/students/" + batch + "/" + regNumber + "/index.json"
+        os.makedirs(os.path.dirname(filename), exist_ok=True)
+
+        # print(json.dumps(batch_group[student], indent = 4))
+        with open(filename, "w") as f:
+            f.write(json.dumps(batch_group[student], indent = 4))
 
 def write_all(batch_groups):
     for batch in batch_groups:
@@ -82,3 +104,7 @@ write_index(batch_groups)
 
 # Create files for each batch
 write_batches(batch_groups)
+
+# Write student files
+for batch in batch_groups:
+    write_students(batch, batch_groups[batch])
