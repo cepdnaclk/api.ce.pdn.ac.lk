@@ -1,0 +1,53 @@
+{
+    "title": "An automated system for monitoring and controlling the water supply to a large farmland",
+    "description": "This is a system for automatically controlling the amount of water flow in a soil field for maintaining the correct amount of water over it. The idea is to sense the amount of water using a device with an embedded system. The device has sensing elements where it measures the electrical conductivity and those results are used to estimate the amount of water the soil has. The system could be controlled by a controller/supervisor or it can be done in an automated way. The device will automatically switch off the water supplier when the highest level is reached and switch on the motor when the lowest level is reached.",
+    "batch": "E15",
+    "category": "Cyber-Physical Systems Projects",
+    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/An-automated-system-for-monitoring-and-controlling-the-water-supply-to-a-large-farmland",
+    "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+    "repo_url": "https://github.com/cepdnaclk/e15-3yp-An-automated-system-for-monitoring-and-controlling-the-water-supply-to-a-large-farmland",
+    "page_url": "https://cepdnaclk.github.io/e15-3yp-An-automated-system-for-monitoring-and-controlling-the-water-supply-to-a-large-farmland",
+    "data_url": "https://cepdnaclk.github.io/e15-3yp-An-automated-system-for-monitoring-and-controlling-the-water-supply-to-a-large-farmland/data/index.json",
+    "team": {
+        "E/15/138": {
+            "name": "M.M.M. Irfan",
+            "email": "irfanmm96@gmail.com",
+            "github": "#",
+            "linkedin": "#",
+            "website": "#",
+            "researchgate": "#",
+            "profile": "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/people/students/E15/138"
+        },
+        "E/15/209": {
+            "name": "H.K. Madhushani",
+            "email": "kithmamadushani1@gmail.com",
+            "github": "#",
+            "linkedin": "#",
+            "website": "#",
+            "researchgate": "#",
+            "profile": "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/people/students/E15/209"
+        },
+        "E/15/307": {
+            "name": "L. Rishikeshan",
+            "email": "work@ris.fi",
+            "github": "#",
+            "linkedin": "#",
+            "website": "#",
+            "researchgate": "#",
+            "profile": "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/people/students/E15/307"
+        }
+    },
+    "supervisors": [
+        {
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "linkedin_profile": "https://www.linkedin.com/in/roshanragel/",
+            "researchgate_profile": "https://www.researchgate.net/profile/Roshan-Ragel"
+        },
+        {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk"
+        }
+    ]
+}
