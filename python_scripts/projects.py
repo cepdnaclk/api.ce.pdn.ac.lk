@@ -21,7 +21,7 @@ pageSource = "https://cepdnaclk.github.io/"
 
 studentSource = apiBase + "people/students/all/"
 
-enable_deep_scan = False
+enable_deep_scan = True
 
 def process_team(data):
     # Process, validate, and add missing data from people APIs
@@ -83,7 +83,7 @@ def write_all(categories):
     dict = {}
     for cat in categories:
         cat_name = cat.replace(' ', '-') #.lower()
-        url = apiIndex + 'projects/' + cat_name + '/'
+        url = apiBase + 'projects/' + cat_name + '/'
         count = len(categories[cat].keys())
         dict[cat] = categories[cat]
 
@@ -97,7 +97,7 @@ def write_index(categories):
     dict = {}
     for cat in categories:
         cat_name = cat.replace(' ', '-') #.lower()
-        url = apiIndex + 'projects/' + cat_name + '/'
+        url = apiBase + 'projects/' + cat_name + '/'
         count = len(categories[cat].keys())
         dict[cat] = { 'category': cat, 'url': url, 'batches': count }
 
@@ -116,7 +116,7 @@ def write_batches(categories):
         sorted_data = {}
 
         for batch in categories[cat]:
-            url =  apiIndex + 'projects/' + cat_name + '/' + batch + '/'
+            url =  apiBase + 'projects/' + cat_name + '/' + batch + '/'
             count = len(categories[cat][batch].keys())
             data[batch] = { 'url': url, 'projects': count }
 
