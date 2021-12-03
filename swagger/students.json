@@ -109,12 +109,12 @@
         "example" : {
           "E15" : {
             "batch" : "E15",
-            "url" : "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/students/E15/",
+            "url" : "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/people/students/E15/",
             "count" : 60
           },
           "E14" : {
             "batch" : "E14",
-            "url" : "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/students/E14/",
+            "url" : "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/people/students/E14/",
             "count" : 62
           }
         }
@@ -270,10 +270,10 @@
         },
         "example" : {
           "E/15/000" : {
-            "url" : "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/students/E15/000"
+            "url" : "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/people/students/E15/000"
           },
           "E/15/999" : {
-            "url" : "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/students/E15/999"
+            "url" : "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/people/students/E15/999"
           }
         }
       }

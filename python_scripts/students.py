@@ -75,15 +75,20 @@ def write_students(batch, batch_group):
             f.write(json.dumps(batch_group[student], indent = 4))
 
 def write_all(batch_groups):
+    data_all = {}
+
     for batch in batch_groups:
-        # print(batch)
-        filename = "../people/students/" + batch.upper() + "/index.json"
-        os.makedirs(os.path.dirname(filename), exist_ok=True)
+        for student in batch_groups[batch]:
+            eNumber = batch_groups[batch][student]['eNumber'].upper()
+            data_all[eNumber] = batch_groups[batch][student]
 
-        # print(json.dumps(batch_groups[batch], indent = 4))
+    filename = "../people/students/all/index.json"
+    os.makedirs(os.path.dirname(filename), exist_ok=True)
 
-        with open(filename, "w") as f:
-            f.write(json.dumps(batch_groups[batch], indent = 4))
+    # print(json.dumps(batch_groups[batch], indent = 4))
+
+    with open(filename, "w") as f:
+        f.write(json.dumps(data_all, indent = 4))
 
 
 # ------------------------------------------------------------------------------
@@ -116,3 +121,5 @@ write_batches(batch_groups)
 # Write individual student files
 for batch in batch_groups:
     write_students(batch, batch_groups[batch])
+
+write_all(batch_groups)
