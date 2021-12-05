@@ -84,9 +84,12 @@ def process_supervisors(data):
 
 def process_publications(data):
     # TODO: process & validate
-    if data['title'] == "Paper Title" or data['url']=='#':
-        return False
-    return data
+    pub = []
+    for publication in data:
+        if publication['title']!="Paper Title" and publication['url']!='#':
+            pub.append(publication)
+
+    return pub
 
 def project_details(page_url):
     data = {}
@@ -100,16 +103,25 @@ def project_details(page_url):
             try:
                 proj_config = json.loads(r.text)
 
-                if 'team' in proj_config:
-                    data['team'] = process_team(proj_config['team'])
+                try:
+                    if 'team' in proj_config:
+                        data['team'] = process_team(proj_config['team'])
+                except Exception as e:
+                    print('parse failed, team; ' + url, e)
 
-                if 'supervisors' in proj_config:
-                    data['supervisors'] = process_supervisors(proj_config['supervisors'])
+                try:
+                    if 'supervisors' in proj_config:
+                        data['supervisors'] = process_supervisors(proj_config['supervisors'])
+                except Exception as e:
+                    print('parse failed, supervisors; ' + url, e)
 
-                if 'publications' in proj_config:
-                    publications = process_publications(proj_config['publications'])
-                    if publications != False:
-                        data['publications'] = publications
+                try:
+                    if 'publications' in proj_config:
+                        publications = process_publications(proj_config['publications'])
+                        if len(publications)>0:
+                            data['publications'] = publications
+                except Exception as e:
+                    print('parse failed, publications; ' + url, e)
 
                 # TODO: Add remaining parameters
             except:
