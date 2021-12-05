@@ -36,7 +36,7 @@
           "parameters" : [ {
             "name" : "batchId",
             "in" : "path",
-            "description" : "Batch ID",
+            "description" : "Batch ID, 'E' Should be capital",
             "required" : true,
             "type" : "string"
           } ],
@@ -62,7 +62,7 @@
           "parameters" : [ {
             "name" : "batchId",
             "in" : "path",
-            "description" : "Batch ID",
+            "description" : "Batch ID, 'E' Should be capital",
             "required" : true,
             "type" : "string"
           }, {
@@ -93,7 +93,7 @@
           "batch" : {
             "type" : "string",
             "pattern" : "^E\\d{2}$",
-            "description" : "Batch ID"
+            "description" : "Batch ID, 'E' Should be capital"
           },
           "url" : {
             "type" : "string",
@@ -142,7 +142,7 @@
           "batch" : {
             "type" : "string",
             "pattern" : "^E\\d{2}$",
-            "description" : "The prefix of the batch"
+            "description" : "The prefix of the batch, 'E' Should be capital"
           },
           "honorific" : {
             "type" : "string",
