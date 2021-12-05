@@ -13,20 +13,20 @@
         "E/15/021": {
             "name": "Mohamed Aslam",
             "email": "e15021@eng.pdn.ac.lk",
+            "website": "",
             "github": "https://github.com/aslam021",
             "linkedin": "",
-            "website": "",
             "researchgate": "",
-            "profile": "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/people/students/E15/021"
+            "api_url": "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/people/students/E15/021"
         },
         "E/15/138": {
             "name": "Mohamed Irfan ",
             "email": "e15138@eng.pdn.ac.lk",
+            "website": "",
             "github": "https://github.com/irfanm96",
             "linkedin": "",
-            "website": "",
             "researchgate": "",
-            "profile": "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/people/students/E15/138"
+            "api_url": "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/people/students/E15/138"
         }
     },
     "supervisors": [
@@ -47,14 +47,6 @@
             "email": "fawzanm@gmail.com",
             "linkedin_profile": "#",
             "researchgate_profile": "#"
-        }
-    ],
-    "publications": [
-        {
-            "title": "Paper Title",
-            "journal": "Journal or Conference Name",
-            "description": "Sample Description",
-            "url": "#"
         }
     ]
 }
