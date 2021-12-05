@@ -1,47 +1,74 @@
 {
-    "Cyber-Physical Systems Projects": {
-        "category": "Cyber-Physical Systems Projects",
-        "url": "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/projects/Cyber-Physical-Systems-Projects/",
-        "batches": 4
+    "4yp": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "description": "Research projects carried out by final year Computer Engineering students as part of coursework",
+        "type": "GENERAL",
+        "page_url": "https://projects.ce.pdn.ac.lk/4yp/",
+        "api_url": "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/projects/4yp/"
     },
-    "Undergraduate Research Projects": {
-        "category": "Undergraduate Research Projects",
-        "url": "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/projects/Undergraduate-Research-Projects/",
-        "batches": 4
+    "3yp": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "description": "Cyber-Physical Systems designed and implemented by 3rd year Computer Engineering Students as part of coursework. These projects contain modern embedded hardware and software, cloud-deployed web back-end/front-end software and modern networking and communication for integration",
+        "type": "GENERAL",
+        "page_url": "https://projects.ce.pdn.ac.lk/3yp/",
+        "api_url": "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/projects/3yp/"
     },
-    "Industrial Automation Projects (CO326)": {
-        "category": "Industrial Automation Projects (CO326)",
-        "url": "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/projects/Industrial-Automation-Projects-(CO326)/",
-        "batches": 2
+    "2yp": {
+        "code": "2yp",
+        "title": "Software Systems Projects",
+        "description": "Software systems designed and developed by second year Computer Engineering Students as part of coursework",
+        "type": "GENERAL",
+        "page_url": "https://projects.ce.pdn.ac.lk/2yp/",
+        "api_url": "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/projects/2yp/"
     },
-    "Image Processing Projects (CO543)": {
-        "category": "Image Processing Projects (CO543)",
-        "url": "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/projects/Image-Processing-Projects-(CO543)/",
-        "batches": 1
+    "co226": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "description": "This section contains projects conducted as a partial requirement to complete the course CO226 - Database Systems. Usually, these projects are conducted by groups of 3 students. The course focuses on database systems and students are required to develop a database management system for the project",
+        "type": "COURSE",
+        "page_url": "https://projects.ce.pdn.ac.lk/co226/",
+        "api_url": "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/projects/co226/"
     },
-    "Software Engineering Projects (CO328)": {
-        "category": "Software Engineering Projects (CO328)",
-        "url": "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/projects/Software-Engineering-Projects-(CO328)/",
-        "batches": 3
+    "co326": {
+        "code": "co326",
+        "title": "Industrial Automation Projects (CO326)",
+        "description": "This section contains projects conducted as a partial requirement to complete the course CO326. The timeline for the project is semester 6 (second semester of the third year) of the undergraduate. The main objective of this is to give students a hand on experience of Industrial Communication Networks.",
+        "type": "COURSE",
+        "page_url": "https://projects.ce.pdn.ac.lk/co326/",
+        "api_url": "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/projects/co326/"
     },
-    "Software Systems Projects": {
-        "category": "Software Systems Projects",
-        "url": "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/projects/Software-Systems-Projects/",
-        "batches": 2
+    "co328": {
+        "code": "co328",
+        "title": "Software Engineering Projects (CO328)",
+        "description": "This section contains projects conducted as a partial requirement to complete the course CO328 - Software Engineering. Usually, these projects are conducted by groups of 3 students. The course focus on using software architectures and software project management experience.",
+        "type": "COURSE",
+        "page_url": "https://projects.ce.pdn.ac.lk/co328/",
+        "api_url": "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/projects/co328/"
     },
-    "Advanced Computer Architecture (CO502)": {
-        "category": "Advanced Computer Architecture (CO502)",
-        "url": "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/projects/Advanced-Computer-Architecture-(CO502)/",
-        "batches": 1
+    "co543": {
+        "code": "co543",
+        "title": "Image Processing Projects (CO543)",
+        "description": "This section contains projects conducted as a partial requirement to complete the course CO543 - Image Processing",
+        "type": "COURSE",
+        "page_url": "https://projects.ce.pdn.ac.lk/co543/",
+        "api_url": "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/projects/co543/"
     },
-    "Neural Networks Projects (CO542)": {
-        "category": "Neural Networks Projects (CO542)",
-        "url": "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/projects/Neural-Networks-Projects-(CO542)/",
-        "batches": 1
+    "co542": {
+        "code": "co542",
+        "title": "Neural Networks Projects (CO542)",
+        "description": "This section contains projects conducted as a partial requirement to complete the course CO542 - Neural Networks and Fuzzy Systems",
+        "type": "COURSE",
+        "page_url": "https://projects.ce.pdn.ac.lk/co542/",
+        "api_url": "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/projects/co542/"
     },
-    "Database Projects (CO226)": {
-        "category": "Database Projects (CO226)",
-        "url": "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/projects/Database-Projects-(CO226)/",
-        "batches": 1
+    "co502": {
+        "code": "co502",
+        "title": "Advanced Computer Architecture (CO502)",
+        "description": "This section contains projects conducted as a partial requirement to complete the course CO502 - Advanced Computer Architecture. The scope includes HDL implementations of modern computer processors based on ISAs such as RISC-V, caching, memory and assemblers.",
+        "type": "COURSE",
+        "page_url": "https://projects.ce.pdn.ac.lk/co502/",
+        "api_url": "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/projects/co502/"
     }
 }
