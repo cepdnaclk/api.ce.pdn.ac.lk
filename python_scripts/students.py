@@ -14,7 +14,7 @@ import os
 apiIndex = 'https://cepdnaclk.github.io/api.ce.pdn.ac.lk/people/'
 
 # Where the data is available
-apiSource = 'https://cepdnaclk.github.io/people.ce.pdn.ac.lk/api/all/'
+apiSource = 'https://cepdnaclk.github.io/people.ce.pdn.ac.lk/api/students/'
 
 # Validate and format the registration number
 def validateRegNumber(regNumber):
