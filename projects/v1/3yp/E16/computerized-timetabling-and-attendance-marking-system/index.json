@@ -1,0 +1,55 @@
+{
+    "title": "computerized timetabling and attendance marking system",
+    "description": "This project is about creating a modern attendance marking system that is suitable for today's world. In parallel with the attendance marking system, a fully-fledged timetable managing and lecture reminding system is developed. The system consists of a website, hardware device, and mobile app. The website is for the students, lecturers, and administration. Key features of the website are timetable management, attendance, course registration, and registration.  The hardware device is used to mark the attendance with fingerprint and RFID cards and setting the lecture room. The mobile app is used by the students to see lecture reminding and attendance marking notifications, timetable, and attendance.",
+    "category": {
+        "title": "Cyber-Physical Systems Projects",
+        "code": "3yp",
+        "api_url": "http://api.ce.pdn.ac.lk/v1//projects/v1/3yp/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/computerized-timetabling-and-attendance-marking-system",
+    "repo_url": "https://github.com/cepdnaclk/e16-3yp-computerized-timetabling-and-attendance-marking-system",
+    "page_url": "https://cepdnaclk.github.io/e16-3yp-computerized-timetabling-and-attendance-marking-system",
+    "team": {
+        "E/16/242": {
+            "name": "Saubagya Munasingha",
+            "email": "e16242@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/v1//people/students/E16/242"
+        },
+        "E/16/286": {
+            "name": "Nuwan Piyarathna",
+            "email": "e16286@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/v1//people/students/E16/286"
+        },
+        "E/16/399": {
+            "name": "Erandana Wijerathne",
+            "email": "e16399@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/v1//people/students/E16/399"
+        }
+    },
+    "supervisors": [
+        {
+            "name": "Dr. Isuru Navinne ",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "linkedin_profile": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+            "researchgate_profile": "https://www.researchgate.net/profile/Isuru-Nawinne"
+        },
+        {
+            "name": "Mr. Ziyan Maraikar",
+            "email": "ziyanm@pdn.ac.lk",
+            "linkedin_profile": "#",
+            "researchgate_profile": "#"
+        }
+    ]
+}

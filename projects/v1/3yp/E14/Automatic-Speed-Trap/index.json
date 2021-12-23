@@ -1,0 +1,47 @@
+{
+    "title": "Automatic Speed Trap",
+    "description": "In this project we are expected to track the vehicle speed and if there any vehicle that travelling with more than maximum speed allowed, take a clear photo of the specific vehicle and send that to authorities to take further action.",
+    "category": {
+        "title": "Cyber-Physical Systems Projects",
+        "code": "3yp",
+        "api_url": "http://api.ce.pdn.ac.lk/v1//projects/v1/3yp/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Automatic-Speed-Trap",
+    "repo_url": "https://github.com/cepdnaclk/e14-3yp-Automatic-Speed-Trap",
+    "page_url": "https://cepdnaclk.github.io/e14-3yp-Automatic-Speed-Trap",
+    "team": {
+        "E/14/349": {
+            "name": "THILAKARATHNA B.R.M.",
+            "email": "e14349@ce.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/v1//people/students/E14/349"
+        },
+        "E/14/238": {
+            "name": "PATHIRAJA P.M.R.I.",
+            "email": "e14238@ce.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/v1//people/students/E14/238"
+        },
+        "E/14/352": {
+            "name": "THILAKAWANSHA B.M.C.P.",
+            "email": "e14352@ce.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/v1//people/students/E14/352"
+        }
+    },
+    "supervisors": [
+        {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@ce.pdn.ac.lk"
+        }
+    ]
+}

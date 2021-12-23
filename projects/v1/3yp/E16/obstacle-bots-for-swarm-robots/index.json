@@ -1,0 +1,67 @@
+{
+    "title": "obstacle bots for swarm robots",
+    "description": "Obstacle bots for the existing swarm research project of the  Department of Computer Engineering, University of Peradeniya. Robots are localized with an overhead camera set up in order to create very challenging patterns using movements in a self-created potential surface with collision-avoiding algorithms on optimized stochastic gradient descent and particle repulsion theory.",
+    "category": {
+        "title": "Cyber-Physical Systems Projects",
+        "code": "3yp",
+        "api_url": "http://api.ce.pdn.ac.lk/v1//projects/v1/3yp/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/obstacle-bots-for-swarm-robots",
+    "repo_url": "https://github.com/cepdnaclk/e16-3yp-obstacle-bots-for-swarm-robots",
+    "page_url": "https://cepdnaclk.github.io/e16-3yp-obstacle-bots-for-swarm-robots",
+    "team": {
+        "E/16/366": {
+            "name": "Thilarakathna W M D U",
+            "email": "e16366@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/v1//people/students/E16/366"
+        },
+        "E/16/369": {
+            "name": "Thushara K A R T",
+            "email": "e16369@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/v1//people/students/E16/369"
+        },
+        "E/16/088": {
+            "name": "Dissanayake D M T H",
+            "email": "e16088@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/v1//people/students/E16/088"
+        }
+    },
+    "supervisors": [
+        {
+            "name": "Dr. Isuru Navinna",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "linkedin_profile": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+            "researchgate_profile": "https://www.researchgate.net/profile/Isuru-Nawinne"
+        },
+        {
+            "name": "Prof. Roshan Ragel",
+            "email": "roshanrisu@eng.pdn.ac.lk",
+            "linkedin_profile": "https://www.linkedin.com/in/roshanragel/",
+            "researchgate_profile": "https://www.researchgate.net/profile/Roshan-Ragel"
+        },
+        {
+            "name": "Mr. Ziyan Marikkar",
+            "email": "ziyanm@gmail.com",
+            "linkedin_profile": "https://www.linkedin.com/in/ziyan-maraikar-15539818a",
+            "researchgate_profile": "#"
+        },
+        {
+            "name": "Dr. Upul Jayasinghe",
+            "email": "upuljm@eng.pdn.ac.lk",
+            "linkedin_profile": "https://www.linkedin.com/in/upuljm/",
+            "researchgate_profile": "https://www.researchgate.net/profile/Upul-Jayasinghe"
+        }
+    ]
+}

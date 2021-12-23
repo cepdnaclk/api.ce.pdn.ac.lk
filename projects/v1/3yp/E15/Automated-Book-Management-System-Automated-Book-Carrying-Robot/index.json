@@ -1,0 +1,53 @@
+{
+    "title": "Automated Book Management System Automated Book Carrying Robot",
+    "description": "In libraries, We have planned to implement a book carrying robot to help the workers. Our embedded system will have Arduino, IR sensors, DC motors, power batteries and voltage regulator etc.",
+    "category": {
+        "title": "Cyber-Physical Systems Projects",
+        "code": "3yp",
+        "api_url": "http://api.ce.pdn.ac.lk/v1//projects/v1/3yp/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/Automated-Book-Management-System-Automated-Book-Carrying-Robot",
+    "repo_url": "https://github.com/cepdnaclk/e15-3yp-Automated-Book-Management-System-Automated-Book-Carrying-Robot",
+    "page_url": "https://cepdnaclk.github.io/e15-3yp-Automated-Book-Management-System-Automated-Book-Carrying-Robot",
+    "team": {
+        "E/15/016": {
+            "name": "ANOJAN S.",
+            "email": "e15016@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/SugeAno",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/v1//people/students/E15/016"
+        },
+        "E/15/171": {
+            "name": "KAPILRAJH R.",
+            "email": "e15171@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Kapilrajh1996",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/v1//people/students/E15/171"
+        },
+        "E/15/351": {
+            "name": "THAKSHAJINI S.",
+            "email": "e15351@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Shayini",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/v1//people/students/E15/351"
+        }
+    },
+    "supervisors": [
+        {
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "linkedin_profile": "https://www.linkedin.com/in/roshanragel/",
+            "researchgate_profile": "https://www.researchgate.net/profile/Roshan-Ragel"
+        },
+        {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk"
+        }
+    ]
+}

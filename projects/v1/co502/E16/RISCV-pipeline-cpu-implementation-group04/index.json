@@ -1,0 +1,45 @@
+{
+    "title": "RISCV pipeline cpu implementation group04",
+    "description": "This is Advance Computer Architecture project of implementing Piplined Proccesor according to the RISC-V Instruction set",
+    "category": {
+        "title": "Advanced Computer Architecture (CO502)",
+        "code": "co502",
+        "api_url": "http://api.ce.pdn.ac.lk/v1//projects/v1/co502/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/co502/e16/RISCV-pipeline-cpu-implementation-group04",
+    "repo_url": "https://github.com/cepdnaclk/e16-co502-RISCV-pipeline-cpu-implementation-group04",
+    "page_url": "https://cepdnaclk.github.io/e16-co502-RISCV-pipeline-cpu-implementation-group04",
+    "team": {
+        "E/16/319": {
+            "name": "Vindula Rathnayake",
+            "email": "e16319@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/v1//people/students/E16/319"
+        },
+        "E/16/320": {
+            "name": "Subhash Rathnayke",
+            "email": "e16320@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/v1//people/students/E16/320"
+        }
+    },
+    "supervisors": [
+        {
+            "name": "Dr. Isuru Navinna",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "linkedin_profile": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+            "researchgate_profile": "https://www.researchgate.net/profile/Isuru-Nawinne"
+        },
+        {
+            "name": "Dr. Mahanama wickramasinghe",
+            "email": "mahanamaw@eng.pdn.ac.lk",
+            "linkedin_profile": "https://www.linkedin.com/in/mahanama"
+        }
+    ]
+}

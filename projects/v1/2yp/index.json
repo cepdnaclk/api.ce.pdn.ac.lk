@@ -1,0 +1,16 @@
+{
+    "code": "2yp",
+    "title": "Software Systems Projects",
+    "description": "Software systems designed and developed by second year Computer Engineering Students as part of coursework",
+    "type": "GENERAL",
+    "batches": {
+        "E14": {
+            "api_url": "http://api.ce.pdn.ac.lk/v1//projects/v1/2yp/E14/",
+            "project_count": 3
+        },
+        "E15": {
+            "api_url": "http://api.ce.pdn.ac.lk/v1//projects/v1/2yp/E15/",
+            "project_count": 2
+        }
+    }
+}

@@ -42,7 +42,7 @@
         {% if site.url %}
         const url = "{{ site.url }}{{ site.baseurl }}" + document.getElementById("swagger-section").getAttribute("data-url");
         {% else %}
-        const url = "http://localhost:4000/api.ce.pdn.ac.lk/" + document.getElementById("swagger-section").getAttribute("data-url");
+        const url = "http://localhost:4000/" + document.getElementById("swagger-section").getAttribute("data-url");
         {% endif %}
 
         const ui = SwaggerUIBundle({

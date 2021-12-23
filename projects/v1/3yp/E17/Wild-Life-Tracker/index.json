@@ -1,0 +1,53 @@
+{
+    "title": "Wild Life Tracker",
+    "description": "Wild life tracking system specially designed for researchers to study behaviors of wild animals remotely. ",
+    "category": {
+        "title": "Cyber-Physical Systems Projects",
+        "code": "3yp",
+        "api_url": "http://api.ce.pdn.ac.lk/v1//projects/v1/3yp/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/Wild-Life-Tracker",
+    "repo_url": "https://github.com/cepdnaclk/e17-3yp-Wild-Life-Tracker",
+    "page_url": "https://cepdnaclk.github.io/e17-3yp-Wild-Life-Tracker",
+    "team": {
+        "E/17/006": {
+            "name": "Alahakoon A.M.H.H",
+            "email": "e17006@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/v1//people/students/E17/006"
+        },
+        "E/17/176": {
+            "name": "Kumara W.M.E.S.K",
+            "email": "e17176@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/v1//people/students/E17/176"
+        },
+        "E/17/338": {
+            "name": "Srimal R.M.L.C",
+            "email": "e17338@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/v1//people/students/E17/338"
+        }
+    },
+    "supervisors": [
+        {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "linkedin_profile": "https://lk.linkedin.com/in/isuru-nawinne-73302833"
+        },
+        {
+            "name": "Dr. Mahanama Wikramasinghe",
+            "email": "mahanamaw@eng.pdn.ac.lk",
+            "linkedin_profile": "https://www.linkedin.com/in/mahanama"
+        }
+    ]
+}
