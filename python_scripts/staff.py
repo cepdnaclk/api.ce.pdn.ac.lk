@@ -12,11 +12,11 @@ import os
 import shutil
 
 # Where the API is available
-apiIndex = 'https://api.ce.pdn.ac.lk/v1/people'
+apiIndex = 'https://api.ce.pdn.ac.lk/people/v1/'
 # apiIndex = 'http://localhost:4001/people'
 
 # Where the data is available
-apiSource = 'https://cepdnaclk.github.io/people.ce.pdn.ac.lk/api/staff/'
+apiSource = 'https://people.ce.pdn.ac.lk/api/staff/'
 # apiSource = 'http://localhost:4000/people.ce.pdn.ac.lk/api/staff'
 
 # Split the email address into 2 fields

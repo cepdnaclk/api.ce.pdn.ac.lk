@@ -12,10 +12,10 @@ import os
 import shutil
 
 # Where the API is available
-apiIndex = 'https://api.ce.pdn.ac.lk/v1/people/'
+apiIndex = 'https://api.ce.pdn.ac.lk/people/v1/'
 
 # Where the data is available
-apiSource = 'https://cepdnaclk.github.io/people.ce.pdn.ac.lk/api/students/'
+apiSource = 'https://people.ce.pdn.ac.lk/api/students/'
 
 # Validate and format the registration number
 def validateRegNumber(regNumber):
