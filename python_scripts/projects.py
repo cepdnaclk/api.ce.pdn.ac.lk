@@ -12,7 +12,10 @@ import os
 import shutil
 
 # Where the API is available
-apiBase = "http://api.ce.pdn.ac.lk/v1/"
+apiBase = "http://api.ce.pdn.ac.lk"
+
+
+# Where the student data available
 studentSource = "../people/v1/students/all/index.json"
 
 # Where the project data available

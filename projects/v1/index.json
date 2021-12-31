@@ -5,7 +5,7 @@
         "description": "Research projects carried out by final year Computer Engineering students as part of coursework",
         "type": "GENERAL",
         "page_url": "https://projects.ce.pdn.ac.lk/4yp/",
-        "api_url": "http://api.ce.pdn.ac.lk/v1//projects/v1/4yp/"
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/"
     },
     "3yp": {
         "code": "3yp",
@@ -13,7 +13,7 @@
         "description": "Cyber-Physical Systems designed and implemented by 3rd year Computer Engineering Students as part of coursework. These projects contain modern embedded hardware and software, cloud-deployed web back-end/front-end software and modern networking and communication for integration",
         "type": "GENERAL",
         "page_url": "https://projects.ce.pdn.ac.lk/3yp/",
-        "api_url": "http://api.ce.pdn.ac.lk/v1//projects/v1/3yp/"
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/"
     },
     "2yp": {
         "code": "2yp",
@@ -21,7 +21,7 @@
         "description": "Software systems designed and developed by second year Computer Engineering Students as part of coursework",
         "type": "GENERAL",
         "page_url": "https://projects.ce.pdn.ac.lk/2yp/",
-        "api_url": "http://api.ce.pdn.ac.lk/v1//projects/v1/2yp/"
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/2yp/"
     },
     "co226": {
         "code": "co226",
@@ -29,7 +29,7 @@
         "description": "This section contains projects conducted as a partial requirement to complete the course CO226 - Database Systems. Usually, these projects are conducted by groups of 3 students. The course focuses on database systems and students are required to develop a database management system for the project",
         "type": "COURSE",
         "page_url": "https://projects.ce.pdn.ac.lk/co226/",
-        "api_url": "http://api.ce.pdn.ac.lk/v1//projects/v1/co226/"
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co226/"
     },
     "co326": {
         "code": "co326",
@@ -37,7 +37,7 @@
         "description": "This section contains projects conducted as a partial requirement to complete the course CO326. The timeline for the project is semester 6 (second semester of the third year) of the undergraduate. The main objective of this is to give students a hand on experience of Industrial Communication Networks.",
         "type": "COURSE",
         "page_url": "https://projects.ce.pdn.ac.lk/co326/",
-        "api_url": "http://api.ce.pdn.ac.lk/v1//projects/v1/co326/"
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co326/"
     },
     "co328": {
         "code": "co328",
@@ -45,7 +45,7 @@
         "description": "This section contains projects conducted as a partial requirement to complete the course CO328 - Software Engineering. Usually, these projects are conducted by groups of 3 students. The course focus on using software architectures and software project management experience.",
         "type": "COURSE",
         "page_url": "https://projects.ce.pdn.ac.lk/co328/",
-        "api_url": "http://api.ce.pdn.ac.lk/v1//projects/v1/co328/"
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/"
     },
     "co543": {
         "code": "co543",
@@ -53,7 +53,7 @@
         "description": "This section contains projects conducted as a partial requirement to complete the course CO543 - Image Processing",
         "type": "COURSE",
         "page_url": "https://projects.ce.pdn.ac.lk/co543/",
-        "api_url": "http://api.ce.pdn.ac.lk/v1//projects/v1/co543/"
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
     },
     "co542": {
         "code": "co542",
@@ -61,7 +61,7 @@
         "description": "This section contains projects conducted as a partial requirement to complete the course CO542 - Neural Networks and Fuzzy Systems",
         "type": "COURSE",
         "page_url": "https://projects.ce.pdn.ac.lk/co542/",
-        "api_url": "http://api.ce.pdn.ac.lk/v1//projects/v1/co542/"
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co542/"
     },
     "co502": {
         "code": "co502",
@@ -69,6 +69,6 @@
         "description": "This section contains projects conducted as a partial requirement to complete the course CO502 - Advanced Computer Architecture. The scope includes HDL implementations of modern computer processors based on ISAs such as RISC-V, caching, memory and assemblers.",
         "type": "COURSE",
         "page_url": "https://projects.ce.pdn.ac.lk/co502/",
-        "api_url": "http://api.ce.pdn.ac.lk/v1//projects/v1/co502/"
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co502/"
     }
 }
