@@ -27,11 +27,17 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Run the Python script
+      - name: Generate Project files
         run: |
           cd ./python_scripts
           python3 projects.py
+          cd ../
+
+      - name: Filter the Projects by Student ENumbers
+        run: |
+          cd ./python_scripts
           python3 projects_filters.py
+          cd ../
 
       - name: Commit and push into the main branch
         run: |
