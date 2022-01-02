@@ -90,6 +90,11 @@ def process_supervisors(data):
     # TODO: Process, validate, and add missing data from people APIs
     return data
 
+# Pre-process the tag data
+def process_tags(data):
+    # TODO: Process, validate and return
+    return data
+
 def process_publications(data):
     # TODO: process & validate
     pub = []
@@ -130,6 +135,14 @@ def project_details(page_url):
                             data['publications'] = publications
                 except Exception as e:
                     print('parse failed, publications; ' + url, e)
+
+                try:
+                    if 'tags' in proj_config:
+                        tags = process_tags(proj_config['tags'])
+                        if len(tags)>0:
+                            data['tags'] = tags
+                except Exception as e:
+                    print('parse failed, tags; ' + url, e)
 
                 # TODO: Add remaining parameters
             except:
