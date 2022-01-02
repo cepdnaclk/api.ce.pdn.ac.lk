@@ -31,6 +31,7 @@ jobs:
         run: |
           cd ./python_scripts
           python3 projects.py
+          python3 projects_filters.py
 
       - name: Commit and push into the main branch
         run: |

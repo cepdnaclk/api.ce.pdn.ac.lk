@@ -210,6 +210,7 @@ def write_categories(categories):
 
         output = {
             'code': code, 'title':title, 'description':description,
+            'thumb': 'https://projects.ce.pdn.ac.lk/data/categories/{0}/thumbnail.jpg'.format(code),
             'type':type, 'batches': sorted_data
         }
 
