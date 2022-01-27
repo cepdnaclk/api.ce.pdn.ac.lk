@@ -1,33 +1,38 @@
 {
     "eNumber": "E/14/009",
     "batch": "E14",
-    "department": "Computer",
-    "current_affiliation": "",
-    "honorific": "",
-    "full_name": "Hishan Adikari",
-    "name_with_initials": "",
+    "department": "Computer Engineering",
+    "current_affiliation": "Enactor Limited",
+    "honorific": "Mr.",
+    "full_name": "Adikari Mudiyanselage Hishan Indrajith Adikari",
+    "name_with_initials": "A. M. Hishan Indrajith Adikari",
     "preferred_short_name": "Hishan",
-    "preferred_long_name": "Hishan Adikari",
+    "preferred_long_name": "Hishan Indrajith",
     "emails": {
         "personal": {
-            "name": "",
-            "domain": ""
+            "name": "hishan.indrajith",
+            "domain": "gmail.com"
         },
         "faculty": {
-            "name": "e14009",
-            "domain": "ce.pdn.ac.lk"
+            "name": "hishan.indrajith.adikari",
+            "domain": "eng.pdn.ac.lk"
         }
     },
-    "location": "",
-    "interests": [],
+    "location": "Kurunegala, Sri Lanka",
+    "interests": [
+        "Programming",
+        "Sotware Architecture",
+        "Designing",
+        "Problem Solving"
+    ],
     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14009.jpg",
     "urls": {
-        "cv": "",
-        "website": "",
-        "linkedin": "",
-        "github": "",
-        "facebook": "",
+        "cv": "https://hishan.me/resume.pdf",
+        "website": "https://hishan.me",
+        "linkedin": "https://www.linkedin.com/in/hishan-indrajith",
+        "github": "https://github.com/HishanIndrajith",
+        "facebook": "https://www.facebook.com/hishan.indrajith",
         "researchgate": "",
-        "twitter": ""
+        "twitter": "https://twitter.com/Hishan95hia"
     }
 }
