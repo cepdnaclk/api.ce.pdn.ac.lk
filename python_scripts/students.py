@@ -31,9 +31,13 @@ def validateRegNumber(regNumber):
 
 
 def emailFilter(email):
-    if email != "":
-        words = email.split('@')
+    words = email.split('@')
+    # There could be something else than a email in that field
+    if len(words) == 2:
         return {'name': words[0], 'domain': words[1]}
+    elif len(words) > 0:
+        # if its something else. just send it as the name
+        return {'name': email, 'domain': ""}
     else:
         return {'name': "", 'domain': ""}
 
