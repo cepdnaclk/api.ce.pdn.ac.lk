@@ -1,0 +1,53 @@
+{
+    "title": "Embedded system for detecting adverse gases",
+    "description": "As we all know Kandy is the most polluted city in Sri Lanka. It's air has been polluted three times than the air in Colombo. There are many solutions have been taken in order to reduce the air pollution in city Kandy. But the thing is that non of them could not show better performance in giving solution for that problem. So that from our project we hope to provide most important information which may be significant when finding solutions for that problem. We may implement an embedded system from which temperature,humidity, and toxic gases (CO,CO2,NO2) may be measured using relavant sensors and from these measurements it will show locations and time where air pollution is high in Kandy city.",
+    "category": {
+        "title": "Cyber-Physical Systems Projects",
+        "code": "3yp",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/Embedded-system-for-detecting-adverse-gases",
+    "repo_url": "https://github.com/cepdnaclk/e15-3yp-Embedded-system-for-detecting-adverse-gases",
+    "page_url": "https://cepdnaclk.github.io/e15-3yp-Embedded-system-for-detecting-adverse-gases",
+    "team": {
+        "E/15/243": {
+            "name": "NISANSALA R.M.B.S.",
+            "email": "e15243@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/sewwandi-nisansala",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/students/E15/243"
+        },
+        "E/15/271": {
+            "name": "PRASADIKA L.B.S.",
+            "email": "e15271@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/sonaliprasadika",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/students/E15/271"
+        },
+        "E/15/180": {
+            "name": "KARUNATHILAKA V.M.B.S.S.V.",
+            "email": "supipivirajini@gmail.com",
+            "website": "",
+            "github": "https://github.com/Supipi96",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/students/E15/180"
+        }
+    },
+    "supervisors": [
+        {
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "linkedin_profile": "https://www.linkedin.com/in/roshanragel/",
+            "researchgate_profile": "https://www.researchgate.net/profile/Roshan-Ragel"
+        },
+        {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk"
+        }
+    ]
+}

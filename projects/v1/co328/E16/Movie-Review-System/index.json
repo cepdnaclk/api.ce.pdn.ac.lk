@@ -1,0 +1,39 @@
+{
+    "title": "Movie Review System",
+    "description": "",
+    "category": {
+        "title": "Software Engineering Projects (CO328)",
+        "code": "co328",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/co328/e16/Movie-Review-System",
+    "repo_url": "https://github.com/cepdnaclk/e16-co328-Movie-Review-System",
+    "page_url": "https://cepdnaclk.github.io/e16-co328-Movie-Review-System",
+    "team": {
+        "E/YY/XXX": {
+            "name": "Team Member Name 3",
+            "email": "email@eng.pdn.ac.lk",
+            "website": "#",
+            "github": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "api_url": "http://api.ce.pdn.ac.lk/people/students/EYY/XXX"
+        }
+    },
+    "supervisors": [
+        {
+            "name": "Dr. Supervisor 1",
+            "email": "email@eng.pdn.ac.lk",
+            "linkedin_profile": "#",
+            "researchgate_profile": "#",
+            "website": "#"
+        },
+        {
+            "name": "Supervisor 2",
+            "email": "email@eng.pdn.ac.lk",
+            "linkedin_profile": "#",
+            "researchgate_profile": "#",
+            "website": "#"
+        }
+    ]
+}

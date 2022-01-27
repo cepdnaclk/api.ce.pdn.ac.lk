@@ -1,0 +1,55 @@
+{
+    "title": "smart door lock",
+    "description": "This is a solution which can be used by the advanced security system users at their entrances. This Smart door lock consists of three main security features, RFID sensor, Fingerprint sensor and Face recognition. The collected data is sent to a database and the updated unlocking records will be displayed at the door. In addition, two IR sensors are placed on either side of the door to check the entrance of only one person at a time. All the records of authorized/unauthorized data will be available on the web application and three different admin roles are introduced to manage the web application.",
+    "category": {
+        "title": "Cyber-Physical Systems Projects",
+        "code": "3yp",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/smart-door-lock",
+    "repo_url": "https://github.com/cepdnaclk/e16-3yp-smart-door-lock",
+    "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-door-lock",
+    "team": {
+        "E/16/086": {
+            "name": "Dharmathilaka A.L.V.H.",
+            "email": "e16086@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/students/E16/086"
+        },
+        "E/16/156": {
+            "name": "Jayathilaka H.A.D.T.T.",
+            "email": "e16156@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/students/E16/156"
+        },
+        "E/16/223": {
+            "name": "Madushanki K.H.H.C",
+            "email": "e16223@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/students/E16/223"
+        }
+    },
+    "supervisors": [
+        {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "linkedin_profile": "#",
+            "researchgate_profile": "#"
+        },
+        {
+            "name": "Dr. Ziyan Maraikar ",
+            "email": "ziyanm@eng.pdn.ac.lk",
+            "linkedin_profile": "#",
+            "researchgate_profile": "#"
+        }
+    ]
+}

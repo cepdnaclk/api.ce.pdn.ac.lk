@@ -9,11 +9,14 @@
 import requests
 import json
 import os
+import shutil
 
 # Where the API is available
-apiBase = "https://cepdnaclk.github.io/api.ce.pdn.ac.lk"
-apiIndex = apiBase + "/projects/"
-studentSource = apiBase + "/people/students/all/"
+apiBase = "http://api.ce.pdn.ac.lk"
+
+
+# Where the student data available
+studentSource = "../people/v1/students/all/index.json"
 
 # Where the project data available
 apiSource = "https://projects.ce.pdn.ac.lk/api/"
@@ -25,14 +28,19 @@ pageSource = "https://cepdnaclk.github.io/"
 # If this is enabled, the individual project config files also fetch
 enable_deep_scan = True
 
+# Delete the existing files first
+def del_old_files():
+    dir_path = "../projects/v1/"
+    try:
+        shutil.rmtree(dir_path)
+    except:
+        print("Error: Folder Not Found!")
 
 def project_key(title):
     return title.replace(' ', '-')
 
-
 # Pre-process the team data
 def process_team(data):
-
     team = {}
 
     for person in data:
@@ -131,27 +139,27 @@ def project_details(page_url):
 
     return data
 
-# Write the /projects/all/index.json
+# Write the /projects/v1/all/index.json
 def write_all(categories):
     dict = {}
 
     # For each category
     for cat in categories:
         cat_name = title_to_code[cat]
-        url = apiBase + '/projects/' + cat_name + '/'
+        url = apiBase + '/projects/v1/' + cat_name + '/'
         category_count = len(categories[cat].keys())
 
         # For each batch
         for b in categories[cat]:
             batch = categories[cat][b]
-            batch_api = '{0}/projects/{1}/{2}/'.format(apiBase,cat_name,b)
+            batch_api = '{0}/projects/v1/{1}/{2}/'.format(apiBase,cat_name,b)
             proj_count = len(categories[cat][b].keys())
             proj = {}
 
             # For each project
             for p in batch:
                 proj_key = project_key(batch[p]['title'])
-                batch[p]['api_url'] = '{0}/projects/{1}/{2}/{3}/'.format(apiBase,cat_name,b,proj_key)
+                batch[p]['api_url'] = '{0}/projects/v1/{1}/{2}/{3}/'.format(apiBase,cat_name,b,proj_key)
                 proj[proj_key] = batch[p]
 
             categories[cat][b] = {
@@ -166,19 +174,19 @@ def write_all(categories):
             'batches': categories[cat]
         }
 
-    filename = "../projects/all/index.json"
+    filename = "../projects/v1/all/index.json"
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, "w") as f:
         f.write(json.dumps(dict, indent = 4))
 
-# Write the /projects/index.json
+# Write the /projects/v1/index.json
 def write_index(category_index, categories):
-    filename = "../projects/index.json"
+    filename = "../projects/v1/index.json"
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, "w") as f:
         f.write(json.dumps(category_index, indent = 4))
 
-# Write the /projects/{category}/index.json files
+# Write the /projects/v1/{category}/index.json files
 def write_categories(categories):
     for cat in categories:
         cat_name =  title_to_code[cat]
@@ -187,7 +195,7 @@ def write_categories(categories):
 
         # Generate the project list
         for batch in categories[cat]:
-            url =  '{0}/projects/{1}/{2}/'.format(apiBase,cat_name,batch)
+            url =  '{0}/projects/v1/{1}/{2}/'.format(apiBase,cat_name,batch)
             proj_count = len(categories[cat][batch].keys())
             data[batch] = { 'api_url': url, 'project_count': proj_count }
 
@@ -202,15 +210,16 @@ def write_categories(categories):
 
         output = {
             'code': code, 'title':title, 'description':description,
+            'thumb': 'https://projects.ce.pdn.ac.lk/data/categories/{0}/thumbnail.jpg'.format(code),
             'type':type, 'batches': sorted_data
         }
 
-        filename = "../projects/{0}/index.json".format(cat_name)
+        filename = "../projects/v1/{0}/index.json".format(cat_name)
         os.makedirs(os.path.dirname(filename), exist_ok=True)
         with open(filename, "w") as f:
             f.write(json.dumps(output, indent = 4))
 
-# Write the /projects/{category}/{batch}/index.json files
+# Write the /projects/v1/{category}/{batch}/index.json files
 def write_batches(categories):
     # For each category
     for cat in categories:
@@ -228,8 +237,8 @@ def write_batches(categories):
                 category_code = title_to_code[project['category']]
                 proj_name = project_key(project['title'])
 
-                api_url =  '{0}/projects/{1}/{2}/{3}/'.format(apiBase,cat_name,batch,proj_name)
-                category_api_url = '{0}/projects/{1}/'.format(apiBase,cat_name)
+                api_url =  '{0}/projects/v1/{1}/{2}/{3}/'.format(apiBase,cat_name,batch,proj_name)
+                category_api_url = '{0}/projects/v1/{1}/'.format(apiBase,cat_name)
 
                 data[proj] = {
                         'title': project['title'],
@@ -249,12 +258,12 @@ def write_batches(categories):
             for key in sorted(data):
                 sorted_data[key] = data[key]
 
-            filename = "../projects/{0}/{1}/index.json".format(cat_name,batch)
+            filename = "../projects/v1/{0}/{1}/index.json".format(cat_name,batch)
             os.makedirs(os.path.dirname(filename), exist_ok=True)
             with open(filename, "w") as f:
                 f.write(json.dumps(sorted_data, indent = 4))
 
-# Write the /projects/{category}/{batch}/{project}/index.json files
+# Write the /projects/v1/{category}/{batch}/{project}/index.json files
 def write_projects(categories):
     for cat in categories:
         print('_' + cat)
@@ -266,7 +275,7 @@ def write_projects(categories):
 
                 proj_name = project_key(raw_data['title'])
                 cat_code = title_to_code[raw_data['category']]
-                cat_api_url ='{0}/projects/{1}/'.format(apiBase,cat_code)
+                cat_api_url ='{0}/projects/v1/{1}/'.format(apiBase,cat_code)
 
                 data = {
                     'title': raw_data['title'],
@@ -290,7 +299,7 @@ def write_projects(categories):
                     # print(json.dumps(data, indent = 4))
                     # return
 
-                filename = "../projects/{0}/{1}/{2}/index.json".format(cat_code,batch,proj_name)
+                filename = "../projects/v1/{0}/{1}/{2}/index.json".format(cat_code,batch,proj_name)
                 os.makedirs(os.path.dirname(filename), exist_ok=True)
                 with open(filename, "w") as f:
                     f.write(json.dumps(data, indent = 4))
@@ -298,16 +307,17 @@ def write_projects(categories):
 
 # ------------------------------------------------------------------------------
 
+# Delete the existing files first
+del_old_files()
+
 category_index = {}
 categories = {}
 title_to_code = {} #  translate title to category code
 students = {}
 
-
 # Gather Student API data
-req_students = requests.get(studentSource)
-if req_students.status_code==200:
-    students = json.loads(req_students.text)
+student_file = open(studentSource)
+students = json.load(student_file)
 
 # Fetch category data from the people.ce.pdn.ac.lk
 req_category = requests.get(apiSource + "categories/")
@@ -321,7 +331,7 @@ if req_category.status_code==200:
         description = category['description']
 
         page = category['page_url']
-        api ='{0}/projects/{1}/'.format(apiBase,code)
+        api ='{0}/projects/v1/{1}/'.format(apiBase,code)
 
         category_index[code] = {
             'code':code, 'title':title, 'description':description,

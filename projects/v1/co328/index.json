@@ -1,0 +1,21 @@
+{
+    "code": "co328",
+    "title": "Software Engineering Projects (CO328)",
+    "description": "This section contains projects conducted as a partial requirement to complete the course CO328 - Software Engineering. Usually, these projects are conducted by groups of 3 students. The course focus on using software architectures and software project management experience.",
+    "thumb": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+    "type": "COURSE",
+    "batches": {
+        "E14": {
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E14/",
+            "project_count": 1
+        },
+        "E15": {
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E15/",
+            "project_count": 1
+        },
+        "E16": {
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E16/",
+            "project_count": 7
+        }
+    }
+}

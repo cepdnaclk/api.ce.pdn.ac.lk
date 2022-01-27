@@ -12,12 +12,11 @@ import os
 import shutil
 
 # Where the API is available
-apiIndex = 'https://cepdnaclk.github.io/api.ce.pdn.ac.lk/people'
-# apiIndex = 'http://localhost:4001/api.ce.pdn.ac.lk/people'
+apiIndex = 'https://api.ce.pdn.ac.lk/people/v1'
+# apiIndex = 'http://localhost:4001/people'
 
 # Where the data is available
-apiSource = 'https://cepdnaclk.github.io/people.ce.pdn.ac.lk/api/staff/'
-# apiSource = 'http://localhost:4000/people.ce.pdn.ac.lk/api/staff'
+apiSource = 'https://people.ce.pdn.ac.lk/api/staff/'
 
 # Split the email address into 2 fields
 def emailFilter(email):
@@ -29,11 +28,11 @@ def emailFilter(email):
 
 # Delete the existing files first
 def del_old_files():
-    dir_path = "../people/staff/"
+    dir_path = "../people/v1/staff/"
     try:
         shutil.rmtree(dir_path)
     except error as e:
-        print("Error: %s : %s" % (dir_path, e.strerror))
+        print("Error !")
 
 # Write the /staff/index.json
 def write_index(staff_list):
@@ -48,16 +47,16 @@ def write_index(staff_list):
             'designation':  raw['designation']
         }
 
-    filename = "../people/staff/index.json"
+    filename = "../people/v1/staff/index.json"
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, "w") as f:
         f.write(json.dumps(dict, indent = 4))
 
-# Write the /students/{batch}/index.json files
+# Write the /staff/{email}/index.json files
 def write_staff_pages(staff_list):
     for email in staff_list:
         raw_data = staff_list[email]
-        filename = "../people/staff/" + email + "/index.json"
+        filename = "../people/v1/staff/" + email + "/index.json"
         os.makedirs(os.path.dirname(filename), exist_ok=True)
         data = {
             'name': raw_data['name'],

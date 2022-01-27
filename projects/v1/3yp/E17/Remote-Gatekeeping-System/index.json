@@ -1,0 +1,57 @@
+{
+    "title": "Remote Gatekeeping System",
+    "description": "A system which manages human interactions securely with outsiders.",
+    "category": {
+        "title": "Cyber-Physical Systems Projects",
+        "code": "3yp",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/Remote-Gatekeeping-System",
+    "repo_url": "https://github.com/cepdnaclk/e17-3yp-Remote-Gatekeeping-System",
+    "page_url": "https://cepdnaclk.github.io/e17-3yp-Remote-Gatekeeping-System",
+    "team": {
+        "E/17/090": {
+            "name": "Achintha Harshamal",
+            "email": "e17090@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/students/E17/090"
+        },
+        "E/17/027": {
+            "name": "Pubudu Bandara",
+            "email": "e17027@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/students/E17/027"
+        },
+        "E/17/219": {
+            "name": "Ishara Nawarathna",
+            "email": "e17219@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/students/E17/219"
+        }
+    },
+    "supervisors": [
+        {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "linkedin_profile": "https://www.linkedin.com/in/isuru-nawinne-73302833/?originalSubdomain=lk",
+            "researchgate_profile": "https://www.researchgate.net/profile/Isuru-Nawinne",
+            "website": "#"
+        },
+        {
+            "name": "Dr. Mahanama Wickramasinghe",
+            "email": "mahanamaw@eng.pdn.ac.lk",
+            "linkedin_profile": "https://www.linkedin.com/in/mahanama",
+            "researchgate_profile": "#",
+            "website": "#"
+        }
+    ]
+}

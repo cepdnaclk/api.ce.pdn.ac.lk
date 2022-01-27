@@ -9,12 +9,13 @@
 import requests
 import json
 import os
+import shutil
 
 # Where the API is available
-apiIndex = 'https://cepdnaclk.github.io/api.ce.pdn.ac.lk/people/'
+apiIndex = 'https://api.ce.pdn.ac.lk/people/v1/'
 
 # Where the data is available
-apiSource = 'https://cepdnaclk.github.io/people.ce.pdn.ac.lk/api/students/'
+apiSource = 'https://people.ce.pdn.ac.lk/api/students/'
 
 # Validate and format the registration number
 
@@ -41,6 +42,14 @@ def emailFilter(email):
     else:
         return {'name': "", 'domain': ""}
 
+# Delete the existing files first
+def del_old_files():
+    dir_path = "../people/v1/students/"
+    try:
+        shutil.rmtree(dir_path)
+    except error as e:
+        print("Error!")
+
 # Write the /students/index.json
 
 
@@ -51,7 +60,7 @@ def write_index(batch_groups):
         count = len(batch_groups[batch].keys())
         dict[batch] = {'batch': batch, 'url': url, 'count': count}
 
-    filename = "../people/students/index.json"
+    filename = "../people/v1/students/index.json"
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, "w") as f:
         f.write(json.dumps(dict, indent=4))
@@ -61,7 +70,7 @@ def write_index(batch_groups):
 
 def write_batches(batch_groups):
     for batch in batch_groups:
-        filename = "../people/students/" + batch.upper() + "/index.json"
+        filename = "../people/v1/students/" + batch.upper() + "/index.json"
         os.makedirs(os.path.dirname(filename), exist_ok=True)
         data = {}
 
@@ -81,7 +90,7 @@ def write_students(batch, batch_group):
         eNumber = batch_group[student]['eNumber'].upper()
         regNumber = validateRegNumber(eNumber.split('/')[2])
 
-        filename = "../people/students/" + batch.upper() + "/" + regNumber + "/index.json"
+        filename = "../people/v1/students/" + batch.upper() + "/" + regNumber + "/index.json"
         os.makedirs(os.path.dirname(filename), exist_ok=True)
 
         # print(json.dumps(batch_group[student], indent = 4))
@@ -97,7 +106,7 @@ def write_all(batch_groups):
             eNumber = batch_groups[batch][student]['eNumber'].upper()
             data_all[eNumber] = batch_groups[batch][student]
 
-    filename = "../people/students/all/index.json"
+    filename = "../people/v1/students/all/index.json"
     os.makedirs(os.path.dirname(filename), exist_ok=True)
 
     # print(json.dumps(batch_groups[batch], indent = 4))
@@ -107,6 +116,10 @@ def write_all(batch_groups):
 
 
 # ------------------------------------------------------------------------------
+
+# Delete the existing files first
+del_old_files()
+
 r = requests.get(apiSource)
 batch_groups = {}
 

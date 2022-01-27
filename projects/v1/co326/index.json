@@ -1,0 +1,17 @@
+{
+    "code": "co326",
+    "title": "Industrial Automation Projects (CO326)",
+    "description": "This section contains projects conducted as a partial requirement to complete the course CO326. The timeline for the project is semester 6 (second semester of the third year) of the undergraduate. The main objective of this is to give students a hand on experience of Industrial Communication Networks.",
+    "thumb": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+    "type": "COURSE",
+    "batches": {
+        "E15": {
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co326/E15/",
+            "project_count": 1
+        },
+        "E16": {
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co326/E16/",
+            "project_count": 1
+        }
+    }
+}

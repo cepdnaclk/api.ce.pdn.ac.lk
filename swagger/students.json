@@ -10,7 +10,7 @@
     },
     "tags" : [ ],
     "paths" : {
-      "/people/students" : {
+      "/students" : {
         "get" : {
           "summary" : "Retuns a list of available batches",
           "description" : "",
@@ -27,7 +27,7 @@
           }
         }
       },
-      "/people/students/{batchId}" : {
+      "/students/{batchId}" : {
         "get" : {
           "summary" : "Student List",
           "description" : "Can get the list of ENumbers of the student in the specified batch",
@@ -53,7 +53,7 @@
           }
         }
       },
-      "/people/students/{batchId}/{regNumber}" : {
+      "/students/{batchId}/{regNumber}" : {
         "get" : {
           "summary" : "Student details",
           "description" : "Can obtain the details of a specific student by using this API",
@@ -109,12 +109,12 @@
         "example" : {
           "E15" : {
             "batch" : "E15",
-            "url" : "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/people/students/E15/",
+            "url" : "https://api.ce.pdn.ac.lk/people/v1/students/E15/",
             "count" : 60
           },
           "E14" : {
             "batch" : "E14",
-            "url" : "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/people/students/E14/",
+            "url" : "https://api.ce.pdn.ac.lk/people/v1/students/E14/",
             "count" : 62
           }
         }
@@ -270,14 +270,14 @@
         },
         "example" : {
           "E/15/000" : {
-            "url" : "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/people/students/E15/000"
+            "url" : "https://api.ce.pdn.ac.lk/people/v1/students/E15/000"
           },
           "E/15/999" : {
-            "url" : "https://cepdnaclk.github.io/api.ce.pdn.ac.lk/people/students/E15/999"
+            "url" : "https://api.ce.pdn.ac.lk/people/v1/students/E15/999"
           }
         }
       }
     },
-   "host":"cepdnaclk.github.io",
-   "basePath":"/api.ce.pdn.ac.lk/"
+   "host":"api.ce.pdn.ac.lk/",
+   "basePath":"people/v1/"
 }

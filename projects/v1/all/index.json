@@ -1,0 +1,1938 @@
+{
+    "Cyber-Physical Systems Projects": {
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/",
+        "batch_count": 4,
+        "batches": {
+            "E15": {
+                "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/",
+                "project_count": 20,
+                "projects": {
+                    "A-GUI-for-controlling-and-supervising-multiple-robots-remotely": {
+                        "title": "A GUI for controlling and supervising multiple robots remotely",
+                        "description": "The idea is to create a GUI platform where a user can give commands which is to be followed by some ground units in a remote location. The server can identify the starting locations of the robots and manipulate them to do the task in the most efficient way as possible.",
+                        "batch": "E15",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/A-GUI-for-controlling-and-supervising-multiple-robots-remotely",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely",
+                        "page_url": "https://cepdnaclk.github.io/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely",
+                        "data_url": "https://cepdnaclk.github.io/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/A-GUI-for-controlling-and-supervising-multiple-robots-remotely/"
+                    },
+                    "An-Efficient-System-For-Waste-Collection": {
+                        "title": "An Efficient System For Waste Collection",
+                        "description": "This Project aims to implement an Efficient Waste  Collection System in urban areas. Its is a very well known fact to the public that the waste collection in our country is done in a very primitive manner. ",
+                        "batch": "E15",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/An-Efficient-System-For-Waste-Collection",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-3yp-An-Efficient-System-For-Waste-Collection",
+                        "page_url": "https://cepdnaclk.github.io/e15-3yp-An-Efficient-System-For-Waste-Collection",
+                        "data_url": "https://cepdnaclk.github.io/e15-3yp-An-Efficient-System-For-Waste-Collection/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/An-Efficient-System-For-Waste-Collection/"
+                    },
+                    "An-automated-system-for-monitoring-and-controlling-the-water-supply-to-a-large-farmland": {
+                        "title": "An automated system for monitoring and controlling the water supply to a large farmland",
+                        "description": "This is a system for automatically controlling the amount of water flow in a soil field for maintaining the correct amount of water over it. The idea is to sense the amount of water using a device with an embedded system. The device has sensing elements where it measures the electrical conductivity and those results are used to estimate the amount of water the soil has. The system could be controlled by a controller/supervisor or it can be done in an automated way. The device will automatically switch off the water supplier when the highest level is reached and switch on the motor when the lowest level is reached.",
+                        "batch": "E15",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/An-automated-system-for-monitoring-and-controlling-the-water-supply-to-a-large-farmland",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-3yp-An-automated-system-for-monitoring-and-controlling-the-water-supply-to-a-large-farmland",
+                        "page_url": "https://cepdnaclk.github.io/e15-3yp-An-automated-system-for-monitoring-and-controlling-the-water-supply-to-a-large-farmland",
+                        "data_url": "https://cepdnaclk.github.io/e15-3yp-An-automated-system-for-monitoring-and-controlling-the-water-supply-to-a-large-farmland/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/An-automated-system-for-monitoring-and-controlling-the-water-supply-to-a-large-farmland/"
+                    },
+                    "Automated-Bike-Sharing-System": {
+                        "title": "Automated Bike Sharing System",
+                        "description": "This project is about building an automated bike sharing system for university. This will be a convenient way for transportation inside the university premises.",
+                        "batch": "E15",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/Automated-Bike-Sharing-System",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-3yp-Automated-Bike-Sharing-System",
+                        "page_url": "https://cepdnaclk.github.io/e15-3yp-Automated-Bike-Sharing-System",
+                        "data_url": "https://cepdnaclk.github.io/e15-3yp-Automated-Bike-Sharing-System/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/Automated-Bike-Sharing-System/"
+                    },
+                    "Automated-Book-Management-System-Automated-Book-Carrying-Robot": {
+                        "title": "Automated Book Management System Automated Book Carrying Robot",
+                        "description": "In libraries, We have planned to implement a book carrying robot to help the workers. Our embedded system will have Arduino, IR sensors, DC motors, power batteries and voltage regulator etc.",
+                        "batch": "E15",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/Automated-Book-Management-System-Automated-Book-Carrying-Robot",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-3yp-Automated-Book-Management-System-Automated-Book-Carrying-Robot",
+                        "page_url": "https://cepdnaclk.github.io/e15-3yp-Automated-Book-Management-System-Automated-Book-Carrying-Robot",
+                        "data_url": "https://cepdnaclk.github.io/e15-3yp-Automated-Book-Management-System-Automated-Book-Carrying-Robot/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/Automated-Book-Management-System-Automated-Book-Carrying-Robot/"
+                    },
+                    "Automated-Vehicle-Parking-System": {
+                        "title": "Automated Vehicle Parking System",
+                        "description": "Vehicle Parking areas usually have people who give printed tickets for parking. This consumes a lot of time and which causes a lot of traffic. Along with causing traffic and commotion, there is also a lot of paper litter outside the vehicle parking areas.As the number of vehicles are increasing, the problems faced by manual parking management system are also increasing. Such problems can be eliminated to some extent by implementing an intelligent parking system where the entry and exit of cars is monitored and payment is made easy with sensor technology.In order to avoid all of these, Automated Vehicle Parking System can be used. This project uses an RFID which can be swiped at the entrance.",
+                        "batch": "E15",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/Automated-Vehicle-Parking-System",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-3yp-Automated-Vehicle-Parking-System",
+                        "page_url": "https://cepdnaclk.github.io/e15-3yp-Automated-Vehicle-Parking-System",
+                        "data_url": "https://cepdnaclk.github.io/e15-3yp-Automated-Vehicle-Parking-System/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/Automated-Vehicle-Parking-System/"
+                    },
+                    "Automated-Water-Quality-Monitoring-System": {
+                        "title": "Automated Water Quality Monitoring System",
+                        "description": " Fresh water is finite resource need for agriculture,industry and human existence. Therefore the quality of water is very important.The objective of this project is to develop automated water quality monitoring system by using continues measurements of pH and turbidity measurement.Normal process is water samples are normally collected at regular period and do the analysis and this ask for larger time consumption.But in this project we hope to offer fast and easy monitoring of pH and turbidity levels with IoT applications for continues maintenance of clean water",
+                        "batch": "E15",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/Automated-Water-Quality-Monitoring-System",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-3yp-Automated-Water-Quality-Monitoring-System",
+                        "page_url": "https://cepdnaclk.github.io/e15-3yp-Automated-Water-Quality-Monitoring-System",
+                        "data_url": "https://cepdnaclk.github.io/e15-3yp-Automated-Water-Quality-Monitoring-System/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/Automated-Water-Quality-Monitoring-System/"
+                    },
+                    "Automatic-Door-Lock-System": {
+                        "title": "Automatic Door Lock System",
+                        "description": " Today, security has become the most important thing to be considered. People need a security system to prohibit unauthorized access to their property. Our target is to implement an automatic door lock system which allows the access only for authorized people. It helps to safeguard property from unauthorized people. ",
+                        "batch": "E15",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/Automatic-Door-Lock-System",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-3yp-Automatic-Door-Lock-System",
+                        "page_url": "https://cepdnaclk.github.io/e15-3yp-Automatic-Door-Lock-System",
+                        "data_url": "https://cepdnaclk.github.io/e15-3yp-Automatic-Door-Lock-System/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/Automatic-Door-Lock-System/"
+                    },
+                    "E-Checkup": {
+                        "title": "E Checkup",
+                        "description": "This project is about making an online interface for routine medical checkups. Usually people are not happy with standing in a queue or waiting a long time in the hospital to see the doctor as well as doctors also need a most efficient and effective way to examine their patients. Mostly in routine medical checkups doctor needs a data of several biometric parameters of patient\u2019s body. These data can be measured by some sensors and stored through our system.",
+                        "batch": "E15",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/E-Checkup",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-3yp-E-Checkup",
+                        "page_url": "https://cepdnaclk.github.io/e15-3yp-E-Checkup",
+                        "data_url": "https://cepdnaclk.github.io/e15-3yp-E-Checkup/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/E-Checkup/"
+                    },
+                    "Embedded-system-for-detecting-adverse-gases": {
+                        "title": "Embedded system for detecting adverse gases",
+                        "description": "As we all know Kandy is the most polluted city in Sri Lanka. It's air has been polluted three times than the air in Colombo. There are many solutions have been taken in order to reduce the air pollution in city Kandy. But the thing is that non of them could not show better performance in giving solution for that problem. So that from our project we hope to provide most important information which may be significant when finding solutions for that problem. We may implement an embedded system from which temperature,humidity, and toxic gases (CO,CO2,NO2) may be measured using relavant sensors and from these measurements it will show locations and time where air pollution is high in Kandy city.",
+                        "batch": "E15",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/Embedded-system-for-detecting-adverse-gases",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-3yp-Embedded-system-for-detecting-adverse-gases",
+                        "page_url": "https://cepdnaclk.github.io/e15-3yp-Embedded-system-for-detecting-adverse-gases",
+                        "data_url": "https://cepdnaclk.github.io/e15-3yp-Embedded-system-for-detecting-adverse-gases/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/Embedded-system-for-detecting-adverse-gases/"
+                    },
+                    "Fire-Detection-and-Alert-System": {
+                        "title": "Fire Detection and Alert System",
+                        "description": "In Sri Lanka also fire incidents have caused many life and property damages. In our project, we try to implement a practical solution to alert people before fire getting spread out so that people can minimize the damage caused by fire.",
+                        "batch": "E15",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/Fire-Detection-and-Alert-System",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-3yp-Fire-Detection-and-Alert-System",
+                        "page_url": "https://cepdnaclk.github.io/e15-3yp-Fire-Detection-and-Alert-System",
+                        "data_url": "https://cepdnaclk.github.io/e15-3yp-Fire-Detection-and-Alert-System/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/Fire-Detection-and-Alert-System/"
+                    },
+                    "Health-Watch": {
+                        "title": "Health Watch",
+                        "description": "Health Watch is a wrist band which monitors certain variables in the body, such as the heart rate, blood oxygen level and temperature",
+                        "batch": "E15",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/Health-Watch",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-3yp-Health-Watch",
+                        "page_url": "https://cepdnaclk.github.io/e15-3yp-Health-Watch",
+                        "data_url": "https://cepdnaclk.github.io/e15-3yp-Health-Watch/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/Health-Watch/"
+                    },
+                    "Hydroponics-Automation-System": {
+                        "title": "Hydroponics Automation System",
+                        "description": "Hydroponics is the method of growing plants in a nutrient-rich water-based environment which uses artificial lighting. This method is widely used in modern agriculture because of less space and conservation of water. But the main disadvantage of this system is the need of constant monitoring to get the maximum benefits from it.",
+                        "batch": "E15",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/Hydroponics-Automation-System",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-3yp-Hydroponics-Automation-System",
+                        "page_url": "https://cepdnaclk.github.io/e15-3yp-Hydroponics-Automation-System",
+                        "data_url": "https://cepdnaclk.github.io/e15-3yp-Hydroponics-Automation-System/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/Hydroponics-Automation-System/"
+                    },
+                    "Intelligent-Road-Traffic-Control-System": {
+                        "title": "Intelligent Road Traffic Control System",
+                        "description": "Vehicle travel across the world is increasing, especially in larger urban areas. It is a serious problem in traffic congestions in many major cities around the world and in these cities, it has become a nightmare for travelers. Intelligent control of traffic in the future will become a very important issue. Therefore, to better accommodation of this increasing demand, traffic control algorithms need to be simulated and optimized. ",
+                        "batch": "E15",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/Intelligent-Road-Traffic-Control-System",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-3yp-Intelligent-Road-Traffic-Control-System",
+                        "page_url": "https://cepdnaclk.github.io/e15-3yp-Intelligent-Road-Traffic-Control-System",
+                        "data_url": "https://cepdnaclk.github.io/e15-3yp-Intelligent-Road-Traffic-Control-System/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/Intelligent-Road-Traffic-Control-System/"
+                    },
+                    "Monitoring-and-Tracking-System-for-Transportation-of-Pharmaceuticals": {
+                        "title": "Monitoring and Tracking System for Transportation of Pharmaceuticals",
+                        "description": "",
+                        "batch": "E15",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/Monitoring-and-Tracking-System-for-Transportation-of-Pharmaceuticals",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-3yp-Monitoring-and-Tracking-System-for-Transportation-of-Pharmaceuticals",
+                        "page_url": "https://cepdnaclk.github.io/e15-3yp-Monitoring-and-Tracking-System-for-Transportation-of-Pharmaceuticals",
+                        "data_url": "https://cepdnaclk.github.io/e15-3yp-Monitoring-and-Tracking-System-for-Transportation-of-Pharmaceuticals/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/Monitoring-and-Tracking-System-for-Transportation-of-Pharmaceuticals/"
+                    },
+                    "Personal-Physical-Trainer-PPT": {
+                        "title": "Personal Physical Trainer PPT",
+                        "description": "Personal Physical Trainer is an innovation for physiotherapy. It creates an environment where the patients would be more willing to engage in physiotherapy   as well as it makes sure that patient would do the correct movements. This also allows the therapist to monitor the progress of his/hers patient and whether the patient carries out the necessary exercises.",
+                        "batch": "E15",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/Personal-Physical-Trainer-PPT",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-3yp-Personal-Physical-Trainer-PPT",
+                        "page_url": "https://cepdnaclk.github.io/e15-3yp-Personal-Physical-Trainer-PPT",
+                        "data_url": "https://cepdnaclk.github.io/e15-3yp-Personal-Physical-Trainer-PPT/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/Personal-Physical-Trainer-PPT/"
+                    },
+                    "Safer-Travel-Utility-SaVy": {
+                        "title": "Safer Travel Utility SaVy",
+                        "description": "Sri Lanka has the second highest road density in Asia in 2011 (173.8 km/km2). Although there are so many roads and buses in the road still people don\u2019t like to use public transportation very much. we feel, it\u2019s because public transportation is very unpredictable and sometimes, we have to wait hours and hours in bus stations waiting for a bus. It\u2019s so hard to find the right bus for the right location if you don\u2019t know the right route number. So, we feel this all happens due to the inefficiency and mismanagement of resources. So, our plan is to make a tracker management system for bus owners.",
+                        "batch": "E15",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/Safer-Travel-Utility-SaVy",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-3yp-Safer-Travel-Utility-SaVy",
+                        "page_url": "https://cepdnaclk.github.io/e15-3yp-Safer-Travel-Utility-SaVy",
+                        "data_url": "https://cepdnaclk.github.io/e15-3yp-Safer-Travel-Utility-SaVy/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/Safer-Travel-Utility-SaVy/"
+                    },
+                    "Smart-Educational-Management-System": {
+                        "title": "Smart Educational Management System",
+                        "description": "Smart Educational Management System (SEMS) is specially designed for schools, colleges and institutes to automate the institutional processes. Use of SEMS makes your institution eco-friendly as all data and your reports are stored on the server, the use of paper and files are necessary only when needed. Attendance of students can be marked by taking the fingerprint using a device with an embedded system. SEMS is very affordable and comes with no limits on the number of students, teachers and parent logins. This system is highly secured and the automation helps in reducing costs and brings a lot of savings for you.",
+                        "batch": "E15",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/Smart-Educational-Management-System",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-3yp-Smart-Educational-Management-System",
+                        "page_url": "https://cepdnaclk.github.io/e15-3yp-Smart-Educational-Management-System",
+                        "data_url": "https://cepdnaclk.github.io/e15-3yp-Smart-Educational-Management-System/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/Smart-Educational-Management-System/"
+                    },
+                    "Smart-Mirror": {
+                        "title": "Smart Mirror",
+                        "description": "This is an automated mirror which will identify a user and the display the to-do list of that relevant user. Further more this mirror can display the weather and the news too....",
+                        "batch": "E15",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/Smart-Mirror",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-3yp-Smart-Mirror",
+                        "page_url": "https://cepdnaclk.github.io/e15-3yp-Smart-Mirror",
+                        "data_url": "https://cepdnaclk.github.io/e15-3yp-Smart-Mirror/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/Smart-Mirror/"
+                    },
+                    "Smart-Monitoring-and-Automated-Controlling-System-for-an-Aquarium": {
+                        "title": "Smart Monitoring and Automated Controlling System for an Aquarium",
+                        "description": " In almost all the aquariums, the filtering of water is done manually by the operating officers. But by using this system, filtering of the aquarium's water can be done automatically which would increase the efficiency of an aquarium's working routine. Filtering of water can be done by measuring and analyzing the oxygen level of water so that there will be a sufficient amount of oxygen for the survival of aquatic animals and plants. Even though the system will be operated automatically, the user or the owner of the aquarium could check the aquarium's filtering process anytime he/she want as there is a web page connected to this system which is updating automatically when all the filtering activities are happening.",
+                        "batch": "E15",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/Smart-Monitoring-and-Automated-Controlling-System-for-an-Aquarium",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-3yp-Smart-Monitoring-and-Automated-Controlling-System-for-an-Aquarium",
+                        "page_url": "https://cepdnaclk.github.io/e15-3yp-Smart-Monitoring-and-Automated-Controlling-System-for-an-Aquarium",
+                        "data_url": "https://cepdnaclk.github.io/e15-3yp-Smart-Monitoring-and-Automated-Controlling-System-for-an-Aquarium/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/Smart-Monitoring-and-Automated-Controlling-System-for-an-Aquarium/"
+                    }
+                }
+            },
+            "E14": {
+                "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/",
+                "project_count": 20,
+                "projects": {
+                    "Air-Quality-Monitoring-system": {
+                        "title": "Air Quality Monitoring system",
+                        "description": "Monitoring and maintaining air quality and sound quality are most important aspects of city management. A significant proportion of the population lives in cities, where air quality index has exceeded limits for several air pollutants like - particulate matter (PM), ozone, nitrogen dioxide.The Noise pollution can cause hypertension, high stress levels, tinnitus, hearing loss, sleep disturbances, and other harmful effects.These pollution pose serious health and environment risks. Therefore air and sound quality monitoring system is an important component of any smart city.  So in this unified project we develop a system to monitor , forecast and reducing air pollution in a city through actionable data. the data will be received from gas sensors and the sound sensor. we are trying measure the data using this module in urban areas.  All those data taken from those sensors, are sent to a central server and processed there.if the permit levels are exceed Regulatory agencies or pollution control boards will be informed.and also person can see whether the city is suitable for living and what will be the future. they can get the information about Pollution Awareness.",
+                        "batch": "E14",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Air-Quality-Monitoring-system",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-3yp-Air-Quality-Monitoring-system",
+                        "page_url": "https://cepdnaclk.github.io/e14-3yp-Air-Quality-Monitoring-system",
+                        "data_url": "https://cepdnaclk.github.io/e14-3yp-Air-Quality-Monitoring-system/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Air-Quality-Monitoring-system/"
+                    },
+                    "Automated-Attendance-system": {
+                        "title": "Automated Attendance system",
+                        "description": " This project aims to automate the attendance procedure of an educational System using biometric technology. This replaces the traditional attendance marking methods to a fool Proof method.This will reduce the time spent in a lecture for attendance marking and increases the accuracy of the process.This will be a hand held device which is passed in the class while the lecture is going on. The students can simply place the finger over the sensor to mark the presence in their class.",
+                        "batch": "E14",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Automated-Attendance-system",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-3yp-Automated-Attendance-system",
+                        "page_url": "https://cepdnaclk.github.io/e14-3yp-Automated-Attendance-system",
+                        "data_url": "https://cepdnaclk.github.io/e14-3yp-Automated-Attendance-system/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Automated-Attendance-system/"
+                    },
+                    "Automated-Bike-Sharing-System": {
+                        "title": "Automated Bike Sharing System",
+                        "description": "As the most of the universities have wide area of land, transportation within the university causes time waste, accidents, congestion because of using the private vehicles, parking problems and the energy consumption related to the mobility of workers and students of the universities. The bicycle sharing programs have received increasing attention in recent years with initiatives to increase bike usage,better meet the demand of a more mobile public and lessen the environmental impacts of our transportation activities. So the project aims to introduce automated bike sharing system to minimize above impacts while evaluating the mobility patterns of academic campuses and assessing the energy consumption and pollutant emissions produced by the universities.",
+                        "batch": "E14",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Automated-Bike-Sharing-System",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-3yp-Automated-Bike-Sharing-System",
+                        "page_url": "https://cepdnaclk.github.io/e14-3yp-Automated-Bike-Sharing-System",
+                        "data_url": "https://cepdnaclk.github.io/e14-3yp-Automated-Bike-Sharing-System/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Automated-Bike-Sharing-System/"
+                    },
+                    "Automated-Electricity-Billing-System": {
+                        "title": "Automated Electricity Billing System",
+                        "description": "    In present world embedded systems have become essential as every electronic and electrical day to day devices use the particular system for it's functionality.     Here our target is to achieve an automated and centralized electricity billing system with more security and efficiency.  Functionalities of the new system          * Accurate meter reading     * Can get update about the connection frequently     * Digital display for customers     * Customer can identify the trend of usage of the electricity",
+                        "batch": "E14",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Automated-Electricity-Billing-System",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-3yp-Automated-Electricity-Billing-System",
+                        "page_url": "https://cepdnaclk.github.io/e14-3yp-Automated-Electricity-Billing-System",
+                        "data_url": "https://cepdnaclk.github.io/e14-3yp-Automated-Electricity-Billing-System/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Automated-Electricity-Billing-System/"
+                    },
+                    "Automated-Fishing-Bot": {
+                        "title": "Automated Fishing Bot",
+                        "description": " Fishery Industry has not always been friendly to fishermen. Identifying high density fishing areas, reaching there and spending hours to find and capture fish is just too much for a human being. Therefore, we are going to introduce a fishing bot. This bot will be able to handle above said difficulties and will help fishermen to expand fishing areas and monitor fishing information gathered which will eventually help the industry. ",
+                        "batch": "E14",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Automated-Fishing-Bot",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-3yp-Automated-Fishing-Bot",
+                        "page_url": "https://cepdnaclk.github.io/e14-3yp-Automated-Fishing-Bot",
+                        "data_url": "https://cepdnaclk.github.io/e14-3yp-Automated-Fishing-Bot/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Automated-Fishing-Bot/"
+                    },
+                    "Automated-Greenhouse-Fertilizing-System": {
+                        "title": "Automated Greenhouse Fertilizing System",
+                        "description": " This project aims to calculate the component(N , K , P) levels which are responsible for the growth of the plant in a real time basis and maintain the component level which is required for the relevant plant. Using this system we can increase the lifetime of a plant and can get the maximum harvest out of the plant.",
+                        "batch": "E14",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Automated-Greenhouse-Fertilizing-System",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-3yp-Automated-Greenhouse-Fertilizing-System",
+                        "page_url": "https://cepdnaclk.github.io/e14-3yp-Automated-Greenhouse-Fertilizing-System",
+                        "data_url": "https://cepdnaclk.github.io/e14-3yp-Automated-Greenhouse-Fertilizing-System/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Automated-Greenhouse-Fertilizing-System/"
+                    },
+                    "Automated-Monitoring-of-Hospital-Patients": {
+                        "title": "Automated Monitoring of Hospital Patients",
+                        "description": "This study develops a remote monitoring diagnostic framework to detect condition of patients in real-time which helps avoiding potential diseases.This system will be basically used in hospitals and medical centers. The proposed system has an embedded micro controller connected to a set of medical sensors (the sensors would differ according to the condition of the patient) and a wireless communication module (Bluetooth) . ",
+                        "batch": "E14",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Automated-Monitoring-of-Hospital-Patients",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-3yp-Automated-Monitoring-of-Hospital-Patients",
+                        "page_url": "https://cepdnaclk.github.io/e14-3yp-Automated-Monitoring-of-Hospital-Patients",
+                        "data_url": "https://cepdnaclk.github.io/e14-3yp-Automated-Monitoring-of-Hospital-Patients/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Automated-Monitoring-of-Hospital-Patients/"
+                    },
+                    "Automatic-Speed-Trap": {
+                        "title": "Automatic Speed Trap",
+                        "description": "In this project we are expected to track the vehicle speed and if there any vehicle that travelling with more than maximum speed allowed, take a clear photo of the specific vehicle and send that to authorities to take further action.",
+                        "batch": "E14",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Automatic-Speed-Trap",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-3yp-Automatic-Speed-Trap",
+                        "page_url": "https://cepdnaclk.github.io/e14-3yp-Automatic-Speed-Trap",
+                        "data_url": "https://cepdnaclk.github.io/e14-3yp-Automatic-Speed-Trap/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Automatic-Speed-Trap/"
+                    },
+                    "Bus-tracking-system": {
+                        "title": "Bus tracking system",
+                        "description": "A lot of people do not like to travel in crowded buses. We would love to travel sitting, sleeping. It will be very useful if there is a system to know whether the next bus on our route is full or not, to know the location of that bus, to know whether there are any alternative buses on route and etc. So we came up with a solution which is an embedded system and huge network of various devices.",
+                        "batch": "E14",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Bus-tracking-system",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-3yp-Bus-tracking-system",
+                        "page_url": "https://cepdnaclk.github.io/e14-3yp-Bus-tracking-system",
+                        "data_url": "https://cepdnaclk.github.io/e14-3yp-Bus-tracking-system/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Bus-tracking-system/"
+                    },
+                    "Control-System-for-Heliostat-Solar-Power-Plants": {
+                        "title": "Control System for Heliostat Solar Power Plants",
+                        "description": "This is a system which focus sunlight into a one point in a solar tower and heat up the salts in it upto higher temperatures and then use them to store heat energy and produce steam and generate electricity. These systems make it possible to supply power even when the sun is down because of the stored heat energy. In these power plants, array of flat movable mirrors called heliostats are used to focus sunlight into a collector tower to heat salts and generate electricity through steam turbines. This is seen as  a viable solution for renewable energy.",
+                        "batch": "E14",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Control-System-for-Heliostat-Solar-Power-Plants",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-3yp-Control-System-for-Heliostat-Solar-Power-Plants",
+                        "page_url": "https://cepdnaclk.github.io/e14-3yp-Control-System-for-Heliostat-Solar-Power-Plants",
+                        "data_url": "https://cepdnaclk.github.io/e14-3yp-Control-System-for-Heliostat-Solar-Power-Plants/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Control-System-for-Heliostat-Solar-Power-Plants/"
+                    },
+                    "Networked-and-Automated-Weather-Monitoring-and-Alerting-System": {
+                        "title": "Networked and Automated Weather Monitoring and Alerting System",
+                        "description": "In this unified project we develop a system that can be used to collect information from much many places allover Sri Lanka using an embedded system kept in those locations.",
+                        "batch": "E14",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Networked-and-Automated-Weather-Monitoring-and-Alerting-System",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-3yp-Networked-and-Automated-Weather-Monitoring-and-Alerting-System",
+                        "page_url": "https://cepdnaclk.github.io/e14-3yp-Networked-and-Automated-Weather-Monitoring-and-Alerting-System",
+                        "data_url": "https://cepdnaclk.github.io/e14-3yp-Networked-and-Automated-Weather-Monitoring-and-Alerting-System/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Networked-and-Automated-Weather-Monitoring-and-Alerting-System/"
+                    },
+                    "Real-Time-Water-Qualtiy-Measurement-System": {
+                        "title": "Real Time Water Qualtiy Measurement System",
+                        "description": "The system consists of several sensors located in remote locations to measure the water quality real time.",
+                        "batch": "E14",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Real-Time-Water-Qualtiy-Measurement-System",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-3yp-Real-Time-Water-Qualtiy-Measurement-System",
+                        "page_url": "https://cepdnaclk.github.io/e14-3yp-Real-Time-Water-Qualtiy-Measurement-System",
+                        "data_url": "https://cepdnaclk.github.io/e14-3yp-Real-Time-Water-Qualtiy-Measurement-System/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Real-Time-Water-Qualtiy-Measurement-System/"
+                    },
+                    "River-water-level-and-speed-monitoring-and-alert-system": {
+                        "title": "River water level and speed monitoring and alert system",
+                        "description": "This is a system that will monitor the water levels of a river/lake/stream and predicts the occurrence of a flood and generate an alert accordingly. This system would not only measure the water level but also the water velocity in order to give a better prediction of the risky situations.",
+                        "batch": "E14",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/River-water-level-and-speed-monitoring-and-alert-system",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-3yp-River-water-level-and-speed-monitoring-and-alert-system",
+                        "page_url": "https://cepdnaclk.github.io/e14-3yp-River-water-level-and-speed-monitoring-and-alert-system",
+                        "data_url": "https://cepdnaclk.github.io/e14-3yp-River-water-level-and-speed-monitoring-and-alert-system/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/River-water-level-and-speed-monitoring-and-alert-system/"
+                    },
+                    "Smart-Breathalyzer-Test": {
+                        "title": "Smart Breathalyzer Test",
+                        "description": "This project is mainly targeted for the Police Department in Sri Lanka. Our project is to innovate a digital alcohol meter equipment communicating with a secured database-system with a user friendly GUI.",
+                        "batch": "E14",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Smart-Breathalyzer-Test",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-3yp-Smart-Breathalyzer-Test",
+                        "page_url": "https://cepdnaclk.github.io/e14-3yp-Smart-Breathalyzer-Test",
+                        "data_url": "https://cepdnaclk.github.io/e14-3yp-Smart-Breathalyzer-Test/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Smart-Breathalyzer-Test/"
+                    },
+                    "Smart-Shopping-Cart": {
+                        "title": "Smart Shopping Cart",
+                        "description": "Trolleys are used in supermarket by customers in the modern world. but they remain in the same state without many improvements. Our target is to develop a smart trolley which satisfies all needful of customers.  ",
+                        "batch": "E14",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Smart-Shopping-Cart",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-3yp-Smart-Shopping-Cart",
+                        "page_url": "https://cepdnaclk.github.io/e14-3yp-Smart-Shopping-Cart",
+                        "data_url": "https://cepdnaclk.github.io/e14-3yp-Smart-Shopping-Cart/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Smart-Shopping-Cart/"
+                    },
+                    "Smart-Warehouse-Monitoring-for-Paddy-Storage": {
+                        "title": "Smart Warehouse Monitoring for Paddy Storage",
+                        "description": "Networked embedded systems have become  quite important nowadays, especially for monitoring and control of distance and dislocated objects. This concept is applied in many fields in today as it increases the accuracy rather than controlling manually.  Therefore we thought to implement a embedded system to monitor and control physical quantities of a rice paddy storage. Controlling such conditions precisely will ensure the best quality. This will helpful to the businessmen who having number of such stores in many locations as it is hard to control them manually. So by using this system they can operate it easily and being in any location.  This system can be used in storage by changing the desired physical quantities.",
+                        "batch": "E14",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Smart-Warehouse-Monitoring-for-Paddy-Storage",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-3yp-Smart-Warehouse-Monitoring-for-Paddy-Storage",
+                        "page_url": "https://cepdnaclk.github.io/e14-3yp-Smart-Warehouse-Monitoring-for-Paddy-Storage",
+                        "data_url": "https://cepdnaclk.github.io/e14-3yp-Smart-Warehouse-Monitoring-for-Paddy-Storage/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Smart-Warehouse-Monitoring-for-Paddy-Storage/"
+                    },
+                    "Smart-Waste-Disposal-Monitoring-System": {
+                        "title": "Smart Waste Disposal Monitoring System",
+                        "description": "Waste management is one of the primary problem that the world faces irrespective of the case of developed or developing country. The key issue in the waste management is that the garbage bin at public places gets overflowed well in advance before the commencement of the next cleaning process. Sometime the garbage collector truck not sufficient for collecting all the garbage. These in turn leads to various hazards such as bad odor & ugliness to that place which may be the root cause for spread of various diseases. Another issue is in the waste management is having more trucks and human resources than needed. To avoid all such hazardous scenario and maintain public cleanliness and health this work is mounted on a smart garbage system.  We are living in an age where tasks and systems are fusing together with the power of IOT to have a more efficient system of working and to execute jobs quickly! With all the power at our finger tips this is what we have come up with.       The traditional way of manually monitoring the wastes in waste bins is a cumbersome process and utilizes more human effort, time and cost which can easily be avoided with our present technologies. The main theme of the work is to develop a smart intelligent garbage alert system for a proper garbage management. What our system does is it gives a real time indicator of the garbage level in a trashcan at any given time using weight and volume (solar) sensors. Using that data and as the bins are containing GSM module we can give an alert signal to the municipal web server then optimize waste collection efficient routes, sufficient number of trucks and labors. It allows trash collectors to plan their daily/weekly pick up schedule.",
+                        "batch": "E14",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Smart-Waste-Disposal-Monitoring-System",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-3yp-Smart-Waste-Disposal-Monitoring-System",
+                        "page_url": "https://cepdnaclk.github.io/e14-3yp-Smart-Waste-Disposal-Monitoring-System",
+                        "data_url": "https://cepdnaclk.github.io/e14-3yp-Smart-Waste-Disposal-Monitoring-System/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Smart-Waste-Disposal-Monitoring-System/"
+                    },
+                    "Telepresence-Robot": {
+                        "title": "Telepresence Robot",
+                        "description": "A telepresence robot is a mobile, remote-controlled device that enables a person to be virtually present and to interact in a remote place. This project will be based upon developing such a robot for the department. With the use of interactive elements such as high definition audio and video, the robot will allow users (students/staff) to collaborate in person and remotely.",
+                        "batch": "E14",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Telepresence-Robot",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-3yp-Telepresence-Robot",
+                        "page_url": "https://cepdnaclk.github.io/e14-3yp-Telepresence-Robot",
+                        "data_url": "https://cepdnaclk.github.io/e14-3yp-Telepresence-Robot/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Telepresence-Robot/"
+                    },
+                    "Train-Movement-Tracking-and-Level-Crossing-Safety-Control": {
+                        "title": "Train Movement Tracking and Level Crossing Safety Control",
+                        "description": "Our project is to built a monitoring system for railways. We intend to develop a system which can monitor all the trains from any where.",
+                        "batch": "E14",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Train-Movement-Tracking-and-Level-Crossing-Safety-Control",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-3yp-Train-Movement-Tracking-and-Level-Crossing-Safety-Control",
+                        "page_url": "https://cepdnaclk.github.io/e14-3yp-Train-Movement-Tracking-and-Level-Crossing-Safety-Control",
+                        "data_url": "https://cepdnaclk.github.io/e14-3yp-Train-Movement-Tracking-and-Level-Crossing-Safety-Control/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Train-Movement-Tracking-and-Level-Crossing-Safety-Control/"
+                    },
+                    "sleep-apnea-detection": {
+                        "title": "sleep apnea detection",
+                        "description": "Non intrusive method for detecting sleep apnea in infants.",
+                        "batch": "E14",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/sleep-apnea-detection",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-3yp-sleep-apnea-detection",
+                        "page_url": "https://cepdnaclk.github.io/e14-3yp-sleep-apnea-detection",
+                        "data_url": "https://cepdnaclk.github.io/e14-3yp-sleep-apnea-detection/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/sleep-apnea-detection/"
+                    }
+                }
+            },
+            "E17": {
+                "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/",
+                "project_count": 20,
+                "projects": {
+                    "Covid-Tracer": {
+                        "title": "Covid Tracer",
+                        "description": "Fully Autonomous Covid19 Tracking System https://cepdnaclk.github.io/e17-3yp-Covid-Tracer",
+                        "batch": "E17",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/Covid-Tracer",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-3yp-Covid-Tracer",
+                        "page_url": "https://cepdnaclk.github.io/e17-3yp-Covid-Tracer",
+                        "data_url": "https://cepdnaclk.github.io/e17-3yp-Covid-Tracer/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Covid-Tracer/"
+                    },
+                    "E-Parking-System": {
+                        "title": "E Parking System",
+                        "description": "An autonomous system for assigning and managing parking spots and payments in a car park. https://cepdnaclk.github.io/e17-3yp-E-Parking-System/",
+                        "batch": "E17",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/E-Parking-System",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-3yp-E-Parking-System",
+                        "page_url": "https://cepdnaclk.github.io/e17-3yp-E-Parking-System",
+                        "data_url": "https://cepdnaclk.github.io/e17-3yp-E-Parking-System/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/E-Parking-System/"
+                    },
+                    "Landmine-Detector": {
+                        "title": "Landmine Detector",
+                        "description": "3rd Year Cyber-Physical Systems Project on detecting land mines.",
+                        "batch": "E17",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/Landmine-Detector",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-3yp-Landmine-Detector",
+                        "page_url": "https://cepdnaclk.github.io/e17-3yp-Landmine-Detector",
+                        "data_url": "https://cepdnaclk.github.io/e17-3yp-Landmine-Detector/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Landmine-Detector/"
+                    },
+                    "Milk-Testing-and-Collecting-System": {
+                        "title": "Milk Testing and Collecting System",
+                        "description": "cyber physical project to develop milk collecting process.",
+                        "batch": "E17",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/Milk-Testing-and-Collecting-System",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-3yp-Milk-Testing-and-Collecting-System",
+                        "page_url": "https://cepdnaclk.github.io/e17-3yp-Milk-Testing-and-Collecting-System",
+                        "data_url": "https://cepdnaclk.github.io/e17-3yp-Milk-Testing-and-Collecting-System/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Milk-Testing-and-Collecting-System/"
+                    },
+                    "Remote-Gatekeeping-System": {
+                        "title": "Remote Gatekeeping System",
+                        "description": "A system which manages human interactions securely with outsiders.",
+                        "batch": "E17",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/Remote-Gatekeeping-System",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-3yp-Remote-Gatekeeping-System",
+                        "page_url": "https://cepdnaclk.github.io/e17-3yp-Remote-Gatekeeping-System",
+                        "data_url": "https://cepdnaclk.github.io/e17-3yp-Remote-Gatekeeping-System/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Remote-Gatekeeping-System/"
+                    },
+                    "Secure-Food-Delivery": {
+                        "title": "Secure Food Delivery",
+                        "description": "Secure Food Delivery is a system that will help users to get delivered their ordered foods securely. Also, it will privilege for sellers to gain their success by growing the trust in users' minds.",
+                        "batch": "E17",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/Secure-Food-Delivery",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-3yp-Secure-Food-Delivery",
+                        "page_url": "https://cepdnaclk.github.io/e17-3yp-Secure-Food-Delivery",
+                        "data_url": "https://cepdnaclk.github.io/e17-3yp-Secure-Food-Delivery/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Secure-Food-Delivery/"
+                    },
+                    "Smart-Cradle": {
+                        "title": "Smart Cradle",
+                        "description": "An automated cradle which is controlled by a mobile application.",
+                        "batch": "E17",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/Smart-Cradle",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-3yp-Smart-Cradle",
+                        "page_url": "https://cepdnaclk.github.io/e17-3yp-Smart-Cradle",
+                        "data_url": "https://cepdnaclk.github.io/e17-3yp-Smart-Cradle/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Smart-Cradle/"
+                    },
+                    "Smart-Locker": {
+                        "title": "Smart Locker",
+                        "description": "",
+                        "batch": "E17",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/Smart-Locker",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-3yp-Smart-Locker",
+                        "page_url": "https://cepdnaclk.github.io/e17-3yp-Smart-Locker",
+                        "data_url": "https://cepdnaclk.github.io/e17-3yp-Smart-Locker/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Smart-Locker/"
+                    },
+                    "Smart-Pet-Feeder": {
+                        "title": "Smart Pet Feeder",
+                        "description": "Smart Pet Feeder is a product that helps you to take care of your pets. It will help you to build the relationship with your pet better and better even you are not in the home. Have you ever been worried about your pet's meals when you are away from your pet? Smart pet feeder provide the platform to come up with this problem",
+                        "batch": "E17",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/Smart-Pet-Feeder",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-3yp-Smart-Pet-Feeder",
+                        "page_url": "https://cepdnaclk.github.io/e17-3yp-Smart-Pet-Feeder",
+                        "data_url": "https://cepdnaclk.github.io/e17-3yp-Smart-Pet-Feeder/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Smart-Pet-Feeder/"
+                    },
+                    "Smart-Pour": {
+                        "title": "Smart Pour",
+                        "description": "'Smart Pour' is an automated coffee machine that can be controlled through a mobile application. This will contain features like coffee scheduling, ingredient tracking and coffee customizing etc.",
+                        "batch": "E17",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/Smart-Pour",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-3yp-Smart-Pour",
+                        "page_url": "https://cepdnaclk.github.io/e17-3yp-Smart-Pour",
+                        "data_url": "https://cepdnaclk.github.io/e17-3yp-Smart-Pour/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Smart-Pour/"
+                    },
+                    "Wild-Life-Tracker": {
+                        "title": "Wild Life Tracker",
+                        "description": "Wild life tracking system specially designed for researchers to study behaviors of wild animals remotely. ",
+                        "batch": "E17",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/Wild-Life-Tracker",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-3yp-Wild-Life-Tracker",
+                        "page_url": "https://cepdnaclk.github.io/e17-3yp-Wild-Life-Tracker",
+                        "data_url": "https://cepdnaclk.github.io/e17-3yp-Wild-Life-Tracker/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Wild-Life-Tracker/"
+                    },
+                    "maker-mate": {
+                        "title": "maker mate",
+                        "description": "3rd year Embedded systems & Software project by @Thilini98, @thanujan96 and @DrMadhushan",
+                        "batch": "E17",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/maker-mate",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-3yp-maker-mate",
+                        "page_url": "https://cepdnaclk.github.io/e17-3yp-maker-mate",
+                        "data_url": "https://cepdnaclk.github.io/e17-3yp-maker-mate/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/maker-mate/"
+                    },
+                    "remote-billiard": {
+                        "title": "remote billiard",
+                        "description": "Remote-Billiard is a project which provides usual Billiard game experience via online platform.Not all the players could be in the same place to play a billiard game now a days. Project Remote-Billiard solves this problem. Players can play their game physically at their own places individually.",
+                        "batch": "E17",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/remote-billiard",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-3yp-remote-billiard",
+                        "page_url": "https://cepdnaclk.github.io/e17-3yp-remote-billiard",
+                        "data_url": "https://cepdnaclk.github.io/e17-3yp-remote-billiard/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/remote-billiard/"
+                    },
+                    "remote-keyboard-tutoring-system": {
+                        "title": "remote keyboard tutoring system",
+                        "description": "The Remote Keyboard Tutoring System is a web-based system that can be attached to any (electronic) keyboard synthesizer through a MIDI connector. Once our system is connected to the keyboard, the user can interactively learn, play or teach in combination with the web application that we provide.",
+                        "batch": "E17",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/remote-keyboard-tutoring-system",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-3yp-remote-keyboard-tutoring-system",
+                        "page_url": "https://cepdnaclk.github.io/e17-3yp-remote-keyboard-tutoring-system",
+                        "data_url": "https://cepdnaclk.github.io/e17-3yp-remote-keyboard-tutoring-system/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/remote-keyboard-tutoring-system/"
+                    },
+                    "remote-medical-diagnostics": {
+                        "title": "remote medical diagnostics",
+                        "description": "An online platform combined with a convenient medical diagnostic device where patients can meet doctors and get diagnosed at the comfort of their home.",
+                        "batch": "E17",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/remote-medical-diagnostics",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-3yp-remote-medical-diagnostics",
+                        "page_url": "https://cepdnaclk.github.io/e17-3yp-remote-medical-diagnostics",
+                        "data_url": "https://cepdnaclk.github.io/e17-3yp-remote-medical-diagnostics/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/remote-medical-diagnostics/"
+                    },
+                    "remote-proctoring-system": {
+                        "title": "remote proctoring system",
+                        "description": "A smart proctoring device which can be controlled remotely by an authorized person.",
+                        "batch": "E17",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/remote-proctoring-system",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-3yp-remote-proctoring-system",
+                        "page_url": "https://cepdnaclk.github.io/e17-3yp-remote-proctoring-system",
+                        "data_url": "https://cepdnaclk.github.io/e17-3yp-remote-proctoring-system/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/remote-proctoring-system/"
+                    },
+                    "smart-apartment-security-system": {
+                        "title": "smart apartment security system",
+                        "description": "Smart Apartment Security System is a security system which can be used for houses in an apartment.",
+                        "batch": "E17",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/smart-apartment-security-system",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-3yp-smart-apartment-security-system",
+                        "page_url": "https://cepdnaclk.github.io/e17-3yp-smart-apartment-security-system",
+                        "data_url": "https://cepdnaclk.github.io/e17-3yp-smart-apartment-security-system/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/smart-apartment-security-system/"
+                    },
+                    "smart-garbage-collection": {
+                        "title": "smart garbage collection",
+                        "description": "Smart garbage collection system provides a platform to manage garbage collecting in a large area with proper coordination between the responsible authorities and the workers assigned to collect garbage while utilizing the available resources effectively. And also general public who are in need of a proper system to dispose garbage will be benefited by the system. The system can be implemented in cities, and any large public areas and it will make a high positive impact on public health & environment as well. ",
+                        "batch": "E17",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/smart-garbage-collection",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-3yp-smart-garbage-collection",
+                        "page_url": "https://cepdnaclk.github.io/e17-3yp-smart-garbage-collection",
+                        "data_url": "https://cepdnaclk.github.io/e17-3yp-smart-garbage-collection/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/smart-garbage-collection/"
+                    },
+                    "smart-home": {
+                        "title": "smart home",
+                        "description": "",
+                        "batch": "E17",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/smart-home",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-3yp-smart-home",
+                        "page_url": "https://cepdnaclk.github.io/e17-3yp-smart-home",
+                        "data_url": "https://cepdnaclk.github.io/e17-3yp-smart-home/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/smart-home/"
+                    },
+                    "smart-shopping-cart": {
+                        "title": "smart shopping cart",
+                        "description": "Many people like shopping but the main problem is the time take for the billing. We like to solve this problem. In this case, we like to introduce a device that can do all billing work so that there is no need to wait for billing. they can buy things and pay themselves. developed by @Piriyaraj, @Rilwan292, and @Kavinaya12 https://cepdnaclk.github.io/e17-3yp-smart-shopping-cart/",
+                        "batch": "E17",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/smart-shopping-cart",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-3yp-smart-shopping-cart",
+                        "page_url": "https://cepdnaclk.github.io/e17-3yp-smart-shopping-cart",
+                        "data_url": "https://cepdnaclk.github.io/e17-3yp-smart-shopping-cart/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/smart-shopping-cart/"
+                    }
+                }
+            },
+            "E16": {
+                "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/",
+                "project_count": 20,
+                "projects": {
+                    "agribot": {
+                        "title": "agribot",
+                        "description": "Autonomous Agricultural Robot",
+                        "batch": "E16",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/agribot",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-3yp-agribot",
+                        "page_url": "https://cepdnaclk.github.io/e16-3yp-agribot",
+                        "data_url": "https://cepdnaclk.github.io/e16-3yp-agribot/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/agribot/"
+                    },
+                    "automated-railway-ticketing-system": {
+                        "title": "automated railway ticketing system",
+                        "description": "The project is to replace currently available manual methods by an 'Automated Method'. To check the entrance & exit, an automatic gate & a swipe card has introduced. Class will be updated using introduced 'Handheld Device'. In this project we have introduced online banking facilities as well. we hope to develop this project further. To see all the activities, the 'User Portal' has introduced.    ",
+                        "batch": "E16",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/automated-railway-ticketing-system",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-3yp-automated-railway-ticketing-system",
+                        "page_url": "https://cepdnaclk.github.io/e16-3yp-automated-railway-ticketing-system",
+                        "data_url": "https://cepdnaclk.github.io/e16-3yp-automated-railway-ticketing-system/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/automated-railway-ticketing-system/"
+                    },
+                    "automatic-fish-tank-control-system": {
+                        "title": "automatic fish tank control system",
+                        "description": "This is a third-year project by a group of students. Here we are developing a fish tank controlling device with a web app.",
+                        "batch": "E16",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/automatic-fish-tank-control-system",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-3yp-automatic-fish-tank-control-system",
+                        "page_url": "https://cepdnaclk.github.io/e16-3yp-automatic-fish-tank-control-system",
+                        "data_url": "https://cepdnaclk.github.io/e16-3yp-automatic-fish-tank-control-system/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/automatic-fish-tank-control-system/"
+                    },
+                    "chessMATE": {
+                        "title": "chessMATE",
+                        "description": "The project \u201cchessMATE\u201d provides the grand usual chess board experience through an online platform. Chess is one of the most popular and oldest board games and most chess players are more likely to play chess on a physical chessboard rather than on a mobile or desktop screen. Project chessMATE resolves the main issues faced by the online chess players by providing an electronically powered chessboard and mobile app so that distant players can connect and play on actual chessboards. Game live streaming option and chess tutorials are included in the mobile app. Board vs board, app vs board and app vs app are the available game modes in chessMATE.",
+                        "batch": "E16",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/chessMATE",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-3yp-chessMATE",
+                        "page_url": "https://cepdnaclk.github.io/e16-3yp-chessMATE",
+                        "data_url": "https://cepdnaclk.github.io/e16-3yp-chessMATE/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/chessMATE/"
+                    },
+                    "computerized-timetabling-and-attendance-marking-system": {
+                        "title": "computerized timetabling and attendance marking system",
+                        "description": "This project is about creating a modern attendance marking system that is suitable for today's world. In parallel with the attendance marking system, a fully-fledged timetable managing and lecture reminding system is developed. The system consists of a website, hardware device, and mobile app. The website is for the students, lecturers, and administration. Key features of the website are timetable management, attendance, course registration, and registration.  The hardware device is used to mark the attendance with fingerprint and RFID cards and setting the lecture room. The mobile app is used by the students to see lecture reminding and attendance marking notifications, timetable, and attendance.",
+                        "batch": "E16",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/computerized-timetabling-and-attendance-marking-system",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-3yp-computerized-timetabling-and-attendance-marking-system",
+                        "page_url": "https://cepdnaclk.github.io/e16-3yp-computerized-timetabling-and-attendance-marking-system",
+                        "data_url": "https://cepdnaclk.github.io/e16-3yp-computerized-timetabling-and-attendance-marking-system/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/computerized-timetabling-and-attendance-marking-system/"
+                    },
+                    "digital-signage-based-user-targeted-advertising": {
+                        "title": "digital signage based user targeted advertising",
+                        "description": "Digital signage based user targeted advertising is a novel approach for the signage and advertising industry. Digital signage is the best mode of advertising today. This project has enhanced the digital signages by adding a special feature which is user targeted advertising.  System analyses the users in front of the screen with their gender and age and best matching advertisement is displayed according to those criteria . This system promotes right product for the right customer. So, it is believed that this concept will be a massive step in marketing section of a business.  And , it is expected that this product will be a good solution for the expensive digital signage solutions in Sri Lanka. This product is designed with minimum cost and still keeping a good quality. Small and middle level business entities who are struggling to improve their sales  are the main target of this product.",
+                        "batch": "E16",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/digital-signage-based-user-targeted-advertising",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-3yp-digital-signage-based-user-targeted-advertising",
+                        "page_url": "https://cepdnaclk.github.io/e16-3yp-digital-signage-based-user-targeted-advertising",
+                        "data_url": "https://cepdnaclk.github.io/e16-3yp-digital-signage-based-user-targeted-advertising/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/digital-signage-based-user-targeted-advertising/"
+                    },
+                    "full-body-motion-tracking-system": {
+                        "title": "full body motion tracking system",
+                        "description": "This is a online multiplayer first person shooter game that combines traditional multiplayer shooter gaming experience with virtual reality to create an ultimate immersive gaming experience.",
+                        "batch": "E16",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/full-body-motion-tracking-system",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-3yp-full-body-motion-tracking-system",
+                        "page_url": "https://cepdnaclk.github.io/e16-3yp-full-body-motion-tracking-system",
+                        "data_url": "https://cepdnaclk.github.io/e16-3yp-full-body-motion-tracking-system/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/full-body-motion-tracking-system/"
+                    },
+                    "gas-level-indicator-and-leakage-detector": {
+                        "title": "gas level indicator and leakage detector",
+                        "description": "LP gas tank users face various difficulties because of not having a precise way to find the remaining gas amount in the tank. To overcome those problems with some protection, we are introducing the gas level indicator and leakage detector. Gas Level Indicator and Leakage Detector is a system aimed at LP gas tank users and distributors, consisting of two main areas; a gas level indicator and a gas leakage detector. To indicate gas level, the device display and the mobile/web application will be updated in real-time, displaying the current existing gas percentage in the tank. For gas leakage detection, a buzzer will alarm the user about it while sending a notification to the mobile/web application.",
+                        "batch": "E16",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/gas-level-indicator-and-leakage-detector",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-3yp-gas-level-indicator-and-leakage-detector",
+                        "page_url": "https://cepdnaclk.github.io/e16-3yp-gas-level-indicator-and-leakage-detector",
+                        "data_url": "https://cepdnaclk.github.io/e16-3yp-gas-level-indicator-and-leakage-detector/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/gas-level-indicator-and-leakage-detector/"
+                    },
+                    "obstacle-bots-for-swarm-robots": {
+                        "title": "obstacle bots for swarm robots",
+                        "description": "Obstacle bots for the existing swarm research project of the  Department of Computer Engineering, University of Peradeniya. Robots are localized with an overhead camera set up in order to create very challenging patterns using movements in a self-created potential surface with collision-avoiding algorithms on optimized stochastic gradient descent and particle repulsion theory.",
+                        "batch": "E16",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/obstacle-bots-for-swarm-robots",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-3yp-obstacle-bots-for-swarm-robots",
+                        "page_url": "https://cepdnaclk.github.io/e16-3yp-obstacle-bots-for-swarm-robots",
+                        "data_url": "https://cepdnaclk.github.io/e16-3yp-obstacle-bots-for-swarm-robots/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/obstacle-bots-for-swarm-robots/"
+                    },
+                    "qurantine-tracker": {
+                        "title": "qurantine tracker",
+                        "description": "The idea is about to provide a comfortable and easy tracking option for a user to track a person under home quarantine due to the current pandemic situation by tracking their location. The user will be marking a geo fence when they register a new person under quarantine so the user will be notified if the fencing rules are violated. Apart from this the device will be measuring the body temperature of the person, so if he start showing symptoms(fever) of Covid 19, then the user can take necessary actions regarding the person's health. ",
+                        "batch": "E16",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/qurantine-tracker",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-3yp-qurantine-tracker",
+                        "page_url": "https://cepdnaclk.github.io/e16-3yp-qurantine-tracker",
+                        "data_url": "https://cepdnaclk.github.io/e16-3yp-qurantine-tracker/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/qurantine-tracker/"
+                    },
+                    "smart-door-lock": {
+                        "title": "smart door lock",
+                        "description": "This is a solution which can be used by the advanced security system users at their entrances. This Smart door lock consists of three main security features, RFID sensor, Fingerprint sensor and Face recognition. The collected data is sent to a database and the updated unlocking records will be displayed at the door. In addition, two IR sensors are placed on either side of the door to check the entrance of only one person at a time. All the records of authorized/unauthorized data will be available on the web application and three different admin roles are introduced to manage the web application.",
+                        "batch": "E16",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/smart-door-lock",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-3yp-smart-door-lock",
+                        "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-door-lock",
+                        "data_url": "https://cepdnaclk.github.io/e16-3yp-smart-door-lock/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-door-lock/"
+                    },
+                    "smart-infared-shooting-sport": {
+                        "title": "smart infared shooting sport",
+                        "description": "The purpose of this project was to design, build, and test an infrared shooting sport from the ground up to shoot farther in low cost and most importantly make it smart and updatable",
+                        "batch": "E16",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/smart-infared-shooting-sport",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-3yp-smart-infared-shooting-sport",
+                        "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-infared-shooting-sport",
+                        "data_url": "https://cepdnaclk.github.io/e16-3yp-smart-infared-shooting-sport/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-infared-shooting-sport/"
+                    },
+                    "smart-meeting-automaton": {
+                        "title": "smart meeting automaton",
+                        "description": "Smart Meeting Automaton is a revolutionary idea of controlling devices automatically within a meeting room. In most of our day-to-day life, we have experienced that air conditioners, projectors are working unnecessarily even without a presence of a meeting and sometimes those devices should be controlled with a human involvement using several types of remote controllers which is really an inefficient way. Our approach to that matter is automating this process introducing a control unit per each meeting room and a client application. Client application is basically used for scheduling meetings and meeting room configurations that data related to air conditioners and projectors is set. Control unit in meeting room sends required signals to turn on/off devices according to the schedules added to the system by the client application. In addition to that, mobile application can be used to control devices by scanning a QR code.",
+                        "batch": "E16",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/smart-meeting-automaton",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-3yp-smart-meeting-automaton",
+                        "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-meeting-automaton",
+                        "data_url": "https://cepdnaclk.github.io/e16-3yp-smart-meeting-automaton/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-meeting-automaton/"
+                    },
+                    "smart-payment-system": {
+                        "title": "smart payment system",
+                        "description": "In a gaming center, they normally use coins to play games. When a customer comes, they have to buy coins from the cashier to use those as a paying method to the gaming machine. So we came up with a simple but efficient solution that will allow you to play any game inside a gaming center with a single tap. It is RFID based payment system.",
+                        "batch": "E16",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/smart-payment-system",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-3yp-smart-payment-system",
+                        "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-payment-system",
+                        "data_url": "https://cepdnaclk.github.io/e16-3yp-smart-payment-system/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-payment-system/"
+                    },
+                    "smart-pharmaceutical-warehousing": {
+                        "title": "smart pharmaceutical warehousing",
+                        "description": "In this project, we are trying to address this issue by developing a fully automated warehouse management that will minimize the drawbacks while improving efficiency and profitability. We are implementing a warehouse management system which consists two types of robots; robots arms to handle loading/unloading of goods, automated guided vehicles to transport goods inside the warehouse. Also, an online shopping portal to make the purchases from the warehouse.",
+                        "batch": "E16",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/smart-pharmaceutical-warehousing",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-3yp-smart-pharmaceutical-warehousing",
+                        "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-pharmaceutical-warehousing",
+                        "data_url": "https://cepdnaclk.github.io/e16-3yp-smart-pharmaceutical-warehousing/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-pharmaceutical-warehousing/"
+                    },
+                    "smart-pill-manager": {
+                        "title": "smart pill manager",
+                        "description": "This project is about a device which we called a smart pill manager to help patients to get their medicine according to the given routine. ",
+                        "batch": "E16",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/smart-pill-manager",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-3yp-smart-pill-manager",
+                        "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-pill-manager",
+                        "data_url": "https://cepdnaclk.github.io/e16-3yp-smart-pill-manager/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-pill-manager/"
+                    },
+                    "smart-shopping-cart-with-automatic-bill-system": {
+                        "title": "smart shopping cart with automatic bill system",
+                        "description": "This project is about smart shopping system.The overall project comprises of a smart shopping cart which is capable of automatic billing.To manage the carts inside the shopping area  we introduce a desktop app for the supermarket management .We also introduced a mobile app and a web app which synchronises with the shopping cart  makes the shopping experience smarter.",
+                        "batch": "E16",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/smart-shopping-cart-with-automatic-bill-system",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-3yp-smart-shopping-cart-with-automatic-bill-system",
+                        "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-shopping-cart-with-automatic-bill-system",
+                        "data_url": "https://cepdnaclk.github.io/e16-3yp-smart-shopping-cart-with-automatic-bill-system/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-shopping-cart-with-automatic-bill-system/"
+                    },
+                    "smart-vending-machine": {
+                        "title": "smart vending machine",
+                        "description": "Smart Vending Machine (3rd-year unified project) This is a 3rd-year project Developed by a group of students to address the problems faced in traditional vending and help consumers have a relatively safer and easier to handle and access. This Smart Vending machine is connected to the cloud to make sure every transaction is Live A web application is devoted to helping the consumers see what they want and can order the items they want to buy The web application is very interactive where the users can sign up and make an interactive accounts where they can do changes and track their buying habits",
+                        "batch": "E16",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/smart-vending-machine",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-3yp-smart-vending-machine",
+                        "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-vending-machine",
+                        "data_url": "https://cepdnaclk.github.io/e16-3yp-smart-vending-machine/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-vending-machine/"
+                    },
+                    "waiterbot-system": {
+                        "title": "waiterbot system",
+                        "description": "The main idea of this project is to develop a system of robots and a smart ordering system for a restaurant.  Current system in restaurants, the traditional menu card ordering and waiters can be replaced with the WaiterBot system. The WaiterBot system contains main 4 parts. The WaiterBots( Main hardware component for delivery of food items), mobile application(to place orders and make payments), web application(for the management of the entire system) and the desktop application(for operation of the robots and handling the orders).",
+                        "batch": "E16",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/waiterbot-system",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-3yp-waiterbot-system",
+                        "page_url": "https://cepdnaclk.github.io/e16-3yp-waiterbot-system",
+                        "data_url": "https://cepdnaclk.github.io/e16-3yp-waiterbot-system/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/waiterbot-system/"
+                    },
+                    "water-quality-monitoring-and-usage-monitoring-system": {
+                        "title": "water quality monitoring and usage monitoring system",
+                        "description": "In this project, we are developing a water tank monitoring system for providing clean water and reduce the water wastage. Also users will get notifications about related news like water cuts. Mainly our project focused to monitor those factors in very user friendly way. By using a simple mobile app or using a web site it can be done. This will initiate a different way of water monitoring instead of using traditional methods. ",
+                        "batch": "E16",
+                        "category": "Cyber-Physical Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/water-quality-monitoring-and-usage-monitoring-system",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-3yp-water-quality-monitoring-and-usage-monitoring-system",
+                        "page_url": "https://cepdnaclk.github.io/e16-3yp-water-quality-monitoring-and-usage-monitoring-system",
+                        "data_url": "https://cepdnaclk.github.io/e16-3yp-water-quality-monitoring-and-usage-monitoring-system/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/water-quality-monitoring-and-usage-monitoring-system/"
+                    }
+                }
+            }
+        }
+    },
+    "Undergraduate Research Projects": {
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/",
+        "batch_count": 4,
+        "batches": {
+            "E15": {
+                "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/",
+                "project_count": 21,
+                "projects": {
+                    "Accelerating-Adaptive-Banded-Event-Alignment-Algorithm-with-OpenCL-on-FPGA": {
+                        "title": "Accelerating Adaptive Banded Event Alignment Algorithm with OpenCL on FPGA",
+                        "description": "Effective utilization of OpenCL to map the Adaptive Banded Event Alignment(ABEA) algorithm to run e\ufb03ciently on an FPGA.",
+                        "batch": "E15",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Accelerating-Adaptive-Banded-Event-Alignment-Algorithm-with-OpenCL-on-FPGA",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-4yp-Accelerating-Adaptive-Banded-Event-Alignment-Algorithm-with-OpenCL-on-FPGA",
+                        "page_url": "https://cepdnaclk.github.io/e15-4yp-Accelerating-Adaptive-Banded-Event-Alignment-Algorithm-with-OpenCL-on-FPGA",
+                        "data_url": "https://cepdnaclk.github.io/e15-4yp-Accelerating-Adaptive-Banded-Event-Alignment-Algorithm-with-OpenCL-on-FPGA/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Accelerating-Adaptive-Banded-Event-Alignment-Algorithm-with-OpenCL-on-FPGA/"
+                    },
+                    "Brain-Computer-Interface-for-controlling-virtual-objects": {
+                        "title": "Brain Computer Interface for controlling virtual objects",
+                        "description": "Develop a Brain-Computer Interface for Controlling virtual objects using the self-paced mind intent of a person. Here we have developed a Real-time pipeline for recognizing thought patterns using machine learning techniques and feed into a virtual environment(unity engine) for controlling virtual objects.",
+                        "batch": "E15",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Brain-Computer-Interface-for-controlling-virtual-objects",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-4yp-Brain-Computer-Interface-for-controlling-virtual-objects",
+                        "page_url": "https://cepdnaclk.github.io/e15-4yp-Brain-Computer-Interface-for-controlling-virtual-objects",
+                        "data_url": "https://cepdnaclk.github.io/e15-4yp-Brain-Computer-Interface-for-controlling-virtual-objects/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Brain-Computer-Interface-for-controlling-virtual-objects/"
+                    },
+                    "Doppelganger-Cartoon": {
+                        "title": "Doppelganger Cartoon",
+                        "description": "The objective of Doppelganger Cartoon is to create a machine learning model to find the best matching cartoon character for a human image . This was implemented using three approaches: pre-trained model based approach, combined model (face + hair + gender) and classification model.",
+                        "batch": "E15",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Doppelganger-Cartoon",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-4yp-Doppelganger-Cartoon",
+                        "page_url": "https://cepdnaclk.github.io/e15-4yp-Doppelganger-Cartoon",
+                        "data_url": "https://cepdnaclk.github.io/e15-4yp-Doppelganger-Cartoon/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Doppelganger-Cartoon/"
+                    },
+                    "Explainable-Machine-Learning-for-Real-World-Resource-Constrained-Problems": {
+                        "title": "Explainable Machine Learning for Real World Resource Constrained Problems",
+                        "description": "Machine Learning (ML) has contributed to many advances in science and technology, recently the applications in high-stake decision-making has been increased. The ability to build statistically complex relationships between data and outcomes, without explicitly programming the rules makes it popular among the computerized decision-making community. The state-of-the-art models which performer well, are more complex and inexplicable. On the contrary, in high-stakes settings as healthcare, finance, and criminal justice, have strict ethical concerns which lead to explain each decision or the model in whole. Moreover, there it is necessary to ensure the fairness of the decisions and the transparency to avoid wrongful rationality. Furthermore the acts like General Data Protection Regulation (GDPR) and Personal Data Protection Act (PDPA) makes it mandatory to explain the decisions made based on statistical relationships and gave a right for users to demand an explanation. ",
+                        "batch": "E15",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Explainable-Machine-Learning-for-Real-World-Resource-Constrained-Problems",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-4yp-Explainable-Machine-Learning-for-Real-World-Resource-Constrained-Problems",
+                        "page_url": "https://cepdnaclk.github.io/e15-4yp-Explainable-Machine-Learning-for-Real-World-Resource-Constrained-Problems",
+                        "data_url": "https://cepdnaclk.github.io/e15-4yp-Explainable-Machine-Learning-for-Real-World-Resource-Constrained-Problems/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Explainable-Machine-Learning-for-Real-World-Resource-Constrained-Problems/"
+                    },
+                    "Hand-Gesture-Recognition-using-sEMG": {
+                        "title": "Hand Gesture Recognition using sEMG",
+                        "description": "Recognizing hand gestures that could be useful to interact with machine interfaces using sEMG signals generated by muscle activations from forearm contraction. And try to build a model that could be used in a real-time environment",
+                        "batch": "E15",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Hand-Gesture-Recognition-using-sEMG",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-4yp-Hand-Gesture-Recognition-using-sEMG",
+                        "page_url": "https://cepdnaclk.github.io/e15-4yp-Hand-Gesture-Recognition-using-sEMG",
+                        "data_url": "https://cepdnaclk.github.io/e15-4yp-Hand-Gesture-Recognition-using-sEMG/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Hand-Gesture-Recognition-using-sEMG/"
+                    },
+                    "Identifying-keywords-in-legal-articles-using-ML-techniques": {
+                        "title": "Identifying keywords in legal articles using ML techniques",
+                        "description": "In Sri Lanka, it is vital need to implement a system to extract key information from legal document. This research focused on how to mine basic information from legal documents and how to apply machine learning techniques to extract keywords from documents.",
+                        "batch": "E15",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Identifying-keywords-in-legal-articles-using-ML-techniques",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-4yp-Identifying-keywords-in-legal-articles-using-ML-techniques",
+                        "page_url": "https://cepdnaclk.github.io/e15-4yp-Identifying-keywords-in-legal-articles-using-ML-techniques",
+                        "data_url": "https://cepdnaclk.github.io/e15-4yp-Identifying-keywords-in-legal-articles-using-ML-techniques/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Identifying-keywords-in-legal-articles-using-ML-techniques/"
+                    },
+                    "Microservice-Based-Edge-Computing-Architecture": {
+                        "title": "Microservice Based Edge Computing Architecture",
+                        "description": "",
+                        "batch": "E15",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Microservice-Based-Edge-Computing-Architecture",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
+                        "page_url": "https://cepdnaclk.github.io/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
+                        "data_url": "https://cepdnaclk.github.io/e15-4yp-Microservice-Based-Edge-Computing-Architecture/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Microservice-Based-Edge-Computing-Architecture/"
+                    },
+                    "Mixed-Reality-based-Simulation-Platform-for-Swarm-Robotics": {
+                        "title": "Mixed Reality based Simulation Platform for Swarm Robotics",
+                        "description": "The main objective of this project is to implement a mixed reality-based simulator application with an efficient and reliable architecture for allowing both physical and virtual robots to collaboratively run swarm intelligence based algorithms in real-time",
+                        "batch": "E15",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Mixed-Reality-based-Simulation-Platform-for-Swarm-Robotics",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-4yp-Mixed-Reality-based-Simulation-Platform-for-Swarm-Robotics",
+                        "page_url": "https://cepdnaclk.github.io/e15-4yp-Mixed-Reality-based-Simulation-Platform-for-Swarm-Robotics",
+                        "data_url": "https://cepdnaclk.github.io/e15-4yp-Mixed-Reality-based-Simulation-Platform-for-Swarm-Robotics/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Mixed-Reality-based-Simulation-Platform-for-Swarm-Robotics/"
+                    },
+                    "Optimizing-Mitochondria-Genome-Assembly-And-Annotation-With-Skim-Sequencing-Data": {
+                        "title": "Optimizing Mitochondria Genome Assembly And Annotation With Skim Sequencing Data",
+                        "description": "This assembly is to find an efficient procedure to identify the optimal set of mitochondria genome data from skim sequencing data and assemble, annotate those data to form a complete mitochondria genome.",
+                        "batch": "E15",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Optimizing-Mitochondria-Genome-Assembly-And-Annotation-With-Skim-Sequencing-Data",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-4yp-Optimizing-Mitochondria-Genome-Assembly-And-Annotation-With-Skim-Sequencing-Data",
+                        "page_url": "https://cepdnaclk.github.io/e15-4yp-Optimizing-Mitochondria-Genome-Assembly-And-Annotation-With-Skim-Sequencing-Data",
+                        "data_url": "https://cepdnaclk.github.io/e15-4yp-Optimizing-Mitochondria-Genome-Assembly-And-Annotation-With-Skim-Sequencing-Data/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Optimizing-Mitochondria-Genome-Assembly-And-Annotation-With-Skim-Sequencing-Data/"
+                    },
+                    "Optimizing-chloroplast-genome-assembly-and-annotation-with-skim-sequencing-data": {
+                        "title": "Optimizing chloroplast genome assembly and annotation with skim sequencing data",
+                        "description": "Chloroplast genes and genomes are the most important genomic data for plant phylogeny and species identification. Skim sequencing is obtaining low coverage genome sequencing data that includes, nuclear, chloroplast and mitochondria genome sequences. Since the rapid development of high throughput sequencing technologies, it is cheap to get the low coverage data of whole genome (usually about 20-30GB data), which is enough to assemble a complete chloroplast genome. To date, there are many assembly processes/pipelines described to assemble a complete chloroplast genome. However, how much data is needed or actually used in such analysis is not clear. Having such information will help biologists to design their experiments properly and cost-effectively. Biologists expect a simple, fast and user-friendly procedure to assemble and annotate a circular chloroplast genome using Illumina NGS data.   In this project, we will research the existing procedures for chloroplast genome assembly and annotation, and work on developing the methods to identify and select the optimal set(s) of data and the procedure(s) to assemble a given chloroplast genome as accurately and efficiently as possible, by using computational, statistical & heuristical methods. ",
+                        "batch": "E15",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Optimizing-chloroplast-genome-assembly-and-annotation-with-skim-sequencing-data",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-4yp-Optimizing-chloroplast-genome-assembly-and-annotation-with-skim-sequencing-data",
+                        "page_url": "https://cepdnaclk.github.io/e15-4yp-Optimizing-chloroplast-genome-assembly-and-annotation-with-skim-sequencing-data",
+                        "data_url": "https://cepdnaclk.github.io/e15-4yp-Optimizing-chloroplast-genome-assembly-and-annotation-with-skim-sequencing-data/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Optimizing-chloroplast-genome-assembly-and-annotation-with-skim-sequencing-data/"
+                    },
+                    "Pipeline-for-Isolation-of-Fast-evolving-ITS-Regions-from-Skim-Sequencing-Data": {
+                        "title": "Pipeline for Isolation of Fast evolving ITS Regions from Skim Sequencing Data",
+                        "description": "Biologists have been interested in phylogenetic studies over the years. They have used several DNA based methods for phylogeny such as DNA extraction, DNA replication and DNA sequencing. Skim sequencing is the most preferred sequencing method since it results in low coverage data at a low cost.  Biologists have identified a fast-evolving region called Internal Transcribed Spacer (ITS) inside nuclear ribosomal DNA repeats of eukaryotic cells. They prefer to isolate this ITS region from skim sequencing data since it leads to a more accurate species variation analysis. However, because of the huge of data and unclarity on how much data is minimum needed, they find it much difficult to gather ITS regions as efficiently and as accurately as possible.  Therefore, the purpose of this project is come with a simple, efficient, accurate and user-friendly procedure to isolate ITS regions from skim sequencing data to provide a clear pathway for the biologists for phylogenetic studies to solve their problems.",
+                        "batch": "E15",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Pipeline-for-Isolation-of-Fast-evolving-ITS-Regions-from-Skim-Sequencing-Data",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-4yp-Pipeline-for-Isolation-of-Fast-evolving-ITS-Regions-from-Skim-Sequencing-Data",
+                        "page_url": "https://cepdnaclk.github.io/e15-4yp-Pipeline-for-Isolation-of-Fast-evolving-ITS-Regions-from-Skim-Sequencing-Data",
+                        "data_url": "https://cepdnaclk.github.io/e15-4yp-Pipeline-for-Isolation-of-Fast-evolving-ITS-Regions-from-Skim-Sequencing-Data/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Pipeline-for-Isolation-of-Fast-evolving-ITS-Regions-from-Skim-Sequencing-Data/"
+                    },
+                    "Real-Time-Data-processing-and-AI-for-Distributed-IoT": {
+                        "title": "Real Time Data processing and AI for Distributed IoT",
+                        "description": "To facilitate AI,ML computations and to enable real time processing at the edge,a novel approach is proposed base on computation distribution, vectorization, computation offloading, parallelization and federated learning techniques.",
+                        "batch": "E15",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Real-Time-Data-processing-and-AI-for-Distributed-IoT",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-4yp-Real-Time-Data-processing-and-AI-for-Distributed-IoT",
+                        "page_url": "https://cepdnaclk.github.io/e15-4yp-Real-Time-Data-processing-and-AI-for-Distributed-IoT",
+                        "data_url": "https://cepdnaclk.github.io/e15-4yp-Real-Time-Data-processing-and-AI-for-Distributed-IoT/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Real-Time-Data-processing-and-AI-for-Distributed-IoT/"
+                    },
+                    "Real-Time-Emotion-Recognition-using-Electrocardiogram-Analysis": {
+                        "title": "Real Time Emotion Recognition using Electrocardiogram Analysis",
+                        "description": "Emotion recognition is a powerful and very useful technique in the modern world in almost every field including healthcare, entertainment, automotive industry etc. The main objective of this project is to implement a real time model, which can recognise an extended range of emotions with a higher accuracy using ECG signals to recognize sudden and complex emotional changes of humans. While identifying human emotions, identifying emotions of animal subjects is equally important since it will help to understand their perspectives, needs and problems related to their physical and mental well-being while safeguarding their welfare. Therefore, a preliminary analysis to identify similarities and differences between human and animal emotion recognition is done.",
+                        "batch": "E15",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Real-Time-Emotion-Recognition-using-Electrocardiogram-Analysis",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-4yp-Real-Time-Emotion-Recognition-using-Electrocardiogram-Analysis",
+                        "page_url": "https://cepdnaclk.github.io/e15-4yp-Real-Time-Emotion-Recognition-using-Electrocardiogram-Analysis",
+                        "data_url": "https://cepdnaclk.github.io/e15-4yp-Real-Time-Emotion-Recognition-using-Electrocardiogram-Analysis/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Real-Time-Emotion-Recognition-using-Electrocardiogram-Analysis/"
+                    },
+                    "Revealing-miRNA-Biomarkers-for-Alzheimer-s-Disease-using-NGS": {
+                        "title": "Revealing miRNA Biomarkers for Alzheimer s Disease using NGS",
+                        "description": "This main aim of this project is to find a set of miRNA biomarkers for Alzheimer's Disease using Next Generation Sequencing Data. A dataset obtained from NCBI database under the access number GSE46579 is used. To achieve the goal of finding the best set of differentially expressed miRNAs, we followed a step wise procedure including five main steps as data collection, preprocessing, statistical analysis, feature selection and classification. Under the data collection stage, initial data set was chosen. We used Galaxy platform for preprocessing. The statistical analysis included significance value (pValue) analysis, fold change analysis followed by the area under receiver operating curve (AUC) analysis. For the features reduced from the statistical methods, feature selection was done under three methods as PCA, Random Forest and correlation coefficient analysis. We used classification algorithms for presenting the possibilty of miRNAs in making better predictions. In this project, we used python programming language for both statistical analysis and machine learning analysis of the data.",
+                        "batch": "E15",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Revealing-miRNA-Biomarkers-for-Alzheimer-s-Disease-using-NGS",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-4yp-Revealing-miRNA-Biomarkers-for-Alzheimer-s-Disease-using-NGS",
+                        "page_url": "https://cepdnaclk.github.io/e15-4yp-Revealing-miRNA-Biomarkers-for-Alzheimer-s-Disease-using-NGS",
+                        "data_url": "https://cepdnaclk.github.io/e15-4yp-Revealing-miRNA-Biomarkers-for-Alzheimer-s-Disease-using-NGS/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Revealing-miRNA-Biomarkers-for-Alzheimer-s-Disease-using-NGS/"
+                    },
+                    "Wireles-SDN-Ad-hoc-Network-For-Vehicular-Communication": {
+                        "title": "Wireles SDN Ad hoc Network For Vehicular Communication",
+                        "description": "",
+                        "batch": "E15",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Wireles-SDN-Ad-hoc-Network-For-Vehicular-Communication",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-4yp-Wireles-SDN-Ad-hoc-Network-For-Vehicular-Communication",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Wireles-SDN-Ad-hoc-Network-For-Vehicular-Communication/"
+                    },
+                    "anonymous-authentication": {
+                        "title": "anonymous authentication",
+                        "description": "We propose three authentication protocols that allow a user to anonymously authenticate in a P2P environment. ",
+                        "batch": "E15",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/anonymous-authentication",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-4yp-anonymous-authentication",
+                        "page_url": "https://cepdnaclk.github.io/e15-4yp-anonymous-authentication",
+                        "data_url": "https://cepdnaclk.github.io/e15-4yp-anonymous-authentication/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/anonymous-authentication/"
+                    },
+                    "cricket-analysis": {
+                        "title": "cricket analysis",
+                        "description": "Data Mining System for Selecting a Winning ODI Cricket Team. This analysis on cricket includes analysis of the individual performance of players, the combined performance of players, frequent winning combinations, and outcome prediction of an ODI match.",
+                        "batch": "E15",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/cricket-analysis",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-4yp-cricket-analysis",
+                        "page_url": "https://cepdnaclk.github.io/e15-4yp-cricket-analysis",
+                        "data_url": "https://cepdnaclk.github.io/e15-4yp-cricket-analysis/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/cricket-analysis/"
+                    },
+                    "human-behavior-prediction-using-cctv": {
+                        "title": "human behavior prediction using cctv",
+                        "description": "In a domestic environment, people's behavior is often routine. They move place to place in a house while activating different domestic appliances and lights. On the other hand, CCTV is becoming a common surveillance system installed in many houses and buildings. A correctly trained adaptive system can predict the behavior and perform control actions automatically. In this research project, it is intended to develop an adaptive training system using CCTV video streams for controlling appliances. ",
+                        "batch": "E15",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/human-behavior-prediction-using-cctv",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-4yp-human-behavior-prediction-using-cctv",
+                        "page_url": "https://cepdnaclk.github.io/e15-4yp-human-behavior-prediction-using-cctv",
+                        "data_url": "https://cepdnaclk.github.io/e15-4yp-human-behavior-prediction-using-cctv/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/human-behavior-prediction-using-cctv/"
+                    },
+                    "nearIR-spectroscopy": {
+                        "title": "nearIR spectroscopy",
+                        "description": " Near-Infrared spectroscopy is used for better vein visualization to make the venipuncture process more efficient. It is usually a painful and time-consuming process and its difficulty increases with the dark skin tones, obesity of patients, and several other health and physical conditions.  Although near-IR spectroscopy is identified as a good solution, its usage is limited to availability, high cost, and doubts about accuracy. The cost of each of these products is very high and not affordable especially in countries like ours. We have implemented a mechanism for better accuracy and lower risk, using an illumination system that favors Asian skin types, while reducing the cost of the device so that it is more affordable especially for common clinical use in countries like ours.",
+                        "batch": "E15",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/nearIR-spectroscopy",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-4yp-nearIR-spectroscopy",
+                        "page_url": "https://cepdnaclk.github.io/e15-4yp-nearIR-spectroscopy",
+                        "data_url": "https://cepdnaclk.github.io/e15-4yp-nearIR-spectroscopy/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/nearIR-spectroscopy/"
+                    },
+                    "online-proctoring-system": {
+                        "title": "online proctoring system",
+                        "description": "Online examinations require human invigilation either by live monitoring or inspection of recorded video to ensure academic integrity. This process is not feasible always since exams can be taken at any time and it involves high cost.  This project proposes an Online Proctoring System to automate invigilation processes by making use of inputs from a web browser, without using any external hardware or standalone application. As a result, several misconducts during the examination can be identified and labelled as suspicious.",
+                        "batch": "E15",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/online-proctoring-system",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-4yp-online-proctoring-system",
+                        "page_url": "https://cepdnaclk.github.io/e15-4yp-online-proctoring-system",
+                        "data_url": "https://cepdnaclk.github.io/e15-4yp-online-proctoring-system/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/online-proctoring-system/"
+                    },
+                    "sports-action-recognition": {
+                        "title": "sports action recognition",
+                        "description": "This includes a novel method to measure the quality of the actions performed in Olympic weightlifting using human action recognition in videos. Human action recognition is a well-studied problem in computer vision and on the other hand action quality assessment is researched and experimented comparatively low. This is due to the lack of datasets that can be used to assess the quality of actions. In this research, we introduce a method to assess player techniques in weightlifting by using skeleton-based human action recognition. Furthermore, we introduce a new video dataset for action recognition in weightlifting which is annotated to frame level. We intended to develop a viable automated scoring system through action recognition that would be beneficial in the sports industry. ",
+                        "batch": "E15",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/sports-action-recognition",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-4yp-sports-action-recognition",
+                        "page_url": "https://cepdnaclk.github.io/e15-4yp-sports-action-recognition",
+                        "data_url": "https://cepdnaclk.github.io/e15-4yp-sports-action-recognition/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/sports-action-recognition/"
+                    }
+                }
+            },
+            "E10": {
+                "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E10/",
+                "project_count": 2,
+                "projects": {
+                    "CUDA_Fast_ICA": {
+                        "title": "CUDA_Fast_ICA",
+                        "description": "CUDA implementation of Fast-ICA in C++",
+                        "batch": "E10",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e10/CUDA_Fast_ICA",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e10-4yp-CUDA_Fast_ICA",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E10/CUDA_Fast_ICA/"
+                    },
+                    "building-a-testbed-for-power-analysis-attacks": {
+                        "title": "building a testbed for power analysis attacks",
+                        "description": "The A to Z of Building a Testbed for Power Analysis Attacks",
+                        "batch": "E10",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e10/building-a-testbed-for-power-analysis-attacks",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e10-4yp-building-a-testbed-for-power-analysis-attacks",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E10/building-a-testbed-for-power-analysis-attacks/"
+                    }
+                }
+            },
+            "E11": {
+                "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E11/",
+                "project_count": 1,
+                "projects": {
+                    "HBFT": {
+                        "title": "HBFT",
+                        "description": "A new Bredth First Traversal algorithm for large graphs ",
+                        "batch": "E11",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e11/HBFT",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e11-4yp-HBFT",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E11/HBFT/"
+                    }
+                }
+            },
+            "E14": {
+                "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E14/",
+                "project_count": 5,
+                "projects": {
+                    "Temporal-Attention-Based-MARL": {
+                        "title": "Temporal Attention Based MARL",
+                        "description": "",
+                        "batch": "E14",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e14/Temporal-Attention-Based-MARL",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-4yp-Temporal-Attention-Based-MARL",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E14/Temporal-Attention-Based-MARL/"
+                    },
+                    "dark-arts-algorithms-for-low-light-image-enhancement-and-interpretation": {
+                        "title": "dark arts algorithms for low light image enhancement and interpretation",
+                        "description": "Dark arts: Algorithms for enhancement and interpretation of low light images",
+                        "batch": "E14",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e14/dark-arts-algorithms-for-low-light-image-enhancement-and-interpretation",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-4yp-dark-arts-algorithms-for-low-light-image-enhancement-and-interpretation",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E14/dark-arts-algorithms-for-low-light-image-enhancement-and-interpretation/"
+                    },
+                    "f5n": {
+                        "title": "f5n",
+                        "description": "Genopo a.k.a. F5N - A nanopore sequencing analysis toolkit for Android smartphones https://nanoporetech.com",
+                        "batch": "E14",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e14/f5n",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-4yp-f5n",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E14/f5n/"
+                    },
+                    "f5n_server": {
+                        "title": "f5n_server",
+                        "description": "This is a job server to distribute and keep track of f5n pipeline jobs to connected f5n clients",
+                        "batch": "E14",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e14/f5n_server",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-4yp-f5n_server",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E14/f5n_server/"
+                    },
+                    "ipb": {
+                        "title": "ipb",
+                        "description": "Intelligence Preparation of Battlefield or IPB as it is more commonly known is a Command and staff tool that allows systematic, continuous analysis of the enemy and the battlefield environment to be carried out and which presents the results in a graphical form",
+                        "batch": "E14",
+                        "category": "Undergraduate Research Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e14/ipb",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-4yp-ipb",
+                        "page_url": "https://cepdnaclk.github.io/e14-4yp-ipb",
+                        "data_url": "https://cepdnaclk.github.io/e14-4yp-ipb/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E14/ipb/"
+                    }
+                }
+            }
+        }
+    },
+    "Industrial Automation Projects (CO326)": {
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co326/",
+        "batch_count": 2,
+        "batches": {
+            "E16": {
+                "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co326/E16/",
+                "project_count": 1,
+                "projects": {
+                    "Agriculture-Monitoring-and-Control-System": {
+                        "title": "Agriculture Monitoring and Control System",
+                        "description": "",
+                        "batch": "E16",
+                        "category": "Industrial Automation Projects (CO326)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co326/e16/Agriculture-Monitoring-and-Control-System",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-co326-Agriculture-Monitoring-and-Control-System",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co326/E16/Agriculture-Monitoring-and-Control-System/"
+                    }
+                }
+            },
+            "E15": {
+                "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co326/E15/",
+                "project_count": 1,
+                "projects": {
+                    "Remotely-Controlled-CNC-Robot": {
+                        "title": "Remotely Controlled CNC Robot",
+                        "description": "In this project, we hope to develop a CNC (Computer Numerical Control) based pick and place arm, which will help to try different wiring arrangements in a PLC rig and try experiments on it remotely.",
+                        "batch": "E15",
+                        "category": "Industrial Automation Projects (CO326)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co326/e15/Remotely-Controlled-CNC-Robot",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-co326-Remotely-Controlled-CNC-Robot",
+                        "page_url": "https://cepdnaclk.github.io/e15-co326-Remotely-Controlled-CNC-Robot",
+                        "data_url": "https://cepdnaclk.github.io/e15-co326-Remotely-Controlled-CNC-Robot/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/"
+                    }
+                }
+            }
+        }
+    },
+    "Image Processing Projects (CO543)": {
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/",
+        "batch_count": 1,
+        "batches": {
+            "E15": {
+                "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E15/",
+                "project_count": 4,
+                "projects": {
+                    "Brain-Tumor-Detection": {
+                        "title": "Brain Tumor Detection",
+                        "description": "",
+                        "batch": "E15",
+                        "category": "Image Processing Projects (CO543)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co543/e15/Brain-Tumor-Detection",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-co543-Brain-Tumor-Detection",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E15/Brain-Tumor-Detection/"
+                    },
+                    "Swarm-Robot-Monitoring-System-group-A": {
+                        "title": "Swarm Robot Monitoring System group A",
+                        "description": "A swarm robotics systems consists of automation robots with local sensing and communication capabilities, lacking centralized control or access to global information, situated in a possibly unknown environment performing a collective action. Therefore, having centralized monitoring in addition to the distributed local sensing yields to a more robust system as a centralized monitoring system capable of performing global collective actions under a wide range of group sizes (scalability), despite the possible sudden loss of multiple agents (robustness), and under unknown and dynamic circumstances (flexibility).",
+                        "batch": "E15",
+                        "category": "Image Processing Projects (CO543)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co543/e15/Swarm-Robot-Monitoring-System-group-A",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-co543-Swarm-Robot-Monitoring-System-group-A",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E15/Swarm-Robot-Monitoring-System-group-A/"
+                    },
+                    "Swarm-Robot-Monitoring-System-group-B": {
+                        "title": "Swarm Robot Monitoring System group B",
+                        "description": "localization of robots, identifying  the boundary of arena and distance calculation with image processing(openCV python)",
+                        "batch": "E15",
+                        "category": "Image Processing Projects (CO543)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co543/e15/Swarm-Robot-Monitoring-System-group-B",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-co543-Swarm-Robot-Monitoring-System-group-B",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E15/Swarm-Robot-Monitoring-System-group-B/"
+                    },
+                    "Swarm-Robot-Monitoring-System-group-C": {
+                        "title": "Swarm Robot Monitoring System group C",
+                        "description": "Localization of multiple robots in real time, Video restoration at the presence of noise due to lighting conditions and degradation due to motion blur.",
+                        "batch": "E15",
+                        "category": "Image Processing Projects (CO543)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co543/e15/Swarm-Robot-Monitoring-System-group-C",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-co543-Swarm-Robot-Monitoring-System-group-C",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E15/Swarm-Robot-Monitoring-System-group-C/"
+                    }
+                }
+            }
+        }
+    },
+    "Software Engineering Projects (CO328)": {
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/",
+        "batch_count": 3,
+        "batches": {
+            "E16": {
+                "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E16/",
+                "project_count": 7,
+                "projects": {
+                    "Footwear-Shop-System": {
+                        "title": "Footwear Shop System",
+                        "description": "E16_3rd year - Software Engineering Project (CO328)",
+                        "batch": "E16",
+                        "category": "Software Engineering Projects (CO328)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co328/e16/Footwear-Shop-System",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-co328-Footwear-Shop-System",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E16/Footwear-Shop-System/"
+                    },
+                    "Learning-Management-Systerm": {
+                        "title": "Learning Management Systerm",
+                        "description": "CO328 Software Engineering Group Project. ",
+                        "batch": "E16",
+                        "category": "Software Engineering Projects (CO328)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co328/e16/Learning-Management-Systerm",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-co328-Learning-Management-Systerm",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E16/Learning-Management-Systerm/"
+                    },
+                    "Movie-Review-System": {
+                        "title": "Movie Review System",
+                        "description": "",
+                        "batch": "E16",
+                        "category": "Software Engineering Projects (CO328)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co328/e16/Movie-Review-System",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-co328-Movie-Review-System",
+                        "page_url": "https://cepdnaclk.github.io/e16-co328-Movie-Review-System",
+                        "data_url": "https://cepdnaclk.github.io/e16-co328-Movie-Review-System/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E16/Movie-Review-System/"
+                    },
+                    "Pharmacy-Management-System": {
+                        "title": "Pharmacy Management System",
+                        "description": "",
+                        "batch": "E16",
+                        "category": "Software Engineering Projects (CO328)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co328/e16/Pharmacy-Management-System",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-co328-Pharmacy-Management-System",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E16/Pharmacy-Management-System/"
+                    },
+                    "Project-Publication-Platform": {
+                        "title": "Project Publication Platform",
+                        "description": "Website based platform for inventors and students to publish their projects and attract investment to continue their projects to the production stage.",
+                        "batch": "E16",
+                        "category": "Software Engineering Projects (CO328)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co328/e16/Project-Publication-Platform",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-co328-Project-Publication-Platform",
+                        "page_url": "https://cepdnaclk.github.io/e16-co328-Project-Publication-Platform",
+                        "data_url": "https://cepdnaclk.github.io/e16-co328-Project-Publication-Platform/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E16/Project-Publication-Platform/"
+                    },
+                    "Student-Management-System": {
+                        "title": "Student Management System",
+                        "description": "",
+                        "batch": "E16",
+                        "category": "Software Engineering Projects (CO328)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co328/e16/Student-Management-System",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-co328-Student-Management-System",
+                        "page_url": "https://cepdnaclk.github.io/e16-co328-Student-Management-System",
+                        "data_url": "https://cepdnaclk.github.io/e16-co328-Student-Management-System/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E16/Student-Management-System/"
+                    },
+                    "mystore": {
+                        "title": "mystore",
+                        "description": "",
+                        "batch": "E16",
+                        "category": "Software Engineering Projects (CO328)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co328/e16/mystore",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-co328-mystore",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E16/mystore/"
+                    }
+                }
+            },
+            "E14": {
+                "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E14/",
+                "project_count": 1,
+                "projects": {
+                    "GPSARSA-gaussian-process-state-action-reward-state-actios-based-SITNSHOP": {
+                        "title": "GPSARSA gaussian process state action reward state actios based SITNSHOP",
+                        "description": "An web application(+mobile application) to advertise any kinds of shops and more additional features",
+                        "batch": "E14",
+                        "category": "Software Engineering Projects (CO328)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co328/e14/GPSARSA-gaussian-process-state-action-reward-state-actios-based-SITNSHOP",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-co328-GPSARSA-gaussian-process-state-action-reward-state-actios-based-SITNSHOP",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E14/GPSARSA-gaussian-process-state-action-reward-state-actios-based-SITNSHOP/"
+                    }
+                }
+            },
+            "E15": {
+                "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E15/",
+                "project_count": 1,
+                "projects": {
+                    "Zero-Trash": {
+                        "title": "Zero Trash",
+                        "description": "Zero Trash provides a communication platform between its users and garbage collectors which did not exist (at least not successfully) in Sri Lanka. This could have huge implications for both lessening the cost of collecting garbage and aiding in the recycling process, as well as ensuring that materials that would otherwise end up in a landfill are transported to the appropriate recycling centers. This will increase the income for garbage collectors while providing householders with an additional income.",
+                        "batch": "E15",
+                        "category": "Software Engineering Projects (CO328)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co328/e15/Zero-Trash",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-co328-Zero-Trash",
+                        "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
+                        "data_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/"
+                    }
+                }
+            }
+        }
+    },
+    "Software Systems Projects": {
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/2yp/",
+        "batch_count": 2,
+        "batches": {
+            "E15": {
+                "api_url": "http://api.ce.pdn.ac.lk/projects/v1/2yp/E15/",
+                "project_count": 2,
+                "projects": {
+                    "Pera-Knowledge-Portal": {
+                        "title": "Pera Knowledge Portal",
+                        "description": "Pera Knowledge Portal is a web site that will allow visitors to do a full-text search on student project reports and thesis, developed using PHP and ElasticSearch",
+                        "batch": "E15",
+                        "category": "Software Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/2yp/e15/Pera-Knowledge-Portal",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/2yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/2yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-2yp-Pera-Knowledge-Portal",
+                        "page_url": "https://cepdnaclk.github.io/e15-2yp-Pera-Knowledge-Portal",
+                        "data_url": "https://cepdnaclk.github.io/e15-2yp-Pera-Knowledge-Portal/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/2yp/E15/Pera-Knowledge-Portal/"
+                    },
+                    "finite-element-based-structural-non-linear-analysis": {
+                        "title": "finite element based structural non linear analysis",
+                        "description": "",
+                        "batch": "E15",
+                        "category": "Software Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/2yp/e15/finite-element-based-structural-non-linear-analysis",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/2yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/2yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e15-2yp-finite-element-based-structural-non-linear-analysis",
+                        "page_url": "https://cepdnaclk.github.io/e15-2yp-finite-element-based-structural-non-linear-analysis",
+                        "data_url": "https://cepdnaclk.github.io/e15-2yp-finite-element-based-structural-non-linear-analysis/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/2yp/E15/finite-element-based-structural-non-linear-analysis/"
+                    }
+                }
+            },
+            "E14": {
+                "api_url": "http://api.ce.pdn.ac.lk/projects/v1/2yp/E14/",
+                "project_count": 3,
+                "projects": {
+                    "dynamic-background-cancellation-in-videos": {
+                        "title": "dynamic background cancellation in videos",
+                        "description": "Foreground estimation in dynamic background conditions using unsupervised learning techniques.",
+                        "batch": "E14",
+                        "category": "Software Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/2yp/e14/dynamic-background-cancellation-in-videos",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/2yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/2yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-2yp-dynamic-background-cancellation-in-videos",
+                        "page_url": "https://cepdnaclk.github.io/e14-2yp-dynamic-background-cancellation-in-videos",
+                        "data_url": "https://cepdnaclk.github.io/e14-2yp-dynamic-background-cancellation-in-videos/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/2yp/E14/dynamic-background-cancellation-in-videos/"
+                    },
+                    "mabandit": {
+                        "title": "mabandit",
+                        "description": "A python based library which includes multi_arm_bandit and Bayesian_optimization_algorithms. The PYPI repository  can be found as mabandit 1.3",
+                        "batch": "E14",
+                        "category": "Software Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/2yp/e14/mabandit",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/2yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/2yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-2yp-mabandit",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/2yp/E14/mabandit/"
+                    },
+                    "packet-forwarding-simulator": {
+                        "title": "packet forwarding simulator",
+                        "description": "Packet forwarding network simulator",
+                        "batch": "E14",
+                        "category": "Software Systems Projects",
+                        "project_url": "https://projects.ce.pdn.ac.lk/2yp/e14/packet-forwarding-simulator",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/2yp/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/2yp/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-2yp-packet-forwarding-simulator",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/2yp/E14/packet-forwarding-simulator/"
+                    }
+                }
+            }
+        }
+    },
+    "Advanced Computer Architecture (CO502)": {
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co502/",
+        "batch_count": 1,
+        "batches": {
+            "E16": {
+                "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co502/E16/",
+                "project_count": 5,
+                "projects": {
+                    "RISCV-Pipeline-CPU-Implimentation-Group2": {
+                        "title": "RISCV Pipeline CPU Implimentation Group2",
+                        "description": "This is the RISC-V ISA implementation by Group 2",
+                        "batch": "E16",
+                        "category": "Advanced Computer Architecture (CO502)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co502/e16/RISCV-Pipeline-CPU-Implimentation-Group2",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-co502-RISCV-Pipeline-CPU-Implimentation-Group2",
+                        "page_url": "https://cepdnaclk.github.io/e16-co502-RISCV-Pipeline-CPU-Implimentation-Group2",
+                        "data_url": "https://cepdnaclk.github.io/e16-co502-RISCV-Pipeline-CPU-Implimentation-Group2/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co502/E16/RISCV-Pipeline-CPU-Implimentation-Group2/"
+                    },
+                    "RISCV-pipeline-cpu-implementation-group04": {
+                        "title": "RISCV pipeline cpu implementation group04",
+                        "description": "This is Advance Computer Architecture project of implementing Piplined Proccesor according to the RISC-V Instruction set",
+                        "batch": "E16",
+                        "category": "Advanced Computer Architecture (CO502)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co502/e16/RISCV-pipeline-cpu-implementation-group04",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-co502-RISCV-pipeline-cpu-implementation-group04",
+                        "page_url": "https://cepdnaclk.github.io/e16-co502-RISCV-pipeline-cpu-implementation-group04",
+                        "data_url": "https://cepdnaclk.github.io/e16-co502-RISCV-pipeline-cpu-implementation-group04/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co502/E16/RISCV-pipeline-cpu-implementation-group04/"
+                    },
+                    "RV32IM-NoC-implementation": {
+                        "title": "RV32IM NoC implementation",
+                        "description": "",
+                        "batch": "E16",
+                        "category": "Advanced Computer Architecture (CO502)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co502/e16/RV32IM-NoC-implementation",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-co502-RV32IM-NoC-implementation",
+                        "page_url": "https://cepdnaclk.github.io/e16-co502-RV32IM-NoC-implementation",
+                        "data_url": "https://cepdnaclk.github.io/e16-co502-RV32IM-NoC-implementation/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co502/E16/RV32IM-NoC-implementation/"
+                    },
+                    "RV32IM-pipeline-implementation-group1": {
+                        "title": "RV32IM pipeline implementation group1",
+                        "description": "The objective of this project was to design and implement a 5 stage pipeline CPU to support the RISC-V instruction architecture. This pipeline CPU supports the entire RV32IM ISA which contains 45 instructions. The designed pipeline CPU was implemented using behavioral modeling in verilogHDL and icarus Verilog was used compile and simulate. gtkWave was used to observe the behavior.",
+                        "batch": "E16",
+                        "category": "Advanced Computer Architecture (CO502)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co502/e16/RV32IM-pipeline-implementation-group1",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-co502-RV32IM-pipeline-implementation-group1",
+                        "page_url": "https://cepdnaclk.github.io/e16-co502-RV32IM-pipeline-implementation-group1",
+                        "data_url": "https://cepdnaclk.github.io/e16-co502-RV32IM-pipeline-implementation-group1/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co502/E16/RV32IM-pipeline-implementation-group1/"
+                    },
+                    "RV32IM-pipeline-implementation-group3": {
+                        "title": "RV32IM pipeline implementation group3",
+                        "description": "CPU and memory system including cache memory implementation according to the RISC-V Instruction set",
+                        "batch": "E16",
+                        "category": "Advanced Computer Architecture (CO502)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co502/e16/RV32IM-pipeline-implementation-group3",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e16-co502-RV32IM-pipeline-implementation-group3",
+                        "page_url": "https://cepdnaclk.github.io/e16-co502-RV32IM-pipeline-implementation-group3",
+                        "data_url": "https://cepdnaclk.github.io/e16-co502-RV32IM-pipeline-implementation-group3/data/index.json",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co502/E16/RV32IM-pipeline-implementation-group3/"
+                    }
+                }
+            }
+        }
+    },
+    "Neural Networks Projects (CO542)": {
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co542/",
+        "batch_count": 1,
+        "batches": {
+            "E14": {
+                "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co542/E14/",
+                "project_count": 1,
+                "projects": {
+                    "balancing-an-inverted-pendulum-using-a-neural-network": {
+                        "title": "balancing an inverted pendulum using a neural network",
+                        "description": "CO542 Project",
+                        "batch": "E14",
+                        "category": "Neural Networks Projects (CO542)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co542/e14/balancing-an-inverted-pendulum-using-a-neural-network",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e14-co542-balancing-an-inverted-pendulum-using-a-neural-network",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co542/E14/balancing-an-inverted-pendulum-using-a-neural-network/"
+                    }
+                }
+            }
+        }
+    },
+    "Database Projects (CO226)": {
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co226/",
+        "batch_count": 1,
+        "batches": {
+            "E17": {
+                "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co226/E17/",
+                "project_count": 1,
+                "projects": {
+                    "business-to-business-database": {
+                        "title": "business to business database",
+                        "description": "CO226 Project - Relational Database for B2B Online Trade Community - by: @Isuri-Devindi, @KavinduJayas, @Dr-Madhushan",
+                        "batch": "E17",
+                        "category": "Database Projects (CO226)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co226/e17/business-to-business-database",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-co226-business-to-business-database",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co226/E17/business-to-business-database/"
+                    }
+                }
+            }
+        }
+    }
+}
