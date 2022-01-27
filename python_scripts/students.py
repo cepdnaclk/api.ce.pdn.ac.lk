@@ -17,36 +17,44 @@ apiIndex = 'https://cepdnaclk.github.io/api.ce.pdn.ac.lk/people/'
 apiSource = 'https://cepdnaclk.github.io/people.ce.pdn.ac.lk/api/students/'
 
 # Validate and format the registration number
+
+
 def validateRegNumber(regNumber):
-    if len(regNumber)==2:
+    if len(regNumber) == 2:
         regNumber = '0' + regNumber
-    elif len(regNumber)==1:
+    elif len(regNumber) == 1:
         regNumber = '00' + regNumber
 
     return regNumber
 
 # Split the email address into 2 fields
+
+
 def emailFilter(email):
     if email != "":
         words = email.split('@')
-        return { 'name':words[0], 'domain':words[1] }
+        return {'name': words[0], 'domain': words[1]}
     else:
-        return { 'name': "", 'domain': "" }
+        return {'name': "", 'domain': ""}
 
 # Write the /students/index.json
+
+
 def write_index(batch_groups):
     dict = {}
     for batch in batch_groups:
         url = apiIndex + 'students/' + batch + '/'
         count = len(batch_groups[batch].keys())
-        dict[batch] = { 'batch': batch, 'url': url, 'count': count }
+        dict[batch] = {'batch': batch, 'url': url, 'count': count}
 
     filename = "../people/students/index.json"
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, "w") as f:
-        f.write(json.dumps(dict, indent = 4))
+        f.write(json.dumps(dict, indent=4))
 
 # Write the /students/{batch}/index.json files
+
+
 def write_batches(batch_groups):
     for batch in batch_groups:
         filename = "../people/students/" + batch.upper() + "/index.json"
@@ -55,13 +63,15 @@ def write_batches(batch_groups):
 
         for student in batch_groups[batch]:
             regNumber = validateRegNumber(batch_groups[batch][student]['eNumber'].split('/')[2])
-            url =  apiIndex + 'students/' + batch.upper() + '/' + regNumber + '/'
-            data[student] = { 'url': url }
+            url = apiIndex + 'students/' + batch.upper() + '/' + regNumber + '/'
+            data[student] = {'url': url}
 
         with open(filename, "w") as f:
-            f.write(json.dumps(data, indent = 4))
+            f.write(json.dumps(data, indent=4))
 
 # Write the /students/{batch}/{regNumber}/index.json files
+
+
 def write_students(batch, batch_group):
     for student in batch_group:
         eNumber = batch_group[student]['eNumber'].upper()
@@ -72,7 +82,8 @@ def write_students(batch, batch_group):
 
         # print(json.dumps(batch_group[student], indent = 4))
         with open(filename, "w") as f:
-            f.write(json.dumps(batch_group[student], indent = 4))
+            f.write(json.dumps(batch_group[student], indent=4))
+
 
 def write_all(batch_groups):
     data_all = {}
@@ -88,7 +99,7 @@ def write_all(batch_groups):
     # print(json.dumps(batch_groups[batch], indent = 4))
 
     with open(filename, "w") as f:
-        f.write(json.dumps(data_all, indent = 4))
+        f.write(json.dumps(data_all, indent=4))
 
 
 # ------------------------------------------------------------------------------
@@ -96,7 +107,7 @@ r = requests.get(apiSource)
 batch_groups = {}
 
 # Fetch data from the people.ce.pdn.ac.lk
-if r.status_code==200:
+if r.status_code == 200:
     data = json.loads(r.text)
     # print(data)
 
@@ -108,7 +119,8 @@ if r.status_code==200:
         data[eNumber]['emails']['faculty'] = emailFilter(data[eNumber]['emails']['faculty'])
 
         batch = data[eNumber]['batch']
-        if batch not in batch_groups: batch_groups[batch] = {}
+        if batch not in batch_groups:
+            batch_groups[batch] = {}
         batch_groups[batch][eNumber] = data[eNumber]
 
 
