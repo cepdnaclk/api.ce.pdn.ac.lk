@@ -51,7 +51,7 @@ def process_team(data):
         linkedin = person['linkedin_profile'] if 'linkedin_profile' in person else "#"
         researchgate = person['researchgate_profile'] if 'researchgate_profile' in person else "#"
         website = person['website'] if 'website' in person else "#"
-        profile_api = apiBase + "/people/students/" + eNumber.replace("E/", "E")
+        profile_api = apiBase + "/people/v1/students/" + eNumber.replace("E/", "E")
 
         if eNumber in students:
             # Check with the details available in the student API
@@ -76,8 +76,9 @@ def process_team(data):
             linkedin = person_from_api['urls']['linkedin'] if 'linkedin' in person_from_api['urls'] else "#"
             researchgate = person_from_api['urls']['researchgate'] if 'researchgate' in person_from_api['urls'] else "#"
             website = person_from_api['urls']['website'] if 'website' in person_from_api['urls'] else "#"
-            profile_image = person_from_api['profile_image'] if 'profile_image' in person_from_api['profile_image'] else "https://people.ce.pdn.ac.lk/images/students/default.jpg"
-            profile_url = profile_api
+            profile_image = person_from_api['profile_image'] if 'profile_image' in person_from_api else "https://people.ce.pdn.ac.lk/images/students/default.jpg"
+            profile_url = person_from_api['profile_page'] if 'profile_page' in person_from_api else "#"
+            profile_api = profile_api
 
         team[eNumber] = {
             'name':name, 'email':email, 'website':website,

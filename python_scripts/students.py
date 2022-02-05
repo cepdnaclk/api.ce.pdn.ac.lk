@@ -17,9 +17,10 @@ apiIndex = 'https://api.ce.pdn.ac.lk/people/v1/'
 # Where the data is available
 apiSource = 'https://people.ce.pdn.ac.lk/api/students/'
 
+# Where the student profile pages located
+webSource = 'https://people.ce.pdn.ac.lk/'
+
 # Validate and format the registration number
-
-
 def validateRegNumber(regNumber):
     if len(regNumber) == 2:
         regNumber = '0' + regNumber
@@ -50,9 +51,8 @@ def del_old_files():
     except error as e:
         print("Error!")
 
+
 # Write the /students/index.json
-
-
 def write_index(batch_groups):
     dict = {}
     for batch in batch_groups:
@@ -66,8 +66,6 @@ def write_index(batch_groups):
         f.write(json.dumps(dict, indent=4))
 
 # Write the /students/{batch}/index.json files
-
-
 def write_batches(batch_groups):
     for batch in batch_groups:
         filename = "../people/v1/students/" + batch.upper() + "/index.json"
@@ -83,8 +81,6 @@ def write_batches(batch_groups):
             f.write(json.dumps(data, indent=4))
 
 # Write the /students/{batch}/{regNumber}/index.json files
-
-
 def write_students(batch, batch_group):
     for student in batch_group:
         eNumber = batch_group[student]['eNumber'].upper()
@@ -96,7 +92,6 @@ def write_students(batch, batch_group):
         # print(json.dumps(batch_group[student], indent = 4))
         with open(filename, "w") as f:
             f.write(json.dumps(batch_group[student], indent=4))
-
 
 def write_all(batch_groups):
     data_all = {}
@@ -134,6 +129,7 @@ if r.status_code == 200:
         # Split the email address to avoid spaming
         data[eNumber]['emails']['personal'] = emailFilter(data[eNumber]['emails']['personal'])
         data[eNumber]['emails']['faculty'] = emailFilter(data[eNumber]['emails']['faculty'])
+        data[eNumber]['profile_page'] = webSource + 'students/' + data[eNumber]['eNumber'].replace('E/', 'e') + '/';
 
         batch = data[eNumber]['batch']
         if batch not in batch_groups:
