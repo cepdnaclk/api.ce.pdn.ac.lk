@@ -76,11 +76,14 @@ def process_team(data):
             linkedin = person_from_api['urls']['linkedin'] if 'linkedin' in person_from_api['urls'] else "#"
             researchgate = person_from_api['urls']['researchgate'] if 'researchgate' in person_from_api['urls'] else "#"
             website = person_from_api['urls']['website'] if 'website' in person_from_api['urls'] else "#"
+            profile_image = person_from_api['profile_image'] if 'profile_image' in person_from_api['profile_image'] else "https://people.ce.pdn.ac.lk/images/students/default.jpg"
+            profile_url = profile_api
 
         team[eNumber] = {
             'name':name, 'email':email, 'website':website,
             'github':github, 'linkedin':linkedin,
-            'researchgate':researchgate, 'api_url':profile_api
+            'researchgate':researchgate, 'api_url':profile_api,
+            'profile_image':profile_image , 'profile_url':profile_url
         }
 
     return team
