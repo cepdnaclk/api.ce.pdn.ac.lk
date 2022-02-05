@@ -1,27 +1,475 @@
 {
-    "E/14/009": {
-        "eNumber": "E/14/009",
-        "batch": "E14",
-        "department": "Computer",
-        "current_affiliation": "",
-        "honorific": "",
-        "full_name": "Hishan Adikari",
-        "name_with_initials": "",
-        "preferred_short_name": "Hishan",
-        "preferred_long_name": "Hishan Adikari",
+    "E/02/314": {
+        "eNumber": "E/02/314",
+        "batch": "E02",
+        "department": "Computer Engineering",
+        "current_affiliation": "Assistant Professor at School of Computing - University of North Florida - USA",
+        "honorific": "Prof.",
+        "full_name": "Upulee G Kanewala",
+        "name_with_initials": "U.G. Kanewala",
+        "preferred_short_name": "Upulee",
+        "preferred_long_name": "Upulee Kanewala",
+        "emails": {
+            "personal": {
+                "name": "upulee.kanewala",
+                "domain": "unf.edu"
+            },
+            "faculty": {
+                "name": "",
+                "domain": ""
+            }
+        },
+        "location": "Jacksonville - Florida - USA",
+        "interests": [
+            "Software testing"
+        ],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e02/e02314.jpg",
+        "urls": {
+            "cv": "https://www.upuleegk.com/home/cv",
+            "website": "https://www.upuleegk.com/",
+            "linkedin": "https://www.linkedin.com/in/upulee-kanewala-2b330350/",
+            "github": "https://github.com/upuleegk",
+            "facebook": "",
+            "researchgate": "https://www.researchgate.net/profile/Upulee-Kanewala",
+            "twitter": ""
+        }
+    },
+    "E/02A/027": {
+        "eNumber": "E/02A/027",
+        "batch": "E02A",
+        "department": "Computer Engineering",
+        "current_affiliation": "Google",
+        "honorific": "Dr.",
+        "full_name": "Senaka W Buthpitiya",
+        "name_with_initials": "S.W. Buthpitiya",
+        "preferred_short_name": "Senaka",
+        "preferred_long_name": "Senaka Buthpitiya",
+        "emails": {
+            "personal": {
+                "name": "senaka",
+                "domain": "gmail.com"
+            },
+            "faculty": {
+                "name": "",
+                "domain": ""
+            }
+        },
+        "location": "United States of America",
+        "interests": [],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+        "urls": {
+            "cv": "",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/senaka-buthpitiya-39606615/",
+            "github": "",
+            "facebook": "",
+            "researchgate": "",
+            "twitter": ""
+        }
+    },
+    "E/02A/320": {
+        "eNumber": "E/02A/320",
+        "batch": "E02A",
+        "department": "Computer Engineering",
+        "current_affiliation": "Assistant Professor at the School of Computing - University of North Florida - USA",
+        "honorific": "Dr.",
+        "full_name": "G L Indika M K Kahanda",
+        "name_with_initials": "G.L.I.M.K. Kahanda",
+        "preferred_short_name": "Indika",
+        "preferred_long_name": "Indika Kahanda",
+        "emails": {
+            "personal": {
+                "name": "indika.kahanda",
+                "domain": "unf.edu"
+            },
+            "faculty": {
+                "name": "",
+                "domain": ""
+            }
+        },
+        "location": "United States of America",
+        "interests": [
+            "Bioinformatics",
+            "Biomedical Informatics"
+        ],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e02a/e02a320.jpg",
+        "urls": {
+            "cv": "",
+            "website": "https://sites.google.com/view/indikamk/",
+            "linkedin": "https://www.linkedin.com/in/indikamk/",
+            "github": "",
+            "facebook": "",
+            "researchgate": "https://www.researchgate.net/profile/Indika-Kahanda",
+            "twitter": "https://twitter.com/KahandaLab"
+        }
+    },
+    "E/10/102": {
+        "eNumber": "E/10/102",
+        "batch": "E10",
+        "department": "Computer Engineering",
+        "current_affiliation": "Garvan Institute of Medical Research- Sydney - New South Wales - Australia",
+        "honorific": "Dr.",
+        "full_name": "Hasindu M. Gamaarachchi",
+        "name_with_initials": "H.M. Gamaarachchi",
+        "preferred_short_name": "Hasindu",
+        "preferred_long_name": "Hasindu Gamaarachchi",
+        "emails": {
+            "personal": {
+                "name": "hasindu2008",
+                "domain": "gmail.com"
+            },
+            "faculty": {
+                "name": "hasindu",
+                "domain": "unsw.edu.au"
+            }
+        },
+        "location": "Sydney, Australia",
+        "interests": [],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e10/e10102.jpg",
+        "urls": {
+            "cv": "",
+            "website": "https://hasindu2008.github.io/",
+            "linkedin": "https://www.linkedin.com/in/hasindugamaarachchi/",
+            "github": "",
+            "facebook": "https://www.facebook.com/hasindu2008",
+            "researchgate": "https://www.researchgate.net/profile/Hasindu-Gamaarachchi-2",
+            "twitter": "https://twitter.com/Hasindu2008"
+        }
+    },
+    "E/10/143": {
+        "eNumber": "E/10/143",
+        "batch": "E10",
+        "department": "Computer Engineering",
+        "current_affiliation": "Biomedical Engineer in Residence - The MARCS Institute for Brain Behaviour and Development - Western Sydney University - Australia",
+        "honorific": "Dr.",
+        "full_name": "HP Titus Nanda Kumara Jayarathna",
+        "name_with_initials": "H.P.T.N.K. Jayarathna",
+        "preferred_short_name": "Titus",
+        "preferred_long_name": "Titus Jayarathna",
+        "emails": {
+            "personal": {
+                "name": "titus.nandakumara",
+                "domain": "gmail.com"
+            },
+            "faculty": {
+                "name": "",
+                "domain": ""
+            }
+        },
+        "location": "Sydney, Australia",
+        "interests": [],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e10/e10143.jpg",
+        "urls": {
+            "cv": "",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/titusnandakumara/",
+            "github": "https://github.com/titusnkumara",
+            "facebook": "https://www.facebook.com/titus.nandakumara",
+            "researchgate": "https://www.researchgate.net/profile/Titus-Nanda-Kumara",
+            "twitter": "https://twitter.com/titusnkumara"
+        }
+    },
+    "E/10/255": {
+        "eNumber": "E/10/255",
+        "batch": "E10",
+        "department": "Computer Engineering",
+        "current_affiliation": "SLT Mobitel ",
+        "honorific": "Mr.",
+        "full_name": "Weerasinghe Mudiyanselage Lahiru Indunil Prasanna",
+        "name_with_initials": "W. M. L. I. Prasanna",
+        "preferred_short_name": "Indunil",
+        "preferred_long_name": "Indunil Prasanna",
         "emails": {
             "personal": {
                 "name": "",
                 "domain": ""
             },
             "faculty": {
-                "name": "e14009",
-                "domain": "ce.pdn.ac.lk"
+                "name": "lahirupr",
+                "domain": "mobitel.lk"
+            }
+        },
+        "location": "Wellawaya",
+        "interests": [],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e10/e10255.jpg",
+        "urls": {
+            "cv": "",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/indunilprasanna",
+            "github": "",
+            "facebook": "",
+            "researchgate": "",
+            "twitter": ""
+        }
+    },
+    "E/11/024": {
+        "eNumber": "E/11/024",
+        "batch": "E11",
+        "department": "Computer Engineering",
+        "current_affiliation": "#",
+        "honorific": "Mr.",
+        "full_name": "Athukoralalage Supun Prabhath Athukorala",
+        "name_with_initials": "A. S. P. Athukorala",
+        "preferred_short_name": "Supun",
+        "preferred_long_name": "Supun Athukorala",
+        "emails": {
+            "personal": {
+                "name": "supunasp",
+                "domain": "gmail.com"
+            },
+            "faculty": {
+                "name": "",
+                "domain": ""
+            }
+        },
+        "location": "Rathnapura, Sri Lanka",
+        "interests": [],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e11/e11024.jpg",
+        "urls": {
+            "cv": "",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/supunasp",
+            "github": "https://github.com/supunasp",
+            "facebook": "https://www.facebook.com/supunasp",
+            "researchgate": "https://www.researchgate.net/profile/Supun-Athukorala",
+            "twitter": "https://twitter.com/supunasp"
+        }
+    },
+    "E/11/313": {
+        "eNumber": "E/11/313",
+        "batch": "E11",
+        "department": "Computer Engineering",
+        "current_affiliation": "Google and Purdue University",
+        "honorific": "Mr.",
+        "full_name": "Malin P. Prematilake",
+        "name_with_initials": "M.P. Prematilake",
+        "preferred_short_name": "Malin",
+        "preferred_long_name": "Malin Prematilake",
+        "emails": {
+            "personal": {
+                "name": "malinprematilake",
+                "domain": "gmail.com"
+            },
+            "faculty": {
+                "name": "mpremati",
+                "domain": "purdue.edu"
+            }
+        },
+        "location": "USA",
+        "interests": [],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e11/e11313.jpg",
+        "urls": {
+            "cv": "http://malinprematilake.com/resumeMpremati_5_29_2021.pdf",
+            "website": "http://malinprematilake.com/",
+            "linkedin": "https://www.linkedin.com/in/malinprematilake/",
+            "github": "https://github.com/malin-prematilake",
+            "facebook": "https://www.facebook.com/malin.prematilake",
+            "researchgate": "https://www.researchgate.net/profile/Malin-Prematilake-2",
+            "twitter": ""
+        }
+    },
+    "E/12/009": {
+        "eNumber": "E/12/009",
+        "batch": "E12",
+        "department": "Computer Engineering",
+        "current_affiliation": "PhD Student - School of Computer Science - Queensland University of Technology - Brisbane - Australia",
+        "honorific": "Miss.",
+        "full_name": "R.P.B. Jayamine Alupotha",
+        "name_with_initials": "R.P.B.J. Alupotha",
+        "preferred_short_name": "Jayamine",
+        "preferred_long_name": "Jayamine Alupotha",
+        "emails": {
+            "personal": {
+                "name": "jayamine.alupotha",
+                "domain": "gmail.com"
+            },
+            "faculty": {
+                "name": "",
+                "domain": ""
+            }
+        },
+        "location": "Queensland, Australia",
+        "interests": [
+            "Internet",
+            "blockchains",
+            "client-server systems",
+            "cryptographic protocols",
+            "digital signatures",
+            "protocols",
+            "public key cryptography",
+            "security of data"
+        ],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e12/e12009.jpg",
+        "urls": {
+            "cv": "",
+            "website": "",
+            "linkedin": "",
+            "github": "",
+            "facebook": "https://www.facebook.com/jayamine.alupotha",
+            "researchgate": "",
+            "twitter": ""
+        }
+    },
+    "E/12/047": {
+        "eNumber": "E/12/047",
+        "batch": "E12",
+        "department": "Computer Engineering",
+        "current_affiliation": "PHD Student at University of Sydney",
+        "honorific": "Miss.",
+        "full_name": "Thilini .N. Dahanayaka",
+        "name_with_initials": "T.N. Dahanayaka",
+        "preferred_short_name": "Thilini",
+        "preferred_long_name": "Thilini Dahanayaka",
+        "emails": {
+            "personal": {
+                "name": "d201292",
+                "domain": "gmail.com"
+            },
+            "faculty": {
+                "name": "",
+                "domain": ""
+            }
+        },
+        "location": "Sydney, Australia",
+        "interests": [],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e12/e12047.jpg",
+        "urls": {
+            "cv": "",
+            "website": "https://www.sydney.edu.au/engineering/about/our-people/research-students/thilini-dahanayaka-109.html",
+            "linkedin": "https://www.linkedin.com/in/thilinidahanayaka",
+            "github": "",
+            "facebook": "",
+            "researchgate": "",
+            "twitter": ""
+        }
+    },
+    "E/12/061": {
+        "eNumber": "E/12/061",
+        "batch": "E12",
+        "department": "Computer Engineering",
+        "current_affiliation": "Enactor Ltd",
+        "honorific": "Miss.",
+        "full_name": "Epalawattage Danoja Lakmini Dias",
+        "name_with_initials": "E. D. L. Dias",
+        "preferred_short_name": "Danoja",
+        "preferred_long_name": "Danoja Dias",
+        "emails": {
+            "personal": {
+                "name": "danojadias",
+                "domain": "gmail.com"
+            },
+            "faculty": {
+                "name": "danoja.dias",
+                "domain": "enactor.co.uk"
+            }
+        },
+        "location": "Colombo, Sri Lanka",
+        "interests": [
+            "Sports",
+            "Movies"
+        ],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e12/e12061.jpg",
+        "urls": {
+            "cv": "",
+            "website": "",
+            "linkedin": "https://medium.com/@danojadias",
+            "github": "",
+            "facebook": "",
+            "researchgate": "",
+            "twitter": ""
+        }
+    },
+    "E/12/269": {
+        "eNumber": "E/12/269",
+        "batch": "E12",
+        "department": "Computer Engineering",
+        "current_affiliation": "PHD Student at Monash Information Technology",
+        "honorific": "Miss.",
+        "full_name": "R.P. Sanduni Prasadi",
+        "name_with_initials": "R.P.S. Prasadi",
+        "preferred_short_name": "Sanduni",
+        "preferred_long_name": "Sanduni Prasadi",
+        "emails": {
+            "personal": {
+                "name": "sanduniprasadi06",
+                "domain": "gmail.com"
+            },
+            "faculty": {
+                "name": "",
+                "domain": ""
             }
         },
         "location": "",
         "interests": [],
-        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14009.jpg",
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e12/e12269.jpg",
+        "urls": {
+            "cv": "",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/sanduni-prasadi-69130192/",
+            "github": "",
+            "facebook": "",
+            "researchgate": "https://www.researchgate.net/profile/Sanduni-Prasadi",
+            "twitter": ""
+        }
+    },
+    "E/12/283": {
+        "eNumber": "E/12/283",
+        "batch": "E12",
+        "department": "Computer Engineering",
+        "current_affiliation": "Doctoral researcher on Machine Ethics - University College Dublin - Ireland",
+        "honorific": "Mr.",
+        "full_name": "R.M.G. Rajitha Ramanayake",
+        "name_with_initials": "R.M.G.R.S. Ramanayake",
+        "preferred_short_name": "Rajitha",
+        "preferred_long_name": "Rajitha Ramanayake",
+        "emails": {
+            "personal": {
+                "name": "rajitharamanayake",
+                "domain": "gmail.com"
+            },
+            "faculty": {
+                "name": "",
+                "domain": ""
+            }
+        },
+        "location": "Dublin, Ireland",
+        "interests": [
+            "Machine Ethics"
+        ],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e12/e12283.jpg",
+        "urls": {
+            "cv": "",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/rajitharamanayake/",
+            "github": "",
+            "facebook": "",
+            "researchgate": "https://www.researchgate.net/profile/Rajitha-Ramanayake-2",
+            "twitter": ""
+        }
+    },
+    "E/12/346": {
+        "eNumber": "E/12/346",
+        "batch": "E12",
+        "department": "Computer Engineering",
+        "current_affiliation": "University of New South Wales - Australia",
+        "honorific": "Mr.",
+        "full_name": "K.D. Brian C. Udugama",
+        "name_with_initials": "K.D.B.C.Udugama",
+        "preferred_short_name": "Brian",
+        "preferred_long_name": "Brian Udugama",
+        "emails": {
+            "personal": {
+                "name": "b.udugama",
+                "domain": "unsw.edu.au"
+            },
+            "faculty": {
+                "name": "",
+                "domain": ""
+            }
+        },
+        "location": "Australia",
+        "interests": [],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e12/e12346.jpg",
         "urls": {
             "cv": "",
             "website": "",
@@ -32,10 +480,149 @@
             "twitter": ""
         }
     },
+    "E/13/181": {
+        "eNumber": "E/13/181",
+        "batch": "E13",
+        "department": "Computer Engineering",
+        "current_affiliation": "University of California Los Angeles and Nvidia",
+        "honorific": "Mr.",
+        "full_name": "Samurdhi L.B. Karunarathne",
+        "name_with_initials": "S.L.B. Karunarathne",
+        "preferred_short_name": "Samurdhi",
+        "preferred_long_name": "Samurdhi Karunarathne",
+        "emails": {
+            "personal": {
+                "name": "samurdhilbk",
+                "domain": "gmail.com"
+            },
+            "faculty": {
+                "name": "",
+                "domain": ""
+            }
+        },
+        "location": "California, USA",
+        "interests": [],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e13/e13181.jpg",
+        "urls": {
+            "cv": "http://samurdhi.me/cv.pdf",
+            "website": "http://samurdhi.me/",
+            "linkedin": "https://www.linkedin.com/in/samurdhilbk/",
+            "github": "",
+            "facebook": "https://www.facebook.com/samurdhilbk",
+            "researchgate": "",
+            "twitter": "https://twitter.com/samurdhilbk"
+        }
+    },
+    "E/13/206": {
+        "eNumber": "E/13/206",
+        "batch": "E13",
+        "department": "Computer Engineering",
+        "current_affiliation": "PhD Candidate at UNSW Engineering",
+        "honorific": "Mr.",
+        "full_name": "L. Kisaru R.Liyanage",
+        "name_with_initials": "L.K.R.Liyanage",
+        "preferred_short_name": "Kisaru",
+        "preferred_long_name": "Kisaru Liyanage",
+        "emails": {
+            "personal": {
+                "name": "kisarur",
+                "domain": "gmail.com"
+            },
+            "faculty": {
+                "name": "",
+                "domain": ""
+            }
+        },
+        "location": "",
+        "interests": [
+            "Accelerating Bioinformatics Algorithms on Hardware"
+        ],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e13/e13206.jpg",
+        "urls": {
+            "cv": "",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/kisarur/",
+            "github": "",
+            "facebook": "",
+            "researchgate": "",
+            "twitter": ""
+        }
+    },
+    "E/13/274": {
+        "eNumber": "E/13/274",
+        "batch": "E13",
+        "department": "Computer Engineering",
+        "current_affiliation": "Ph.D. candidate at North Carolina State University",
+        "honorific": "Mr.",
+        "full_name": "Yasitha N. Rajapaksha",
+        "name_with_initials": "Y.N.Rajapaksha",
+        "preferred_short_name": "Yasitha",
+        "preferred_long_name": "Yasitha Rajapaksha",
+        "emails": {
+            "personal": {
+                "name": "yasitha.rajapaksha",
+                "domain": "gmail.com"
+            },
+            "faculty": {
+                "name": "",
+                "domain": ""
+            }
+        },
+        "location": "North Carolina, USA",
+        "interests": [],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e13/e13274.jpg",
+        "urls": {
+            "cv": "",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/yasitha-rajapaksha/",
+            "github": "",
+            "facebook": "",
+            "researchgate": "",
+            "twitter": ""
+        }
+    },
+    "E/14/009": {
+        "eNumber": "E/14/009",
+        "batch": "E14",
+        "department": "Computer Engineering",
+        "current_affiliation": "Enactor Limited",
+        "honorific": "Mr.",
+        "full_name": "Adikari Mudiyanselage Hishan Indrajith Adikari",
+        "name_with_initials": "A. M. Hishan Indrajith Adikari",
+        "preferred_short_name": "Hishan",
+        "preferred_long_name": "Hishan Indrajith",
+        "emails": {
+            "personal": {
+                "name": "hishan.indrajith",
+                "domain": "gmail.com"
+            },
+            "faculty": {
+                "name": "hishan.indrajith.adikari",
+                "domain": "eng.pdn.ac.lk"
+            }
+        },
+        "location": "Kurunegala, Sri Lanka",
+        "interests": [
+            "Programming",
+            "Sotware Architecture",
+            "Designing",
+            "Problem Solving"
+        ],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14009.jpg",
+        "urls": {
+            "cv": "https://hishan.me/resume.pdf",
+            "website": "https://hishan.me",
+            "linkedin": "https://www.linkedin.com/in/hishan-indrajith",
+            "github": "https://github.com/HishanIndrajith",
+            "facebook": "https://www.facebook.com/hishan.indrajith",
+            "researchgate": "",
+            "twitter": "https://twitter.com/Hishan95hia"
+        }
+    },
     "E/14/010": {
         "eNumber": "E/14/010",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Nadun Adikari",
@@ -68,32 +655,32 @@
     "E/14/011": {
         "eNumber": "E/14/011",
         "batch": "E14",
-        "department": "Computer",
-        "current_affiliation": "",
-        "honorific": "",
-        "full_name": "Tharana Agalakumbura",
-        "name_with_initials": "",
+        "department": "Computer Engineering",
+        "current_affiliation": "Syeta Labs",
+        "honorific": "Mr.",
+        "full_name": "Sathyanga Tharana Agalakumbura",
+        "name_with_initials": "Agalakumbura S.T",
         "preferred_short_name": "Tharana",
-        "preferred_long_name": "Tharana Agalakumbura",
+        "preferred_long_name": "Sathyanga Tharana",
         "emails": {
             "personal": {
-                "name": "",
-                "domain": ""
+                "name": "stharana2013",
+                "domain": "gmail.com"
             },
             "faculty": {
-                "name": "e14011",
-                "domain": "ce.pdn.ac.lk"
+                "name": "sathyanga.agalakumbura",
+                "domain": "eng.pdn.ac.lk"
             }
         },
-        "location": "",
+        "location": "Badulla",
         "interests": [],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14011.jpg",
         "urls": {
-            "cv": "",
-            "website": "",
-            "linkedin": "",
-            "github": "",
-            "facebook": "",
+            "cv": "www.stharana.me",
+            "website": "www.stharana.me",
+            "linkedin": "https://www.linkedin.com/in/stharana",
+            "github": "https://github.com/stharana",
+            "facebook": "https://facebook.com/stharana",
             "researchgate": "",
             "twitter": ""
         }
@@ -101,7 +688,7 @@
     "E/14/012": {
         "eNumber": "E/14/012",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "J.R. Ahmedh",
@@ -134,7 +721,7 @@
     "E/14/017": {
         "eNumber": "E/14/017",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Anojan S",
@@ -167,7 +754,7 @@
     "E/14/018": {
         "eNumber": "E/14/018",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Anuradha Wijewickrama",
@@ -200,7 +787,7 @@
     "E/14/021": {
         "eNumber": "E/14/021",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Danushka Ariyaratne",
@@ -233,7 +820,7 @@
     "E/14/028": {
         "eNumber": "E/14/028",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Tharuka Bandara",
@@ -266,7 +853,7 @@
     "E/14/037": {
         "eNumber": "E/14/037",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Prabhath Bandara",
@@ -299,7 +886,7 @@
     "E/14/049": {
         "eNumber": "E/14/049",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Kasun Chamara",
@@ -332,7 +919,7 @@
     "E/14/054": {
         "eNumber": "E/14/054",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Chathurangi .E",
@@ -365,7 +952,7 @@
     "E/14/065": {
         "eNumber": "E/14/065",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Mahendra Dassanayaka",
@@ -398,7 +985,7 @@
     "E/14/068": {
         "eNumber": "E/14/068",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Harsha DeSilva",
@@ -431,7 +1018,7 @@
     "E/14/080": {
         "eNumber": "E/14/080",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Kaveesha Dilshani",
@@ -464,7 +1051,7 @@
     "E/14/084": {
         "eNumber": "E/14/084",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Namila Dissanayaka",
@@ -497,7 +1084,7 @@
     "E/14/108": {
         "eNumber": "E/14/108",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Gihan Gunarathna",
@@ -530,7 +1117,7 @@
     "E/14/125": {
         "eNumber": "E/14/125",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Hassana A.L.F.",
@@ -563,7 +1150,7 @@
     "E/14/136": {
         "eNumber": "E/14/136",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Dinuka Hettiarachchi",
@@ -596,7 +1183,7 @@
     "E/14/141": {
         "eNumber": "E/14/141",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Puwasuru Ihalagedara",
@@ -629,7 +1216,7 @@
     "E/14/142": {
         "eNumber": "E/14/142",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Amila Indika",
@@ -662,7 +1249,7 @@
     "E/14/144": {
         "eNumber": "E/14/144",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Jazeel Ismail",
@@ -695,73 +1282,81 @@
     "E/14/154": {
         "eNumber": "E/14/154",
         "batch": "E14",
-        "department": "Computer",
-        "current_affiliation": "",
-        "honorific": "",
-        "full_name": "Shyaman Jayasundara",
-        "name_with_initials": "",
+        "department": "Computer Engineering",
+        "current_affiliation": "Agricultural Biotechnology Centre, University of Peradeniya",
+        "honorific": "Mr.",
+        "full_name": "Jayasundara Mudiyanselage Shyaman Madhawa Jayasundara",
+        "name_with_initials": "J.M.S.M. Jayasundara",
         "preferred_short_name": "Shyaman",
         "preferred_long_name": "Shyaman Jayasundara",
         "emails": {
             "personal": {
-                "name": "",
-                "domain": ""
+                "name": "shayaman321",
+                "domain": "gmail.com"
             },
             "faculty": {
-                "name": "e14154",
-                "domain": "ce.pdn.ac.lk"
+                "name": "jmshyaman",
+                "domain": "eng.pdn.ac.lk"
             }
         },
-        "location": "",
-        "interests": [],
+        "location": "Nikaweratiya, Sri Lanka",
+        "interests": [
+            "Bioinformatics",
+            "Biomedical Informatics",
+            "Machine Learning"
+        ],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14154.jpg",
         "urls": {
-            "cv": "",
-            "website": "",
-            "linkedin": "",
-            "github": "",
-            "facebook": "",
-            "researchgate": "",
-            "twitter": ""
+            "cv": "https://www.shyaman.me/cv",
+            "website": "https://www.shyaman.me/",
+            "linkedin": "https://www.linkedin.com/in/shyaman-jayasundara",
+            "github": "https://github.com/shyaman/",
+            "facebook": "https://www.facebook.com/shyaman.madhawa/",
+            "researchgate": "https://www.researchgate.net/profile/Shyaman-Jayasundara",
+            "twitter": "https://twitter.com/shyaman_madhawa"
         }
     },
     "E/14/158": {
         "eNumber": "E/14/158",
         "batch": "E14",
-        "department": "Computer",
-        "current_affiliation": "",
-        "honorific": "",
-        "full_name": "Gihan Jayatilake",
-        "name_with_initials": "",
+        "department": "Computer Engineering",
+        "current_affiliation": "Department of Computer Science - University of Maryland",
+        "honorific": "Mr.",
+        "full_name": "Gihan Chanaka Jayatilaka",
+        "name_with_initials": "G.C. Jayatilaka",
         "preferred_short_name": "Gihan",
-        "preferred_long_name": "Gihan Jayatilake",
+        "preferred_long_name": "Gihan Jayatilaka",
         "emails": {
             "personal": {
                 "name": "",
                 "domain": ""
             },
             "faculty": {
-                "name": "e14158",
-                "domain": "ce.pdn.ac.lk"
+                "name": "Look up https://cs.umd.edu/~gihan/contact/",
+                "domain": ""
             }
         },
-        "location": "",
-        "interests": [],
+        "location": "College Park, Maryland, USA",
+        "interests": [
+            "Algorithms",
+            "Computer Vision",
+            "Machine Learning"
+        ],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
         "urls": {
-            "cv": "",
-            "website": "",
-            "linkedin": "",
-            "github": "",
-            "facebook": "",
-            "researchgate": "",
-            "twitter": ""
+            "cv": "https://cs.umd.edu/~gihan/cv.pdf",
+            "website": "https://cs.umd.edu/~gihan/",
+            "linkedin": "linkedin.com/in/gihanjayatilaka/",
+            "github": "https://github.com/gihanjayatilaka",
+            "facebook": "https://www.facebook.com/gihanjayatilaka",
+            "researchgate": "https://www.researchgate.net/profile/Gihan-Jayatilaka",
+            "twitter": "https://twitter.com/GihanJayatilaka"
         }
     },
     "E/14/178": {
         "eNumber": "E/14/178",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Kavishka Karunasinghe",
@@ -794,40 +1389,42 @@
     "E/14/181": {
         "eNumber": "E/14/181",
         "batch": "E14",
-        "department": "Computer",
-        "current_affiliation": "",
-        "honorific": "",
-        "full_name": "Hashan Kavinda",
-        "name_with_initials": "",
+        "department": "Computer Engineering",
+        "current_affiliation": "#",
+        "honorific": "Mr.",
+        "full_name": "Thotawaththa Badalge Don Hashan Kavinda",
+        "name_with_initials": "T.B.D.H. Kavinda",
         "preferred_short_name": "Hashan",
         "preferred_long_name": "Hashan Kavinda",
         "emails": {
             "personal": {
-                "name": "",
-                "domain": ""
+                "name": "delpierokavinda",
+                "domain": "gmail.com"
             },
             "faculty": {
-                "name": "e14181",
-                "domain": "ce.pdn.ac.lk"
+                "name": "dhkavinda",
+                "domain": "eng.pdn.ac.lk"
             }
         },
-        "location": "",
-        "interests": [],
+        "location": "Gampaha",
+        "interests": [
+            "Mathematics"
+        ],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14181.jpg",
         "urls": {
-            "cv": "",
+            "cv": "https://drive.google.com/file/d/1rgwDutjrwjqPQebdBtfXnmUeYHJum6bo/view?usp=sharing",
             "website": "",
-            "linkedin": "",
-            "github": "",
-            "facebook": "",
+            "linkedin": "https://www.linkedin.com/in/hashankavinda/",
+            "github": "https://github.com/hashankavinda",
+            "facebook": "https://www.facebook.com/dhkavinda/",
             "researchgate": "",
-            "twitter": ""
+            "twitter": "https://twitter.com/HashanKavinda95"
         }
     },
     "E/14/194": {
         "eNumber": "E/14/194",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Sandali Lokuge",
@@ -860,7 +1457,7 @@
     "E/14/198": {
         "eNumber": "E/14/198",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Madhuraj B.A.S.",
@@ -893,7 +1490,7 @@
     "E/14/213": {
         "eNumber": "E/14/213",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Ruchira Mahaliyana",
@@ -926,7 +1523,7 @@
     "E/14/216": {
         "eNumber": "E/14/216",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Majurageerthan a.",
@@ -959,7 +1556,7 @@
     "E/14/222": {
         "eNumber": "E/14/222",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Rahal Medawette",
@@ -992,31 +1589,31 @@
     "E/14/228": {
         "eNumber": "E/14/228",
         "batch": "E14",
-        "department": "Computer",
-        "current_affiliation": "",
-        "honorific": "",
+        "department": "Computer Engineering",
+        "current_affiliation": "Evonsys pvt",
+        "honorific": "Mr.",
         "full_name": "Shanaka Munasinghe",
-        "name_with_initials": "",
+        "name_with_initials": "S.L.Munasinghe",
         "preferred_short_name": "Shanaka",
-        "preferred_long_name": "Shanaka Munasinghe",
+        "preferred_long_name": "Shanaka munasinghe",
         "emails": {
             "personal": {
-                "name": "",
-                "domain": ""
+                "name": "shanakamunasingheplay",
+                "domain": "gmail.com"
             },
             "faculty": {
-                "name": "e14228",
-                "domain": "ce.pdn.ac.lk"
+                "name": "shanaka.munasinghe",
+                "domain": "eng.pdn.ac.lk"
             }
         },
-        "location": "",
+        "location": "Colombo",
         "interests": [],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14228.jpg",
         "urls": {
             "cv": "",
             "website": "",
-            "linkedin": "",
-            "github": "",
+            "linkedin": "https://www.linkedin.com/in/shanaka-munasinghe-97b15815a",
+            "github": "Https://github.com/shanakamunasinghe",
             "facebook": "",
             "researchgate": "",
             "twitter": ""
@@ -1025,7 +1622,7 @@
     "E/14/233": {
         "eNumber": "E/14/233",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Tharanga Niroshana",
@@ -1058,40 +1655,42 @@
     "E/14/237": {
         "eNumber": "E/14/237",
         "batch": "E14",
-        "department": "Computer",
-        "current_affiliation": "",
-        "honorific": "",
-        "full_name": "Pankayaraj P.",
-        "name_with_initials": "",
+        "department": "Computer Engineering",
+        "current_affiliation": "School of Information Systems - Singapore Management University",
+        "honorific": "Mr.",
+        "full_name": "Pankayaraj Pathmanathan",
+        "name_with_initials": "P. Pankayaraj",
         "preferred_short_name": "Pankayaraj",
-        "preferred_long_name": "Pankayaraj P.",
+        "preferred_long_name": "Pankayaraj Pathmanathan",
         "emails": {
             "personal": {
-                "name": "",
-                "domain": ""
+                "name": "pankayaraj1995",
+                "domain": "gmail.com"
             },
             "faculty": {
-                "name": "e14237",
-                "domain": "ce.pdn.ac.lk"
+                "name": "",
+                "domain": ""
             }
         },
-        "location": "",
-        "interests": [],
+        "location": "Singapore",
+        "interests": [
+            "Reinforcement Learning"
+        ],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14237.jpg",
         "urls": {
-            "cv": "",
-            "website": "",
-            "linkedin": "",
-            "github": "",
-            "facebook": "",
-            "researchgate": "",
-            "twitter": ""
+            "cv": "https://punk95.github.io/reports/PankayarajCV.pdf",
+            "website": "https://punk95.github.io/",
+            "linkedin": "https://www.linkedin.com/in/pankayaraj-pathmanathan-259926119/",
+            "github": "https://github.com/punk95/",
+            "facebook": "https://www.facebook.com/pankayaraj.pathmanathan.9",
+            "researchgate": "https://www.researchgate.net/profile/Pankayaraj-Pathmanathan/research",
+            "twitter": "https://twitter.com/pankayaraj29"
         }
     },
     "E/14/238": {
         "eNumber": "E/14/238",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Rochana Pathiraja",
@@ -1124,7 +1723,7 @@
     "E/14/240": {
         "eNumber": "E/14/240",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Dhanushki Pavithya",
@@ -1157,24 +1756,24 @@
     "E/14/243": {
         "eNumber": "E/14/243",
         "batch": "E14",
-        "department": "Computer",
-        "current_affiliation": "",
-        "honorific": "",
-        "full_name": "Shehan Perera",
-        "name_with_initials": "",
+        "department": "Computer Engineering",
+        "current_affiliation": "WSO2 Lanka Pvt ltd",
+        "honorific": "Mr.",
+        "full_name": "Gangodawilage Shehan Dinuka Perera",
+        "name_with_initials": "G S D Perera",
         "preferred_short_name": "Shehan",
-        "preferred_long_name": "Shehan Perera",
+        "preferred_long_name": "Shehan Dinuka",
         "emails": {
             "personal": {
-                "name": "",
-                "domain": ""
+                "name": "shehandinuka123",
+                "domain": "gmail.com"
             },
             "faculty": {
-                "name": "e14243",
-                "domain": "ce.pdn.ac.lk"
+                "name": "shehandi",
+                "domain": "wso2.com"
             }
         },
-        "location": "",
+        "location": "Boralesgamuwa, Sri Lanka",
         "interests": [],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14243.jpg",
         "urls": {
@@ -1190,7 +1789,7 @@
     "E/14/244": {
         "eNumber": "E/14/244",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Sehan Perera",
@@ -1223,7 +1822,7 @@
     "E/14/262": {
         "eNumber": "E/14/262",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Sanoj Punchihewa",
@@ -1256,7 +1855,7 @@
     "E/14/277": {
         "eNumber": "E/14/277",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Tharindu Ranaweera",
@@ -1289,7 +1888,7 @@
     "E/14/287": {
         "eNumber": "E/14/287",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Kalana Rathnayaka",
@@ -1322,32 +1921,32 @@
     "E/14/298": {
         "eNumber": "E/14/298",
         "batch": "E14",
-        "department": "Computer",
-        "current_affiliation": "",
-        "honorific": "",
-        "full_name": "Jayamal Ruwantha",
-        "name_with_initials": "",
+        "department": "Computer Engineering",
+        "current_affiliation": "SyscoLabs SriLanka (Pvt) Ltd",
+        "honorific": "Mr.",
+        "full_name": "Jayamaha Mudalige Don Jayamal Ruwantha",
+        "name_with_initials": "J.M.D.J Ruwantha",
         "preferred_short_name": "Jayamal",
-        "preferred_long_name": "Jayamal Ruwantha",
+        "preferred_long_name": "Jayamal Jayamaha",
         "emails": {
             "personal": {
-                "name": "",
-                "domain": ""
+                "name": "jayamaljayamaha2",
+                "domain": "gmail.com"
             },
             "faculty": {
-                "name": "e14298",
-                "domain": "ce.pdn.ac.lk"
+                "name": "jayamal.jayamaha",
+                "domain": "syscolabs.com"
             }
         },
-        "location": "",
+        "location": "Nugape, Pammunugama, SriLanka",
         "interests": [],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14298.jpg",
         "urls": {
             "cv": "",
             "website": "",
-            "linkedin": "",
-            "github": "",
-            "facebook": "",
+            "linkedin": "https://www.linkedin.com/in/jayamal-jayamaha-a7a582126/",
+            "github": "https://github.com/jayamaljayamaha",
+            "facebook": "https://www.facebook.com/jayamal.jayamaha2/",
             "researchgate": "",
             "twitter": ""
         }
@@ -1355,7 +1954,7 @@
     "E/14/302": {
         "eNumber": "E/14/302",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Hiruna Samarakoon",
@@ -1388,40 +1987,40 @@
     "E/14/305": {
         "eNumber": "E/14/305",
         "batch": "E14",
-        "department": "Computer",
-        "current_affiliation": "",
-        "honorific": "",
-        "full_name": "Chaminda Samarasinghe",
-        "name_with_initials": "",
-        "preferred_short_name": "Chaminda",
-        "preferred_long_name": "Chaminda Samarasinghe",
+        "department": "Computer Engineering",
+        "current_affiliation": "Sysco LABS - Sri Lanka",
+        "honorific": "Mr.",
+        "full_name": "Uduwawe Gedara Chandima Bandara Samarasinghe",
+        "name_with_initials": "U. G. C. B. Samarasinghe",
+        "preferred_short_name": "Chandima",
+        "preferred_long_name": "Chandima Samarasinghe",
         "emails": {
             "personal": {
                 "name": "",
                 "domain": ""
             },
             "faculty": {
-                "name": "e14305",
-                "domain": "ce.pdn.ac.lk"
+                "name": "chandima.s",
+                "domain": "eng.pdn.ac.lk"
             }
         },
-        "location": "",
+        "location": "Kandy",
         "interests": [],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14305.jpg",
         "urls": {
-            "cv": "",
-            "website": "",
-            "linkedin": "",
-            "github": "",
-            "facebook": "",
-            "researchgate": "",
+            "cv": "https://sausecode.com/chandima",
+            "website": "https://sausecode.com",
+            "linkedin": "https://www.linkedin.com/in/chandimab/",
+            "github": "https://github.com/chandimab",
+            "facebook": "https://www.facebook.com/chandimabs",
+            "researchgate": "https://www.researchgate.net/profile/Chandima-Samarasinghe-2",
             "twitter": ""
         }
     },
     "E/14/311": {
         "eNumber": "E/14/311",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Sankeerthan K.",
@@ -1454,7 +2053,7 @@
     "E/14/314": {
         "eNumber": "E/14/314",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Kusan Senanayake",
@@ -1487,7 +2086,7 @@
     "E/14/317": {
         "eNumber": "E/14/317",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Anjana Senanayake",
@@ -1520,7 +2119,7 @@
     "E/14/322": {
         "eNumber": "E/14/322",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Savinda Seneviratne",
@@ -1553,7 +2152,7 @@
     "E/14/335": {
         "eNumber": "E/14/335",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Rochitha Subasinghe",
@@ -1586,7 +2185,7 @@
     "E/14/336": {
         "eNumber": "E/14/336",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Nirodha Sachunthana",
@@ -1619,7 +2218,7 @@
     "E/14/337": {
         "eNumber": "E/14/337",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Yuvini Sumanasekera",
@@ -1652,7 +2251,7 @@
     "E/14/339": {
         "eNumber": "E/14/339",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Suren Sritharan",
@@ -1685,7 +2284,7 @@
     "E/14/349": {
         "eNumber": "E/14/349",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Rasika Thilakaratre",
@@ -1718,7 +2317,7 @@
     "E/14/352": {
         "eNumber": "E/14/352",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Chathuranga Thilakawansha",
@@ -1751,31 +2350,37 @@
     "E/14/364": {
         "eNumber": "E/14/364",
         "batch": "E14",
-        "department": "Computer",
-        "current_affiliation": "",
-        "honorific": "",
-        "full_name": "Nethmal Warusamana",
-        "name_with_initials": "",
+        "department": "Computer Engineering",
+        "current_affiliation": "99x",
+        "honorific": "Mr.",
+        "full_name": "Deesa Nethmal Warusamana",
+        "name_with_initials": "D.N Warusamana",
         "preferred_short_name": "Nethmal",
         "preferred_long_name": "Nethmal Warusamana",
         "emails": {
             "personal": {
-                "name": "",
-                "domain": ""
+                "name": "nethmalw",
+                "domain": "gmail.com"
             },
             "faculty": {
-                "name": "e14364",
-                "domain": "ce.pdn.ac.lk"
+                "name": "nethmalwarusamana",
+                "domain": "eng.pdn.ac.lk"
             }
         },
-        "location": "",
-        "interests": [],
+        "location": "Nelundeniya, Kegalle, Sri Lanka",
+        "interests": [
+            "Machine learning",
+            "Big data related analytics",
+            "Web development",
+            "R&D",
+            "Embedded systems"
+        ],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14364.jpg",
         "urls": {
-            "cv": "",
+            "cv": "https://drive.google.com/file/d/1Vkz2RlAqryqId65oCS2jbe2bDtsD3RQQ/view?usp=drivesdk",
             "website": "",
-            "linkedin": "",
-            "github": "",
+            "linkedin": "https://www.linkedin.com/in/nethmalw",
+            "github": "https://github.com/nethmalw",
             "facebook": "",
             "researchgate": "",
             "twitter": ""
@@ -1784,11 +2389,11 @@
     "E/14/379": {
         "eNumber": "E/14/379",
         "batch": "E14",
-        "department": "Computer",
-        "current_affiliation": "",
-        "honorific": "",
-        "full_name": "Harshana Weligampola",
-        "name_with_initials": "",
+        "department": "Computer Engineering",
+        "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
+        "honorific": "Mr.",
+        "full_name": "Weligampola Gedara Harshana Sumedha Weligampola",
+        "name_with_initials": "W.G.H.S. Weligampola",
         "preferred_short_name": "Harshana",
         "preferred_long_name": "Harshana Weligampola",
         "emails": {
@@ -1797,60 +2402,64 @@
                 "domain": ""
             },
             "faculty": {
-                "name": "e14379",
-                "domain": "ce.pdn.ac.lk"
+                "name": "",
+                "domain": ""
             }
         },
-        "location": "",
+        "location": "Kadugannawa, Sri Lanka",
         "interests": [],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14379.jpg",
         "urls": {
-            "cv": "",
-            "website": "",
-            "linkedin": "",
-            "github": "",
-            "facebook": "",
-            "researchgate": "",
-            "twitter": ""
+            "cv": "https://harshana95.github.io/data/CV.pdf",
+            "website": "https://harshana95.github.io/",
+            "linkedin": "https://linkedin.com/in/harshanasumedha",
+            "github": "https://github.com/harshana95/",
+            "facebook": "https://www.facebook.com/harshana.sumedha.5",
+            "researchgate": "https://www.researchgate.net/profile/Harshana-Weligampola-2",
+            "twitter": "https://twitter.com/harshanaSW"
         }
     },
     "E/14/380": {
         "eNumber": "E/14/380",
         "batch": "E14",
-        "department": "Computer",
-        "current_affiliation": "",
-        "honorific": "",
-        "full_name": "Eranda Yasith.Welikala",
-        "name_with_initials": "",
-        "preferred_short_name": "Eranda",
-        "preferred_long_name": "Eranda Yasith.Welikala",
+        "department": "Computer Engineering",
+        "current_affiliation": "AtLink Communication Inc.",
+        "honorific": "Mr.",
+        "full_name": "Erantha Yasith Wellikala",
+        "name_with_initials": "EY Welikala",
+        "preferred_short_name": "Erantha",
+        "preferred_long_name": "Erantha Welikala",
         "emails": {
             "personal": {
-                "name": "",
-                "domain": ""
+                "name": "eranthawelikala",
+                "domain": "gmail.com"
             },
             "faculty": {
-                "name": "e14380",
-                "domain": "ce.pdn.ac.lk"
+                "name": "eranthawelikala",
+                "domain": "eng.pdn.ac.lk"
             }
         },
-        "location": "",
-        "interests": [],
+        "location": "Padukka, Sri Lanka",
+        "interests": [
+            "Web Development",
+            "Mobile Development(iOS & Android)",
+            "RnD"
+        ],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14380.jpg",
         "urls": {
-            "cv": "",
-            "website": "",
-            "linkedin": "",
-            "github": "",
-            "facebook": "",
+            "cv": "https://eranthawelikala.github.io/cv.pdf",
+            "website": "https://eranthawelikala.github.io/",
+            "linkedin": "https://www.linkedin.com/in/eranthawelikala/",
+            "github": "https://github.com/eranthaWELIKALA",
+            "facebook": "https://www.facebook.com/erantha.welikala",
             "researchgate": "",
-            "twitter": ""
+            "twitter": "https://twitter.com/Eranthawelikala"
         }
     },
     "E/14/390": {
         "eNumber": "E/14/390",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Mabeesha Wijekoon",
@@ -1883,7 +2492,7 @@
     "E/14/402": {
         "eNumber": "E/14/402",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Ayeshan Wimalasena",
@@ -1916,7 +2525,7 @@
     "E/14/403": {
         "eNumber": "E/14/403",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Geeth Wimalasiri",
@@ -1949,7 +2558,7 @@
     "E/14/404": {
         "eNumber": "E/14/404",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Supun Withana",
@@ -1982,7 +2591,7 @@
     "E/14/410": {
         "eNumber": "E/14/410",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Hasitha Dilshan",
@@ -2015,7 +2624,7 @@
     "E/14/413": {
         "eNumber": "E/14/413",
         "batch": "E14",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Kasun Vithanage",
@@ -2048,7 +2657,7 @@
     "E/15/010": {
         "eNumber": "E/15/010",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Kalubowila Appuhamilage Ruchika Lawanga Alwis",
@@ -2081,17 +2690,17 @@
     "E/15/016": {
         "eNumber": "E/15/016",
         "batch": "E15",
-        "department": "Computer",
-        "current_affiliation": "",
-        "honorific": "",
+        "department": "Computer Engineering",
+        "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
+        "honorific": "Mr.",
         "full_name": "Sugendran Anojan",
-        "name_with_initials": "",
-        "preferred_short_name": "Sugendran",
-        "preferred_long_name": "Sugendran Anojan",
+        "name_with_initials": "S. Anojan",
+        "preferred_short_name": "Ano",
+        "preferred_long_name": "Suge Ano",
         "emails": {
             "personal": {
-                "name": "e15016",
-                "domain": "eng.pdn.ac.lk"
+                "name": "anojans1996",
+                "domain": "gmail.com"
             },
             "faculty": {
                 "name": "e15016",
@@ -2105,7 +2714,7 @@
             "cv": "",
             "website": "",
             "linkedin": "",
-            "github": "https://github.com/SugeAno",
+            "github": "",
             "facebook": "",
             "researchgate": "",
             "twitter": ""
@@ -2114,7 +2723,7 @@
     "E/15/021": {
         "eNumber": "E/15/021",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Mohammed Aslam",
@@ -2147,7 +2756,7 @@
     "E/15/023": {
         "eNumber": "E/15/023",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Avishka Dhananjaya Athapattu",
@@ -2180,7 +2789,7 @@
     "E/15/043": {
         "eNumber": "E/15/043",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Thalpe Pandithage Yasiru Bhagya",
@@ -2213,7 +2822,7 @@
     "E/15/048": {
         "eNumber": "E/15/048",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Sorriyapperuma Arachchige Gayal Laksara Chandrasiri",
@@ -2246,7 +2855,7 @@
     "E/15/059": {
         "eNumber": "E/15/059",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Prageeth Savinda Bandara Dassanayake",
@@ -2279,7 +2888,7 @@
     "E/15/065": {
         "eNumber": "E/15/065",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Kariyawasam Gamhewage Prasad Madhusanka De Silva",
@@ -2312,7 +2921,7 @@
     "E/15/076": {
         "eNumber": "E/15/076",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Juwana Hennadige Sandushi Dileka",
@@ -2345,7 +2954,7 @@
     "E/15/077": {
         "eNumber": "E/15/077",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Kaduru Pookunu Wanni Arachchi Kankanamge Kshithija Dilhani",
@@ -2378,7 +2987,7 @@
     "E/15/081": {
         "eNumber": "E/15/081",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Sudusinghe Liyanage Imalsha Dinuwanthi",
@@ -2411,7 +3020,7 @@
     "E/15/092": {
         "eNumber": "E/15/092",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Imesh Udara Ekanayake",
@@ -2444,7 +3053,7 @@
     "E/15/119": {
         "eNumber": "E/15/119",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Dalugoda Liyanage Dinithi Hasanika",
@@ -2477,7 +3086,7 @@
     "E/15/123": {
         "eNumber": "E/15/123",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Herath Mudiyanselage Meegaha Ellegedara Wishma Lakshan Herath",
@@ -2510,40 +3119,40 @@
     "E/15/131": {
         "eNumber": "E/15/131",
         "batch": "E15",
-        "department": "Computer",
-        "current_affiliation": "",
-        "honorific": "",
-        "full_name": "Mohammed Haris Hisni Mohammed",
-        "name_with_initials": "",
+        "department": "Computer Engineering",
+        "current_affiliation": "Synopsys Inc.",
+        "honorific": "Mr.",
+        "full_name": "Mohamed Haris Hisni Mohammed",
+        "name_with_initials": "M.H. Hisni Mohammed",
         "preferred_short_name": "Hisni",
         "preferred_long_name": "Hisni Mohammed",
         "emails": {
             "personal": {
-                "name": "hisnimohammed",
-                "domain": "eng.pdn.ac.lk"
+                "name": "",
+                "domain": ""
             },
             "faculty": {
                 "name": "hisnimohammed",
                 "domain": "eng.pdn.ac.lk"
             }
         },
-        "location": "",
+        "location": "Hemmathagama, Mawanella, Sri Lanka",
         "interests": [],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15131.jpg",
         "urls": {
             "cv": "",
             "website": "",
-            "linkedin": "",
+            "linkedin": "https://www.linkedin.com/in/hisni-mohammed/",
             "github": "https://github.com/hisni",
-            "facebook": "",
-            "researchgate": "",
-            "twitter": ""
+            "facebook": "https://www.facebook.com/hisnionline",
+            "researchgate": "https://www.researchgate.net/profile/Hisni-Mohammed-2",
+            "twitter": "https://twitter.com/hisnimoh"
         }
     },
     "E/15/136": {
         "eNumber": "E/15/136",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Hitihami Mudiyanselage Anjana Upamal Illankoon",
@@ -2576,7 +3185,7 @@
     "E/15/138": {
         "eNumber": "E/15/138",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Mohamed Mohideen Mohamed Irfan",
@@ -2609,7 +3218,7 @@
     "E/15/139": {
         "eNumber": "E/15/139",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Doloswalage Sajini Ishanthi",
@@ -2642,8 +3251,8 @@
     "E/15/140": {
         "eNumber": "E/15/140",
         "batch": "E15",
-        "department": "Computer",
-        "current_affiliation": "",
+        "department": "Computer Engineering",
+        "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "Mr.",
         "full_name": "Alahakoon Jaliyagodage Nuwan Madushanka Jaliyagoda",
         "name_with_initials": "Jaliyagoda A.J.N.M.",
@@ -2660,7 +3269,14 @@
             }
         },
         "location": "Gampola",
-        "interests": [],
+        "interests": [
+            "Mobile Robotics",
+            "Embedded Systems",
+            "Internet of Things",
+            "Web Application Developing",
+            "AR and VR",
+            "Industrial Automation"
+        ],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15140.jpg",
         "urls": {
             "cv": "https://nuwanjaliyagoda.com/cv/Jaliyagoda_AJNM.pdf",
@@ -2675,7 +3291,7 @@
     "E/15/142": {
         "eNumber": "E/15/142",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Ahalepa Hewage Ganindu Dhananja Jayalath",
@@ -2708,7 +3324,7 @@
     "E/15/154": {
         "eNumber": "E/15/154",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Jayasooriya Kankanmlage Chamin Nayanashan Jayasooriya",
@@ -2741,7 +3357,7 @@
     "E/15/171": {
         "eNumber": "E/15/171",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Kapilrajh Ravindrakumar",
@@ -2774,7 +3390,7 @@
     "E/15/173": {
         "eNumber": "E/15/173",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "Ms.",
         "full_name": "Senadheerage Dinelka Dilshani Karunarathna",
@@ -2807,7 +3423,7 @@
     "E/15/179": {
         "eNumber": "E/15/179",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Sethunga Mudiyanselage Anandi Kaushalya Karunaratne",
@@ -2840,7 +3456,7 @@
     "E/15/180": {
         "eNumber": "E/15/180",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Victor Michel Benadict Supipi Sudeshika Virajini Karunathilaka",
@@ -2873,7 +3489,7 @@
     "E/15/187": {
         "eNumber": "E/15/187",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Gallage Devin Kulanjith",
@@ -2906,7 +3522,7 @@
     "E/15/188": {
         "eNumber": "E/15/188",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Kiribathgodage Nithya Udari Kularatne",
@@ -2939,7 +3555,7 @@
     "E/15/202": {
         "eNumber": "E/15/202",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Dulanjali Preethimala Liyanage",
@@ -2972,7 +3588,7 @@
     "E/15/208": {
         "eNumber": "E/15/208",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Gamlathge Gedara Roshani Dilhara Madhushanee",
@@ -3005,7 +3621,7 @@
     "E/15/209": {
         "eNumber": "E/15/209",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Hettiwaththage Kithma Madhushani",
@@ -3038,7 +3654,7 @@
     "E/15/211": {
         "eNumber": "E/15/211",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Senanayake Arachchige Ishani Maduwanthi",
@@ -3071,7 +3687,7 @@
     "E/15/220": {
         "eNumber": "E/15/220",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Kadukanna Hatharasinge Hashan Maliththa",
@@ -3104,7 +3720,7 @@
     "E/15/233": {
         "eNumber": "E/15/233",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Palavinnege Nipuni Nuwanthi Muthucumarana",
@@ -3137,7 +3753,7 @@
     "E/15/238": {
         "eNumber": "E/15/238",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Godaliyanage Sewwandie Chandraprabha Nanayakkara",
@@ -3170,7 +3786,7 @@
     "E/15/243": {
         "eNumber": "E/15/243",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Rathnayake Mudiyanselage Buddimanjali Sewwandi Nisansala",
@@ -3203,7 +3819,7 @@
     "E/15/246": {
         "eNumber": "E/15/246",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Rajitha Lalantha Opanayaka",
@@ -3236,7 +3852,7 @@
     "E/15/249": {
         "eNumber": "E/15/249",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Withana Arachchige Dasuni Pamoda",
@@ -3269,7 +3885,7 @@
     "E/15/261": {
         "eNumber": "E/15/261",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Muthuporathotage Sandun Viduranga Perera",
@@ -3302,7 +3918,7 @@
     "E/15/265": {
         "eNumber": "E/15/265",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Uswatta Liyanage Risith Ravisara Perera",
@@ -3335,7 +3951,7 @@
     "E/15/271": {
         "eNumber": "E/15/271",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Liyana Badalge Sonali Prasadika",
@@ -3368,7 +3984,7 @@
     "E/15/279": {
         "eNumber": "E/15/279",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Lellopitiya Solingewaththage Wathsari Samindani Premathilaka",
@@ -3401,40 +4017,40 @@
     "E/15/280": {
         "eNumber": "E/15/280",
         "batch": "E15",
-        "department": "Computer",
-        "current_affiliation": "",
-        "honorific": "",
+        "department": "Computer Engineering",
+        "current_affiliation": "SyscoLabs-Sri Lanka",
+        "honorific": "Mr.",
         "full_name": "Mahatennage Pubudu Udara Premathilaka",
-        "name_with_initials": "",
+        "name_with_initials": "M.P.U Premathilaka",
         "preferred_short_name": "Pubudu",
         "preferred_long_name": "Pubudu Premathilaka",
         "emails": {
             "personal": {
-                "name": "pubudu.premathilaka",
-                "domain": "eng.pdn.ac.lk"
+                "name": "pubuduudara7",
+                "domain": "gmail.com"
             },
             "faculty": {
                 "name": "pubudu.premathilaka",
                 "domain": "eng.pdn.ac.lk"
             }
         },
-        "location": "",
+        "location": "Kandy",
         "interests": [],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15280.jpg",
         "urls": {
-            "cv": "",
-            "website": "",
-            "linkedin": "",
+            "cv": "https://raw.githubusercontent.com/pubuduudara/pubuduudara.github.io/master/assets/CV/Pubudu_Premathilaka.pdf",
+            "website": "https://pubuduudara.github.io/",
+            "linkedin": "https://www.linkedin.com/in/pubuduudara/",
             "github": "https://github.com/pubuduudara",
-            "facebook": "",
-            "researchgate": "",
+            "facebook": "https://www.facebook.com/pub.udara/",
+            "researchgate": "https://www.researchgate.net/profile/Pubudu-Premathilaka",
             "twitter": ""
         }
     },
     "E/15/292": {
         "eNumber": "E/15/292",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Shamanika Madushi Ranasooriya",
@@ -3467,7 +4083,7 @@
     "E/15/299": {
         "eNumber": "E/15/299",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Liyanage Malitha Ranushka",
@@ -3500,7 +4116,7 @@
     "E/15/307": {
         "eNumber": "E/15/307",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Rishikeshan L.",
@@ -3533,11 +4149,11 @@
     "E/15/316": {
         "eNumber": "E/15/316",
         "batch": "E15",
-        "department": "Computer",
-        "current_affiliation": "",
-        "honorific": "",
-        "full_name": "Uduwewe Gedara Suneth Bandara Samarasinghe",
-        "name_with_initials": "",
+        "department": "Computer Engineering",
+        "current_affiliation": "WSO2 Lanka (Pvt) Ltd",
+        "honorific": "Mr.",
+        "full_name": "Suneth Samarasinghe",
+        "name_with_initials": "Suneth Samarasinghe",
         "preferred_short_name": "Suneth",
         "preferred_long_name": "Suneth Samarasinghe",
         "emails": {
@@ -3550,15 +4166,19 @@
                 "domain": "eng.pdn.ac.lk"
             }
         },
-        "location": "",
-        "interests": [],
+        "location": "Kandy",
+        "interests": [
+            "Hardware Acceleration",
+            "Machine Learning",
+            "Artificial Intelligence"
+        ],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15316.jpg",
         "urls": {
-            "cv": "",
-            "website": "",
-            "linkedin": "",
+            "cv": "https://imsuneth.github.io/assets/cv_suneth_samarasinghe.pdf",
+            "website": "https://imsuneth.github.io/",
+            "linkedin": "https://www.linkedin.com/in/imsuneth/",
             "github": "https://github.com/imsuneth",
-            "facebook": "",
+            "facebook": "https://www.facebook.com/imsuneth",
             "researchgate": "",
             "twitter": ""
         }
@@ -3566,7 +4186,7 @@
     "E/15/325": {
         "eNumber": "E/15/325",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Weerarathna Arachchi Patabandige Chalani Sankalpana",
@@ -3599,7 +4219,7 @@
     "E/15/330": {
         "eNumber": "E/15/330",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Krishnadeva Sathursan",
@@ -3632,7 +4252,7 @@
     "E/15/345": {
         "eNumber": "E/15/345",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Diviyagahage Vidwa Sripadi",
@@ -3665,7 +4285,7 @@
     "E/15/347": {
         "eNumber": "E/15/347",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Isuru Uthpala Sudasinghe",
@@ -3698,7 +4318,7 @@
     "E/15/348": {
         "eNumber": "E/15/348",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Sajahan Suhail",
@@ -3731,7 +4351,7 @@
     "E/15/349": {
         "eNumber": "E/15/349",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Shamal Charinda Tennakoon",
@@ -3764,7 +4384,7 @@
     "E/15/350": {
         "eNumber": "E/15/350",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Tennakoon Mudiyanselage Pasan Bandara Tennakoon",
@@ -3797,7 +4417,7 @@
     "E/15/351": {
         "eNumber": "E/15/351",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Thakshajini Suhumar",
@@ -3830,7 +4450,7 @@
     "E/15/362": {
         "eNumber": "E/15/362",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Kuruwita Arachchillage Hasini Punsara Thilakarathna",
@@ -3863,7 +4483,7 @@
     "E/15/363": {
         "eNumber": "E/15/363",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Edirimanna Rallage Rashmi Ireshe Thilakarathne",
@@ -3896,7 +4516,7 @@
     "E/15/366": {
         "eNumber": "E/15/366",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Sathakaran Thinesh",
@@ -3929,7 +4549,7 @@
     "E/15/373": {
         "eNumber": "E/15/373",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Vaheesan Retnaraja",
@@ -3962,7 +4582,7 @@
     "E/15/383": {
         "eNumber": "E/15/383",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Keshara Tikiri Bandara Weerasinghe",
@@ -3995,7 +4615,7 @@
     "E/15/385": {
         "eNumber": "E/15/385",
         "batch": "E15",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "",
         "honorific": "",
         "full_name": "Senarath Pathiranalage Amila Pasan Eranga Weerasinghe",
@@ -4028,7 +4648,7 @@
     "E/16/012": {
         "eNumber": "E/16/012",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Adikari",
@@ -4061,7 +4681,7 @@
     "E/16/022": {
         "eNumber": "E/16/022",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Amarasinghe D.L.C.",
@@ -4094,7 +4714,7 @@
     "E/16/025": {
         "eNumber": "E/16/025",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Amasith K.T.D.",
@@ -4127,7 +4747,7 @@
     "E/16/039": {
         "eNumber": "E/16/039",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Balasuriya B.M.N.U. Ms",
@@ -4160,7 +4780,7 @@
     "E/16/049": {
         "eNumber": "E/16/049",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Harshana Bandara",
@@ -4193,7 +4813,7 @@
     "E/16/054": {
         "eNumber": "E/16/054",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Basnayake S.S.",
@@ -4226,7 +4846,7 @@
     "E/16/055": {
         "eNumber": "E/16/055",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Bragadeeshan S.",
@@ -4259,7 +4879,7 @@
     "E/16/057": {
         "eNumber": "E/16/057",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Kavindu Chamith",
@@ -4292,31 +4912,35 @@
     "E/16/061": {
         "eNumber": "E/16/061",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
-        "honorific": "",
-        "full_name": "Chandula J.P.D.M.",
-        "name_with_initials": "Chandula J.P.D.M.",
-        "preferred_short_name": "Chandula J.P.D.M.",
-        "preferred_long_name": "",
+        "honorific": "Mr.",
+        "full_name": "Jayalath Pathiranage Dinu Madushan Chandula",
+        "name_with_initials": "J.P.D.M. Chandula",
+        "preferred_short_name": "Chandula",
+        "preferred_long_name": "Madushan Chandula",
         "emails": {
             "personal": {
-                "name": "",
-                "domain": ""
+                "name": "chandula12d",
+                "domain": "gmail.com"
             },
             "faculty": {
                 "name": "e16061",
                 "domain": "eng.pdn.ac.lk"
             }
         },
-        "location": "",
-        "interests": [],
+        "location": "Boralesgamuwa",
+        "interests": [
+            "Cyber security",
+            "Computer Networking",
+            "Web development"
+        ],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16061.jpg",
         "urls": {
-            "cv": "",
+            "cv": "https://drive.google.com/file/d/1CeCXE2q9yt_4BmkJyijM46sPxet490N7/view?usp=sharing",
             "website": "",
-            "linkedin": "",
-            "github": "",
+            "linkedin": "http://www.linkedin.com/in/chandulajpdm",
+            "github": "https://github.com/Chandula-JPDM",
             "facebook": "",
             "researchgate": "",
             "twitter": ""
@@ -4325,7 +4949,7 @@
     "E/16/068": {
         "eNumber": "E/16/068",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "De Silva K.R.",
@@ -4358,7 +4982,7 @@
     "E/16/069": {
         "eNumber": "E/16/069",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "De Silva M.D.S. Ms",
@@ -4391,7 +5015,7 @@
     "E/16/070": {
         "eNumber": "E/16/070",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "De Silva N.S.C.K.S. Ms",
@@ -4424,7 +5048,7 @@
     "E/16/076": {
         "eNumber": "E/16/076",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Deshan L.A.C.",
@@ -4457,31 +5081,31 @@
     "E/16/081": {
         "eNumber": "E/16/081",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
-        "honorific": "",
-        "full_name": "Dhananjaya J.M.P.",
-        "name_with_initials": "Dhananjaya J.M.P.",
-        "preferred_short_name": "Dhananjaya J.M.P.",
-        "preferred_long_name": "",
+        "honorific": "Mr.",
+        "full_name": "Jayasihe Mudianselage Praveen Dhananjaya",
+        "name_with_initials": "J.M.Praveen Dhananjaya",
+        "preferred_short_name": "Praveen",
+        "preferred_long_name": "Praveen Dhananjaya",
         "emails": {
             "personal": {
-                "name": "",
-                "domain": ""
+                "name": "praveenbhananjaya",
+                "domain": "gmail.com"
             },
             "faculty": {
                 "name": "e16081",
                 "domain": "eng.pdn.ac.lk"
             }
         },
-        "location": "",
+        "location": "gampola",
         "interests": [],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16081.jpg",
         "urls": {
-            "cv": "",
-            "website": "",
-            "linkedin": "",
-            "github": "",
+            "cv": "https://praveendhananjaya.github.io/CV/OC2/PraveenDhananjaya.pdf",
+            "website": "https://sites.google.com/view/praveen-dhananjaya",
+            "linkedin": "https://www.linkedin.com/in/praveen-dhananjaya-55816015a",
+            "github": "https://github.com/praveendhananjaya",
             "facebook": "",
             "researchgate": "",
             "twitter": ""
@@ -4490,32 +5114,35 @@
     "E/16/083": {
         "eNumber": "E/16/083",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
-        "honorific": "",
-        "full_name": "Dhanushka S.M.V.",
-        "name_with_initials": "Dhanushka S.M.V.",
-        "preferred_short_name": "Dhanushka S.M.V.",
-        "preferred_long_name": "",
+        "honorific": "Mr.",
+        "full_name": "Subasin Manage Viraj Dhanushka",
+        "name_with_initials": "S.M. Viraj Dhanushka",
+        "preferred_short_name": "Viraj",
+        "preferred_long_name": "Viraj Dhanushka",
         "emails": {
             "personal": {
-                "name": "",
-                "domain": ""
+                "name": "smviraj",
+                "domain": "gmail.com"
             },
             "faculty": {
                 "name": "e16083",
                 "domain": "eng.pdn.ac.lk"
             }
         },
-        "location": "",
-        "interests": [],
+        "location": "Matara",
+        "interests": [
+            "Mobile App Development",
+            "Web Development"
+        ],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16083.jpg",
         "urls": {
-            "cv": "",
-            "website": "",
-            "linkedin": "",
-            "github": "",
-            "facebook": "",
+            "cv": "https://drive.google.com/file/d/1xnUKeGhC23HnCyOF60WKmEQ2p8HJsI6K/view?usp=sharing",
+            "website": "https://studentambassadors.microsoft.com/en-US/profile/154961",
+            "linkedin": "https://www.linkedin.com/in/viradhanus/",
+            "github": "https://github.com/viradhanus",
+            "facebook": "https://www.facebook.com/people/Viraj-Dhanushka/100001381124062/",
             "researchgate": "",
             "twitter": ""
         }
@@ -4523,7 +5150,7 @@
     "E/16/086": {
         "eNumber": "E/16/086",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Dharmathilaka A.L.V.H. Ms",
@@ -4556,7 +5183,7 @@
     "E/16/087": {
         "eNumber": "E/16/087",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Dissanayaka W.M.S.C. Ms",
@@ -4589,7 +5216,7 @@
     "E/16/088": {
         "eNumber": "E/16/088",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Dissanayake D.M.T.H.",
@@ -4622,32 +5249,35 @@
     "E/16/089": {
         "eNumber": "E/16/089",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
-        "honorific": "",
-        "full_name": "Dissanayake",
-        "name_with_initials": "Dissanayake",
-        "preferred_short_name": "Dissanayake",
-        "preferred_long_name": "",
+        "honorific": "Mr.",
+        "full_name": "Napagoda Arachchige Denuke Dhananja Dissanayake",
+        "name_with_initials": "N.A.D.D. Dissanayake",
+        "preferred_short_name": "Denuke",
+        "preferred_long_name": "Denuke Dissanayake",
         "emails": {
             "personal": {
-                "name": "",
-                "domain": ""
+                "name": "ddnadhananja",
+                "domain": "gmail.com"
             },
             "faculty": {
                 "name": "e16089",
                 "domain": "eng.pdn.ac.lk"
             }
         },
-        "location": "",
-        "interests": [],
+        "location": "Nittambuwa, Sri Lanka",
+        "interests": [
+            "Web Development",
+            "Mobile Application Development"
+        ],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16089.jpg",
         "urls": {
-            "cv": "",
+            "cv": "https://drive.google.com/drive/folders/1_iUGxoRUMUD6dg39s-pHDp3ahZEYZtaX?usp=sharing",
             "website": "",
-            "linkedin": "",
-            "github": "",
-            "facebook": "",
+            "linkedin": "https://www.linkedin.com/in/denuke-dissanayake/",
+            "github": "https://github.com/denukedissanayake",
+            "facebook": "https://www.facebook.com/denukedissanayake/",
             "researchgate": "",
             "twitter": ""
         }
@@ -4655,7 +5285,7 @@
     "E/16/094": {
         "eNumber": "E/16/094",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Shirly Madushanka",
@@ -4688,7 +5318,7 @@
     "E/16/096": {
         "eNumber": "E/16/096",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Ekanayake J.E.M.D.Y. Ms",
@@ -4721,7 +5351,7 @@
     "E/16/115": {
         "eNumber": "E/16/115",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Girishikan S.",
@@ -4754,7 +5384,7 @@
     "E/16/126": {
         "eNumber": "E/16/126",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Hansika D.G.N. Ms",
@@ -4787,7 +5417,7 @@
     "E/16/127": {
         "eNumber": "E/16/127",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Harshana P.Y.S.",
@@ -4820,7 +5450,7 @@
     "E/16/134": {
         "eNumber": "E/16/134",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Herath H.M.Y.B.",
@@ -4853,7 +5483,7 @@
     "E/16/156": {
         "eNumber": "E/16/156",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Jayathilaka H.A.D.T.T. Ms",
@@ -4886,7 +5516,7 @@
     "E/16/168": {
         "eNumber": "E/16/168",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Kalpage S.W.",
@@ -4919,7 +5549,7 @@
     "E/16/172": {
         "eNumber": "E/16/172",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Karikaran V.",
@@ -4952,7 +5582,7 @@
     "E/16/173": {
         "eNumber": "E/16/173",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Karunarathna D.A.D.T.",
@@ -4985,17 +5615,17 @@
     "E/16/200": {
         "eNumber": "E/16/200",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
-        "honorific": "",
-        "full_name": "Lakmali B.L.S. Ms",
-        "name_with_initials": "Lakmali B.L.S. Ms",
-        "preferred_short_name": "Lakmali B.L.S. Ms",
-        "preferred_long_name": "",
+        "honorific": "Miss.",
+        "full_name": "Bambarawana Liyanage Sumudu Lakmali",
+        "name_with_initials": "B. L. S. Lakmali",
+        "preferred_short_name": "Sumudu",
+        "preferred_long_name": "Sumudu Liyanage",
         "emails": {
             "personal": {
-                "name": "",
-                "domain": ""
+                "name": "sumuduliyanage888",
+                "domain": "gmail.com"
             },
             "faculty": {
                 "name": "e16200",
@@ -5006,10 +5636,10 @@
         "interests": [],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16200.jpg",
         "urls": {
-            "cv": "",
+            "cv": "https://drive.google.com/file/d/1Xe_Sx0bS-683N0TZyDd_pzFUdsRjEsfq/view?usp=sharing",
             "website": "",
-            "linkedin": "",
-            "github": "",
+            "linkedin": "https://www.linkedin.com/in/sumudu-liyanage",
+            "github": "https://github.com/sumuduliyanage",
             "facebook": "",
             "researchgate": "",
             "twitter": ""
@@ -5018,32 +5648,37 @@
     "E/16/203": {
         "eNumber": "E/16/203",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
-        "honorific": "",
-        "full_name": "S.A Isuru Lakshan",
-        "name_with_initials": "S.A Isuru Lakshan",
-        "preferred_short_name": "S.A Isuru Lakshan",
-        "preferred_long_name": "",
+        "honorific": "Mr.",
+        "full_name": "Suraweera Arachchige Isuru Lakshan",
+        "name_with_initials": "S.A.I Lakshan",
+        "preferred_short_name": "Isuru",
+        "preferred_long_name": "Isuru Lakshan",
         "emails": {
             "personal": {
-                "name": "",
-                "domain": ""
+                "name": "eng.isurulakshan",
+                "domain": "gmail.com"
             },
             "faculty": {
                 "name": "e16203",
                 "domain": "eng.pdn.ac.lk"
             }
         },
-        "location": "",
-        "interests": [],
+        "location": "Colombo",
+        "interests": [
+            "Computer Networking",
+            "Computer Architechture",
+            "Cloud Computing",
+            "Machine Learning"
+        ],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16203.jpg",
         "urls": {
-            "cv": "",
+            "cv": "https://drive.google.com/file/d/13KGLMdGclRGqU5S0y5k96f1vD-8ButIk/view?usp=sharing",
             "website": "",
-            "linkedin": "",
-            "github": "",
-            "facebook": "",
+            "linkedin": "https://www.linkedin.com/in/isurulakshan/",
+            "github": "https://github.com/IsuruLakshan97",
+            "facebook": "https://www.facebook.com/isuru.lakshan.58323431/",
             "researchgate": "",
             "twitter": ""
         }
@@ -5051,7 +5686,7 @@
     "E/16/217": {
         "eNumber": "E/16/217",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Madushan K.H.G.H.",
@@ -5084,7 +5719,7 @@
     "E/16/222": {
         "eNumber": "E/16/222",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Wishva",
@@ -5117,7 +5752,7 @@
     "E/16/223": {
         "eNumber": "E/16/223",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Madushanki K.H.H.C. Ms",
@@ -5150,24 +5785,24 @@
     "E/16/232": {
         "eNumber": "E/16/232",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
-        "honorific": "",
-        "full_name": "Shamra Marzook",
-        "name_with_initials": "Shamra Marzook",
-        "preferred_short_name": "Shamra Marzook",
-        "preferred_long_name": "",
+        "honorific": "Miss.",
+        "full_name": "Fathima Shamra Marzook",
+        "name_with_initials": "F.S. Marzook",
+        "preferred_short_name": "Shamra",
+        "preferred_long_name": "Shamra Marzook",
         "emails": {
             "personal": {
-                "name": "",
-                "domain": ""
+                "name": "fsmarzook",
+                "domain": "gmail.com"
             },
             "faculty": {
                 "name": "e16232",
                 "domain": "eng.pdn.ac.lk"
             }
         },
-        "location": "",
+        "location": "Galle,Sri Lanka",
         "interests": [],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16232.jpg",
         "urls": {
@@ -5183,7 +5818,7 @@
     "E/16/242": {
         "eNumber": "E/16/242",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "A.V.S.S.A Munasinghe",
@@ -5216,7 +5851,7 @@
     "E/16/261": {
         "eNumber": "E/16/261",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Nuwantha B.L.A.",
@@ -5249,7 +5884,7 @@
     "E/16/267": {
         "eNumber": "E/16/267",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Parackrama G.T.W. Ms",
@@ -5282,73 +5917,85 @@
     "E/16/275": {
         "eNumber": "E/16/275",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
-        "honorific": "",
-        "full_name": "Perera A.L.H.E.",
-        "name_with_initials": "Perera A.L.H.E.",
-        "preferred_short_name": "Perera A.L.H.E.",
-        "preferred_long_name": "",
+        "honorific": "Mr.",
+        "full_name": "Ambawala Liyanage Hashan Eranga Perera",
+        "name_with_initials": "A. L. H. E Perera",
+        "preferred_short_name": "Hashan",
+        "preferred_long_name": "Hashan Eranga",
         "emails": {
             "personal": {
-                "name": "",
-                "domain": ""
+                "name": "hashaneranga",
+                "domain": "ieee.org"
             },
             "faculty": {
                 "name": "e16275",
                 "domain": "eng.pdn.ac.lk"
             }
         },
-        "location": "",
-        "interests": [],
+        "location": "Pasyala, Sri Lanka",
+        "interests": [
+            "Full Stack Development",
+            ".Net Development",
+            "ML and Data Mining",
+            "Artificial Neural Networks"
+        ],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16275.jpg",
         "urls": {
-            "cv": "",
-            "website": "",
-            "linkedin": "",
-            "github": "",
-            "facebook": "",
-            "researchgate": "",
-            "twitter": ""
+            "cv": "https://drive.google.com/file/d/1sjgnwrp4K75tz-TOkQmIn8maOhCCNRqA/view?usp=sharing",
+            "website": "hashaneranga.github.io",
+            "linkedin": "https://www.linkedin.com/in/hashan-eranga-57584b136/",
+            "github": "https://github.com/HashanEranga",
+            "facebook": "https://www.facebook.com/hashan.eranga.3",
+            "researchgate": "https://www.researchgate.net/profile/Hashan-Perera-4",
+            "twitter": "https://twitter.com/ccmrhe"
         }
     },
     "E/16/276": {
         "eNumber": "E/16/276",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
-        "full_name": "Buddhi Perera",
-        "name_with_initials": "Buddhi Perera",
-        "preferred_short_name": "Buddhi Perera",
-        "preferred_long_name": "",
+        "full_name": "Galappaththi Kankanange Buddhi Heshan Perera",
+        "name_with_initials": "Perera G.K.B.H.",
+        "preferred_short_name": "Buddhi",
+        "preferred_long_name": "Buddhi Perera",
         "emails": {
             "personal": {
-                "name": "",
-                "domain": ""
+                "name": "buddhiperera97",
+                "domain": "gmail.com"
             },
             "faculty": {
                 "name": "e16276",
                 "domain": "eng.pdn.ac.lk"
             }
         },
-        "location": "",
-        "interests": [],
-        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16276.jpg",
+        "location": "Kandy",
+        "interests": [
+            "Computer Architecture",
+            "Operating Systems",
+            "Computer and Network Security",
+            "Computer Networking",
+            "Embedded Systmes",
+            "Full Stack Development"
+        ],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16276.png",
         "urls": {
-            "cv": "",
-            "website": "",
-            "linkedin": "",
-            "github": "",
+            "cv": "https://buddhiperera.me/static/media/Buddhi_Perera_Resume.e1bd3a72.pdf",
+            "website": "https://buddhiperera.me/",
+            "linkedin": "https://www.linkedin.com/in/buddhi-perera/",
+            "github": "https://github.com/buddhiheshan",
             "facebook": "",
-            "researchgate": "",
+            "researchgate": "https://www.researchgate.net/profile/Buddhi-Perera-2",
             "twitter": ""
         }
     },
     "E/16/286": {
         "eNumber": "E/16/286",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Nuwan Piyarathna",
@@ -5381,7 +6028,7 @@
     "E/16/290": {
         "eNumber": "E/16/290",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Kalani Prabodha",
@@ -5414,7 +6061,7 @@
     "E/16/313": {
         "eNumber": "E/16/313",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Maneesha Randeniya",
@@ -5447,7 +6094,7 @@
     "E/16/319": {
         "eNumber": "E/16/319",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Rathnayaka R.P.V.N.",
@@ -5480,7 +6127,7 @@
     "E/16/320": {
         "eNumber": "E/16/320",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Rathnayake E.W.S.P.",
@@ -5513,17 +6160,17 @@
     "E/16/332": {
         "eNumber": "E/16/332",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
-        "honorific": "",
-        "full_name": "Samaraweera A.A.R.V.",
-        "name_with_initials": "Samaraweera A.A.R.V.",
-        "preferred_short_name": "Samaraweera A.A.R.V.",
-        "preferred_long_name": "",
+        "honorific": "Mr.",
+        "full_name": "Ampe Arachchilage Randika Viraj Samaraweera",
+        "name_with_initials": "A A R V Samaraweera",
+        "preferred_short_name": "Randika",
+        "preferred_long_name": "Randika Viraj",
         "emails": {
             "personal": {
-                "name": "",
-                "domain": ""
+                "name": "randikavirajmax",
+                "domain": "gmail.com"
             },
             "faculty": {
                 "name": "e16332",
@@ -5531,13 +6178,16 @@
             }
         },
         "location": "",
-        "interests": [],
+        "interests": [
+            "Parallel Processors",
+            "Embedded System Programming"
+        ],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16332.jpg",
         "urls": {
             "cv": "",
             "website": "",
-            "linkedin": "",
-            "github": "",
+            "linkedin": "https://www.linkedin.com/in/Randikaviraj",
+            "github": "https://github.com/Randikaviraj",
             "facebook": "",
             "researchgate": "",
             "twitter": ""
@@ -5546,7 +6196,7 @@
     "E/16/351": {
         "eNumber": "E/16/351",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Shanaka T.K.M.",
@@ -5579,7 +6229,7 @@
     "E/16/360": {
         "eNumber": "E/16/360",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Somarathna N.C.D.",
@@ -5612,32 +6262,32 @@
     "E/16/364": {
         "eNumber": "E/16/364",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
-        "honorific": "",
-        "full_name": "Suwaris T.T.N. Ms",
-        "name_with_initials": "Suwaris T.T.N. Ms",
-        "preferred_short_name": "Suwaris T.T.N. Ms",
-        "preferred_long_name": "",
+        "honorific": "Miss.",
+        "full_name": "Thuppahige Tharushi Nimesha Suwaris",
+        "name_with_initials": "T.T.N. Suwaris",
+        "preferred_short_name": "Tharushi",
+        "preferred_long_name": "Tharushi Suwaris",
         "emails": {
             "personal": {
-                "name": "",
-                "domain": ""
+                "name": "tharushi1995619",
+                "domain": "gmail.com"
             },
             "faculty": {
                 "name": "e16364",
                 "domain": "eng.pdn.ac.lk"
             }
         },
-        "location": "",
+        "location": "Negombo",
         "interests": [],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16364.jpg",
         "urls": {
             "cv": "",
             "website": "",
-            "linkedin": "",
-            "github": "",
-            "facebook": "",
+            "linkedin": "https://www.linkedin.com/in/tharushi-swaris-7542661b0/",
+            "github": "https://github.com/TharushiSuwaris",
+            "facebook": "https://www.facebook.com/tharushi.suwaris.9/",
             "researchgate": "",
             "twitter": ""
         }
@@ -5645,17 +6295,17 @@
     "E/16/366": {
         "eNumber": "E/16/366",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
-        "honorific": "",
+        "honorific": "Mr.",
         "full_name": "Thilakarathna W.M.D.U.",
         "name_with_initials": "Thilakarathna W.M.D.U.",
-        "preferred_short_name": "Thilakarathna W.M.D.U.",
-        "preferred_long_name": "",
+        "preferred_short_name": "Dinindu",
+        "preferred_long_name": "Dinindu Thilakarathna",
         "emails": {
             "personal": {
-                "name": "",
-                "domain": ""
+                "name": "dininduwm",
+                "domain": "gmail.com"
             },
             "faculty": {
                 "name": "e16366",
@@ -5663,22 +6313,30 @@
             }
         },
         "location": "",
-        "interests": [],
+        "interests": [
+            "IoT",
+            "Computer Architecture",
+            "Embedded Systems",
+            "Network Security",
+            "Cryptography",
+            "Web Application Development",
+            "Mobile Application Development"
+        ],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16366.jpg",
         "urls": {
-            "cv": "",
-            "website": "",
-            "linkedin": "",
-            "github": "",
-            "facebook": "",
-            "researchgate": "",
-            "twitter": ""
+            "cv": "https://dinindu.me/cv.pdf",
+            "website": "https://dinindu.me",
+            "linkedin": "https://www.linkedin.com/in/dinindu-thilakarathna/",
+            "github": "https://github.com/dininduwm",
+            "facebook": "https://www.facebook.com/dinidu.udana.9",
+            "researchgate": "https://www.researchgate.net/profile/Dinindu-Thilakarathna",
+            "twitter": "https://twitter.com/diniduwm"
         }
     },
     "E/16/368": {
         "eNumber": "E/16/368",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Thisanke M.K.H.",
@@ -5711,7 +6369,7 @@
     "E/16/369": {
         "eNumber": "E/16/369",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Rusiru Thushara",
@@ -5744,7 +6402,7 @@
     "E/16/377": {
         "eNumber": "E/16/377",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Vindula I.B.S.",
@@ -5777,7 +6435,7 @@
     "E/16/388": {
         "eNumber": "E/16/388",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Weerasundara W.M.T.M.P.B.",
@@ -5810,7 +6468,7 @@
     "E/16/389": {
         "eNumber": "E/16/389",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Welikanda V.H.L.N.",
@@ -5843,7 +6501,7 @@
     "E/16/394": {
         "eNumber": "E/16/394",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Wijayasinghe S.D.D.D.",
@@ -5876,7 +6534,7 @@
     "E/16/396": {
         "eNumber": "E/16/396",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Wijekoon W.M.T.S.",
@@ -5909,7 +6567,7 @@
     "E/16/399": {
         "eNumber": "E/16/399",
         "batch": "E16",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Erandana Wijerathne",
@@ -5939,10 +6597,43 @@
             "twitter": ""
         }
     },
+    "E/17/004": {
+        "eNumber": "E/17/004",
+        "batch": "E17",
+        "department": "Mechanical Engineering",
+        "current_affiliation": "Department of Mechanical Engineering, University of Peradeniya",
+        "honorific": "",
+        "full_name": "Abeyweera S.K.",
+        "name_with_initials": "Abeyweera S.K.",
+        "preferred_short_name": "Abeyweera S.K.",
+        "preferred_long_name": "",
+        "emails": {
+            "personal": {
+                "name": "",
+                "domain": ""
+            },
+            "faculty": {
+                "name": "e17004",
+                "domain": "eng.pdn.ac.lk"
+            }
+        },
+        "location": "",
+        "interests": [],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17004.jpg",
+        "urls": {
+            "cv": "",
+            "website": "",
+            "linkedin": "",
+            "github": "",
+            "facebook": "",
+            "researchgate": "",
+            "twitter": ""
+        }
+    },
     "E/17/005": {
         "eNumber": "E/17/005",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Ahamed M.I.R.",
@@ -5975,7 +6666,7 @@
     "E/17/006": {
         "eNumber": "E/17/006",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Alahakoon A.M.H.H.",
@@ -6005,10 +6696,43 @@
             "twitter": ""
         }
     },
+    "E/17/008": {
+        "eNumber": "E/17/008",
+        "batch": "E17",
+        "department": "Mechanical Engineering",
+        "current_affiliation": "Department of Mechanical Engineering, University of Peradeniya",
+        "honorific": "",
+        "full_name": "Alahakoon T.",
+        "name_with_initials": "Alahakoon T.",
+        "preferred_short_name": "Alahakoon T.",
+        "preferred_long_name": "",
+        "emails": {
+            "personal": {
+                "name": "",
+                "domain": ""
+            },
+            "faculty": {
+                "name": "e17008",
+                "domain": "eng.pdn.ac.lk"
+            }
+        },
+        "location": "",
+        "interests": [],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17008.jpg",
+        "urls": {
+            "cv": "",
+            "website": "",
+            "linkedin": "",
+            "github": "",
+            "facebook": "",
+            "researchgate": "",
+            "twitter": ""
+        }
+    },
     "E/17/012": {
         "eNumber": "E/17/012",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Amarasinghe R.A.A.U.",
@@ -6041,7 +6765,7 @@
     "E/17/015": {
         "eNumber": "E/17/015",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Arshadh M.R.M.",
@@ -6074,13 +6798,13 @@
     "E/17/018": {
         "eNumber": "E/17/018",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
-        "honorific": "",
-        "full_name": "Balasuriya I.S.",
-        "name_with_initials": "Balasuriya I.S.",
-        "preferred_short_name": "Balasuriya I.S.",
-        "preferred_long_name": "",
+        "honorific": "Mr.",
+        "full_name": "Imesh Sanjuka Balasuriya",
+        "name_with_initials": "I.S. Balasuriya",
+        "preferred_short_name": "Imesh",
+        "preferred_long_name": "Imesh Balasuriya",
         "emails": {
             "personal": {
                 "name": "",
@@ -6091,9 +6815,46 @@
                 "domain": "eng.pdn.ac.lk"
             }
         },
+        "location": "Colombo",
+        "interests": [
+            "Computer Vision",
+            "Computer Architecture",
+            "Machine Learning"
+        ],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17018.jpg",
+        "urls": {
+            "cv": "https://drive.google.com/file/d/1GPC6VwErClmldcgSVcK7gfXqL3ENaKa4/view?usp=sharing",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/imesh-balasuriya/",
+            "github": "https://github.com/ImeshBalasuriya/",
+            "facebook": "",
+            "researchgate": "",
+            "twitter": ""
+        }
+    },
+    "E/17/024": {
+        "eNumber": "E/17/024",
+        "batch": "E17",
+        "department": "Mechanical Engineering",
+        "current_affiliation": "Department of Mechanical Engineering, University of Peradeniya",
+        "honorific": "",
+        "full_name": "Bandara K.G.K.R.",
+        "name_with_initials": "Bandara K.G.K.R.",
+        "preferred_short_name": "Bandara K.G.K.R.",
+        "preferred_long_name": "",
+        "emails": {
+            "personal": {
+                "name": "",
+                "domain": ""
+            },
+            "faculty": {
+                "name": "e17024",
+                "domain": "eng.pdn.ac.lk"
+            }
+        },
         "location": "",
         "interests": [],
-        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17018.jpg",
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17024.jpg",
         "urls": {
             "cv": "",
             "website": "",
@@ -6107,7 +6868,7 @@
     "E/17/027": {
         "eNumber": "E/17/027",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Bandara S.M.P.C.",
@@ -6137,10 +6898,43 @@
             "twitter": ""
         }
     },
+    "E/17/035": {
+        "eNumber": "E/17/035",
+        "batch": "E17",
+        "department": "Mechanical Engineering",
+        "current_affiliation": "Department of Mechanical Engineering, University of Peradeniya",
+        "honorific": "",
+        "full_name": "Chamika K.T.M.",
+        "name_with_initials": "Chamika K.T.M.",
+        "preferred_short_name": "Chamika K.T.M.",
+        "preferred_long_name": "",
+        "emails": {
+            "personal": {
+                "name": "",
+                "domain": ""
+            },
+            "faculty": {
+                "name": "e17035",
+                "domain": "eng.pdn.ac.lk"
+            }
+        },
+        "location": "",
+        "interests": [],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17035.jpg",
+        "urls": {
+            "cv": "",
+            "website": "",
+            "linkedin": "",
+            "github": "",
+            "facebook": "",
+            "researchgate": "",
+            "twitter": ""
+        }
+    },
     "E/17/038": {
         "eNumber": "E/17/038",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Chandrasekara C.M.A.",
@@ -6173,7 +6967,7 @@
     "E/17/040": {
         "eNumber": "E/17/040",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Chandrasena M.M.D.",
@@ -6206,7 +7000,7 @@
     "E/17/044": {
         "eNumber": "E/17/044",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Coralage D.T.S.",
@@ -6236,15 +7030,15 @@
             "twitter": ""
         }
     },
-    "E/17/058": {
-        "eNumber": "E/17/058",
+    "E/17/053": {
+        "eNumber": "E/17/053",
         "batch": "E17",
-        "department": "Computer",
-        "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
+        "department": "Mechanical Engineering",
+        "current_affiliation": "Department of Mechanical Engineering, University of Peradeniya",
         "honorific": "",
-        "full_name": "Devindi G.A.I.",
-        "name_with_initials": "Devindi G.A.I.",
-        "preferred_short_name": "Devindi G.A.I.",
+        "full_name": "De Silva M.G.S.C.",
+        "name_with_initials": "De Silva M.G.S.C.",
+        "preferred_short_name": "De Silva M.G.S.C.",
         "preferred_long_name": "",
         "emails": {
             "personal": {
@@ -6252,13 +7046,83 @@
                 "domain": ""
             },
             "faculty": {
-                "name": "e17058",
+                "name": "e17053",
                 "domain": "eng.pdn.ac.lk"
             }
         },
         "location": "",
         "interests": [],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17053.jpg",
+        "urls": {
+            "cv": "",
+            "website": "",
+            "linkedin": "",
+            "github": "",
+            "facebook": "",
+            "researchgate": "",
+            "twitter": ""
+        }
+    },
+    "E/17/058": {
+        "eNumber": "E/17/058",
+        "batch": "E17",
+        "department": "Computer Engineering",
+        "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
+        "honorific": "Miss.",
+        "full_name": "Gawasinghe Arachchige Isuri Devindi",
+        "name_with_initials": "G.A.I. Devindi",
+        "preferred_short_name": "Isuri",
+        "preferred_long_name": "Isuri Devindi",
+        "emails": {
+            "personal": {
+                "name": "gaisuridevindi",
+                "domain": "gmail.com"
+            },
+            "faculty": {
+                "name": "e17058",
+                "domain": "eng.pdn.ac.lk"
+            }
+        },
+        "location": "Kandy",
+        "interests": [
+            "Computer Vision",
+            "Machine Learning",
+            "Technical Writing"
+        ],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17058.jpg",
+        "urls": {
+            "cv": "https://drive.google.com/file/d/1dQP-suGSF7Svg9kKKyBuhXnQAifa3dSt/view?usp=sharing",
+            "website": "",
+            "linkedin": "https://linkedin.com/in/isuri-devindi-b8602a206",
+            "github": "https://github.com/Isuri-Devindi",
+            "facebook": "",
+            "researchgate": "",
+            "twitter": ""
+        }
+    },
+    "E/17/064": {
+        "eNumber": "E/17/064",
+        "batch": "E17",
+        "department": "Mechanical Engineering",
+        "current_affiliation": "Department of Mechanical Engineering, University of Peradeniya",
+        "honorific": "",
+        "full_name": "Dhushintha R.",
+        "name_with_initials": "Dhushintha R.",
+        "preferred_short_name": "Dhushintha R.",
+        "preferred_long_name": "",
+        "emails": {
+            "personal": {
+                "name": "",
+                "domain": ""
+            },
+            "faculty": {
+                "name": "e17064",
+                "domain": "eng.pdn.ac.lk"
+            }
+        },
+        "location": "",
+        "interests": [],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17064.jpg",
         "urls": {
             "cv": "",
             "website": "",
@@ -6272,7 +7136,7 @@
     "E/17/065": {
         "eNumber": "E/17/065",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Dilhan M.A.K.",
@@ -6305,13 +7169,13 @@
     "E/17/072": {
         "eNumber": "E/17/072",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "Mr.",
-        "full_name": "Dissanayake D.M.D.R.",
-        "name_with_initials": "Dissanayake D.M.D.R.",
-        "preferred_short_name": "Dissanayake D.M.D.R.",
-        "preferred_long_name": "Dinura Ransika Dissanayake",
+        "full_name": "Dissanayake Mudiyanselage Dinura Ransika Dissanayake",
+        "name_with_initials": "D.M.D.R. Dissanayake",
+        "preferred_short_name": "Dinura",
+        "preferred_long_name": "Dinura Dissanayake",
         "emails": {
             "personal": {
                 "name": "dinuraransikadissanayake",
@@ -6328,9 +7192,9 @@
         "urls": {
             "cv": "",
             "website": "",
-            "linkedin": "https://www.linkedin.com/in/dinura-dissanayake-9486ba1a1/",
-            "github": "https://github.com/dinuransika",
-            "facebook": "https://www.facebook.com/rana.donz.12",
+            "linkedin": "",
+            "github": "",
+            "facebook": "",
             "researchgate": "",
             "twitter": ""
         }
@@ -6338,7 +7202,7 @@
     "E/17/083": {
         "eNumber": "E/17/083",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Ekanayake E.M.M.U.B.",
@@ -6371,7 +7235,7 @@
     "E/17/090": {
         "eNumber": "E/17/090",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Francis F.B.A.H.",
@@ -6404,7 +7268,7 @@
     "E/17/091": {
         "eNumber": "E/17/091",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Gallage P.G.A.P.",
@@ -6437,7 +7301,7 @@
     "E/17/100": {
         "eNumber": "E/17/100",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Gunathilaka R.M.S.M.",
@@ -6470,7 +7334,7 @@
     "E/17/101": {
         "eNumber": "E/17/101",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Gunathilaka S.P.A.U.",
@@ -6503,7 +7367,7 @@
     "E/17/122": {
         "eNumber": "E/17/122",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Isthikar F.S.",
@@ -6536,7 +7400,7 @@
     "E/17/134": {
         "eNumber": "E/17/134",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Kavindu Jayasooriya",
@@ -6569,32 +7433,32 @@
     "E/17/144": {
         "eNumber": "E/17/144",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
-        "honorific": "",
-        "full_name": "Mr. Jayaweera K.P.C.D.B",
-        "name_with_initials": "Mr. Jayaweera K.P.C.D.B",
-        "preferred_short_name": "Mr. Jayaweera K.P.C.D.B",
-        "preferred_long_name": "",
+        "honorific": "Mr.",
+        "full_name": "Koswatte Pathirajalage Chiranjeewa Denuka Bandara Jayaweera",
+        "name_with_initials": "K.P.C.D.B. Jayaweera",
+        "preferred_short_name": "Denuka",
+        "preferred_long_name": "Denuka Jayaweera",
         "emails": {
             "personal": {
-                "name": "",
-                "domain": ""
+                "name": "kpcdbjayaweera",
+                "domain": "gmail.com"
             },
             "faculty": {
                 "name": "e17144",
                 "domain": "eng.pdn.ac.lk"
             }
         },
-        "location": "",
+        "location": "Kurunegala",
         "interests": [],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17144.jpg",
         "urls": {
             "cv": "",
             "website": "",
-            "linkedin": "",
-            "github": "",
-            "facebook": "",
+            "linkedin": "https://www.linkedin.com/in/denuka-jayaweera-1230961a6",
+            "github": "https://github.com/Dadoright",
+            "facebook": "https://www.facebook.com/denuka.jayaweera",
             "researchgate": "",
             "twitter": ""
         }
@@ -6602,7 +7466,7 @@
     "E/17/148": {
         "eNumber": "E/17/148",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Kalpana M.W.V.",
@@ -6635,7 +7499,7 @@
     "E/17/153": {
         "eNumber": "E/17/153",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Karunachandra R.H.I.O.",
@@ -6668,13 +7532,13 @@
     "E/17/154": {
         "eNumber": "E/17/154",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
-        "honorific": "",
-        "full_name": "Akila Karunanayake",
-        "name_with_initials": "Akila Karunanayake",
-        "preferred_short_name": "Akila Karunanayake",
-        "preferred_long_name": "",
+        "honorific": "Mr.",
+        "full_name": "Akila laksha Karunanayake",
+        "name_with_initials": "A.I. Karunanayake",
+        "preferred_short_name": "Akila",
+        "preferred_long_name": "Akila Karunanayake",
         "emails": {
             "personal": {
                 "name": "",
@@ -6685,9 +7549,46 @@
                 "domain": "eng.pdn.ac.lk"
             }
         },
+        "location": "Kandy",
+        "interests": [
+            "OS",
+            "Embedded",
+            "Vision"
+        ],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17154.jpg",
+        "urls": {
+            "cv": "https://docs.google.com/document/d/15rX8oB1KFgt6TPRssbl89A1NxREi8SXLmCWAAKmsDFE/edit?usp=sharing",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/akila-karunanayake-978bba211/",
+            "github": "https://github.com/Akilax0",
+            "facebook": "",
+            "researchgate": "",
+            "twitter": ""
+        }
+    },
+    "E/17/156": {
+        "eNumber": "E/17/156",
+        "batch": "E17",
+        "department": "Mechanical Engineering",
+        "current_affiliation": "Department of Mechanical Engineering, University of Peradeniya",
+        "honorific": "",
+        "full_name": "Karunarathna M.G.I.U.",
+        "name_with_initials": "Karunarathna M.G.I.U.",
+        "preferred_short_name": "Karunarathna M.G.I.U.",
+        "preferred_long_name": "",
+        "emails": {
+            "personal": {
+                "name": "",
+                "domain": ""
+            },
+            "faculty": {
+                "name": "e17156",
+                "domain": "eng.pdn.ac.lk"
+            }
+        },
         "location": "",
         "interests": [],
-        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17154.jpg",
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17156.jpg",
         "urls": {
             "cv": "",
             "website": "",
@@ -6701,7 +7602,7 @@
     "E/17/159": {
         "eNumber": "E/17/159",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Kavinaya Y.",
@@ -6734,7 +7635,7 @@
     "E/17/168": {
         "eNumber": "E/17/168",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Kodagoda K.H.S.P.",
@@ -6767,7 +7668,7 @@
     "E/17/176": {
         "eNumber": "E/17/176",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Kumara W.M.E.S.K.",
@@ -6800,7 +7701,7 @@
     "E/17/190": {
         "eNumber": "E/17/190",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Liyanage S.N.",
@@ -6833,7 +7734,7 @@
     "E/17/194": {
         "eNumber": "E/17/194",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Madhushan R.",
@@ -6866,7 +7767,7 @@
     "E/17/201": {
         "eNumber": "E/17/201",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Madushani W.T.",
@@ -6899,7 +7800,7 @@
     "E/17/206": {
         "eNumber": "E/17/206",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Manohara H.T.",
@@ -6932,7 +7833,7 @@
     "E/17/207": {
         "eNumber": "E/17/207",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Marasinghe M.A.P.G.",
@@ -6965,7 +7866,7 @@
     "E/17/212": {
         "eNumber": "E/17/212",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Morais K.W.G.A.N.D.",
@@ -6998,7 +7899,7 @@
     "E/17/219": {
         "eNumber": "E/17/219",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Nawarathna K.G.I.S.",
@@ -7031,7 +7932,7 @@
     "E/17/230": {
         "eNumber": "E/17/230",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Nishankar S.",
@@ -7064,7 +7965,7 @@
     "E/17/240": {
         "eNumber": "E/17/240",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Nadeesha Diwakara",
@@ -7097,7 +7998,7 @@
     "E/17/242": {
         "eNumber": "E/17/242",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Perera C.R.M.",
@@ -7130,7 +8031,7 @@
     "E/17/246": {
         "eNumber": "E/17/246",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Perera K.S.D.",
@@ -7163,7 +8064,7 @@
     "E/17/251": {
         "eNumber": "E/17/251",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Perera S.S.",
@@ -7196,7 +8097,7 @@
     "E/17/252": {
         "eNumber": "E/17/252",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Perera U.A.K.K.",
@@ -7229,7 +8130,7 @@
     "E/17/256": {
         "eNumber": "E/17/256",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Piriyaraj S.",
@@ -7259,10 +8160,43 @@
             "twitter": ""
         }
     },
+    "E/17/259": {
+        "eNumber": "E/17/259",
+        "batch": "E17",
+        "department": "Mechanical Engineering",
+        "current_affiliation": "Department of Mechanical Engineering, University of Peradeniya",
+        "honorific": "",
+        "full_name": "Piyumi Bhagya S",
+        "name_with_initials": "Piyumi Bhagya S",
+        "preferred_short_name": "Piyumi Bhagya S",
+        "preferred_long_name": "",
+        "emails": {
+            "personal": {
+                "name": "",
+                "domain": ""
+            },
+            "faculty": {
+                "name": "e17259",
+                "domain": "eng.pdn.ac.lk"
+            }
+        },
+        "location": "",
+        "interests": [],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17259.jpg",
+        "urls": {
+            "cv": "",
+            "website": "",
+            "linkedin": "",
+            "github": "",
+            "facebook": "",
+            "researchgate": "",
+            "twitter": ""
+        }
+    },
     "E/17/284": {
         "eNumber": "E/17/284",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Rathnayaka R.L.D.A.S.",
@@ -7292,10 +8226,43 @@
             "twitter": ""
         }
     },
+    "E/17/286": {
+        "eNumber": "E/17/286",
+        "batch": "E17",
+        "department": "Mechanical Engineering",
+        "current_affiliation": "Department of Mechanical Engineering, University of Peradeniya",
+        "honorific": "",
+        "full_name": "Rathnayaka R.M.T.N.K.",
+        "name_with_initials": "Rathnayaka R.M.T.N.K.",
+        "preferred_short_name": "Rathnayaka R.M.T.N.K.",
+        "preferred_long_name": "",
+        "emails": {
+            "personal": {
+                "name": "",
+                "domain": ""
+            },
+            "faculty": {
+                "name": "e17286",
+                "domain": "eng.pdn.ac.lk"
+            }
+        },
+        "location": "",
+        "interests": [],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17286.jpg",
+        "urls": {
+            "cv": "",
+            "website": "",
+            "linkedin": "",
+            "github": "",
+            "facebook": "",
+            "researchgate": "",
+            "twitter": ""
+        }
+    },
     "E/17/292": {
         "eNumber": "E/17/292",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Rilwan M.M.M.",
@@ -7328,7 +8295,7 @@
     "E/17/294": {
         "eNumber": "E/17/294",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Rossmaree D.M.",
@@ -7361,24 +8328,24 @@
     "E/17/296": {
         "eNumber": "E/17/296",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
-        "honorific": "",
-        "full_name": "Rupasinghe R.H.",
-        "name_with_initials": "Rupasinghe R.H.",
-        "preferred_short_name": "Rupasinghe R.H.",
-        "preferred_long_name": "",
+        "honorific": "Miss.",
+        "full_name": "Ravisha Hasangi Rupasinghe",
+        "name_with_initials": "R.H. Rupasinghe",
+        "preferred_short_name": "Ravisha",
+        "preferred_long_name": "Ravisha Rupasinghe",
         "emails": {
             "personal": {
-                "name": "",
-                "domain": ""
+                "name": "ravisha98rupasinghe",
+                "domain": "gmail.com"
             },
             "faculty": {
                 "name": "e17296",
                 "domain": "eng.pdn.ac.lk"
             }
         },
-        "location": "",
+        "location": "Colombo, Sri Lanka",
         "interests": [],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17296.jpg",
         "urls": {
@@ -7394,31 +8361,36 @@
     "E/17/297": {
         "eNumber": "E/17/297",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
-        "honorific": "",
-        "full_name": "Rupasinghe T.T.V.N.",
-        "name_with_initials": "Rupasinghe T.T.V.N.",
-        "preferred_short_name": "Rupasinghe T.T.V.N.",
-        "preferred_long_name": "",
+        "honorific": "Mr.",
+        "full_name": "Thevara Thanthrilage Vishva Navanjana Rupasinghe",
+        "name_with_initials": "T.T.V.N. Rupasinghe",
+        "preferred_short_name": "Vishva",
+        "preferred_long_name": "Vishva Navanjana",
         "emails": {
             "personal": {
-                "name": "",
-                "domain": ""
+                "name": "vishvanavanjana",
+                "domain": "gmail.com"
             },
             "faculty": {
                 "name": "e17297",
                 "domain": "eng.pdn.ac.lk"
             }
         },
-        "location": "",
-        "interests": [],
+        "location": "Balangoda, Sri Lanka",
+        "interests": [
+            "Full Stack Development",
+            "Vision",
+            "Machine Learning",
+            "Artificial intelligence"
+        ],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17297.jpg",
         "urls": {
-            "cv": "",
+            "cv": "https://drive.google.com/file/d/1y7TKsBVAINB5Z7yYH96lB7o5wRoyCDJl/view?usp=sharing",
             "website": "",
-            "linkedin": "",
-            "github": "",
+            "linkedin": "https://www.linkedin.com/in/vishva-navanjana/",
+            "github": "https://github.com/VishvaNavanjana",
             "facebook": "",
             "researchgate": "",
             "twitter": ""
@@ -7427,7 +8399,7 @@
     "E/17/312": {
         "eNumber": "E/17/312",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Sangarasekara S.A.I.U.",
@@ -7460,7 +8432,7 @@
     "E/17/318": {
         "eNumber": "E/17/318",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Udith Senanayake",
@@ -7493,7 +8465,7 @@
     "E/17/327": {
         "eNumber": "E/17/327",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Shalha A.M.F.",
@@ -7526,7 +8498,7 @@
     "E/17/331": {
         "eNumber": "E/17/331",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "Mr.",
         "full_name": "Hettiyadurage Sathira Chamika Silva",
@@ -7559,7 +8531,7 @@
     "E/17/338": {
         "eNumber": "E/17/338",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Srimal R.M.L.C.",
@@ -7592,7 +8564,7 @@
     "E/17/342": {
         "eNumber": "E/17/342",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Mr. Tharmapalan Thanujan",
@@ -7625,7 +8597,7 @@
     "E/17/352": {
         "eNumber": "E/17/352",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Isara Tillekeratne",
@@ -7658,17 +8630,17 @@
     "E/17/358": {
         "eNumber": "E/17/358",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
-        "honorific": "",
-        "full_name": "Varnaraj N.",
-        "name_with_initials": "Varnaraj N.",
-        "preferred_short_name": "Varnaraj N.",
-        "preferred_long_name": "",
+        "honorific": "Mr.",
+        "full_name": "Naguleswaran Varnaraj",
+        "name_with_initials": "N.Varnaraj",
+        "preferred_short_name": "Varnaa",
+        "preferred_long_name": "Varnaraj",
         "emails": {
             "personal": {
-                "name": "",
-                "domain": ""
+                "name": "varnaraj28",
+                "domain": "gmail.com"
             },
             "faculty": {
                 "name": "e17358",
@@ -7681,17 +8653,17 @@
         "urls": {
             "cv": "",
             "website": "",
-            "linkedin": "",
-            "github": "",
-            "facebook": "",
+            "linkedin": "https://www.linkedin.com/in/varnaa",
+            "github": "https://github.com/varanaraj",
+            "facebook": "https://www.facebook.com/varnaa.raj/",
             "researchgate": "",
-            "twitter": ""
+            "twitter": "https://twitter.com/Varnaraj280498"
         }
     },
     "E/17/369": {
         "eNumber": "E/17/369",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Wannigama S.B.",
@@ -7724,7 +8696,7 @@
     "E/17/379": {
         "eNumber": "E/17/379",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Weerasinghe S.P.D.D.S.",
@@ -7757,7 +8729,7 @@
     "E/17/380": {
         "eNumber": "E/17/380",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Sasanka Shamal Weerasooriya",
@@ -7787,10 +8759,43 @@
             "twitter": ""
         }
     },
+    "E/17/388": {
+        "eNumber": "E/17/388",
+        "batch": "E17",
+        "department": "Mechanical Engineering",
+        "current_affiliation": "Department of Mechanical Engineering, University of Peradeniya",
+        "honorific": "",
+        "full_name": "Weragoda W.A.L.M.",
+        "name_with_initials": "Weragoda W.A.L.M.",
+        "preferred_short_name": "Weragoda W.A.L.M.",
+        "preferred_long_name": "",
+        "emails": {
+            "personal": {
+                "name": "",
+                "domain": ""
+            },
+            "faculty": {
+                "name": "e17388",
+                "domain": "eng.pdn.ac.lk"
+            }
+        },
+        "location": "",
+        "interests": [],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17388.jpg",
+        "urls": {
+            "cv": "",
+            "website": "",
+            "linkedin": "",
+            "github": "",
+            "facebook": "",
+            "researchgate": "",
+            "twitter": ""
+        }
+    },
     "E/17/398": {
         "eNumber": "E/17/398",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Wijerathne I.D.H.S.D.",
@@ -7823,7 +8828,7 @@
     "E/17/405": {
         "eNumber": "E/17/405",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Wijesinghe W.D.L.P.",
@@ -7856,12 +8861,45 @@
     "E/17/407": {
         "eNumber": "E/17/407",
         "batch": "E17",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
+        "honorific": "Miss.",
+        "full_name": "Hasara Dasanmi Wijesooriya",
+        "name_with_initials": "H.D Wijesooriya",
+        "preferred_short_name": "Hasara",
+        "preferred_long_name": "Hasara Wijesooriya",
+        "emails": {
+            "personal": {
+                "name": "hasaradasanmi1997",
+                "domain": "gmail.com"
+            },
+            "faculty": {
+                "name": "e17407",
+                "domain": "eng.pdn.ac.lk"
+            }
+        },
+        "location": "Matara",
+        "interests": [],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17407.jpg",
+        "urls": {
+            "cv": "",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/hasara-wijesooriya-129880218",
+            "github": "https://github.com/WijesooriyaHD",
+            "facebook": "",
+            "researchgate": "",
+            "twitter": ""
+        }
+    },
+    "E/18/009": {
+        "eNumber": "E/18/009",
+        "batch": "E18",
+        "department": "Mechanical Engineering",
+        "current_affiliation": "Department of Mechanical Engineering, University of Peradeniya",
         "honorific": "",
-        "full_name": "Wijesooriya H.D.",
-        "name_with_initials": "Wijesooriya H.D.",
-        "preferred_short_name": "Wijesooriya H.D.",
+        "full_name": "Abeyweera P.S.",
+        "name_with_initials": "Abeyweera P.S.",
+        "preferred_short_name": "Abeyweera P.S.",
         "preferred_long_name": "",
         "emails": {
             "personal": {
@@ -7869,13 +8907,13 @@
                 "domain": ""
             },
             "faculty": {
-                "name": "e17407",
+                "name": "e18009",
                 "domain": "eng.pdn.ac.lk"
             }
         },
         "location": "",
         "interests": [],
-        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17407.jpg",
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18009.jpg",
         "urls": {
             "cv": "",
             "website": "",
@@ -7889,7 +8927,7 @@
     "E/18/010": {
         "eNumber": "E/18/010",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Abeywickrama A.K.D.A.S.",
@@ -7922,7 +8960,7 @@
     "E/18/013": {
         "eNumber": "E/18/013",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Abilash R.",
@@ -7952,10 +8990,43 @@
             "twitter": ""
         }
     },
+    "E/18/014": {
+        "eNumber": "E/18/014",
+        "batch": "E18",
+        "department": "Mechanical Engineering",
+        "current_affiliation": "Department of Mechanical Engineering, University of Peradeniya",
+        "honorific": "",
+        "full_name": "Ahamad I.L.A.",
+        "name_with_initials": "Ahamad I.L.A.",
+        "preferred_short_name": "Ahamad I.L.A.",
+        "preferred_long_name": "",
+        "emails": {
+            "personal": {
+                "name": "",
+                "domain": ""
+            },
+            "faculty": {
+                "name": "e18014",
+                "domain": "eng.pdn.ac.lk"
+            }
+        },
+        "location": "",
+        "interests": [],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+        "urls": {
+            "cv": "",
+            "website": "",
+            "linkedin": "",
+            "github": "",
+            "facebook": "",
+            "researchgate": "",
+            "twitter": ""
+        }
+    },
     "E/18/017": {
         "eNumber": "E/18/017",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Aarah J.F.",
@@ -7988,7 +9059,7 @@
     "E/18/022": {
         "eNumber": "E/18/022",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Amarasinghe D.I.",
@@ -8021,7 +9092,7 @@
     "E/18/028": {
         "eNumber": "E/18/028",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Ariyawansha P.H.J.U.",
@@ -8054,7 +9125,7 @@
     "E/18/030": {
         "eNumber": "E/18/030",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Aththanayaka A.M.S.",
@@ -8087,7 +9158,7 @@
     "E/18/036": {
         "eNumber": "E/18/036",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Bandara L.R.M.U.",
@@ -8120,7 +9191,7 @@
     "E/18/058": {
         "eNumber": "E/18/058",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "De Alwis K.K.M.",
@@ -8150,10 +9221,43 @@
             "twitter": ""
         }
     },
+    "E/18/063": {
+        "eNumber": "E/18/063",
+        "batch": "E18",
+        "department": "Mechanical Engineering",
+        "current_affiliation": "Department of Mechanical Engineering, University of Peradeniya",
+        "honorific": "",
+        "full_name": "Dedigamuwa N.T.",
+        "name_with_initials": "Dedigamuwa N.T.",
+        "preferred_short_name": "Dedigamuwa N.T.",
+        "preferred_long_name": "",
+        "emails": {
+            "personal": {
+                "name": "",
+                "domain": ""
+            },
+            "faculty": {
+                "name": "e18063",
+                "domain": "eng.pdn.ac.lk"
+            }
+        },
+        "location": "",
+        "interests": [],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18063.jpg",
+        "urls": {
+            "cv": "",
+            "website": "",
+            "linkedin": "",
+            "github": "",
+            "facebook": "",
+            "researchgate": "",
+            "twitter": ""
+        }
+    },
     "E/18/068": {
         "eNumber": "E/18/068",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Devinda G.C.",
@@ -8186,7 +9290,7 @@
     "E/18/073": {
         "eNumber": "E/18/073",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Dhananjaya W.M.T.",
@@ -8219,7 +9323,7 @@
     "E/18/077": {
         "eNumber": "E/18/077",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Dharmarathne N.S.",
@@ -8249,10 +9353,43 @@
             "twitter": ""
         }
     },
+    "E/18/097": {
+        "eNumber": "E/18/097",
+        "batch": "E18",
+        "department": "Mechanical Engineering",
+        "current_affiliation": "Department of Mechanical Engineering, University of Peradeniya",
+        "honorific": "",
+        "full_name": "Eswaran M.",
+        "name_with_initials": "Eswaran M.",
+        "preferred_short_name": "Eswaran M.",
+        "preferred_long_name": "",
+        "emails": {
+            "personal": {
+                "name": "",
+                "domain": ""
+            },
+            "faculty": {
+                "name": "e18097",
+                "domain": "eng.pdn.ac.lk"
+            }
+        },
+        "location": "",
+        "interests": [],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18097.jpg",
+        "urls": {
+            "cv": "",
+            "website": "",
+            "linkedin": "",
+            "github": "",
+            "facebook": "",
+            "researchgate": "",
+            "twitter": ""
+        }
+    },
     "E/18/098": {
         "eNumber": "E/18/098",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "Mr.",
         "full_name": "Kurukulasuriya Anton Ishan Fernando",
@@ -8285,7 +9422,7 @@
     "E/18/100": {
         "eNumber": "E/18/100",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "Mr.",
         "full_name": "Kurukulasooriya Nipun Adeepa Fernando",
@@ -8318,7 +9455,7 @@
     "E/18/115": {
         "eNumber": "E/18/115",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Gowsigan A.",
@@ -8351,7 +9488,7 @@
     "E/18/118": {
         "eNumber": "E/18/118",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Gunarathna H.P.H.M.",
@@ -8381,10 +9518,43 @@
             "twitter": ""
         }
     },
+    "E/18/126": {
+        "eNumber": "E/18/126",
+        "batch": "E18",
+        "department": "Mechanical Engineering",
+        "current_affiliation": "Department of Mechanical Engineering, University of Peradeniya",
+        "honorific": "",
+        "full_name": "Gurusinghe D.C.",
+        "name_with_initials": "Gurusinghe D.C.",
+        "preferred_short_name": "Gurusinghe D.C.",
+        "preferred_long_name": "",
+        "emails": {
+            "personal": {
+                "name": "",
+                "domain": ""
+            },
+            "faculty": {
+                "name": "e18126",
+                "domain": "eng.pdn.ac.lk"
+            }
+        },
+        "location": "",
+        "interests": [],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18126.jpg",
+        "urls": {
+            "cv": "",
+            "website": "",
+            "linkedin": "",
+            "github": "",
+            "facebook": "",
+            "researchgate": "",
+            "twitter": ""
+        }
+    },
     "E/18/128": {
         "eNumber": "E/18/128",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Hariharan R.",
@@ -8414,10 +9584,43 @@
             "twitter": ""
         }
     },
+    "E/18/131": {
+        "eNumber": "E/18/131",
+        "batch": "E18",
+        "department": "Mechanical Engineering",
+        "current_affiliation": "Department of Mechanical Engineering, University of Peradeniya",
+        "honorific": "",
+        "full_name": "Hemachandra K.T.H.",
+        "name_with_initials": "Hemachandra K.T.H.",
+        "preferred_short_name": "Hemachandra K.T.H.",
+        "preferred_long_name": "",
+        "emails": {
+            "personal": {
+                "name": "",
+                "domain": ""
+            },
+            "faculty": {
+                "name": "e18131",
+                "domain": "eng.pdn.ac.lk"
+            }
+        },
+        "location": "",
+        "interests": [],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18131.jpg",
+        "urls": {
+            "cv": "",
+            "website": "",
+            "linkedin": "",
+            "github": "",
+            "facebook": "",
+            "researchgate": "",
+            "twitter": ""
+        }
+    },
     "E/18/147": {
         "eNumber": "E/18/147",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Jameel S.",
@@ -8450,7 +9653,7 @@
     "E/18/149": {
         "eNumber": "E/18/149",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Jayakody J.M.I.H.",
@@ -8483,7 +9686,7 @@
     "E/18/150": {
         "eNumber": "E/18/150",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Jayarathna H.M.Y.S.",
@@ -8516,7 +9719,7 @@
     "E/18/154": {
         "eNumber": "E/18/154",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Jayasumana C.H.",
@@ -8549,7 +9752,7 @@
     "E/18/155": {
         "eNumber": "E/18/155",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Jayasundara J.W.K.R.B.",
@@ -8582,7 +9785,7 @@
     "E/18/156": {
         "eNumber": "E/18/156",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Jayathilake W.A.T.N.",
@@ -8615,7 +9818,7 @@
     "E/18/168": {
         "eNumber": "E/18/168",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Karan R.",
@@ -8648,7 +9851,7 @@
     "E/18/170": {
         "eNumber": "E/18/170",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Karunarathna W.K.",
@@ -8681,7 +9884,7 @@
     "E/18/173": {
         "eNumber": "E/18/173",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Kasthuripitiya K.A.I.M.",
@@ -8714,7 +9917,7 @@
     "E/18/177": {
         "eNumber": "E/18/177",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Khan A.K.M.S.",
@@ -8744,10 +9947,43 @@
             "twitter": ""
         }
     },
+    "E/18/178": {
+        "eNumber": "E/18/178",
+        "batch": "E18",
+        "department": "Mechanical Engineering",
+        "current_affiliation": "Department of Mechanical Engineering, University of Peradeniya",
+        "honorific": "",
+        "full_name": "Kithmal P.G.S.",
+        "name_with_initials": "Kithmal P.G.S.",
+        "preferred_short_name": "Kithmal P.G.S.",
+        "preferred_long_name": "",
+        "emails": {
+            "personal": {
+                "name": "",
+                "domain": ""
+            },
+            "faculty": {
+                "name": "e18178",
+                "domain": "eng.pdn.ac.lk"
+            }
+        },
+        "location": "",
+        "interests": [],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18178.jpg",
+        "urls": {
+            "cv": "",
+            "website": "",
+            "linkedin": "",
+            "github": "",
+            "facebook": "",
+            "researchgate": "",
+            "twitter": ""
+        }
+    },
     "E/18/180": {
         "eNumber": "E/18/180",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Kodituwakku M.K.N.M.",
@@ -8780,7 +10016,7 @@
     "E/18/181": {
         "eNumber": "E/18/181",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Konara K.M.S.L.",
@@ -8813,7 +10049,7 @@
     "E/18/203": {
         "eNumber": "E/18/203",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Madhusanka K.G.A.S.",
@@ -8846,40 +10082,47 @@
     "E/18/214": {
         "eNumber": "E/18/214",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
-        "honorific": "",
-        "full_name": "Manahara H.K.",
-        "name_with_initials": "Manahara H.K.",
-        "preferred_short_name": "Manahara H.K.",
-        "preferred_long_name": "",
+        "honorific": "Mr.",
+        "full_name": "Hettige Kushan Manahara",
+        "name_with_initials": "H.K. Manahara",
+        "preferred_short_name": "Kushan",
+        "preferred_long_name": "Kushan Manahara",
         "emails": {
             "personal": {
-                "name": "",
-                "domain": ""
+                "name": "kushanmanaharahettige",
+                "domain": "gmail.com"
             },
             "faculty": {
                 "name": "e18214",
                 "domain": "eng.pdn.ac.lk"
             }
         },
-        "location": "",
-        "interests": [],
+        "location": "Kotapola, Sri Lanka",
+        "interests": [
+            "Coding",
+            "Watching Movies",
+            "Following Online Courses",
+            "Graphic Designing",
+            "Travelling",
+            "Listening to the Music"
+        ],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18214.jpg",
         "urls": {
-            "cv": "",
+            "cv": "https://drive.google.com/file/d/1MNKpGQZNNu5pLcrOZytpO3wLmv3Rx3iB/view?usp=sharing",
             "website": "",
-            "linkedin": "",
-            "github": "",
-            "facebook": "",
-            "researchgate": "",
-            "twitter": ""
+            "linkedin": "http://www.linkedin.com/in/kushan-manahara",
+            "github": "https://github.com/KushanManahara",
+            "facebook": "https://www.facebook.com/kushan.manahara.58",
+            "researchgate": "https://www.researchgate.net/profile/Kushan-Manahara",
+            "twitter": "https://twitter.com/Kushan_Manahara?t=N0wxELJ8lgXX2OYaHBClEw&s=09"
         }
     },
     "E/18/224": {
         "eNumber": "E/18/224",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Mihiranga G.D.R.",
@@ -8912,7 +10155,7 @@
     "E/18/227": {
         "eNumber": "E/18/227",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Mudalige D.H.",
@@ -8942,10 +10185,43 @@
             "twitter": ""
         }
     },
+    "E/18/230": {
+        "eNumber": "E/18/230",
+        "batch": "E18",
+        "department": "Mechanical Engineering",
+        "current_affiliation": "Department of Mechanical Engineering, University of Peradeniya",
+        "honorific": "",
+        "full_name": "Munathanthri M.D.H.I.",
+        "name_with_initials": "Munathanthri M.D.H.I.",
+        "preferred_short_name": "Munathanthri M.D.H.I.",
+        "preferred_long_name": "",
+        "emails": {
+            "personal": {
+                "name": "",
+                "domain": ""
+            },
+            "faculty": {
+                "name": "e18230",
+                "domain": "eng.pdn.ac.lk"
+            }
+        },
+        "location": "",
+        "interests": [],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18230.jpg",
+        "urls": {
+            "cv": "",
+            "website": "",
+            "linkedin": "",
+            "github": "",
+            "facebook": "",
+            "researchgate": "",
+            "twitter": ""
+        }
+    },
     "E/18/242": {
         "eNumber": "E/18/242",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Nimnadi J.A.S.",
@@ -8978,7 +10254,7 @@
     "E/18/245": {
         "eNumber": "E/18/245",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Nishani K.",
@@ -9011,7 +10287,7 @@
     "E/18/264": {
         "eNumber": "E/18/264",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Prasanna N.W.G.L.M.",
@@ -9044,7 +10320,7 @@
     "E/18/266": {
         "eNumber": "E/18/266",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Premathilaka K.N.I.",
@@ -9077,7 +10353,7 @@
     "E/18/276": {
         "eNumber": "E/18/276",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Rajasooriya J.M.",
@@ -9110,7 +10386,7 @@
     "E/18/282": {
         "eNumber": "E/18/282",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "Miss.",
         "full_name": "Ranasinghe R.A.N.S.",
@@ -9143,7 +10419,7 @@
     "E/18/283": {
         "eNumber": "E/18/283",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Ranasinghe R.D.J.M.",
@@ -9176,7 +10452,7 @@
     "E/18/285": {
         "eNumber": "E/18/285",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Ranasinghe S.M.T.S.C.",
@@ -9209,7 +10485,7 @@
     "E/18/297": {
         "eNumber": "E/18/297",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Rathnayake R.M.P.P.",
@@ -9242,7 +10518,7 @@
     "E/18/304": {
         "eNumber": "E/18/304",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Rishad N.M.",
@@ -9272,10 +10548,43 @@
             "twitter": ""
         }
     },
+    "E/18/316": {
+        "eNumber": "E/18/316",
+        "batch": "E18",
+        "department": "Mechanical Engineering",
+        "current_affiliation": "Department of Mechanical Engineering, University of Peradeniya",
+        "honorific": "",
+        "full_name": "Sandaruwan V.B.",
+        "name_with_initials": "Sandaruwan V.B.",
+        "preferred_short_name": "Sandaruwan V.B.",
+        "preferred_long_name": "",
+        "emails": {
+            "personal": {
+                "name": "",
+                "domain": ""
+            },
+            "faculty": {
+                "name": "e18316",
+                "domain": "eng.pdn.ac.lk"
+            }
+        },
+        "location": "",
+        "interests": [],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18316.jpg",
+        "urls": {
+            "cv": "",
+            "website": "",
+            "linkedin": "",
+            "github": "",
+            "facebook": "",
+            "researchgate": "",
+            "twitter": ""
+        }
+    },
     "E/18/318": {
         "eNumber": "E/18/318",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Sandunika S.A.P.",
@@ -9308,7 +10617,7 @@
     "E/18/323": {
         "eNumber": "E/18/323",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Seekkubadu H.D.",
@@ -9341,7 +10650,7 @@
     "E/18/327": {
         "eNumber": "E/18/327",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Senevirathna M.D.C.D.",
@@ -9374,7 +10683,7 @@
     "E/18/329": {
         "eNumber": "E/18/329",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Sewwandi D.W.S.N.",
@@ -9407,7 +10716,7 @@
     "E/18/330": {
         "eNumber": "E/18/330",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Sewwandi H.R.",
@@ -9440,7 +10749,7 @@
     "E/18/340": {
         "eNumber": "E/18/340",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Subramanieam V.",
@@ -9473,7 +10782,7 @@
     "E/18/349": {
         "eNumber": "E/18/349",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Thalisha W.G.A.P.",
@@ -9506,7 +10815,7 @@
     "E/18/354": {
         "eNumber": "E/18/354",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Tharaka K.K.D.R.",
@@ -9539,7 +10848,7 @@
     "E/18/366": {
         "eNumber": "E/18/366",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Thulasiyan Y.",
@@ -9572,7 +10881,7 @@
     "E/18/368": {
         "eNumber": "E/18/368",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Uduwanage H.U.",
@@ -9605,7 +10914,7 @@
     "E/18/373": {
         "eNumber": "E/18/373",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Vilakshan V.",
@@ -9638,7 +10947,7 @@
     "E/18/375": {
         "eNumber": "E/18/375",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Vindula K.P.A.",
@@ -9671,7 +10980,7 @@
     "E/18/379": {
         "eNumber": "E/18/379",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Wanduragala T.D.B.",
@@ -9704,7 +11013,7 @@
     "E/18/382": {
         "eNumber": "E/18/382",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Weerarathne L.D.",
@@ -9737,7 +11046,7 @@
     "E/18/397": {
         "eNumber": "E/18/397",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Wijerathne E.S.G.",
@@ -9770,7 +11079,7 @@
     "E/18/398": {
         "eNumber": "E/18/398",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Wijerathne R.M.N.S.",
@@ -9803,7 +11112,7 @@
     "E/18/402": {
         "eNumber": "E/18/402",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "Wimalasiri K.H.C.T.",
@@ -9833,10 +11142,43 @@
             "twitter": ""
         }
     },
+    "E/18/406": {
+        "eNumber": "E/18/406",
+        "batch": "E18",
+        "department": "Mechanical Engineering",
+        "current_affiliation": "Department of Mechanical Engineering, University of Peradeniya",
+        "honorific": "",
+        "full_name": "Zameer M.H.M.",
+        "name_with_initials": "Zameer M.H.M.",
+        "preferred_short_name": "Zameer M.H.M.",
+        "preferred_long_name": "",
+        "emails": {
+            "personal": {
+                "name": "",
+                "domain": ""
+            },
+            "faculty": {
+                "name": "e18406",
+                "domain": "eng.pdn.ac.lk"
+            }
+        },
+        "location": "",
+        "interests": [],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18406.jpg",
+        "urls": {
+            "cv": "",
+            "website": "",
+            "linkedin": "",
+            "github": "",
+            "facebook": "",
+            "researchgate": "",
+            "twitter": ""
+        }
+    },
     "E/18/412": {
         "eNumber": "E/18/412",
         "batch": "E18",
-        "department": "Computer",
+        "department": "Computer Engineering",
         "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
         "honorific": "",
         "full_name": "De Silva M.S.G.M.",

@@ -1,33 +1,37 @@
 {
     "eNumber": "E/14/380",
     "batch": "E14",
-    "department": "Computer",
-    "current_affiliation": "",
-    "honorific": "",
-    "full_name": "Eranda Yasith.Welikala",
-    "name_with_initials": "",
-    "preferred_short_name": "Eranda",
-    "preferred_long_name": "Eranda Yasith.Welikala",
+    "department": "Computer Engineering",
+    "current_affiliation": "AtLink Communication Inc.",
+    "honorific": "Mr.",
+    "full_name": "Erantha Yasith Wellikala",
+    "name_with_initials": "EY Welikala",
+    "preferred_short_name": "Erantha",
+    "preferred_long_name": "Erantha Welikala",
     "emails": {
         "personal": {
-            "name": "",
-            "domain": ""
+            "name": "eranthawelikala",
+            "domain": "gmail.com"
         },
         "faculty": {
-            "name": "e14380",
-            "domain": "ce.pdn.ac.lk"
+            "name": "eranthawelikala",
+            "domain": "eng.pdn.ac.lk"
         }
     },
-    "location": "",
-    "interests": [],
+    "location": "Padukka, Sri Lanka",
+    "interests": [
+        "Web Development",
+        "Mobile Development(iOS & Android)",
+        "RnD"
+    ],
     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14380.jpg",
     "urls": {
-        "cv": "",
-        "website": "",
-        "linkedin": "",
-        "github": "",
-        "facebook": "",
+        "cv": "https://eranthawelikala.github.io/cv.pdf",
+        "website": "https://eranthawelikala.github.io/",
+        "linkedin": "https://www.linkedin.com/in/eranthawelikala/",
+        "github": "https://github.com/eranthaWELIKALA",
+        "facebook": "https://www.facebook.com/erantha.welikala",
         "researchgate": "",
-        "twitter": ""
+        "twitter": "https://twitter.com/Eranthawelikala"
     }
 }
