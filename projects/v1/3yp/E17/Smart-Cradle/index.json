@@ -44,22 +44,30 @@
             "profile_url": "https://people.ce.pdn.ac.lk/students/e17/407/"
         }
     },
-    "supervisors": [
-        {
+    "supervisors": {
+        "isurun@eng.pdn.ac.lk": {
             "name": "Dr.Isuru Nawinne",
             "email": "isurun@eng.pdn.ac.lk",
-            "linkedin_profile": "https://www.linkedin.com/in/isuru-nawinne-73302833",
+            "profile_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "api_url": "#",
             "website": "#",
-            "researchgate_profile": "#"
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
         },
-        {
+        "mahanamaw@eng.pdn.ac.lk": {
             "name": "Dr. Mahanama Wickramasinghe",
             "email": "mahanamaw@eng.pdn.ac.lk",
-            "linkedin_profile": "https://www.linkedin.com/in/mahanama/",
-            "website": "#",
-            "researchgate_profile": "#"
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/mahanama-wickramasinghe/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/mahanama-wickramasinghe.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/mahanamaw",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/mahanama",
+            "researchgate": "https://www.researchgate.net/profile/Mahanama-Wickramsinghe",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=kuoZpZEAAAAJ"
         }
-    ],
+    },
     "tags": [
         "Web",
         "Embedded Systems"

@@ -44,26 +44,41 @@
             "profile_url": "https://people.ce.pdn.ac.lk/students/e15/220/"
         }
     },
-    "supervisors": [
-        {
+    "supervisors": {
+        "asithab@eng.pdn.ac.lk": {
             "name": "Dr. Asitha Bandaranayake",
             "email": "asithab@eng.pdn.ac.lk",
-            "linkedin_profile": "",
-            "researchgate_profile": ""
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/asithab",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/asithab/",
+            "researchgate": "https://www.researchgate.net/profile/Asitha-Bandaranayake-3",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=sf6MaF4AAAAJ"
         },
-        {
+        "dsdeegalla@pdn.ac.lk": {
             "name": "Mr. Sampath Deegalla",
             "email": "dsdeegalla@pdn.ac.lk",
-            "linkedin_profile": "",
-            "researchgate_profile": ""
+            "profile_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "api_url": "#",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
         },
-        {
+        "#": {
             "name": "Mr. Ishan Gammampila",
             "email": "#",
-            "linkedin_profile": "#",
-            "researchgate_profile": "#"
+            "profile_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "api_url": "#",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
         }
-    ],
+    },
     "tags": [
         "Final Year Projects"
     ]

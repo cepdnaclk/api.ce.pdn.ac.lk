@@ -33,20 +33,19 @@
             "profile_url": "https://people.ce.pdn.ac.lk/students/e16/388/"
         }
     },
-    "supervisors": [
-        {
-            "name": "Dr. Isuru Navinne",
-            "email": "email@eng.pdn.ac.lk",
-            "linkedin_profile": "#",
-            "researchgate_profile": "#"
-        },
-        {
+    "supervisors": {
+        "email@eng.pdn.ac.lk": {
             "name": "Dr. Ziyam Marikkar",
             "email": "email@eng.pdn.ac.lk",
-            "linkedin_profile": "#",
-            "researchgate_profile": "#"
+            "profile_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "api_url": "#",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
         }
-    ],
+    },
     "tags": [
         "Web",
         "Embedded Systems",

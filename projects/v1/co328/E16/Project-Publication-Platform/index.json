@@ -9,22 +9,30 @@
     "project_url": "https://projects.ce.pdn.ac.lk/co328/e16/Project-Publication-Platform",
     "repo_url": "https://github.com/cepdnaclk/e16-co328-Project-Publication-Platform",
     "page_url": "https://cepdnaclk.github.io/e16-co328-Project-Publication-Platform",
-    "supervisors": [
-        {
+    "supervisors": {
+        "email@eng.pdn.ac.lk": {
             "name": "Dr. Janaka Alawatugoda",
             "email": "email@eng.pdn.ac.lk",
-            "linkedin_profile": "#",
-            "researchgate_profile": "#",
-            "website": "#"
+            "profile_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "api_url": "#",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
         },
-        {
-            "name": "Supervisor 2",
+        "alawatugoda@eng.pdn.ac.lk": {
+            "name": "Dr. Janaka Alawatugoda",
             "email": "alawatugoda@eng.pdn.ac.lk",
-            "linkedin_profile": "https://www.linkedin.com/in/janaka-alawatugoda-53294034/",
-            "researchgate_profile": "#",
-            "website": "#"
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/alawatugoda",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/janaka-alawatugoda-53294034/",
+            "researchgate": "https://www.researchgate.net/profile/Janaka-Alawatugoda-2",
+            "google_scholar": "https://scholar.google.com/citations?user=TJWRzj4AAAAJ&hl=en"
         }
-    ],
+    },
     "tags": [
         "Web",
         "Embedded Systems"

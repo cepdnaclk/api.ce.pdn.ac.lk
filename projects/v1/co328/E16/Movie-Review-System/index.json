@@ -9,22 +9,19 @@
     "project_url": "https://projects.ce.pdn.ac.lk/co328/e16/Movie-Review-System",
     "repo_url": "https://github.com/cepdnaclk/e16-co328-Movie-Review-System",
     "page_url": "https://cepdnaclk.github.io/e16-co328-Movie-Review-System",
-    "supervisors": [
-        {
-            "name": "Dr. Supervisor 1",
-            "email": "email@eng.pdn.ac.lk",
-            "linkedin_profile": "#",
-            "researchgate_profile": "#",
-            "website": "#"
-        },
-        {
+    "supervisors": {
+        "email@eng.pdn.ac.lk": {
             "name": "Supervisor 2",
             "email": "email@eng.pdn.ac.lk",
-            "linkedin_profile": "#",
-            "researchgate_profile": "#",
-            "website": "#"
+            "profile_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "api_url": "#",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
         }
-    ],
+    },
     "tags": [
         "Web",
         "Embedded Systems"

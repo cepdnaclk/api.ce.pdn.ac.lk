@@ -14,9 +14,11 @@ import shutil
 # Where the API is available
 apiBase = "http://api.ce.pdn.ac.lk"
 
-
 # Where the student data available
 studentSource = "../people/v1/students/all/index.json"
+
+# Where the staff data available
+staffSource = "../people/v1/staff/all/index.json"
 
 # Where the project data available
 apiSource = "https://projects.ce.pdn.ac.lk/api/"
@@ -27,6 +29,8 @@ pageSource = "https://cepdnaclk.github.io/"
 
 # If this is enabled, the individual project config files also fetch
 enable_deep_scan = True
+
+DEFAULT_PROFILE_IMAGE = "https://people.ce.pdn.ac.lk/images/students/default.jpg"
 
 # Delete the existing files first
 def del_old_files():
@@ -76,7 +80,7 @@ def process_team(data):
             linkedin = person_from_api['urls']['linkedin'] if 'linkedin' in person_from_api['urls'] else "#"
             researchgate = person_from_api['urls']['researchgate'] if 'researchgate' in person_from_api['urls'] else "#"
             website = person_from_api['urls']['website'] if 'website' in person_from_api['urls'] else "#"
-            profile_image = person_from_api['profile_image'] if 'profile_image' in person_from_api else "https://people.ce.pdn.ac.lk/images/students/default.jpg"
+            profile_image = person_from_api['profile_image'] if 'profile_image' in person_from_api else DEFAULT_PROFILE_IMAGE
             profile_url = person_from_api['profile_page'] if 'profile_page' in person_from_api else "#"
             profile_api = profile_api
 
@@ -95,6 +99,36 @@ def process_supervisors(data):
     supervisors = {}
 
     for person in data:
+        # name, email
+        email_id = person['email'].split('@')[0]
+
+        if email_id in staff:
+            details = staff[email_id]
+            api_url = apiBase + "/people/v1/staff/" + email_id
+
+            supervisors[person['email']] = {
+                'name': details['name'],
+                'email': details['email'],
+                'profile_url': details['profile_url'],
+                'profile_image': details['profile_image'],
+                'api_url': api_url,
+                'website': details['urls']['website'],
+                'linkedin': details['urls']['linkedin'],
+                'researchgate': details['urls']['researchgate'],
+                'google_scholar': details['urls']['google_scholar'],
+            }
+        else:
+            supervisors[person['email']] = {
+                'name': person['name'],
+                'email': person['email'],
+                'profile_url': '#',
+                'profile_image': DEFAULT_PROFILE_IMAGE,
+                'api_url': '#',
+                'website': '#',
+                'linkedin': '#',
+                'researchgate': '#',
+                'google_scholar': '#'
+            }
 
     return supervisors
 
@@ -340,6 +374,10 @@ students = {}
 student_file = open(studentSource)
 students = json.load(student_file)
 
+# Gather Staff API data
+staff_file = open(staffSource)
+staff = json.load(staff_file)
+
 # Fetch category data from the people.ce.pdn.ac.lk
 req_category = requests.get(apiSource + "categories/")
 if req_category.status_code==200:
@@ -361,7 +399,7 @@ if req_category.status_code==200:
         title_to_code[title] = code
 
 
-# Fetch project data from the people.ce.pdn.ac.lk
+# Fetch project data from the projects.ce.pdn.ac.lk
 req_projects = requests.get(apiSource + "all/")
 if req_projects.status_code==200:
     data = json.loads(req_projects.text)

@@ -44,16 +44,30 @@
             "profile_url": "https://people.ce.pdn.ac.lk/students/e14/298/"
         }
     },
-    "supervisors": [
-        {
+    "supervisors": {
+        "isurunawinne@eng.pdn.ac.lk": {
             "name": "Dr. Isuru Nawinne",
-            "email": "isurunawinne@eng.pdn.ac.lk"
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+            "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
         },
-        {
-            "name": "Dr. Janaka Alawatugoda ",
-            "email": "alawatugoda@eng.pdn.ac.lk"
+        "alawatugoda@eng.pdn.ac.lk": {
+            "name": "Dr. Janaka Alawatugoda",
+            "email": "alawatugoda@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/alawatugoda",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/janaka-alawatugoda-53294034/",
+            "researchgate": "https://www.researchgate.net/profile/Janaka-Alawatugoda-2",
+            "google_scholar": "https://scholar.google.com/citations?user=TJWRzj4AAAAJ&hl=en"
         }
-    ],
+    },
     "tags": [
         "Web",
         "Algorithm",

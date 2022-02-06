@@ -33,20 +33,30 @@
             "profile_url": "https://people.ce.pdn.ac.lk/students/e15/179/"
         }
     },
-    "supervisors": [
-        {
+    "supervisors": {
+        "rajithae03@gmail.com": {
             "name": "Dr. Rajitha Navarathna",
             "email": "rajithae03@gmail.com",
-            "linkedin_profile": "https://www.linkedin.com/in/rajitha-navarathna-phd-36a0989",
-            "researchgate_profile": "https://www.researchgate.net/scientific-contributions/Rajitha-Navarathna-71094384"
+            "profile_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "api_url": "#",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
         },
-        {
+        "sampath@eng.pdn.ac.lk": {
             "name": "Mr. Sampath Deegalla",
             "email": "sampath@eng.pdn.ac.lk",
-            "linkedin_profile": "https://www.linkedin.com/in/dsdeegalla",
-            "researchgate_profile": "https://www.researchgate.net/profile/Sampath-Deegalla-2"
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/sampath-deegalla/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/sampath-deegalla.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/sampath",
+            "website": "https://www.sites.google.com/site/dsdeegalla/",
+            "linkedin": "https://www.linkedin.com/in/dsdeegalla",
+            "researchgate": "https://www.researchgate.net/profile/Sampath-Deegalla-2",
+            "google_scholar": "https://scholar.google.com/citations?user=QDoeGtYAAAAJ&hl=en"
         }
-    ],
+    },
     "tags": [
         "Final Year Projects",
         "Human Action Recognition",
