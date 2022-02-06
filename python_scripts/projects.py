@@ -92,7 +92,11 @@ def process_team(data):
 # Pre-process the supervisor data
 def process_supervisors(data):
     # TODO: Process, validate, and add missing data from people APIs
-    return data
+    supervisors = {}
+
+    for person in data:
+
+    return supervisors
 
 # Pre-process the tag data
 def process_tags(data):

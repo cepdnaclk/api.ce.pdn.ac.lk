@@ -40,7 +40,8 @@ def write_index(staff_list):
 
     for email in staff_list:
         raw = staff_list[email]
-        url = '{0}/staff/{1}/'.format(apiIndex,email)
+        email_id = email.split('@')[0]
+        url = '{0}/staff/{1}/'.format(apiIndex,email_id)
         dict[email] = {
             'name': raw['name'],
             'url': url,
@@ -52,17 +53,19 @@ def write_index(staff_list):
     with open(filename, "w") as f:
         f.write(json.dumps(dict, indent = 4))
 
-# Write the /staff/{email}/index.json files
+# Write the /staff/{email_id}/index.json files
 def write_staff_pages(staff_list):
     for email in staff_list:
         raw_data = staff_list[email]
-        filename = "../people/v1/staff/" + email + "/index.json"
+        email_id = email.split('@')[0]
+
+        filename = "../people/v1/staff/" + email_id + "/index.json"
         os.makedirs(os.path.dirname(filename), exist_ok=True)
         data = {
             'name': raw_data['name'],
             'designation': raw_data['designation'],
-            'page_url': raw_data['link'],
             'email': raw_data['email'],
+            'profile_url': raw_data['link'],
             'profile_image': raw_data['profile_image'],
             'urls': raw_data['urls'],
             'research_interests': raw_data['research_interests'],
@@ -70,6 +73,38 @@ def write_staff_pages(staff_list):
 
         with open(filename, "w") as f:
             f.write(json.dumps(data, indent = 4))
+
+# Write the /staff/all/index.json file
+def write_all(staff_list):
+    data_all = {}
+    sorted_data_all = {}
+
+    filename = "../people/v1/staff/all/index.json"
+    os.makedirs(os.path.dirname(filename), exist_ok=True)
+
+    for email in staff_list:
+        raw_data = staff_list[email]
+        email_id = email.split('@')[0]
+
+        raw_data = staff_list[email]
+        data = {
+            'name': raw_data['name'],
+            'designation': raw_data['designation'],
+            'email': raw_data['email'],
+            'profile_url': raw_data['link'],
+            'profile_image': raw_data['profile_image'],
+            'urls': raw_data['urls'],
+            'research_interests': raw_data['research_interests'],
+        }
+        data_all[email_id] = data
+
+    # Sort in alphabatical order
+    for key in sorted(data_all):
+        sorted_data_all[key] = data_all[key]
+
+    with open(filename, "w") as f:
+        f.write(json.dumps(sorted_data_all, indent=4))
+
 
 # ------------------------------------------------------------------------------
 
@@ -87,5 +122,8 @@ if r.status_code==200:
     # Write the index file for the staff
     write_index(staff_list)
 
-    # Create files for each batch
+    # Create files for each staff member
     write_staff_pages(staff_list)
+
+    # Create the aggregated index file
+    write_all(staff_list)
