@@ -33,7 +33,7 @@ jobs:
           python3 projects.py
           cd ../
 
-      - name: Filter the Projects by Student ENumbers
+      - name: Filter the Projects by Student ENumbers and Tags
         run: |
           cd ./python_scripts
           python3 projects_filters.py

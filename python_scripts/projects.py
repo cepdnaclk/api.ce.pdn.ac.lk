@@ -342,8 +342,9 @@ def write_projects(categories):
                     },
                     'project_url': raw_data['project_url'],
                     'repo_url': raw_data['repo_url'],
-                    'page_url': raw_data['page_url']
-                    }
+                    'page_url': raw_data['page_url'],
+                    'thumbnail_url': raw_data['thumbnail_url']
+                }
 
                 if(enable_deep_scan and data['page_url'] != "#"):
                     # Load proj configuration details from the GitHub pages

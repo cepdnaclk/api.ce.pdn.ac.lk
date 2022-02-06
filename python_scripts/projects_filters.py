@@ -63,8 +63,9 @@ for p_cat in projects:
                     'api_url': apiBase + '/projects/v1/' + cat_code + '/'
                 },
                 'project_url': proj_data['project_url'],
-                # 'repo_url': proj_data['repo_url'],
-                # 'page_url': proj_data['page_url'],
+                'repo_url': proj_data['repo_url'],
+                'page_url': proj_data['page_url'],
+                'thumbnail_url': proj_data['thumbnail_url'],
                 'api_url': p['api_url']
             }
 
@@ -76,6 +77,7 @@ for p_cat in projects:
                         if student not in student_dict: student_dict[student] = []
                         student_dict[student].append(proj_info)
 
+            # Add the project_tag info into the tag indexes
             if 'tags' in proj_data:
                 for tag in proj_data['tags']:
                     if tag !="":
