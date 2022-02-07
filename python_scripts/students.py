@@ -20,6 +20,8 @@ apiSource = 'https://people.ce.pdn.ac.lk/api/students/'
 # Where the student profile pages located
 webSource = 'https://people.ce.pdn.ac.lk/'
 
+DEFAULT_PROFILE_IMAGE = "https://people.ce.pdn.ac.lk/images/students/default.jpg"
+
 # Validate and format the registration number
 def validateRegNumber(regNumber):
     if len(regNumber) == 2:
@@ -130,6 +132,9 @@ if r.status_code == 200:
         data[eNumber]['emails']['personal'] = emailFilter(data[eNumber]['emails']['personal'])
         data[eNumber]['emails']['faculty'] = emailFilter(data[eNumber]['emails']['faculty'])
         data[eNumber]['profile_page'] = webSource + 'students/' + data[eNumber]['eNumber'].replace('E/', 'e') + '/';
+
+        if data[eNumber]['profile_image'] =='':
+            data[eNumber]['profile_image'] = DEFAULT_PROFILE_IMAGE
 
         batch = data[eNumber]['batch']
         if batch not in batch_groups:
