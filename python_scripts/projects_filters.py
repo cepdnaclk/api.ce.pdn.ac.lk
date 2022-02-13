@@ -53,6 +53,7 @@ for p_cat in projects:
             proj_data = json.load(open(filename, "r"))
 
             cat_code = proj_data['category']['code']
+            cat_title = proj_data['category']['title']
             # print(json.dumps(proj_data, indent = 4))
 
             # Prepare a subset of the project data
@@ -60,6 +61,7 @@ for p_cat in projects:
                 'title': proj_data['title'],
                 'category': {
                     'code': cat_code,
+                    'title': cat_title,
                     'api_url': apiBase + '/projects/v1/' + cat_code + '/'
                 },
                 'project_url': proj_data['project_url'],
