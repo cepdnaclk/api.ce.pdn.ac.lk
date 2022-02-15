@@ -19,10 +19,10 @@ If you are interested in contributing to this, you can find the GitHub repositor
 
 This is completely developed and the documentation is also up-to-date:
 - [Students Data API](./docs/students/)
+- [Projects Data API](./docs/projects/)
 
 Following APIs were developed, but no documentation was written yet. We are looking for a volunteer for it:
 - Staff Data API ([API index](./people/v1/staff/))
-- Projects Data API ([API index](./projects/v1/))
 
 The following are under development:
 - Courses and Timetable APIs via [https://github.com/cepdnaclk/courses](https://github.com/cepdnaclk/courses)

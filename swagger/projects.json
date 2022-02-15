@@ -1,0 +1,684 @@
+{
+  "swagger" : "2.0",
+  "info" : {
+    "description" : "This API can be used to obtain the information of the student projects in the Department of Computer Engineering, University of Peradeniya",
+    "version" : "v1",
+    "title" : "Projects API",
+    "contact" : {
+      "email" : "nuwanjaliyagoda@eng.pdn.ac.lk"
+    }
+  },
+  "tags" : [ ],
+  "paths" : {
+    "/" : {
+      "get" : {
+        "summary" : "Category Index",
+        "operationId" : "searchInventory",
+        "description" : "Available project categories with the details",
+        "produces" : [ "application/json" ],
+        "responses" : {
+          "200" : {
+            "description" : "Category details",
+            "schema" : {
+              "type" : "array",
+              "items" : {
+                "$ref" : "#/definitions/Category"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/{category}" : {
+      "get" : {
+        "summary" : "Batch Index",
+        "operationId" : "getBatchesByCategory",
+        "description" : "Available projects under a specified category, grouped by student batches\n",
+        "produces" : [ "application/json" ],
+        "parameters" : [ {
+          "name" : "category",
+          "in" : "path",
+          "description" : "Category ID",
+          "required" : true,
+          "type" : "string"
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "Success",
+            "schema" : {
+              "$ref" : "#/definitions/BatchList"
+            }
+          }
+        }
+      }
+    },
+    "/{category}/{batch}" : {
+      "get" : {
+        "summary" : "Project Index",
+        "operationId" : "getProjectsByCategoryBatch",
+        "description" : "Available projects of specific category, filtered by student batches\n",
+        "produces" : [ "application/json" ],
+        "parameters" : [ {
+          "name" : "category",
+          "in" : "path",
+          "description" : "Category ID",
+          "required" : true,
+          "type" : "string"
+        }, {
+          "name" : "batch",
+          "in" : "path",
+          "description" : "Batch ID, 'E' Should be capital",
+          "required" : true,
+          "type" : "string"
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "Success",
+            "schema" : {
+              "$ref" : "#/definitions/Project"
+            }
+          }
+        }
+      }
+    },
+    "/{category}/{batch}/{project}" : {
+      "get" : {
+        "summary" : "Project",
+        "operationId" : "getProject",
+        "description" : "Details of a specified project",
+        "produces" : [ "application/json" ],
+        "parameters" : [ {
+          "name" : "category",
+          "in" : "path",
+          "description" : "Category ID",
+          "required" : true,
+          "type" : "string"
+        }, {
+          "name" : "batch",
+          "in" : "path",
+          "description" : "Batch ID, 'E' Should be capital",
+          "required" : true,
+          "type" : "string"
+        }, {
+          "name" : "project",
+          "in" : "path",
+          "description" : "The title of the project, with '-' for the space between words",
+          "required" : true,
+          "type" : "string"
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "Success",
+            "schema" : {
+              "$ref" : "#/definitions/ProjectDetailed"
+            }
+          }
+        }
+      }
+    },
+    "/filter/students/" : {
+      "get" : {
+        "summary" : "Projects grouped by Students",
+        "operationId" : "getProjectsByStudents",
+        "description" : "Available projects grouped by Students\n",
+        "produces" : [ "application/json" ],
+        "responses" : {
+          "200" : {
+            "description" : "Success",
+            "schema" : {
+              "$ref" : "#/definitions/StudentProjects"
+            }
+          }
+        }
+      }
+    },
+    "/filter/tags/" : {
+      "get" : {
+        "summary" : "Projects grouped by Tags",
+        "operationId" : "getProjectsByTags",
+        "description" : "Available projects grouped by Tags\n",
+        "produces" : [ "application/json" ],
+        "responses" : {
+          "200" : {
+            "description" : "Success",
+            "schema" : {
+              "$ref" : "#/definitions/TagProjects"
+            }
+          }
+        }
+      }
+    },
+    "/all/" : {
+      "get" : {
+        "summary" : "All Projects",
+        "operationId" : "getAllProjects",
+        "description" : "All available projects, in a hierarchical structure",
+        "produces" : [ "application/json" ],
+        "responses" : {
+          "200" : {
+            "description" : "Success",
+            "schema" : {
+              "$ref" : "#/definitions/AllProjects"
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitions" : {
+    "Category" : {
+      "type" : "object",
+      "required" : [ "code", "title", "description", "type", "page_url", "api_url" ],
+      "properties" : {
+        "code" : {
+          "type" : "string",
+          "description" : "The shortcode of the project category",
+          "example" : "3yp"
+        },
+        "title" : {
+          "type" : "string",
+          "description" : "The title of the category",
+          "example" : "Cyber-Physical Systems Projects"
+        },
+        "description" : {
+          "type" : "string",
+          "description" : "The description about the project category",
+          "example" : "Cyber-Physical Systems designed and implemented by 3rd year Computer Engineering Students as part of coursework."
+        },
+        "type" : {
+          "type" : "string",
+          "enum" : [ "GENERAL", "COURSE" ],
+          "example" : "GENERAL",
+          "description" : "The type of the project category; GENERAL: projects not belongs to any course, COURSE: course based projects"
+        },
+        "page_url" : {
+          "type" : "string",
+          "format" : "url",
+          "description" : "The URL of the category page",
+          "example" : "https://projects.ce.pdn.ac.lk/3yp/"
+        },
+        "api_url" : {
+          "type" : "string",
+          "format" : "url",
+          "description" : "The API endpoint URL of the category",
+          "example" : "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        }
+      },
+      "example" : {
+        "3yp" : {
+          "code" : "3yp",
+          "title" : "Cyber-Physical Systems Projects",
+          "description" : "Cyber-Physical Systems designed and implemented by 3rd year Computer Engineering Students as part of...",
+          "type" : "GENERAL",
+          "page_url" : "https://projects.ce.pdn.ac.lk/3yp/",
+          "api_url" : "http://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        }
+      }
+    },
+    "BatchList" : {
+      "type" : "object",
+      "required" : [ "code", "title", "description", "type", "thumb", "batches" ],
+      "properties" : {
+        "code" : {
+          "type" : "string",
+          "description" : "The shortcode of the project category",
+          "example" : "3yp"
+        },
+        "title" : {
+          "type" : "string",
+          "description" : "The title of the category",
+          "example" : "Cyber-Physical Systems Projects"
+        },
+        "description" : {
+          "type" : "string",
+          "description" : "The description about the project category",
+          "example" : "Cyber-Physical Systems designed and implemented by 3rd year Computer Engineering Students as part of coursework."
+        },
+        "type" : {
+          "type" : "string",
+          "enum" : [ "GENERAL", "COURSE" ],
+          "example" : "GENERAL",
+          "description" : "The type of the project category; GENERAL: projects not belongs to any course, COURSE: course based projects"
+        },
+        "thumb" : {
+          "type" : "string",
+          "format" : "uri",
+          "description" : "The URL of the thumbnail image of the project category",
+          "example" : "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg"
+        },
+        "batches" : {
+          "type" : "object",
+          "items" : {
+            "$ref" : "#/definitions/Batch"
+          },
+          "description" : "The list of batches",
+          "example" : {
+            "E15" : {
+              "api_url" : "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/",
+              "project_count" : 20
+            }
+          }
+        }
+      },
+      "example" : {
+        "code" : "4yp",
+        "title" : "Undergraduate Research Projects",
+        "description" : "Research projects carried out by final year Computer Engineering students as part of coursework",
+        "thumb" : "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "type" : "GENERAL",
+        "batches" : {
+          "E15" : {
+            "api_url" : "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/",
+            "project_count" : 20
+          }
+        }
+      }
+    },
+    "Batch" : {
+      "type" : "object",
+      "required" : [ "api_url", "project_count" ],
+      "properties" : {
+        "api_url" : {
+          "type" : "string",
+          "format" : "uri",
+          "description" : "The API endpoint of the projects filtered by the category and batch",
+          "example" : "https://api.ce.pdn.ac.lk/projects/v1/3yp/E15/"
+        },
+        "project_count" : {
+          "type" : "number",
+          "description" : "The project count",
+          "example" : 20
+        }
+      }
+    },
+    "Project" : {
+      "type" : "object",
+      "required" : [ "title", "description" ],
+      "properties" : {
+        "title" : {
+          "type" : "string",
+          "description" : "The title of the project"
+        },
+        "description" : {
+          "type" : "string",
+          "description" : "A short description about the project"
+        },
+        "category" : {
+          "type" : "object",
+          "properties" : {
+            "title" : {
+              "description" : "The category title",
+              "type" : "string"
+            },
+            "code" : {
+              "description" : "The category short code",
+              "type" : "string"
+            },
+            "api_url" : {
+              "description" : "The API endpoint of the category",
+              "type" : "string",
+              "format" : "uri"
+            }
+          }
+        },
+        "project_url" : {
+          "type" : "string",
+          "format" : "uri",
+          "description" : "The URL of the project page"
+        },
+        "repo_url" : {
+          "type" : "string",
+          "description" : "The URL of the GitHub repository",
+          "format" : "uri"
+        },
+        "page_url" : {
+          "type" : "string",
+          "description" : "The URL of the GitHub pages site",
+          "format" : "uri"
+        },
+        "api_url" : {
+          "type" : "string",
+          "description" : "The URL of the API endpoint of the project",
+          "format" : "uri"
+        }
+      },
+      "example" : {
+        "e10-4yp-CUDA_Fast_ICA" : {
+          "title" : "CUDA_Fast_ICA",
+          "description" : "CUDA implementation of Fast-ICA in C++",
+          "category" : {
+            "title" : "Undergraduate Research Projects",
+            "code" : "4yp",
+            "api_url" : "http://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url" : "https://projects.ce.pdn.ac.lk/4yp/e10/CUDA_Fast_ICA",
+          "repo_url" : "https://github.com/cepdnaclk/e10-4yp-CUDA_Fast_ICA",
+          "page_url" : "#",
+          "api_url" : "http://api.ce.pdn.ac.lk/projects/v1/4yp/E10/CUDA_Fast_ICA/"
+        }
+      }
+    },
+    "ProjectDetailed" : {
+      "type" : "object",
+      "properties" : {
+        "title" : {
+          "type" : "string",
+          "description" : "The title of the project"
+        },
+        "description" : {
+          "type" : "string",
+          "description" : "A short description about the project"
+        },
+        "category" : {
+          "type" : "object",
+          "properties" : {
+            "title" : {
+              "description" : "The category title",
+              "type" : "string"
+            },
+            "code" : {
+              "description" : "The category short code",
+              "type" : "string"
+            },
+            "api_url" : {
+              "description" : "The API endpoint of the category",
+              "type" : "string",
+              "format" : "uri"
+            }
+          }
+        },
+        "project_url" : {
+          "type" : "string",
+          "format" : "uri",
+          "description" : "The URL of the project page"
+        },
+        "repo_url" : {
+          "type" : "string",
+          "description" : "The URL of the GitHub repository",
+          "format" : "uri"
+        },
+        "page_url" : {
+          "type" : "string",
+          "description" : "The URL of the GitHub pages site",
+          "format" : "uri"
+        },
+        "thumbnail_url" : {
+          "type" : "string",
+          "description" : "The URL of the thumbnail of the project",
+          "format" : "uri"
+        },
+        "team" : {
+          "type" : "object",
+          "description" : "The list of the students involved in the project",
+          "items" : {
+            "$ref" : "#/definitions/TeamMember"
+          }
+        },
+        "supervisors" : {
+          "type" : "object",
+          "description" : "The project supervisors of the project",
+          "items" : {
+            "$ref" : "#/definitions/TeamMember"
+          }
+        },
+        "tags" : {
+          "type" : "array",
+          "items" : {
+            "type" : "string"
+          }
+        }
+      },
+      "example" : {
+        "title" : "A GUI for controlling and supervising multiple robots remotely",
+        "description" : "The idea is to create a GUI platform where a user can give commands which is to be followed by...",
+        "category" : {
+          "title" : "Cyber-Physical Systems Projects",
+          "code" : "3yp",
+          "api_url" : "http://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url" : "https://projects.ce.pdn.ac.lk/3yp/e15/A-GUI-for-controlling-and-supervising-multiple-robots-remotely",
+        "repo_url" : "https://github.com/cepdnaclk/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely",
+        "page_url" : "https://cepdnaclk.github.io/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely",
+        "thumbnail_url" : "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+        "team" : {
+          "E/15/140" : {
+            "name" : "Jaliyagoda A.J.N.M.",
+            "email" : "nuwanjaliyagoda@eng.pdn.ac.lk",
+            "website" : "https://nuwanjaliyagoda.com/",
+            "github" : "https://github.com/NuwanJ",
+            "linkedin" : "https://www.linkedin.com/in/nuwan-jaliyagoda/",
+            "researchgate" : "https://www.researchgate.net/profile/Nuwan-Jaliyagoda",
+            "api_url" : "http://api.ce.pdn.ac.lk/people/v1/students/E15/140",
+            "profile_image" : "https://people.ce.pdn.ac.lk/images/students/e15/e15140.jpg",
+            "profile_url" : "https://people.ce.pdn.ac.lk/students/e15/140/"
+          }
+        },
+        "supervisors" : {
+          "isurunawinne@eng.pdn.ac.lk" : {
+            "name" : "Dr. Isuru Nawinne",
+            "email" : "isurunawinne@eng.pdn.ac.lk",
+            "profile_url" : "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+            "profile_image" : "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+            "api_url" : "http://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+            "website" : "",
+            "linkedin" : "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+            "researchgate" : "https://www.researchgate.net/profile/Isuru-Nawinne",
+            "google_scholar" : "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+          }
+        },
+        "tags" : [ "Web", "Embedded Systems" ]
+      }
+    },
+    "TeamMember" : {
+      "type" : "object",
+      "properties" : {
+        "name" : {
+          "type" : "string",
+          "description" : "Name of the person"
+        },
+        "email" : {
+          "type" : "string",
+          "format" : "email",
+          "description" : "The email of the person"
+        },
+        "website" : {
+          "type" : "string",
+          "format" : "uri",
+          "description" : "Link of the student's personal website"
+        },
+        "linkedin" : {
+          "type" : "string",
+          "format" : "uri",
+          "description" : "LinkedIn profile URL"
+        },
+        "github" : {
+          "type" : "string",
+          "format" : "uri",
+          "description" : "GitHub profile URL"
+        },
+        "api_url" : {
+          "type" : "string",
+          "format" : "uri",
+          "description" : "The API endpoint URL of the person"
+        },
+        "profile_image" : {
+          "type" : "string",
+          "format" : "uri",
+          "description" : "The URL for the profile image"
+        },
+        "profile_url" : {
+          "type" : "string",
+          "format" : "uri",
+          "description" : "The profile page of the person"
+        }
+      }
+    },
+    "StudentProjects" : {
+      "type" : "object",
+      "properties" : {
+        "title" : {
+          "type" : "string",
+          "description" : "The title of the project"
+        },
+        "category" : {
+          "type" : "object",
+          "properties" : {
+            "title" : {
+              "description" : "The category title",
+              "type" : "string"
+            },
+            "code" : {
+              "description" : "The category short code",
+              "type" : "string"
+            },
+            "api_url" : {
+              "description" : "The API endpoint of the category",
+              "type" : "string",
+              "format" : "uri"
+            }
+          }
+        },
+        "project_url" : {
+          "type" : "string",
+          "format" : "uri",
+          "description" : "The URL of the project page"
+        },
+        "repo_url" : {
+          "type" : "string",
+          "description" : "The URL of the GitHub repository",
+          "format" : "uri"
+        },
+        "page_url" : {
+          "type" : "string",
+          "description" : "The URL of the GitHub pages site",
+          "format" : "uri"
+        },
+        "thumbnail_url" : {
+          "type" : "string",
+          "description" : "The URL of the thumbnail image for the project",
+          "format" : "uri"
+        },
+        "api_url" : {
+          "type" : "string",
+          "description" : "The URL of the API endpoint of the project",
+          "format" : "uri"
+        }
+      },
+      "example" : {
+        "E/14/009" : [ {
+          "title" : "Networked and Automated Weather Monitoring and Alerting System",
+          "category" : {
+            "code" : "3yp",
+            "title" : "Cyber-Physical Systems Projects",
+            "api_url" : "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+          },
+          "project_url" : "https://projects.ce.pdn.ac.lk/3yp/e14/Networked-and-Automated-Weather-Monitoring-and-Alerting-System",
+          "repo_url" : "https://github.com/cepdnaclk/e14-3yp-Networked-and-Automated-Weather-Monitoring-and-Alerting-System",
+          "page_url" : "https://cepdnaclk.github.io/e14-3yp-Networked-and-Automated-Weather-Monitoring-and-Alerting-System",
+          "thumbnail_url" : "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+          "api_url" : "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Networked-and-Automated-Weather-Monitoring-and-Alerting-System/"
+        } ]
+      }
+    },
+    "TagProjects" : {
+      "type" : "object",
+      "properties" : {
+        "title" : {
+          "type" : "string",
+          "description" : "The title of the project"
+        },
+        "category" : {
+          "type" : "object",
+          "properties" : {
+            "title" : {
+              "description" : "The category title",
+              "type" : "string"
+            },
+            "code" : {
+              "description" : "The category short code",
+              "type" : "string"
+            },
+            "api_url" : {
+              "description" : "The API endpoint of the category",
+              "type" : "string",
+              "format" : "uri"
+            }
+          }
+        },
+        "project_url" : {
+          "type" : "string",
+          "format" : "uri",
+          "description" : "The URL of the project page"
+        },
+        "repo_url" : {
+          "type" : "string",
+          "description" : "The URL of the GitHub repository",
+          "format" : "uri"
+        },
+        "page_url" : {
+          "type" : "string",
+          "description" : "The URL of the GitHub pages site",
+          "format" : "uri"
+        },
+        "thumbnail_url" : {
+          "type" : "string",
+          "description" : "The URL of the thumbnail image for the project",
+          "format" : "uri"
+        },
+        "api_url" : {
+          "type" : "string",
+          "description" : "The URL of the API endpoint of the project",
+          "format" : "uri"
+        }
+      },
+      "example" : {
+        "Computer Networking" : [ {
+          "title" : "Networked and Automated Weather Monitoring and Alerting System",
+          "category" : {
+            "code" : "3yp",
+            "title" : "Cyber-Physical Systems Projects",
+            "api_url" : "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+          },
+          "project_url" : "https://projects.ce.pdn.ac.lk/3yp/e14/Networked-and-Automated-Weather-Monitoring-and-Alerting-System",
+          "repo_url" : "https://github.com/cepdnaclk/e14-3yp-Networked-and-Automated-Weather-Monitoring-and-Alerting-System",
+          "page_url" : "https://cepdnaclk.github.io/e14-3yp-Networked-and-Automated-Weather-Monitoring-and-Alerting-System",
+          "thumbnail_url" : "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+          "api_url" : "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Networked-and-Automated-Weather-Monitoring-and-Alerting-System/"
+        } ]
+      }
+    },
+    "AllProjects" : {
+      "type" : "object",
+      "example" : {
+        "Cyber-Physical Systems Projects" : {
+          "api_url" : "http://api.ce.pdn.ac.lk/projects/v1/3yp/",
+          "batch_count" : 4,
+          "batches" : {
+            "E15" : {
+              "api_url" : "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/",
+              "project_count" : 20,
+              "projects" : {
+                "A-GUI-for-controlling-and-supervising-multiple-robots-remotely" : {
+                  "title" : "A GUI for controlling and supervising multiple robots remotely",
+                  "description" : "The idea is to create a GUI platform where a user can give commands which is to be followed by...",
+                  "batch" : "E15",
+                  "category" : "Cyber-Physical Systems Projects",
+                  "project_url" : "https://projects.ce.pdn.ac.lk/3yp/e15/A-GUI-for-controlling-and-supervising-multiple-robots-remotely",
+                  "cover_url" : "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
+                  "thumbnail_url" : "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+                  "repo_url" : "https://github.com/cepdnaclk/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely",
+                  "page_url" : "https://cepdnaclk.github.io/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely",
+                  "data_url" : "https://cepdnaclk.github.io/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely/data/index.json",
+                  "api_url" : "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/A-GUI-for-controlling-and-supervising-multiple-robots-remotely/"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "host":"api.ce.pdn.ac.lk/",
+  "schemes" : [ "https" ],
+  "basePath" : "projects/v1/"
+}
