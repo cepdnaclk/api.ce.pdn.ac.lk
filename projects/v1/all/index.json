@@ -2937,7 +2937,7 @@
         "batches": {
             "E17": {
                 "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/",
-                "project_count": 6,
+                "project_count": 8,
                 "projects": {
                     "Analysis-Tool-for-Industrial-Images": {
                         "title": "Analysis Tool for Industrial Images",
@@ -2951,6 +2951,31 @@
                         "page_url": "https://cepdnaclk.github.io/e17-co328-Analysis-Tool-for-Industrial-Images",
                         "data_url": "https://cepdnaclk.github.io/e17-co328-Analysis-Tool-for-Industrial-Images/data/index.json",
                         "github": {
+                            "created_at": "2022-02-23",
+                            "updated_at": "2022-02-25",
+                            "language": "JavaScript",
+                            "forks_count": "2",
+                            "stars_count": "2",
+                            "watchers_count": "2",
+                            "topics": [],
+                            "has_projects": "true",
+                            "has_wiki": "true",
+                            "has_pages": "true"
+                        },
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Analysis-Tool-for-Industrial-Images/"
+                    },
+                    "Document-Tag-Generator": {
+                        "title": "Document Tag Generator",
+                        "description": "Our project is to generate tags for the projects on the department website.",
+                        "batch": "E17",
+                        "category": "Software Engineering Projects (CO328)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Document-Tag-Generator/",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-co328-Document-Tag-Generator",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "github": {
                             "created_at": "",
                             "updated_at": "",
                             "language": "",
@@ -2962,7 +2987,7 @@
                             "has_wiki": "",
                             "has_pages": ""
                         },
-                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Analysis-Tool-for-Industrial-Images/"
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Document-Tag-Generator/"
                     },
                     "Greenhouse-Monitoring-System": {
                         "title": "Greenhouse Monitoring System",
@@ -2976,16 +3001,16 @@
                         "page_url": "https://cepdnaclk.github.io/e17-co328-Greenhouse-Monitoring-System",
                         "data_url": "https://cepdnaclk.github.io/e17-co328-Greenhouse-Monitoring-System/data/index.json",
                         "github": {
-                            "created_at": "",
-                            "updated_at": "",
+                            "created_at": "2022-02-22",
+                            "updated_at": "2022-02-22",
                             "language": "",
-                            "forks_count": "",
-                            "stars_count": "",
-                            "watchers_count": "",
+                            "forks_count": "2",
+                            "stars_count": "0",
+                            "watchers_count": "0",
                             "topics": [],
-                            "has_projects": "",
-                            "has_wiki": "",
-                            "has_pages": ""
+                            "has_projects": "true",
+                            "has_wiki": "true",
+                            "has_pages": "true"
                         },
                         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Greenhouse-Monitoring-System/"
                     },
@@ -3001,16 +3026,21 @@
                         "page_url": "https://cepdnaclk.github.io/e17-co328-Host-Pathogen-Interaction",
                         "data_url": "https://cepdnaclk.github.io/e17-co328-Host-Pathogen-Interaction/data/index.json",
                         "github": {
-                            "created_at": "",
-                            "updated_at": "",
-                            "language": "",
-                            "forks_count": "",
-                            "stars_count": "",
-                            "watchers_count": "",
-                            "topics": [],
-                            "has_projects": "",
-                            "has_wiki": "",
-                            "has_pages": ""
+                            "created_at": "2022-02-23",
+                            "updated_at": "2022-02-25",
+                            "language": "CSS",
+                            "forks_count": "1",
+                            "stars_count": "0",
+                            "watchers_count": "0",
+                            "topics": [
+                                "gui-application",
+                                "machine-learning",
+                                "microbiome-analysis",
+                                "software-development"
+                            ],
+                            "has_projects": "true",
+                            "has_wiki": "true",
+                            "has_pages": "true"
                         },
                         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Host-Pathogen-Interaction/"
                     },
@@ -3026,18 +3056,43 @@
                         "page_url": "#",
                         "data_url": "#",
                         "github": {
-                            "created_at": "",
-                            "updated_at": "",
+                            "created_at": "2022-02-25",
+                            "updated_at": "2022-02-25",
                             "language": "",
-                            "forks_count": "",
-                            "stars_count": "",
-                            "watchers_count": "",
+                            "forks_count": "1",
+                            "stars_count": "0",
+                            "watchers_count": "0",
                             "topics": [],
-                            "has_projects": "",
-                            "has_wiki": "",
-                            "has_pages": ""
+                            "has_projects": "true",
+                            "has_wiki": "true",
+                            "has_pages": "false"
                         },
                         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Oral-Cavity-Region-Detection/"
+                    },
+                    "Prediction-of-risks-associated-with-mass-corona-vaccination": {
+                        "title": "Prediction of risks associated with mass corona vaccination",
+                        "description": "There is a trend among people not to get Covid 19 vaccinations. Because of the differing viewpoints of the various parties involved, society is skeptical of obtaining it. However, there is no research being done into the vaccination's side effects or the causes of illnesses and deaths. This project will look into the specific criteria or risks that come with vaccinations. So, this will help people to get an idea to check whether to take the vaccines or not. ",
+                        "batch": "E17",
+                        "category": "Software Engineering Projects (CO328)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Prediction-of-risks-associated-with-mass-corona-vaccination/",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-co328-Prediction-of-risks-associated-with-mass-corona-vaccination",
+                        "page_url": "https://cepdnaclk.github.io/e17-co328-Prediction-of-risks-associated-with-mass-corona-vaccination",
+                        "data_url": "https://cepdnaclk.github.io/e17-co328-Prediction-of-risks-associated-with-mass-corona-vaccination/data/index.json",
+                        "github": {
+                            "created_at": "2022-02-26",
+                            "updated_at": "2022-02-26",
+                            "language": "",
+                            "forks_count": "0",
+                            "stars_count": "0",
+                            "watchers_count": "0",
+                            "topics": [],
+                            "has_projects": "true",
+                            "has_wiki": "true",
+                            "has_pages": "true"
+                        },
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Prediction-of-risks-associated-with-mass-corona-vaccination/"
                     },
                     "Skim-Sequencing-Analysis": {
                         "title": "Skim Sequencing Analysis",
@@ -3051,16 +3106,16 @@
                         "page_url": "#",
                         "data_url": "#",
                         "github": {
-                            "created_at": "",
-                            "updated_at": "",
+                            "created_at": "2022-02-23",
+                            "updated_at": "2022-02-25",
                             "language": "",
-                            "forks_count": "",
-                            "stars_count": "",
-                            "watchers_count": "",
+                            "forks_count": "3",
+                            "stars_count": "3",
+                            "watchers_count": "3",
                             "topics": [],
-                            "has_projects": "",
-                            "has_wiki": "",
-                            "has_pages": ""
+                            "has_projects": "true",
+                            "has_wiki": "true",
+                            "has_pages": "false"
                         },
                         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Skim-Sequencing-Analysis/"
                     },
@@ -3076,16 +3131,16 @@
                         "page_url": "#",
                         "data_url": "#",
                         "github": {
-                            "created_at": "",
-                            "updated_at": "",
+                            "created_at": "2022-02-24",
+                            "updated_at": "2022-02-25",
                             "language": "",
-                            "forks_count": "",
-                            "stars_count": "",
-                            "watchers_count": "",
+                            "forks_count": "0",
+                            "stars_count": "0",
+                            "watchers_count": "0",
                             "topics": [],
-                            "has_projects": "",
-                            "has_wiki": "",
-                            "has_pages": ""
+                            "has_projects": "true",
+                            "has_wiki": "true",
+                            "has_pages": "false"
                         },
                         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Sobriety-Detection-Using-Mobile-Phone-Gyroscope-Data/"
                     }
