@@ -1,0 +1,76 @@
+{
+    "title": "Host Pathogen Interaction",
+    "description": "Building the software for analyzing the microbiome data using machine learning technics. the application provides the GUI for the user they can easily analyze the data without any other programming knowledge developed by  @piriyaraj @varnaraj @thanujan @rilwan292",
+    "category": {
+        "title": "Software Engineering Projects (CO328)",
+        "code": "co328",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Host-Pathogen-Interaction/",
+    "repo_url": "https://github.com/cepdnaclk/e17-co328-Host-Pathogen-Interaction",
+    "page_url": "https://cepdnaclk.github.io/e17-co328-Host-Pathogen-Interaction",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+    "team": {
+        "E/17/352": {
+            "name": "Thanujan T",
+            "email": "e17352@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/352",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17352.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/352/"
+        },
+        "E/17/292": {
+            "name": "Rilwan M",
+            "email": "e17292@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/292",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17292.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/292/"
+        },
+        "E/17/358": {
+            "name": "Varnaraj N",
+            "email": "e17358@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/varanaraj",
+            "linkedin": "https://www.linkedin.com/in/varnaa",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/358",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17358.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/358/"
+        },
+        "E/17/256": {
+            "name": "Piriyaraj S",
+            "email": "e17256@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/256",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17256.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/256/"
+        }
+    },
+    "supervisors": {
+        "damayanthiherath@eng.pdn.ac.lk": {
+            "name": "Dr. Damayanthi Herath",
+            "email": "damayanthiherath@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/damayanthiherath",
+            "website": "https://damayanthiherath.wordpress.com/",
+            "linkedin": "https://www.linkedin.com/in/damayanthi-herath/",
+            "researchgate": "https://www.researchgate.net/profile/Damayanthi-Herath",
+            "google_scholar": "https://scholar.google.com/citations?user=G2jUV5IAAAAJ&hl=en"
+        }
+    },
+    "tags": [
+        "Web Application",
+        "Machine learning"
+    ]
+}
