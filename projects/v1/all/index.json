@@ -2937,7 +2937,7 @@
         "batches": {
             "E17": {
                 "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/",
-                "project_count": 8,
+                "project_count": 9,
                 "projects": {
                     "Analysis-Tool-for-Industrial-Images": {
                         "title": "Analysis Tool for Industrial Images",
@@ -2976,6 +2976,31 @@
                         "page_url": "#",
                         "data_url": "#",
                         "github": {
+                            "created_at": "2022-02-26",
+                            "updated_at": "2022-02-26",
+                            "language": "",
+                            "forks_count": "1",
+                            "stars_count": "0",
+                            "watchers_count": "0",
+                            "topics": [],
+                            "has_projects": "true",
+                            "has_wiki": "true",
+                            "has_pages": "false"
+                        },
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Document-Tag-Generator/"
+                    },
+                    "Flood-Forecasting-System": {
+                        "title": "Flood Forecasting System",
+                        "description": "Floods are the most destructive form of natural hazards in both local and global context. This is true in terms of both loss of life and property damage. Early flood forecasting can be used to identify potential areas of flooding in order to develop mitigatory planning and evacuation programs to remove people from such areas during flooding and also to implement suitable preventive measures to avoid damage to properties. In this project, our main objective is to build a flood forecasting system for Mi Oya river basin(Sri Lanka). Mi Oya Basin is heavily affected by seasonal flooding and droughts. As per the available data, floods in the Mi Oya basin are unleashed due to river overflow and reservoir spilling. Out of the several reservoirs located in the basin, Tabbowa and Inginimitiya are crucial in worsening the flood impacts as these two reservoirs are frequently spilling under adverse weather conditions. As such, the prevalence of a real-time flood forecasting model with the incorporation of the reservoir operations for the entire basin is essential to alleviate the flood induced impacts while preserving the optimum volume of water in the major reservoirs in the basin.",
+                        "batch": "E17",
+                        "category": "Software Engineering Projects (CO328)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Flood-Forecasting-System/",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-co328-Flood-Forecasting-System",
+                        "page_url": "https://cepdnaclk.github.io/e17-co328-Flood-Forecasting-System",
+                        "data_url": "https://cepdnaclk.github.io/e17-co328-Flood-Forecasting-System/data/index.json",
+                        "github": {
                             "created_at": "",
                             "updated_at": "",
                             "language": "",
@@ -2987,7 +3012,7 @@
                             "has_wiki": "",
                             "has_pages": ""
                         },
-                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Document-Tag-Generator/"
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Flood-Forecasting-System/"
                     },
                     "Greenhouse-Monitoring-System": {
                         "title": "Greenhouse Monitoring System",
@@ -3084,7 +3109,7 @@
                             "created_at": "2022-02-26",
                             "updated_at": "2022-02-26",
                             "language": "",
-                            "forks_count": "0",
+                            "forks_count": "1",
                             "stars_count": "0",
                             "watchers_count": "0",
                             "topics": [],
