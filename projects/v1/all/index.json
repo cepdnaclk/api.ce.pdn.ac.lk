@@ -2937,7 +2937,7 @@
         "batches": {
             "E17": {
                 "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/",
-                "project_count": 9,
+                "project_count": 10,
                 "projects": {
                     "Analysis-Tool-for-Industrial-Images": {
                         "title": "Analysis Tool for Industrial Images",
@@ -3168,6 +3168,31 @@
                             "has_pages": "false"
                         },
                         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Sobriety-Detection-Using-Mobile-Phone-Gyroscope-Data/"
+                    },
+                    "Visualization-of-Teacher-Student-Activities": {
+                        "title": "Visualization of Teacher Student Activities",
+                        "description": "This a graphical tool for represent teacher-student activities based on Moodle log data",
+                        "batch": "E17",
+                        "category": "Software Engineering Projects (CO328)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Visualization-of-Teacher-Student-Activities/",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-co328-Visualization-of-Teacher-Student-Activities",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "github": {
+                            "created_at": "",
+                            "updated_at": "",
+                            "language": "",
+                            "forks_count": "",
+                            "stars_count": "",
+                            "watchers_count": "",
+                            "topics": [],
+                            "has_projects": "",
+                            "has_wiki": "",
+                            "has_pages": ""
+                        },
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Visualization-of-Teacher-Student-Activities/"
                     }
                 }
             },
