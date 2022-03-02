@@ -1,0 +1,65 @@
+{
+    "title": "NGS Data AnalysingToolkit",
+    "description": "Detecting Biomarker for deaseases using the Next Generation Sequencing Data Set",
+    "category": {
+        "title": "Software Engineering Projects (CO328)",
+        "code": "co328",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/NGS-Data-AnalysingToolkit/",
+    "repo_url": "https://github.com/cepdnaclk/e17-co328-NGS-Data-AnalysingToolkit",
+    "page_url": "https://cepdnaclk.github.io/e17-co328-NGS-Data-AnalysingToolkit",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+    "team": {
+        "E/17/015": {
+            "name": "Arshad MRM",
+            "email": "e17015@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/015",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17015.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/015/"
+        },
+        "E/17/159": {
+            "name": "Kavinaya Y",
+            "email": "e17159@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/159",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17159.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/159/"
+        },
+        "E/YY/XXX": {
+            "name": "Nishankar S",
+            "email": "e17230@eng.pdn.ac.lk",
+            "website": "#",
+            "github": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/EYY/XXX",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17159.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/159/"
+        }
+    },
+    "supervisors": {
+        "email@eng.pdn.ac.lk": {
+            "name": "Supervisor 2",
+            "email": "email@eng.pdn.ac.lk",
+            "profile_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "api_url": "#",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Web",
+        "Embedded Systems"
+    ]
+}
