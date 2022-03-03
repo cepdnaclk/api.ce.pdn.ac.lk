@@ -2937,7 +2937,7 @@
         "batches": {
             "E17": {
                 "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/",
-                "project_count": 13,
+                "project_count": 14,
                 "projects": {
                     "Analysis-Tool-for-Industrial-Images": {
                         "title": "Analysis Tool for Industrial Images",
@@ -2963,6 +2963,31 @@
                             "has_pages": "true"
                         },
                         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Analysis-Tool-for-Industrial-Images/"
+                    },
+                    "ContactTracingApp": {
+                        "title": "ContactTracingApp",
+                        "description": "",
+                        "batch": "E17",
+                        "category": "Software Engineering Projects (CO328)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/ContactTracingApp/",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-co328-ContactTracingApp",
+                        "page_url": "https://cepdnaclk.github.io/e17-co328-ContactTracingApp",
+                        "data_url": "https://cepdnaclk.github.io/e17-co328-ContactTracingApp/data/index.json",
+                        "github": {
+                            "created_at": "",
+                            "updated_at": "",
+                            "language": "",
+                            "forks_count": "",
+                            "stars_count": "",
+                            "watchers_count": "",
+                            "topics": [],
+                            "has_projects": "",
+                            "has_wiki": "",
+                            "has_pages": ""
+                        },
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/ContactTracingApp/"
                     },
                     "Document-Tag-Generator": {
                         "title": "Document Tag Generator",
@@ -3121,15 +3146,15 @@
                     },
                     "Oral-Cavity-Region-Detection": {
                         "title": "Oral Cavity Region Detection",
-                        "description": "",
+                        "description": "This project contains a web-based application that can be used to upload images of the oral cavity and identify the known regions which are normal. ",
                         "batch": "E17",
                         "category": "Software Engineering Projects (CO328)",
                         "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Oral-Cavity-Region-Detection/",
                         "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/cover_page.jpg",
                         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
                         "repo_url": "https://github.com/cepdnaclk/e17-co328-Oral-Cavity-Region-Detection",
-                        "page_url": "#",
-                        "data_url": "#",
+                        "page_url": "https://cepdnaclk.github.io/e17-co328-Oral-Cavity-Region-Detection",
+                        "data_url": "https://cepdnaclk.github.io/e17-co328-Oral-Cavity-Region-Detection/data/index.json",
                         "github": {
                             "created_at": "2022-02-25",
                             "updated_at": "2022-02-25",

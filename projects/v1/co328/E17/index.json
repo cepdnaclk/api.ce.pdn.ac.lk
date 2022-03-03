@@ -12,6 +12,19 @@
         "page_url": "https://cepdnaclk.github.io/e17-co328-Analysis-Tool-for-Industrial-Images",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Analysis-Tool-for-Industrial-Images/"
     },
+    "e17-co328-ContactTracingApp": {
+        "title": "ContactTracingApp",
+        "description": "",
+        "category": {
+            "title": "Software Engineering Projects (CO328)",
+            "code": "co328",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/ContactTracingApp/",
+        "repo_url": "https://github.com/cepdnaclk/e17-co328-ContactTracingApp",
+        "page_url": "https://cepdnaclk.github.io/e17-co328-ContactTracingApp",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/ContactTracingApp/"
+    },
     "e17-co328-Document-Tag-Generator": {
         "title": "Document Tag Generator",
         "description": "Our project is to generate tags for the projects on the department website.",
@@ -92,7 +105,7 @@
     },
     "e17-co328-Oral-Cavity-Region-Detection": {
         "title": "Oral Cavity Region Detection",
-        "description": "",
+        "description": "This project contains a web-based application that can be used to upload images of the oral cavity and identify the known regions which are normal. ",
         "category": {
             "title": "Software Engineering Projects (CO328)",
             "code": "co328",
@@ -100,7 +113,7 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Oral-Cavity-Region-Detection/",
         "repo_url": "https://github.com/cepdnaclk/e17-co328-Oral-Cavity-Region-Detection",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e17-co328-Oral-Cavity-Region-Detection",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Oral-Cavity-Region-Detection/"
     },
     "e17-co328-Prediction-of-risks-associated-with-mass-corona-vaccination": {
