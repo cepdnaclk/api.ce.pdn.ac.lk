@@ -1,0 +1,65 @@
+{
+    "title": "History of Music",
+    "description": "The project 'History of Music' is a ML based project. In this project we expect to build a model to express how a piece of music evolved from various genres.",
+    "category": {
+        "title": "Software Engineering Projects (CO328)",
+        "code": "co328",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/History-of-Music/",
+    "repo_url": "https://github.com/cepdnaclk/e17-co328-History-of-Music",
+    "page_url": "https://cepdnaclk.github.io/e17-co328-History-of-Music",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+    "team": {
+        "E/17/012": {
+            "name": "Amarasinghe R.A.A.U.",
+            "email": "e17012@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/012",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17012.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/012/"
+        },
+        "E/YY/XXX": {
+            "name": "Team Member Name 3",
+            "email": "email@eng.pdn.ac.lk",
+            "website": "#",
+            "github": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/EYY/XXX",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17012.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/012/"
+        }
+    },
+    "supervisors": {
+        "dhammikae@eng.pdn.ac.lk": {
+            "name": "Dr. Dhammika Elkaduwa",
+            "email": "dhammikae@eng.pdn.ac.lk",
+            "profile_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "api_url": "#",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        },
+        "sampath@eng.pdn.ac.lk": {
+            "name": "Mr. Sampath Deegalla",
+            "email": "sampath@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/sampath-deegalla/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/sampath-deegalla.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/sampath",
+            "website": "https://www.sites.google.com/site/dsdeegalla/",
+            "linkedin": "https://www.linkedin.com/in/dsdeegalla",
+            "researchgate": "https://www.researchgate.net/profile/Sampath-Deegalla-2",
+            "google_scholar": "https://scholar.google.com/citations?user=QDoeGtYAAAAJ&hl=en"
+        }
+    },
+    "tags": [
+        "Music",
+        "Machine Learning"
+    ]
+}
