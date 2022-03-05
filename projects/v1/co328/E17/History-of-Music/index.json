@@ -35,16 +35,16 @@
         }
     },
     "supervisors": {
-        "dhammikae@eng.pdn.ac.lk": {
-            "name": "Dr. Dhammika Elkaduwa",
-            "email": "dhammikae@eng.pdn.ac.lk",
-            "profile_url": "#",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
-            "api_url": "#",
-            "website": "#",
-            "linkedin": "#",
-            "researchgate": "#",
-            "google_scholar": "#"
+        "dhammika@eng.pdn.ac.lk": {
+            "name": "Dr. Dhammika Elkaduwe",
+            "email": "dhammika@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/dhammika-elkaduwe/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/dhammika-elkaduwe.png",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/dhammika",
+            "website": "",
+            "linkedin": "https://lk.linkedin.com/in/dhammika-elkaduwe-74030613",
+            "researchgate": "https://www.researchgate.net/profile/Dhammika-Elkaduwe",
+            "google_scholar": "https://scholar.google.com/citations?user=zLUPMFkAAAAJ&hl=en"
         },
         "sampath@eng.pdn.ac.lk": {
             "name": "Mr. Sampath Deegalla",
@@ -60,6 +60,7 @@
     },
     "tags": [
         "Music",
-        "Machine Learning"
+        "Machine Learning",
+        "Deep learning"
     ]
 }

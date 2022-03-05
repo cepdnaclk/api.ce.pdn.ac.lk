@@ -3246,7 +3246,7 @@
                     },
                     "Sobriety-Detection-Using-Mobile-Phone-Gyroscope-Data": {
                         "title": "Sobriety Detection Using Mobile Phone Gyroscope Data",
-                        "description": "An intelligent smartphone application that will help minimize risks of drunk-driving accidents by tracking gyroscope data to identify sobriety levels in real-time and continuously authenticating users.",
+                        "description": "An intelligent API which is capable of passively tracking gyroscopic data to classify sobriety level in real-time that will help minimize risks of drunk-riding accidents for e-scooter sharing systems.",
                         "batch": "E17",
                         "category": "Software Engineering Projects (CO328)",
                         "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Sobriety-Detection-Using-Mobile-Phone-Gyroscope-Data/",
@@ -3568,7 +3568,7 @@
     },
     "Image Processing Projects (CO543)": {
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/",
-        "batch_count": 1,
+        "batch_count": 2,
         "batches": {
             "E15": {
                 "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E15/",
@@ -3681,6 +3681,62 @@
                             "has_pages": "false"
                         },
                         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E15/Swarm-Robot-Monitoring-System-group-C/"
+                    }
+                }
+            },
+            "E17": {
+                "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/",
+                "project_count": 2,
+                "projects": {
+                    "Mini-Project-Group-H": {
+                        "title": "Mini Project Group H",
+                        "description": "A License / Number Plate Recognition (NPR) system using OpenCV and Python.",
+                        "batch": "E17",
+                        "category": "Image Processing Projects (CO543)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co543/e17/Mini-Project-Group-H/",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-co543-Mini-Project-Group-H",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "github": {
+                            "created_at": "",
+                            "updated_at": "",
+                            "language": "",
+                            "forks_count": "",
+                            "stars_count": "",
+                            "watchers_count": "",
+                            "topics": [],
+                            "has_projects": "",
+                            "has_wiki": "",
+                            "has_pages": ""
+                        },
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/Mini-Project-Group-H/"
+                    },
+                    "SL-Number-Plate-Detection-Group-A": {
+                        "title": "SL Number Plate Detection Group A",
+                        "description": "An automated number plate recognition solution for Sri Lankan number plate images.",
+                        "batch": "E17",
+                        "category": "Image Processing Projects (CO543)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co543/e17/SL-Number-Plate-Detection-Group-A/",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-co543-SL-Number-Plate-Detection-Group-A",
+                        "page_url": "https://cepdnaclk.github.io/e17-co543-SL-Number-Plate-Detection-Group-A",
+                        "data_url": "https://cepdnaclk.github.io/e17-co543-SL-Number-Plate-Detection-Group-A/data/index.json",
+                        "github": {
+                            "created_at": "",
+                            "updated_at": "",
+                            "language": "",
+                            "forks_count": "",
+                            "stars_count": "",
+                            "watchers_count": "",
+                            "topics": [],
+                            "has_projects": "",
+                            "has_wiki": "",
+                            "has_pages": ""
+                        },
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/SL-Number-Plate-Detection-Group-A/"
                     }
                 }
             }
