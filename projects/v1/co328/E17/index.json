@@ -129,6 +129,19 @@
         "page_url": "https://cepdnaclk.github.io/e17-co328-Oral-Cavity-Region-Detection",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Oral-Cavity-Region-Detection/"
     },
+    "e17-co328-Prediction-of-heart-disease-using-ECG": {
+        "title": "Prediction of heart disease using ECG",
+        "description": "A software for predicting heart diseases mainly including myocardial infarctions using ECG data",
+        "category": {
+            "title": "Software Engineering Projects (CO328)",
+            "code": "co328",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Prediction-of-heart-disease-using-ECG/",
+        "repo_url": "https://github.com/cepdnaclk/e17-co328-Prediction-of-heart-disease-using-ECG",
+        "page_url": "#",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Prediction-of-heart-disease-using-ECG/"
+    },
     "e17-co328-Prediction-of-risks-associated-with-mass-corona-vaccination": {
         "title": "Prediction of risks associated with mass corona vaccination",
         "description": "There is a trend among people not to get Covid 19 vaccinations. Because of the differing viewpoints of the various parties involved, society is skeptical of obtaining it. However, there is no research being done into the vaccination's side effects or the causes of illnesses and deaths. This project will look into the specific criteria or risks that come with vaccinations. So, this will help people to get an idea to check whether to take the vaccines or not. ",
@@ -152,7 +165,7 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Skim-Sequencing-Analysis/",
         "repo_url": "https://github.com/cepdnaclk/e17-co328-Skim-Sequencing-Analysis",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e17-co328-Skim-Sequencing-Analysis",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Skim-Sequencing-Analysis/"
     },
     "e17-co328-Sobriety-Detection-Using-Mobile-Phone-Gyroscope-Data": {
@@ -193,5 +206,18 @@
         "repo_url": "https://github.com/cepdnaclk/e17-co328-apparel-industry-performance-analyser",
         "page_url": "#",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/apparel-industry-performance-analyser/"
+    },
+    "e17-co328-road-accident-analyzer": {
+        "title": "road accident analyzer",
+        "description": "Road Accident Analysis for Community Awareness!",
+        "category": {
+            "title": "Software Engineering Projects (CO328)",
+            "code": "co328",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/road-accident-analyzer/",
+        "repo_url": "https://github.com/cepdnaclk/e17-co328-road-accident-analyzer",
+        "page_url": "#",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/road-accident-analyzer/"
     }
 }

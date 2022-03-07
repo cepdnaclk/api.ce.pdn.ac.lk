@@ -2937,7 +2937,7 @@
         "batches": {
             "E17": {
                 "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/",
-                "project_count": 15,
+                "project_count": 17,
                 "projects": {
                     "Analysis-Tool-for-Industrial-Images": {
                         "title": "Analysis Tool for Industrial Images",
@@ -3195,6 +3195,31 @@
                         },
                         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Oral-Cavity-Region-Detection/"
                     },
+                    "Prediction-of-heart-disease-using-ECG": {
+                        "title": "Prediction of heart disease using ECG",
+                        "description": "A software for predicting heart diseases mainly including myocardial infarctions using ECG data",
+                        "batch": "E17",
+                        "category": "Software Engineering Projects (CO328)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Prediction-of-heart-disease-using-ECG/",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-co328-Prediction-of-heart-disease-using-ECG",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "github": {
+                            "created_at": "",
+                            "updated_at": "",
+                            "language": "",
+                            "forks_count": "",
+                            "stars_count": "",
+                            "watchers_count": "",
+                            "topics": [],
+                            "has_projects": "",
+                            "has_wiki": "",
+                            "has_pages": ""
+                        },
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Prediction-of-heart-disease-using-ECG/"
+                    },
                     "Prediction-of-risks-associated-with-mass-corona-vaccination": {
                         "title": "Prediction of risks associated with mass corona vaccination",
                         "description": "There is a trend among people not to get Covid 19 vaccinations. Because of the differing viewpoints of the various parties involved, society is skeptical of obtaining it. However, there is no research being done into the vaccination's side effects or the causes of illnesses and deaths. This project will look into the specific criteria or risks that come with vaccinations. So, this will help people to get an idea to check whether to take the vaccines or not. ",
@@ -3229,8 +3254,8 @@
                         "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/cover_page.jpg",
                         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
                         "repo_url": "https://github.com/cepdnaclk/e17-co328-Skim-Sequencing-Analysis",
-                        "page_url": "#",
-                        "data_url": "#",
+                        "page_url": "https://cepdnaclk.github.io/e17-co328-Skim-Sequencing-Analysis",
+                        "data_url": "https://cepdnaclk.github.io/e17-co328-Skim-Sequencing-Analysis/data/index.json",
                         "github": {
                             "created_at": "2022-02-23",
                             "updated_at": "2022-02-27",
@@ -3326,6 +3351,31 @@
                             "has_pages": "false"
                         },
                         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/apparel-industry-performance-analyser/"
+                    },
+                    "road-accident-analyzer": {
+                        "title": "road accident analyzer",
+                        "description": "Road Accident Analysis for Community Awareness!",
+                        "batch": "E17",
+                        "category": "Software Engineering Projects (CO328)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/road-accident-analyzer/",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-co328-road-accident-analyzer",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "github": {
+                            "created_at": "",
+                            "updated_at": "",
+                            "language": "",
+                            "forks_count": "",
+                            "stars_count": "",
+                            "watchers_count": "",
+                            "topics": [],
+                            "has_projects": "",
+                            "has_wiki": "",
+                            "has_pages": ""
+                        },
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/road-accident-analyzer/"
                     }
                 }
             },
