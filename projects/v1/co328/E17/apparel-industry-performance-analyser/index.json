@@ -10,10 +10,56 @@
     "repo_url": "https://github.com/cepdnaclk/e17-co328-apparel-industry-performance-analyser",
     "page_url": "https://cepdnaclk.github.io/e17-co328-apparel-industry-performance-analyser",
     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+    "team": {
+        "E/17/134": {
+            "name": "Kavindu Jayasooriya",
+            "email": "e17134@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/134",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17134.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/134/"
+        },
+        "E/17/207": {
+            "name": "Pasindu Marasinghe",
+            "email": "e17207@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/207",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17207.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/207/"
+        },
+        "E/17/318": {
+            "name": "Udith Amasura",
+            "email": "e17318@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/318",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17318.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/318/"
+        }
+    },
     "supervisors": {
-        "email@eng.pdn.ac.lk": {
-            "name": "Supervisor 2",
-            "email": "email@eng.pdn.ac.lk",
+        "asithab@eng.pdn.ac.lk": {
+            "name": "Dr. Asitha Bandaranayake",
+            "email": "asithab@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/asithab",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/asithab/",
+            "researchgate": "https://www.researchgate.net/profile/Asitha-Bandaranayake-3",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=sf6MaF4AAAAJ"
+        },
+        "cds@eng.pdn.ac.lk": {
+            "name": "Dr. Chanaka Senanayake",
+            "email": "cds@eng.pdn.ac.lk",
             "profile_url": "#",
             "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
             "api_url": "#",
@@ -25,6 +71,6 @@
     },
     "tags": [
         "Web",
-        "Embedded Systems"
+        "Machine Learning"
     ]
 }

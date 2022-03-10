@@ -3222,7 +3222,7 @@
                     },
                     "Prediction-of-heart-disease-using-ECG": {
                         "title": "Prediction of heart disease using ECG",
-                        "description": "A software for predicting heart diseases mainly including myocardial infarctions using ECG data",
+                        "description": "A software application for predicting potential heart diseases using ECG data",
                         "batch": "E17",
                         "category": "Software Engineering Projects (CO328)",
                         "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Prediction-of-heart-disease-using-ECG/",
@@ -3379,15 +3379,15 @@
                     },
                     "road-accident-analyzer": {
                         "title": "road accident analyzer",
-                        "description": "Road Accident Analysis for Community Awareness!",
+                        "description": "Road Accident Analysis for Community Awareness",
                         "batch": "E17",
                         "category": "Software Engineering Projects (CO328)",
                         "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/road-accident-analyzer/",
                         "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/cover_page.jpg",
                         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
                         "repo_url": "https://github.com/cepdnaclk/e17-co328-road-accident-analyzer",
-                        "page_url": "#",
-                        "data_url": "#",
+                        "page_url": "https://cepdnaclk.github.io/e17-co328-road-accident-analyzer",
+                        "data_url": "https://cepdnaclk.github.io/e17-co328-road-accident-analyzer/data/index.json",
                         "github": {
                             "created_at": "",
                             "updated_at": "",
@@ -3769,7 +3769,7 @@
             },
             "E17": {
                 "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/",
-                "project_count": 2,
+                "project_count": 3,
                 "projects": {
                     "Mini-Project-Group-H": {
                         "title": "Mini Project Group H",
@@ -3795,6 +3795,31 @@
                             "has_pages": "false"
                         },
                         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/Mini-Project-Group-H/"
+                    },
+                    "Number-Plate-Recognition-system": {
+                        "title": "Number Plate Recognition system",
+                        "description": "Number Plate Recognition (NPR) system to detect Sri Lankan number plate images",
+                        "batch": "E17",
+                        "category": "Image Processing Projects (CO543)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co543/e17/Number-Plate-Recognition-system/",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-co543-Number-Plate-Recognition-system",
+                        "page_url": "https://cepdnaclk.github.io/e17-co543-Number-Plate-Recognition-system",
+                        "data_url": "https://cepdnaclk.github.io/e17-co543-Number-Plate-Recognition-system/data/index.json",
+                        "github": {
+                            "created_at": "",
+                            "updated_at": "",
+                            "language": "",
+                            "forks_count": "",
+                            "stars_count": "",
+                            "watchers_count": "",
+                            "topics": [],
+                            "has_projects": "",
+                            "has_wiki": "",
+                            "has_pages": ""
+                        },
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/Number-Plate-Recognition-system/"
                     },
                     "SL-Number-Plate-Detection-Group-A": {
                         "title": "SL Number Plate Detection Group A",

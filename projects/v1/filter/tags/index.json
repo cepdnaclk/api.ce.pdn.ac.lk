@@ -864,19 +864,6 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/ContactTracingApp/"
         },
         {
-            "title": "Flood Forecasting System",
-            "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Flood-Forecasting-System/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Flood-Forecasting-System",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Flood-Forecasting-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Flood-Forecasting-System/"
-        },
-        {
             "title": "Greenhouse Monitoring System",
             "category": {
                 "code": "co328",
@@ -903,17 +890,17 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/NGS-Data-AnalysingToolkit/"
         },
         {
-            "title": "apparel industry performance analyser",
+            "title": "road accident analyzer",
             "category": {
                 "code": "co328",
                 "title": "Software Engineering Projects (CO328)",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/apparel-industry-performance-analyser/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-apparel-industry-performance-analyser",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-apparel-industry-performance-analyser",
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/road-accident-analyzer/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co328-road-accident-analyzer",
+            "page_url": "https://cepdnaclk.github.io/e17-co328-road-accident-analyzer",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/apparel-industry-performance-analyser/"
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/road-accident-analyzer/"
         },
         {
             "title": "Movie Review System",
@@ -1356,6 +1343,19 @@
     ],
     "Machine Learning": [
         {
+            "title": "Flood Forecasting System",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Flood-Forecasting-System/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co328-Flood-Forecasting-System",
+            "page_url": "https://cepdnaclk.github.io/e17-co328-Flood-Forecasting-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Flood-Forecasting-System/"
+        },
+        {
             "title": "History of Music",
             "category": {
                 "code": "co328",
@@ -1380,6 +1380,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-co328-Skim-Sequencing-Analysis",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Skim-Sequencing-Analysis/"
+        },
+        {
+            "title": "apparel industry performance analyser",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/apparel-industry-performance-analyser/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co328-apparel-industry-performance-analyser",
+            "page_url": "https://cepdnaclk.github.io/e17-co328-apparel-industry-performance-analyser",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/apparel-industry-performance-analyser/"
         }
     ],
     "Machine learning": [
@@ -2565,6 +2578,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-co328-apparel-industry-performance-analyser",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/apparel-industry-performance-analyser/"
+        },
+        {
+            "title": "road accident analyzer",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/road-accident-analyzer/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co328-road-accident-analyzer",
+            "page_url": "https://cepdnaclk.github.io/e17-co328-road-accident-analyzer",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/road-accident-analyzer/"
         },
         {
             "title": "Movie Review System",

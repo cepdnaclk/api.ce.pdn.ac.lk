@@ -10,10 +10,56 @@
     "repo_url": "https://github.com/cepdnaclk/e17-co328-Flood-Forecasting-System",
     "page_url": "https://cepdnaclk.github.io/e17-co328-Flood-Forecasting-System",
     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+    "team": {
+        "E/17/006": {
+            "name": "ALAHAKOON A.M.H.H",
+            "email": "e17006@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/006",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17006.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/006/"
+        },
+        "E/17/176": {
+            "name": "KUMARA W.M.E.S.K",
+            "email": "e17176@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/176",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17176.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/176/"
+        },
+        "E/17/338": {
+            "name": "SRIMAL R.M.L.C",
+            "email": "e17338@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/338",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17338.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/338/"
+        }
+    },
     "supervisors": {
-        "email@eng.pdn.ac.lk": {
-            "name": "Supervisor 2",
-            "email": "email@eng.pdn.ac.lk",
+        "upuljm@eng.pdn.ac.lk": {
+            "name": "Dr. Upul Jayasinghe",
+            "email": "upuljm@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul-jayasinghe/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/upuljm",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/upuljm/",
+            "researchgate": "https://www.researchgate.net/profile/Upul-Jayasinghe",
+            "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
+        },
+        "imeshuek@eng.pdn.ac.lk": {
+            "name": "Imesh Ekanayake",
+            "email": "imeshuek@eng.pdn.ac.lk",
             "profile_url": "#",
             "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
             "api_url": "#",
@@ -25,6 +71,6 @@
     },
     "tags": [
         "Web",
-        "Embedded Systems"
+        "Machine Learning"
     ]
 }
