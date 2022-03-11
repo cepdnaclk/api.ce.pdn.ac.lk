@@ -10,21 +10,69 @@
     "repo_url": "https://github.com/cepdnaclk/e17-co328-road-accident-analyzer",
     "page_url": "https://cepdnaclk.github.io/e17-co328-road-accident-analyzer",
     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+    "team": {
+        "E/17/027": {
+            "name": "Pubudu Bandara",
+            "email": "e17027@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/027",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17027.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/027/"
+        },
+        "E/17/212": {
+            "name": "Dananjaya Morais",
+            "email": "e17212@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/212",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17212.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/212/"
+        },
+        "E/17/219": {
+            "name": "Ishara Nawarathna",
+            "email": "e17219@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/219",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17219.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/219/"
+        }
+    },
     "supervisors": {
-        "email@eng.pdn.ac.lk": {
-            "name": "Supervisor 2",
-            "email": "email@eng.pdn.ac.lk",
-            "profile_url": "#",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
-            "api_url": "#",
-            "website": "#",
-            "linkedin": "#",
-            "researchgate": "#",
-            "google_scholar": "#"
+        "upuljm@eng.pdn.ac.lk": {
+            "name": "Dr. Upul Jayasinghe",
+            "email": "upuljm@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul-jayasinghe/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/upuljm",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/upuljm/",
+            "researchgate": "https://www.researchgate.net/profile/Upul-Jayasinghe",
+            "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
+        },
+        "namal@eng.pdn.ac.lk": {
+            "name": "Dr. Suneth Namal Karunarathna",
+            "email": "namal@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/suneth-namal-karunarathna/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/suneth-namal-karunarathna.png",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/namal",
+            "website": "",
+            "linkedin": "https://lk.linkedin.com/in/suneth-namal-b70b8688",
+            "researchgate": "https://www.researchgate.net/profile/Suneth-Namal",
+            "google_scholar": "https://scholar.google.com/citations?user=G39TP7EAAAAJ&hl=en"
         }
     },
     "tags": [
         "Web",
-        "Embedded Systems"
+        "Software Engineering",
+        "Machine Learning",
+        "Operating Systems"
     ]
 }

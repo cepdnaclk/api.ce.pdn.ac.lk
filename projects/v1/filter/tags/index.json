@@ -890,19 +890,6 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/NGS-Data-AnalysingToolkit/"
         },
         {
-            "title": "road accident analyzer",
-            "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/road-accident-analyzer/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-road-accident-analyzer",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-road-accident-analyzer",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/road-accident-analyzer/"
-        },
-        {
             "title": "Movie Review System",
             "category": {
                 "code": "co328",
@@ -927,6 +914,19 @@
             "page_url": "https://cepdnaclk.github.io/e16-co328-Project-Publication-Platform",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E16/Project-Publication-Platform/"
+        },
+        {
+            "title": "Number Plate Recognition system",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e17/Number-Plate-Recognition-system/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co543-Number-Plate-Recognition-system",
+            "page_url": "https://cepdnaclk.github.io/e17-co543-Number-Plate-Recognition-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/Number-Plate-Recognition-system/"
         },
         {
             "title": "SL Number Plate Detection Group A",
@@ -1393,6 +1393,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-co328-apparel-industry-performance-analyser",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/apparel-industry-performance-analyser/"
+        },
+        {
+            "title": "road accident analyzer",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/road-accident-analyzer/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co328-road-accident-analyzer",
+            "page_url": "https://cepdnaclk.github.io/e17-co328-road-accident-analyzer",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/road-accident-analyzer/"
         }
     ],
     "Machine learning": [
@@ -1560,6 +1573,21 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/sports-action-recognition/"
         }
     ],
+    "Operating Systems": [
+        {
+            "title": "road accident analyzer",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/road-accident-analyzer/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co328-road-accident-analyzer",
+            "page_url": "https://cepdnaclk.github.io/e17-co328-road-accident-analyzer",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/road-accident-analyzer/"
+        }
+    ],
     "Payment System": [
         {
             "title": "smart payment system",
@@ -1723,6 +1751,21 @@
             "page_url": "https://cepdnaclk.github.io/e17-co328-Oral-Cavity-Region-Detection",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Oral-Cavity-Region-Detection/"
+        }
+    ],
+    "Software Engineering": [
+        {
+            "title": "road accident analyzer",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/road-accident-analyzer/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co328-road-accident-analyzer",
+            "page_url": "https://cepdnaclk.github.io/e17-co328-road-accident-analyzer",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/road-accident-analyzer/"
         }
     ],
     "Swarm Robotics": [
@@ -2630,6 +2673,19 @@
             "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/"
+        },
+        {
+            "title": "Number Plate Recognition system",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e17/Number-Plate-Recognition-system/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co543-Number-Plate-Recognition-system",
+            "page_url": "https://cepdnaclk.github.io/e17-co543-Number-Plate-Recognition-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/Number-Plate-Recognition-system/"
         },
         {
             "title": "SL Number Plate Detection Group A",
