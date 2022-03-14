@@ -40,7 +40,7 @@
     },
     "e17-co328-Document-Tag-Generator": {
         "title": "Document Tag Generator",
-        "description": "Our project is to generate tags for the projects on the department website.",
+        "description": "The project website of the Department of Computer Engineering currently has nearly 150 projects. These projects are categorized by only batches and subjectwise. Also, some of the projects have some tags but some of them are not relevant to those projects. Also, some projects do not have any tags. Currently, users can search projects by keywords, but those keywords are derived only from project descriptions.Our goal is to generate relevant tags for each project according to the description of the projects and other valid data available on the project pages. ",
         "category": {
             "title": "Software Engineering Projects (CO328)",
             "code": "co328",
@@ -48,7 +48,7 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Document-Tag-Generator/",
         "repo_url": "https://github.com/cepdnaclk/e17-co328-Document-Tag-Generator",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e17-co328-Document-Tag-Generator",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Document-Tag-Generator/"
     },
     "e17-co328-Flood-Forecasting-System": {
@@ -152,7 +152,7 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Prediction-of-heart-disease-using-ECG/",
         "repo_url": "https://github.com/cepdnaclk/e17-co328-Prediction-of-heart-disease-using-ECG",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e17-co328-Prediction-of-heart-disease-using-ECG",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Prediction-of-heart-disease-using-ECG/"
     },
     "e17-co328-Prediction-of-risks-associated-with-mass-corona-vaccination": {

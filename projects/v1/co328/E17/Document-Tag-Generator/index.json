@@ -1,6 +1,6 @@
 {
     "title": "Document Tag Generator",
-    "description": "Our project is to generate tags for the projects on the department website.",
+    "description": "The project website of the Department of Computer Engineering currently has nearly 150 projects. These projects are categorized by only batches and subjectwise. Also, some of the projects have some tags but some of them are not relevant to those projects. Also, some projects do not have any tags. Currently, users can search projects by keywords, but those keywords are derived only from project descriptions.Our goal is to generate relevant tags for each project according to the description of the projects and other valid data available on the project pages. ",
     "category": {
         "title": "Software Engineering Projects (CO328)",
         "code": "co328",
@@ -8,6 +8,70 @@
     },
     "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Document-Tag-Generator/",
     "repo_url": "https://github.com/cepdnaclk/e17-co328-Document-Tag-Generator",
-    "page_url": "#",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
+    "page_url": "https://cepdnaclk.github.io/e17-co328-Document-Tag-Generator",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+    "team": {
+        "E/17/100": {
+            "name": "Gunathilaka R.M.S.M",
+            "email": "e17100@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/100",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17100.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/100/"
+        },
+        "E/17/246": {
+            "name": "Perera K.S.D",
+            "email": "e17246@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/246",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17246.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/246/"
+        },
+        "E/17/284": {
+            "name": "Rathnayake R.L.D.A.S",
+            "email": "e17284@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/284",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17284.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/284/"
+        }
+    },
+    "supervisors": {
+        "nuwanjaliyagoda@eng.pdn.ac.lk": {
+            "name": "Nuwan Jaliyagoda",
+            "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
+            "profile_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "api_url": "#",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        },
+        "thusharab@eng.pdn.ac.lk": {
+            "name": "Thushara Bandara",
+            "email": "thusharab@eng.pdn.ac.lk",
+            "profile_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "api_url": "#",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "6yp",
+        "Machine Learning",
+        "Text Mining"
+    ]
 }
