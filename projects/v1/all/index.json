@@ -2937,7 +2937,7 @@
         "batches": {
             "E17": {
                 "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/",
-                "project_count": 18,
+                "project_count": 19,
                 "projects": {
                     "Analysis-Tool-for-Industrial-Images": {
                         "title": "Analysis Tool for Industrial Images",
@@ -3270,6 +3270,31 @@
                         },
                         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Prediction-of-risks-associated-with-mass-corona-vaccination/"
                     },
+                    "Research-profiles-of-academic-staff": {
+                        "title": "Research profiles of academic staff",
+                        "description": "A web portal to collect all publications on all areas under Computer Engineering department to a single information repository.\u200b",
+                        "batch": "E17",
+                        "category": "Software Engineering Projects (CO328)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Research-profiles-of-academic-staff/",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-co328-Research-profiles-of-academic-staff",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "github": {
+                            "created_at": "",
+                            "updated_at": "",
+                            "language": "",
+                            "forks_count": "",
+                            "stars_count": "",
+                            "watchers_count": "",
+                            "topics": [],
+                            "has_projects": "",
+                            "has_wiki": "",
+                            "has_pages": ""
+                        },
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Research-profiles-of-academic-staff/"
+                    },
                     "Skim-Sequencing-Analysis": {
                         "title": "Skim Sequencing Analysis",
                         "description": "An Analytical Software for Next Generation Skim Sequencing Data.",
@@ -3379,7 +3404,7 @@
                     },
                     "road-accident-analyzer": {
                         "title": "road accident analyzer",
-                        "description": "Road Accident Analysis for Community Awareness",
+                        "description": "Road traffic injuries are a leading cause of death and disability. In low and middle income countries, vulnerable road users are commonly involved in crashes with severe injuries. Road traffic injuries are a major public health problem globally. About 1.2 million people are killed and more than 50 million are injured due to road traffic crashes annually.More than 90% of these deaths and injuries occur in low and middle income countries (LMIC) due to rapid motorization, lack of road safety culture, poor road conditions, and lack of education on road safety. Our aim is to reduce road accidents using machine learning techniques.",
                         "batch": "E17",
                         "category": "Software Engineering Projects (CO328)",
                         "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/road-accident-analyzer/",
