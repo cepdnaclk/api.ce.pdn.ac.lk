@@ -1,0 +1,145 @@
+---
+layout: blank
+permalink: /
+title: "Home"
+---
+
+<div class="alert alert-warning">
+    <div class="container">
+        <h1 class="display-5">
+            Open API Portal<br>
+            <h4>Department of Computer Engineering - University of Peradeniya</h4>
+        </h1>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="container col-sm-12 col-md-10 col-lg-10 mx-auto mt-3 py-2">
+
+            <div class="card px-2 py-2 mt-5">
+                <div class="card-body lead">
+                    <p>This is an open-source API portal for the <i>Department of Computer Engineering, University of Peradeniya</i>.</p>
+
+                    <p>If you are interested in developing apps/websites related to the department's activities, you’re in the right place. You can find the information easily from the APIs here, and focus on making awesome services, apps, websites, etc...</p>
+                </div>
+            </div>
+
+
+            <h3 class="pt-5">Available APIs</h3>
+
+            <div class="row pb-5">
+                <div class="col sm-6 md-6 lg-4">
+                    <div class="card">
+                        <div class="card-header">
+                            <h5>Students Data API <span class="badge rounded-pill bg-secondary">v1</span></h5>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">
+                                Information about the Department Students from the batch, <i>E14</i> onwards can be accessed via this API.
+                            </p>
+                            <a href="#" class="card-link"></a>
+                            <a href="./people/v1/students/" class="btn btn-sm btn-success" target="_blank" >API Index</a>
+                            <a href="./docs/students/" target="_blank" class="btn btn-sm btn-primary">API Documentation</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col sm-6 md-6 lg-4">
+                    <div class="card">
+                        <div class="card-header">
+                            <h5>Projects Data API <span class="badge rounded-pill bg-secondary">v1</span></h5>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">
+                                Information about the students projects under a few different categories can be found from this API.
+                            </p>
+                            <a href="./projects/v1/" class="btn btn-sm btn-success" target="_blank" >API Index</a>
+                            <a href="./docs/projects/" target="_blank" class="btn btn-sm btn-primary">API Documentation</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col sm-6 md-6 lg-4">
+                    <div class="card">
+                        <div class="card-header">
+                            <h5>Staff Data API <span class="badge rounded-pill bg-secondary">v1</span></h5>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">
+                                Public information about the Department Staff, their contact, research interests can be accessed from this API.
+                            </p>
+                            <a href="./people/v1/staff/" class="btn btn-sm btn-success" target="_blank" >API Index</a>
+                            <a href="#" target="_blank" class="btn btn-sm btn-primary disabled">API Documentation</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row pb-5">
+                <div class="col sm-6 md-6 lg-4">
+                    <div class="card">
+                        <div class="card-header">
+                            <h5>Course API</h5>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">
+                                Under Development
+                            </p>
+                            <a href="#" class="btn btn-sm btn-success disabled" target="_blank" >API Index</a>
+                            <a href="#" class="btn btn-primary btn-sm disabled">API Documentation</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col sm-6 md-6 lg-4">
+                    <div class="card">
+                        <div class="card-header">
+                            <h5>Timetable API</h5>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">
+                                Under Development
+                            </p>
+                            <a href="#" class="btn btn-sm btn-success disabled" target="_blank" >API Index</a>
+                            <a href="#" class="btn btn-primary btn-sm disabled">API Documentation</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col sm-6 md-6 lg-4">
+                    <div class="card">
+                        <div class="card-header">
+                            <h5>Publication API</h5>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">
+                                Under Development
+                            </p>
+                            <a href="#" class="btn btn-sm btn-success disabled" target="_blank" >API Index</a>
+                            <a href="#" class="btn btn-primary btn-sm disabled">API Documentation</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container pt-5">
+                <p>This is a static website, which is nightly-build using <a href="https://github.com/features/actions">GitHub Actions</a> and hosted in the <a href="https://pages.github.com/">GitHub Pages</a>. The data will be automatically collected form the department websites, including <a href="projects.ce.pdn.ac.lk">projects.ce.pdn.ac.lk</a> and <a href="people.ce.pdn.ac.lk">people.ce.pdn.ac.lk</a></p>
+
+                <p>If you are interested in contributing to this <i>Open API portal</i>, you can find the GitHub repository from <a href="https://github.com/cepdnaclk/api.ce.pdn.ac.lk">here</a>, and contact one of the developer for the information</p>
+
+                <figure class="figure pt-5">
+                    <img src="/assets/img/web-plan.svg" class="figure-img img-fluid rounded img-thumbnail" alt="Web Plan Diagram">
+                    <figcaption class="figure-caption">
+                        The purposed architecture of the data exchanges of the websites belong to Department of Computer Engineering, University of Peradeniya
+                    </figcaption>
+                </figure>
+
+
+            </div>
+        </div>
+
+    </div>
+</div>
+
+{% include footer.html %}
