@@ -75,13 +75,32 @@ def write_staff_pages(staff_list):
             f.write(json.dumps(data, indent = 4))
 
 # Write the /staff/all/index.json file
-def write_all(staff_list):
+def write_all(staff_list, temp_staff_list, support_staff_list):
     data_all = {}
     sorted_data_all = {}
 
     filename = "../people/v1/staff/all/index.json"
     os.makedirs(os.path.dirname(filename), exist_ok=True)
 
+
+    # Temporary Academic Staff
+    for email in temp_staff_list:
+        raw_data = temp_staff_list[email]
+        email_id = email.split('@')[0]
+
+        raw_data = temp_staff_list[email]
+        data = {
+            'name': raw_data['name'],
+            'designation': raw_data['designation'],
+            'email': raw_data['email'],
+            'profile_url': raw_data['link'],
+            'profile_image': raw_data['profile_image'],
+            'urls': {},
+            'research_interests': {},
+        }
+        data_all[email_id] = data
+
+    # Academic Staff
     for email in staff_list:
         raw_data = staff_list[email]
         email_id = email.split('@')[0]
@@ -97,6 +116,8 @@ def write_all(staff_list):
             'research_interests': raw_data['research_interests'],
         }
         data_all[email_id] = data
+
+
 
     # Sort in alphabatical order
     for key in sorted(data_all):
@@ -116,14 +137,22 @@ staff_list = {}
 
 # Fetch data from the people.ce.pdn.ac.lk
 if r.status_code==200:
-    staff_list = json.loads(r.text)
+    all_staff_list = json.loads(r.text)
     # print(staff_list)
 
+    # Academic Staff -------------------------------
+    staff_list = all_staff_list['academic']
     # Write the index file for the staff
     write_index(staff_list)
 
     # Create files for each staff member
     write_staff_pages(staff_list)
 
+
+    # Temporary Academic Staff -------------------------------
+    temp_staff_list = all_staff_list['temporary-academic']
+    support_staff_list = all_staff_list['support-academic']
+
+
     # Create the aggregated index file
-    write_all(staff_list)
+    write_all(staff_list, temp_staff_list, support_staff_list)

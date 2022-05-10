@@ -48,6 +48,11 @@ def process_team(data):
     team = {}
 
     for person in data:
+
+        if( person['eNumber'] == "E/yy/xxx"):
+            # Considered as not configured
+            continue
+
         eNumber = person['eNumber'].upper()
         name = person['name'] if 'name' in person else "#"
         email = person['email'] if 'email' in person else "#"
@@ -81,7 +86,15 @@ def process_team(data):
             researchgate = person_from_api['urls']['researchgate'] if 'researchgate' in person_from_api['urls'] else "#"
             website = person_from_api['urls']['website'] if 'website' in person_from_api['urls'] else "#"
 
-            profile_image = person_from_api['profile_image'] if 'profile_image' in person_from_api else DEFAULT_PROFILE_IMAGE
+            if 'profile_image' in person_from_api:
+                if 'profile_image' in person_from_api:
+                    profile_image = person_from_api['profile_image']
+                else:
+                    profile_image = DEFAULT_PROFILE_IMAGE
+
+            else:
+                profile_image = DEFAULT_PROFILE_IMAGE
+
             profile_url = person_from_api['profile_page'] if 'profile_page' in person_from_api else "#"
             profile_api = profile_api
 
@@ -100,6 +113,12 @@ def process_supervisors(data):
     supervisors = {}
 
     for person in data:
+
+        # # Disabled following checkup since some students wrongly config the property
+        # if( person['email'] == "email@eng.pdn.ac.lk"):
+        #     # Not configured
+        #     continue
+
         # name, email
         email_id = person['email'].split('@')[0]
 
@@ -113,11 +132,12 @@ def process_supervisors(data):
                 'profile_url': details['profile_url'],
                 'profile_image': details['profile_image'],
                 'api_url': api_url,
-                'website': details['urls']['website'],
-                'linkedin': details['urls']['linkedin'],
-                'researchgate': details['urls']['researchgate'],
-                'google_scholar': details['urls']['google_scholar'],
+                'website': details['urls']['website'] if ('urls' in details and 'website' in details['urls']) else "#",
+                'linkedin': details['urls']['linkedin'] if ('urls' in details and 'linkedin' in details['urls']) else "#",
+                'researchgate': details['urls']['researchgate'] if ('urls' in details and 'researchgate' in details['urls']) else "#",
+                'google_scholar': details['urls']['google_scholar'] if ('urls' in details and 'google_scholar' in details['urls']) else "#",
             }
+
         else:
             supervisors[person['email']] = {
                 'name': person['name'],
@@ -323,6 +343,10 @@ def write_batches(categories):
 def write_projects(categories):
     for cat in categories:
         print('_' + cat)
+
+        # Temporary
+        # if(cat != "Software Engineering Projects (CO328)"):
+        #     continue
 
         for batch in categories[cat]:
             print('__' + batch)
