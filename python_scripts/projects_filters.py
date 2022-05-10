@@ -18,6 +18,7 @@ studentSource = apiBase + "/people/v1/students/all/"
 projectSource = apiBase + "/projects/v1/all/"
 
 student_dict = {}
+supervisor_dict = {}
 tag_dict = {}
 
 # Gather Student API data
@@ -79,6 +80,14 @@ for p_cat in projects:
                         if student not in student_dict: student_dict[student] = []
                         student_dict[student].append(proj_info)
 
+            # Add the project_tag info into the staff indexes
+            if 'supervisors' in proj_data:
+                print('\tSupervisors: ' + ', '.join(proj_data['supervisors']))
+                for supervisor in proj_data['supervisors']:
+                    if supervisor!="" and supervisor!="#":
+                        if supervisor not in supervisor_dict: supervisor_dict[supervisor] = []
+                        supervisor_dict[supervisor].append(proj_info)
+
             # Add the project_tag info into the tag indexes
             if 'tags' in proj_data:
                 for tag in proj_data['tags']:
@@ -89,6 +98,7 @@ for p_cat in projects:
 
 # print(json.dumps(student_dict, indent = 4))
 
+# ------------------------------------------------------------------------------
 # Sort the student dictionary according to ENumber (ASC)
 student_dict_sorted = {}
 for key in sorted(student_dict):
@@ -100,7 +110,19 @@ os.makedirs(os.path.dirname(studentFilter_filename), exist_ok=True)
 with open(studentFilter_filename, "w") as f:
     f.write(json.dumps(student_dict_sorted, indent = 4))
 
+# ------------------------------------------------------------------------------
+# Sort the staff dictionary according to Email address
+supervisor_dict_sorted = {}
+for key in sorted(supervisor_dict):
+    supervisor_dict_sorted[key] = supervisor_dict[key]
 
+# Write the sorted dict into the API endpoint file
+staffFilter_filename = "../projects/v1/filter/staff/index.json"
+os.makedirs(os.path.dirname(staffFilter_filename), exist_ok=True)
+with open(staffFilter_filename, "w") as f:
+    f.write(json.dumps(supervisor_dict_sorted, indent = 4))
+
+# ------------------------------------------------------------------------------
 # Sort the tag dictionary according to Tag Name (ASC)
 tag_dict_sorted = {}
 for key in sorted(tag_dict):
