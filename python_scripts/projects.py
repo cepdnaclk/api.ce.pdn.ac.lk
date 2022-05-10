@@ -216,44 +216,11 @@ def project_details(page_url):
     return data
 
 # Write the /projects/v1/all/index.json
-def write_all(categories):
-    dict = {}
-
-    # For each category
-    for cat in categories:
-        cat_name = title_to_code[cat]
-        url = apiBase + '/projects/v1/' + cat_name + '/'
-        category_count = len(categories[cat].keys())
-
-        # For each batch
-        for b in categories[cat]:
-            batch = categories[cat][b]
-            batch_api = '{0}/projects/v1/{1}/{2}/'.format(apiBase,cat_name,b)
-            proj_count = len(categories[cat][b].keys())
-            proj = {}
-
-            # For each project
-            for p in batch:
-                proj_key = project_key(batch[p]['title'])
-                batch[p]['api_url'] = '{0}/projects/v1/{1}/{2}/{3}/'.format(apiBase,cat_name,b,proj_key)
-                proj[proj_key] = batch[p]
-
-            categories[cat][b] = {
-                'api_url': batch_api,
-                'project_count': proj_count,
-                'projects': proj
-            }
-
-        dict[cat] = {
-            'api_url': url,
-            'batch_count': category_count,
-            'batches': categories[cat]
-        }
-
+def write_all(all_projects):
     filename = "../projects/v1/all/index.json"
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, "w") as f:
-        f.write(json.dumps(dict, indent = 4))
+        f.write(json.dumps(all_projects, indent = 4))
 
 # Write the /projects/v1/index.json
 def write_index(category_index, categories):
@@ -341,11 +308,13 @@ def write_batches(categories):
 
 # Write the /projects/v1/{category}/{batch}/{project}/index.json files
 def write_projects(categories):
+    all = {}
     for cat in categories:
         print('_' + cat)
 
         # Temporary
         # if(cat != "Software Engineering Projects (CO328)"):
+        # if(cat != "Industrial Automation Projects (CO326)"):
         #     continue
 
         for batch in categories[cat]:
@@ -385,6 +354,11 @@ def write_projects(categories):
                 with open(filename, "w") as f:
                     f.write(json.dumps(data, indent = 4))
 
+
+            all[project] = data
+
+    # Return all the data
+    return all
 
 # ------------------------------------------------------------------------------
 
@@ -456,8 +430,8 @@ write_batches(categories)
 
 # Create files for each project
 print("Generating the projects");
-write_projects(categories)
+all_data = write_projects(categories)
 
 # Write all the project details into one file
 print("Generating the all projects file");
-write_all(categories)
+write_all(all_data)

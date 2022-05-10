@@ -152,7 +152,7 @@
       "get" : {
         "summary" : "All Projects",
         "operationId" : "getAllProjects",
-        "description" : "All available projects, in a hierarchical structure",
+        "description" : "All available projects",
         "produces" : [ "application/json" ],
         "responses" : {
           "200" : {
@@ -650,30 +650,78 @@
     "AllProjects" : {
       "type" : "object",
       "example" : {
-        "Cyber-Physical Systems Projects" : {
-          "api_url" : "http://api.ce.pdn.ac.lk/projects/v1/3yp/",
-          "batch_count" : 4,
-          "batches" : {
-            "E15" : {
-              "api_url" : "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/",
-              "project_count" : 20,
-              "projects" : {
-                "A-GUI-for-controlling-and-supervising-multiple-robots-remotely" : {
-                  "title" : "A GUI for controlling and supervising multiple robots remotely",
-                  "description" : "The idea is to create a GUI platform where a user can give commands which is to be followed by...",
-                  "batch" : "E15",
-                  "category" : "Cyber-Physical Systems Projects",
-                  "project_url" : "https://projects.ce.pdn.ac.lk/3yp/e15/A-GUI-for-controlling-and-supervising-multiple-robots-remotely",
-                  "cover_url" : "https://projects.ce.pdn.ac.lk/data/categories/3yp/cover_page.jpg",
-                  "thumbnail_url" : "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-                  "repo_url" : "https://github.com/cepdnaclk/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely",
-                  "page_url" : "https://cepdnaclk.github.io/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely",
-                  "data_url" : "https://cepdnaclk.github.io/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely/data/index.json",
-                  "api_url" : "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/A-GUI-for-controlling-and-supervising-multiple-robots-remotely/"
-                }
-              }
+        "e17-3yp-smart-shopping-cart" : {
+          "title" : "smart shopping cart",
+          "description" : "Many people like shopping but the main problem is the time take for the billing. We like to solve this problem. In this case, we like to introduce a device that can do all billing work so that there is no need to wait for billing. they can buy things and pay themselves. developed by @Piriyaraj, @Rilwan292, and @Kavinaya12 https://cepdnaclk.github.io/e17-3yp-smart-shopping-cart/",
+          "category" : {
+            "title" : "Cyber-Physical Systems Projects",
+            "code" : "3yp",
+            "api_url" : "http://api.ce.pdn.ac.lk/projects/v1/3yp/"
+          },
+          "project_url" : "https://projects.ce.pdn.ac.lk/3yp/e17/smart-shopping-cart/",
+          "repo_url" : "https://github.com/cepdnaclk/e17-3yp-smart-shopping-cart",
+          "page_url" : "https://cepdnaclk.github.io/e17-3yp-smart-shopping-cart",
+          "thumbnail_url" : "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+          "team" : {
+            "E/17/159" : {
+              "name" : "Kavinaya Y",
+              "email" : "e17159@eng.pdn.ac.lk",
+              "website" : "",
+              "github" : "",
+              "linkedin" : "",
+              "researchgate" : "",
+              "api_url" : "http://api.ce.pdn.ac.lk/people/v1/students/E17/159",
+              "profile_image" : "https://people.ce.pdn.ac.lk/images/students/e17/e17159.jpg",
+              "profile_url" : "https://people.ce.pdn.ac.lk/students/e17/159/"
+            },
+            "E/17/256" : {
+              "name" : "Piriyaraj S",
+              "email" : "e17256@eng.pdn.ac.lk",
+              "website" : "",
+              "github" : "",
+              "linkedin" : "",
+              "researchgate" : "",
+              "api_url" : "http://api.ce.pdn.ac.lk/people/v1/students/E17/256",
+              "profile_image" : "https://people.ce.pdn.ac.lk/images/students/e17/e17256.jpg",
+              "profile_url" : "https://people.ce.pdn.ac.lk/students/e17/256/"
+            },
+            "E/17/292" : {
+              "name" : "Rilwan M.M.M",
+              "email" : "e17292@eng.pdn.ac.lk",
+              "website" : "",
+              "github" : "",
+              "linkedin" : "",
+              "researchgate" : "",
+              "api_url" : "http://api.ce.pdn.ac.lk/people/v1/students/E17/292",
+              "profile_image" : "https://people.ce.pdn.ac.lk/images/students/e17/e17292.jpg",
+              "profile_url" : "https://people.ce.pdn.ac.lk/students/e17/292/"
             }
-          }
+          },
+          "supervisors" : {
+            "isurunawinne@eng.pdn.ac.lk" : {
+              "name" : "Dr. Isuru Nawinne",
+              "email" : "isurunawinne@eng.pdn.ac.lk",
+              "profile_url" : "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+              "profile_image" : "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+              "api_url" : "http://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+              "website" : "",
+              "linkedin" : "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+              "researchgate" : "https://www.researchgate.net/profile/Isuru-Nawinne",
+              "google_scholar" : "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            },
+            "mahanamaw@eng.pdn.ac.lk" : {
+              "name" : "Dr. Mahanama Wickramasinghe",
+              "email" : "mahanamaw@eng.pdn.ac.lk",
+              "profile_url" : "https://people.ce.pdn.ac.lk/staff/academic/mahanama-wickramasinghe/",
+              "profile_image" : "https://people.ce.pdn.ac.lk/images/staff/academic-staff/mahanama-wickramasinghe.jpg",
+              "api_url" : "http://api.ce.pdn.ac.lk/people/v1/staff/mahanamaw",
+              "website" : "",
+              "linkedin" : "https://www.linkedin.com/in/mahanama",
+              "researchgate" : "https://www.researchgate.net/profile/Mahanama-Wickramsinghe",
+              "google_scholar" : "https://scholar.google.com/citations?hl=en&user=kuoZpZEAAAAJ"
+            }
+          },
+          "tags" : [ "Web", "Embedded Systems" ]
         }
       }
     }
