@@ -138,18 +138,18 @@ staff_list = {}
 # Fetch data from the people.ce.pdn.ac.lk
 if r.status_code==200:
     all_staff_list = json.loads(r.text)
-    # print(staff_list)
 
-    # Academic Staff -------------------------------
+    # Academic Staff -----------------------------------------------------------
     staff_list = all_staff_list['academic']
-    # Write the index file for the staff
+
+    # Write the index file for the academic staff
     write_index(staff_list)
 
-    # Create files for each staff member
+    # Create files for each academic staff member
     write_staff_pages(staff_list)
 
-
-    # Temporary Academic Staff -------------------------------
+    # Temporary Academic and Academic Support Staff ----------------------------
+    # No individual pages for them
     temp_staff_list = all_staff_list['temporary-academic']
     support_staff_list = all_staff_list['support-academic']
 
