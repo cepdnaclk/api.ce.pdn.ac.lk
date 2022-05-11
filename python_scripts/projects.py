@@ -323,7 +323,7 @@ def write_projects(categories):
                 proj_name = project_key(raw_data['title'])
                 cat_code = title_to_code[raw_data['category']]
                 cat_api_url ='{0}/projects/v1/{1}/'.format(apiBase,cat_code)
-
+                api_url = '{0}/projects/v1/{1}/{2}/{3}/'.format(apiBase,cat_code,batch,proj_name)
                 data = {
                     'title': raw_data['title'],
                     'description': raw_data['description'],
@@ -335,6 +335,7 @@ def write_projects(categories):
                     'project_url': raw_data['project_url'],
                     'repo_url': raw_data['repo_url'],
                     'page_url': raw_data['page_url'],
+                    'api_url': api_url,
                     'thumbnail_url': raw_data['thumbnail_url']
                 }
 
