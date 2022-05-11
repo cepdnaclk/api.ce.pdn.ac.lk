@@ -113,11 +113,9 @@ def process_supervisors(data):
     supervisors = {}
 
     for person in data:
-
-        # # Disabled following checkup since some students wrongly config the property
-        # if( person['email'] == "email@eng.pdn.ac.lk"):
-        #     # Not configured
-        #     continue
+        if( person['email'] == "email@eng.pdn.ac.lk"):
+            # Not configured
+            continue
 
         # name, email
         email_id = person['email'].split('@')[0]
