@@ -352,8 +352,7 @@ def write_projects(categories):
                 with open(filename, "w") as f:
                     f.write(json.dumps(data, indent = 4))
 
-
-            all[project] = data
+                all[project] = data
 
     # Return all the data
     return all
@@ -376,7 +375,7 @@ students = json.load(student_file)
 staff_file = open(staffSource)
 staff = json.load(staff_file)
 
-# Fetch category data from the people.ce.pdn.ac.lk
+# Fetch category data from the projects.ce.pdn.ac.lk
 req_category = requests.get(apiSource + "categories/")
 if req_category.status_code==200:
     category_data = json.loads(req_category.text)
