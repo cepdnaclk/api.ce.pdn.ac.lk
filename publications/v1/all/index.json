@@ -1,0 +1,102 @@
+[
+    {
+        "title": "A Retinex based GAN Pipeline to Utilize Paired and Unpaired Datasets for Enhancing Low Light Images",
+        "venue": "MERcon",
+        "year": "2020",
+        "abstract": "Low light image enhancement is an important challenge for the development of robust computer vision algorithms. The machine learning approaches to this have been either unsupervised, supervised based on paired dataset or supervised based on unpaired dataset. This paper presents a novel deep learning pipeline that can learn from both paired and unpaired datasets. Convolution Neural Networks (CNNs) that are optimized to minimize standard loss, and Generative Adversarial Networks (GANs) that are optimized to minimize the adversarial loss are used to achieve different steps of the low light image enhancement process. Cycle consistency loss and a patched discriminator are utilized to further improve the performance. The paper also analyses the functionality and the performance of different components, hidden layers, and the entire pipeline.",
+        "authors": [
+            "Harshana Weligampola",
+            "Gihan Jayatilaka",
+            "Suren Sritharan",
+            "Roshan Goldaliyadda",
+            "Parakrama Ekanayeka",
+            "Roshan Ragel",
+            "Vijitha Herath"
+        ],
+        "author_ids": [
+            "E/15/379",
+            "E/14/158",
+            "E/14/339",
+            "roshanr@eng.pdn.ac.lk"
+        ],
+        "author_info": [
+            {
+                "name": "G.C. Jayatilaka",
+                "email": "Look up https://cs.umd.edu/~gihan/contact/@",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
+            },
+            {
+                "name": "Suren Sritharan",
+                "email": "e14339@ce.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14339.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e14/339/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/MERCon50084.2020.9185373",
+        "pdf": "https://arxiv.org/pdf/2006.15304.pdf",
+        "presentation": "https://www.cs.umd.edu/~gihan/projects/fyp/mercon-2020-presentation.pdf",
+        "codebase": "",
+        "research_groups": [
+            "Computer Vision"
+        ],
+        "tags": [
+            "Low-light image enhancement",
+            "Retinex theory",
+            "Generative adversarial networks",
+            "Cycle consistency",
+            "Computer Vision"
+        ],
+        "funding": ""
+    },
+    {
+        "title": "Non-contact Infant Sleep Apnea Detection",
+        "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
+        "year": "2019",
+        "abstract": "Sleep apnea is a breathing disorder where a person repeatedly stops breathing in sleep. Early detection is crucial for infants because it might bring long term adversities. The existing accurate detection mechanism (pulse oximetry) is a skin contact measurement. The existing non-contact mechanisms (acoustics, video processing) are not accurate enough. This paper presents a novel algorithm for the detection of sleep apnea with video processing. The solution is non-contact, accurate and lightweight enough to run on a single board computer. The paper discusses the accuracy of the algorithm on real data, advantages of the new algorithm, its limitations and suggests future improvements.",
+        "authors": [
+            "Gihan Jayatilaka",
+            "Harshana Weligampola",
+            "Suren Sritharan",
+            "Pankayaraj Pathmanathan",
+            "Roshan Ragel",
+            "Isuru Nawinne"
+        ],
+        "author_ids": [
+            "E/15/379",
+            "E/14/158",
+            "E/14/339",
+            "roshanr@eng.pdn.ac.lk",
+            "isurunawinne@eng.pdn.ac.lk"
+        ],
+        "author_info": [
+            {
+                "name": "G.C. Jayatilaka",
+                "email": "Look up https://cs.umd.edu/~gihan/contact/@",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
+            },
+            {
+                "name": "Suren Sritharan",
+                "email": "e14339@ce.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14339.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e14/339/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
+        "pdf": "https://arxiv.org/pdf/1910.04725.pdf",
+        "presentation": "",
+        "codebase": "",
+        "research_groups": [
+            "Computational BioEngineering",
+            "Computer Vision"
+        ],
+        "tags": [
+            "Sleep apnea",
+            "Video processing",
+            "Bio medical engineering",
+            "Pattern recognition"
+        ],
+        "funding": ""
+    }
+]
