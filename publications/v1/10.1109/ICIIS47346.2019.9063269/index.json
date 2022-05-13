@@ -11,13 +11,6 @@
         "Roshan Ragel",
         "Isuru Nawinne"
     ],
-    "author_ids": [
-        "E/15/379",
-        "E/14/158",
-        "E/14/339",
-        "roshanr@eng.pdn.ac.lk",
-        "isurunawinne@eng.pdn.ac.lk"
-    ],
     "author_info": [
         {
             "name": "G.C. Jayatilaka",
@@ -33,8 +26,8 @@
         }
     ],
     "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
-    "pdf": "https://arxiv.org/pdf/1910.04725.pdf",
-    "presentation": "",
+    "pdf_url": "https://arxiv.org/pdf/1910.04725.pdf",
+    "presentation_url": "",
     "codebase": "",
     "research_groups": [
         "Computational BioEngineering",
@@ -46,5 +39,6 @@
         "Bio medical engineering",
         "Pattern recognition"
     ],
-    "funding": ""
+    "funding": "",
+    "api_url": "http://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/"
 }

@@ -104,21 +104,24 @@ for line in pub_raw[1:]:
         if author_id in students:
             author_info.append(getStudent(apiBase, students, author_id))
 
+    api_url = "{0}/publications/v1/{1}/".format(apiBase, get_id_from_doi(pub_raw_data[DOI]))
+
     pub_data = {
         "title": pub_raw_data[TITLE],
         "venue": pub_raw_data[VENUE],
         "year": pub_raw_data[YEAR],
         "abstract": pub_raw_data[ABSTRACT],
         "authors": authors,
-        "author_ids": author_ids,
+        # "author_ids": author_ids,
         "author_info": author_info,
         "doi": pub_raw_data[DOI],
-        "pdf": pub_raw_data[PDF],
-        "presentation": pub_raw_data[PRESENTATION],
+        "pdf_url": pub_raw_data[PDF],
+        "presentation_url": pub_raw_data[PRESENTATION],
         "codebase": pub_raw_data[CODEBASE],
         "research_groups": research_groups,
         "tags": tags,
         "funding": pub_raw_data[FUNDING],
+        "api_url": api_url,
     }
 
     # Write into an individual file
