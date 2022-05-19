@@ -15,21 +15,35 @@
         ],
         "author_info": [
             {
+                "type": "STUDENT",
+                "id": "E/14/158",
                 "name": "G.C. Jayatilaka",
                 "email": "Look up https://cs.umd.edu/~gihan/contact/@",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
             },
             {
+                "type": "STUDENT",
+                "id": "E/14/339",
                 "name": "Suren Sritharan",
                 "email": "e14339@ce.pdn.ac.lk",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14339.jpg",
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e14/339/"
+            },
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "#"
             }
         ],
         "doi": "https://doi.org/10.1109/MERCon50084.2020.9185373",
+        "preprint_url": "",
         "pdf_url": "https://arxiv.org/pdf/2006.15304.pdf",
         "presentation_url": "https://www.cs.umd.edu/~gihan/projects/fyp/mercon-2020-presentation.pdf",
+        "project_url": "",
         "codebase": "",
         "research_groups": [
             "Computer Vision"
@@ -59,21 +73,43 @@
         ],
         "author_info": [
             {
+                "type": "STUDENT",
+                "id": "E/14/158",
                 "name": "G.C. Jayatilaka",
                 "email": "Look up https://cs.umd.edu/~gihan/contact/@",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
             },
             {
+                "type": "STUDENT",
+                "id": "E/14/339",
                 "name": "Suren Sritharan",
                 "email": "e14339@ce.pdn.ac.lk",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14339.jpg",
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e14/339/"
+            },
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "#"
+            },
+            {
+                "type": "STAFF",
+                "id": "isurunawinne",
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                "profile_url": "#"
             }
         ],
         "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
+        "preprint_url": "",
         "pdf_url": "https://arxiv.org/pdf/1910.04725.pdf",
         "presentation_url": "",
+        "project_url": "",
         "codebase": "",
         "research_groups": [
             "Computational BioEngineering",
@@ -87,5 +123,98 @@
         ],
         "funding": "",
         "api_url": "http://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/"
+    },
+    {
+        "title": "Chronic kidney disease prediction using machine learning methods",
+        "venue": "2020 Moratuwa Engineering Research Conference (MERCon) - IEEE",
+        "year": "2020",
+        "abstract": "Chronic Kidney Disease (CKD) or chronic renal disease has become a major issue with a steady growth rate. A person can only survive without kidneys for an average time of 18 days, which makes a huge demand for a kidney transplant and Dialysis. It is important to have effective methods for early prediction of CKD. Machine learning methods are effective in CKD prediction. This work proposes a workflow to predict CKD status based on clinical data, incorporating data prepossessing, a missing value handling method with collaborative filtering and attributes selection. Out of the 11 machine learning methods considered, the extra tree classifier and random forest classifier are shown to result in the highest accuracy and minimal bias to the attributes. The research also considers the practical aspects of data collection and highlights the importance of incorporating domain knowledge when using machine learning for CKD status prediction.",
+        "authors": [
+            "Imesh Udara Ekanayake; Damayanthi Herath"
+        ],
+        "author_info": [
+            {
+                "type": "STUDENT",
+                "id": "E/15/092",
+                "name": "Imesh Ekanayake",
+                "email": "imeshuek@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15092.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/092/"
+            },
+            {
+                "type": "STAFF",
+                "id": "damayanthiherath",
+                "name": "Dr. Damayanthi Herath",
+                "email": "damayanthiherath@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                "profile_url": "#"
+            }
+        ],
+        "doi": " https://doi.org/10.1109/MERCon50084.2020.9185249",
+        "preprint_url": "https://www.researchgate.net/profile/Imesh-Ekanayake/publication/344319206_Chronic_Kidney_Disease_Prediction_Using_Machine_Learning_Methods/links/5f672571458515b7cf418d5b/Chronic-Kidney-Disease-Prediction-Using-Machine-Learning-Methods.pdf",
+        "pdf_url": "",
+        "presentation_url": "",
+        "project_url": "",
+        "codebase": "",
+        "research_groups": [
+            "Machine Learning and Data Mining"
+        ],
+        "tags": [
+            "Kidney",
+            "Diseases",
+            "Machine learning",
+            "Red blood cells",
+            "Hypertension"
+        ],
+        "funding": "",
+        "api_url": "http://api.ce.pdn.ac.lk/publications/v1/ 10.1109/MERCon50084.2020.9185249/"
+    },
+    {
+        "title": "Adaptive hierarchical clustering for hyperspectral image classification: Umbrella Clustering",
+        "venue": "Journal of Spectral Imaging",
+        "year": "2019",
+        "abstract": "Hyperspectral Imaging (HSI) utilises the reflectance information of a large number of contiguous spectral bands to solve various problems. However, the relative proximity of spectral signatures among classes can be exploited to generate an adaptive hierarchical structure for HSI classification. This enables a level by level optimisation for clustering at each stage of the hierarchy. The Umbrella Clustering algorithm, introduced in this work, utilises this premise to significantly improve performance compared to non-hierarchical algorithms which attempt to optimise clustering globally. The key feature of the proposed methodology is that, unlike existing hierarchical algorithms which rely on fixed or supervised structures, the proposed method exploits a mechanism in spectral clustering to generate a self-organised hierarchy. The algorithm gradually zooms into the feature space to identify levels of clustering at each stage of the hierarchy. The results further demonstrate that the generated structure tallies with human perception. In addition, an improvement to Linear Discriminant Analysis (LDA) is also introduced to further improve performance. This modification maximises the pairwise class separation in the feature space. The entire algorithm includes this modified LDA step which requires a certain amount of class information in terms of features, at the training phase. The classification algorithm which incorporates all novel concepts was tested on the HSI data set of Pavia University as well the database of Common Sri Lankan Spices and Adulterants in order to assess the versatility of the algorithm.",
+        "authors": [
+            "S.S.P. Vithana",
+            "E.M.M.B. Ekanayake",
+            "E.M.H.E.B. Ekanayake",
+            "A.R.M.A.N. Rathnayake",
+            "G.C. Jayatilaka",
+            "H.M.V.R. Herath",
+            "G.M.R.I. Godaliyadda",
+            "M.P.B. Ekanayake"
+        ],
+        "author_info": [
+            {
+                "type": "STUDENT",
+                "id": "E/14/158",
+                "name": "G.C. Jayatilaka",
+                "email": "Look up https://cs.umd.edu/~gihan/contact/@",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
+            }
+        ],
+        "doi": "https://doi.org/10.1255/jsi.2019.a11",
+        "preprint_url": "https://www.impopen.com/download.php?code=I08_a11",
+        "pdf_url": "",
+        "presentation_url": "",
+        "project_url": "",
+        "codebase": "",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "hyperspectral imagery",
+            "spectral clustering",
+            "hierarchical classification",
+            "umbrella clustering",
+            "feature extraction",
+            "remote sensing",
+            "linear discriminant analysis",
+            "self-organise",
+            "unsupervised"
+        ],
+        "funding": "",
+        "api_url": "http://api.ce.pdn.ac.lk/publications/v1/10.1255/jsi.2019.a11/"
     }
 ]

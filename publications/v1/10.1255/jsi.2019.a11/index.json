@@ -1,0 +1,48 @@
+{
+    "title": "Adaptive hierarchical clustering for hyperspectral image classification: Umbrella Clustering",
+    "venue": "Journal of Spectral Imaging",
+    "year": "2019",
+    "abstract": "Hyperspectral Imaging (HSI) utilises the reflectance information of a large number of contiguous spectral bands to solve various problems. However, the relative proximity of spectral signatures among classes can be exploited to generate an adaptive hierarchical structure for HSI classification. This enables a level by level optimisation for clustering at each stage of the hierarchy. The Umbrella Clustering algorithm, introduced in this work, utilises this premise to significantly improve performance compared to non-hierarchical algorithms which attempt to optimise clustering globally. The key feature of the proposed methodology is that, unlike existing hierarchical algorithms which rely on fixed or supervised structures, the proposed method exploits a mechanism in spectral clustering to generate a self-organised hierarchy. The algorithm gradually zooms into the feature space to identify levels of clustering at each stage of the hierarchy. The results further demonstrate that the generated structure tallies with human perception. In addition, an improvement to Linear Discriminant Analysis (LDA) is also introduced to further improve performance. This modification maximises the pairwise class separation in the feature space. The entire algorithm includes this modified LDA step which requires a certain amount of class information in terms of features, at the training phase. The classification algorithm which incorporates all novel concepts was tested on the HSI data set of Pavia University as well the database of Common Sri Lankan Spices and Adulterants in order to assess the versatility of the algorithm.",
+    "authors": [
+        "S.S.P. Vithana",
+        "E.M.M.B. Ekanayake",
+        "E.M.H.E.B. Ekanayake",
+        "A.R.M.A.N. Rathnayake",
+        "G.C. Jayatilaka",
+        "H.M.V.R. Herath",
+        "G.M.R.I. Godaliyadda",
+        "M.P.B. Ekanayake"
+    ],
+    "author_info": [
+        {
+            "type": "STUDENT",
+            "id": "E/14/158",
+            "name": "G.C. Jayatilaka",
+            "email": "Look up https://cs.umd.edu/~gihan/contact/@",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
+        }
+    ],
+    "doi": "https://doi.org/10.1255/jsi.2019.a11",
+    "preprint_url": "https://www.impopen.com/download.php?code=I08_a11",
+    "pdf_url": "",
+    "presentation_url": "",
+    "project_url": "",
+    "codebase": "",
+    "research_groups": [
+        ""
+    ],
+    "tags": [
+        "hyperspectral imagery",
+        "spectral clustering",
+        "hierarchical classification",
+        "umbrella clustering",
+        "feature extraction",
+        "remote sensing",
+        "linear discriminant analysis",
+        "self-organise",
+        "unsupervised"
+    ],
+    "funding": "",
+    "api_url": "http://api.ce.pdn.ac.lk/publications/v1/10.1255/jsi.2019.a11/"
+}

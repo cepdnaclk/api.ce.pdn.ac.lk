@@ -11,6 +11,7 @@ import json
 import os
 
 from utility import getStudent
+from utility import getStaff
 
 # Where the API is available
 apiBase = "http://api.ce.pdn.ac.lk"
@@ -73,22 +74,27 @@ DOI = 5
 ABSTRACT = 6
 AUTHORS = 7
 AUTHOR_IDS = 8
-PDF = 9
+PREPRINT = 9
 PRESENTATION = 10
-CODEBASE = 11  # new
+CODEBASE = 11
 RESEARCH_GROUPS = 12
 TAGS = 13
 FUNDING = 14
+PDF = 15
+BIB = 16
+PROJECT_URL = 17
 
-FIELD_COUNT = 15
+FIELD_COUNT = 18
 
-# Ship the header line
+# print(json.dumps(pub_raw[0].replace('\r', '').split("\t"), indent = 4))
+
+# Skip the header line
 for line in pub_raw[1:]:
 
     pub_raw_data = line.replace('\r', '').split("\t")
 
     if(len(pub_raw_data) != FIELD_COUNT):
-        print("Not supported: ", ','.join(pub_raw_data))
+        print("Not supported: (", len(pub_raw_data), ')')
         continue
 
     authors = [x.strip() for x in pub_raw_data[AUTHORS].split(',')]
@@ -102,7 +108,13 @@ for line in pub_raw[1:]:
         author_id = author.split('@')[0]
 
         if author_id in students:
-            author_info.append(getStudent(apiBase, students, author_id))
+            person_card = getStudent(apiBase, students, author_id)
+            if person_card != None:
+                author_info.append(person_card)
+        elif author_id in staff:
+            person_card = getStaff(apiBase, staff, author_id)
+            if person_card != None:
+                author_info.append(person_card)
 
     api_url = "{0}/publications/v1/{1}/".format(apiBase, get_id_from_doi(pub_raw_data[DOI]))
 
@@ -115,8 +127,10 @@ for line in pub_raw[1:]:
         # "author_ids": author_ids,
         "author_info": author_info,
         "doi": pub_raw_data[DOI],
-        "pdf_url": pub_raw_data[PDF],
+        "preprint_url": pub_raw_data[PDF],
+        "pdf_url": pub_raw_data[PREPRINT],
         "presentation_url": pub_raw_data[PRESENTATION],
+        "project_url": pub_raw_data[PROJECT_URL],
         "codebase": pub_raw_data[CODEBASE],
         "research_groups": research_groups,
         "tags": tags,

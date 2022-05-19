@@ -33,6 +33,12 @@ jobs:
           python3 publications.py
           cd ../
 
+      - name: Generate filtered Publication lists
+        run: |
+          cd ./python_scripts
+          python3 publications_filter.py
+          cd ../
+
       - name: Commit and push into the main branch
         run: |
           git config user.name github-actions
