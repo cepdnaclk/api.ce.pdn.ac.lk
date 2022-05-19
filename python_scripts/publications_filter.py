@@ -68,8 +68,10 @@ for pub in publications:
 
             elif author_id!="" and author['type'] == 'STAFF':
                 # Staff
-                if author_id not in staff_author_dict: staff_author_dict[author_id] = []
-                staff_author_dict[author_id].append(pub_info)
+                # NOTE: This need to be handle carefully !
+                key = author_id + '@eng.pdn.ac.lk'
+                if author_id not in staff_author_dict: staff_author_dict[key] = []
+                staff_author_dict[key].append(pub_info)
 
     # Add the project_tag info into the tag indexes
     if 'tags' in pub_data:

@@ -1,5 +1,5 @@
 {
-    "damayanthiherath": [
+    "damayanthiherath@eng.pdn.ac.lk": [
         {
             "title": "Chronic kidney disease prediction using machine learning methods",
             "venue": "2020 Moratuwa Engineering Research Conference (MERCon) - IEEE",
@@ -28,7 +28,7 @@
             "api_url": "http://api.ce.pdn.ac.lk/publications/v1/ 10.1109/MERCon50084.2020.9185249/"
         }
     ],
-    "isurunawinne": [
+    "isurunawinne@eng.pdn.ac.lk": [
         {
             "title": "Non-contact Infant Sleep Apnea Detection",
             "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
@@ -62,40 +62,7 @@
             "api_url": "http://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/"
         }
     ],
-    "roshanr": [
-        {
-            "title": "A Retinex based GAN Pipeline to Utilize Paired and Unpaired Datasets for Enhancing Low Light Images",
-            "venue": "MERcon",
-            "year": "2020",
-            "abstract": "Low light image enhancement is an important challenge for the development of robust computer vision algorithms. The machine learning approaches to this have been either unsupervised, supervised based on paired dataset or supervised based on unpaired dataset. This paper presents a novel deep learning pipeline that can learn from both paired and unpaired datasets. Convolution Neural Networks (CNNs) that are optimized to minimize standard loss, and Generative Adversarial Networks (GANs) that are optimized to minimize the adversarial loss are used to achieve different steps of the low light image enhancement process. Cycle consistency loss and a patched discriminator are utilized to further improve the performance. The paper also analyses the functionality and the performance of different components, hidden layers, and the entire pipeline.",
-            "authors": [
-                "Harshana Weligampola",
-                "Gihan Jayatilaka",
-                "Suren Sritharan",
-                "Roshan Goldaliyadda",
-                "Parakrama Ekanayeka",
-                "Roshan Ragel",
-                "Vijitha Herath"
-            ],
-            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185373",
-            "preprint": "#",
-            "pdf": "https://arxiv.org/pdf/2006.15304.pdf",
-            "presentation": "https://www.cs.umd.edu/~gihan/projects/fyp/mercon-2020-presentation.pdf",
-            "project": "#",
-            "codebase": "#",
-            "researchgroups": [
-                "Computer Vision"
-            ],
-            "funding": "",
-            "tags": [
-                "Low-light image enhancement",
-                "Retinex theory",
-                "Generative adversarial networks",
-                "Cycle consistency",
-                "Computer Vision"
-            ],
-            "api_url": "http://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185373/"
-        },
+    "roshanr@eng.pdn.ac.lk": [
         {
             "title": "Non-contact Infant Sleep Apnea Detection",
             "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
