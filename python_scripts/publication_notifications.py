@@ -29,9 +29,10 @@ def publish_discord(title, venue, year, authors, doi, tags):
     }
     tag_string = ", ".join(tags)
     authors_string = ", ".join(authors)
+    venue_string = venue + "," + year
 
     embed = {"title": title, "color": "16735232", "fields": []}
-    embed['fields'].append({"name": "Venue", "value": venue})
+    embed['fields'].append({"name": "Published at", "value": venue_string})
     embed['fields'].append({"name": "Authors", "value": authors_string})
     embed['fields'].append({"name": "DOI", "value": doi})
     embed['fields'].append({"name": "Tags", "value": tag_string})

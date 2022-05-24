@@ -1,4 +1,4 @@
-name: Publications API
+name: Publication Notifications
 
 on:
   schedule:
@@ -28,7 +28,7 @@ jobs:
           pip install requests
 
 
-      - name: Send the notifications to Discord
+      - name: Send the notifications to Discord Webhook
         run: |
           cd ./python_scripts
           python3 publication_notificator.py
