@@ -22,7 +22,7 @@ ENDPOINT = "https://discord.com/api/webhooks/978648828565659678/yXTWwVlybPTrzdJ-
 
 def publish_discord(title, venue, year, authors, doi, tags):
     data = {
-        "content": "New research publication !",
+        "content": "A new research publication !",
         "username": "api.ce.pdn.ac.lk",
         "avatar_url": "https://api.ce.pdn.ac.lk/assets/img/bot_logo.png",
         "embeds": []
@@ -43,9 +43,11 @@ def publish_discord(title, venue, year, authors, doi, tags):
     print(response.status_code)
     print(response.content)
 
+# ------------------------------------------------------------------------------
 
 # Gather Publications API data
 publications_url = '../publications/v1/all/index.json'
+
 with open(publications_url, 'r') as f:
     publications = json.load(f)
 
@@ -62,10 +64,10 @@ with open(publications_url, 'r') as f:
         duration = today - created_time
 
         # This is a temp line for testing
-        publish_discord(title, venue, year, authors, doi, tags)
-        break; # Only one so far
+        # publish_discord(title, venue, year, authors, doi, tags)
+        # break; # Only one so far
 
         # The publication was submitted within last 24 hours, will send into the Discord Channel, 'publications'
         # TODO: Create a seperate Discord Channel
-        # if (duration.total_seconds() <= NOTIFICATION_THRESHOLD):
-        #     publish_discord(title, venue, year, authors, doi, tags)
+        if (duration.total_seconds() <= NOTIFICATION_THRESHOLD):
+            publish_discord(title, venue, year, authors, doi, tags)

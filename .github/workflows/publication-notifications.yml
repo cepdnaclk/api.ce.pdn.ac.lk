@@ -2,8 +2,8 @@ name: Publication Notifications
 
 on:
   schedule:
-    # # At 18:40 UTC on everyday (12.20 mid night in Sri Lanka)
-    - cron: "50 18 * * *"
+    # # At 0:30 UTC on everyday (6:00 AM in Sri Lanka)
+    - cron: "30 0 * * *"
 
   # Enables a button on Actions tab
   workflow_dispatch:
