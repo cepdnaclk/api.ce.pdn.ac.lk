@@ -62,6 +62,7 @@ with open(publications_url, 'r') as f:
         tags = pub['tags']
 
         duration = today - created_time
+        print(title, duration, duration.total_seconds())
 
         # This is a temp line for testing
         # publish_discord(title, venue, year, authors, doi, tags)
