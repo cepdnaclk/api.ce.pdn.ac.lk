@@ -9,9 +9,13 @@
 import requests
 import json
 import os
+from datetime import date, datetime
 
 from utility import getStudent
 from utility import getStaff
+
+# Use SL timezone
+os.environ['TZ'] = 'Asia/Colombo'
 
 # Where the API is available
 apiBase = "http://api.ce.pdn.ac.lk"
@@ -97,6 +101,7 @@ for line in pub_raw[1:]:
         print("Not supported: (", len(pub_raw_data), ')')
         continue
 
+    submitted_on =  datetime.strptime(pub_raw_data[TIMESTAMP], '%m/%d/%Y %H:%M:%S')
     authors = [x.strip() for x in pub_raw_data[AUTHORS].split(',')]
     author_ids = [x.strip() for x in pub_raw_data[AUTHOR_IDS].split(',')]
     research_groups = [x.strip() for x in pub_raw_data[RESEARCH_GROUPS].split(',')]
@@ -136,6 +141,7 @@ for line in pub_raw[1:]:
         "tags": tags,
         "funding": pub_raw_data[FUNDING],
         "api_url": api_url,
+        "submitted": datetime.strftime(submitted_on, "%Y/%m/%d %H:%M:%S")
     }
 
     # Write into an individual file

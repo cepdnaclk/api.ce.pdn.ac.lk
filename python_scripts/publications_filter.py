@@ -14,9 +14,6 @@ import os
 apiBase = "https://api.ce.pdn.ac.lk"
 apiIndex = apiBase + "/publications/"
 
-studentSource = apiBase + "/people/v1/students/all/"
-projectSource = apiBase + "/publications/v1/all/"
-
 student_author_dict = {}
 staff_author_dict = {}
 tag_dict = {}
