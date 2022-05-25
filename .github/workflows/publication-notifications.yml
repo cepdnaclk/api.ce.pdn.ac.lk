@@ -32,3 +32,6 @@ jobs:
           cd ./python_scripts
           python3 publication_notifications.py
           cd ../
+
+        env:
+          discord_webhook: ${{ secrets.PUBLICATIONAPI_WEBHOOK }}
