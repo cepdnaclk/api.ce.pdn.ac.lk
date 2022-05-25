@@ -13,10 +13,9 @@ today = datetime.now()
 # The time threshold considered for a notification generation
 NOTIFICATION_THRESHOLD = 60*60*24
 
+# Webhook URL is stored as a GitHub Secret, which will be loaded as a Environment Variable at runtime
+# https://github.com/cepdnaclk/api.ce.pdn.ac.lk/settings/secrets/actions
 ENDPOINT = os.environ['discord_webhook']
-
-# REM: This is a temporary one
-print(ENDPOINT)
 
 # ------------------------------------------------------------------------------
 
@@ -38,10 +37,16 @@ def publish_discord(title, venue, year, authors, doi, tags):
     embed['fields'].append({"name": "Tags", "value": tag_string})
 
     data['embeds'].append(embed)
-    print(json.dumps(data, indent = 4))
+    # print(json.dumps(data, indent = 4))
     response = requests.post(ENDPOINT, json=data)
-    print(response.status_code)
-    print(response.content)
+    # print(response.status_code)
+    # print(response.content)
+
+    if (response.status_code == 204):
+        print("\t Success")
+    else:
+        print("\t Error ! ", response.status_code, )
+        print(response.content)
 
 # ------------------------------------------------------------------------------
 
@@ -62,7 +67,7 @@ with open(publications_url, 'r') as f:
         tags = pub['tags']
 
         duration = today - created_time
-        print(">> ", title, duration, duration.total_seconds(), '\n')
+        print("\n>> ", title, duration, duration.total_seconds())
 
         # This is a temp line for testing
         # publish_discord(title, venue, year, authors, doi, tags)
