@@ -72,7 +72,7 @@ def getStaff(apiBase, staff_dict, email):
         name = person_from_api['name']
         email = person_from_api['email']
 
-        profile_url = person_from_api['profile_page'] if 'profile_page' in person_from_api else "#"
+        profile_url = person_from_api['profile_url'] if 'profile_url' in person_from_api else "#"
         profile_api = apiBase + apiBase + "/people/v1/staff/" + email_id
 
         staff = {

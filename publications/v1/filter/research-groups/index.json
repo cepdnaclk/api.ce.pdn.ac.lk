@@ -1,0 +1,164 @@
+{
+    "Computational BioEngineering": [
+        {
+            "title": "Non-contact Infant Sleep Apnea Detection",
+            "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2019",
+            "abstract": "Sleep apnea is a breathing disorder where a person repeatedly stops breathing in sleep. Early detection is crucial for infants because it might bring long term adversities. The existing accurate detection mechanism (pulse oximetry) is a skin contact measurement. The existing non-contact mechanisms (acoustics, video processing) are not accurate enough. This paper presents a novel algorithm for the detection of sleep apnea with video processing. The solution is non-contact, accurate and lightweight enough to run on a single board computer. The paper discusses the accuracy of the algorithm on real data, advantages of the new algorithm, its limitations and suggests future improvements.",
+            "authors": [
+                "Gihan Jayatilaka",
+                "Harshana Weligampola",
+                "Suren Sritharan",
+                "Pankayaraj Pathmanathan",
+                "Roshan Ragel",
+                "Isuru Nawinne"
+            ],
+            "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
+            "preprint": "#",
+            "pdf": "https://arxiv.org/pdf/1910.04725.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering",
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Sleep apnea",
+                "Video processing",
+                "Bio medical engineering",
+                "Pattern recognition"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/"
+        },
+        {
+            "title": "Genopo: a nanopore sequencing analysis toolkit for portable Android devices",
+            "venue": "Communications Biology",
+            "year": "2020",
+            "abstract": "The advent of portable nanopore sequencing devices has enabled DNA and RNA sequencing to be performed in the field or the clinic. However, advances in in situ genomics require parallel development of portable, offline solutions for the computational analysis of sequencing data. Here we introduce Genopo, a mobile toolkit for nanopore sequencing analysis. Genopo compacts popular bioinformatics tools to an Android application, enabling fully portable computation. To demonstrate its utility for in situ genome analysis, we use Genopo to determine the complete genome sequence of the human coronavirus SARS-CoV-2 in nine patient isolates sequenced on a nanopore device, with Genopo executing this workflow in less than 30\u00e2\u0080\u0089min per sample on a range of popular smartphones. We further show how Genopo can be used to profile DNA methylation in a human genome sample, illustrating a flexible, efficient architecture that is suitable to run many popular bioinformatics tools and accommodate small or large genomes. As the first ever smartphone application for nanopore sequencing analysis, Genopo enables the genomics community to harness this cheap, ubiquitous computational resource.",
+            "authors": [
+                "Hiruna Samarakoon",
+                "Sanoj Punchihewa",
+                "Anjana Senanayake",
+                "Jillian M. Hammond",
+                "Igor Stevanovski",
+                "James M. Ferguson",
+                "Roshan Ragel",
+                "Hasindu Gamaarachchi",
+                "Ira W. Deveson"
+            ],
+            "doi": "https://doi.org/10.1038/s42003-020-01270-z",
+            "preprint": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering"
+            ],
+            "funding": "MRFF grant APP1173594 (to I.W.D.), Cancer Institute NSW Early Career Fellowship 2018/ECF013 (to I.W.D.) and philanthropic support from The Kinghorn Foundation (to I.W.D. and H.G.).",
+            "tags": [
+                "Genopo",
+                "Nanopore Sequencing"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1038/s42003-020-01270-z/"
+        }
+    ],
+    "Computer Vision": [
+        {
+            "title": "A Retinex based GAN Pipeline to Utilize Paired and Unpaired Datasets for Enhancing Low Light Images",
+            "venue": "MERcon",
+            "year": "2020",
+            "abstract": "Low light image enhancement is an important challenge for the development of robust computer vision algorithms. The machine learning approaches to this have been either unsupervised, supervised based on paired dataset or supervised based on unpaired dataset. This paper presents a novel deep learning pipeline that can learn from both paired and unpaired datasets. Convolution Neural Networks (CNNs) that are optimized to minimize standard loss, and Generative Adversarial Networks (GANs) that are optimized to minimize the adversarial loss are used to achieve different steps of the low light image enhancement process. Cycle consistency loss and a patched discriminator are utilized to further improve the performance. The paper also analyses the functionality and the performance of different components, hidden layers, and the entire pipeline.",
+            "authors": [
+                "Harshana Weligampola",
+                "Gihan Jayatilaka",
+                "Suren Sritharan",
+                "Roshan Goldaliyadda",
+                "Parakrama Ekanayeka",
+                "Roshan Ragel",
+                "Vijitha Herath"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185373",
+            "preprint": "#",
+            "pdf": "https://arxiv.org/pdf/2006.15304.pdf",
+            "presentation": "https://www.cs.umd.edu/~gihan/projects/fyp/mercon-2020-presentation.pdf",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Low-light image enhancement",
+                "Retinex theory",
+                "Generative adversarial networks",
+                "Cycle consistency",
+                "Computer Vision"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185373/"
+        },
+        {
+            "title": "Non-contact Infant Sleep Apnea Detection",
+            "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2019",
+            "abstract": "Sleep apnea is a breathing disorder where a person repeatedly stops breathing in sleep. Early detection is crucial for infants because it might bring long term adversities. The existing accurate detection mechanism (pulse oximetry) is a skin contact measurement. The existing non-contact mechanisms (acoustics, video processing) are not accurate enough. This paper presents a novel algorithm for the detection of sleep apnea with video processing. The solution is non-contact, accurate and lightweight enough to run on a single board computer. The paper discusses the accuracy of the algorithm on real data, advantages of the new algorithm, its limitations and suggests future improvements.",
+            "authors": [
+                "Gihan Jayatilaka",
+                "Harshana Weligampola",
+                "Suren Sritharan",
+                "Pankayaraj Pathmanathan",
+                "Roshan Ragel",
+                "Isuru Nawinne"
+            ],
+            "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
+            "preprint": "#",
+            "pdf": "https://arxiv.org/pdf/1910.04725.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering",
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Sleep apnea",
+                "Video processing",
+                "Bio medical engineering",
+                "Pattern recognition"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/"
+        }
+    ],
+    "Machine Learning and Data Mining": [
+        {
+            "title": "Chronic kidney disease prediction using machine learning methods",
+            "venue": "2020 Moratuwa Engineering Research Conference (MERCon) - IEEE",
+            "year": "2020",
+            "abstract": "Chronic Kidney Disease (CKD) or chronic renal disease has become a major issue with a steady growth rate. A person can only survive without kidneys for an average time of 18 days, which makes a huge demand for a kidney transplant and Dialysis. It is important to have effective methods for early prediction of CKD. Machine learning methods are effective in CKD prediction. This work proposes a workflow to predict CKD status based on clinical data, incorporating data prepossessing, a missing value handling method with collaborative filtering and attributes selection. Out of the 11 machine learning methods considered, the extra tree classifier and random forest classifier are shown to result in the highest accuracy and minimal bias to the attributes. The research also considers the practical aspects of data collection and highlights the importance of incorporating domain knowledge when using machine learning for CKD status prediction.",
+            "authors": [
+                "Imesh Udara Ekanayake; Damayanthi Herath"
+            ],
+            "doi": " https://doi.org/10.1109/MERCon50084.2020.9185249",
+            "preprint": "https://www.researchgate.net/profile/Imesh-Ekanayake/publication/344319206_Chronic_Kidney_Disease_Prediction_Using_Machine_Learning_Methods/links/5f672571458515b7cf418d5b/Chronic-Kidney-Disease-Prediction-Using-Machine-Learning-Methods.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Machine Learning and Data Mining"
+            ],
+            "funding": "",
+            "tags": [
+                "Kidney",
+                "Diseases",
+                "Machine learning",
+                "Red blood cells",
+                "Hypertension"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/ 10.1109/MERCon50084.2020.9185249/"
+        }
+    ]
+}

@@ -18,7 +18,7 @@ from utility import getStaff
 os.environ['TZ'] = 'Asia/Colombo'
 
 # Where the API is available
-apiBase = "http://api.ce.pdn.ac.lk"
+apiBase = "https://api.ce.pdn.ac.lk"
 
 # Where this API locates
 apiIndex = 'https://api.ce.pdn.ac.lk/publications/v1'

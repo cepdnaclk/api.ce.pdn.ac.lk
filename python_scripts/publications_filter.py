@@ -17,6 +17,7 @@ apiIndex = apiBase + "/publications/"
 student_author_dict = {}
 staff_author_dict = {}
 tag_dict = {}
+research_group_dict = {}
 
 # Gather Student API data
 students_url = '../people/v1/students/all/index.json'
@@ -31,7 +32,7 @@ with open(publications_url, 'r') as f:
 for pub in publications:
 
     # read the publication information from the publication's index file
-    filename = pub['api_url'].replace('http://api.ce.pdn.ac.lk', '..') + "index.json"
+    filename = pub['api_url'].replace('https://api.ce.pdn.ac.lk', '..') + "index.json"
     pub_data = json.load(open(filename, "r"))
 
     # Prepare a subset of the publication data
@@ -77,6 +78,14 @@ for pub in publications:
                 if tag not in tag_dict: tag_dict[tag] = []
                 tag_dict[tag].append(pub_info)
 
+    if 'research_groups' in pub_data:
+        for tag in pub_data['research_groups']:
+            if tag !="":
+                if tag not in research_group_dict: research_group_dict[tag] = []
+                research_group_dict[tag].append(pub_info)
+
+    # TODO: implement an aPI to get publications by research group
+
 # ------------------------------------------------------------------------------
 # Students
 students_sorted = {}
@@ -113,3 +122,15 @@ tagFilter_filename = "../publications/v1/filter/tags/index.json"
 os.makedirs(os.path.dirname(tagFilter_filename), exist_ok=True)
 with open(tagFilter_filename, "w") as f:
     f.write(json.dumps(tag_dict_sorted, indent = 4))
+
+# ------------------------------------------------------------------------------
+# Research groups
+
+research_group_dict_sorted = {}
+for key in sorted(research_group_dict):
+    research_group_dict_sorted[key] = research_group_dict[key]
+
+researchGroupFilter_filename = "../publications/v1/filter/research-groups/index.json"
+os.makedirs(os.path.dirname(researchGroupFilter_filename), exist_ok=True)
+with open(researchGroupFilter_filename, "w") as f:
+    f.write(json.dumps(research_group_dict_sorted, indent = 4))
