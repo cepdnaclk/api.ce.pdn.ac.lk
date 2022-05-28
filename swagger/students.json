@@ -1,283 +1,294 @@
 {
-    "swagger" : "2.0",
-    "info" : {
-      "description" : "This API can be used to obtain the information of the students in the Department of Computer Engineering, Univeristy of Peradeniya",
-      "version" : "1.0.0",
-      "title" : "Student API",
-      "contact" : {
-        "email" : "nuwanjaliyagoda@eng.pdn.ac.lk"
-      }
-    },
-    "tags" : [ ],
-    "paths" : {
-      "/students" : {
-        "get" : {
-          "summary" : "Retuns a list of available batches",
-          "description" : "",
-          "operationId" : "getBatches",
-          "produces" : [ "application/json" ],
-          "parameters" : [ ],
-          "responses" : {
-            "200" : {
-              "description" : "successful request",
-              "schema" : {
-                "$ref" : "#/definitions/BatchList"
-              }
-            }
-          }
-        }
-      },
-      "/students/{batchId}" : {
-        "get" : {
-          "summary" : "Student List",
-          "description" : "Can get the list of ENumbers of the student in the specified batch",
-          "operationId" : "getStudentsByBatch",
-          "produces" : [ "application/json" ],
-          "parameters" : [ {
-            "name" : "batchId",
-            "in" : "path",
-            "description" : "Batch ID, 'E' Should be capital",
-            "required" : true,
-            "type" : "string"
-          } ],
-          "responses" : {
-            "200" : {
-              "description" : "successful request",
-              "schema" : {
-                "$ref" : "#/definitions/StudentList"
-              }
-            },
-            "404" : {
-              "description" : "Invalid BatchID supplied"
-            }
-          }
-        }
-      },
-      "/students/{batchId}/{regNumber}" : {
-        "get" : {
-          "summary" : "Student details",
-          "description" : "Can obtain the details of a specific student by using this API",
-          "operationId" : "getStudentByENumber",
-          "produces" : [ "application/json" ],
-          "parameters" : [ {
-            "name" : "batchId",
-            "in" : "path",
-            "description" : "Batch ID, 'E' Should be capital",
-            "required" : true,
-            "type" : "string"
-          }, {
-            "name" : "regNumber",
-            "in" : "path",
-            "description" : "Student register number",
-            "required" : true,
-            "type" : "string"
-          } ],
-          "responses" : {
-            "200" : {
-              "description" : "successful request",
-              "schema" : {
-                "$ref" : "#/definitions/Student"
-              }
-            },
-            "404" : {
-              "description" : "Invalid BatchID supplied"
+  "swagger" : "2.0",
+  "info" : {
+    "description" : "This API can be used to obtain the information of the students in the Department of Computer Engineering, University of Peradeniya",
+    "version" : "v1",
+    "title" : "Student API",
+    "contact" : {
+      "email" : "nuwanjaliyagoda@eng.pdn.ac.lk"
+    }
+  },
+  "tags" : [ ],
+  "paths" : {
+    "/people/students/" : {
+      "get" : {
+        "description" : "Retuns a list of available batches",
+        "operationId" : "getBatches",
+        "produces" : [ "application/json" ],
+        "parameters" : [ ],
+        "responses" : {
+          "200" : {
+            "description" : "successful request",
+            "schema" : {
+              "$ref" : "#/definitions/BatchList"
             }
           }
         }
       }
     },
-    "definitions" : {
-      "BatchList" : {
-        "type" : "object",
-        "properties" : {
-          "batch" : {
-            "type" : "string",
-            "pattern" : "^E\\d{2}$",
-            "description" : "Batch ID, 'E' Should be capital"
-          },
-          "url" : {
-            "type" : "string",
-            "format" : "uri",
-            "description" : "The URI of the API to  get the list of students belong to that batch"
-          },
-          "count" : {
-            "type" : "number",
-            "minimum" : 0,
-            "description" : "The number of students in that batch"
-          }
-        },
-        "example" : {
-          "E15" : {
-            "batch" : "E15",
-            "url" : "https://api.ce.pdn.ac.lk/people/v1/students/E15/",
-            "count" : 60
-          },
-          "E14" : {
-            "batch" : "E14",
-            "url" : "https://api.ce.pdn.ac.lk/people/v1/students/E14/",
-            "count" : 62
-          }
-        }
-      },
-      "Email" : {
-        "type" : "object",
-        "description" : "Email address, in format name@domain",
-        "properties" : {
-          "name" : {
-            "type" : "string"
-          },
-          "domain" : {
-            "type" : "string"
-          }
-        }
-      },
-      "Student" : {
-        "type" : "object",
-        "properties" : {
-          "eNumber" : {
-            "type" : "string",
-            "pattern" : "^E/\\d{2}/\\d{3}$",
-            "description" : "E Number of the student"
-          },
-          "batch" : {
-            "type" : "string",
-            "pattern" : "^E\\d{2}$",
-            "description" : "The prefix of the batch, 'E' Should be capital"
-          },
-          "honorific" : {
-            "type" : "string",
-            "enum" : [ "Mr.", "Ms.", "Mrs." ],
-            "description" : "Title"
-          },
-          "full_name" : {
-            "type" : "string"
-          },
-          "name_with_initials" : {
-            "type" : "string"
-          },
-          "preferred_short_name" : {
-            "type" : "string"
-          },
-          "preferred_long_name" : {
-            "type" : "string"
-          },
-          "emails" : {
-            "type" : "object",
-            "properties" : {
-              "personal" : {
-                "description" : "Personal email address",
-                "allOf" : [ {
-                  "$ref" : "#/definitions/Email"
-                } ]
-              },
-              "faculty" : {
-                "description" : "Faculty email address",
-                "allOf" : [ {
-                  "$ref" : "#/definitions/Email"
-                } ]
-              }
+    "/people/students/{batchId}/" : {
+      "get" : {
+        "description" : "Can get the list of eNumbers of the student in a specified batch",
+        "operationId" : "getStudentsByBatch",
+        "produces" : [ "application/json" ],
+        "parameters" : [ {
+          "name" : "batchId",
+          "in" : "path",
+          "description" : "Batch ID, 'E' Should be capital",
+          "required" : true,
+          "type" : "string"
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "successful request",
+            "schema" : {
+              "$ref" : "#/definitions/StudentList"
             }
           },
-          "location" : {
-            "type" : "string",
-            "description" : "Hometown of the student"
-          },
-          "profile_image" : {
-            "type" : "string",
-            "format" : "uri",
-            "description" : "Link to the profile image of the student"
-          },
-          "urls" : {
-            "type" : "object",
-            "properties" : {
-              "cv" : {
-                "type" : "string",
-                "format" : "uri",
-                "description" : "Link to the CV in PDF format"
-              },
-              "website" : {
-                "type" : "string",
-                "format" : "uri",
-                "description" : "Link of the student's personal website"
-              },
-              "linkedin" : {
-                "type" : "string",
-                "format" : "uri",
-                "description" : "LinkedIn profile URL"
-              },
-              "github" : {
-                "type" : "string",
-                "format" : "uri",
-                "description" : "GitHub profile URL"
-              },
-              "researchgate" : {
-                "type" : "string",
-                "format" : "uri",
-                "description" : "Researchgate profile URL"
-              },
-              "facebook" : {
-                "type" : "string",
-                "format" : "uri",
-                "description" : "Facebook profile URL"
-              },
-              "twitter" : {
-                "type" : "string",
-                "format" : "uri",
-                "description" : "Twitter profile URL"
-              }
-            }
+          "404" : {
+            "description" : "Invalid BatchID supplied"
           }
+        }
+      }
+    },
+    "/people/students/{batchId}/{regNumber}/" : {
+      "get" : {
+        "summary" : "Student details",
+        "description" : "Can obtain the details of a specific student by using this API",
+        "operationId" : "getStudentByENumber",
+        "produces" : [ "application/json" ],
+        "parameters" : [ {
+          "name" : "batchId",
+          "in" : "path",
+          "description" : "Batch ID, 'E' Should be capital",
+          "required" : true,
+          "type" : "string"
+        }, {
+          "name" : "regNumber",
+          "in" : "path",
+          "description" : "Student register number",
+          "required" : true,
+          "type" : "string"
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "successful request",
+            "schema" : {
+              "$ref" : "#/definitions/Student"
+            }
+          },
+          "404" : {
+            "description" : "Invalid batchID supplied"
+          }
+        }
+      }
+    }
+  },
+  "definitions" : {
+    "BatchList" : {
+      "type" : "object",
+      "properties" : {
+        "batch" : {
+          "type" : "string",
+          "pattern" : "^E\\d{2}$",
+          "description" : "Batch ID, 'E' Should be capital"
         },
-        "example" : {
-          "eNumber" : "E/15/999",
+        "url" : {
+          "type" : "string",
+          "format" : "uri",
+          "description" : "The URI of the API to get the list of students belong to that batch"
+        },
+        "count" : {
+          "type" : "number",
+          "minimum" : 0,
+          "description" : "The number of students in that batch"
+        }
+      },
+      "example" : {
+        "E15" : {
           "batch" : "E15",
-          "honorific" : "Mr.",
-          "full_name" : "Herath Mudiyanselage Amal Herath",
-          "name_with_initials" : "Herath H.M.A.",
-          "preferred_short_name" : "Amal",
-          "preferred_long_name" : "Amal Herath",
-          "emails" : {
+          "url" : "https://api.ce.pdn.ac.lk/people/v1/students/E15/",
+          "count" : 60
+        },
+        "E14" : {
+          "batch" : "E14",
+          "url" : "https://api.ce.pdn.ac.lk/people/v1/students/E14/",
+          "count" : 62
+        }
+      }
+    },
+    "Email" : {
+      "type" : "object",
+      "description" : "Email address, in format name@domain",
+      "properties" : {
+        "name" : {
+          "type" : "string"
+        },
+        "domain" : {
+          "type" : "string"
+        }
+      }
+    },
+    "Student" : {
+      "type" : "object",
+      "properties" : {
+        "eNumber" : {
+          "type" : "string",
+          "pattern" : "^E/\\d{2}/\\d{3}$",
+          "description" : "E Number of the student"
+        },
+        "batch" : {
+          "type" : "string",
+          "pattern" : "^E\\d{2}$",
+          "description" : "The prefix of the batch, 'E' Should be capital"
+        },
+        "honorific" : {
+          "type" : "string",
+          "enum" : [ "Mr.", "Ms.", "Mrs." ],
+          "description" : "Title"
+        },
+        "full_name" : {
+          "type" : "string"
+        },
+        "name_with_initials" : {
+          "type" : "string"
+        },
+        "preferred_short_name" : {
+          "type" : "string"
+        },
+        "preferred_long_name" : {
+          "type" : "string"
+        },
+        "emails" : {
+          "type" : "object",
+          "properties" : {
             "personal" : {
-              "name" : "amal96",
-              "domain" : "gmail.com"
+              "description" : "Personal email address",
+              "allOf" : [ {
+                "$ref" : "#/definitions/Email"
+              } ]
             },
             "faculty" : {
-              "name" : "e15999",
-              "domain" : "eng.pdn.ac.lk"
-            },
-            "location" : {
-              "profile_image" : "https://cepdnaclk.github.io/people.ce.pdn.ac.lk/images/students/e15/e15999.jpg"
-            },
-            "urls" : {
-              "cv" : "https://amalherath.com/cv.pdf",
-              "website" : "https://amalherath.com/",
-              "linkedin" : "https://www.linkedin.com/in/amal-herath/",
-              "github" : "https://github.com/AmalH/",
-              "facebook" : "#",
-              "researchgate" : "#",
-              "twitter" : "#"
+              "description" : "Faculty email address",
+              "allOf" : [ {
+                "$ref" : "#/definitions/Email"
+              } ]
             }
           }
-        }
-      },
-      "StudentList" : {
-        "type" : "object",
-        "properties" : {
-          "url" : {
-            "type" : "string",
-            "format" : "uri"
+        },
+        "location" : {
+          "type" : "string",
+          "description" : "Hometown of the student"
+        },
+        "interests" : {
+          "type" : "array",
+          "items" : {
+            "type" : "string"
+          },
+          "description" : "Computer Engineering related interests of the student"
+        },
+        "profile_image" : {
+          "type" : "string",
+          "format" : "uri",
+          "description" : "Link to the profile image of the student"
+        },
+        "urls" : {
+          "type" : "object",
+          "properties" : {
+            "cv" : {
+              "type" : "string",
+              "format" : "uri",
+              "description" : "Link to the CV in PDF format"
+            },
+            "website" : {
+              "type" : "string",
+              "format" : "uri",
+              "description" : "Link of the student's personal website"
+            },
+            "linkedin" : {
+              "type" : "string",
+              "format" : "uri",
+              "description" : "LinkedIn profile URL"
+            },
+            "github" : {
+              "type" : "string",
+              "format" : "uri",
+              "description" : "GitHub profile URL"
+            },
+            "facebook" : {
+              "type" : "string",
+              "format" : "uri",
+              "description" : "Facebook profile URL"
+            },
+            "researchgate" : {
+              "type" : "string",
+              "format" : "uri",
+              "description" : "Researchgate profile URL"
+            },
+            "twitter" : {
+              "type" : "string",
+              "format" : "uri",
+              "description" : "Twitter profile URL"
+            }
           }
         },
-        "example" : {
-          "E/15/000" : {
-            "url" : "https://api.ce.pdn.ac.lk/people/v1/students/E15/000"
+        "profile_page" : {
+          "type" : "string",
+          "format" : "uri",
+          "description" : "Link to the profile page of the student"
+        }
+      },
+      "example" : {
+        "eNumber" : "E/99/999",
+        "batch" : "E99",
+        "honorific" : "Mr.",
+        "full_name" : "John Doe",
+        "name_with_initials" : "Doe J.",
+        "preferred_short_name" : "John",
+        "preferred_long_name" : "John Doe",
+        "emails" : {
+          "personal" : {
+            "name" : "johndoe",
+            "domain" : "gmail.com"
           },
-          "E/15/999" : {
-            "url" : "https://api.ce.pdn.ac.lk/people/v1/students/E15/999"
-          }
+          "faculty" : {
+            "name" : "e19999",
+            "domain" : "eng.pdn.ac.lk"
+          },
+          "location" : "Sri Lanka",
+          "interests" : [ "Computer Architecture", "Machine Learning" ],
+          "profile_image" : "https://people.ce.pdn.ac.lk/images/students/e99/e99999.jpg",
+          "urls" : {
+            "cv" : "https://johndoe.com/cv.pdf",
+            "website" : "https://johndoe.com/",
+            "linkedin" : "https://www.linkedin.com/in/john-doe/",
+            "github" : "https://github.com/JohnDoe/",
+            "facebook" : "#",
+            "researchgate" : "#",
+            "twitter" : "#"
+          },
+          "profile_page" : "https://people.ce.pdn.ac.lk/students/e99/999/"
         }
       }
     },
+    "StudentList" : {
+      "type" : "object",
+      "properties" : {
+        "url" : {
+          "type" : "string",
+          "format" : "uri"
+        }
+      },
+      "example" : {
+        "E/99/998" : {
+          "url" : "https://api.ce.pdn.ac.lk/people/v1/students/E99/998"
+        },
+        "E/99/999" : {
+          "url" : "https://api.ce.pdn.ac.lk/people/v1/students/E99/999"
+        }
+      }
+    }
+  },
    "host":"api.ce.pdn.ac.lk/",
    "basePath":"people/v1/"
 }
