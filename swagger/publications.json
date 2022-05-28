@@ -322,5 +322,6 @@
     }
   },
   "host":"api.ce.pdn.ac.lk/",
+  "schemes" : [ "https" ],
   "basePath":"publications/v1/"
 }

@@ -10,7 +10,7 @@
   },
   "tags" : [ ],
   "paths" : {
-    "/people/students/" : {
+    "/" : {
       "get" : {
         "description" : "Retuns a list of available batches",
         "operationId" : "getBatches",
@@ -26,7 +26,7 @@
         }
       }
     },
-    "/people/students/{batchId}/" : {
+    "/{batchId}/" : {
       "get" : {
         "description" : "Can get the list of eNumbers of the student in a specified batch",
         "operationId" : "getStudentsByBatch",
@@ -51,7 +51,7 @@
         }
       }
     },
-    "/people/students/{batchId}/{regNumber}/" : {
+    "/{batchId}/{regNumber}/" : {
       "get" : {
         "summary" : "Student details",
         "description" : "Can obtain the details of a specific student by using this API",
@@ -290,5 +290,6 @@
     }
   },
    "host":"api.ce.pdn.ac.lk/",
-   "basePath":"people/v1/"
+   "schemes" : [ "https" ],
+   "basePath":"people/v1/students/"
 }

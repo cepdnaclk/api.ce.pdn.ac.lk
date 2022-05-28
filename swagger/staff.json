@@ -1,0 +1,142 @@
+{
+  "swagger" : "2.0",
+  "info" : {
+    "description" : "This API can be used to obtain the information of the staff members in the Department of Computer Engineering, University of Peradeniya",
+    "version" : "v1",
+    "title" : "Staff API",
+    "contact" : {
+      "email" : "nuwanjaliyagoda@eng.pdn.ac.lk"
+    }
+  },
+  "tags" : [ ],
+  "paths" : {
+    "/" : {
+      "get" : {
+        "operationId" : "allStaffMembers",
+        "description" : "List of all the staff members with the API endpoints of each",
+        "produces" : [ "application/json" ],
+        "responses" : {
+          "200" : {
+            "description" : "Success",
+            "schema" : {
+              "type" : "array",
+              "items" : {
+                "$ref" : "#/definitions/StaffEndpoint"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/{staffMemberId}/" : {
+      "get" : {
+        "operationId" : "staffMember",
+        "description" : "List of all the staff members with the API endpoints of each",
+        "produces" : [ "application/json" ],
+        "parameters" : [ {
+          "name" : "staffMemberId",
+          "in" : "path",
+          "description" : "Username part of the faculty GSuit email of the staff member",
+          "required" : true,
+          "type" : "string"
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "Success",
+            "schema" : {
+              "$ref" : "#/definitions/StaffDetails"
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitions" : {
+    "StaffEndpoint" : {
+      "type" : "object",
+      "properties" : {
+        "name" : {
+          "type" : "string",
+          "example" : "Jane Doe"
+        },
+        "url" : {
+          "type" : "string",
+          "format" : "uri",
+          "example" : "https://api.ce.pdn.ac.lk/people/v1/staff/jane-doe/"
+        }
+      }
+    },
+    "StaffDetails" : {
+      "required" : [ "name", "designation", "email" ],
+      "properties" : {
+        "name" : {
+          "type" : "string"
+        },
+        "designation" : {
+          "type" : "string"
+        },
+        "email" : {
+          "type" : "string",
+          "format" : "email"
+        },
+        "profile_url" : {
+          "type" : "string",
+          "format" : "uri"
+        },
+        "profile_image" : {
+          "type" : "string",
+          "format" : "uri"
+        },
+        "urls" : {
+          "type" : "object",
+          "properties" : {
+            "linkedin" : {
+              "type" : "string",
+              "format" : "uri"
+            },
+            "google_scholar" : {
+              "type" : "string",
+              "format" : "uri"
+            },
+            "researchgate" : {
+              "type" : "string",
+              "format" : "uri"
+            },
+            "website" : {
+              "type" : "string",
+              "format" : "uri"
+            },
+            "orcid" : {
+              "type" : "string",
+              "format" : "uri"
+            }
+          }
+        },
+        "research_interests" : {
+          "type" : "array",
+          "items" : {
+            "type" : "string"
+          }
+        }
+      },
+      "example" : {
+        "name" : "Jane Doe",
+        "designation" : "Senior Lecturer",
+        "email" : "janedoe@eng.pdn.ac.lk",
+        "profile_url" : "https://people.ce.pdn.ac.lk/staff/academic/jane-doe/",
+        "profile_image" : "https://people.ce.pdn.ac.lk/images/staff/academic-staff/jane-doe.jpg",
+        "urls" : {
+          "linkedin" : "https://www.linkedin.com/in/jane-doe/",
+          "google_scholar" : "https://scholar.google.com/citations?user=UserID&hl=en",
+          "researchgate" : "https://www.researchgate.net/profile/Jane-Doe",
+          "website" : "https://janedoe.com/",
+          "orcid" : "https://orcid.org/0000-0000-0000-0000"
+        },
+        "research_interests" : [ "Computer Architecture", "Machine Learning" ]
+      }
+    }
+  },
+  "host":"api.ce.pdn.ac.lk/",
+  "schemes" : [ "https" ],
+  "basePath":"people/v1/staff"
+}
