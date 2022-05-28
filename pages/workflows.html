@@ -1,0 +1,127 @@
+---
+layout: page
+title: Action Workflows
+permalink: /workflows/
+---
+
+<h2>Action Workflows</h2>
+
+<!-- projects.ce.pdn.ac.lk -->
+<h3>projects.ce.pdn.ac.lk</h3>
+<h5>
+    Build and Deploy
+    <img src="https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/scheduled-deploy.yml/badge.svg" alt="Build and Deploy">
+</h5>
+<ul>
+    <li>Build Time: Daily 12.00 Mid Night (+5:30 timezone)</li>
+    <li>Action Link: <a href="https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/scheduled-deploy.yml">https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/scheduled-deploy.yml</a></li>
+
+    <li>
+        Tasks:
+        <ul>
+            <li>Obtain the Project information from GitHub</li>
+            <li>Update the "<i>Latest Projects</i>" list</li>
+            <li>Update the "<i>Popular Projects</i>" list</li>
+        </ul>
+    </li>
+</ul>
+
+<h5>
+    Collect Dynamic Data
+    <img src="https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/dynamic-data.yml/badge.svg" alt="Collect Dynamic Data">
+</h5>
+<ul>
+    <li>Build Time: Weekly Every Sunday, 11.50 PM (+5:30 timezone)</li>
+    <li>Action Link: <a href="https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/dynamic-data.yml">https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/dynamic-data.yml</a></li>
+
+    <li>
+        Tasks:
+        <ul>
+            <li>Obtain the Project information from Projects API (api.ce.pdn.ac.lk/projects/v1)</li>
+            <li>Update the Project Tag information</li>
+        </ul>
+    </li>
+</ul>
+
+
+
+<!-- people.ce.pdn.ac.lk -->
+<h3>people.ce.pdn.ac.lk</h3>
+
+<h5>
+    Update Profile Details
+    <img src="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/daily.yml/badge.svg" alt="">
+</h5>
+
+<ul>
+    <li>Build Time: Daily 12.00 Mid Night (+5:30 timezone)</li>
+    <li>Action Link: <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/daily.yml">https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/daily.yml</a></li>
+
+    <li>
+        Tasks:
+        <ul>
+            <li>Update Student Profiles from Google Form</li>
+            <li>Download Academic Staff pages from Google Drive</li>
+            <li>Generate Performance Badges for the students</li>
+        </ul>
+    </li>
+</ul>
+
+<h5>
+    Update Project and Publication Details
+    <img src="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/update_projects_n_publications.yml/badge.svg" alt="">
+</h5>
+
+<ul>
+    <li>Build Time: Daily 12.10 AM (+5:30 timezone)</li>
+    <li>Action Link: <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/update_projects_n_publications.yml">https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/update_projects_n_publications.yml</a></li>
+
+    <li>
+        Tasks:
+        <ul>
+            <li>Update Student Project Details</li>
+            <li>Update Student/Staff Publication Details</li>
+        </ul>
+    </li>
+</ul>
+
+
+<!-- api.ce.pdn.ac.lk -->
+<h3>api.ce.pdn.ac.lk</h3>
+
+<h5>
+    Daily Build
+    <img src="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/daily.yml/badge.svg" alt="">
+</h5>
+
+<ul>
+    <li>Build Time: Daily 12.20 AM (+5:30 timezone)</li>
+    <li>Action Link: <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/daily.yml">https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/daily.yml</a></li>
+
+    <li>
+        Tasks:
+        <ul>
+            <li>Generate Student API files</li>
+            <li>Generate Academic Staff API files</li>
+        </ul>
+    </li>
+</ul>
+
+<h5>
+    Publications API
+    <img src="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/publications-api.yml/badge.svg" alt="">
+</h5>
+
+<ul>
+    <li>Build Time: Daily 6.00 AM (+5:30 timezone)</li>
+    <li>Action Link: <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/publications-api.yml">https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/publications-api.yml</a></li>
+
+    <li>
+        Tasks:
+        <ul>
+            <li>Generate Publication files</li>
+            <li>Generate filtered Publication lists</li>
+            <li>Send the notifications to Discord Webhook</li>
+        </ul>
+    </li>
+</ul>

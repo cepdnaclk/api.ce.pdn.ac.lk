@@ -1,9 +1,9 @@
-name: People API
+name: Daily Build
 
 on:
   schedule:
-    # # At 18:30 UTC on everyday (12.00 mid night in Sri Lanka)
-    - cron: "30 18 * * *"
+    # # At 18:50 UTC on everyday (12.20 mid night in Sri Lanka)
+    - cron: "50 18 * * *"
 
   # Enables a button on Actions tab
   workflow_dispatch:
@@ -28,17 +28,36 @@ jobs:
           pip install requests
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: Generate Student API files
+
+
+      - name: Students API: Generate Student API files
         run: |
           cd ./python_scripts
           python3 students.py
           cd ../
 
-      - name: Generate Academic Staff API files
+      - name: Staff API: Generate Academic Staff API files
         run: |
           cd ./python_scripts
           python3 staff.py
           cd ../
+
+
+
+      - name: Projects API: Generate Project files
+        run: |
+          cd ./python_scripts
+          python3 projects.py
+          cd ../
+
+      - name: Projects API: Filter the Projects by Student ENumbers and Tags
+        run: |
+          cd ./python_scripts
+          python3 projects_filters.py
+          cd ../
+
+
+
 
       - name: Commit and push into the main branch
         run: |

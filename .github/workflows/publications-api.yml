@@ -2,7 +2,7 @@ name: Publications API
 
 on:
   schedule:
-    # # At 0:30 UTC on everyday (x:00 AM in Sri Lanka)
+    # # At 0:30 UTC on everyday (6:00 AM in Sri Lanka)
     - cron: "30 0 * * *"
 
   # Enables a button on Actions tab
