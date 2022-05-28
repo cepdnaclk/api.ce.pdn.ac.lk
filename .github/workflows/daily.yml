@@ -30,13 +30,13 @@ jobs:
 
 
 
-      - name: Students API: Generate Student API files
+      - name: "Students API: Generate Student API files"
         run: |
           cd ./python_scripts
           python3 students.py
           cd ../
 
-      - name: Staff API: Generate Academic Staff API files
+      - name: "Staff API: Generate Academic Staff API files"
         run: |
           cd ./python_scripts
           python3 staff.py
@@ -44,13 +44,13 @@ jobs:
 
 
 
-      - name: Projects API: Generate Project files
+      - name: "Projects API: Generate Project files"
         run: |
           cd ./python_scripts
           python3 projects.py
           cd ../
 
-      - name: Projects API: Filter the Projects by Student ENumbers and Tags
+      - name: "Projects API: Filter the Projects by Student ENumbers and Tags"
         run: |
           cd ./python_scripts
           python3 projects_filters.py
