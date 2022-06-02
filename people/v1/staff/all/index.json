@@ -19,13 +19,23 @@
         ]
     },
     "amilaindika": {
-        "name": "Amila Indika",
-        "designation": "System Administrator",
+        "name": "Mr. Amila Indika",
+        "designation": "Lecturer",
         "email": "amilaindika@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk/students/e14/142",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/amila.jpg",
-        "urls": {},
-        "research_interests": {}
+        "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/amila-indika/",
+        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/amila-indika.jpg",
+        "urls": {
+            "linkedin": "",
+            "google_scholar": "",
+            "researchgate": "",
+            "website": "",
+            "orcid": ""
+        },
+        "research_interests": [
+            "Applied Machine Learning",
+            "Time-series Analysis",
+            "Mathematics"
+        ]
     },
     "anj.wanigarathne": {
         "name": "Anjalee Wanigarathne",
@@ -63,7 +73,9 @@
             "Wireless Networking",
             "IoT",
             "Artificial Intelligence",
-            "Bioinformatics"
+            "Bioinformatics",
+            "Computer Networks",
+            "Wireless Mesh Networking"
         ]
     },
     "chathurimalee": {
@@ -113,7 +125,13 @@
             "Verification of Complex Reactive Systems",
             "Distributed Supervisory Control",
             "Integrated Manufacturing Systems",
-            "Testing Automotive Systems"
+            "Testing Automotive Systems",
+            "Formal Verification &amp; Validation",
+            "Agile/Holonic/Flexible Manufacturing",
+            "Shop Floor Control Systems",
+            "Industrial/Process Automation: PLC and PLD based",
+            "Fault Diagnosis",
+            "Enterprise Modelling/Integration"
         ]
     },
     "dhammika": {
@@ -132,7 +150,8 @@
         "research_interests": [
             "Operating Systems",
             "Embedded Systems",
-            "Formal Verification"
+            "Formal Verification",
+            "GPU programming"
         ]
     },
     "dilshanik": {
@@ -168,8 +187,9 @@
         },
         "research_interests": [
             "Computer Architecture",
-            "FPGA-based Acceleration",
-            "Multi-Agent Systems",
+            "Design Automation of Microprocessor Systems",
+            "FPGA-based hardware acceleration",
+            "Robotics and Multi-agent Intelligent Systems",
             "Biomedical Engineering"
         ]
     },
@@ -196,10 +216,12 @@
             "orcid": ""
         },
         "research_interests": [
-            "Data Accqusistion and Computer Interfacing",
-            "Supevisory Control",
-            "Power System Control",
-            "Image Processing"
+            "Supervisory Control and Data Acquisition",
+            "Computer Control in Power Systems",
+            "Industrial Control Systems and Smart Systems",
+            "Mobile Applications for Education",
+            "Image Processing",
+            "Data Mining in Power System Operation"
         ]
     },
     "kc43224jayasinghe": {
@@ -217,6 +239,15 @@
         "email": "kesharaw@eng.pdn.ac.lk",
         "profile_url": "https://people.ce.pdn.ac.lk/students/e15/383",
         "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/keshara.jpg",
+        "urls": {},
+        "research_interests": {}
+    },
+    "lankaniperera": {
+        "name": "Poornima Lankani",
+        "designation": "Temporary Instructor",
+        "email": "lankaniperera@eng.pdn.ac.lk",
+        "profile_url": "https://people.ce.pdn.ac.lk/",
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
         "urls": {},
         "research_interests": {}
     },
@@ -294,31 +325,14 @@
             "orcid": "https://orcid.org/0000-0003-3912-5735"
         },
         "research_interests": [
+            "Network Security",
             "Mobility Management",
             "Fast Initial Authentication",
             "Load Balancing",
             "Network Virtualization",
             "Wireless Communication",
-            "Software Defined Networking"
-        ]
-    },
-    "namilaindika": {
-        "name": "Mr. Amila Indika",
-        "designation": "Lecturer",
-        "email": "namilaindika@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/amila-indika/",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/amila-indika.jpg",
-        "urls": {
-            "linkedin": "",
-            "google_scholar": "",
-            "researchgate": "",
-            "website": "",
-            "orcid": ""
-        },
-        "research_interests": [
-            "Applied Machine Learning",
-            "Time-series Analysis",
-            "Mathematics"
+            "Software Defined Networks",
+            "Internet of Things (IoT)"
         ]
     },
     "nuwanjaliyagoda": {
@@ -348,7 +362,11 @@
             "IoT",
             "Accelerated Computing",
             "Reliability and Security",
-            "Computational Biology"
+            "Computational Biology",
+            "Micro-architectural Aspects of Embedded Systems Design & Security",
+            "Side-Channel Attacks and Countermeasures",
+            "Application-Specific Processor Design",
+            "Hardware/Software Acceleration of Bioinformatics Algorithms"
         ]
     },
     "sampath": {
