@@ -40,8 +40,8 @@
             }
         ],
         "doi": "https://doi.org/10.1109/MERCon50084.2020.9185373",
-        "preprint_url": "#",
-        "pdf_url": "https://arxiv.org/pdf/2006.15304.pdf",
+        "preprint_url": "https://arxiv.org/pdf/2006.15304.pdf",
+        "pdf_url": "#",
         "presentation_url": "https://www.cs.umd.edu/~gihan/projects/fyp/mercon-2020-presentation.pdf",
         "project_url": "#",
         "codebase": "#",
@@ -107,8 +107,8 @@
             }
         ],
         "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
-        "preprint_url": "#",
-        "pdf_url": "https://arxiv.org/pdf/1910.04725.pdf",
+        "preprint_url": "https://arxiv.org/pdf/1910.04725.pdf",
+        "pdf_url": "#",
         "presentation_url": "#",
         "project_url": "#",
         "codebase": "#",
@@ -153,8 +153,8 @@
             }
         ],
         "doi": " https://doi.org/10.1109/MERCon50084.2020.9185249",
-        "preprint_url": "https://www.researchgate.net/profile/Imesh-Ekanayake/publication/344319206_Chronic_Kidney_Disease_Prediction_Using_Machine_Learning_Methods/links/5f672571458515b7cf418d5b/Chronic-Kidney-Disease-Prediction-Using-Machine-Learning-Methods.pdf",
-        "pdf_url": "#",
+        "preprint_url": "#",
+        "pdf_url": "https://www.researchgate.net/profile/Imesh-Ekanayake/publication/344319206_Chronic_Kidney_Disease_Prediction_Using_Machine_Learning_Methods/links/5f672571458515b7cf418d5b/Chronic-Kidney-Disease-Prediction-Using-Machine-Learning-Methods.pdf",
         "presentation_url": "#",
         "project_url": "#",
         "codebase": "#",
@@ -198,8 +198,8 @@
             }
         ],
         "doi": "https://doi.org/10.1255/jsi.2019.a11",
-        "preprint_url": "https://www.impopen.com/download.php?code=I08_a11",
-        "pdf_url": "#",
+        "preprint_url": "#",
+        "pdf_url": "https://www.impopen.com/download.php?code=I08_a11",
         "presentation_url": "#",
         "project_url": "#",
         "codebase": "#",
@@ -272,8 +272,8 @@
             }
         ],
         "doi": "https://doi.org/10.1038/s42003-020-01270-z",
-        "preprint_url": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
-        "pdf_url": "#",
+        "preprint_url": "#",
+        "pdf_url": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
         "presentation_url": "#",
         "project_url": "#",
         "codebase": "#",
@@ -287,5 +287,148 @@
         "funding": "MRFF grant APP1173594 (to I.W.D.), Cancer Institute NSW Early Career Fellowship 2018/ECF013 (to I.W.D.) and philanthropic support from The Kinghorn Foundation (to I.W.D. and H.G.).",
         "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1038/s42003-020-01270-z/",
         "submitted": "2022/05/24 23:14:25"
+    },
+    {
+        "title": "GPU accelerated adaptive banded event alignment for rapid comparative nanopore signal analysis",
+        "venue": "BMC Bioinformatics",
+        "year": "2020",
+        "abstract": "[BACKGROUND:] Nanopore sequencing enables portable, real-time sequencing applications, including point-of-care diagnostics and in-the-field genotyping. Achieving these outcomes requires efficient bioinformatic algorithms for the analysis of raw nanopore signal data. However, comparing raw nanopore signals to a biological reference sequence is a computationally complex task. The dynamic programming algorithm called Adaptive Banded Event Alignment (ABEA) is a crucial step in polishing sequencing data and identifying non-standard nucleotides, such as measuring DNA methylation. Here, we parallelise and optimise an implementation of the ABEA algorithm (termed f5c) to efficiently run on heterogeneous CPU-GPU architectures. [RESULTS:] By optimising memory, computations and load balancing between CPU and GPU, we demonstrate how f5c can perform \u00e2\u0088\u00bc3-5 \u00c3\u0097 faster than an optimised version of the original CPU-only implementation of ABEA in the Nanopolish software package. We also show that f5c enables DNA methylation detection on-the-fly using an embedded System on Chip (SoC) equipped with GPUs. [CONCLUSIONS:] Our work not only demonstrates that complex genomics analyses can be performed on lightweight computing systems, but also benefits High-Performance Computing (HPC). The associated source code for f5c along with GPU optimised ABEA is available at https://github.com/hasindu2008/f5c.",
+        "authors": [
+            "Hasindu Gamaarachchi",
+            "Chun Wai Lam",
+            "Gihan Jayatilaka",
+            "Hiruna Samarakoon",
+            "Jared T. Simpson",
+            "Martin A. Smith",
+            "Sri Parameswaran"
+        ],
+        "author_info": [
+            {
+                "type": "STUDENT",
+                "id": "E/14/158",
+                "name": "G. C. Jayatilaka",
+                "email": "gihanjayatilaka@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
+            },
+            {
+                "type": "STUDENT",
+                "id": "E/14/302",
+                "name": "Hiruna Samarakoon",
+                "email": "e14302@ce.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14302.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e14/302/"
+            }
+        ],
+        "doi": "https://doi.org/10.1186/s12859-020-03697-x",
+        "preprint_url": "https://www.biorxiv.org/content/10.1101/756122v1.full.pdf",
+        "pdf_url": "https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-020-03697-x.pdf",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "https://github.com/hasindu2008/f5c",
+        "research_groups": [
+            "Accelerated and High-Performance Computing (FPGA / GPU)"
+        ],
+        "tags": [
+            "Nanopore",
+            "Signal alignment",
+            "Event alignment",
+            "Methylation",
+            "GPU",
+            "GPU acceleration",
+            "Optimisation",
+            "SoC",
+            "Nanopolish",
+            "f5c"
+        ],
+        "funding": "Jared T. Simpson is supported by the Ontario Institute for Cancer Research through funds provided by the Government of Ontario and the Government of Canada through Genome Canada and Ontario Genomics (OGI-136).",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1186/s12859-020-03697-x/",
+        "submitted": "2022/06/02 22:53:17"
+    },
+    {
+        "title": "An optical physics inspired CNN approach for intrinsic image decomposition",
+        "venue": "2021 IEEE International Conference on Image Processing (ICIP)",
+        "year": "2021",
+        "abstract": "Intrinsic Image Decomposition is an open problem of generating the constituents of an image. Generating reflectance and shading from a single image is a challenging task specifically when there is no ground truth. There is a lack of unsupervised learning approaches for decomposing an image into reflectance and shading using a single image. We propose a neural network architecture capable of this decomposition using physics-based parameters derived from the image. Through experimental results, we show that (a) the proposed methodology outperforms the existing deep learning-based IID techniques and (b) the derived parameters improve the efficacy significantly. We conclude with a closer analysis of the results (numerical and example images) showing several avenues for improvement.",
+        "authors": [
+            "Harshana Weligampola",
+            "Gihan Jayatilaka",
+            "Suren Sritharan",
+            "Parakrama Ekanayake",
+            "Roshan Ragel",
+            "Vijitha Herath",
+            "Roshan Godaliyadda"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/ICIP42928.2021.9506375",
+        "preprint_url": "https://arxiv.org/pdf/2105.10076",
+        "pdf_url": "#",
+        "presentation_url": "https://www.cs.umd.edu/~gihan/projects/fyp/icip-2021-presentation.pdf",
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e14/dark-arts-algorithms-for-low-light-image-enhancement-and-interpretation/",
+        "codebase": "#",
+        "research_groups": [
+            "Computer Vision"
+        ],
+        "tags": [
+            "Reflectivity",
+            "Neural networks",
+            "Optical fiber networks",
+            "Optical imaging",
+            "Image decomposition",
+            "Numerical models",
+            "Optical reflection"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIP42928.2021.9506375/",
+        "submitted": "2022/06/02 23:03:10"
+    },
+    {
+        "title": "DeepLight: Robust & Unobtrusive Real-time Screen-Camera Communication for Real-World Displays",
+        "venue": "2021 20th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)",
+        "year": "2021",
+        "abstract": "The paper introduces a novel, holistic approach for robust Screen-Camera Communication (SCC), where video content on a screen is visually encoded in a human-imperceptible fashion and decoded by a camera capturing images of such screen content. We first show that state-of-the-art SCC techniques have two key limitations for in-the-wild deployment: (a) the decoding accuracy drops rapidly under even modest screen extraction errors from the captured images, and (b) they generate perceptible flickers on common refresh rate screens even with minimal modulation of pixel intensity. To overcome these challenges, we introduce DeepLight, a system that incorporates machine learning (ML) models in the decoding pipeline to achieve humanly-imperceptible, moderately high SCC rates under diverse real-world conditions. DeepLight's key innovation is the design of a Deep Neural Network (DNN) based decoder that collectively decodes all the bits spatially encoded in a display frame, without attempting to precisely isolate the pixels associated with each encoded bit. In addition, DeepLight supports imperceptible encoding by selectively modulating the intensity of only the Blue channel, and provides reasonably accurate screen extraction (IoU values \u00e2\u0089\u00a5 83%) by using state-of-the-art object detection DNN pipelines. We show that a fully functional DeepLight system is able to robustly achieve high decoding accuracy (frame error rate < 0.2) and moderately-high data goodput (\u00e2\u0089\u00a50.95 Kbps) using a human-held smartphone camera, even over larger screen-camera distances (~ 2m).",
+        "authors": [
+            "Vu Tran",
+            "Gihan Jayatilaka",
+            "Ashwin Ashok",
+            "Archan Misra"
+        ],
+        "author_info": [
+            {
+                "type": "STUDENT",
+                "id": "E/14/158",
+                "name": "G. C. Jayatilaka",
+                "email": "gihanjayatilaka@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
+            }
+        ],
+        "doi": "https://doi.org/10.1145/3412382.3458269",
+        "preprint_url": "https://arxiv.org/pdf/2105.05092",
+        "pdf_url": "#",
+        "presentation_url": "https://www.cs.umd.edu/~gihan/projects/deeplight/presentation.pdf",
+        "project_url": "#",
+        "codebase": "https://github.com/gihanjayatilaka/deeplight",
+        "research_groups": [
+            "Computer Vision"
+        ],
+        "tags": [
+            "Human-centered computing",
+            "Ubiquitous and mobile computing",
+            "Computer systems organization",
+            "Embedded and cyber-physical systems"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1145/3412382.3458269/",
+        "submitted": "2022/06/02 23:08:48"
     }
 ]
