@@ -35,6 +35,8 @@ for pub in publications:
     filename = pub['api_url'].replace('https://api.ce.pdn.ac.lk', '..') + "index.json"
     pub_data = json.load(open(filename, "r"))
 
+    edit_url = pub['api_url'].replace("https://api.ce.pdn.ac.lk/", "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/") + "index.json"
+
     # Prepare a subset of the publication data
     pub_info = {
         'title': pub_data['title'],
@@ -51,7 +53,8 @@ for pub in publications:
         'researchgroups': pub_data['research_groups'],
         'funding': pub_data['funding'],
         'tags': pub_data['tags'],
-        'api_url': pub_data['api_url']
+        'api_url': pub_data['api_url'],
+        'edit_url': edit_url
     }
 
     # Add the project_tag info into the student, staff indexes
