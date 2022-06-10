@@ -155,6 +155,19 @@
         "page_url": "https://cepdnaclk.github.io/e18-co227-Molding-Machine-Dashboard",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Molding-Machine-Dashboard/"
     },
+    "e18-co227-Postgraduate-Student-Management-System": {
+        "title": "Postgraduate Student Management System",
+        "description": "The aim of this project is to design and deployment of a student management system for PG students in the Department of Computer Engineering.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Postgraduate-Student-Management-System/",
+        "repo_url": "https://github.com/cepdnaclk/e18-co227-Postgraduate-Student-Management-System",
+        "page_url": "https://cepdnaclk.github.io/e18-co227-Postgraduate-Student-Management-System",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Postgraduate-Student-Management-System/"
+    },
     "e18-co227-Poultry-Feed-Efficiency-Tracking-System": {
         "title": "Poultry Feed Efficiency Tracking System",
         "description": "Poultry industry is one of the fastest growing industries in Sri lanka. Farmers from every side in the country engage with this industry. But we can see they have been faced to a problem when finding a way to feed the animals efficiently. This can happen because of communication problems and lack of knowledge. So  we are trying to develop a mobile application to avoid that problem. This application will include the main three languages which are used in Sri lanka. Through this application we hope give good guidance and needed details to the farmers. ",
@@ -258,18 +271,5 @@
         "repo_url": "https://github.com/cepdnaclk/e18-co227-SnaT-Meal-Tracking-App-Group-B",
         "page_url": "https://cepdnaclk.github.io/e18-co227-SnaT-Meal-Tracking-App-Group-B",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/SnaT-Meal-Tracking-App-Group-B/"
-    },
-    "e18-co227-postgraduate-student-management-system": {
-        "title": "postgraduate student management system",
-        "description": "Postgraduate Student Management System",
-        "category": {
-            "title": "Software Systems Projects",
-            "code": "co227",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/postgraduate-student-management-system/",
-        "repo_url": "https://github.com/cepdnaclk/e18-co227-postgraduate-student-management-system",
-        "page_url": "https://cepdnaclk.github.io/e18-co227-postgraduate-student-management-system",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/postgraduate-student-management-system/"
     }
 }
