@@ -10,5 +10,68 @@
     "repo_url": "https://github.com/cepdnaclk/e18-co227-Department-Course-Page-Group-B",
     "page_url": "https://cepdnaclk.github.io/e18-co227-Department-Course-Page-Group-B",
     "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Department-Course-Page-Group-B/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+    "team": {
+        "E/18/203": {
+            "name": "Shehan Madhusanka",
+            "email": "e18203@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/sheiiz",
+            "linkedin": "https://www.linkedin.com/in/shehan-madhusanka-b7663b229",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/203",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18203.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/203/"
+        },
+        "E/18/264": {
+            "name": "Madhushan Prasanna",
+            "email": "e18264@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/264",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18264.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/264/"
+        },
+        "E/18/010": {
+            "name": "Avishka Abeywickrama",
+            "email": "e18010@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/avishka4444",
+            "linkedin": "https://www.linkedin.com/in/avishka-abeywickrama-97413a21a",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/010",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18010.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/010/"
+        }
+    },
+    "supervisors": {
+        "nuwanjaliyagoda@eng.pdn.ac.lk": {
+            "name": "Nuwan Jaliyagoda",
+            "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e15/140",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/nuwan.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/nuwanjaliyagoda",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        },
+        "imeshuek@eng.pdn.ac.lk": {
+            "name": "Imesh Ekanayake",
+            "email": "imeshuek@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e15/092",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/imesh.png",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/imeshuek",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Web",
+        "Embedded Systems"
+    ]
 }
