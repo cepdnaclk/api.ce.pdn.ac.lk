@@ -8297,7 +8297,7 @@
     },
     "e18-co227-Department-Course-Page-Group-B": {
         "title": "Department Course Page Group B",
-        "description": "Department Course Page",
+        "description": "CO227 : Department Course Page (Postgraduate) - Group 10",
         "category": {
             "title": "Software Systems Projects",
             "code": "co227",
@@ -8369,7 +8369,7 @@
         },
         "tags": [
             "Web",
-            "Embedded Systems"
+            "Course Page"
         ]
     },
     "e18-co227-Development-of-an-Image-Capturing-Unit-for-Remote-Monitoring": {
@@ -8475,7 +8475,72 @@
         "repo_url": "https://github.com/cepdnaclk/e18-co227-Image-Data-Handling-System-for-Research-Group-B",
         "page_url": "https://cepdnaclk.github.io/e18-co227-Image-Data-Handling-System-for-Research-Group-B",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Image-Data-Handling-System-for-Research-Group-B/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+        "team": {
+            "E/18/073": {
+                "name": "Dhananjaya W.M.T.",
+                "email": "e18073@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/073",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18073.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/073/"
+            },
+            "E/18/214": {
+                "name": "Manahara H.K.",
+                "email": "e18214@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/KushanManahara",
+                "linkedin": "http://www.linkedin.com/in/kushan-manahara",
+                "researchgate": "https://www.researchgate.net/profile/Kushan-Manahara",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/214",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18214.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/214/"
+            },
+            "E/18/282": {
+                "name": "Ranasinghe R.A.N.S.",
+                "email": "e18282@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/282",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18282.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/282/"
+            }
+        },
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            },
+            "kesharaw@eng.pdn.ac.lk": {
+                "name": "Keshara Weerasinghe",
+                "email": "kesharaw@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/383",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/keshara.jpg",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/kesharaw",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Mobile Application",
+            "images",
+            "metadata",
+            "Oral Cavity Detection"
+        ]
     },
     "e18-co227-Interactive-Department-Map-GroupA": {
         "title": "Interactive Department Map GroupA",
@@ -8489,7 +8554,70 @@
         "repo_url": "https://github.com/cepdnaclk/e18-co227-Interactive-Department-Map-GroupA",
         "page_url": "https://cepdnaclk.github.io/e18-co227-Interactive-Department-Map-GroupA",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Interactive-Department-Map-GroupA/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+        "team": {
+            "E/18/354": {
+                "name": "Ruchira Tharaka",
+                "email": "e18354@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/354",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18354.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/354/"
+            },
+            "E/18/318": {
+                "name": "Piyumali Sandunika",
+                "email": "e18318@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/318",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18318.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/318/"
+            },
+            "E/18/327": {
+                "name": "Chamara Dilshan",
+                "email": "e18327@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/327",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18327.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/327/"
+            }
+        },
+        "supervisors": {
+            "nuwanjaliyagoda@eng.pdn.ac.lk": {
+                "name": "Nuwan Jaliyagoda",
+                "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/140",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/nuwan.jpg",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/nuwanjaliyagoda",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            },
+            "dilshanik@eng.pdn.ac.lk": {
+                "name": "Dilshani Karunarathna",
+                "email": "dilshanik@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/173",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/dilshani.jpg",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/dilshanik",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Web-based Application",
+            "Interactive Map"
+        ]
     },
     "e18-co227-Logging-Microservice-for-IoT-based-Smart-Agriculture-Project": {
         "title": "Logging Microservice for IoT based Smart Agriculture Project",
