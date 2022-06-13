@@ -6490,31 +6490,31 @@
         "eNumber": "E/16/389",
         "batch": "E16",
         "department": "Computer Engineering",
-        "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
-        "honorific": "",
-        "full_name": "Welikanda V.H.L.N.",
-        "name_with_initials": "Welikanda V.H.L.N.",
-        "preferred_short_name": "Welikanda V.H.L.N.",
-        "preferred_long_name": "",
+        "current_affiliation": "Department of Computer Engineering",
+        "honorific": "Mr.",
+        "full_name": "Lakshan Nadun Welikanda",
+        "name_with_initials": "V. H. L. N. Welikanda",
+        "preferred_short_name": "Nadun",
+        "preferred_long_name": "Nadun Welikanda",
         "emails": {
             "personal": {
-                "name": "",
-                "domain": ""
+                "name": "nadunwelikanda.360",
+                "domain": "gmail.com"
             },
             "faculty": {
                 "name": "e16389",
                 "domain": "eng.pdn.ac.lk"
             }
         },
-        "location": "",
+        "location": "Kegalle,Sri Lanka",
         "interests": [],
         "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16389.jpg",
         "urls": {
-            "cv": "",
+            "cv": "https://drive.google.com/file/d/1opKyJP9cELgmvNyJXd_VYKyGC0Ydx3Ow/view?usp=sharing",
             "website": "",
-            "linkedin": "",
-            "github": "",
-            "facebook": "",
+            "linkedin": "https://www.linkedin.com/in/nadun360",
+            "github": "https://github.com/Nadun360",
+            "facebook": "https://www.facebook.com/Nadun360",
             "researchgate": "",
             "twitter": ""
         },
@@ -11435,5 +11435,42 @@
             "twitter": ""
         },
         "profile_page": "https://people.ce.pdn.ac.lk/students/e18/412/"
+    },
+    "E/99/999": {
+        "eNumber": "E/99/999",
+        "batch": "E99",
+        "department": "Computer Engineering",
+        "current_affiliation": "Department of Computer Engineering - University of Peradeniya",
+        "honorific": "Mr.",
+        "full_name": "John Doe",
+        "name_with_initials": "J. Doe",
+        "preferred_short_name": "John",
+        "preferred_long_name": "John Doe",
+        "emails": {
+            "personal": {
+                "name": "johndoe",
+                "domain": "gmail.com"
+            },
+            "faculty": {
+                "name": "johndoe",
+                "domain": "eng.pdn.ac.lk"
+            }
+        },
+        "location": "Earth",
+        "interests": [
+            "Computer Architecture",
+            "Machine Learning"
+        ],
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+        "urls": {
+            "cv": "https://johndoe.com/cv.pdf",
+            "website": "https://johndoe.com/",
+            "linkedin": "https://www.linkedin.com/in/john-doe/",
+            "github": "https://github.com/JohnDoe/",
+            "facebook": "https://facebook.com/JohnDoe/",
+            "researchgate": "",
+            "twitter": "https://twitter.com/JohnDoe/"
+        },
+        "profile_page": "https://people.ce.pdn.ac.lk/students/e99/999/"
     }
 }

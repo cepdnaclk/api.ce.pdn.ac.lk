@@ -10,5 +10,68 @@
     "repo_url": "https://github.com/cepdnaclk/e18-co227-Automated-Notification-System-for-Examinations",
     "page_url": "https://cepdnaclk.github.io/e18-co227-Automated-Notification-System-for-Examinations",
     "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Automated-Notification-System-for-Examinations/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+    "team": {
+        "E/18/276": {
+            "name": "Rajasooriya J.M.",
+            "email": "e18276@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/276",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18276.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/276/"
+        },
+        "E/18/283": {
+            "name": "Ranasinghe R.D.J.M.",
+            "email": "e18283@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/283",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18283.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/283/"
+        },
+        "E/18/412": {
+            "name": "De Silva M.S.G.M.",
+            "email": "e18412@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/412",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18412.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/412/"
+        }
+    },
+    "supervisors": {
+        "mahanamaw@eng.pdn.ac.lk": {
+            "name": "Dr. Mahanama Wickramasinghe",
+            "email": "mahanamaw@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/mahanama-wickramasinghe/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/mahanama-wickramasinghe.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/mahanamaw",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/mahanama",
+            "researchgate": "https://www.researchgate.net/profile/Mahanama-Wickramsinghe",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=kuoZpZEAAAAJ"
+        },
+        "imeshuek@eng.pdn.ac.lk": {
+            "name": "Imesh Ekanayake",
+            "email": "imeshuek@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e15/092",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/imesh.png",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/imeshuek",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Email",
+        "Notification System"
+    ]
 }
