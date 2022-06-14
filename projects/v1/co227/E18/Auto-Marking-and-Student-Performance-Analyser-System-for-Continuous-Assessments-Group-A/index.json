@@ -10,5 +10,68 @@
     "repo_url": "https://github.com/cepdnaclk/e18-co227-Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-A",
     "page_url": "https://cepdnaclk.github.io/e18-co227-Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-A",
     "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-A/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+    "team": {
+        "E/18/036": {
+            "name": "Bandara L.R.M.U.",
+            "email": "e18036@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/036",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18036.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/036/"
+        },
+        "E/18/156": {
+            "name": "Jayathilake W.A.T.N.",
+            "email": "e18156@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/156",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18156.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/156/"
+        },
+        "E/18/329": {
+            "name": "Sewwandi D.W.S.N.",
+            "email": "e18329@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/329",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18329.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/329/"
+        }
+    },
+    "supervisors": {
+        "mahanamaw@eng.pdn.ac.lk": {
+            "name": "Dr. Mahanama Wickramasinghe",
+            "email": "mahanamaw@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/mahanama-wickramasinghe/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/mahanama-wickramasinghe.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/mahanamaw",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/mahanama",
+            "researchgate": "https://www.researchgate.net/profile/Mahanama-Wickramsinghe",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=kuoZpZEAAAAJ"
+        },
+        "lankaniperera@eng.pdn.ac.lk": {
+            "name": "Poornima Lankani",
+            "email": "lankaniperera@eng.pdn.ac.lk",
+            "profile_url": "",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/poornima.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/lankaniperera",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Web",
+        "Embedded Systems"
+    ]
 }
