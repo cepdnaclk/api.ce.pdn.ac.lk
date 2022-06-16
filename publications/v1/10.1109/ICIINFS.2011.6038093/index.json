@@ -1,0 +1,45 @@
+{
+    "title": "Design and implementation of a statechart based reconfigurable elevator controller",
+    "venue": "2011 6th International Conference on Industrial and Information Systems (ICIIS)",
+    "year": "2011",
+    "abstract": "This paper presents a simple and clear method to design and implement a reconfigurable elevator controller using an FPGA, which can be implemented for an elevator with any (N) number of floors, with specified inputs and outputs. A model based design approach was followed. We started from a state chart model developed for a prototype elevator with three floors. Extension of the model for a variable number of floors was considered. Controller for the prototype system was implemented in ladder logic on a PLC and the limitations of that approach with regard to re-configurability were identified: viz., in the extension of elevator controller for `N' no of floors. Next VHDL code was developed for a reconfigurable elevator controller where, by changing a variable corresponding to the required number of floors, the suitable code can be generated. The controller thus generated can be implemented in an FPGA. The method was successfully tested on a Xilinx Spartan 3AN FPGA.",
+    "authors": [
+        "HPAP Jayawardana",
+        "HWKM Amarasekara",
+        "PTS Peelikumbura",
+        "WAKC Jayathilaka",
+        "SG Abeyaratne",
+        "SD Dewasurendra"
+    ],
+    "author_info": [
+        {
+            "type": "STAFF",
+            "id": "dewasuren",
+            "name": "Dr. Shirley Dewasurendra",
+            "email": "dewasuren@gmail.com",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/ICIINFS.2011.6038093",
+    "preprint_url": "https://d1wqtxts1xzle7.cloudfront.net/50495911/Statechart_Based_Modeling_and_Controller20161123-13291-x6486x-with-cover-page-v2.pdf?Expires=1655316738&Signature=J87I1-hyT7c4dZMcZFbVzExNgXZan8pPdpf-tAbTr80ahZDXcN~FV3gELQzG0thDbQQzIWw8NO7EXdXyX8QOacT1vJF5k04SF7MiO~Hl5H9A22rQ92fq-zua3GQrPRZUcJw629dQfP7Nbxn8tks6AGF6Z3fkFkLMeOpVqI2yHydXmCL5kHYOwKTiMYMS-eJ~OI3JQ18eVsSvJ530OxjoFisczkUiU-ZxqohOWx00L~JgJCvLZxAwtrPpxvA8ROEOx2VA7xCFgfINIqFIuMTVMz7aghtL0oOuEFrJovRbisPfrVL6aQx-Q9HdpP5CeZCDXcJTH2sh8FZr2nDLpuC5VQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA",
+    "pdf_url": "https://d1wqtxts1xzle7.cloudfront.net/50495911/Statechart_Based_Modeling_and_Controller20161123-13291-x6486x-with-cover-page-v2.pdf?Expires=1655316738&Signature=J87I1-hyT7c4dZMcZFbVzExNgXZan8pPdpf-tAbTr80ahZDXcN~FV3gELQzG0thDbQQzIWw8NO7EXdXyX8QOacT1vJF5k04SF7MiO~Hl5H9A22rQ92fq-zua3GQrPRZUcJw629dQfP7Nbxn8tks6AGF6Z3fkFkLMeOpVqI2yHydXmCL5kHYOwKTiMYMS-eJ~OI3JQ18eVsSvJ530OxjoFisczkUiU-ZxqohOWx00L~JgJCvLZxAwtrPpxvA8ROEOx2VA7xCFgfINIqFIuMTVMz7aghtL0oOuEFrJovRbisPfrVL6aQx-Q9HdpP5CeZCDXcJTH2sh8FZr2nDLpuC5VQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        ""
+    ],
+    "tags": [
+        "Elevators",
+        "Floors",
+        "Field programmable gate arrays",
+        "Prototypes",
+        "Sensors",
+        "Mathematical model",
+        "Control systems"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2011.6038093/",
+    "submitted": "2022/06/15 22:45:28"
+}

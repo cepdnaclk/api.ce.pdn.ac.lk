@@ -1,0 +1,47 @@
+{
+    "title": "Commentz-walter: Any better than aho-corasick for peptide identification?",
+    "venue": "International Journal of Research in Computer Science",
+    "year": "2012",
+    "abstract": "An algorithm for locating all occurrences of a finite number of keywords in an arbitrary string, also known as multiple strings matching, is commonly required in information retrieval (such as sequence analysis, evolutionary biological studies, gene/protein identification and network intrusion detection) and text editing applications. Although Aho-Corasick was one of the commonly used exact multiple strings matching algorithm, Commentz-Walter has been introduced as a better alternative in the recent past. Comments-Walter algorithm combines ideas from both Aho-Corasick and Boyer Moore. Large scale rapid and accurate peptide identification is critical in computational proteomics. In this paper, we have critically analyzed the time complexity of Aho-Corasick and Commentz-Walter for their suitability in large scale peptide identification. According to the results we obtained for our dataset, we conclude that Aho-Corasick is performing better than Commentz-Walter as opposed to the common beliefs.",
+    "authors": [
+        "SM Vidanagamachchi",
+        "SD Dewasurendra",
+        "RG Ragel",
+        "M Niranjan"
+    ],
+    "author_info": [
+        {
+            "type": "STAFF",
+            "id": "dewasuren",
+            "name": "Dr. Shirley Dewasurendra",
+            "email": "dewasuren@gmail.com",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/"
+        },
+        {
+            "type": "STAFF",
+            "id": "roshanr",
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+        }
+    ],
+    "doi": "https://doi.org/10.7815/ijorcs.26.2012.053",
+    "preprint_url": "https://www.academia.edu/download/73625856/Vol2-Issue-06-04-commentz-walter-any-better-than-aho-corasick-for-peptide-identification.pdf",
+    "pdf_url": "https://www.academia.edu/download/73625856/Vol2-Issue-06-04-commentz-walter-any-better-than-aho-corasick-for-peptide-identification.pdf",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        ""
+    ],
+    "tags": [
+        "Aho-Corasick",
+        "Commentz-Walter",
+        "Peptide Identification"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.7815/ijorcs.26.2012.053/",
+    "submitted": "2022/06/15 22:52:01"
+}

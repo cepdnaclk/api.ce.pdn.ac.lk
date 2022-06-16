@@ -430,5 +430,279 @@
         "funding": "",
         "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1145/3412382.3458269/",
         "submitted": "2022/06/02 23:08:48"
+    },
+    {
+        "title": "SAS-3: A polynomial based strong password authentication protocol",
+        "venue": "2007 International Conference on Industrial and Information Systems (ICIIS)",
+        "year": "2007",
+        "abstract": "As the Internet and mobile applications have been increasing in the recent past, the need for authentication over remote servers and telephones have become very important. The need of authentication is essential as the private data sent over the Internet has risk of being wiretapped. Existing password authentication schemes can be divided into two types, one that requires only the weak password and the other that requires the strong password. The main objective of this paper is to present a review on the strong password protocols and propose a new protocol with enhanced security features. In addition, we have proved that our SAS-3 (simple and secure) protocol is secure against replay, denial of service, impersonation and password guessing attacks with minimized computational and transmission overheads.",
+        "authors": [
+            "N. S. Weragama",
+            "M. Sandirigama"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "manjula.sandirigama",
+                "name": "Dr. Manjula Sandirigama",
+                "email": "manjula.sandirigama@gmail.com",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/ICIINFS.2007.4579145",
+        "preprint_url": "#",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "Polynomials",
+            "Authentication",
+            "Protocols",
+            "Computer crime",
+            "Synthetic aperture sonar",
+            "Information systems",
+            "Internet",
+            "Security",
+            "Computer industry",
+            "Mobile communication"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2007.4579145/",
+        "submitted": "2022/06/15 22:07:02"
+    },
+    {
+        "title": "Security weaknesses of WEP protocol IEEE 802.11b and enhancing the security with dynamic keys",
+        "venue": "2009 IEEE Toronto International Conference Science and Technology for Humanity (TIC-STH)",
+        "year": "2009",
+        "abstract": "In wireless data communication, security has become an important measure. In this paper, we reveal vulnerabilities and weaknesses of WEP protocol which is used in IEEE 802.11b. The major issue of WEP protocol is the lack of a proper key management technique. We propose a method to overcome above by introducing a dynamic key for authentication and data transmission on per data frame basis.",
+        "authors": [
+            "Manjula Sandirigama",
+            "Rasika Idamekorala"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "manjula.sandirigama",
+                "name": "Dr. Manjula Sandirigama",
+                "email": "manjula.sandirigama@gmail.com",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/TIC-STH.2009.5444462",
+        "preprint_url": "#",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)",
+            "Nextgen Networks"
+        ],
+        "tags": [
+            "Authentication",
+            "Cryptography",
+            "Data security",
+            "Random number generation",
+            "Computer security",
+            "Communication system security",
+            "Data communication",
+            "Access protocols",
+            "Computer hacking",
+            "Information security"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/TIC-STH.2009.5444462/",
+        "submitted": "2022/06/15 22:09:22"
+    },
+    {
+        "title": "Tile optimization for area in FPGA based hardware acceleration of peptide identification",
+        "venue": "2011 6th International Conference on Industrial and Information Systems (ICIIS)",
+        "year": "2011",
+        "abstract": "Advances in life sciences over the last few decades have lead to the generation of a huge amount of biological data. Computing research has become a vital part in driving biological discovery where analysis and categorization of biological data are involved. String matching algorithms can be applied for protein/gene sequence matching and with the phenomenal increase in the size of string databases to be analyzed, software implementations of these algorithms seems to have hit a hard limit and hardware acceleration is increasingly being sought. Several hardware platforms such as Field Programmable Gate Arrays (FPGA), Graphics Processing Units (GPU) and Chip Multi Processors (CMP) are being explored as hardware platforms. In this paper, we give a comprehensive overview of the literature on hardware acceleration of string matching algorithms, we take an FPGA hardware exploration and expedite the design time by a design automation technique. Further, our design automation is also optimized for better hardware utilization through optimizing the number of peptides that can be represented in an FPGA tile. The results indicate significant improvements in design time and hardware utilization which are reported in this paper.",
+        "authors": [
+            "SM Vidanagamachchi",
+            "SD Dewasurendra",
+            "Roshan G Ragel",
+            "M Niranjan"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "dewasuren",
+                "name": "Dr. Shirley Dewasurendra",
+                "email": "dewasuren@gmail.com",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/"
+            },
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/ICIINFS.2011.6038056",
+        "preprint_url": "https://arxiv.org/ftp/arxiv/papers/1403/1403.7296.pdf",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "Peptides",
+            "Field programmable gate arrays",
+            "Tiles",
+            "Hardware",
+            "Software algorithms",
+            "Proteins",
+            "Software"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2011.6038056/",
+        "submitted": "2022/06/15 22:42:11"
+    },
+    {
+        "title": "Design and implementation of a statechart based reconfigurable elevator controller",
+        "venue": "2011 6th International Conference on Industrial and Information Systems (ICIIS)",
+        "year": "2011",
+        "abstract": "This paper presents a simple and clear method to design and implement a reconfigurable elevator controller using an FPGA, which can be implemented for an elevator with any (N) number of floors, with specified inputs and outputs. A model based design approach was followed. We started from a state chart model developed for a prototype elevator with three floors. Extension of the model for a variable number of floors was considered. Controller for the prototype system was implemented in ladder logic on a PLC and the limitations of that approach with regard to re-configurability were identified: viz., in the extension of elevator controller for `N' no of floors. Next VHDL code was developed for a reconfigurable elevator controller where, by changing a variable corresponding to the required number of floors, the suitable code can be generated. The controller thus generated can be implemented in an FPGA. The method was successfully tested on a Xilinx Spartan 3AN FPGA.",
+        "authors": [
+            "HPAP Jayawardana",
+            "HWKM Amarasekara",
+            "PTS Peelikumbura",
+            "WAKC Jayathilaka",
+            "SG Abeyaratne",
+            "SD Dewasurendra"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "dewasuren",
+                "name": "Dr. Shirley Dewasurendra",
+                "email": "dewasuren@gmail.com",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/ICIINFS.2011.6038093",
+        "preprint_url": "https://d1wqtxts1xzle7.cloudfront.net/50495911/Statechart_Based_Modeling_and_Controller20161123-13291-x6486x-with-cover-page-v2.pdf?Expires=1655316738&Signature=J87I1-hyT7c4dZMcZFbVzExNgXZan8pPdpf-tAbTr80ahZDXcN~FV3gELQzG0thDbQQzIWw8NO7EXdXyX8QOacT1vJF5k04SF7MiO~Hl5H9A22rQ92fq-zua3GQrPRZUcJw629dQfP7Nbxn8tks6AGF6Z3fkFkLMeOpVqI2yHydXmCL5kHYOwKTiMYMS-eJ~OI3JQ18eVsSvJ530OxjoFisczkUiU-ZxqohOWx00L~JgJCvLZxAwtrPpxvA8ROEOx2VA7xCFgfINIqFIuMTVMz7aghtL0oOuEFrJovRbisPfrVL6aQx-Q9HdpP5CeZCDXcJTH2sh8FZr2nDLpuC5VQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA",
+        "pdf_url": "https://d1wqtxts1xzle7.cloudfront.net/50495911/Statechart_Based_Modeling_and_Controller20161123-13291-x6486x-with-cover-page-v2.pdf?Expires=1655316738&Signature=J87I1-hyT7c4dZMcZFbVzExNgXZan8pPdpf-tAbTr80ahZDXcN~FV3gELQzG0thDbQQzIWw8NO7EXdXyX8QOacT1vJF5k04SF7MiO~Hl5H9A22rQ92fq-zua3GQrPRZUcJw629dQfP7Nbxn8tks6AGF6Z3fkFkLMeOpVqI2yHydXmCL5kHYOwKTiMYMS-eJ~OI3JQ18eVsSvJ530OxjoFisczkUiU-ZxqohOWx00L~JgJCvLZxAwtrPpxvA8ROEOx2VA7xCFgfINIqFIuMTVMz7aghtL0oOuEFrJovRbisPfrVL6aQx-Q9HdpP5CeZCDXcJTH2sh8FZr2nDLpuC5VQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "Elevators",
+            "Floors",
+            "Field programmable gate arrays",
+            "Prototypes",
+            "Sensors",
+            "Mathematical model",
+            "Control systems"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2011.6038093/",
+        "submitted": "2022/06/15 22:45:28"
+    },
+    {
+        "title": "Statechart based modeling and controller implementation of complex reactive systems",
+        "venue": "2011 6th International Conference on Industrial and Information Systems (ICIIS)",
+        "year": "2011",
+        "abstract": "Statechart formalism has been a preferred choice for modeling complex reactive systems (CRS) in recent years. It has inbuilt powerful features of orthogonality, hierarchy, intermodular communication and history. Once statechart based system modeling is done the next issues to be addressed are (1) modular verification of the system for failsafe operation under all possible working conditions (2) progressive controller implementation together with the supervisory control while maintaining traceability and re-configurability and (3) facilitation of controller adaptation for progressive incorporation of security features and supervisory specifications. An elevator system was designed and built to reflect exigencies of a typical CRS hardware/software platform. A controller was designed to meet the above requirements and tested on the platform to validate the feasibility of model-based control design/verification methodology for real scale systems. Modularity was achieved by developing the statechart model of the plant into a tree of communicating language generators. Progresively verified modules were then translated into sequential function charts (SFC) which were finally integrated to form a complete flat SFC. The SFC was then implemented on a PLC platform (Telemechanique). The program was first validated in simulation using Telemechanique \u00e2\u0080\u009cTwidosuite\u00e2\u0080\u009d for different operating conditions and finally tested on the elevator system.",
+        "authors": [
+            "AC Vidanapathirana",
+            "SD Dewasurendra",
+            "SG Abeyratne"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "dewasuren",
+                "name": "Dr. Shirley Dewasurendra",
+                "email": "dewasuren@gmail.com",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/ICIINFS.2011.6038120",
+        "preprint_url": "#",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "Elevators",
+            "Generators",
+            "Software",
+            "Automata",
+            "Process control",
+            "Floors",
+            "Hardware"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2011.6038120/",
+        "submitted": "2022/06/15 22:47:30"
+    },
+    {
+        "title": "Commentz-walter: Any better than aho-corasick for peptide identification?",
+        "venue": "International Journal of Research in Computer Science",
+        "year": "2012",
+        "abstract": "An algorithm for locating all occurrences of a finite number of keywords in an arbitrary string, also known as multiple strings matching, is commonly required in information retrieval (such as sequence analysis, evolutionary biological studies, gene/protein identification and network intrusion detection) and text editing applications. Although Aho-Corasick was one of the commonly used exact multiple strings matching algorithm, Commentz-Walter has been introduced as a better alternative in the recent past. Comments-Walter algorithm combines ideas from both Aho-Corasick and Boyer Moore. Large scale rapid and accurate peptide identification is critical in computational proteomics. In this paper, we have critically analyzed the time complexity of Aho-Corasick and Commentz-Walter for their suitability in large scale peptide identification. According to the results we obtained for our dataset, we conclude that Aho-Corasick is performing better than Commentz-Walter as opposed to the common beliefs.",
+        "authors": [
+            "SM Vidanagamachchi",
+            "SD Dewasurendra",
+            "RG Ragel",
+            "M Niranjan"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "dewasuren",
+                "name": "Dr. Shirley Dewasurendra",
+                "email": "dewasuren@gmail.com",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/"
+            },
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            }
+        ],
+        "doi": "https://doi.org/10.7815/ijorcs.26.2012.053",
+        "preprint_url": "https://www.academia.edu/download/73625856/Vol2-Issue-06-04-commentz-walter-any-better-than-aho-corasick-for-peptide-identification.pdf",
+        "pdf_url": "https://www.academia.edu/download/73625856/Vol2-Issue-06-04-commentz-walter-any-better-than-aho-corasick-for-peptide-identification.pdf",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "Aho-Corasick",
+            "Commentz-Walter",
+            "Peptide Identification"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.7815/ijorcs.26.2012.053/",
+        "submitted": "2022/06/15 22:52:01"
     }
 ]

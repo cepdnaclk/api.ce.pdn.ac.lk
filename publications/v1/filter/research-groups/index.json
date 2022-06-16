@@ -272,5 +272,79 @@
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/ 10.1109/MERCon50084.2020.9185249/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/ 10.1109/MERCon50084.2020.9185249/index.json"
         }
+    ],
+    "Nextgen Networks": [
+        {
+            "title": "Security weaknesses of WEP protocol IEEE 802.11b and enhancing the security with dynamic keys",
+            "venue": "2009 IEEE Toronto International Conference Science and Technology for Humanity (TIC-STH)",
+            "year": "2009",
+            "abstract": "In wireless data communication, security has become an important measure. In this paper, we reveal vulnerabilities and weaknesses of WEP protocol which is used in IEEE 802.11b. The major issue of WEP protocol is the lack of a proper key management technique. We propose a method to overcome above by introducing a dynamic key for authentication and data transmission on per data frame basis.",
+            "authors": [
+                "Manjula Sandirigama",
+                "Rasika Idamekorala"
+            ],
+            "doi": "https://doi.org/10.1109/TIC-STH.2009.5444462",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)",
+                "Nextgen Networks"
+            ],
+            "funding": "",
+            "tags": [
+                "Authentication",
+                "Cryptography",
+                "Data security",
+                "Random number generation",
+                "Computer security",
+                "Communication system security",
+                "Data communication",
+                "Access protocols",
+                "Computer hacking",
+                "Information security"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/TIC-STH.2009.5444462/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/TIC-STH.2009.5444462/index.json"
+        }
+    ],
+    "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)": [
+        {
+            "title": "Security weaknesses of WEP protocol IEEE 802.11b and enhancing the security with dynamic keys",
+            "venue": "2009 IEEE Toronto International Conference Science and Technology for Humanity (TIC-STH)",
+            "year": "2009",
+            "abstract": "In wireless data communication, security has become an important measure. In this paper, we reveal vulnerabilities and weaknesses of WEP protocol which is used in IEEE 802.11b. The major issue of WEP protocol is the lack of a proper key management technique. We propose a method to overcome above by introducing a dynamic key for authentication and data transmission on per data frame basis.",
+            "authors": [
+                "Manjula Sandirigama",
+                "Rasika Idamekorala"
+            ],
+            "doi": "https://doi.org/10.1109/TIC-STH.2009.5444462",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)",
+                "Nextgen Networks"
+            ],
+            "funding": "",
+            "tags": [
+                "Authentication",
+                "Cryptography",
+                "Data security",
+                "Random number generation",
+                "Computer security",
+                "Communication system security",
+                "Data communication",
+                "Access protocols",
+                "Computer hacking",
+                "Information security"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/TIC-STH.2009.5444462/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/TIC-STH.2009.5444462/index.json"
+        }
     ]
 }

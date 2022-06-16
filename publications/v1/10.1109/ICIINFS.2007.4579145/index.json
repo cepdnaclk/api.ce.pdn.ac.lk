@@ -1,0 +1,44 @@
+{
+    "title": "SAS-3: A polynomial based strong password authentication protocol",
+    "venue": "2007 International Conference on Industrial and Information Systems (ICIIS)",
+    "year": "2007",
+    "abstract": "As the Internet and mobile applications have been increasing in the recent past, the need for authentication over remote servers and telephones have become very important. The need of authentication is essential as the private data sent over the Internet has risk of being wiretapped. Existing password authentication schemes can be divided into two types, one that requires only the weak password and the other that requires the strong password. The main objective of this paper is to present a review on the strong password protocols and propose a new protocol with enhanced security features. In addition, we have proved that our SAS-3 (simple and secure) protocol is secure against replay, denial of service, impersonation and password guessing attacks with minimized computational and transmission overheads.",
+    "authors": [
+        "N. S. Weragama",
+        "M. Sandirigama"
+    ],
+    "author_info": [
+        {
+            "type": "STAFF",
+            "id": "manjula.sandirigama",
+            "name": "Dr. Manjula Sandirigama",
+            "email": "manjula.sandirigama@gmail.com",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/ICIINFS.2007.4579145",
+    "preprint_url": "#",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        ""
+    ],
+    "tags": [
+        "Polynomials",
+        "Authentication",
+        "Protocols",
+        "Computer crime",
+        "Synthetic aperture sonar",
+        "Information systems",
+        "Internet",
+        "Security",
+        "Computer industry",
+        "Mobile communication"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2007.4579145/",
+    "submitted": "2022/06/15 22:07:02"
+}

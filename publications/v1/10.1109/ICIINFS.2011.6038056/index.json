@@ -1,0 +1,51 @@
+{
+    "title": "Tile optimization for area in FPGA based hardware acceleration of peptide identification",
+    "venue": "2011 6th International Conference on Industrial and Information Systems (ICIIS)",
+    "year": "2011",
+    "abstract": "Advances in life sciences over the last few decades have lead to the generation of a huge amount of biological data. Computing research has become a vital part in driving biological discovery where analysis and categorization of biological data are involved. String matching algorithms can be applied for protein/gene sequence matching and with the phenomenal increase in the size of string databases to be analyzed, software implementations of these algorithms seems to have hit a hard limit and hardware acceleration is increasingly being sought. Several hardware platforms such as Field Programmable Gate Arrays (FPGA), Graphics Processing Units (GPU) and Chip Multi Processors (CMP) are being explored as hardware platforms. In this paper, we give a comprehensive overview of the literature on hardware acceleration of string matching algorithms, we take an FPGA hardware exploration and expedite the design time by a design automation technique. Further, our design automation is also optimized for better hardware utilization through optimizing the number of peptides that can be represented in an FPGA tile. The results indicate significant improvements in design time and hardware utilization which are reported in this paper.",
+    "authors": [
+        "SM Vidanagamachchi",
+        "SD Dewasurendra",
+        "Roshan G Ragel",
+        "M Niranjan"
+    ],
+    "author_info": [
+        {
+            "type": "STAFF",
+            "id": "dewasuren",
+            "name": "Dr. Shirley Dewasurendra",
+            "email": "dewasuren@gmail.com",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/"
+        },
+        {
+            "type": "STAFF",
+            "id": "roshanr",
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/ICIINFS.2011.6038056",
+    "preprint_url": "https://arxiv.org/ftp/arxiv/papers/1403/1403.7296.pdf",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        ""
+    ],
+    "tags": [
+        "Peptides",
+        "Field programmable gate arrays",
+        "Tiles",
+        "Hardware",
+        "Software algorithms",
+        "Proteins",
+        "Software"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2011.6038056/",
+    "submitted": "2022/06/15 22:42:11"
+}
