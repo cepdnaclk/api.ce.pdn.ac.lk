@@ -10,5 +10,69 @@
     "repo_url": "https://github.com/cepdnaclk/e18-co227-Molding-Machine-Dashboard",
     "page_url": "https://cepdnaclk.github.io/e18-co227-Molding-Machine-Dashboard",
     "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Molding-Machine-Dashboard/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+    "team": {
+        "E/18/022": {
+            "name": "Amarasinghe D. I.",
+            "email": "e18022@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/022",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18022.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/022/"
+        },
+        "E/18/154": {
+            "name": "Jayasumana C. H.",
+            "email": "e18154@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/154",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18154.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/154/"
+        },
+        "E/15/349": {
+            "name": "Thalisha W. G. A. P.",
+            "email": "shamal.ten@gmail.com",
+            "website": "",
+            "github": "https://github.com/shamal1967",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E15/349",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15349.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e15/349/"
+        }
+    },
+    "supervisors": {
+        "isurunawinne@eng.pdn.ac.lk": {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+            "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+        },
+        "kesharaw@eng.pdn.ac.lk": {
+            "name": "Keshara Weerasinghe",
+            "email": "kesharaw@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e15/383",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/keshara.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/kesharaw",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Web",
+        "Software",
+        "React.js"
+    ]
 }
