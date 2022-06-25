@@ -10,5 +10,67 @@
     "repo_url": "https://github.com/cepdnaclk/e18-co227-Postgraduate-Student-Management-System",
     "page_url": "https://cepdnaclk.github.io/e18-co227-Postgraduate-Student-Management-System",
     "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Postgraduate-Student-Management-System/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+    "team": {
+        "E/18/028": {
+            "name": "Ariyawansha P.H.J.U.",
+            "email": "e18028@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/028",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18028.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/028/"
+        },
+        "E/18/173": {
+            "name": "Kasthuripitiya K.A.I.M.",
+            "email": "e18173@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/173",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18173.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/173/"
+        },
+        "E/18/285": {
+            "name": "Ranasinghe S.M.T.S.C.",
+            "email": "e18285@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/285",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18285.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/285/"
+        }
+    },
+    "supervisors": {
+        "upuljm@eng.pdn.ac.lk": {
+            "name": "Dr. Upul Jayasinghe",
+            "email": "upuljm@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul-jayasinghe/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/upuljm",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/upuljm/",
+            "researchgate": "https://www.researchgate.net/profile/Upul-Jayasinghe",
+            "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
+        },
+        "lankaniperera@eng.pdn.ac.lk": {
+            "name": "Poornima Lankani",
+            "email": "lankaniperera@eng.pdn.ac.lk",
+            "profile_url": "",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/poornima.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/lankaniperera",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Web"
+    ]
 }
