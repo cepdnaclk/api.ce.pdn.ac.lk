@@ -1,0 +1,50 @@
+{
+    "title": "Offloading specific performance-related kernel functions into an FPGA",
+    "venue": "2021 IEEE 30th International Symposium on Industrial Electronics (ISIE)",
+    "year": "2021",
+    "abstract": "Today's network transactions are usually handled using kernel-based network protocols residing on general-purpose processors (GPPs). Over time, network transmission speeds have developed rapidly without a corresponding increase in processing speeds of host processors. With devices featuring advanced connectivity and Internet functionality, protocol processing has created a heavy workload on the GPP and has become a limiting factor in high performance networking applications such as online High Frequency Trading Systems (HFTS). It encourages designers to increase processor performance or designing application specific processors for handling heavy network workloads. Then there is the choice of hardware/software implementations based on results from hardware acceleration. Offloading the whole network protocol stack implementation into hardware is not very attractive since handling large linked data structures inside the hardware is not as easy as in software. In this paper we claim that relieving the CPU from bulk processing by offloading selected, performance-related kernel code into hardware is a better option for such scenarios. Hence, we design a scalable system for offloading specific performance-related kernel functions into an FPGA. In this paper we discuss the logic behind our new architecture and the results up to now.",
+    "authors": [
+        "Pabudi T Abeyrathne",
+        "S. Devapriya Dewasurendra",
+        "Dhammika Elkaduwa"
+    ],
+    "author_info": [
+        {
+            "type": "STAFF",
+            "id": "dewasuren",
+            "name": "Dr. Shirley Dewasurendra",
+            "email": "dewasuren@gmail.com",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/"
+        },
+        {
+            "type": "STAFF",
+            "id": "dhammika",
+            "name": "Dr. Dhammika Elkaduwe",
+            "email": "dhammika@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/dhammika-elkaduwe.png",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/dhammika-elkaduwe/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/ISIE45552.2021.9576256",
+    "preprint_url": "https://www.academia.edu/download/75534730/KF_003255_ISIE2021paper.pdf",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        ""
+    ],
+    "tags": [
+        "Performance evaluation",
+        "Protocols",
+        "Profitability",
+        "Linux",
+        "Computer architecture",
+        "Software",
+        "Security"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ISIE45552.2021.9576256/",
+    "submitted": "2022/06/27 03:53:57"
+}

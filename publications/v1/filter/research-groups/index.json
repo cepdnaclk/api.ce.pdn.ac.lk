@@ -243,6 +243,72 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1145/3412382.3458269/index.json"
         }
     ],
+    "ESCAL: Computer Systems (Embedded Systems / Robotics )": [
+        {
+            "title": "Hardware software co-design of the Aho-Corasick algorithm: Scalable for protein identification?",
+            "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
+            "year": "2013",
+            "abstract": "Pattern matching is commonly required in many application areas and bioinformatics is a major area of interest that requires both exact and approximate pattern matching. Much work has been done in this area, yet there is still a significant space for improvement in efficiency, flexibility, and throughput. This paper presents a hardware software co-design of Aho-Corasick algorithm in Nios II soft-processor and a study on its scalability for a pattern matching application. A software only approach is used to compare the throughput and the scalability of the hardware software co-design approach. According to the results we obtained, we conclude that the hardware software co-design implementation shows a maximum of 10 times speed up for pattern size of 1200 peptides compared to the software only implementation. The results also show that the hardware software co-design approach scales well for increasing data size compared to the software only approach.",
+            "authors": [
+                "S.M. Vidanagamachchi",
+                "S.D. Dewasurendra",
+                "",
+                "R.G. Ragel"
+            ],
+            "doi": "https://doi.org/10.1109/ICIInfS.2013.6732003",
+            "preprint": "https://arxiv.org/ftp/arxiv/papers/1403/1403.1317.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "Hardware",
+                "Proteins",
+                "Peptides",
+                "Software algorithms",
+                "Program processors",
+                "Algorithm design and analysis"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2013.6732003/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIInfS.2013.6732003/index.json"
+        },
+        {
+            "title": "Hardware accelerated protein inference framework",
+            "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
+            "year": "2013",
+            "abstract": "Protein inference plays a vital role in the proteomics study. Two major approaches could be used to handle the problem of protein inference; top-down and bottom-up. This paper presents a framework for protein inference, which uses hardware accelerated protein inference framework for handling the most important step in a bottom-up approach, viz. peptide identification during the assembling process. In our framework, identified peptides and their probabilities are used to predict the most suitable reference protein cluster for a given input amino acid sequence with the probability of identified peptides. The framework is developed on an FPGA where hardware software co-design techniques are used to accelerate the computationally intensive parts of the protein inference process. In the paper we have measured, compared and reported the time taken for the protein inference process in our framework against a pure software implementation.",
+            "authors": [
+                "S. M. Vidanagamachchi",
+                "S. D. Dewasurendra",
+                "R. G. Ragel"
+            ],
+            "doi": "https://doi.org/10.1109/ICIInfS.2013.6732061",
+            "preprint": "https://arxiv.org/pdf/1403.1319",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "Proteins",
+                "Peptides",
+                "Hardware",
+                "Tiles",
+                "Software",
+                "Field programmable gate arrays",
+                "Acceleration"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2013.6732061/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIInfS.2013.6732061/index.json"
+        }
+    ],
     "Machine Learning and Data Mining": [
         {
             "title": "Chronic kidney disease prediction using machine learning methods",

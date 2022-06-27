@@ -704,5 +704,453 @@
         "funding": "",
         "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.7815/ijorcs.26.2012.053/",
         "submitted": "2022/06/15 22:52:01"
+    },
+    {
+        "title": "Hardware software co-design of the Aho-Corasick algorithm: Scalable for protein identification?",
+        "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
+        "year": "2013",
+        "abstract": "Pattern matching is commonly required in many application areas and bioinformatics is a major area of interest that requires both exact and approximate pattern matching. Much work has been done in this area, yet there is still a significant space for improvement in efficiency, flexibility, and throughput. This paper presents a hardware software co-design of Aho-Corasick algorithm in Nios II soft-processor and a study on its scalability for a pattern matching application. A software only approach is used to compare the throughput and the scalability of the hardware software co-design approach. According to the results we obtained, we conclude that the hardware software co-design implementation shows a maximum of 10 times speed up for pattern size of 1200 peptides compared to the software only implementation. The results also show that the hardware software co-design approach scales well for increasing data size compared to the software only approach.",
+        "authors": [
+            "S.M. Vidanagamachchi",
+            "S.D. Dewasurendra",
+            "",
+            "R.G. Ragel"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "dewasuren",
+                "name": "Dr. Shirley Dewasurendra",
+                "email": "dewasuren@gmail.com",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/"
+            },
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/ICIInfS.2013.6732003",
+        "preprint_url": "https://arxiv.org/ftp/arxiv/papers/1403/1403.1317.pdf",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+        ],
+        "tags": [
+            "Hardware",
+            "Proteins",
+            "Peptides",
+            "Software algorithms",
+            "Program processors",
+            "Algorithm design and analysis"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2013.6732003/",
+        "submitted": "2022/06/27 03:29:56"
+    },
+    {
+        "title": "Model in the loop testing of complex reactive systems",
+        "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
+        "year": "2013",
+        "abstract": "Currently there is a new trend in the design of Complex Reactive Systems (CRS) towards model based development. Software components are no longer hard written in C or Assembler code but modeled with MATLAB/Simulink, Statemate or similar tools. Model based designs allow development of high level models that can be used for simulations in very early stages of the design process. However the quality assurance of model based developments, specially testing is still poorly supported [1]. In this paper we discuss the characteristics of model based design process and the need of quality assurance methods throughout the design process. We have selected a fully functional prototype passenger elevator as the CRS. A model based design approach is followed throughout the design phase. Model-in-the loop (MiL) testing is carried out as the quality assurance technique and the results are presented. Then the translation of the MiL test into a Hardware-in the-loop (HiL) test is presented.",
+        "authors": [
+            "A. Vidanapathirana",
+            "S. D. Dewasurendra",
+            "S. G. Abeyaratne"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "dewasuren",
+                "name": "Dr. Shirley Dewasurendra",
+                "email": "dewasuren@gmail.com",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/ICIInfS.2013.6731950",
+        "preprint_url": "#",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "Mathematical model",
+            "Induction motors",
+            "Testing",
+            "MATLAB",
+            "Elevators",
+            "Floors"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2013.6731950/",
+        "submitted": "2022/06/27 03:32:02"
+    },
+    {
+        "title": "Hardware accelerated protein inference framework",
+        "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
+        "year": "2013",
+        "abstract": "Protein inference plays a vital role in the proteomics study. Two major approaches could be used to handle the problem of protein inference; top-down and bottom-up. This paper presents a framework for protein inference, which uses hardware accelerated protein inference framework for handling the most important step in a bottom-up approach, viz. peptide identification during the assembling process. In our framework, identified peptides and their probabilities are used to predict the most suitable reference protein cluster for a given input amino acid sequence with the probability of identified peptides. The framework is developed on an FPGA where hardware software co-design techniques are used to accelerate the computationally intensive parts of the protein inference process. In the paper we have measured, compared and reported the time taken for the protein inference process in our framework against a pure software implementation.",
+        "authors": [
+            "S. M. Vidanagamachchi",
+            "S. D. Dewasurendra",
+            "R. G. Ragel"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "dewasuren",
+                "name": "Dr. Shirley Dewasurendra",
+                "email": "dewasuren@gmail.com",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/"
+            },
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/ICIInfS.2013.6732061",
+        "preprint_url": "https://arxiv.org/pdf/1403.1319",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+        ],
+        "tags": [
+            "Proteins",
+            "Peptides",
+            "Hardware",
+            "Tiles",
+            "Software",
+            "Field programmable gate arrays",
+            "Acceleration"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2013.6732061/",
+        "submitted": "2022/06/27 03:34:23"
+    },
+    {
+        "title": "A structured hardware software architecture for peptide based diagnosis \u00e2\u0080\u0094 Sub-string matching problem with limited tolerance",
+        "venue": "2014 7th International Conference on Information and Automation for Sustainability",
+        "year": "2014",
+        "abstract": "The problem of inferring proteins from complex peptide samples in shotgun proteomic workflow sets extreme demands on computational resources in respect of the required very high processing throughputs, rapid processing rates and reliability of results. This is exacerbated by the fact that, in general, a given protein cannot be defined by a fixed sequence of amino acids due to the existence of splice variants and isoforms of that protein. Therefore, the problem of protein inference could be considered as one of identifying sequences of amino acids with some limited tolerance. Two problems arise from this: a) due to these (permitted) variations, the applicability of exact string matching methodologies could be questioned and b) the difficulty of defining a reference (peptide/amino acid) sequence for a particular set of proteins that are functionally indistinguishable, but with some variation in features. This paper presents a model-based hardware acceleration of a structured and practical inference approach that is developed and validated to solve the inference problem in a mass spectrometry experiment of realistic size. Our approach starts from an examination of the known set of splice variants and isoforms of a target protein to identify the Greatest Common Stable Substring (GCSS) of amino acids and the Substrings Subjects to Limited Variation (SSLV) and their respective locations on the GCSS. The hypothesis made here is that these latter substrings (SSLV) appear inside complete peptides and not cutting across peptide boundaries. Then we define and solve the Sub-string Matching Problem with Limited Tolerance (SMPLT) using the Bit-Split Aho Corasick Algorithm with Limited Tolerance (BSACLT) that we define and automate. This approach is validated on identified peptides in a labelled and clustered data set from UNIPROT. A model-based hardware software co-design strategy is used to accelerate the computational workflow of above described protein inference problem. Identification of Baylisascaris Procyonis infection was used as an application instance. This workflow can be generalised to any inexact multiple pattern matching application by replacing the patterns in a clustered and distributed environment which permits a distance between member strings to account for permitted deviations such as substitutions, insertions and deletions. The co-designed workflow achieved up to 70 times maximum speed-up compared to a similar workflow purely run on the processor used for co-design.",
+        "authors": [
+            "Sugandima M. Vidanagamachchi",
+            "S. Devapriya Dewasurendra",
+            "Roshan G. Ragel",
+            "Mahesan Niranjan"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "dewasuren",
+                "name": "Dr. Shirley Dewasurendra",
+                "email": "dewasuren@gmail.com",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/"
+            },
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/ICIAFS.2014.7069624",
+        "preprint_url": "https://arxiv.org/pdf/1412.7811",
+        "pdf_url": "https://arxiv.org/pdf/1412.7811",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "Proteins",
+            "Peptides",
+            "Hardware",
+            "Amino acids",
+            "Software",
+            "Automata",
+            "Databases"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2014.7069624/",
+        "submitted": "2022/06/27 03:37:40"
+    },
+    {
+        "title": "Strategy to Design Formally Verified hardware/software implementation of Network Protocols on Reconfigurable Hardware",
+        "venue": "2015 IEEE 10th International Conference on Industrial and Information Systems (ICIIS)",
+        "year": "2015",
+        "abstract": "Kernel-based network protocol implementation has led to major performance limitations in high-performance networking owing to excessive transaction latencies. Designing such protocols in reconfigurable hardware such as FPGA has been attempted to overcome these limitations. The use of reconfigurable hardware is needed in the development phase and could eventually lead to ASICs for better performance. However, mission critical nature of such applications needs a performance guarantee on design. This paper proposes a strategy to design formally verified reconfigurable hardware/software based implementation of network protocols in a compositional manner.",
+        "authors": [
+            "Pabudi T Abeyrathne",
+            "S.D. Dewasurendra",
+            "Dhammika Elkaduwa"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "dewasuren",
+                "name": "Dr. Shirley Dewasurendra",
+                "email": "dewasuren@gmail.com",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/"
+            },
+            {
+                "type": "STAFF",
+                "id": "dhammika",
+                "name": "Dr. Dhammika Elkaduwe",
+                "email": "dhammika@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/dhammika-elkaduwe.png",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/dhammika-elkaduwe/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/ICIINFS.2015.7398980",
+        "preprint_url": "https://www.academia.edu/download/53590902/Abeyrathne.pdf",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "application specific integrated circuits",
+            "computer networks",
+            "field programmable gate arrays",
+            "financial data processing",
+            "hardware-software codesign",
+            "protocols",
+            "reconfigurable architectures"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2015.7398980/",
+        "submitted": "2022/06/27 03:40:07"
+    },
+    {
+        "title": "Model-based fault diagnosis and prognosis of dynamic systems: a review",
+        "venue": "Procedia Manufacturing",
+        "year": "2019",
+        "abstract": "In maintenance of engineering systems, condition monitoring, fault diagnosis and fault prognosis constitute some of the principal tasks. With the increase of the number of machines within processing plants and their operational complexities, many engineers and researchers have started looking for automated solutions for these tasks. In most of the proposed solutions, these dynamic systems are modelled using tools like automata, Petri nets, bond graphs and Bayesian networks to diagnose and predict faults in those systems. This paper reviews these graphical model-based techniques related to fault diagnosis and prognosis and give suggestions for future research directions identifying research gaps in the field.",
+        "authors": [
+            "Thushara Ekanayakea",
+            "Devapriya Dewasurendra",
+            "Sunil Abeyratne",
+            "Lin Ma",
+            "Prasad Yarlagadda"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "dewasuren",
+                "name": "Dr. Shirley Dewasurendra",
+                "email": "dewasuren@gmail.com",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/"
+            }
+        ],
+        "doi": "https://doi.org/10.1016/j.promfg.2019.02.060",
+        "preprint_url": "#",
+        "pdf_url": "https://doi.org/10.1016/j.promfg.2019.02.060",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "model-based systems",
+            "fault diagnosis",
+            "fault prognosis",
+            "automata",
+            "Petri nets",
+            "bond graphs",
+            "Bayesian networks"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1016/j.promfg.2019.02.060/",
+        "submitted": "2022/06/27 03:43:39"
+    },
+    {
+        "title": "Average time complexity analysis of Commentz-Walter algorithm",
+        "venue": "Journal of the National Science Foundation of Sri Lanka",
+        "year": "2018",
+        "abstract": "",
+        "authors": [
+            "SD Dewasurendra",
+            "SM Vidanagamachchi"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "dewasuren",
+                "name": "Dr. Shirley Dewasurendra",
+                "email": "dewasuren@gmail.com",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/"
+            }
+        ],
+        "doi": "http://dx.doi.org/10.4038/jnsfsr.v46i4.8630",
+        "preprint_url": "#",
+        "pdf_url": "http://dx.doi.org/10.4038/jnsfsr.v46i4.8630",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            ""
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/dx.10.4038/jnsfsr.v46i4.8630/",
+        "submitted": "2022/06/27 03:49:11"
+    },
+    {
+        "title": "Integrating runtime validation and hardware-in-the-loop (HiL) testing with V & V in complex hybrid systems",
+        "venue": "Journal of the National Science Foundation of Sri Lanka",
+        "year": "2019",
+        "abstract": "",
+        "authors": [
+            "SD Dewasurendra",
+            "AC Vidanapathirana",
+            "SG Abeyratne"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "dewasuren",
+                "name": "Dr. Shirley Dewasurendra",
+                "email": "dewasuren@gmail.com",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/"
+            }
+        ],
+        "doi": "http://dx.doi.org/10.4038/jnsfsr.v47i4.9678",
+        "preprint_url": "#",
+        "pdf_url": "http://dx.doi.org/10.4038/jnsfsr.v47i4.9678",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            ""
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/dx.10.4038/jnsfsr.v47i4.9678/",
+        "submitted": "2022/06/27 03:52:01"
+    },
+    {
+        "title": "Offloading specific performance-related kernel functions into an FPGA",
+        "venue": "2021 IEEE 30th International Symposium on Industrial Electronics (ISIE)",
+        "year": "2021",
+        "abstract": "Today's network transactions are usually handled using kernel-based network protocols residing on general-purpose processors (GPPs). Over time, network transmission speeds have developed rapidly without a corresponding increase in processing speeds of host processors. With devices featuring advanced connectivity and Internet functionality, protocol processing has created a heavy workload on the GPP and has become a limiting factor in high performance networking applications such as online High Frequency Trading Systems (HFTS). It encourages designers to increase processor performance or designing application specific processors for handling heavy network workloads. Then there is the choice of hardware/software implementations based on results from hardware acceleration. Offloading the whole network protocol stack implementation into hardware is not very attractive since handling large linked data structures inside the hardware is not as easy as in software. In this paper we claim that relieving the CPU from bulk processing by offloading selected, performance-related kernel code into hardware is a better option for such scenarios. Hence, we design a scalable system for offloading specific performance-related kernel functions into an FPGA. In this paper we discuss the logic behind our new architecture and the results up to now.",
+        "authors": [
+            "Pabudi T Abeyrathne",
+            "S. Devapriya Dewasurendra",
+            "Dhammika Elkaduwa"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "dewasuren",
+                "name": "Dr. Shirley Dewasurendra",
+                "email": "dewasuren@gmail.com",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/"
+            },
+            {
+                "type": "STAFF",
+                "id": "dhammika",
+                "name": "Dr. Dhammika Elkaduwe",
+                "email": "dhammika@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/dhammika-elkaduwe.png",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/dhammika-elkaduwe/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/ISIE45552.2021.9576256",
+        "preprint_url": "https://www.academia.edu/download/75534730/KF_003255_ISIE2021paper.pdf",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "Performance evaluation",
+            "Protocols",
+            "Profitability",
+            "Linux",
+            "Computer architecture",
+            "Software",
+            "Security"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ISIE45552.2021.9576256/",
+        "submitted": "2022/06/27 03:53:57"
+    },
+    {
+        "title": "A Novel FPGA Architecture of Commentz-Walter Algorithm using Bit-Split String-Matching Engines",
+        "venue": "2021 21st International Conference on Advances in ICT for Emerging Regions (ICter)",
+        "year": "2021",
+        "abstract": "This paper describes a reconfigurable hardware implementation of CommentzWalter algorithm with bit-split string matching engines to match multiple protein sequences. It is reported that multiple pattern matching using the most widely used Aho-Corasick algorithm for different applications has been carried out on graphics processing units and field programmable gate arrays to accelerate the matching process. Commentz-Walter algorithm, is a multiple pattern matching algorithm and more complex than Aho-Corasick. There are no reports of it being directly implemented in any hardware platform except as software implementations on general purpose processors. In this work, a specific architecture for our target application using CommentzWalter algorithm has been developed and tested with a simulator for hardware description languages. This architecture can match multiple patterns of proteins efficiently when implemented on a Field Programmable Gate Array. Finally, we compare a previously developed hardware architecture of bit-split Aho-Corasick with our bit-split Commentz-Walter architecture. Using the Intel Stratix IV GX EP4SGX230KF40C2 FPGA chip as the target device, the compilation results with Quartus II show that the synthesis logic utilization is 5% with 2203 total number of registers, 64896 FPGA block memory bits and 4 DSP block 18-bit elements. The simulation and practical experimental results show that the proposed architecture can effectively improve the performance of the Commentz-Walter algorithm.",
+        "authors": [
+            "Sugandima M. Vidanagamachchi",
+            "Shirley D. Dewasurendra"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "dewasuren",
+                "name": "Dr. Shirley Dewasurendra",
+                "email": "dewasuren@gmail.com",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/ICter53630.2021.9774805",
+        "preprint_url": "#",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "Proteins",
+            "Software algorithms",
+            "Computer architecture",
+            "Logic gates",
+            "Hardware",
+            "Software",
+            "Registers"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICter53630.2021.9774805/",
+        "submitted": "2022/06/27 03:55:31"
     }
 ]

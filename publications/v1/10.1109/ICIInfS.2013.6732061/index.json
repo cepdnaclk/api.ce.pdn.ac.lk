@@ -1,0 +1,50 @@
+{
+    "title": "Hardware accelerated protein inference framework",
+    "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
+    "year": "2013",
+    "abstract": "Protein inference plays a vital role in the proteomics study. Two major approaches could be used to handle the problem of protein inference; top-down and bottom-up. This paper presents a framework for protein inference, which uses hardware accelerated protein inference framework for handling the most important step in a bottom-up approach, viz. peptide identification during the assembling process. In our framework, identified peptides and their probabilities are used to predict the most suitable reference protein cluster for a given input amino acid sequence with the probability of identified peptides. The framework is developed on an FPGA where hardware software co-design techniques are used to accelerate the computationally intensive parts of the protein inference process. In the paper we have measured, compared and reported the time taken for the protein inference process in our framework against a pure software implementation.",
+    "authors": [
+        "S. M. Vidanagamachchi",
+        "S. D. Dewasurendra",
+        "R. G. Ragel"
+    ],
+    "author_info": [
+        {
+            "type": "STAFF",
+            "id": "dewasuren",
+            "name": "Dr. Shirley Dewasurendra",
+            "email": "dewasuren@gmail.com",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/"
+        },
+        {
+            "type": "STAFF",
+            "id": "roshanr",
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/ICIInfS.2013.6732061",
+    "preprint_url": "https://arxiv.org/pdf/1403.1319",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+    ],
+    "tags": [
+        "Proteins",
+        "Peptides",
+        "Hardware",
+        "Tiles",
+        "Software",
+        "Field programmable gate arrays",
+        "Acceleration"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2013.6732061/",
+    "submitted": "2022/06/27 03:34:23"
+}

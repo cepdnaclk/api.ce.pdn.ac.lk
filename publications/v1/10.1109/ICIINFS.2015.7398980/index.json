@@ -1,0 +1,50 @@
+{
+    "title": "Strategy to Design Formally Verified hardware/software implementation of Network Protocols on Reconfigurable Hardware",
+    "venue": "2015 IEEE 10th International Conference on Industrial and Information Systems (ICIIS)",
+    "year": "2015",
+    "abstract": "Kernel-based network protocol implementation has led to major performance limitations in high-performance networking owing to excessive transaction latencies. Designing such protocols in reconfigurable hardware such as FPGA has been attempted to overcome these limitations. The use of reconfigurable hardware is needed in the development phase and could eventually lead to ASICs for better performance. However, mission critical nature of such applications needs a performance guarantee on design. This paper proposes a strategy to design formally verified reconfigurable hardware/software based implementation of network protocols in a compositional manner.",
+    "authors": [
+        "Pabudi T Abeyrathne",
+        "S.D. Dewasurendra",
+        "Dhammika Elkaduwa"
+    ],
+    "author_info": [
+        {
+            "type": "STAFF",
+            "id": "dewasuren",
+            "name": "Dr. Shirley Dewasurendra",
+            "email": "dewasuren@gmail.com",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/"
+        },
+        {
+            "type": "STAFF",
+            "id": "dhammika",
+            "name": "Dr. Dhammika Elkaduwe",
+            "email": "dhammika@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/dhammika-elkaduwe.png",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/dhammika-elkaduwe/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/ICIINFS.2015.7398980",
+    "preprint_url": "https://www.academia.edu/download/53590902/Abeyrathne.pdf",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        ""
+    ],
+    "tags": [
+        "application specific integrated circuits",
+        "computer networks",
+        "field programmable gate arrays",
+        "financial data processing",
+        "hardware-software codesign",
+        "protocols",
+        "reconfigurable architectures"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2015.7398980/",
+    "submitted": "2022/06/27 03:40:07"
+}

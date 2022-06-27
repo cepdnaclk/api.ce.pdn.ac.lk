@@ -1,0 +1,41 @@
+{
+    "title": "Model in the loop testing of complex reactive systems",
+    "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
+    "year": "2013",
+    "abstract": "Currently there is a new trend in the design of Complex Reactive Systems (CRS) towards model based development. Software components are no longer hard written in C or Assembler code but modeled with MATLAB/Simulink, Statemate or similar tools. Model based designs allow development of high level models that can be used for simulations in very early stages of the design process. However the quality assurance of model based developments, specially testing is still poorly supported [1]. In this paper we discuss the characteristics of model based design process and the need of quality assurance methods throughout the design process. We have selected a fully functional prototype passenger elevator as the CRS. A model based design approach is followed throughout the design phase. Model-in-the loop (MiL) testing is carried out as the quality assurance technique and the results are presented. Then the translation of the MiL test into a Hardware-in the-loop (HiL) test is presented.",
+    "authors": [
+        "A. Vidanapathirana",
+        "S. D. Dewasurendra",
+        "S. G. Abeyaratne"
+    ],
+    "author_info": [
+        {
+            "type": "STAFF",
+            "id": "dewasuren",
+            "name": "Dr. Shirley Dewasurendra",
+            "email": "dewasuren@gmail.com",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/ICIInfS.2013.6731950",
+    "preprint_url": "#",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        ""
+    ],
+    "tags": [
+        "Mathematical model",
+        "Induction motors",
+        "Testing",
+        "MATLAB",
+        "Elevators",
+        "Floors"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2013.6731950/",
+    "submitted": "2022/06/27 03:32:02"
+}

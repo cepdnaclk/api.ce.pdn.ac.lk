@@ -1,0 +1,41 @@
+{
+    "title": "A Novel FPGA Architecture of Commentz-Walter Algorithm using Bit-Split String-Matching Engines",
+    "venue": "2021 21st International Conference on Advances in ICT for Emerging Regions (ICter)",
+    "year": "2021",
+    "abstract": "This paper describes a reconfigurable hardware implementation of CommentzWalter algorithm with bit-split string matching engines to match multiple protein sequences. It is reported that multiple pattern matching using the most widely used Aho-Corasick algorithm for different applications has been carried out on graphics processing units and field programmable gate arrays to accelerate the matching process. Commentz-Walter algorithm, is a multiple pattern matching algorithm and more complex than Aho-Corasick. There are no reports of it being directly implemented in any hardware platform except as software implementations on general purpose processors. In this work, a specific architecture for our target application using CommentzWalter algorithm has been developed and tested with a simulator for hardware description languages. This architecture can match multiple patterns of proteins efficiently when implemented on a Field Programmable Gate Array. Finally, we compare a previously developed hardware architecture of bit-split Aho-Corasick with our bit-split Commentz-Walter architecture. Using the Intel Stratix IV GX EP4SGX230KF40C2 FPGA chip as the target device, the compilation results with Quartus II show that the synthesis logic utilization is 5% with 2203 total number of registers, 64896 FPGA block memory bits and 4 DSP block 18-bit elements. The simulation and practical experimental results show that the proposed architecture can effectively improve the performance of the Commentz-Walter algorithm.",
+    "authors": [
+        "Sugandima M. Vidanagamachchi",
+        "Shirley D. Dewasurendra"
+    ],
+    "author_info": [
+        {
+            "type": "STAFF",
+            "id": "dewasuren",
+            "name": "Dr. Shirley Dewasurendra",
+            "email": "dewasuren@gmail.com",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/ICter53630.2021.9774805",
+    "preprint_url": "#",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        ""
+    ],
+    "tags": [
+        "Proteins",
+        "Software algorithms",
+        "Computer architecture",
+        "Logic gates",
+        "Hardware",
+        "Software",
+        "Registers"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICter53630.2021.9774805/",
+    "submitted": "2022/06/27 03:55:31"
+}
