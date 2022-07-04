@@ -57,6 +57,8 @@ for pub in publications:
         'edit_url': edit_url
     }
 
+    print(pub_data['title'])
+
     # Add the project_tag info into the student, staff indexes
     if 'author_info' in pub_data:
         for author in pub_data['author_info']:
@@ -71,18 +73,21 @@ for pub in publications:
                 temp_pub_info.pop('abstract')
 
                 student_author_dict[author_id].append(temp_pub_info)
+                print('  > Student:', author_id)
 
             elif author_id!="" and author['type'] == 'STAFF':
                 # Staff
                 # NOTE: This need to be handle carefully !
                 key = author_id + '@eng.pdn.ac.lk'
-                if author_id not in staff_author_dict: staff_author_dict[key] = []
+                if key not in staff_author_dict: staff_author_dict[key] = []
 
                 # Delete the Abstract
                 temp_pub_info = pub_info.copy()
                 temp_pub_info.pop('abstract')
 
                 staff_author_dict[key].append(temp_pub_info)
+                print('  > Staff:', author_id)
+                # print(json.dumps(staff_author_dict[key],indent=4))
 
     # Add the project_tag info into the tag indexes
     if 'tags' in pub_data:
@@ -97,7 +102,7 @@ for pub in publications:
                 if tag not in research_group_dict: research_group_dict[tag] = []
                 research_group_dict[tag].append(pub_info)
 
-    # TODO: implement an aPI to get publications by research group
+    # TODO: implement an API to get publications by research group
 
 # ------------------------------------------------------------------------------
 # Students
@@ -106,7 +111,7 @@ for key in sorted(student_author_dict):
     students_sorted[key] = student_author_dict[key]
 
 # ------------------------------------------------------------------------------
-# Staff
+# Students and Staff
 
 # TODO: In supervisor list, publications should be grouped by years too
 # TODO: Before last 5 years, others should be grouped in one tab (GUI requirement)
@@ -123,6 +128,8 @@ staffFilter_filename = "../publications/v1/filter/staff/index.json"
 os.makedirs(os.path.dirname(staffFilter_filename), exist_ok=True)
 with open(staffFilter_filename, "w") as f:
     f.write(json.dumps(staff_sorted, indent = 4))
+
+print(json.dumps(staff_sorted, indent = 4))
 
 # ------------------------------------------------------------------------------
 # Tags
