@@ -87,7 +87,6 @@ for pub in publications:
 
                 staff_author_dict[key].append(temp_pub_info)
                 print('  > Staff:', author_id)
-                # print(json.dumps(staff_author_dict[key],indent=4))
 
     # Add the project_tag info into the tag indexes
     if 'tags' in pub_data:
@@ -95,12 +94,14 @@ for pub in publications:
             if tag !="":
                 if tag not in tag_dict: tag_dict[tag] = []
                 tag_dict[tag].append(pub_info)
+                print('  > Tag:', tag)
 
     if 'research_groups' in pub_data:
         for tag in pub_data['research_groups']:
             if tag !="":
                 if tag not in research_group_dict: research_group_dict[tag] = []
                 research_group_dict[tag].append(pub_info)
+                print('  > Research Group:', tag)
 
     # TODO: implement an API to get publications by research group
 
@@ -128,8 +129,6 @@ staffFilter_filename = "../publications/v1/filter/staff/index.json"
 os.makedirs(os.path.dirname(staffFilter_filename), exist_ok=True)
 with open(staffFilter_filename, "w") as f:
     f.write(json.dumps(staff_sorted, indent = 4))
-
-print(json.dumps(staff_sorted, indent = 4))
 
 # ------------------------------------------------------------------------------
 # Tags

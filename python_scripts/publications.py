@@ -61,6 +61,10 @@ def write_publication(data):
         with open(filename, "w") as f:
             f.write(json.dumps(data, indent = 4))
 
+        # Debug:
+        print(data['title'])
+        print('  > ', data['venue'], ',', data['year'], '\n')
+
 # ------------------------------------------------------------------------------
 
 google_form_link = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQkkmY3EMIGJamXqsR0eSku9hGxrVcq_5R1EdY_laqhajwsHkROj9XWYxUbNcM4yYjw4nrcRr5XpSZY/pub?output=tsv"
