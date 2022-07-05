@@ -1,0 +1,47 @@
+{
+    "title": "Instruction-set selection for multi-application based ASIP design: An instruction-level study",
+    "venue": "2012 IEEE 6th International Conference on Information and Automation for Sustainability",
+    "year": "2012",
+    "abstract": "Efficiency in embedded systems is paramount to achieve high performance while consuming less area and power. Processors in embedded systems have to be designed carefully to achieve such design constraints. Application Specific Instruction set Processors (ASIPs) exploit the nature of applications to design an optimal instruction set. Despite being not general to execute any application, ASIPs are highly preferred in the embedded systems industry where the devices are produced to satisfy a certain type of application domain/s (either intra-domain or inter-domain). Typically, ASIPs are designed from a base-processor and functionalities are added for applications. This paper studies the multi-application ASIPs and their instruction sets, extensively analysing the instructions for inter-domain and intra-domain designs. Metrics analysed are the reusable instructions and the extra cost to add a certain application. A wide range of applications from various application benchmarks (MiBench, MediaBench and SPEC2006) and domains are analysed for two different architectures (ARM-Thumb and PISA). Our study shows that the intra-domain applications contain larger number of common instructions, whereas the inter-domain applications have very less common instructions, regardless of the architecture (and therefore the ISA).",
+    "authors": [
+        "Roshan Ragel",
+        "Swarnalatha Radhakrishnan",
+        "Angelo Ambrose"
+    ],
+    "author_info": [
+        {
+            "type": "STAFF",
+            "id": "roshanr",
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+        },
+        {
+            "type": "STAFF",
+            "id": "swarnar",
+            "name": "Dr. Swarnalatha Radhakrishnan",
+            "email": "swarnar@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/swarnalatha-radhakrishnan.png",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/swarnalatha-radhakrishnan/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/ICIAFS.2012.6419895",
+    "preprint_url": "https://arxiv.org/pdf/1403.7291.pdf",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        ""
+    ],
+    "tags": [
+        "GSM",
+        "Engines",
+        "Integrated circuits",
+        "Transform coding"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2012.6419895/",
+    "submitted": "2022/07/04 12:08:28"
+}

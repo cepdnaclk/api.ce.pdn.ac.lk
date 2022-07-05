@@ -445,7 +445,7 @@
                 "type": "STAFF",
                 "id": "manjula.sandirigama",
                 "name": "Dr. Manjula Sandirigama",
-                "email": "manjula.sandirigama@gmail.com",
+                "email": "manjula.sandirigama@eng.pdn.ac.lk",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
                 "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/"
             }
@@ -489,7 +489,7 @@
                 "type": "STAFF",
                 "id": "manjula.sandirigama",
                 "name": "Dr. Manjula Sandirigama",
-                "email": "manjula.sandirigama@gmail.com",
+                "email": "manjula.sandirigama@eng.pdn.ac.lk",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
                 "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/"
             }
@@ -1152,5 +1152,273 @@
         "funding": "",
         "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICter53630.2021.9774805/",
         "submitted": "2022/06/27 03:55:31"
+    },
+    {
+        "title": "Axis2UNO: Web Services Enabled Openoffice.org",
+        "venue": "2008 4th International Conference on Information and Automation for Sustainability",
+        "year": "2008",
+        "abstract": "Openoffice.org is a popular, free and open source office product. This product is used by millions of people and developed, maintained and extended by thousands of developers worldwide. Playing a dominant role in the Web, Web services technology is serving millions of people every day. Axis2 is one of the most popular, free and open source Web service engines. The framework presented in this paper, Axis2UNO, a combination of such two technologies is capable of making a new era in office environment. Two other attempts to enhance Web services functionality in office products are Excel Web services and UNO Web service proxy. Excel Web services is combined with Microsoft SharePoint technology and exposes information sharing in a different perspective within the proprietary Microsoft office products. UNO Web service proxy is implemented with Java Web services developer pack and enables basic Web services related functionality in Openoffice.org. However, the work presented here is the first one to combine Openoffice.org and Axis2 and we expect it to outperform the other efforts with the community involvement and feature richness in those products.",
+        "authors": [
+            "BANM Bambarasinghe",
+            "HMS Huruggamuwa",
+            "Roshan G Ragel",
+            "Swarnalatha Radhakrishnan"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            },
+            {
+                "type": "STAFF",
+                "id": "swarnar",
+                "name": "Dr. Swarnalatha Radhakrishnan",
+                "email": "swarnar@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/swarnalatha-radhakrishnan.png",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/swarnalatha-radhakrishnan/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/ICIAFS.2008.4783956",
+        "preprint_url": "https://arxiv.org/ftp/arxiv/papers/1402/1402.0670.pdf",
+        "pdf_url": "https://arxiv.org/ftp/arxiv/papers/1402/1402.0670.pdf",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "Web services",
+            "Search engines",
+            "Computer networks",
+            "Maintenance engineering",
+            "Java",
+            "Data security",
+            "Packaging",
+            "Office automation",
+            "Information technology",
+            "Resource management"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2008.4783956/",
+        "submitted": "2022/07/04 12:00:16"
+    },
+    {
+        "title": "Loop unrolling in multi-pipeline ASIP design",
+        "venue": "2009 International Conference on Industrial and Information Systems (ICIIS)",
+        "year": "2009",
+        "abstract": "Application Specific Instruction-set Processor (ASIP) is one of the popular processor design techniques for embedded systems which allow customizability in processor design without overly hindering design flexibility. Multi-pipeline ASIPs were proposed to improve the performance of such systems by compromising between speed and processor area. One of the problems in the multi-pipeline design is the limited inherent instruction level parallelism (ILP) available in applications. The ILP of application programs can be improved via a compiler optimization technique known as loop unrolling. In this paper, we present the impact of loop unrolling on the performance (speed) of multi-pipeline ASIPs. The improvement in speed averages around 15% for a number of benchmark applications with the maximum improvement of around 30%. In addition, we report the variation of performance against the loop unrolling factor - the amount of unrolling performed on an application.",
+        "authors": [
+            "HMRDB Navarathna",
+            "Swarnalatha Radhakrishnan",
+            "Roshan G Ragel"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "swarnar",
+                "name": "Dr. Swarnalatha Radhakrishnan",
+                "email": "swarnar@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/swarnalatha-radhakrishnan.png",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/swarnalatha-radhakrishnan/"
+            },
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/ICIINFS.2009.5429845",
+        "preprint_url": "https://arxiv.org/pdf/1402.0671",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "Application specific processors",
+            "Authentication",
+            "Computer science",
+            "Steganography",
+            "Image analysis",
+            "Algorithm design and analysis",
+            "Computer industry",
+            "Information systems",
+            "Postal services",
+            "Entropy"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2009.5429845/",
+        "submitted": "2022/07/04 12:03:04"
+    },
+    {
+        "title": "Heterogeneous processor pipeline for a product cipher application",
+        "venue": "2011 6th International Conference on Industrial and Information Systems",
+        "year": "2011",
+        "abstract": "Processing data received as a stream is a task commonly performed by modern embedded devices, in a wide range of applications such as multimedia (encoding/decoding/ playing media), networking (switching and routing), digital security, scientific data processing, etc. Such processing normally tends to be calculation intensive and therefore requiring significant processing power. Therefore, hardware acceleration methods to increase the performance of such applications constitute an important area of study. In this paper, we present an evaluation of one such method to process streaming data, namely multi-processor pipeline architecture. The hardware is based on a Multiple-Processor System on Chip (MPSoC), using a data encryption algorithm as a case study. The algorithm is partitioned on a coarse grained level and mapped on to an MPSoC with five processor cores in a pipeline, using specifically configured Xtensa LX3 cores. The system is then selectively optimized by strengthening and pruning the resources of each processor core. The optimized system is evaluated and compared against an optimal single-processor System on Chip (SoC) for the same application. The multiple-processor pipeline system for data encryption algorithms used was observed to provide significant speed ups, up to 4.45 times that of the single-processor system, which is close to the ideal speed up from a five-stage pipeline.",
+        "authors": [
+            "Isuru B. Nawinne",
+            "Mahanama S. Wickramasinghe",
+            "Roshan G. Ragel",
+            "Member",
+            "Swarnalatha Radhakrishnan"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "isurunawinne",
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+            },
+            {
+                "type": "STAFF",
+                "id": "mahanamaw",
+                "name": "Dr. Mahanama Wickramasinghe",
+                "email": "mahanamaw@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/mahanama-wickramasinghe.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/mahanama-wickramasinghe/"
+            },
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            },
+            {
+                "type": "STAFF",
+                "id": "swarnar",
+                "name": "Dr. Swarnalatha Radhakrishnan",
+                "email": "swarnar@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/swarnalatha-radhakrishnan.png",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/swarnalatha-radhakrishnan/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/ICIINFS.2011.6038036",
+        "preprint_url": "https://arxiv.org/ftp/arxiv/papers/1403/1403.7299.pdf",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "Pipelines",
+            "Encryption",
+            "Algorithm design and analysis",
+            "Partitioning algorithms",
+            "Streaming media",
+            "Computer architecture"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2011.6038036/",
+        "submitted": "2022/07/04 12:06:06"
+    },
+    {
+        "title": "Instruction-set selection for multi-application based ASIP design: An instruction-level study",
+        "venue": "2012 IEEE 6th International Conference on Information and Automation for Sustainability",
+        "year": "2012",
+        "abstract": "Efficiency in embedded systems is paramount to achieve high performance while consuming less area and power. Processors in embedded systems have to be designed carefully to achieve such design constraints. Application Specific Instruction set Processors (ASIPs) exploit the nature of applications to design an optimal instruction set. Despite being not general to execute any application, ASIPs are highly preferred in the embedded systems industry where the devices are produced to satisfy a certain type of application domain/s (either intra-domain or inter-domain). Typically, ASIPs are designed from a base-processor and functionalities are added for applications. This paper studies the multi-application ASIPs and their instruction sets, extensively analysing the instructions for inter-domain and intra-domain designs. Metrics analysed are the reusable instructions and the extra cost to add a certain application. A wide range of applications from various application benchmarks (MiBench, MediaBench and SPEC2006) and domains are analysed for two different architectures (ARM-Thumb and PISA). Our study shows that the intra-domain applications contain larger number of common instructions, whereas the inter-domain applications have very less common instructions, regardless of the architecture (and therefore the ISA).",
+        "authors": [
+            "Roshan Ragel",
+            "Swarnalatha Radhakrishnan",
+            "Angelo Ambrose"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            },
+            {
+                "type": "STAFF",
+                "id": "swarnar",
+                "name": "Dr. Swarnalatha Radhakrishnan",
+                "email": "swarnar@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/swarnalatha-radhakrishnan.png",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/swarnalatha-radhakrishnan/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/ICIAFS.2012.6419895",
+        "preprint_url": "https://arxiv.org/pdf/1403.7291.pdf",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "GSM",
+            "Engines",
+            "Integrated circuits",
+            "Transform coding"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2012.6419895/",
+        "submitted": "2022/07/04 12:08:28"
+    },
+    {
+        "title": "DIMSim: A rapid two-level cache simulation approach for deadline-based MPSoCs",
+        "venue": "8th IEEE/ACM/IFIP international conference on Hardware/software codesign and system synthesis",
+        "year": "2012",
+        "abstract": "It is of critical importance to satisfy deadline requirements for an embedded application to avoid undesired outcomes. Multiprocessor System-on-Chips (MPSoCs) play a vital role in contemporary embedded devices to satisfy timing deadlines. Such MPSoCs include two-level cache hierarchies which have to be dimensioned carefully to support timing deadlines of the application(s) while consuming minimum area and therefore minimum power. Given the deadline of an application, it is possible to systematically derive the maximum time that could be spent on memory accesses which can then be used to dimension the suitable cache sizes. As the dimensioning has to be done rapidly to satisfy the time to market requirement, we choose a well acclaimed rapid cache simulation strategy, the single-pass trace driven simulation, for estimating the cache dimensions. Therefore, for the first time, we address the two main challenges, coherency and scalability, in adapting a single-pass simulator to a MPSoC with two-level cache hierarchy. The challenges are addressed through a modular bottom-up simulation technique where L1 and L2 simulations are handled in independent communicating modules. In this paper, we present how the dimensioning is performed for a two-level inclusive data cache hierarchy in an MPSoC. With the rapid simulation proposed, the estimations are suggested within an hour (worst case on considered application benchmarks). We experimented our approach with task based MPSoC implementations of JPEG and H264 benchmarks and achieved timing deviations of 16.1% and 7.2% respectively on average against the requested data access times. The deviation numbers are always positive meaning our simulator guarantees to satisfy the requested data access time. In addition, we generated a set of synthetic memory traces and used them to extensively analyse our simulator. For the synthetic traces, our simulator provides cache sizes to always guarantee the requested data access time, deviating below 14.5% on average.",
+        "authors": [
+            "Mohammad Shihabul Haque",
+            "Roshan Ragel",
+            "Angelo Ambrose",
+            "Swarnalatha Radhakrishnan",
+            "Sri Parameswaran"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            },
+            {
+                "type": "STAFF",
+                "id": "swarnar",
+                "name": "Dr. Swarnalatha Radhakrishnan",
+                "email": "swarnar@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/swarnalatha-radhakrishnan.png",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/swarnalatha-radhakrishnan/"
+            }
+        ],
+        "doi": "https://doi.org/10.1145/2380445.2380473",
+        "preprint_url": "#",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "Hardware",
+            "Hardware validation"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1145/2380445.2380473/",
+        "submitted": "2022/07/04 12:11:27"
     }
 ]
