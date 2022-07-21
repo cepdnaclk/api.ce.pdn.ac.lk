@@ -38,6 +38,19 @@
         "page_url": "https://cepdnaclk.github.io/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict/"
     },
+    "e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment": {
+        "title": "an artificial intelligence inspired zero trust model in decentralized edge environment",
+        "description": "When moving from web 2.0 to web 3.0, decentralized network architecture became an essential network architecture with a large set of important use cases such as IOT edge environments, decentralized applications (DApps) and decentralized transaction systems. Because of this decentality, the ability of dividing devices into two sets (internal and external) went away and introduced a new set of  security vulnerabilities because of their fuzzy network boundary. To address these vulnerabilities, Zero Trust Architecture (ZTA), \u201cNever trust, always verify\u201d is introduced. In this research project, our goal is to develop a dynamic authentication/ authorization security solution for a decentralized edge environment with the help of machine learning techniques.",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment/",
+        "repo_url": "https://github.com/cepdnaclk/e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment",
+        "page_url": "https://cepdnaclk.github.io/e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment/"
+    },
     "e16-4yp-neuromorphic-architecture": {
         "title": "neuromorphic architecture",
         "description": "Neuromorphic architectures are hardware architectures that use the biologically inspired neural functions as the basis of operation. Information processing based on spiking neuron architectures have caught considerable attention in recent years due to its low power consumption compared to traditional artificial neural networks.  In this project, as the first stage, we are implementing parallel multiple processing elements based on RISC-V architecture to represent biological neurons. Single neurons can be implemented as a single processor with local memory access or since the spike time of biological neurons is in the millisecond order multiple neurons can be virtualized to a single processor. At the second stage of the process, we are expecting to design encoders and decoders to benchmark the architecture by solving classical machine learning problems.",
@@ -50,5 +63,18 @@
         "repo_url": "https://github.com/cepdnaclk/e16-4yp-neuromorphic-architecture",
         "page_url": "https://cepdnaclk.github.io/e16-4yp-neuromorphic-architecture",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/neuromorphic-architecture/"
+    },
+    "e16-4yp-open-world-object-detection-and-discovery": {
+        "title": "open world object detection and discovery",
+        "description": "",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/open-world-object-detection-and-discovery/",
+        "repo_url": "https://github.com/cepdnaclk/e16-4yp-open-world-object-detection-and-discovery",
+        "page_url": "https://cepdnaclk.github.io/e16-4yp-open-world-object-detection-and-discovery",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/open-world-object-detection-and-discovery/"
     }
 }
