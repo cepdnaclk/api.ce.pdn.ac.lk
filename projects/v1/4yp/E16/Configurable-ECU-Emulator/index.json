@@ -1,15 +1,15 @@
 {
-    "title": "Configurable ECU Emulater",
-    "description": "",
+    "title": "Configurable ECU Emulator",
+    "description": "The Project aims to develop a Fast instruction set simulator for Infinion tricore ISA to emulate an actual ECU for car manufacturing industry.",
     "category": {
         "title": "Undergraduate Research Projects",
         "code": "4yp",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/"
     },
-    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Configurable-ECU-Emulater/",
-    "repo_url": "https://github.com/cepdnaclk/e16-4yp-Configurable-ECU-Emulater",
-    "page_url": "https://cepdnaclk.github.io/e16-4yp-Configurable-ECU-Emulater",
-    "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Configurable-ECU-Emulater/",
+    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Configurable-ECU-Emulator/",
+    "repo_url": "https://github.com/cepdnaclk/e16-4yp-Configurable-ECU-Emulator",
+    "page_url": "https://cepdnaclk.github.io/e16-4yp-Configurable-ECU-Emulator",
+    "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Configurable-ECU-Emulator/",
     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
     "team": {
         "E/16/061": {
@@ -72,8 +72,8 @@
     },
     "tags": [
         "Final Year Projects",
-        "ECU Emulater",
-        "Instruction Set Simulater",
+        "ECU Emulator",
+        "Instruction Set Simulator",
         "Infinion Tricore",
         "Software Simulation",
         "Hardware Virtualization"

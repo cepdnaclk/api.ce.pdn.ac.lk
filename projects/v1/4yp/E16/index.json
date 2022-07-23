@@ -1,4 +1,30 @@
 {
+    "e16-4yp-AI-as-a-Microservice-for-Smart-Edge-of-Things": {
+        "title": "AI as a Microservice for Smart Edge of Things",
+        "description": "",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/AI-as-a-Microservice-for-Smart-Edge-of-Things/",
+        "repo_url": "https://github.com/cepdnaclk/e16-4yp-AI-as-a-Microservice-for-Smart-Edge-of-Things",
+        "page_url": "https://cepdnaclk.github.io/e16-4yp-AI-as-a-Microservice-for-Smart-Edge-of-Things",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/AI-as-a-Microservice-for-Smart-Edge-of-Things/"
+    },
+    "e16-4yp-Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs": {
+        "title": "Acceleration of DTW algorithm for real time nanopore selective sequencing using GPUs",
+        "description": "The project aims to optimize the Dynamic Time Warping (DTW) algorithm and accelerate it using Graphics Processing Units (GPUs), So that algorithm can be executed in a GPU-equipped laptop or a GPU-equipped embedded device like NVIDIA Jetson, rather than connecting to a massive server.",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs/",
+        "repo_url": "https://github.com/cepdnaclk/e16-4yp-Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs",
+        "page_url": "https://cepdnaclk.github.io/e16-4yp-Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs/"
+    },
     "e16-4yp-Automated-Protein-Function-Prediction": {
         "title": "Automated Protein Function Prediction",
         "description": "",
@@ -12,18 +38,31 @@
         "page_url": "#",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Automated-Protein-Function-Prediction/"
     },
-    "e16-4yp-Configurable-ECU-Emulater": {
-        "title": "Configurable ECU Emulater",
+    "e16-4yp-Configurable-ECU-Emulator": {
+        "title": "Configurable ECU Emulator",
+        "description": "The Project aims to develop a Fast instruction set simulator for Infinion tricore ISA to emulate an actual ECU for car manufacturing industry.",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Configurable-ECU-Emulator/",
+        "repo_url": "https://github.com/cepdnaclk/e16-4yp-Configurable-ECU-Emulator",
+        "page_url": "https://cepdnaclk.github.io/e16-4yp-Configurable-ECU-Emulator",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Configurable-ECU-Emulator/"
+    },
+    "e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients-in-Sri-Lanka": {
+        "title": "Food Recommendation System Using Machine Learning for Diabetic Patients in Sri Lanka",
         "description": "",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Configurable-ECU-Emulater/",
-        "repo_url": "https://github.com/cepdnaclk/e16-4yp-Configurable-ECU-Emulater",
-        "page_url": "https://cepdnaclk.github.io/e16-4yp-Configurable-ECU-Emulater",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Configurable-ECU-Emulater/"
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients-in-Sri-Lanka/",
+        "repo_url": "https://github.com/cepdnaclk/e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients-in-Sri-Lanka",
+        "page_url": "#",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients-in-Sri-Lanka/"
     },
     "e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches": {
         "title": "Hardware Cache Switching with Operating System Context Switches",
@@ -37,6 +76,19 @@
         "repo_url": "https://github.com/cepdnaclk/e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches",
         "page_url": "#",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/"
+    },
+    "e16-4yp-Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity": {
+        "title": "Smart Agriculture Use of Computer Vision ML and IoT to Improve Crop Productivity",
+        "description": "",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity/",
+        "repo_url": "https://github.com/cepdnaclk/e16-4yp-Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity",
+        "page_url": "https://cepdnaclk.github.io/e16-4yp-Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity/"
     },
     "e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict": {
         "title": "Using Computer Vision and Agent Based Modelling to Explore the Human Elephant Conflict",
@@ -64,6 +116,19 @@
         "page_url": "https://cepdnaclk.github.io/e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment/"
     },
+    "e16-4yp-implementation-of-lightweight-cryptographic-algorithms": {
+        "title": "implementation of lightweight cryptographic algorithms",
+        "description": "This project aims to implement and analyse NIST Lightweight cryptography competition finalist algorithms. Lightweight cryptographic algorithms are designed to be run on resource-constrained IoT devices.",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/implementation-of-lightweight-cryptographic-algorithms/",
+        "repo_url": "https://github.com/cepdnaclk/e16-4yp-implementation-of-lightweight-cryptographic-algorithms",
+        "page_url": "https://cepdnaclk.github.io/e16-4yp-implementation-of-lightweight-cryptographic-algorithms",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/implementation-of-lightweight-cryptographic-algorithms/"
+    },
     "e16-4yp-neuromorphic-architecture": {
         "title": "neuromorphic architecture",
         "description": "Neuromorphic architectures are hardware architectures that use the biologically inspired neural functions as the basis of operation. Information processing based on spiking neuron architectures have caught considerable attention in recent years due to its low power consumption compared to traditional artificial neural networks.  In this project, as the first stage, we are implementing parallel multiple processing elements based on RISC-V architecture to represent biological neurons. Single neurons can be implemented as a single processor with local memory access or since the spike time of biological neurons is in the millisecond order multiple neurons can be virtualized to a single processor. At the second stage of the process, we are expecting to design encoders and decoders to benchmark the architecture by solving classical machine learning problems.",
@@ -79,7 +144,7 @@
     },
     "e16-4yp-open-world-object-detection-and-discovery": {
         "title": "open world object detection and discovery",
-        "description": "",
+        "description": "Object detection is a well-known computer vision technique for locating instances of objects in images. Open World Object Detection refers to tackling object detection tasks in an open-world setting where the task is to detect a known set of object categories while simultaneously identifying unknown objects. Moreover, it is required to identify instances of unknown objects and subsequently learn to recognize them when training data progressively arrive. An oracle (eg: - a human annotator) is needed to introduce new class labels for the identified unknowns to classify those to relevant object classes in the next increments of learning steps.",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
