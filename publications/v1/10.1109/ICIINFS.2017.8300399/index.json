@@ -1,0 +1,52 @@
+{
+    "title": " Identifying the optimal set of attributes that impose high impact on the end results of a cricket match using machine learning",
+    "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
+    "year": "2017",
+    "abstract": "Indian Premier League (IPL) is a franchise system based, annual cricket tournament. IPL deals with millions of dollars. The amount of money spent on the IPL teams imposes high pressure on owners to search victories, which depends on team performance. Essentially, it is critical to find the right set of metrics that would lead to assemble a team with the highest chance of winning. This study attempts to identify the optimal set of attributes, which impose the high impact on the results of a cricket match. Determining an optimal set of attributes will help team owners to look for players with these attributes to form a team by which they can enhance the winnability of a cricket team. Several efforts have already been taken to address this problem without much success. Most of the existing works focused on identifying different performance metrics based on their domain knowledge of cricket. The proposed solution relies on statistical analysis and machine learning while minimizing the use of domain knowledge. Ball by ball data for all past IPL matches were collected, aggregated to innings level details for the analysis and the problem is modeled as a classification problem. The data set contained a set of features based on the innings level data and win/lose/draw class labels. Different machine learning algorithms were employed, and Support Vector Machine (SVM) achieved the best accuracy in the evaluation. Then, we examined all possible feature combinations using SVM by using separate training and testing sets. Finally, the attribute set that yields the highest accuracy in the evaluation is identified, which will be the optimal set of attributes that impose the high impact on the end results of a cricket match.",
+    "authors": [
+        "Pranavan Somaskandhan",
+        "Gihan Wijesinghe",
+        "Leshan Bashitha Wijegunawardana",
+        "Asitha Bandaranayake",
+        "Sampath Deegalla"
+    ],
+    "author_info": [
+        {
+            "type": "STAFF",
+            "id": "asithab",
+            "name": "Dr. Asitha Bandaranayake",
+            "email": "asithab@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/"
+        },
+        {
+            "type": "STAFF",
+            "id": "sampath",
+            "name": "Mr. Sampath Deegalla",
+            "email": "sampath@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/sampath-deegalla.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/sampath-deegalla/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/ICIINFS.2017.8300399",
+    "preprint_url": "#",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        ""
+    ],
+    "tags": [
+        "Sports equipment",
+        "Data mining",
+        "Measurement",
+        "Support vector machines",
+        "Statistical analysis",
+        "Games",
+        "Relational databases"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300399/",
+    "submitted": "2022/07/24 03:12:25"
+}

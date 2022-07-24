@@ -1,0 +1,37 @@
+{
+    "title": "Raw transcriptomics data to gene specific SSRs: a validated free bioinformatics workflow for biologists",
+    "venue": "Nature Scientific Reports",
+    "year": "2020",
+    "abstract": "Recent advances in next-generation sequencing technologies have paved the path for a considerable amount of sequencing data at a relatively low cost. This has revolutionized the genomics and transcriptomics studies. However, different challenges are now created in handling such data with available bioinformatics platforms both in assembly and downstream analysis performed in order to infer correct biological meaning. Though there are a handful of commercial software and tools for some of the procedures, cost of such tools has made them prohibitive for most research laboratories. While individual open-source or free software tools are available for most of the bioinformatics applications, those components usually operate standalone and are not combined for a user-friendly workflow. Therefore, beginners in bioinformatics might find analysis procedures starting from raw sequence data too complicated and time-consuming with the associated learning-curve. Here, we outline a procedure for de novo transcriptome assembly and Simple Sequence Repeats (SSR) primer design solely based on tools that are available online for free use. For validation of the developed workflow, we used Illumina HiSeq reads of different tissue samples of Santalum album (sandalwood), generated from a previous transcriptomics project. A portion of the designed primers were tested in the lab with relevant samples and all of them successfully amplified the targeted regions. The presented bioinformatics workflow can accurately assemble quality transcriptomes and develop gene specific SSRs. Beginner biologists and researchers in bioinformatics can easily utilize this workflow for research purposes.",
+    "authors": [
+        "DNU Naranpanawa",
+        "CHWMRB Chandrasekara",
+        "PCG Bandaranayake",
+        "AU Bandaranayake"
+    ],
+    "author_info": [
+        {
+            "type": "STAFF",
+            "id": "asithab",
+            "name": "Dr. Asitha Bandaranayake",
+            "email": "asithab@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/"
+        }
+    ],
+    "doi": "https://doi.org/10.1038/s41598-020-75270-8",
+    "preprint_url": "https://www.nature.com/articles/s41598-020-75270-8.pdf",
+    "pdf_url": "https://www.nature.com/articles/s41598-020-75270-8.pdf",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        ""
+    ],
+    "tags": [
+        ""
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1038/s41598-020-75270-8/",
+    "submitted": "2022/07/24 03:17:31"
+}

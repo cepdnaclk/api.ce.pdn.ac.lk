@@ -1420,5 +1420,507 @@
         "funding": "",
         "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1145/2380445.2380473/",
         "submitted": "2022/07/04 12:11:27"
+    },
+    {
+        "title": "A Study on Instruction-set Selection Using Multi-application Based Application Specific Instruction-set Processors",
+        "venue": "2013 26th International Conference on VLSI Design and 2013 12th International Conference on Embedded Systems",
+        "year": "2013",
+        "abstract": "Efficiency in embedded systems is paramount to achieve high performance while consuming less area and power. Processors in embedded systems have to be designed carefully to achieve such design constraints. Application Specific Instruction set Processors (ASIPs) exploit the nature of applications to design an optimal instruction set. Despite being not general to execute any application, ASIPs are highly preferred in the embedded systems industry where the devices are produced to satisfy a certain type of application domain/s (either intra-domain or inter-domain). Typically, ASIPs are designed from a base-processor and functionalities are added for applications. This paper studies the multi-application ASIPs and their instruction sets, extensively analyzing the instructions for inter-domain and intra-domain designs. Metrics analyzed are the reusable instructions and the extra cost to add a certain application, together with the hardware synthesis numbers, such as area, timing and delay. A wide range of applications from various application benchmarks (BioPerf, CommBench, MediaBench, MiBench and SPEC2006) and domains are analyzed for three different architectures (LEON2, PISA and ARM-Thumb). Processors are generated for these architectures for different configurations to analyze and synthesize. Our study shows that the intra-domain applications contain larger number of common instructions, whereas the inter-domain applications have very less common instructions, regardless the kind of architecture (and therefore the ISA).",
+        "authors": [
+            "Roshan G. Ragel",
+            "Swarnalatha Radhakrishnan",
+            "Jude Angelo Ambrose",
+            "Sri Parameswaran"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            },
+            {
+                "type": "STAFF",
+                "id": "swarnar",
+                "name": "Dr. Swarnalatha Radhakrishnan",
+                "email": "swarnar@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/swarnalatha-radhakrishnan.png",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/swarnalatha-radhakrishnan/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/VLSID.2013.154",
+        "preprint_url": "https://www.researchgate.net/profile/Roshan-Ragel/publication/261501995_A_Study_on_Instruction-set_Selection_Using_Multi-application_Based_Application_Specific_Instruction-set_Processors/links/54e48faf0cf2dbf60696e9b4/A-Study-on-Instruction-set-Selection-Using-Multi-application-Based-Application-Specific-Instruction-set-Processors.pdf",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+        ],
+        "tags": [
+            "Hardware",
+            "Thumb",
+            "Embedded systems",
+            "Benchmark testing",
+            "Standards",
+            "Instruction sets"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/VLSID.2013.154/",
+        "submitted": "2022/07/23 21:41:28"
+    },
+    {
+        "title": "CSER: HW/SW configurable soft-error resiliency for application specific instruction-set processors",
+        "venue": "2013 Design, Automation & Test in Europe Conference & Exhibition (DATE)",
+        "year": "2013",
+        "abstract": "Soft error has been identified as one of the major challenges to CMOS technology based computing systems. To mitigate this problem, error recovery is a key component, which usually accounts for a substantial cost, since they must introduce redundancies in either time or space. Consequently, using state-of-art recovery techniques could heavily worsen the design constraint, which is fairly stringent for embedded system design. In this paper, we propose a HW/SW methodology that generates the processor, which performs finely configured error recovery functionality targeting the given design constraints (e.g., performance, area and power). Our methodology employs three application-specific optimization heuristics, which generate the optimized composition and configuration based on the two primitive error recovery techniques. The resultant processor is composed of selected primitive techniques at corresponding instruction execution, and configured to perform error recovery at run-time accordingly to the scheme determined at design time. The experiment results have shown that our methodology can at best achieve nine times reliability while maintaining the given constraints, in comparison to the state of the art.",
+        "authors": [
+            "Tuo Li",
+            "Muhammad Shafique",
+            "Semeen Rehman",
+            "Swarnalatha Radhakrishnan",
+            "Roshan Ragel",
+            "Jude Angelo Ambrose",
+            "J\u00c3\u00b6rg Henkel",
+            "Sri Parameswaran"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "swarnar",
+                "name": "Dr. Swarnalatha Radhakrishnan",
+                "email": "swarnar@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/swarnalatha-radhakrishnan.png",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/swarnalatha-radhakrishnan/"
+            },
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            }
+        ],
+        "doi": "https://doi.org/10.7873/DATE.2013.152",
+        "preprint_url": "#",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+        ],
+        "tags": [
+            "Redundancy",
+            "Time factors",
+            "Runtime",
+            "Integrated circuits",
+            "Programming"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.7873/DATE.2013.152/",
+        "submitted": "2022/07/23 21:43:51"
+    },
+    {
+        "title": "DRMA: dynamically reconfigurable MPSoC architecture",
+        "venue": "GLSVLSI '13: Proceedings of the 23rd ACM international conference on Great lakes symposium on VLSI",
+        "year": "2013",
+        "abstract": "Embedded systems are ubiquitous and are deployed in a large range of applications. Designing and fabricating Integrated Circuits (ICs) targeting such different range of applications is expensive. Designers seek flexible processors which efficiently execute a multitude of applications. FPGAs are considered affordable, but design cost, high reconfiguration delay and power consumption are all prohibitive. In this paper, we propose a novel ASIC based flexible MPSoC architecture, which can execute separate tasks in parallel, and it can be configured to execute single task with wide data widths or execute multiple tasks with varying data widths. The architecture presented, called Dynamically Reconfigurable MPSoC Architecture (DRMA), can be rapidly reconfigured through instructions. We present applications as case studies to showcase the flexibility and efficacy of DRMA. Results show for an additional area overhead of about 5%, the system is capable of working as four 32-bit processors, a single 128 bit processor or as a pipelined processing system.",
+        "authors": [
+            "Lawrance Zhang",
+            "Jude Angelo Ambrose",
+            "Jorgen Peddersen",
+            "Sri Parameswaran",
+            "Roshan Ragel",
+            "Swarnalatha Radhakrishnan",
+            "Kewal K. Saluja"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            },
+            {
+                "type": "STAFF",
+                "id": "swarnar",
+                "name": "Dr. Swarnalatha Radhakrishnan",
+                "email": "swarnar@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/swarnalatha-radhakrishnan.png",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/swarnalatha-radhakrishnan/"
+            }
+        ],
+        "doi": "https://doi.org/10.1145/2483028.2483101",
+        "preprint_url": "#",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+        ],
+        "tags": [
+            "Computer systems organization",
+            "Architectures",
+            "Serial architectures",
+            "Pipeline computing",
+            "Hardware"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1145/2483028.2483101/",
+        "submitted": "2022/07/23 21:48:42"
+    },
+    {
+        "title": "Exploring multilevel cache hierarchies in application specific mpsocs",
+        "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+        "year": "2015",
+        "abstract": "Multiprocessor systems make use of multilevel cache hierarchies to improve overall memory access speed. Embedded systems typically use configurable processors, where the caches in the system can be customized for a given application or a set of applications. Finding the optimal or a near-optimal set size, block size, and associativity of each of the caches in a multilevel cache hierarchy is a challenging task due to the presence of billions or even trillions of design points. This paper presents an iterative exploration method to find suitable configurations for all the caches in the hierarchy of an application specific multiprocessor system-on-chip, to improve memory access speed. We propose an algorithm and combine it with the use of specialized hardware for parallel cache simulation to enable multiple back-and-forth iterations through the cache levels. In every iteration, our algorithm explores selected portions of the entire design space to quickly converge upon the final design point. We demonstrate our methodology on two- and three-level cache hierarchies with private and shared caches in a quad-core system, respectively, consisting of 5.4 billion and 10.4 trillion design points. Our method was able to find design points with up to 18.9% lower average memory access time while reducing total cache size by up to 74.15%, compared to a state-of-the-art noniterative method. The number of design points explored was 4\u00c3\u0097 higher in our method, which is still a mere 3.6 \u00c3\u0097 10 -5 % of the entire design space, and took 6.08 h.",
+        "authors": [
+            "Isuru Nawinne",
+            "Haris Javaid",
+            "Roshan Ragel",
+            "Swarnalatha Radhakrishnan",
+            "Sri Parameswaran"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            },
+            {
+                "type": "STAFF",
+                "id": "swarnar",
+                "name": "Dr. Swarnalatha Radhakrishnan",
+                "email": "swarnar@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/swarnalatha-radhakrishnan.png",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/swarnalatha-radhakrishnan/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/TCAD.2015.2445736",
+        "preprint_url": "#",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+        ],
+        "tags": [
+            "Algorithm design and analysis",
+            "Hardware",
+            "Program processors",
+            "Space exploration",
+            "Integrated circuit modeling",
+            "Mathematical model",
+            "Optimization"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/TCAD.2015.2445736/",
+        "submitted": "2022/07/23 21:53:05"
+    },
+    {
+        "title": "Exploring multilevel cache hierarchies in application specific mpsocs",
+        "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+        "year": "2015",
+        "abstract": "Multiprocessor systems make use of multilevel cache hierarchies to improve overall memory access speed. Embedded systems typically use configurable processors, where the caches in the system can be customized for a given application or a set of applications. Finding the optimal or a near-optimal set size, block size, and associativity of each of the caches in a multilevel cache hierarchy is a challenging task due to the presence of billions or even trillions of design points. This paper presents an iterative exploration method to find suitable configurations for all the caches in the hierarchy of an application specific multiprocessor system-on-chip, to improve memory access speed. We propose an algorithm and combine it with the use of specialized hardware for parallel cache simulation to enable multiple back-and-forth iterations through the cache levels. In every iteration, our algorithm explores selected portions of the entire design space to quickly converge upon the final design point. We demonstrate our methodology on two- and three-level cache hierarchies with private and shared caches in a quad-core system, respectively, consisting of 5.4 billion and 10.4 trillion design points. Our method was able to find design points with up to 18.9% lower average memory access time while reducing total cache size by up to 74.15%, compared to a state-of-the-art noniterative method. The number of design points explored was 4\u00c3\u0097 higher in our method, which is still a mere 3.6 \u00c3\u0097 10 -5 % of the entire design space, and took 6.08 h.",
+        "authors": [
+            "Isuru Nawinne",
+            "Haris Javaid",
+            "Roshan Ragel",
+            "Swarnalatha Radhakrishnan",
+            "Sri Parameswaran"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            },
+            {
+                "type": "STAFF",
+                "id": "swarnar",
+                "name": "Dr. Swarnalatha Radhakrishnan",
+                "email": "swarnar@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/swarnalatha-radhakrishnan.png",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/swarnalatha-radhakrishnan/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/TCAD.2015.2445736",
+        "preprint_url": "#",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+        ],
+        "tags": [
+            "Algorithm design and analysis",
+            "Hardware",
+            "Program processors",
+            "Space exploration",
+            "Integrated circuit modeling",
+            "Mathematical model",
+            "Optimization"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/TCAD.2015.2445736/",
+        "submitted": "2022/07/23 21:55:24"
+    },
+    {
+        "title": "Affordable real-time environment monitoring system for greenhouses",
+        "venue": "2016 Manufacturing & Industrial Engineering Symposium (MIES)",
+        "year": "2016",
+        "abstract": "Greenhouse has been the best alternative solution to get a better crop production compared to the traditional agricultural industry. Greenhouses are used to increase harvest by controlling key factors which will aect the planet growth. Real-time monitoring of the greenhouse environment and taking necessary control decisions will result in improvement of yields and economic performance. In this Research paper, we propose an environmental monitoring and controlling system that have the ability to collect the information related to greenhouse environment using various sensors. This system provides the ability to monitor and control the greenhouse remotely via a web interface and a mobile application. Using a low-cost wireless sensor network, environment data on greenhouse are sent to the centralized server. It will store all this data and show the latest environment details of the greenhouse using the web interface. The web interface will provide a real-time graphical display of data using charts and gauges and ability to send control decisions to the central node which is necessary to increase harvest and improve the quality of crops.",
+        "authors": [
+            "Supun Athukorala",
+            "Irunika Weeraratne",
+            "Dumindu Jayathilaka",
+            "Asitha Bandaranayake",
+            "Roshan Ragel"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "asithab",
+                "name": "Dr. Asitha Bandaranayake",
+                "email": "asithab@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/"
+            },
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/MIES.2016.7780261",
+        "preprint_url": "#",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "Servers",
+            "Greenhouses",
+            "Sensor systems",
+            "Relays",
+            "Monitoring",
+            "Sensor phenomena and characterization"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MIES.2016.7780261/",
+        "submitted": "2022/07/24 03:09:57"
+    },
+    {
+        "title": " Identifying the optimal set of attributes that impose high impact on the end results of a cricket match using machine learning",
+        "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
+        "year": "2017",
+        "abstract": "Indian Premier League (IPL) is a franchise system based, annual cricket tournament. IPL deals with millions of dollars. The amount of money spent on the IPL teams imposes high pressure on owners to search victories, which depends on team performance. Essentially, it is critical to find the right set of metrics that would lead to assemble a team with the highest chance of winning. This study attempts to identify the optimal set of attributes, which impose the high impact on the results of a cricket match. Determining an optimal set of attributes will help team owners to look for players with these attributes to form a team by which they can enhance the winnability of a cricket team. Several efforts have already been taken to address this problem without much success. Most of the existing works focused on identifying different performance metrics based on their domain knowledge of cricket. The proposed solution relies on statistical analysis and machine learning while minimizing the use of domain knowledge. Ball by ball data for all past IPL matches were collected, aggregated to innings level details for the analysis and the problem is modeled as a classification problem. The data set contained a set of features based on the innings level data and win/lose/draw class labels. Different machine learning algorithms were employed, and Support Vector Machine (SVM) achieved the best accuracy in the evaluation. Then, we examined all possible feature combinations using SVM by using separate training and testing sets. Finally, the attribute set that yields the highest accuracy in the evaluation is identified, which will be the optimal set of attributes that impose the high impact on the end results of a cricket match.",
+        "authors": [
+            "Pranavan Somaskandhan",
+            "Gihan Wijesinghe",
+            "Leshan Bashitha Wijegunawardana",
+            "Asitha Bandaranayake",
+            "Sampath Deegalla"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "asithab",
+                "name": "Dr. Asitha Bandaranayake",
+                "email": "asithab@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/"
+            },
+            {
+                "type": "STAFF",
+                "id": "sampath",
+                "name": "Mr. Sampath Deegalla",
+                "email": "sampath@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/sampath-deegalla.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/sampath-deegalla/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/ICIINFS.2017.8300399",
+        "preprint_url": "#",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "Sports equipment",
+            "Data mining",
+            "Measurement",
+            "Support vector machines",
+            "Statistical analysis",
+            "Games",
+            "Relational databases"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300399/",
+        "submitted": "2022/07/24 03:12:25"
+    },
+    {
+        "title": "Visual Design Platform for Wireless Sensor Network",
+        "venue": "2018 Moratuwa Engineering Research Conference (MERCon)",
+        "year": "2018",
+        "abstract": "Wireless Sensor Networks (WSN) are being widely used for sensing physical parameters in a broad geographical area. The person who needs WSN will have a pictorial idea of the sensor network. The problem in the traditional method is that the person who needs the WSN should explain the pictorial view of the sensor network to a commercial vendor and buy it from them or they should design it from the scratch. What we proposed in our solution is to develop a platform so that the person who needs the WSN can directly draw the pictorial view on a canvas and then it can automatically generate all the required firmware for the microcontrollers and wiring diagrams. The user is then required only to follow a few instructions to complete the real world implementation of WSNs. This paper is about developing a visual platform to design WSNs. The WSN designing platform was built as a web application, so it can manage a large number of supported sensors and microcontrollers. This means that if one user adds the device driver for any sensor or a microcontroller the other users can directly use it from the WSN design platform without worrying about hardware programming. Further, if anyone needs a new sensor or microcontroller to be supported by this visual design platform, this design tool will have interfaces to directly add new sensors and microcontrollers. The proposed method is affordable for developing custom wireless sensor networks.",
+        "authors": [
+            "Rosen Silva",
+            "Asela Dasanayaka",
+            "Roshan Ragel",
+            "Asitha Bandaranayake"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            },
+            {
+                "type": "STAFF",
+                "id": "asithab",
+                "name": "Dr. Asitha Bandaranayake",
+                "email": "asithab@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/MERCon.2018.8421896",
+        "preprint_url": "https://www.researchgate.net/profile/Asitha-Bandaranayake-3/publication/327517623_Visual_Design_Platform_for_Wireless_Sensor_Network/links/5f98da03458515b7cfa4013c/Visual-Design-Platform-for-Wireless-Sensor-Network.pdf",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "Wireless sensor networks",
+            "Microcontrollers",
+            "Databases",
+            "Skeleton",
+            "Visualization",
+            "Hardware",
+            "Programming"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon.2018.8421896/",
+        "submitted": "2022/07/24 03:14:34"
+    },
+    {
+        "title": "Raw transcriptomics data to gene specific SSRs: a validated free bioinformatics workflow for biologists",
+        "venue": "Nature Scientific Reports",
+        "year": "2020",
+        "abstract": "Recent advances in next-generation sequencing technologies have paved the path for a considerable amount of sequencing data at a relatively low cost. This has revolutionized the genomics and transcriptomics studies. However, different challenges are now created in handling such data with available bioinformatics platforms both in assembly and downstream analysis performed in order to infer correct biological meaning. Though there are a handful of commercial software and tools for some of the procedures, cost of such tools has made them prohibitive for most research laboratories. While individual open-source or free software tools are available for most of the bioinformatics applications, those components usually operate standalone and are not combined for a user-friendly workflow. Therefore, beginners in bioinformatics might find analysis procedures starting from raw sequence data too complicated and time-consuming with the associated learning-curve. Here, we outline a procedure for de novo transcriptome assembly and Simple Sequence Repeats (SSR) primer design solely based on tools that are available online for free use. For validation of the developed workflow, we used Illumina HiSeq reads of different tissue samples of Santalum album (sandalwood), generated from a previous transcriptomics project. A portion of the designed primers were tested in the lab with relevant samples and all of them successfully amplified the targeted regions. The presented bioinformatics workflow can accurately assemble quality transcriptomes and develop gene specific SSRs. Beginner biologists and researchers in bioinformatics can easily utilize this workflow for research purposes.",
+        "authors": [
+            "DNU Naranpanawa",
+            "CHWMRB Chandrasekara",
+            "PCG Bandaranayake",
+            "AU Bandaranayake"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "asithab",
+                "name": "Dr. Asitha Bandaranayake",
+                "email": "asithab@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/"
+            }
+        ],
+        "doi": "https://doi.org/10.1038/s41598-020-75270-8",
+        "preprint_url": "https://www.nature.com/articles/s41598-020-75270-8.pdf",
+        "pdf_url": "https://www.nature.com/articles/s41598-020-75270-8.pdf",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            ""
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1038/s41598-020-75270-8/",
+        "submitted": "2022/07/24 03:17:31"
+    },
+    {
+        "title": "Data Mining System for Predicting a Winning Cricket Team",
+        "venue": "2021 IEEE 16th International Conference on Industrial and Information Systems (ICIIS)",
+        "year": "2021",
+        "abstract": "Cricket is a two-team outdoor game that originated in England around the 19th century. This is played in 3 forms as twenty20, ODI, and Test matches. Due to the availability of data, researchers have been able to do statistical analysis of data for pattern recognition, to find factors affecting the game, and for outcome prediction. But due to the high uncertainty of the game, it has become very difficult to come up with a stable and accurate model. The outcome model also depends on the number of overs, match type, time period, and player combination among many other factors. This research focuses only on the ODI matches that were played between ICC full members; Australia, West Indies, Sri Lanka, Bangladesh, New Zealand, Ireland, India, Zimbabwe, Afghanistan, England, South Africa, and Pakistan. This outcome prediction is based on players\u00e2\u0080\u0099 performances in a team and some features specific to the team and the match. The individual performance of batsmen, bowlers, and fielders are analyzed separately considering all-time ODI data. The combined performance of batsmen and bowlers was analyzed, and compared with individual performances using statistical methods. Association rule mining was used to find frequent winning player combinations. Match data from 2015 to 2020 were considered for the combined performance analysis and outcome prediction. For all these predictions we used data mining and machine learning techniques.",
+        "authors": [
+            "Dinithi Hasanika",
+            "Roshani Dilhara",
+            "Dulanjali Liyanage",
+            "Asitha Bandaranayake",
+            "Sampath Deegalla"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "asithab",
+                "name": "Dr. Asitha Bandaranayake",
+                "email": "asithab@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/"
+            },
+            {
+                "type": "STAFF",
+                "id": "sampath",
+                "name": "Mr. Sampath Deegalla",
+                "email": "sampath@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/sampath-deegalla.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/sampath-deegalla/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/ICIIS53135.2021.9660702",
+        "preprint_url": "#",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "Uncertainty",
+            "Statistical analysis",
+            "Conferences",
+            "Games",
+            "Machine learning",
+            "Data mining",
+            "Australia"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS53135.2021.9660702/",
+        "submitted": "2022/07/24 03:18:57"
     }
 ]

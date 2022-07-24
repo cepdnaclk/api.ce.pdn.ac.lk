@@ -1,0 +1,51 @@
+{
+    "title": "Visual Design Platform for Wireless Sensor Network",
+    "venue": "2018 Moratuwa Engineering Research Conference (MERCon)",
+    "year": "2018",
+    "abstract": "Wireless Sensor Networks (WSN) are being widely used for sensing physical parameters in a broad geographical area. The person who needs WSN will have a pictorial idea of the sensor network. The problem in the traditional method is that the person who needs the WSN should explain the pictorial view of the sensor network to a commercial vendor and buy it from them or they should design it from the scratch. What we proposed in our solution is to develop a platform so that the person who needs the WSN can directly draw the pictorial view on a canvas and then it can automatically generate all the required firmware for the microcontrollers and wiring diagrams. The user is then required only to follow a few instructions to complete the real world implementation of WSNs. This paper is about developing a visual platform to design WSNs. The WSN designing platform was built as a web application, so it can manage a large number of supported sensors and microcontrollers. This means that if one user adds the device driver for any sensor or a microcontroller the other users can directly use it from the WSN design platform without worrying about hardware programming. Further, if anyone needs a new sensor or microcontroller to be supported by this visual design platform, this design tool will have interfaces to directly add new sensors and microcontrollers. The proposed method is affordable for developing custom wireless sensor networks.",
+    "authors": [
+        "Rosen Silva",
+        "Asela Dasanayaka",
+        "Roshan Ragel",
+        "Asitha Bandaranayake"
+    ],
+    "author_info": [
+        {
+            "type": "STAFF",
+            "id": "roshanr",
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+        },
+        {
+            "type": "STAFF",
+            "id": "asithab",
+            "name": "Dr. Asitha Bandaranayake",
+            "email": "asithab@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/MERCon.2018.8421896",
+    "preprint_url": "https://www.researchgate.net/profile/Asitha-Bandaranayake-3/publication/327517623_Visual_Design_Platform_for_Wireless_Sensor_Network/links/5f98da03458515b7cfa4013c/Visual-Design-Platform-for-Wireless-Sensor-Network.pdf",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        ""
+    ],
+    "tags": [
+        "Wireless sensor networks",
+        "Microcontrollers",
+        "Databases",
+        "Skeleton",
+        "Visualization",
+        "Hardware",
+        "Programming"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon.2018.8421896/",
+    "submitted": "2022/07/24 03:14:34"
+}

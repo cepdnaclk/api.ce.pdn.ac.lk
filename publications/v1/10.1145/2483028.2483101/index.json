@@ -1,0 +1,52 @@
+{
+    "title": "DRMA: dynamically reconfigurable MPSoC architecture",
+    "venue": "GLSVLSI '13: Proceedings of the 23rd ACM international conference on Great lakes symposium on VLSI",
+    "year": "2013",
+    "abstract": "Embedded systems are ubiquitous and are deployed in a large range of applications. Designing and fabricating Integrated Circuits (ICs) targeting such different range of applications is expensive. Designers seek flexible processors which efficiently execute a multitude of applications. FPGAs are considered affordable, but design cost, high reconfiguration delay and power consumption are all prohibitive. In this paper, we propose a novel ASIC based flexible MPSoC architecture, which can execute separate tasks in parallel, and it can be configured to execute single task with wide data widths or execute multiple tasks with varying data widths. The architecture presented, called Dynamically Reconfigurable MPSoC Architecture (DRMA), can be rapidly reconfigured through instructions. We present applications as case studies to showcase the flexibility and efficacy of DRMA. Results show for an additional area overhead of about 5%, the system is capable of working as four 32-bit processors, a single 128 bit processor or as a pipelined processing system.",
+    "authors": [
+        "Lawrance Zhang",
+        "Jude Angelo Ambrose",
+        "Jorgen Peddersen",
+        "Sri Parameswaran",
+        "Roshan Ragel",
+        "Swarnalatha Radhakrishnan",
+        "Kewal K. Saluja"
+    ],
+    "author_info": [
+        {
+            "type": "STAFF",
+            "id": "roshanr",
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+        },
+        {
+            "type": "STAFF",
+            "id": "swarnar",
+            "name": "Dr. Swarnalatha Radhakrishnan",
+            "email": "swarnar@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/swarnalatha-radhakrishnan.png",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/swarnalatha-radhakrishnan/"
+        }
+    ],
+    "doi": "https://doi.org/10.1145/2483028.2483101",
+    "preprint_url": "#",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+    ],
+    "tags": [
+        "Computer systems organization",
+        "Architectures",
+        "Serial architectures",
+        "Pipeline computing",
+        "Hardware"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1145/2483028.2483101/",
+    "submitted": "2022/07/23 21:48:42"
+}

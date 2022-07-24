@@ -1,0 +1,53 @@
+{
+    "title": "CSER: HW/SW configurable soft-error resiliency for application specific instruction-set processors",
+    "venue": "2013 Design, Automation & Test in Europe Conference & Exhibition (DATE)",
+    "year": "2013",
+    "abstract": "Soft error has been identified as one of the major challenges to CMOS technology based computing systems. To mitigate this problem, error recovery is a key component, which usually accounts for a substantial cost, since they must introduce redundancies in either time or space. Consequently, using state-of-art recovery techniques could heavily worsen the design constraint, which is fairly stringent for embedded system design. In this paper, we propose a HW/SW methodology that generates the processor, which performs finely configured error recovery functionality targeting the given design constraints (e.g., performance, area and power). Our methodology employs three application-specific optimization heuristics, which generate the optimized composition and configuration based on the two primitive error recovery techniques. The resultant processor is composed of selected primitive techniques at corresponding instruction execution, and configured to perform error recovery at run-time accordingly to the scheme determined at design time. The experiment results have shown that our methodology can at best achieve nine times reliability while maintaining the given constraints, in comparison to the state of the art.",
+    "authors": [
+        "Tuo Li",
+        "Muhammad Shafique",
+        "Semeen Rehman",
+        "Swarnalatha Radhakrishnan",
+        "Roshan Ragel",
+        "Jude Angelo Ambrose",
+        "J\u00c3\u00b6rg Henkel",
+        "Sri Parameswaran"
+    ],
+    "author_info": [
+        {
+            "type": "STAFF",
+            "id": "swarnar",
+            "name": "Dr. Swarnalatha Radhakrishnan",
+            "email": "swarnar@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/swarnalatha-radhakrishnan.png",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/swarnalatha-radhakrishnan/"
+        },
+        {
+            "type": "STAFF",
+            "id": "roshanr",
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+        }
+    ],
+    "doi": "https://doi.org/10.7873/DATE.2013.152",
+    "preprint_url": "#",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+    ],
+    "tags": [
+        "Redundancy",
+        "Time factors",
+        "Runtime",
+        "Integrated circuits",
+        "Programming"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.7873/DATE.2013.152/",
+    "submitted": "2022/07/23 21:43:51"
+}
