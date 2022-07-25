@@ -101,7 +101,7 @@ def process_team(data):
         else:
             profile_url = "#"
             profile_api = "#"
-            profile_image = "#"
+            profile_image = DEFAULT_PROFILE_IMAGE
 
         team[eNumber] = {
             'name':name, 'email':email, 'website':website,
