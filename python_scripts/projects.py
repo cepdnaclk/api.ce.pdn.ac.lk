@@ -78,6 +78,7 @@ def process_team(data):
                 else:
                     api_email = '#'
 
+
             # If student API has information, replace the relevent parameter with it
             # (assume the API has the latest info)
             email = api_email
@@ -96,7 +97,11 @@ def process_team(data):
                 profile_image = DEFAULT_PROFILE_IMAGE
 
             profile_url = person_from_api['profile_page'] if 'profile_page' in person_from_api else "#"
-            profile_api = profile_api
+
+        else:
+            profile_url = "#"
+            profile_api = "#"
+            profile_image = "#"
 
         team[eNumber] = {
             'name':name, 'email':email, 'website':website,
