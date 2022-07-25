@@ -1,6 +1,6 @@
 {
     "title": "Enhancing Video Game Experience With Brain Computer Interface",
-    "description": "",
+    "description": "Developing a video game interface that uses the brain-computer interface (BCI) based on electroencephalography (EEG).",
     "category": {
         "title": "Undergraduate Research Projects",
         "code": "4yp",
@@ -8,7 +8,94 @@
     },
     "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Enhancing-Video-Game-Experience-With-Brain-Computer-Interface/",
     "repo_url": "https://github.com/cepdnaclk/e16-4yp-Enhancing-Video-Game-Experience-With-Brain-Computer-Interface",
-    "page_url": "#",
+    "page_url": "https://cepdnaclk.github.io/e16-4yp-Enhancing-Video-Game-Experience-With-Brain-Computer-Interface",
     "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Enhancing-Video-Game-Experience-With-Brain-Computer-Interface/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+    "team": {
+        "E/16/012": {
+            "name": "Isurika Adikari",
+            "email": "e16012@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E16/012",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16012.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e16/012/"
+        },
+        "E/16/081": {
+            "name": "J.M.Praveen Dhananjaya",
+            "email": "e16081@eng.pdn.ac.lk",
+            "website": "https://sites.google.com/view/praveen-dhananjaya",
+            "github": "https://github.com/praveendhananjaya",
+            "linkedin": "https://www.linkedin.com/in/praveen-dhananjaya-55816015a",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E16/081",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16081.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e16/081/"
+        },
+        "E/16/200": {
+            "name": "Sumudu Liyanage",
+            "email": "e16200@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/sumuduliyanage",
+            "linkedin": "https://www.linkedin.com/in/sumudu-liyanage",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E16/200",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16200.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e16/200/"
+        }
+    },
+    "supervisors": {
+        "isurunawinne@eng.pdn.ac.lk": {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+            "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+        },
+        "roshanr@eng.pdn.ac.lk": {
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/roshanr",
+            "website": "http://roshan.ragel.net/",
+            "linkedin": "https://www.linkedin.com/in/roshanragel/",
+            "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
+            "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
+        },
+        "mahanamaw@eng.pdn.ac.lk": {
+            "name": "Dr. Mahanama Wickramasinghe",
+            "email": "mahanamaw@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/mahanama-wickramasinghe/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/mahanama-wickramasinghe.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/mahanamaw",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/mahanama",
+            "researchgate": "https://www.researchgate.net/profile/Mahanama-Wickramsinghe",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=kuoZpZEAAAAJ"
+        },
+        "theekshanadis@eng.pdn.ac.lk": {
+            "name": "Mr. Theekshana Dissanayake",
+            "email": "theekshanadis@eng.pdn.ac.lk",
+            "profile_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "api_url": "#",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "EEG",
+        "Signal Processing",
+        "Neural Network",
+        "brain computer interface"
+    ]
 }

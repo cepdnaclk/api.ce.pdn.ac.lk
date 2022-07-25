@@ -1,6 +1,6 @@
 {
     "title": "Automated Protein Function Prediction",
-    "description": "",
+    "description": "Automated protein function prediction is critical for the annotation of uncharacterized protein sequences, where accurate prediction methods are still required.we expect to create an accurate prediction model that assigns the best sub-graph of the gene ontology to each new protein and output a prediction score for this sub-graph and/or each predicted term .",
     "category": {
         "title": "Undergraduate Research Projects",
         "code": "4yp",
@@ -8,7 +8,69 @@
     },
     "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Automated-Protein-Function-Prediction/",
     "repo_url": "https://github.com/cepdnaclk/e16-4yp-Automated-Protein-Function-Prediction",
-    "page_url": "#",
+    "page_url": "https://cepdnaclk.github.io/e16-4yp-Automated-Protein-Function-Prediction",
     "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Automated-Protein-Function-Prediction/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+    "team": {
+        "E/16/267": {
+            "name": " Parackrama G.T.W.",
+            "email": "e16267@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E16/267",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16267.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e16/267/"
+        },
+        "E/16/096": {
+            "name": "Ekanayake J.E.M.D.Y.",
+            "email": "e16096@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E16/096",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16096.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e16/096/"
+        },
+        "E/16/290": {
+            "name": "Prabodha U.A.K.",
+            "email": "e16290@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E16/290",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16290.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e16/290/"
+        }
+    },
+    "supervisors": {
+        "damayanthiherath@eng.pdn.ac.lk": {
+            "name": "Dr. Damayanthi Herath",
+            "email": "damayanthiherath@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/damayanthiherath",
+            "website": "https://damayanthiherath.wordpress.com/",
+            "linkedin": "https://www.linkedin.com/in/damayanthi-herath/",
+            "researchgate": "https://www.researchgate.net/profile/Damayanthi-Herath",
+            "google_scholar": "https://scholar.google.com/citations?user=G2jUV5IAAAAJ&hl=en"
+        },
+        "indika.kahanda@unf.edu": {
+            "name": "Dr. Indika Kahanda( Assistant Professor )",
+            "email": "indika.kahanda@unf.edu",
+            "profile_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "api_url": "#",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Final Year Projects,Protein Function Prediction, Machine Learning"
+    ]
 }
