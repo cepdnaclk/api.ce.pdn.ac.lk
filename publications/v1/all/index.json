@@ -1922,5 +1922,296 @@
         "funding": "",
         "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS53135.2021.9660702/",
         "submitted": "2022/07/24 03:18:57"
+    },
+    {
+        "title": "Using microkernel based virtualization for Byzantine fault tolerance",
+        "venue": "2011 6th International Conference on Industrial and Information Systems",
+        "year": "2011",
+        "abstract": "A Byzantine fault is a failure that cannot be identified by observing the output of a component; the component produces a wrong result as opposed to not producing a result at all or producing a result that can be identified as wrong. Such faults may be caused by a number of causes including software bugs and malicious attacks. Tolerating such faults is essential for a critical system. Isolated replication and majority voting is a well established technique to tolerate Byzantine faults. Current implementations of such systems either uses replicated hardware or software virtualization-using virtual machine monitors-to get the illusion of hardware replication to tolerate Byzantine faults. In this paper, we investigate the possibility of using microkernel technology to achieve the isolated replication and discuss the features of a microkernel API suitable for such a deployment. The advantage of our approach is that it reduces the cost of additional hardware or avoid the complexity of virtualization required to mimic hardware replication. We used a single machine, running the L4 microkernel to provide the isolation required for the replicas. All replicas run in parallel and majority voting is performed to obtain the correct result in the presence of Byzantine faults. We selected the AES encryption algorithms for our case study and faults were deliberately injected to replicas to mimic Byzantine behavior. Our experiments show that it is feasible to use microkernels technology for this purpose.",
+        "authors": [
+            "Asanka Senevirathna",
+            "Bhathiya Wasala",
+            "Buddhika Ranaweera",
+            "Dhammika Elkaduwe"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "dhammika",
+                "name": "Dr. Dhammika Elkaduwe",
+                "email": "dhammika@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/dhammika-elkaduwe.png",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/dhammika-elkaduwe/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/ICIINFS.2011.6038037",
+        "preprint_url": "#",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "Hardware",
+            "Kernel",
+            "Computer bugs",
+            "Information systems",
+            "USA Councils",
+            "Fault tolerant systems"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2011.6038037/",
+        "submitted": "2022/07/25 21:42:06"
+    },
+    {
+        "title": "Constant time encryption as a countermeasure against remote cache timing attacks",
+        "venue": "2012 IEEE 6th International Conference on Information and Automation for Sustainability",
+        "year": "2012",
+        "abstract": "Rijndael was standardized in 2001 by National Institute of Standard and Technology as the Advanced Encryption Standard (AES). AES is still being used to encrypt financial, military and even government confidential data. In 2005, Bernstein illustrated a remote cache timing attack on AES using the client-server architecture and therefore proved a side channel in its software implementation. Over the years, a number of countermeasures have been proposed against cache timing attacks both using hardware and software. Although the software based countermeasures are flexible and easy to deploy, most of such countermeasures are vulnerable to statistical analysis. In this paper, we propose a novel software based countermeasure against cache timing attacks, known as constant time encryption, which we believe is secure against statistical analysis. The countermeasure we proposed performs rescheduling of instructions such that the encryption rounds will consume constant time independent of the cache hits and misses. Through experiments, we prove that our countermeasure is secure against Bernstein's cache timing attack.",
+        "authors": [
+            "Darshana Jayasinghe",
+            "Roshan Ragel",
+            "Dhammika Elkaduwe"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            },
+            {
+                "type": "STAFF",
+                "id": "dhammika",
+                "name": "Dr. Dhammika Elkaduwe",
+                "email": "dhammika@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/dhammika-elkaduwe.png",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/dhammika-elkaduwe/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/ICIAFS.2012.6419893",
+        "preprint_url": "https://arxiv.org/ftp/arxiv/papers/1403/1403.7293.pdf",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "Encryption",
+            "Timing",
+            "Software",
+            "Hardware",
+            "Clocks",
+            "Computers"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2012.6419893/",
+        "submitted": "2022/07/25 21:44:29"
+    },
+    {
+        "title": "To use or not to use: Graphics processing units (GPUs) for pattern matching algorithms",
+        "venue": "7th International Conference on Information and Automation for Sustainability",
+        "year": "2014",
+        "abstract": "String matching is an important part in today's computer applications and Aho-Corasick algorithm is one of the main string matching algorithms used to accomplish this. This paper discusses that when can the GPUs be used for string matching applications using the Aho-Corasick algorithm as a benchmark We have to identify the best unit to run our string matching algorithm according to the performance of our devices and the applications. Sometimes CPU gives better performance than GPU and sometimes GPU gives better performance than CPU. Therefore, identifying this critical point is significant task for researchers who are using GPUs to improve the performance of their string matching applications based on string matching algorithms.",
+        "authors": [
+            "DRVLB Thambawita",
+            "Roshan Ragel",
+            "Dhammika Elkaduwe"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            },
+            {
+                "type": "STAFF",
+                "id": "dhammika",
+                "name": "Dr. Dhammika Elkaduwe",
+                "email": "dhammika@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/dhammika-elkaduwe.png",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/dhammika-elkaduwe/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/ICIAFS.2014.7069585",
+        "preprint_url": "https://www.researchgate.net/profile/Roshan-Ragel/publication/270222593_To_Use_or_Not_to_Use_Graphics_Processing_Units_for_Pattern_Matching_Algorithms/links/54e48fc30cf2dbf60696ea10/To-Use-or-Not-to-Use-Graphics-Processing-Units-for-Pattern-Matching-Algorithms.pdf",
+        "pdf_url": "https://ieeexplore.ieee.org/abstract/document/7069585",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "Graphics processing units",
+            "Central Processing Unit",
+            "Pattern matching",
+            "Parallel processing",
+            "Algorithm design and analysis",
+            "Performance evaluation",
+            "Software algorithms"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2014.7069585/",
+        "submitted": "2022/07/25 21:48:20"
+    },
+    {
+        "title": "An optimized Parallel Failure-less Aho-Corasick algorithm for DNA sequence matching",
+        "venue": "2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)",
+        "year": "2016",
+        "abstract": "The Aho-Corasick algorithm is a multiple patterns searching algorithm running sequentially in various applications like network intrusion detection and bioinformatics for finding several input strings within a given large input string. The parallel version of the Aho-Corasick algorithm is called as Parallel Failure-less Aho-Corasick algorithm because it doesnt need failure links like in the original Aho-Corasick algorithm. In this research, we implemented an application specific parallel failureless Aho-Corasick algorithm on the general purpose graphic processing unit by applying several cache optimization techniques for matching DNA sequences. Our parallel Aho-Corasick algorithm shows better performance than the available parallel Aho-Corasick algorithm library due to its simplicity and optimized cache memory usage of graphic processing units for matching DNA sequences.",
+        "authors": [
+            "DRVLB Thambawita",
+            "Roshan G Ragel",
+            "Dhammike Elkaduwe"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            },
+            {
+                "type": "STAFF",
+                "id": "dhammika",
+                "name": "Dr. Dhammika Elkaduwe",
+                "email": "dhammika@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/dhammika-elkaduwe.png",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/dhammika-elkaduwe/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/ICIAFS.2016.7946533",
+        "preprint_url": "https://arxiv.org/pdf/1811.10498",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "Pattern matching",
+            "DNA",
+            "Algorithm design and analysis",
+            "Kernel",
+            "Bioinformatics",
+            "Intrusion detection",
+            "Graphics processing units"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2016.7946533/",
+        "submitted": "2022/07/25 21:53:49"
+    },
+    {
+        "title": "An optimized Parallel Failure-less Aho-Corasick algorithm for DNA sequence matching",
+        "venue": "2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)",
+        "year": "2016",
+        "abstract": "The Aho-Corasick algorithm is a multiple patterns searching algorithm running sequentially in various applications like network intrusion detection and bioinformatics for finding several input strings within a given large input string. The parallel version of the Aho-Corasick algorithm is called as Parallel Failure-less Aho-Corasick algorithm because it doesnt need failure links like in the original Aho-Corasick algorithm. In this research, we implemented an application specific parallel failureless Aho-Corasick algorithm on the general purpose graphic processing unit by applying several cache optimization techniques for matching DNA sequences. Our parallel Aho-Corasick algorithm shows better performance than the available parallel Aho-Corasick algorithm library due to its simplicity and optimized cache memory usage of graphic processing units for matching DNA sequences.",
+        "authors": [
+            "DRVLB Thambawita",
+            "Roshan G Ragel",
+            "Dhammike Elkaduwe"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            },
+            {
+                "type": "STAFF",
+                "id": "dhammika",
+                "name": "Dr. Dhammika Elkaduwe",
+                "email": "dhammika@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/dhammika-elkaduwe.png",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/dhammika-elkaduwe/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/ICIAFS.2016.7946533",
+        "preprint_url": "https://arxiv.org/pdf/1811.10498.pdf",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "Pattern matching",
+            "DNA",
+            "Algorithm design and analysis",
+            "Kernel",
+            "Bioinformatics",
+            "Intrusion detection",
+            "Graphics processing units"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2016.7946533/",
+        "submitted": "2022/07/25 21:55:47"
+    },
+    {
+        "title": "To use or not to use: CPUs' cache optimization techniques on GPGPUs",
+        "venue": "2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)",
+        "year": "2016",
+        "abstract": "General Purpose Graphic Processing Unit(GPGPU) is used widely for achieving high performance or high throughput in parallel programming. This capability of GPGPUs is very famous in the new era and mostly used for scientific computing which requires more processing power than normal personal computers. Therefore, most of the programmers, researchers and industry use this new concept for their work. However, achieving high-performance or high-throughput using GPGPUs are not an easy task compared with conventional programming concepts in the CPU side. In this research, the CPUs cache memory optimization techniques have been adopted to the GPGPUs cache memory to identify rare performance improvement techniques compared to GPGPU's best practices. The cache optimization techniques of blocking, loop fusion, array merging and array transpose were tested on GPGPUs for finding suitability of these techniques. Finally, we identified that some of the CPU cache optimization techniques go well with the cache memory system of the GPGPU and shows performance improvements while some others show the opposite effect on the GPGPUs compared with the CPUs.",
+        "authors": [
+            "DRVLB Thambawita",
+            "Roshan G Ragel",
+            "Dhammike Elkaduwe"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            },
+            {
+                "type": "STAFF",
+                "id": "dhammika",
+                "name": "Dr. Dhammika Elkaduwe",
+                "email": "dhammika@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/dhammika-elkaduwe.png",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/dhammika-elkaduwe/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/ICIAFS.2016.7946534",
+        "preprint_url": "https://arxiv.org/pdf/1810.04063",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "Arrays",
+            "Optimization",
+            "Merging",
+            "Cache memory",
+            "Testing",
+            "Kernel",
+            "Throughput"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2016.7946534/",
+        "submitted": "2022/07/25 21:57:24"
     }
 ]

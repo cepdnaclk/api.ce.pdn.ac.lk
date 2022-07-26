@@ -1,0 +1,50 @@
+{
+    "title": "An optimized Parallel Failure-less Aho-Corasick algorithm for DNA sequence matching",
+    "venue": "2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)",
+    "year": "2016",
+    "abstract": "The Aho-Corasick algorithm is a multiple patterns searching algorithm running sequentially in various applications like network intrusion detection and bioinformatics for finding several input strings within a given large input string. The parallel version of the Aho-Corasick algorithm is called as Parallel Failure-less Aho-Corasick algorithm because it doesnt need failure links like in the original Aho-Corasick algorithm. In this research, we implemented an application specific parallel failureless Aho-Corasick algorithm on the general purpose graphic processing unit by applying several cache optimization techniques for matching DNA sequences. Our parallel Aho-Corasick algorithm shows better performance than the available parallel Aho-Corasick algorithm library due to its simplicity and optimized cache memory usage of graphic processing units for matching DNA sequences.",
+    "authors": [
+        "DRVLB Thambawita",
+        "Roshan G Ragel",
+        "Dhammike Elkaduwe"
+    ],
+    "author_info": [
+        {
+            "type": "STAFF",
+            "id": "roshanr",
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+        },
+        {
+            "type": "STAFF",
+            "id": "dhammika",
+            "name": "Dr. Dhammika Elkaduwe",
+            "email": "dhammika@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/dhammika-elkaduwe.png",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/dhammika-elkaduwe/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/ICIAFS.2016.7946533",
+    "preprint_url": "https://arxiv.org/pdf/1811.10498.pdf",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        ""
+    ],
+    "tags": [
+        "Pattern matching",
+        "DNA",
+        "Algorithm design and analysis",
+        "Kernel",
+        "Bioinformatics",
+        "Intrusion detection",
+        "Graphics processing units"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2016.7946533/",
+    "submitted": "2022/07/25 21:55:47"
+}

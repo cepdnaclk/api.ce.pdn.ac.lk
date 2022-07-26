@@ -1,0 +1,50 @@
+{
+    "title": "To use or not to use: Graphics processing units (GPUs) for pattern matching algorithms",
+    "venue": "7th International Conference on Information and Automation for Sustainability",
+    "year": "2014",
+    "abstract": "String matching is an important part in today's computer applications and Aho-Corasick algorithm is one of the main string matching algorithms used to accomplish this. This paper discusses that when can the GPUs be used for string matching applications using the Aho-Corasick algorithm as a benchmark We have to identify the best unit to run our string matching algorithm according to the performance of our devices and the applications. Sometimes CPU gives better performance than GPU and sometimes GPU gives better performance than CPU. Therefore, identifying this critical point is significant task for researchers who are using GPUs to improve the performance of their string matching applications based on string matching algorithms.",
+    "authors": [
+        "DRVLB Thambawita",
+        "Roshan Ragel",
+        "Dhammika Elkaduwe"
+    ],
+    "author_info": [
+        {
+            "type": "STAFF",
+            "id": "roshanr",
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+        },
+        {
+            "type": "STAFF",
+            "id": "dhammika",
+            "name": "Dr. Dhammika Elkaduwe",
+            "email": "dhammika@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/dhammika-elkaduwe.png",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/dhammika-elkaduwe/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/ICIAFS.2014.7069585",
+    "preprint_url": "https://www.researchgate.net/profile/Roshan-Ragel/publication/270222593_To_Use_or_Not_to_Use_Graphics_Processing_Units_for_Pattern_Matching_Algorithms/links/54e48fc30cf2dbf60696ea10/To-Use-or-Not-to-Use-Graphics-Processing-Units-for-Pattern-Matching-Algorithms.pdf",
+    "pdf_url": "https://ieeexplore.ieee.org/abstract/document/7069585",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        ""
+    ],
+    "tags": [
+        "Graphics processing units",
+        "Central Processing Unit",
+        "Pattern matching",
+        "Parallel processing",
+        "Algorithm design and analysis",
+        "Performance evaluation",
+        "Software algorithms"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2014.7069585/",
+    "submitted": "2022/07/25 21:48:20"
+}

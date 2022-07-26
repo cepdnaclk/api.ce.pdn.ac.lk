@@ -1,0 +1,42 @@
+{
+    "title": "Using microkernel based virtualization for Byzantine fault tolerance",
+    "venue": "2011 6th International Conference on Industrial and Information Systems",
+    "year": "2011",
+    "abstract": "A Byzantine fault is a failure that cannot be identified by observing the output of a component; the component produces a wrong result as opposed to not producing a result at all or producing a result that can be identified as wrong. Such faults may be caused by a number of causes including software bugs and malicious attacks. Tolerating such faults is essential for a critical system. Isolated replication and majority voting is a well established technique to tolerate Byzantine faults. Current implementations of such systems either uses replicated hardware or software virtualization-using virtual machine monitors-to get the illusion of hardware replication to tolerate Byzantine faults. In this paper, we investigate the possibility of using microkernel technology to achieve the isolated replication and discuss the features of a microkernel API suitable for such a deployment. The advantage of our approach is that it reduces the cost of additional hardware or avoid the complexity of virtualization required to mimic hardware replication. We used a single machine, running the L4 microkernel to provide the isolation required for the replicas. All replicas run in parallel and majority voting is performed to obtain the correct result in the presence of Byzantine faults. We selected the AES encryption algorithms for our case study and faults were deliberately injected to replicas to mimic Byzantine behavior. Our experiments show that it is feasible to use microkernels technology for this purpose.",
+    "authors": [
+        "Asanka Senevirathna",
+        "Bhathiya Wasala",
+        "Buddhika Ranaweera",
+        "Dhammika Elkaduwe"
+    ],
+    "author_info": [
+        {
+            "type": "STAFF",
+            "id": "dhammika",
+            "name": "Dr. Dhammika Elkaduwe",
+            "email": "dhammika@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/dhammika-elkaduwe.png",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/dhammika-elkaduwe/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/ICIINFS.2011.6038037",
+    "preprint_url": "#",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        ""
+    ],
+    "tags": [
+        "Hardware",
+        "Kernel",
+        "Computer bugs",
+        "Information systems",
+        "USA Councils",
+        "Fault tolerant systems"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2011.6038037/",
+    "submitted": "2022/07/25 21:42:06"
+}
