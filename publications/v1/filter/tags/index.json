@@ -402,6 +402,42 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2014.7069624/index.json"
         }
     ],
+    "Annotations": [
+        {
+            "title": "Ensuring Academic Integrity of Online Examinations",
+            "venue": "2021 IEEE 16th International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2021",
+            "abstract": "The need for invigilation in any type of examination is a must to maintain academic integrity. Though e-learning systems have grown rapidly, proctors are yet to supervise a larger group of candidates through a live video stream during the examination. Often, online examinations require human invigilation either by live monitoring or inspection of recorded video to ensure academic integrity. This process is not feasible always since exams can be taken at any time and it involves high cost. Hence, this paper proposes an Online Proctoring System to automate invigilation processes by making use of inputs from a web browser, webcam video feed, and microphone audio feed, without using any external hardware or standalone application. Processing the webcam video is one of the main aspects when deciding the abnormal behavior of the candidate and features including head pose detection, eye gaze detection, liveness detection are used for predicting abnormal behaviors in this work. On the other hand, the audio stream is analyzed to detect activities such as asking for help from a person in the room. The evaluation results imply that combining several results and creating an ensemble platform produces better results.",
+            "authors": [
+                "Mohamed Irfan",
+                "Mohammed Aslam",
+                "Ziyan Maraikar",
+                "Upul Jayasinghe",
+                "Mohamed Fawzan"
+            ],
+            "doi": "https://doi.org/10.1109/ICIIS53135.2021.9660737",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/online-proctoring-system/",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Source separation",
+                "Webcams",
+                "Annotations",
+                "Time series analysis",
+                "Pose estimation",
+                "Streaming media",
+                "Feature extraction"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS53135.2021.9660737/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660737/index.json"
+        }
+    ],
     "Application specific processors": [
         {
             "title": "Loop unrolling in multi-pipeline ASIP design",
@@ -437,6 +473,41 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2009.5429845/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2009.5429845/index.json"
+        }
+    ],
+    "Architecture": [
+        {
+            "title": "Microservice Based Edge Computing Architecture for Internet of Things",
+            "venue": "2022 2nd International Conference on Advanced Research in Computing (ICARC)",
+            "year": "2022",
+            "abstract": "Distributed computation and AI processing at the edge has been identified as an efficient solution to deliver real-time IoT services and applications compared to cloud-based paradigms. These solutions are expected to support the delay-sensitive IoT applications, autonomic decision making, and smart service creation at the edge in comparison to traditional IoT solutions. However, existing solutions have limitations concerning distributed and simultaneous resource management for AI computation and data processing at the edge; concurrent and real-time application execution; and platform-independent deployment. Hence, first, we propose a novel three-layer architecture that facilitates the above service requirements. Then we have developed a novel platform and relevant modules with integrated AI processing and edge computer paradigms considering issues related to scalability, heterogeneity, security, and interoperability of IoT services. Further, each component is designed to handle the control signals, data flows, microservice orchestration, and resource composition to match with the IoT application requirements. Finally, the effectiveness of the proposed platform is tested and have been verified.",
+            "authors": [
+                "Sewwandi Nisansala",
+                "Gayal Laksara Chandrasiri",
+                "Sonali Prasadika",
+                "Upul Jayasinghe"
+            ],
+            "doi": "https://doi.org/10.1109/ICARC54489.2022.9753930",
+            "preprint": "#",
+            "pdf": "https://ieeexplore.ieee.org/abstract/document/9753930",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Microservice-Based-Edge-Computing-Architecture/",
+            "codebase": "https://github.com/cepdnaclk/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Cloud computing",
+                "Architecture",
+                "Scalability",
+                "Microservice architectures",
+                "Computer architecture",
+                "Real-time systems",
+                "Internet of Things"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753930/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC54489.2022.9753930/index.json"
         }
     ],
     "Architectures": [
@@ -990,6 +1061,41 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2012.6419893/index.json"
         }
     ],
+    "Cloud computing": [
+        {
+            "title": "Microservice Based Edge Computing Architecture for Internet of Things",
+            "venue": "2022 2nd International Conference on Advanced Research in Computing (ICARC)",
+            "year": "2022",
+            "abstract": "Distributed computation and AI processing at the edge has been identified as an efficient solution to deliver real-time IoT services and applications compared to cloud-based paradigms. These solutions are expected to support the delay-sensitive IoT applications, autonomic decision making, and smart service creation at the edge in comparison to traditional IoT solutions. However, existing solutions have limitations concerning distributed and simultaneous resource management for AI computation and data processing at the edge; concurrent and real-time application execution; and platform-independent deployment. Hence, first, we propose a novel three-layer architecture that facilitates the above service requirements. Then we have developed a novel platform and relevant modules with integrated AI processing and edge computer paradigms considering issues related to scalability, heterogeneity, security, and interoperability of IoT services. Further, each component is designed to handle the control signals, data flows, microservice orchestration, and resource composition to match with the IoT application requirements. Finally, the effectiveness of the proposed platform is tested and have been verified.",
+            "authors": [
+                "Sewwandi Nisansala",
+                "Gayal Laksara Chandrasiri",
+                "Sonali Prasadika",
+                "Upul Jayasinghe"
+            ],
+            "doi": "https://doi.org/10.1109/ICARC54489.2022.9753930",
+            "preprint": "#",
+            "pdf": "https://ieeexplore.ieee.org/abstract/document/9753930",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Microservice-Based-Edge-Computing-Architecture/",
+            "codebase": "https://github.com/cepdnaclk/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Cloud computing",
+                "Architecture",
+                "Scalability",
+                "Microservice architectures",
+                "Computer architecture",
+                "Real-time systems",
+                "Internet of Things"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753930/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC54489.2022.9753930/index.json"
+        }
+    ],
     "Commentz-Walter": [
         {
             "title": "Commentz-walter: Any better than aho-corasick for peptide identification?",
@@ -1190,6 +1296,39 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2011.6038036/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2011.6038036/index.json"
+        },
+        {
+            "title": "Microservice Based Edge Computing Architecture for Internet of Things",
+            "venue": "2022 2nd International Conference on Advanced Research in Computing (ICARC)",
+            "year": "2022",
+            "abstract": "Distributed computation and AI processing at the edge has been identified as an efficient solution to deliver real-time IoT services and applications compared to cloud-based paradigms. These solutions are expected to support the delay-sensitive IoT applications, autonomic decision making, and smart service creation at the edge in comparison to traditional IoT solutions. However, existing solutions have limitations concerning distributed and simultaneous resource management for AI computation and data processing at the edge; concurrent and real-time application execution; and platform-independent deployment. Hence, first, we propose a novel three-layer architecture that facilitates the above service requirements. Then we have developed a novel platform and relevant modules with integrated AI processing and edge computer paradigms considering issues related to scalability, heterogeneity, security, and interoperability of IoT services. Further, each component is designed to handle the control signals, data flows, microservice orchestration, and resource composition to match with the IoT application requirements. Finally, the effectiveness of the proposed platform is tested and have been verified.",
+            "authors": [
+                "Sewwandi Nisansala",
+                "Gayal Laksara Chandrasiri",
+                "Sonali Prasadika",
+                "Upul Jayasinghe"
+            ],
+            "doi": "https://doi.org/10.1109/ICARC54489.2022.9753930",
+            "preprint": "#",
+            "pdf": "https://ieeexplore.ieee.org/abstract/document/9753930",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Microservice-Based-Edge-Computing-Architecture/",
+            "codebase": "https://github.com/cepdnaclk/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Cloud computing",
+                "Architecture",
+                "Scalability",
+                "Microservice architectures",
+                "Computer architecture",
+                "Real-time systems",
+                "Internet of Things"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753930/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC54489.2022.9753930/index.json"
         }
     ],
     "Computer bugs": [
@@ -2444,6 +2583,42 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2011.6038037/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2011.6038037/index.json"
+        }
+    ],
+    "Feature extraction": [
+        {
+            "title": "Ensuring Academic Integrity of Online Examinations",
+            "venue": "2021 IEEE 16th International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2021",
+            "abstract": "The need for invigilation in any type of examination is a must to maintain academic integrity. Though e-learning systems have grown rapidly, proctors are yet to supervise a larger group of candidates through a live video stream during the examination. Often, online examinations require human invigilation either by live monitoring or inspection of recorded video to ensure academic integrity. This process is not feasible always since exams can be taken at any time and it involves high cost. Hence, this paper proposes an Online Proctoring System to automate invigilation processes by making use of inputs from a web browser, webcam video feed, and microphone audio feed, without using any external hardware or standalone application. Processing the webcam video is one of the main aspects when deciding the abnormal behavior of the candidate and features including head pose detection, eye gaze detection, liveness detection are used for predicting abnormal behaviors in this work. On the other hand, the audio stream is analyzed to detect activities such as asking for help from a person in the room. The evaluation results imply that combining several results and creating an ensemble platform produces better results.",
+            "authors": [
+                "Mohamed Irfan",
+                "Mohammed Aslam",
+                "Ziyan Maraikar",
+                "Upul Jayasinghe",
+                "Mohamed Fawzan"
+            ],
+            "doi": "https://doi.org/10.1109/ICIIS53135.2021.9660737",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/online-proctoring-system/",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Source separation",
+                "Webcams",
+                "Annotations",
+                "Time series analysis",
+                "Pose estimation",
+                "Streaming media",
+                "Feature extraction"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS53135.2021.9660737/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660737/index.json"
         }
     ],
     "Field programmable gate arrays": [
@@ -4144,6 +4319,41 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2007.4579145/index.json"
         }
     ],
+    "Internet of Things": [
+        {
+            "title": "Microservice Based Edge Computing Architecture for Internet of Things",
+            "venue": "2022 2nd International Conference on Advanced Research in Computing (ICARC)",
+            "year": "2022",
+            "abstract": "Distributed computation and AI processing at the edge has been identified as an efficient solution to deliver real-time IoT services and applications compared to cloud-based paradigms. These solutions are expected to support the delay-sensitive IoT applications, autonomic decision making, and smart service creation at the edge in comparison to traditional IoT solutions. However, existing solutions have limitations concerning distributed and simultaneous resource management for AI computation and data processing at the edge; concurrent and real-time application execution; and platform-independent deployment. Hence, first, we propose a novel three-layer architecture that facilitates the above service requirements. Then we have developed a novel platform and relevant modules with integrated AI processing and edge computer paradigms considering issues related to scalability, heterogeneity, security, and interoperability of IoT services. Further, each component is designed to handle the control signals, data flows, microservice orchestration, and resource composition to match with the IoT application requirements. Finally, the effectiveness of the proposed platform is tested and have been verified.",
+            "authors": [
+                "Sewwandi Nisansala",
+                "Gayal Laksara Chandrasiri",
+                "Sonali Prasadika",
+                "Upul Jayasinghe"
+            ],
+            "doi": "https://doi.org/10.1109/ICARC54489.2022.9753930",
+            "preprint": "#",
+            "pdf": "https://ieeexplore.ieee.org/abstract/document/9753930",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Microservice-Based-Edge-Computing-Architecture/",
+            "codebase": "https://github.com/cepdnaclk/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Cloud computing",
+                "Architecture",
+                "Scalability",
+                "Microservice architectures",
+                "Computer architecture",
+                "Real-time systems",
+                "Internet of Things"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753930/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC54489.2022.9753930/index.json"
+        }
+    ],
     "Intrusion detection": [
         {
             "title": "An optimized Parallel Failure-less Aho-Corasick algorithm for DNA sequence matching",
@@ -4208,6 +4418,43 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2016.7946533/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2016.7946533/index.json"
+        }
+    ],
+    "IoT": [
+        {
+            "title": "BAT\u00e2\u0080\u0094Block Analytics Tool Integrated with Blockchain Based IoT Platform",
+            "venue": "Electronics",
+            "year": "2020",
+            "abstract": "The Internet of Things (IoT) is the novel paradigm of connectivity and the driving force behind state-of-the-art applications and services. However, the exponential growth of the number of IoT devices and services, their distributed nature, and scarcity of resources has increased the number of security and privacy concerns ranging from the risks of unauthorized data alterations to the potential discrimination enabled by data analytics over sensitive information. Thus, a blockchain based IoT-platform is introduced to address these issues. Built upon the tamper-proof architecture, the proposed access management mechanisms ensure the authenticity and integrity of data. Moreover, a novel approach called Block Analytics Tool (BAT), integrated with the platform is proposed to analyze and make predictions on data stored on the blockchain. BAT enables the data-analysis applications to be developed using the data stored in the platform in an optimized manner acting as an interface to off-chain processing. A pharmaceutical supply chain is used as the use case scenario to show the functionality of the proposed platform. Furthermore, a model to forecast the demand of the pharmaceutical drugs is investigated using a real-world data set to demonstrate the functionality of BAT. Finally, the performance of BAT integrated with the platform is evaluated.",
+            "authors": [
+                "Chathurangi Edussuriya",
+                "Kasun Vithanage",
+                "Namila Bandara",
+                "Janaka Alawatugoda",
+                "Manjula Sandirigama",
+                "Upul Jayasinghe",
+                "Nathan Shone",
+                "Gyu Myoung Lee"
+            ],
+            "doi": "https://doi.org/10.3390/electronics9091525",
+            "preprint": "#",
+            "pdf": "https://www.mdpi.com/2079-9292/9/9/1525/pdf?version=1600413580",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "IoT",
+                "blockchain",
+                "data analytics",
+                "smart contracts",
+                "access management"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/electronics9091525/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/electronics9091525/index.json"
         }
     ],
     "Java": [
@@ -4960,6 +5207,41 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon.2018.8421896/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon.2018.8421896/index.json"
+        }
+    ],
+    "Microservice architectures": [
+        {
+            "title": "Microservice Based Edge Computing Architecture for Internet of Things",
+            "venue": "2022 2nd International Conference on Advanced Research in Computing (ICARC)",
+            "year": "2022",
+            "abstract": "Distributed computation and AI processing at the edge has been identified as an efficient solution to deliver real-time IoT services and applications compared to cloud-based paradigms. These solutions are expected to support the delay-sensitive IoT applications, autonomic decision making, and smart service creation at the edge in comparison to traditional IoT solutions. However, existing solutions have limitations concerning distributed and simultaneous resource management for AI computation and data processing at the edge; concurrent and real-time application execution; and platform-independent deployment. Hence, first, we propose a novel three-layer architecture that facilitates the above service requirements. Then we have developed a novel platform and relevant modules with integrated AI processing and edge computer paradigms considering issues related to scalability, heterogeneity, security, and interoperability of IoT services. Further, each component is designed to handle the control signals, data flows, microservice orchestration, and resource composition to match with the IoT application requirements. Finally, the effectiveness of the proposed platform is tested and have been verified.",
+            "authors": [
+                "Sewwandi Nisansala",
+                "Gayal Laksara Chandrasiri",
+                "Sonali Prasadika",
+                "Upul Jayasinghe"
+            ],
+            "doi": "https://doi.org/10.1109/ICARC54489.2022.9753930",
+            "preprint": "#",
+            "pdf": "https://ieeexplore.ieee.org/abstract/document/9753930",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Microservice-Based-Edge-Computing-Architecture/",
+            "codebase": "https://github.com/cepdnaclk/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Cloud computing",
+                "Architecture",
+                "Scalability",
+                "Microservice architectures",
+                "Computer architecture",
+                "Real-time systems",
+                "Internet of Things"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753930/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC54489.2022.9753930/index.json"
         }
     ],
     "Mobile communication": [
@@ -6195,6 +6477,42 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2007.4579145/index.json"
         }
     ],
+    "Pose estimation": [
+        {
+            "title": "Ensuring Academic Integrity of Online Examinations",
+            "venue": "2021 IEEE 16th International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2021",
+            "abstract": "The need for invigilation in any type of examination is a must to maintain academic integrity. Though e-learning systems have grown rapidly, proctors are yet to supervise a larger group of candidates through a live video stream during the examination. Often, online examinations require human invigilation either by live monitoring or inspection of recorded video to ensure academic integrity. This process is not feasible always since exams can be taken at any time and it involves high cost. Hence, this paper proposes an Online Proctoring System to automate invigilation processes by making use of inputs from a web browser, webcam video feed, and microphone audio feed, without using any external hardware or standalone application. Processing the webcam video is one of the main aspects when deciding the abnormal behavior of the candidate and features including head pose detection, eye gaze detection, liveness detection are used for predicting abnormal behaviors in this work. On the other hand, the audio stream is analyzed to detect activities such as asking for help from a person in the room. The evaluation results imply that combining several results and creating an ensemble platform produces better results.",
+            "authors": [
+                "Mohamed Irfan",
+                "Mohammed Aslam",
+                "Ziyan Maraikar",
+                "Upul Jayasinghe",
+                "Mohamed Fawzan"
+            ],
+            "doi": "https://doi.org/10.1109/ICIIS53135.2021.9660737",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/online-proctoring-system/",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Source separation",
+                "Webcams",
+                "Annotations",
+                "Time series analysis",
+                "Pose estimation",
+                "Streaming media",
+                "Feature extraction"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS53135.2021.9660737/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660737/index.json"
+        }
+    ],
     "Postal services": [
         {
             "title": "Loop unrolling in multi-pipeline ASIP design",
@@ -6813,6 +7131,41 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/TIC-STH.2009.5444462/index.json"
         }
     ],
+    "Real-time systems": [
+        {
+            "title": "Microservice Based Edge Computing Architecture for Internet of Things",
+            "venue": "2022 2nd International Conference on Advanced Research in Computing (ICARC)",
+            "year": "2022",
+            "abstract": "Distributed computation and AI processing at the edge has been identified as an efficient solution to deliver real-time IoT services and applications compared to cloud-based paradigms. These solutions are expected to support the delay-sensitive IoT applications, autonomic decision making, and smart service creation at the edge in comparison to traditional IoT solutions. However, existing solutions have limitations concerning distributed and simultaneous resource management for AI computation and data processing at the edge; concurrent and real-time application execution; and platform-independent deployment. Hence, first, we propose a novel three-layer architecture that facilitates the above service requirements. Then we have developed a novel platform and relevant modules with integrated AI processing and edge computer paradigms considering issues related to scalability, heterogeneity, security, and interoperability of IoT services. Further, each component is designed to handle the control signals, data flows, microservice orchestration, and resource composition to match with the IoT application requirements. Finally, the effectiveness of the proposed platform is tested and have been verified.",
+            "authors": [
+                "Sewwandi Nisansala",
+                "Gayal Laksara Chandrasiri",
+                "Sonali Prasadika",
+                "Upul Jayasinghe"
+            ],
+            "doi": "https://doi.org/10.1109/ICARC54489.2022.9753930",
+            "preprint": "#",
+            "pdf": "https://ieeexplore.ieee.org/abstract/document/9753930",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Microservice-Based-Edge-Computing-Architecture/",
+            "codebase": "https://github.com/cepdnaclk/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Cloud computing",
+                "Architecture",
+                "Scalability",
+                "Microservice architectures",
+                "Computer architecture",
+                "Real-time systems",
+                "Internet of Things"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753930/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC54489.2022.9753930/index.json"
+        }
+    ],
     "Red blood cells": [
         {
             "title": "Chronic kidney disease prediction using machine learning methods",
@@ -7131,6 +7484,41 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.7873/DATE.2013.152/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.7873/DATE.2013.152/index.json"
+        }
+    ],
+    "Scalability": [
+        {
+            "title": "Microservice Based Edge Computing Architecture for Internet of Things",
+            "venue": "2022 2nd International Conference on Advanced Research in Computing (ICARC)",
+            "year": "2022",
+            "abstract": "Distributed computation and AI processing at the edge has been identified as an efficient solution to deliver real-time IoT services and applications compared to cloud-based paradigms. These solutions are expected to support the delay-sensitive IoT applications, autonomic decision making, and smart service creation at the edge in comparison to traditional IoT solutions. However, existing solutions have limitations concerning distributed and simultaneous resource management for AI computation and data processing at the edge; concurrent and real-time application execution; and platform-independent deployment. Hence, first, we propose a novel three-layer architecture that facilitates the above service requirements. Then we have developed a novel platform and relevant modules with integrated AI processing and edge computer paradigms considering issues related to scalability, heterogeneity, security, and interoperability of IoT services. Further, each component is designed to handle the control signals, data flows, microservice orchestration, and resource composition to match with the IoT application requirements. Finally, the effectiveness of the proposed platform is tested and have been verified.",
+            "authors": [
+                "Sewwandi Nisansala",
+                "Gayal Laksara Chandrasiri",
+                "Sonali Prasadika",
+                "Upul Jayasinghe"
+            ],
+            "doi": "https://doi.org/10.1109/ICARC54489.2022.9753930",
+            "preprint": "#",
+            "pdf": "https://ieeexplore.ieee.org/abstract/document/9753930",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Microservice-Based-Edge-Computing-Architecture/",
+            "codebase": "https://github.com/cepdnaclk/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Cloud computing",
+                "Architecture",
+                "Scalability",
+                "Microservice architectures",
+                "Computer architecture",
+                "Real-time systems",
+                "Internet of Things"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753930/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC54489.2022.9753930/index.json"
         }
     ],
     "Schedules": [
@@ -7989,6 +8377,42 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2014.7069585/index.json"
         }
     ],
+    "Source separation": [
+        {
+            "title": "Ensuring Academic Integrity of Online Examinations",
+            "venue": "2021 IEEE 16th International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2021",
+            "abstract": "The need for invigilation in any type of examination is a must to maintain academic integrity. Though e-learning systems have grown rapidly, proctors are yet to supervise a larger group of candidates through a live video stream during the examination. Often, online examinations require human invigilation either by live monitoring or inspection of recorded video to ensure academic integrity. This process is not feasible always since exams can be taken at any time and it involves high cost. Hence, this paper proposes an Online Proctoring System to automate invigilation processes by making use of inputs from a web browser, webcam video feed, and microphone audio feed, without using any external hardware or standalone application. Processing the webcam video is one of the main aspects when deciding the abnormal behavior of the candidate and features including head pose detection, eye gaze detection, liveness detection are used for predicting abnormal behaviors in this work. On the other hand, the audio stream is analyzed to detect activities such as asking for help from a person in the room. The evaluation results imply that combining several results and creating an ensemble platform produces better results.",
+            "authors": [
+                "Mohamed Irfan",
+                "Mohammed Aslam",
+                "Ziyan Maraikar",
+                "Upul Jayasinghe",
+                "Mohamed Fawzan"
+            ],
+            "doi": "https://doi.org/10.1109/ICIIS53135.2021.9660737",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/online-proctoring-system/",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Source separation",
+                "Webcams",
+                "Annotations",
+                "Time series analysis",
+                "Pose estimation",
+                "Streaming media",
+                "Feature extraction"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS53135.2021.9660737/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660737/index.json"
+        }
+    ],
     "Space exploration": [
         {
             "title": "Exploring multilevel cache hierarchies in application specific mpsocs",
@@ -8269,6 +8693,40 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2011.6038036/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2011.6038036/index.json"
+        },
+        {
+            "title": "Ensuring Academic Integrity of Online Examinations",
+            "venue": "2021 IEEE 16th International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2021",
+            "abstract": "The need for invigilation in any type of examination is a must to maintain academic integrity. Though e-learning systems have grown rapidly, proctors are yet to supervise a larger group of candidates through a live video stream during the examination. Often, online examinations require human invigilation either by live monitoring or inspection of recorded video to ensure academic integrity. This process is not feasible always since exams can be taken at any time and it involves high cost. Hence, this paper proposes an Online Proctoring System to automate invigilation processes by making use of inputs from a web browser, webcam video feed, and microphone audio feed, without using any external hardware or standalone application. Processing the webcam video is one of the main aspects when deciding the abnormal behavior of the candidate and features including head pose detection, eye gaze detection, liveness detection are used for predicting abnormal behaviors in this work. On the other hand, the audio stream is analyzed to detect activities such as asking for help from a person in the room. The evaluation results imply that combining several results and creating an ensemble platform produces better results.",
+            "authors": [
+                "Mohamed Irfan",
+                "Mohammed Aslam",
+                "Ziyan Maraikar",
+                "Upul Jayasinghe",
+                "Mohamed Fawzan"
+            ],
+            "doi": "https://doi.org/10.1109/ICIIS53135.2021.9660737",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/online-proctoring-system/",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Source separation",
+                "Webcams",
+                "Annotations",
+                "Time series analysis",
+                "Pose estimation",
+                "Streaming media",
+                "Feature extraction"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS53135.2021.9660737/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660737/index.json"
         }
     ],
     "Support vector machines": [
@@ -8580,6 +9038,42 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.7873/DATE.2013.152/index.json"
         }
     ],
+    "Time series analysis": [
+        {
+            "title": "Ensuring Academic Integrity of Online Examinations",
+            "venue": "2021 IEEE 16th International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2021",
+            "abstract": "The need for invigilation in any type of examination is a must to maintain academic integrity. Though e-learning systems have grown rapidly, proctors are yet to supervise a larger group of candidates through a live video stream during the examination. Often, online examinations require human invigilation either by live monitoring or inspection of recorded video to ensure academic integrity. This process is not feasible always since exams can be taken at any time and it involves high cost. Hence, this paper proposes an Online Proctoring System to automate invigilation processes by making use of inputs from a web browser, webcam video feed, and microphone audio feed, without using any external hardware or standalone application. Processing the webcam video is one of the main aspects when deciding the abnormal behavior of the candidate and features including head pose detection, eye gaze detection, liveness detection are used for predicting abnormal behaviors in this work. On the other hand, the audio stream is analyzed to detect activities such as asking for help from a person in the room. The evaluation results imply that combining several results and creating an ensemble platform produces better results.",
+            "authors": [
+                "Mohamed Irfan",
+                "Mohammed Aslam",
+                "Ziyan Maraikar",
+                "Upul Jayasinghe",
+                "Mohamed Fawzan"
+            ],
+            "doi": "https://doi.org/10.1109/ICIIS53135.2021.9660737",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/online-proctoring-system/",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Source separation",
+                "Webcams",
+                "Annotations",
+                "Time series analysis",
+                "Pose estimation",
+                "Streaming media",
+                "Feature extraction"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS53135.2021.9660737/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660737/index.json"
+        }
+    ],
     "Timing": [
         {
             "title": "Constant time encryption as a countermeasure against remote cache timing attacks",
@@ -8854,6 +9348,42 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2008.4783956/index.json"
         }
     ],
+    "Webcams": [
+        {
+            "title": "Ensuring Academic Integrity of Online Examinations",
+            "venue": "2021 IEEE 16th International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2021",
+            "abstract": "The need for invigilation in any type of examination is a must to maintain academic integrity. Though e-learning systems have grown rapidly, proctors are yet to supervise a larger group of candidates through a live video stream during the examination. Often, online examinations require human invigilation either by live monitoring or inspection of recorded video to ensure academic integrity. This process is not feasible always since exams can be taken at any time and it involves high cost. Hence, this paper proposes an Online Proctoring System to automate invigilation processes by making use of inputs from a web browser, webcam video feed, and microphone audio feed, without using any external hardware or standalone application. Processing the webcam video is one of the main aspects when deciding the abnormal behavior of the candidate and features including head pose detection, eye gaze detection, liveness detection are used for predicting abnormal behaviors in this work. On the other hand, the audio stream is analyzed to detect activities such as asking for help from a person in the room. The evaluation results imply that combining several results and creating an ensemble platform produces better results.",
+            "authors": [
+                "Mohamed Irfan",
+                "Mohammed Aslam",
+                "Ziyan Maraikar",
+                "Upul Jayasinghe",
+                "Mohamed Fawzan"
+            ],
+            "doi": "https://doi.org/10.1109/ICIIS53135.2021.9660737",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/online-proctoring-system/",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Source separation",
+                "Webcams",
+                "Annotations",
+                "Time series analysis",
+                "Pose estimation",
+                "Streaming media",
+                "Feature extraction"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS53135.2021.9660737/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660737/index.json"
+        }
+    ],
     "Wind power generation": [
         {
             "title": "Genetic algorithm based cost optimization to integrate a community based wind turbine while considering smart appliances scheduling",
@@ -8961,6 +9491,43 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon.2018.8421896/index.json"
         }
     ],
+    "access management": [
+        {
+            "title": "BAT\u00e2\u0080\u0094Block Analytics Tool Integrated with Blockchain Based IoT Platform",
+            "venue": "Electronics",
+            "year": "2020",
+            "abstract": "The Internet of Things (IoT) is the novel paradigm of connectivity and the driving force behind state-of-the-art applications and services. However, the exponential growth of the number of IoT devices and services, their distributed nature, and scarcity of resources has increased the number of security and privacy concerns ranging from the risks of unauthorized data alterations to the potential discrimination enabled by data analytics over sensitive information. Thus, a blockchain based IoT-platform is introduced to address these issues. Built upon the tamper-proof architecture, the proposed access management mechanisms ensure the authenticity and integrity of data. Moreover, a novel approach called Block Analytics Tool (BAT), integrated with the platform is proposed to analyze and make predictions on data stored on the blockchain. BAT enables the data-analysis applications to be developed using the data stored in the platform in an optimized manner acting as an interface to off-chain processing. A pharmaceutical supply chain is used as the use case scenario to show the functionality of the proposed platform. Furthermore, a model to forecast the demand of the pharmaceutical drugs is investigated using a real-world data set to demonstrate the functionality of BAT. Finally, the performance of BAT integrated with the platform is evaluated.",
+            "authors": [
+                "Chathurangi Edussuriya",
+                "Kasun Vithanage",
+                "Namila Bandara",
+                "Janaka Alawatugoda",
+                "Manjula Sandirigama",
+                "Upul Jayasinghe",
+                "Nathan Shone",
+                "Gyu Myoung Lee"
+            ],
+            "doi": "https://doi.org/10.3390/electronics9091525",
+            "preprint": "#",
+            "pdf": "https://www.mdpi.com/2079-9292/9/9/1525/pdf?version=1600413580",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "IoT",
+                "blockchain",
+                "data analytics",
+                "smart contracts",
+                "access management"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/electronics9091525/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/electronics9091525/index.json"
+        }
+    ],
     "application specific integrated circuits": [
         {
             "title": "Strategy to Design Formally Verified hardware/software implementation of Network Protocols on Reconfigurable Hardware",
@@ -9031,6 +9598,43 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1016/j.promfg.2019.02.060/index.json"
         }
     ],
+    "blockchain": [
+        {
+            "title": "BAT\u00e2\u0080\u0094Block Analytics Tool Integrated with Blockchain Based IoT Platform",
+            "venue": "Electronics",
+            "year": "2020",
+            "abstract": "The Internet of Things (IoT) is the novel paradigm of connectivity and the driving force behind state-of-the-art applications and services. However, the exponential growth of the number of IoT devices and services, their distributed nature, and scarcity of resources has increased the number of security and privacy concerns ranging from the risks of unauthorized data alterations to the potential discrimination enabled by data analytics over sensitive information. Thus, a blockchain based IoT-platform is introduced to address these issues. Built upon the tamper-proof architecture, the proposed access management mechanisms ensure the authenticity and integrity of data. Moreover, a novel approach called Block Analytics Tool (BAT), integrated with the platform is proposed to analyze and make predictions on data stored on the blockchain. BAT enables the data-analysis applications to be developed using the data stored in the platform in an optimized manner acting as an interface to off-chain processing. A pharmaceutical supply chain is used as the use case scenario to show the functionality of the proposed platform. Furthermore, a model to forecast the demand of the pharmaceutical drugs is investigated using a real-world data set to demonstrate the functionality of BAT. Finally, the performance of BAT integrated with the platform is evaluated.",
+            "authors": [
+                "Chathurangi Edussuriya",
+                "Kasun Vithanage",
+                "Namila Bandara",
+                "Janaka Alawatugoda",
+                "Manjula Sandirigama",
+                "Upul Jayasinghe",
+                "Nathan Shone",
+                "Gyu Myoung Lee"
+            ],
+            "doi": "https://doi.org/10.3390/electronics9091525",
+            "preprint": "#",
+            "pdf": "https://www.mdpi.com/2079-9292/9/9/1525/pdf?version=1600413580",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "IoT",
+                "blockchain",
+                "data analytics",
+                "smart contracts",
+                "access management"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/electronics9091525/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/electronics9091525/index.json"
+        }
+    ],
     "bond graphs": [
         {
             "title": "Model-based fault diagnosis and prognosis of dynamic systems: a review",
@@ -9099,6 +9703,43 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2015.7398980/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2015.7398980/index.json"
+        }
+    ],
+    "data analytics": [
+        {
+            "title": "BAT\u00e2\u0080\u0094Block Analytics Tool Integrated with Blockchain Based IoT Platform",
+            "venue": "Electronics",
+            "year": "2020",
+            "abstract": "The Internet of Things (IoT) is the novel paradigm of connectivity and the driving force behind state-of-the-art applications and services. However, the exponential growth of the number of IoT devices and services, their distributed nature, and scarcity of resources has increased the number of security and privacy concerns ranging from the risks of unauthorized data alterations to the potential discrimination enabled by data analytics over sensitive information. Thus, a blockchain based IoT-platform is introduced to address these issues. Built upon the tamper-proof architecture, the proposed access management mechanisms ensure the authenticity and integrity of data. Moreover, a novel approach called Block Analytics Tool (BAT), integrated with the platform is proposed to analyze and make predictions on data stored on the blockchain. BAT enables the data-analysis applications to be developed using the data stored in the platform in an optimized manner acting as an interface to off-chain processing. A pharmaceutical supply chain is used as the use case scenario to show the functionality of the proposed platform. Furthermore, a model to forecast the demand of the pharmaceutical drugs is investigated using a real-world data set to demonstrate the functionality of BAT. Finally, the performance of BAT integrated with the platform is evaluated.",
+            "authors": [
+                "Chathurangi Edussuriya",
+                "Kasun Vithanage",
+                "Namila Bandara",
+                "Janaka Alawatugoda",
+                "Manjula Sandirigama",
+                "Upul Jayasinghe",
+                "Nathan Shone",
+                "Gyu Myoung Lee"
+            ],
+            "doi": "https://doi.org/10.3390/electronics9091525",
+            "preprint": "#",
+            "pdf": "https://www.mdpi.com/2079-9292/9/9/1525/pdf?version=1600413580",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "IoT",
+                "blockchain",
+                "data analytics",
+                "smart contracts",
+                "access management"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/electronics9091525/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/electronics9091525/index.json"
         }
     ],
     "f5c": [
@@ -9664,6 +10305,43 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1255/jsi.2019.a11/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1255/jsi.2019.a11/index.json"
+        }
+    ],
+    "smart contracts": [
+        {
+            "title": "BAT\u00e2\u0080\u0094Block Analytics Tool Integrated with Blockchain Based IoT Platform",
+            "venue": "Electronics",
+            "year": "2020",
+            "abstract": "The Internet of Things (IoT) is the novel paradigm of connectivity and the driving force behind state-of-the-art applications and services. However, the exponential growth of the number of IoT devices and services, their distributed nature, and scarcity of resources has increased the number of security and privacy concerns ranging from the risks of unauthorized data alterations to the potential discrimination enabled by data analytics over sensitive information. Thus, a blockchain based IoT-platform is introduced to address these issues. Built upon the tamper-proof architecture, the proposed access management mechanisms ensure the authenticity and integrity of data. Moreover, a novel approach called Block Analytics Tool (BAT), integrated with the platform is proposed to analyze and make predictions on data stored on the blockchain. BAT enables the data-analysis applications to be developed using the data stored in the platform in an optimized manner acting as an interface to off-chain processing. A pharmaceutical supply chain is used as the use case scenario to show the functionality of the proposed platform. Furthermore, a model to forecast the demand of the pharmaceutical drugs is investigated using a real-world data set to demonstrate the functionality of BAT. Finally, the performance of BAT integrated with the platform is evaluated.",
+            "authors": [
+                "Chathurangi Edussuriya",
+                "Kasun Vithanage",
+                "Namila Bandara",
+                "Janaka Alawatugoda",
+                "Manjula Sandirigama",
+                "Upul Jayasinghe",
+                "Nathan Shone",
+                "Gyu Myoung Lee"
+            ],
+            "doi": "https://doi.org/10.3390/electronics9091525",
+            "preprint": "#",
+            "pdf": "https://www.mdpi.com/2079-9292/9/9/1525/pdf?version=1600413580",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "IoT",
+                "blockchain",
+                "data analytics",
+                "smart contracts",
+                "access management"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/electronics9091525/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/electronics9091525/index.json"
         }
     ],
     "spectral clustering": [

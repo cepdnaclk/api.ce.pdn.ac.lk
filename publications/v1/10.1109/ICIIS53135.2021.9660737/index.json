@@ -1,0 +1,68 @@
+{
+    "title": "Ensuring Academic Integrity of Online Examinations",
+    "venue": "2021 IEEE 16th International Conference on Industrial and Information Systems (ICIIS)",
+    "year": "2021",
+    "abstract": "The need for invigilation in any type of examination is a must to maintain academic integrity. Though e-learning systems have grown rapidly, proctors are yet to supervise a larger group of candidates through a live video stream during the examination. Often, online examinations require human invigilation either by live monitoring or inspection of recorded video to ensure academic integrity. This process is not feasible always since exams can be taken at any time and it involves high cost. Hence, this paper proposes an Online Proctoring System to automate invigilation processes by making use of inputs from a web browser, webcam video feed, and microphone audio feed, without using any external hardware or standalone application. Processing the webcam video is one of the main aspects when deciding the abnormal behavior of the candidate and features including head pose detection, eye gaze detection, liveness detection are used for predicting abnormal behaviors in this work. On the other hand, the audio stream is analyzed to detect activities such as asking for help from a person in the room. The evaluation results imply that combining several results and creating an ensemble platform produces better results.",
+    "authors": [
+        "Mohamed Irfan",
+        "Mohammed Aslam",
+        "Ziyan Maraikar",
+        "Upul Jayasinghe",
+        "Mohamed Fawzan"
+    ],
+    "author_info": [
+        {
+            "type": "STUDENT",
+            "id": "E/15/138",
+            "name": "Mohamed Irfan",
+            "email": "e15138@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15138.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e15/138/"
+        },
+        {
+            "type": "STUDENT",
+            "id": "E/15/021",
+            "name": "Mohammed Aslam",
+            "email": "e15021@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15021.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e15/021/"
+        },
+        {
+            "type": "STAFF",
+            "id": "ziyanm",
+            "name": "Mr. Ziyan Maraikar",
+            "email": "ziyanm@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/ziyan-maraikar.png",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/ziyan-maraikar/"
+        },
+        {
+            "type": "STAFF",
+            "id": "upuljm",
+            "name": "Dr. Upul Jayasinghe",
+            "email": "upuljm@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul-jayasinghe/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/ICIIS53135.2021.9660737",
+    "preprint_url": "#",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/online-proctoring-system/",
+    "codebase": "#",
+    "research_groups": [
+        ""
+    ],
+    "tags": [
+        "Source separation",
+        "Webcams",
+        "Annotations",
+        "Time series analysis",
+        "Pose estimation",
+        "Streaming media",
+        "Feature extraction"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS53135.2021.9660737/",
+    "submitted": "2022/07/27 08:53:22"
+}

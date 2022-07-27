@@ -1,0 +1,51 @@
+{
+    "title": "Microservice Based Edge Computing Architecture for Internet of Things",
+    "venue": "2022 2nd International Conference on Advanced Research in Computing (ICARC)",
+    "year": "2022",
+    "abstract": "Distributed computation and AI processing at the edge has been identified as an efficient solution to deliver real-time IoT services and applications compared to cloud-based paradigms. These solutions are expected to support the delay-sensitive IoT applications, autonomic decision making, and smart service creation at the edge in comparison to traditional IoT solutions. However, existing solutions have limitations concerning distributed and simultaneous resource management for AI computation and data processing at the edge; concurrent and real-time application execution; and platform-independent deployment. Hence, first, we propose a novel three-layer architecture that facilitates the above service requirements. Then we have developed a novel platform and relevant modules with integrated AI processing and edge computer paradigms considering issues related to scalability, heterogeneity, security, and interoperability of IoT services. Further, each component is designed to handle the control signals, data flows, microservice orchestration, and resource composition to match with the IoT application requirements. Finally, the effectiveness of the proposed platform is tested and have been verified.",
+    "authors": [
+        "Sewwandi Nisansala",
+        "Gayal Laksara Chandrasiri",
+        "Sonali Prasadika",
+        "Upul Jayasinghe"
+    ],
+    "author_info": [
+        {
+            "type": "STUDENT",
+            "id": "E/15/271",
+            "name": "Sonali Prasadika",
+            "email": "e15271@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15271.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e15/271/"
+        },
+        {
+            "type": "STAFF",
+            "id": "upuljm",
+            "name": "Dr. Upul Jayasinghe",
+            "email": "upuljm@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul-jayasinghe/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/ICARC54489.2022.9753930",
+    "preprint_url": "#",
+    "pdf_url": "https://ieeexplore.ieee.org/abstract/document/9753930",
+    "presentation_url": "#",
+    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Microservice-Based-Edge-Computing-Architecture/",
+    "codebase": "https://github.com/cepdnaclk/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
+    "research_groups": [
+        ""
+    ],
+    "tags": [
+        "Cloud computing",
+        "Architecture",
+        "Scalability",
+        "Microservice architectures",
+        "Computer architecture",
+        "Real-time systems",
+        "Internet of Things"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753930/",
+    "submitted": "2022/07/27 08:58:05"
+}

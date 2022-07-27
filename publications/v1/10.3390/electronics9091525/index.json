@@ -1,0 +1,77 @@
+{
+    "title": "BAT\u00e2\u0080\u0094Block Analytics Tool Integrated with Blockchain Based IoT Platform",
+    "venue": "Electronics",
+    "year": "2020",
+    "abstract": "The Internet of Things (IoT) is the novel paradigm of connectivity and the driving force behind state-of-the-art applications and services. However, the exponential growth of the number of IoT devices and services, their distributed nature, and scarcity of resources has increased the number of security and privacy concerns ranging from the risks of unauthorized data alterations to the potential discrimination enabled by data analytics over sensitive information. Thus, a blockchain based IoT-platform is introduced to address these issues. Built upon the tamper-proof architecture, the proposed access management mechanisms ensure the authenticity and integrity of data. Moreover, a novel approach called Block Analytics Tool (BAT), integrated with the platform is proposed to analyze and make predictions on data stored on the blockchain. BAT enables the data-analysis applications to be developed using the data stored in the platform in an optimized manner acting as an interface to off-chain processing. A pharmaceutical supply chain is used as the use case scenario to show the functionality of the proposed platform. Furthermore, a model to forecast the demand of the pharmaceutical drugs is investigated using a real-world data set to demonstrate the functionality of BAT. Finally, the performance of BAT integrated with the platform is evaluated.",
+    "authors": [
+        "Chathurangi Edussuriya",
+        "Kasun Vithanage",
+        "Namila Bandara",
+        "Janaka Alawatugoda",
+        "Manjula Sandirigama",
+        "Upul Jayasinghe",
+        "Nathan Shone",
+        "Gyu Myoung Lee"
+    ],
+    "author_info": [
+        {
+            "type": "STUDENT",
+            "id": "E/14/054",
+            "name": "Chathurangi .E",
+            "email": "e14054@ce.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14054.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e14/054/"
+        },
+        {
+            "type": "STUDENT",
+            "id": "E/14/413",
+            "name": "Kasun Vithanage",
+            "email": "e14413@ce.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14413.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e14/413/"
+        },
+        {
+            "type": "STAFF",
+            "id": "alawatugoda",
+            "name": "Dr. Janaka Alawatugoda",
+            "email": "alawatugoda@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/"
+        },
+        {
+            "type": "STAFF",
+            "id": "manjula.sandirigama",
+            "name": "Dr. Manjula Sandirigama",
+            "email": "manjula.sandirigama@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/"
+        },
+        {
+            "type": "STAFF",
+            "id": "upuljm",
+            "name": "Dr. Upul Jayasinghe",
+            "email": "upuljm@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul-jayasinghe/"
+        }
+    ],
+    "doi": "https://doi.org/10.3390/electronics9091525",
+    "preprint_url": "#",
+    "pdf_url": "https://www.mdpi.com/2079-9292/9/9/1525/pdf?version=1600413580",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        ""
+    ],
+    "tags": [
+        "IoT",
+        "blockchain",
+        "data analytics",
+        "smart contracts",
+        "access management"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/electronics9091525/",
+    "submitted": "2022/07/27 08:50:44"
+}
