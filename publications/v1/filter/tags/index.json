@@ -2901,6 +2901,42 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2011.6038120/index.json"
         }
     ],
+    "Genetic algorithms": [
+        {
+            "title": "Genetic algorithm based cost optimization to integrate a community based wind turbine while considering smart appliances scheduling",
+            "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2017",
+            "abstract": "A coordinated approach capable of optimal scheduling of the responsive residential appliances to minimize the total cost of a community based scheme comprises a wind farm is suggested in this study. Here demand side loads are managed by optimizing smart appliances' operating time to minimize the cost to the community using a genetic algorithm based method. The cost optimization is obtained for different test cases using the algorithm implemented and results are discussed.",
+            "authors": [
+                "AH Wijethunge",
+                "JV Wijekulasooriya",
+                "Janaka B Ekanayake",
+                "KB Samarakoon",
+                "A Polpitiya"
+            ],
+            "doi": "https://doi.org/10.1109/ICIINFS.2017.8300374",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Schedules",
+                "Genetic algorithms",
+                "Optimization",
+                "Wind power generation",
+                "Power demand",
+                "Wind turbines",
+                "Mathematical model"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300374/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300374/index.json"
+        }
+    ],
     "Genopo": [
         {
             "title": "Genopo: a nanopore sequencing analysis toolkit for portable Android devices",
@@ -4744,6 +4780,40 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/TCAD.2015.2445736/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/TCAD.2015.2445736/index.json"
+        },
+        {
+            "title": "Genetic algorithm based cost optimization to integrate a community based wind turbine while considering smart appliances scheduling",
+            "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2017",
+            "abstract": "A coordinated approach capable of optimal scheduling of the responsive residential appliances to minimize the total cost of a community based scheme comprises a wind farm is suggested in this study. Here demand side loads are managed by optimizing smart appliances' operating time to minimize the cost to the community using a genetic algorithm based method. The cost optimization is obtained for different test cases using the algorithm implemented and results are discussed.",
+            "authors": [
+                "AH Wijethunge",
+                "JV Wijekulasooriya",
+                "Janaka B Ekanayake",
+                "KB Samarakoon",
+                "A Polpitiya"
+            ],
+            "doi": "https://doi.org/10.1109/ICIINFS.2017.8300374",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Schedules",
+                "Genetic algorithms",
+                "Optimization",
+                "Wind power generation",
+                "Power demand",
+                "Wind turbines",
+                "Mathematical model"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300374/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300374/index.json"
         }
     ],
     "Measurement": [
@@ -4926,6 +4996,34 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2007.4579145/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2007.4579145/index.json"
+        }
+    ],
+    "Mobile learning": [
+        {
+            "title": "Support of Mobile Phones in a Private Network for Science Teaching",
+            "venue": "International Journal of Interactive Mobile Technologies",
+            "year": "2016",
+            "abstract": "The potential of mobile phones to facilitate students\u00e2\u0080\u0099 science learning, when they are engaging in group activities, was investigated. To minimize the disciplinary issues emerged from the previous research on mobile devices and to enhance the quality of learning, a set of mobile phones that are connected to a private network was used. The lesson planning and implementation through these mobile phones were facilitated by a web based Application. A purposively selected group of teachers developed three lessons while integrating mobile phones in a private network into learning activities. Then the lessons were implemented in real classroom settings. This paper is based on one of the lessons \u00e2\u0080\u0098Waves and their Characteristics\u00e2\u0080\u0099 that was implemented for Grade 11 students. The data were collected through observations using audio, video and field notes and were analyzed using thematic analysis technique with the help of NVivo10 qualitative data analysis software. Based on the thematic analysis, two assertions were derived. Notably teachers appreciated the support of the private network in enhancing the quality of group learning activity while minimizing the students\u00e2\u0080\u0099 misuse of mobile phones.",
+            "authors": [
+                "Sakunthala Yatigammana Ekanayake",
+                "Kamalanath Samarakoon"
+            ],
+            "doi": "https://doi.org/10.3991/ijim.v10i2.4817",
+            "preprint": "#",
+            "pdf": "https://online-journals.org/index.php/i-jim/article/view/4817",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Mobile learning",
+                "Science education"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3991/ijim.v10i2.4817/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3991/ijim.v10i2.4817/index.json"
         }
     ],
     "Monitoring": [
@@ -5449,6 +5547,40 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2016.7946534/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2016.7946534/index.json"
+        },
+        {
+            "title": "Genetic algorithm based cost optimization to integrate a community based wind turbine while considering smart appliances scheduling",
+            "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2017",
+            "abstract": "A coordinated approach capable of optimal scheduling of the responsive residential appliances to minimize the total cost of a community based scheme comprises a wind farm is suggested in this study. Here demand side loads are managed by optimizing smart appliances' operating time to minimize the cost to the community using a genetic algorithm based method. The cost optimization is obtained for different test cases using the algorithm implemented and results are discussed.",
+            "authors": [
+                "AH Wijethunge",
+                "JV Wijekulasooriya",
+                "Janaka B Ekanayake",
+                "KB Samarakoon",
+                "A Polpitiya"
+            ],
+            "doi": "https://doi.org/10.1109/ICIINFS.2017.8300374",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Schedules",
+                "Genetic algorithms",
+                "Optimization",
+                "Wind power generation",
+                "Power demand",
+                "Wind turbines",
+                "Mathematical model"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300374/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300374/index.json"
         }
     ],
     "Packaging": [
@@ -6098,6 +6230,42 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2009.5429845/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2009.5429845/index.json"
+        }
+    ],
+    "Power demand": [
+        {
+            "title": "Genetic algorithm based cost optimization to integrate a community based wind turbine while considering smart appliances scheduling",
+            "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2017",
+            "abstract": "A coordinated approach capable of optimal scheduling of the responsive residential appliances to minimize the total cost of a community based scheme comprises a wind farm is suggested in this study. Here demand side loads are managed by optimizing smart appliances' operating time to minimize the cost to the community using a genetic algorithm based method. The cost optimization is obtained for different test cases using the algorithm implemented and results are discussed.",
+            "authors": [
+                "AH Wijethunge",
+                "JV Wijekulasooriya",
+                "Janaka B Ekanayake",
+                "KB Samarakoon",
+                "A Polpitiya"
+            ],
+            "doi": "https://doi.org/10.1109/ICIINFS.2017.8300374",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Schedules",
+                "Genetic algorithms",
+                "Optimization",
+                "Wind power generation",
+                "Power demand",
+                "Wind turbines",
+                "Mathematical model"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300374/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300374/index.json"
         }
     ],
     "Process control": [
@@ -6963,6 +7131,70 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.7873/DATE.2013.152/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.7873/DATE.2013.152/index.json"
+        }
+    ],
+    "Schedules": [
+        {
+            "title": "Genetic algorithm based cost optimization to integrate a community based wind turbine while considering smart appliances scheduling",
+            "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2017",
+            "abstract": "A coordinated approach capable of optimal scheduling of the responsive residential appliances to minimize the total cost of a community based scheme comprises a wind farm is suggested in this study. Here demand side loads are managed by optimizing smart appliances' operating time to minimize the cost to the community using a genetic algorithm based method. The cost optimization is obtained for different test cases using the algorithm implemented and results are discussed.",
+            "authors": [
+                "AH Wijethunge",
+                "JV Wijekulasooriya",
+                "Janaka B Ekanayake",
+                "KB Samarakoon",
+                "A Polpitiya"
+            ],
+            "doi": "https://doi.org/10.1109/ICIINFS.2017.8300374",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Schedules",
+                "Genetic algorithms",
+                "Optimization",
+                "Wind power generation",
+                "Power demand",
+                "Wind turbines",
+                "Mathematical model"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300374/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300374/index.json"
+        }
+    ],
+    "Science education": [
+        {
+            "title": "Support of Mobile Phones in a Private Network for Science Teaching",
+            "venue": "International Journal of Interactive Mobile Technologies",
+            "year": "2016",
+            "abstract": "The potential of mobile phones to facilitate students\u00e2\u0080\u0099 science learning, when they are engaging in group activities, was investigated. To minimize the disciplinary issues emerged from the previous research on mobile devices and to enhance the quality of learning, a set of mobile phones that are connected to a private network was used. The lesson planning and implementation through these mobile phones were facilitated by a web based Application. A purposively selected group of teachers developed three lessons while integrating mobile phones in a private network into learning activities. Then the lessons were implemented in real classroom settings. This paper is based on one of the lessons \u00e2\u0080\u0098Waves and their Characteristics\u00e2\u0080\u0099 that was implemented for Grade 11 students. The data were collected through observations using audio, video and field notes and were analyzed using thematic analysis technique with the help of NVivo10 qualitative data analysis software. Based on the thematic analysis, two assertions were derived. Notably teachers appreciated the support of the private network in enhancing the quality of group learning activity while minimizing the students\u00e2\u0080\u0099 misuse of mobile phones.",
+            "authors": [
+                "Sakunthala Yatigammana Ekanayake",
+                "Kamalanath Samarakoon"
+            ],
+            "doi": "https://doi.org/10.3991/ijim.v10i2.4817",
+            "preprint": "#",
+            "pdf": "https://online-journals.org/index.php/i-jim/article/view/4817",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Mobile learning",
+                "Science education"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3991/ijim.v10i2.4817/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3991/ijim.v10i2.4817/index.json"
         }
     ],
     "Search engines": [
@@ -8620,6 +8852,78 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2008.4783956/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2008.4783956/index.json"
+        }
+    ],
+    "Wind power generation": [
+        {
+            "title": "Genetic algorithm based cost optimization to integrate a community based wind turbine while considering smart appliances scheduling",
+            "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2017",
+            "abstract": "A coordinated approach capable of optimal scheduling of the responsive residential appliances to minimize the total cost of a community based scheme comprises a wind farm is suggested in this study. Here demand side loads are managed by optimizing smart appliances' operating time to minimize the cost to the community using a genetic algorithm based method. The cost optimization is obtained for different test cases using the algorithm implemented and results are discussed.",
+            "authors": [
+                "AH Wijethunge",
+                "JV Wijekulasooriya",
+                "Janaka B Ekanayake",
+                "KB Samarakoon",
+                "A Polpitiya"
+            ],
+            "doi": "https://doi.org/10.1109/ICIINFS.2017.8300374",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Schedules",
+                "Genetic algorithms",
+                "Optimization",
+                "Wind power generation",
+                "Power demand",
+                "Wind turbines",
+                "Mathematical model"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300374/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300374/index.json"
+        }
+    ],
+    "Wind turbines": [
+        {
+            "title": "Genetic algorithm based cost optimization to integrate a community based wind turbine while considering smart appliances scheduling",
+            "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2017",
+            "abstract": "A coordinated approach capable of optimal scheduling of the responsive residential appliances to minimize the total cost of a community based scheme comprises a wind farm is suggested in this study. Here demand side loads are managed by optimizing smart appliances' operating time to minimize the cost to the community using a genetic algorithm based method. The cost optimization is obtained for different test cases using the algorithm implemented and results are discussed.",
+            "authors": [
+                "AH Wijethunge",
+                "JV Wijekulasooriya",
+                "Janaka B Ekanayake",
+                "KB Samarakoon",
+                "A Polpitiya"
+            ],
+            "doi": "https://doi.org/10.1109/ICIINFS.2017.8300374",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Schedules",
+                "Genetic algorithms",
+                "Optimization",
+                "Wind power generation",
+                "Power demand",
+                "Wind turbines",
+                "Mathematical model"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300374/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300374/index.json"
         }
     ],
     "Wireless sensor networks": [
