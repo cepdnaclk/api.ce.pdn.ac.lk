@@ -1,4 +1,40 @@
 {
+    "5G networks": [
+        {
+            "title": "Implementation of OpenFlow based cognitive radio network architecture: SDN&R",
+            "venue": "Wireless Networks",
+            "year": "2016",
+            "abstract": "The static conventional network architecture is ill-suited to the growing management complexity and highly dynamic wireless network topologies. Software Defined Radio systems and their extension to cognitive and smart radio are characterized by distinct control loops for management which constantly increase network complexity and management inefficiencies, due to clear-cut between radio and core network management. Adding numerous devices and networks together will constantly increase the management cost, thus hinders scalability. Therefore, a holistic solution to synchronize radio and networks status has an elevated demand. To interconnect these systems and devices together, there is a need for a common management interface. OpenFlow is the first standard interface that enables Software Defined Networking (SDN). It can be rolled out in a variety of networking devices to enable improved automation and management by using common Application Program Interfaces to abstract the underlying networking details. The Software Defined Networking & Radio (SDN&R) framework proposed here has a potential combination between SDN and Radio networks to discover the underlying dynamism in cognitive access networks with integrated radio management. By isolating the control plane from the data plane, SDN&R enables a flexible management framework empowered by end-to-end goals through OpenFlow. In this article, we propose, validate, and evaluate the SDN&R architecture. In doing so, first we implement the OpenFlow enabled cognitive basestations (BSs) on Wireless Open-Access Research Platform. Furthermore, we develop software agents on BSs to provide radio status information to the cognitive control application implemented on the SDN controller. The results verify that the proposed framework in-lines with layer-2 or layer-3 forwarding performance. We claim that this work represents the first successful implementation results which synergizes SDN with Cognitive networks that motivates researchers towards SDN based radio resource management.",
+            "authors": [
+                "Suneth Namal",
+                "Ijaz Ahmad",
+                "Saad Saud",
+                "Markku Jokinen",
+                "Andrei Gurtov"
+            ],
+            "doi": "https://doi.org/10.1007/s11276-015-0973-5",
+            "preprint": "#",
+            "pdf": "https://link.springer.com/content/pdf/10.1007/s11276-015-0973-5.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Cognitive networks",
+                "OpenFlow",
+                "Wireless SDN",
+                "Virtual SSID",
+                "IEEE 802.11",
+                "WARP",
+                "5G networks"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1007/s11276-015-0973-5/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1007/s11276-015-0973-5/index.json"
+        }
+    ],
     "Acceleration": [
         {
             "title": "Hardware accelerated protein inference framework",
@@ -960,6 +996,41 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2016.7946533/index.json"
         }
     ],
+    "Biological system modeling": [
+        {
+            "title": "Autonomic trust management in cloud-based and highly dynamic IoT applications",
+            "venue": "2015 ITU Kaleidoscope: Trust in the Information Society (K-2015)",
+            "year": "2015",
+            "abstract": "In this paper, we propose an autonomic trust management framework for cloud based and highly dynamic Internet of Things (IoT) applications and services. IoT is creating a world where physical objects are seamlessly integrated in order to provide advanced and intelligent services for human-beings in their day-to-day life style. Therefore, trust on IoT devices plays an important role in IoT based services and applications. Cloud computing has been changing the way how provides are looking into these issues. Many studies have proposed different techniques to address trust management although non of them addresses autonomic trust management in cloud based highly dynamic IoT systems. To our understanding, IoT cloud ecosystems help to solve many of these issues while enhancing robustness and scalability. On this basis, we came up with an autonomic trust management framework based on MAPE-Kfeedback control loop to evaluate the level of trust. Finally, we presents the results that verify the effectiveness of this framework.",
+            "authors": [
+                "Suneth Namal",
+                "Hasindu Gamaarachchi",
+                "Gyu MyoungLee",
+                "Tai-Won Um"
+            ],
+            "doi": "https://doi.org/10.1109/Kaleidoscope.2015.7383635",
+            "preprint": "#",
+            "pdf": "https://researchonline.ljmu.ac.uk/id/eprint/2150/1/1570197625.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Cloud computing",
+                "Security",
+                "Biological system modeling",
+                "Monitoring",
+                "Internet of things",
+                "Ecosystems",
+                "Scalability"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/Kaleidoscope.2015.7383635/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/Kaleidoscope.2015.7383635/index.json"
+        }
+    ],
     "Cache memory": [
         {
             "title": "To use or not to use: CPUs' cache optimization techniques on GPGPUs",
@@ -1094,6 +1165,75 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753930/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC54489.2022.9753930/index.json"
+        },
+        {
+            "title": "Autonomic trust management in cloud-based and highly dynamic IoT applications",
+            "venue": "2015 ITU Kaleidoscope: Trust in the Information Society (K-2015)",
+            "year": "2015",
+            "abstract": "In this paper, we propose an autonomic trust management framework for cloud based and highly dynamic Internet of Things (IoT) applications and services. IoT is creating a world where physical objects are seamlessly integrated in order to provide advanced and intelligent services for human-beings in their day-to-day life style. Therefore, trust on IoT devices plays an important role in IoT based services and applications. Cloud computing has been changing the way how provides are looking into these issues. Many studies have proposed different techniques to address trust management although non of them addresses autonomic trust management in cloud based highly dynamic IoT systems. To our understanding, IoT cloud ecosystems help to solve many of these issues while enhancing robustness and scalability. On this basis, we came up with an autonomic trust management framework based on MAPE-Kfeedback control loop to evaluate the level of trust. Finally, we presents the results that verify the effectiveness of this framework.",
+            "authors": [
+                "Suneth Namal",
+                "Hasindu Gamaarachchi",
+                "Gyu MyoungLee",
+                "Tai-Won Um"
+            ],
+            "doi": "https://doi.org/10.1109/Kaleidoscope.2015.7383635",
+            "preprint": "#",
+            "pdf": "https://researchonline.ljmu.ac.uk/id/eprint/2150/1/1570197625.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Cloud computing",
+                "Security",
+                "Biological system modeling",
+                "Monitoring",
+                "Internet of things",
+                "Ecosystems",
+                "Scalability"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/Kaleidoscope.2015.7383635/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/Kaleidoscope.2015.7383635/index.json"
+        }
+    ],
+    "Cognitive networks": [
+        {
+            "title": "Implementation of OpenFlow based cognitive radio network architecture: SDN&R",
+            "venue": "Wireless Networks",
+            "year": "2016",
+            "abstract": "The static conventional network architecture is ill-suited to the growing management complexity and highly dynamic wireless network topologies. Software Defined Radio systems and their extension to cognitive and smart radio are characterized by distinct control loops for management which constantly increase network complexity and management inefficiencies, due to clear-cut between radio and core network management. Adding numerous devices and networks together will constantly increase the management cost, thus hinders scalability. Therefore, a holistic solution to synchronize radio and networks status has an elevated demand. To interconnect these systems and devices together, there is a need for a common management interface. OpenFlow is the first standard interface that enables Software Defined Networking (SDN). It can be rolled out in a variety of networking devices to enable improved automation and management by using common Application Program Interfaces to abstract the underlying networking details. The Software Defined Networking & Radio (SDN&R) framework proposed here has a potential combination between SDN and Radio networks to discover the underlying dynamism in cognitive access networks with integrated radio management. By isolating the control plane from the data plane, SDN&R enables a flexible management framework empowered by end-to-end goals through OpenFlow. In this article, we propose, validate, and evaluate the SDN&R architecture. In doing so, first we implement the OpenFlow enabled cognitive basestations (BSs) on Wireless Open-Access Research Platform. Furthermore, we develop software agents on BSs to provide radio status information to the cognitive control application implemented on the SDN controller. The results verify that the proposed framework in-lines with layer-2 or layer-3 forwarding performance. We claim that this work represents the first successful implementation results which synergizes SDN with Cognitive networks that motivates researchers towards SDN based radio resource management.",
+            "authors": [
+                "Suneth Namal",
+                "Ijaz Ahmad",
+                "Saad Saud",
+                "Markku Jokinen",
+                "Andrei Gurtov"
+            ],
+            "doi": "https://doi.org/10.1007/s11276-015-0973-5",
+            "preprint": "#",
+            "pdf": "https://link.springer.com/content/pdf/10.1007/s11276-015-0973-5.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Cognitive networks",
+                "OpenFlow",
+                "Wireless SDN",
+                "Virtual SSID",
+                "IEEE 802.11",
+                "WARP",
+                "5G networks"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1007/s11276-015-0973-5/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1007/s11276-015-0973-5/index.json"
         }
     ],
     "Commentz-Walter": [
@@ -1329,6 +1469,39 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753930/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC54489.2022.9753930/index.json"
+        },
+        {
+            "title": "Control channel denial-of-service attack in SDN-based networks",
+            "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2020",
+            "abstract": "Software-Defined Networking (SDN) is an architectural approach that fulfils the requirement of high bandwidth and the dynamic nature of current applications. One of the key features of the SDN architecture is the separation of the control logic from data plane devices. This key feature introduces a new type of control traffic in the SDN architecture, which opens the space for new vulnerabilities to SDN-based networks. In this paper, we first present an attack model to exploit the control channel of the SDN architecture. We then experimentally evaluate the impact of the attack on the end-users of the SDN-based network using our physical experimental testbed. Our experimental results clearly show that the control channel DoS attack has a major impact on the end-users of the SDN-based networks.",
+            "authors": [
+                "Shriparen Sriskandarajah",
+                "Matthew McKague",
+                "Ernest Foo",
+                "Roshan G. Ragel",
+                "Suneth Namal Karunarathna"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185266",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Switches",
+                "Computer architecture",
+                "Denial-of-service attack",
+                "Workstations",
+                "Measurement",
+                "Servers"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185266/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185266/index.json"
         }
     ],
     "Computer bugs": [
@@ -2180,6 +2353,41 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon.2018.8421896/index.json"
         }
     ],
+    "Denial-of-service attack": [
+        {
+            "title": "Control channel denial-of-service attack in SDN-based networks",
+            "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2020",
+            "abstract": "Software-Defined Networking (SDN) is an architectural approach that fulfils the requirement of high bandwidth and the dynamic nature of current applications. One of the key features of the SDN architecture is the separation of the control logic from data plane devices. This key feature introduces a new type of control traffic in the SDN architecture, which opens the space for new vulnerabilities to SDN-based networks. In this paper, we first present an attack model to exploit the control channel of the SDN architecture. We then experimentally evaluate the impact of the attack on the end-users of the SDN-based network using our physical experimental testbed. Our experimental results clearly show that the control channel DoS attack has a major impact on the end-users of the SDN-based networks.",
+            "authors": [
+                "Shriparen Sriskandarajah",
+                "Matthew McKague",
+                "Ernest Foo",
+                "Roshan G. Ragel",
+                "Suneth Namal Karunarathna"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185266",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Switches",
+                "Computer architecture",
+                "Denial-of-service attack",
+                "Workstations",
+                "Measurement",
+                "Servers"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185266/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185266/index.json"
+        }
+    ],
     "Diseases": [
         {
             "title": "Chronic kidney disease prediction using machine learning methods",
@@ -2208,6 +2416,41 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/ 10.1109/MERCon50084.2020.9185249/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/ 10.1109/MERCon50084.2020.9185249/index.json"
+        }
+    ],
+    "Ecosystems": [
+        {
+            "title": "Autonomic trust management in cloud-based and highly dynamic IoT applications",
+            "venue": "2015 ITU Kaleidoscope: Trust in the Information Society (K-2015)",
+            "year": "2015",
+            "abstract": "In this paper, we propose an autonomic trust management framework for cloud based and highly dynamic Internet of Things (IoT) applications and services. IoT is creating a world where physical objects are seamlessly integrated in order to provide advanced and intelligent services for human-beings in their day-to-day life style. Therefore, trust on IoT devices plays an important role in IoT based services and applications. Cloud computing has been changing the way how provides are looking into these issues. Many studies have proposed different techniques to address trust management although non of them addresses autonomic trust management in cloud based highly dynamic IoT systems. To our understanding, IoT cloud ecosystems help to solve many of these issues while enhancing robustness and scalability. On this basis, we came up with an autonomic trust management framework based on MAPE-Kfeedback control loop to evaluate the level of trust. Finally, we presents the results that verify the effectiveness of this framework.",
+            "authors": [
+                "Suneth Namal",
+                "Hasindu Gamaarachchi",
+                "Gyu MyoungLee",
+                "Tai-Won Um"
+            ],
+            "doi": "https://doi.org/10.1109/Kaleidoscope.2015.7383635",
+            "preprint": "#",
+            "pdf": "https://researchonline.ljmu.ac.uk/id/eprint/2150/1/1570197625.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Cloud computing",
+                "Security",
+                "Biological system modeling",
+                "Monitoring",
+                "Internet of things",
+                "Ecosystems",
+                "Scalability"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/Kaleidoscope.2015.7383635/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/Kaleidoscope.2015.7383635/index.json"
         }
     ],
     "Elevators": [
@@ -3827,6 +4070,42 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/ 10.1109/MERCon50084.2020.9185249/index.json"
         }
     ],
+    "IEEE 802.11": [
+        {
+            "title": "Implementation of OpenFlow based cognitive radio network architecture: SDN&R",
+            "venue": "Wireless Networks",
+            "year": "2016",
+            "abstract": "The static conventional network architecture is ill-suited to the growing management complexity and highly dynamic wireless network topologies. Software Defined Radio systems and their extension to cognitive and smart radio are characterized by distinct control loops for management which constantly increase network complexity and management inefficiencies, due to clear-cut between radio and core network management. Adding numerous devices and networks together will constantly increase the management cost, thus hinders scalability. Therefore, a holistic solution to synchronize radio and networks status has an elevated demand. To interconnect these systems and devices together, there is a need for a common management interface. OpenFlow is the first standard interface that enables Software Defined Networking (SDN). It can be rolled out in a variety of networking devices to enable improved automation and management by using common Application Program Interfaces to abstract the underlying networking details. The Software Defined Networking & Radio (SDN&R) framework proposed here has a potential combination between SDN and Radio networks to discover the underlying dynamism in cognitive access networks with integrated radio management. By isolating the control plane from the data plane, SDN&R enables a flexible management framework empowered by end-to-end goals through OpenFlow. In this article, we propose, validate, and evaluate the SDN&R architecture. In doing so, first we implement the OpenFlow enabled cognitive basestations (BSs) on Wireless Open-Access Research Platform. Furthermore, we develop software agents on BSs to provide radio status information to the cognitive control application implemented on the SDN controller. The results verify that the proposed framework in-lines with layer-2 or layer-3 forwarding performance. We claim that this work represents the first successful implementation results which synergizes SDN with Cognitive networks that motivates researchers towards SDN based radio resource management.",
+            "authors": [
+                "Suneth Namal",
+                "Ijaz Ahmad",
+                "Saad Saud",
+                "Markku Jokinen",
+                "Andrei Gurtov"
+            ],
+            "doi": "https://doi.org/10.1007/s11276-015-0973-5",
+            "preprint": "#",
+            "pdf": "https://link.springer.com/content/pdf/10.1007/s11276-015-0973-5.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Cognitive networks",
+                "OpenFlow",
+                "Wireless SDN",
+                "Virtual SSID",
+                "IEEE 802.11",
+                "WARP",
+                "5G networks"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1007/s11276-015-0973-5/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1007/s11276-015-0973-5/index.json"
+        }
+    ],
     "Image analysis": [
         {
             "title": "Loop unrolling in multi-pipeline ASIP design",
@@ -4352,6 +4631,41 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753930/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC54489.2022.9753930/index.json"
+        }
+    ],
+    "Internet of things": [
+        {
+            "title": "Autonomic trust management in cloud-based and highly dynamic IoT applications",
+            "venue": "2015 ITU Kaleidoscope: Trust in the Information Society (K-2015)",
+            "year": "2015",
+            "abstract": "In this paper, we propose an autonomic trust management framework for cloud based and highly dynamic Internet of Things (IoT) applications and services. IoT is creating a world where physical objects are seamlessly integrated in order to provide advanced and intelligent services for human-beings in their day-to-day life style. Therefore, trust on IoT devices plays an important role in IoT based services and applications. Cloud computing has been changing the way how provides are looking into these issues. Many studies have proposed different techniques to address trust management although non of them addresses autonomic trust management in cloud based highly dynamic IoT systems. To our understanding, IoT cloud ecosystems help to solve many of these issues while enhancing robustness and scalability. On this basis, we came up with an autonomic trust management framework based on MAPE-Kfeedback control loop to evaluate the level of trust. Finally, we presents the results that verify the effectiveness of this framework.",
+            "authors": [
+                "Suneth Namal",
+                "Hasindu Gamaarachchi",
+                "Gyu MyoungLee",
+                "Tai-Won Um"
+            ],
+            "doi": "https://doi.org/10.1109/Kaleidoscope.2015.7383635",
+            "preprint": "#",
+            "pdf": "https://researchonline.ljmu.ac.uk/id/eprint/2150/1/1570197625.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Cloud computing",
+                "Security",
+                "Biological system modeling",
+                "Monitoring",
+                "Internet of things",
+                "Ecosystems",
+                "Scalability"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/Kaleidoscope.2015.7383635/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/Kaleidoscope.2015.7383635/index.json"
         }
     ],
     "Intrusion detection": [
@@ -5097,6 +5411,39 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300399/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300399/index.json"
+        },
+        {
+            "title": "Control channel denial-of-service attack in SDN-based networks",
+            "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2020",
+            "abstract": "Software-Defined Networking (SDN) is an architectural approach that fulfils the requirement of high bandwidth and the dynamic nature of current applications. One of the key features of the SDN architecture is the separation of the control logic from data plane devices. This key feature introduces a new type of control traffic in the SDN architecture, which opens the space for new vulnerabilities to SDN-based networks. In this paper, we first present an attack model to exploit the control channel of the SDN architecture. We then experimentally evaluate the impact of the attack on the end-users of the SDN-based network using our physical experimental testbed. Our experimental results clearly show that the control channel DoS attack has a major impact on the end-users of the SDN-based networks.",
+            "authors": [
+                "Shriparen Sriskandarajah",
+                "Matthew McKague",
+                "Ernest Foo",
+                "Roshan G. Ragel",
+                "Suneth Namal Karunarathna"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185266",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Switches",
+                "Computer architecture",
+                "Denial-of-service attack",
+                "Workstations",
+                "Measurement",
+                "Servers"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185266/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185266/index.json"
         }
     ],
     "Merging": [
@@ -5341,6 +5688,39 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MIES.2016.7780261/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MIES.2016.7780261/index.json"
+        },
+        {
+            "title": "Autonomic trust management in cloud-based and highly dynamic IoT applications",
+            "venue": "2015 ITU Kaleidoscope: Trust in the Information Society (K-2015)",
+            "year": "2015",
+            "abstract": "In this paper, we propose an autonomic trust management framework for cloud based and highly dynamic Internet of Things (IoT) applications and services. IoT is creating a world where physical objects are seamlessly integrated in order to provide advanced and intelligent services for human-beings in their day-to-day life style. Therefore, trust on IoT devices plays an important role in IoT based services and applications. Cloud computing has been changing the way how provides are looking into these issues. Many studies have proposed different techniques to address trust management although non of them addresses autonomic trust management in cloud based highly dynamic IoT systems. To our understanding, IoT cloud ecosystems help to solve many of these issues while enhancing robustness and scalability. On this basis, we came up with an autonomic trust management framework based on MAPE-Kfeedback control loop to evaluate the level of trust. Finally, we presents the results that verify the effectiveness of this framework.",
+            "authors": [
+                "Suneth Namal",
+                "Hasindu Gamaarachchi",
+                "Gyu MyoungLee",
+                "Tai-Won Um"
+            ],
+            "doi": "https://doi.org/10.1109/Kaleidoscope.2015.7383635",
+            "preprint": "#",
+            "pdf": "https://researchonline.ljmu.ac.uk/id/eprint/2150/1/1570197625.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Cloud computing",
+                "Security",
+                "Biological system modeling",
+                "Monitoring",
+                "Internet of things",
+                "Ecosystems",
+                "Scalability"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/Kaleidoscope.2015.7383635/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/Kaleidoscope.2015.7383635/index.json"
         }
     ],
     "Nanopolish": [
@@ -5572,6 +5952,42 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2008.4783956/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2008.4783956/index.json"
+        }
+    ],
+    "OpenFlow": [
+        {
+            "title": "Implementation of OpenFlow based cognitive radio network architecture: SDN&R",
+            "venue": "Wireless Networks",
+            "year": "2016",
+            "abstract": "The static conventional network architecture is ill-suited to the growing management complexity and highly dynamic wireless network topologies. Software Defined Radio systems and their extension to cognitive and smart radio are characterized by distinct control loops for management which constantly increase network complexity and management inefficiencies, due to clear-cut between radio and core network management. Adding numerous devices and networks together will constantly increase the management cost, thus hinders scalability. Therefore, a holistic solution to synchronize radio and networks status has an elevated demand. To interconnect these systems and devices together, there is a need for a common management interface. OpenFlow is the first standard interface that enables Software Defined Networking (SDN). It can be rolled out in a variety of networking devices to enable improved automation and management by using common Application Program Interfaces to abstract the underlying networking details. The Software Defined Networking & Radio (SDN&R) framework proposed here has a potential combination between SDN and Radio networks to discover the underlying dynamism in cognitive access networks with integrated radio management. By isolating the control plane from the data plane, SDN&R enables a flexible management framework empowered by end-to-end goals through OpenFlow. In this article, we propose, validate, and evaluate the SDN&R architecture. In doing so, first we implement the OpenFlow enabled cognitive basestations (BSs) on Wireless Open-Access Research Platform. Furthermore, we develop software agents on BSs to provide radio status information to the cognitive control application implemented on the SDN controller. The results verify that the proposed framework in-lines with layer-2 or layer-3 forwarding performance. We claim that this work represents the first successful implementation results which synergizes SDN with Cognitive networks that motivates researchers towards SDN based radio resource management.",
+            "authors": [
+                "Suneth Namal",
+                "Ijaz Ahmad",
+                "Saad Saud",
+                "Markku Jokinen",
+                "Andrei Gurtov"
+            ],
+            "doi": "https://doi.org/10.1007/s11276-015-0973-5",
+            "preprint": "#",
+            "pdf": "https://link.springer.com/content/pdf/10.1007/s11276-015-0973-5.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Cognitive networks",
+                "OpenFlow",
+                "Wireless SDN",
+                "Virtual SSID",
+                "IEEE 802.11",
+                "WARP",
+                "5G networks"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1007/s11276-015-0973-5/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1007/s11276-015-0973-5/index.json"
         }
     ],
     "Optical fiber networks": [
@@ -7519,6 +7935,39 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753930/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC54489.2022.9753930/index.json"
+        },
+        {
+            "title": "Autonomic trust management in cloud-based and highly dynamic IoT applications",
+            "venue": "2015 ITU Kaleidoscope: Trust in the Information Society (K-2015)",
+            "year": "2015",
+            "abstract": "In this paper, we propose an autonomic trust management framework for cloud based and highly dynamic Internet of Things (IoT) applications and services. IoT is creating a world where physical objects are seamlessly integrated in order to provide advanced and intelligent services for human-beings in their day-to-day life style. Therefore, trust on IoT devices plays an important role in IoT based services and applications. Cloud computing has been changing the way how provides are looking into these issues. Many studies have proposed different techniques to address trust management although non of them addresses autonomic trust management in cloud based highly dynamic IoT systems. To our understanding, IoT cloud ecosystems help to solve many of these issues while enhancing robustness and scalability. On this basis, we came up with an autonomic trust management framework based on MAPE-Kfeedback control loop to evaluate the level of trust. Finally, we presents the results that verify the effectiveness of this framework.",
+            "authors": [
+                "Suneth Namal",
+                "Hasindu Gamaarachchi",
+                "Gyu MyoungLee",
+                "Tai-Won Um"
+            ],
+            "doi": "https://doi.org/10.1109/Kaleidoscope.2015.7383635",
+            "preprint": "#",
+            "pdf": "https://researchonline.ljmu.ac.uk/id/eprint/2150/1/1570197625.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Cloud computing",
+                "Security",
+                "Biological system modeling",
+                "Monitoring",
+                "Internet of things",
+                "Ecosystems",
+                "Scalability"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/Kaleidoscope.2015.7383635/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/Kaleidoscope.2015.7383635/index.json"
         }
     ],
     "Schedules": [
@@ -7689,6 +8138,39 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ISIE45552.2021.9576256/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ISIE45552.2021.9576256/index.json"
+        },
+        {
+            "title": "Autonomic trust management in cloud-based and highly dynamic IoT applications",
+            "venue": "2015 ITU Kaleidoscope: Trust in the Information Society (K-2015)",
+            "year": "2015",
+            "abstract": "In this paper, we propose an autonomic trust management framework for cloud based and highly dynamic Internet of Things (IoT) applications and services. IoT is creating a world where physical objects are seamlessly integrated in order to provide advanced and intelligent services for human-beings in their day-to-day life style. Therefore, trust on IoT devices plays an important role in IoT based services and applications. Cloud computing has been changing the way how provides are looking into these issues. Many studies have proposed different techniques to address trust management although non of them addresses autonomic trust management in cloud based highly dynamic IoT systems. To our understanding, IoT cloud ecosystems help to solve many of these issues while enhancing robustness and scalability. On this basis, we came up with an autonomic trust management framework based on MAPE-Kfeedback control loop to evaluate the level of trust. Finally, we presents the results that verify the effectiveness of this framework.",
+            "authors": [
+                "Suneth Namal",
+                "Hasindu Gamaarachchi",
+                "Gyu MyoungLee",
+                "Tai-Won Um"
+            ],
+            "doi": "https://doi.org/10.1109/Kaleidoscope.2015.7383635",
+            "preprint": "#",
+            "pdf": "https://researchonline.ljmu.ac.uk/id/eprint/2150/1/1570197625.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Cloud computing",
+                "Security",
+                "Biological system modeling",
+                "Monitoring",
+                "Internet of things",
+                "Ecosystems",
+                "Scalability"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/Kaleidoscope.2015.7383635/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/Kaleidoscope.2015.7383635/index.json"
         }
     ],
     "Sensor phenomena and characterization": [
@@ -7867,6 +8349,39 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MIES.2016.7780261/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MIES.2016.7780261/index.json"
+        },
+        {
+            "title": "Control channel denial-of-service attack in SDN-based networks",
+            "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2020",
+            "abstract": "Software-Defined Networking (SDN) is an architectural approach that fulfils the requirement of high bandwidth and the dynamic nature of current applications. One of the key features of the SDN architecture is the separation of the control logic from data plane devices. This key feature introduces a new type of control traffic in the SDN architecture, which opens the space for new vulnerabilities to SDN-based networks. In this paper, we first present an attack model to exploit the control channel of the SDN architecture. We then experimentally evaluate the impact of the attack on the end-users of the SDN-based network using our physical experimental testbed. Our experimental results clearly show that the control channel DoS attack has a major impact on the end-users of the SDN-based networks.",
+            "authors": [
+                "Shriparen Sriskandarajah",
+                "Matthew McKague",
+                "Ernest Foo",
+                "Roshan G. Ragel",
+                "Suneth Namal Karunarathna"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185266",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Switches",
+                "Computer architecture",
+                "Denial-of-service attack",
+                "Workstations",
+                "Measurement",
+                "Servers"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185266/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185266/index.json"
         }
     ],
     "Signal alignment": [
@@ -8765,6 +9280,41 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300399/index.json"
         }
     ],
+    "Switches": [
+        {
+            "title": "Control channel denial-of-service attack in SDN-based networks",
+            "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2020",
+            "abstract": "Software-Defined Networking (SDN) is an architectural approach that fulfils the requirement of high bandwidth and the dynamic nature of current applications. One of the key features of the SDN architecture is the separation of the control logic from data plane devices. This key feature introduces a new type of control traffic in the SDN architecture, which opens the space for new vulnerabilities to SDN-based networks. In this paper, we first present an attack model to exploit the control channel of the SDN architecture. We then experimentally evaluate the impact of the attack on the end-users of the SDN-based network using our physical experimental testbed. Our experimental results clearly show that the control channel DoS attack has a major impact on the end-users of the SDN-based networks.",
+            "authors": [
+                "Shriparen Sriskandarajah",
+                "Matthew McKague",
+                "Ernest Foo",
+                "Roshan G. Ragel",
+                "Suneth Namal Karunarathna"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185266",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Switches",
+                "Computer architecture",
+                "Denial-of-service attack",
+                "Workstations",
+                "Measurement",
+                "Servers"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185266/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185266/index.json"
+        }
+    ],
     "Synthetic aperture sonar": [
         {
             "title": "SAS-3: A polynomial based strong password authentication protocol",
@@ -9275,6 +9825,42 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS47346.2019.9063269/index.json"
         }
     ],
+    "Virtual SSID": [
+        {
+            "title": "Implementation of OpenFlow based cognitive radio network architecture: SDN&R",
+            "venue": "Wireless Networks",
+            "year": "2016",
+            "abstract": "The static conventional network architecture is ill-suited to the growing management complexity and highly dynamic wireless network topologies. Software Defined Radio systems and their extension to cognitive and smart radio are characterized by distinct control loops for management which constantly increase network complexity and management inefficiencies, due to clear-cut between radio and core network management. Adding numerous devices and networks together will constantly increase the management cost, thus hinders scalability. Therefore, a holistic solution to synchronize radio and networks status has an elevated demand. To interconnect these systems and devices together, there is a need for a common management interface. OpenFlow is the first standard interface that enables Software Defined Networking (SDN). It can be rolled out in a variety of networking devices to enable improved automation and management by using common Application Program Interfaces to abstract the underlying networking details. The Software Defined Networking & Radio (SDN&R) framework proposed here has a potential combination between SDN and Radio networks to discover the underlying dynamism in cognitive access networks with integrated radio management. By isolating the control plane from the data plane, SDN&R enables a flexible management framework empowered by end-to-end goals through OpenFlow. In this article, we propose, validate, and evaluate the SDN&R architecture. In doing so, first we implement the OpenFlow enabled cognitive basestations (BSs) on Wireless Open-Access Research Platform. Furthermore, we develop software agents on BSs to provide radio status information to the cognitive control application implemented on the SDN controller. The results verify that the proposed framework in-lines with layer-2 or layer-3 forwarding performance. We claim that this work represents the first successful implementation results which synergizes SDN with Cognitive networks that motivates researchers towards SDN based radio resource management.",
+            "authors": [
+                "Suneth Namal",
+                "Ijaz Ahmad",
+                "Saad Saud",
+                "Markku Jokinen",
+                "Andrei Gurtov"
+            ],
+            "doi": "https://doi.org/10.1007/s11276-015-0973-5",
+            "preprint": "#",
+            "pdf": "https://link.springer.com/content/pdf/10.1007/s11276-015-0973-5.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Cognitive networks",
+                "OpenFlow",
+                "Wireless SDN",
+                "Virtual SSID",
+                "IEEE 802.11",
+                "WARP",
+                "5G networks"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1007/s11276-015-0973-5/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1007/s11276-015-0973-5/index.json"
+        }
+    ],
     "Visualization": [
         {
             "title": "Visual Design Platform for Wireless Sensor Network",
@@ -9308,6 +9894,42 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon.2018.8421896/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon.2018.8421896/index.json"
+        }
+    ],
+    "WARP": [
+        {
+            "title": "Implementation of OpenFlow based cognitive radio network architecture: SDN&R",
+            "venue": "Wireless Networks",
+            "year": "2016",
+            "abstract": "The static conventional network architecture is ill-suited to the growing management complexity and highly dynamic wireless network topologies. Software Defined Radio systems and their extension to cognitive and smart radio are characterized by distinct control loops for management which constantly increase network complexity and management inefficiencies, due to clear-cut between radio and core network management. Adding numerous devices and networks together will constantly increase the management cost, thus hinders scalability. Therefore, a holistic solution to synchronize radio and networks status has an elevated demand. To interconnect these systems and devices together, there is a need for a common management interface. OpenFlow is the first standard interface that enables Software Defined Networking (SDN). It can be rolled out in a variety of networking devices to enable improved automation and management by using common Application Program Interfaces to abstract the underlying networking details. The Software Defined Networking & Radio (SDN&R) framework proposed here has a potential combination between SDN and Radio networks to discover the underlying dynamism in cognitive access networks with integrated radio management. By isolating the control plane from the data plane, SDN&R enables a flexible management framework empowered by end-to-end goals through OpenFlow. In this article, we propose, validate, and evaluate the SDN&R architecture. In doing so, first we implement the OpenFlow enabled cognitive basestations (BSs) on Wireless Open-Access Research Platform. Furthermore, we develop software agents on BSs to provide radio status information to the cognitive control application implemented on the SDN controller. The results verify that the proposed framework in-lines with layer-2 or layer-3 forwarding performance. We claim that this work represents the first successful implementation results which synergizes SDN with Cognitive networks that motivates researchers towards SDN based radio resource management.",
+            "authors": [
+                "Suneth Namal",
+                "Ijaz Ahmad",
+                "Saad Saud",
+                "Markku Jokinen",
+                "Andrei Gurtov"
+            ],
+            "doi": "https://doi.org/10.1007/s11276-015-0973-5",
+            "preprint": "#",
+            "pdf": "https://link.springer.com/content/pdf/10.1007/s11276-015-0973-5.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Cognitive networks",
+                "OpenFlow",
+                "Wireless SDN",
+                "Virtual SSID",
+                "IEEE 802.11",
+                "WARP",
+                "5G networks"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1007/s11276-015-0973-5/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1007/s11276-015-0973-5/index.json"
         }
     ],
     "Web services": [
@@ -9456,6 +10078,42 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300374/index.json"
         }
     ],
+    "Wireless SDN": [
+        {
+            "title": "Implementation of OpenFlow based cognitive radio network architecture: SDN&R",
+            "venue": "Wireless Networks",
+            "year": "2016",
+            "abstract": "The static conventional network architecture is ill-suited to the growing management complexity and highly dynamic wireless network topologies. Software Defined Radio systems and their extension to cognitive and smart radio are characterized by distinct control loops for management which constantly increase network complexity and management inefficiencies, due to clear-cut between radio and core network management. Adding numerous devices and networks together will constantly increase the management cost, thus hinders scalability. Therefore, a holistic solution to synchronize radio and networks status has an elevated demand. To interconnect these systems and devices together, there is a need for a common management interface. OpenFlow is the first standard interface that enables Software Defined Networking (SDN). It can be rolled out in a variety of networking devices to enable improved automation and management by using common Application Program Interfaces to abstract the underlying networking details. The Software Defined Networking & Radio (SDN&R) framework proposed here has a potential combination between SDN and Radio networks to discover the underlying dynamism in cognitive access networks with integrated radio management. By isolating the control plane from the data plane, SDN&R enables a flexible management framework empowered by end-to-end goals through OpenFlow. In this article, we propose, validate, and evaluate the SDN&R architecture. In doing so, first we implement the OpenFlow enabled cognitive basestations (BSs) on Wireless Open-Access Research Platform. Furthermore, we develop software agents on BSs to provide radio status information to the cognitive control application implemented on the SDN controller. The results verify that the proposed framework in-lines with layer-2 or layer-3 forwarding performance. We claim that this work represents the first successful implementation results which synergizes SDN with Cognitive networks that motivates researchers towards SDN based radio resource management.",
+            "authors": [
+                "Suneth Namal",
+                "Ijaz Ahmad",
+                "Saad Saud",
+                "Markku Jokinen",
+                "Andrei Gurtov"
+            ],
+            "doi": "https://doi.org/10.1007/s11276-015-0973-5",
+            "preprint": "#",
+            "pdf": "https://link.springer.com/content/pdf/10.1007/s11276-015-0973-5.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Cognitive networks",
+                "OpenFlow",
+                "Wireless SDN",
+                "Virtual SSID",
+                "IEEE 802.11",
+                "WARP",
+                "5G networks"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1007/s11276-015-0973-5/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1007/s11276-015-0973-5/index.json"
+        }
+    ],
     "Wireless sensor networks": [
         {
             "title": "Visual Design Platform for Wireless Sensor Network",
@@ -9489,6 +10147,41 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon.2018.8421896/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon.2018.8421896/index.json"
+        }
+    ],
+    "Workstations": [
+        {
+            "title": "Control channel denial-of-service attack in SDN-based networks",
+            "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2020",
+            "abstract": "Software-Defined Networking (SDN) is an architectural approach that fulfils the requirement of high bandwidth and the dynamic nature of current applications. One of the key features of the SDN architecture is the separation of the control logic from data plane devices. This key feature introduces a new type of control traffic in the SDN architecture, which opens the space for new vulnerabilities to SDN-based networks. In this paper, we first present an attack model to exploit the control channel of the SDN architecture. We then experimentally evaluate the impact of the attack on the end-users of the SDN-based network using our physical experimental testbed. Our experimental results clearly show that the control channel DoS attack has a major impact on the end-users of the SDN-based networks.",
+            "authors": [
+                "Shriparen Sriskandarajah",
+                "Matthew McKague",
+                "Ernest Foo",
+                "Roshan G. Ragel",
+                "Suneth Namal Karunarathna"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185266",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Switches",
+                "Computer architecture",
+                "Denial-of-service attack",
+                "Workstations",
+                "Measurement",
+                "Servers"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185266/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185266/index.json"
         }
     ],
     "access management": [

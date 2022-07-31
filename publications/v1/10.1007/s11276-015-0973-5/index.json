@@ -1,0 +1,44 @@
+{
+    "title": "Implementation of OpenFlow based cognitive radio network architecture: SDN&R",
+    "venue": "Wireless Networks",
+    "year": "2016",
+    "abstract": "The static conventional network architecture is ill-suited to the growing management complexity and highly dynamic wireless network topologies. Software Defined Radio systems and their extension to cognitive and smart radio are characterized by distinct control loops for management which constantly increase network complexity and management inefficiencies, due to clear-cut between radio and core network management. Adding numerous devices and networks together will constantly increase the management cost, thus hinders scalability. Therefore, a holistic solution to synchronize radio and networks status has an elevated demand. To interconnect these systems and devices together, there is a need for a common management interface. OpenFlow is the first standard interface that enables Software Defined Networking (SDN). It can be rolled out in a variety of networking devices to enable improved automation and management by using common Application Program Interfaces to abstract the underlying networking details. The Software Defined Networking & Radio (SDN&R) framework proposed here has a potential combination between SDN and Radio networks to discover the underlying dynamism in cognitive access networks with integrated radio management. By isolating the control plane from the data plane, SDN&R enables a flexible management framework empowered by end-to-end goals through OpenFlow. In this article, we propose, validate, and evaluate the SDN&R architecture. In doing so, first we implement the OpenFlow enabled cognitive basestations (BSs) on Wireless Open-Access Research Platform. Furthermore, we develop software agents on BSs to provide radio status information to the cognitive control application implemented on the SDN controller. The results verify that the proposed framework in-lines with layer-2 or layer-3 forwarding performance. We claim that this work represents the first successful implementation results which synergizes SDN with Cognitive networks that motivates researchers towards SDN based radio resource management.",
+    "authors": [
+        "Suneth Namal",
+        "Ijaz Ahmad",
+        "Saad Saud",
+        "Markku Jokinen",
+        "Andrei Gurtov"
+    ],
+    "author_info": [
+        {
+            "type": "STAFF",
+            "id": "namal",
+            "name": "Dr. Suneth Namal Karunarathna",
+            "email": "namal@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/suneth-namal-karunarathna.png",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/suneth-namal-karunarathna/"
+        }
+    ],
+    "doi": "https://doi.org/10.1007/s11276-015-0973-5",
+    "preprint_url": "#",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11276-015-0973-5.pdf",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        ""
+    ],
+    "tags": [
+        "Cognitive networks",
+        "OpenFlow",
+        "Wireless SDN",
+        "Virtual SSID",
+        "IEEE 802.11",
+        "WARP",
+        "5G networks"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1007/s11276-015-0973-5/",
+    "submitted": "2022/07/31 08:07:44"
+}

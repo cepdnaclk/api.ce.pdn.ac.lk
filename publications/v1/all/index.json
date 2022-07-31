@@ -2602,5 +2602,143 @@
         "funding": "",
         "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753930/",
         "submitted": "2022/07/27 08:58:05"
+    },
+    {
+        "title": "Autonomic trust management in cloud-based and highly dynamic IoT applications",
+        "venue": "2015 ITU Kaleidoscope: Trust in the Information Society (K-2015)",
+        "year": "2015",
+        "abstract": "In this paper, we propose an autonomic trust management framework for cloud based and highly dynamic Internet of Things (IoT) applications and services. IoT is creating a world where physical objects are seamlessly integrated in order to provide advanced and intelligent services for human-beings in their day-to-day life style. Therefore, trust on IoT devices plays an important role in IoT based services and applications. Cloud computing has been changing the way how provides are looking into these issues. Many studies have proposed different techniques to address trust management although non of them addresses autonomic trust management in cloud based highly dynamic IoT systems. To our understanding, IoT cloud ecosystems help to solve many of these issues while enhancing robustness and scalability. On this basis, we came up with an autonomic trust management framework based on MAPE-Kfeedback control loop to evaluate the level of trust. Finally, we presents the results that verify the effectiveness of this framework.",
+        "authors": [
+            "Suneth Namal",
+            "Hasindu Gamaarachchi",
+            "Gyu MyoungLee",
+            "Tai-Won Um"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "namal",
+                "name": "Dr. Suneth Namal Karunarathna",
+                "email": "namal@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/suneth-namal-karunarathna.png",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/suneth-namal-karunarathna/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/Kaleidoscope.2015.7383635",
+        "preprint_url": "#",
+        "pdf_url": "https://researchonline.ljmu.ac.uk/id/eprint/2150/1/1570197625.pdf",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "Cloud computing",
+            "Security",
+            "Biological system modeling",
+            "Monitoring",
+            "Internet of things",
+            "Ecosystems",
+            "Scalability"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/Kaleidoscope.2015.7383635/",
+        "submitted": "2022/07/31 08:04:03"
+    },
+    {
+        "title": "Implementation of OpenFlow based cognitive radio network architecture: SDN&R",
+        "venue": "Wireless Networks",
+        "year": "2016",
+        "abstract": "The static conventional network architecture is ill-suited to the growing management complexity and highly dynamic wireless network topologies. Software Defined Radio systems and their extension to cognitive and smart radio are characterized by distinct control loops for management which constantly increase network complexity and management inefficiencies, due to clear-cut between radio and core network management. Adding numerous devices and networks together will constantly increase the management cost, thus hinders scalability. Therefore, a holistic solution to synchronize radio and networks status has an elevated demand. To interconnect these systems and devices together, there is a need for a common management interface. OpenFlow is the first standard interface that enables Software Defined Networking (SDN). It can be rolled out in a variety of networking devices to enable improved automation and management by using common Application Program Interfaces to abstract the underlying networking details. The Software Defined Networking & Radio (SDN&R) framework proposed here has a potential combination between SDN and Radio networks to discover the underlying dynamism in cognitive access networks with integrated radio management. By isolating the control plane from the data plane, SDN&R enables a flexible management framework empowered by end-to-end goals through OpenFlow. In this article, we propose, validate, and evaluate the SDN&R architecture. In doing so, first we implement the OpenFlow enabled cognitive basestations (BSs) on Wireless Open-Access Research Platform. Furthermore, we develop software agents on BSs to provide radio status information to the cognitive control application implemented on the SDN controller. The results verify that the proposed framework in-lines with layer-2 or layer-3 forwarding performance. We claim that this work represents the first successful implementation results which synergizes SDN with Cognitive networks that motivates researchers towards SDN based radio resource management.",
+        "authors": [
+            "Suneth Namal",
+            "Ijaz Ahmad",
+            "Saad Saud",
+            "Markku Jokinen",
+            "Andrei Gurtov"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "namal",
+                "name": "Dr. Suneth Namal Karunarathna",
+                "email": "namal@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/suneth-namal-karunarathna.png",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/suneth-namal-karunarathna/"
+            }
+        ],
+        "doi": "https://doi.org/10.1007/s11276-015-0973-5",
+        "preprint_url": "#",
+        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11276-015-0973-5.pdf",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "Cognitive networks",
+            "OpenFlow",
+            "Wireless SDN",
+            "Virtual SSID",
+            "IEEE 802.11",
+            "WARP",
+            "5G networks"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1007/s11276-015-0973-5/",
+        "submitted": "2022/07/31 08:07:44"
+    },
+    {
+        "title": "Control channel denial-of-service attack in SDN-based networks",
+        "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+        "year": "2020",
+        "abstract": "Software-Defined Networking (SDN) is an architectural approach that fulfils the requirement of high bandwidth and the dynamic nature of current applications. One of the key features of the SDN architecture is the separation of the control logic from data plane devices. This key feature introduces a new type of control traffic in the SDN architecture, which opens the space for new vulnerabilities to SDN-based networks. In this paper, we first present an attack model to exploit the control channel of the SDN architecture. We then experimentally evaluate the impact of the attack on the end-users of the SDN-based network using our physical experimental testbed. Our experimental results clearly show that the control channel DoS attack has a major impact on the end-users of the SDN-based networks.",
+        "authors": [
+            "Shriparen Sriskandarajah",
+            "Matthew McKague",
+            "Ernest Foo",
+            "Roshan G. Ragel",
+            "Suneth Namal Karunarathna"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            },
+            {
+                "type": "STAFF",
+                "id": "namal",
+                "name": "Dr. Suneth Namal Karunarathna",
+                "email": "namal@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/suneth-namal-karunarathna.png",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/suneth-namal-karunarathna/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/MERCon50084.2020.9185266",
+        "preprint_url": "#",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            ""
+        ],
+        "tags": [
+            "Switches",
+            "Computer architecture",
+            "Denial-of-service attack",
+            "Workstations",
+            "Measurement",
+            "Servers"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185266/",
+        "submitted": "2022/07/31 08:10:33"
     }
 ]
