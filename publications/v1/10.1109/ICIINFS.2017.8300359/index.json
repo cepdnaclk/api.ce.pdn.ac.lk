@@ -1,0 +1,58 @@
+{
+    "title": "Implementing a proven-secure and cost-effective countermeasure against the compression ratio info-leak mass exploitation (CRIME) attack",
+    "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
+    "year": "2017",
+    "abstract": "Header compression is desirable for network applications as it saves bandwidth and reduces latency. However, when data is compressed before being encrypted, the amount of compression leaks information about the amount of redundancy in the plaintext. In web requests, headers contain secret web cookies. Therefore, compression of headers before encryption will reveal the information about the secret web cookies. This side-channel has led to Compression Ratio Info-leak Made Easy (CRIME) attack on web traffic protected by the SSL/TLS protocols. In order to mitigate the CRIME attack, compression is completely disabled at the TLS/SSL layer, which in return increases the bandwidth consumption and latency. In a previous work (Financial Cryptography and Data Security 2015), two countermeasures are presented with formal security proofs, against compression side-channel attacks, namely (l)-separating secret cookies from user inputs and (2)-using a static compression dictionary. In this work we create a test environment to replicate the CRIME attack and verify the attack. Moreover, we implement a proven-secure countermeasure against the CRIME attack, in a real world client/server setup, following the aforementioned two countermeasures. Our implementation achieves better compression ratio (closer to the original TLS/SSL compression), and hence reduces the bandwidth usage and latency significantly (therefore cost-effective). To the best of our knowledge, this is the first proven-secure and cost-effective countermeasure implementation against the CRIME attack.",
+    "authors": [
+        "Jayamine Alupotha",
+        "Sanduni Prasadi",
+        "Janaka Alawatugoda",
+        "Roshan Ragel",
+        "Mohamed Fawsan"
+    ],
+    "author_info": [
+        {
+            "type": "STUDENT",
+            "id": "E/12/009",
+            "name": "R.P.B.J. Alupotha",
+            "email": "jayamine.alupotha@gmail.com",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e12/e12009.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e12/009/"
+        },
+        {
+            "type": "STUDENT",
+            "id": "E/12/269",
+            "name": "R.P.S. Prasadi",
+            "email": "sanduniprasadi06@gmail.com",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e12/e12269.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e12/269/"
+        },
+        {
+            "type": "STAFF",
+            "id": "roshanr",
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/ICIINFS.2017.8300359",
+    "preprint_url": "https://www.researchgate.net/profile/Roshan-Ragel/publication/323352314_Implementing_a_proven-secure_and_cost-effective_countermeasure_against_the_compression_ratio_info-leak_mass_exploitation_CRIME_attack/links/61c959beb8305f7c4b0421bc/Implementing-a-proven-secure-and-cost-effective-countermeasure-against-the-compression-ratio-info-leak-mass-exploitation-CRIME-attack.pdf",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+    ],
+    "tags": [
+        "Bandwidth",
+        "Side-channel attacks",
+        "Dictionaries",
+        "Servers",
+        "Data compression"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300359/",
+    "submitted": "2022/08/10 21:42:15"
+}

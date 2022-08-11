@@ -1,0 +1,36 @@
+{
+    "title": "On power analysis attacks against hardware stream ciphers",
+    "venue": "International Journal of Information and Computer Security",
+    "year": "2022",
+    "abstract": "Power analysis attacks are a type of attack which measures and analyses the power consumption of electronic circuits to extract secret information, particularly the secret encryption key. These attacks have become a huge threat for embedded systems, in which the security depends on the secret encryption key for the ciphers. Hence, many researchers try to find vulnerabilities of cryptosystems against power analysis attacks, so that they can develop countermeasures to ensure the security of such systems. In this paper, we review some of the recent power analysis attacks on modern hardware stream ciphers such as Trivium, Grain and MICKEY.",
+    "authors": [
+        "Rangana De Silva",
+        "Iranga Navaratna",
+        "Malitha Kumarasiri",
+        "Janaka Alawatugoda",
+        "Chuah Chai Wen"
+    ],
+    "author_info": [],
+    "doi": "https://doi.org/10.1504/ijics.2022.121289",
+    "preprint_url": "#",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e13/power-analysis-attack-on-trivium-stream-cipher",
+    "codebase": "#",
+    "research_groups": [
+        "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+    ],
+    "tags": [
+        "differential power analysis",
+        "correlation power analysis",
+        "simple power analysis",
+        "power analysis attack",
+        "stream cipher",
+        "Trivium",
+        "Grain",
+        "MICKEY"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1504/ijics.2022.121289/",
+    "submitted": "2022/08/10 21:56:27"
+}

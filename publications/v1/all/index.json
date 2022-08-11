@@ -2740,5 +2740,404 @@
         "funding": "",
         "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185266/",
         "submitted": "2022/07/31 08:10:33"
+    },
+    {
+        "title": "On implementing a client-server setting to prevent the Browser Reconnaissance and Exfiltration via Adaptive Compression of Hypertext (BREACH) attacks",
+        "venue": "2016 Manufacturing & Industrial Engineering Symposium (MIES)",
+        "year": "2016",
+        "abstract": "Compression is desirable for network applications as it saves bandwidth. Differently, when data is compressed before being encrypted, the amount of compression leaks information about the amount of redundancy in the plaintext. This side channel has led to the \u00e2\u0080\u009cBrowser Reconnaissance and Exfiltration via Adaptive Compression of Hypertext (BREACH)\u00e2\u0080\u009d attack on web traffic protected by the TLS protocol. The general guidance to prevent this attack is to disable HTTP compression, preserving confidentiality but sacrificing bandwidth. As a more sophisticated countermeasure, fixed-dictionary compression was introduced in 2015 enabling compression while protecting high-value secrets, such as cookies, from attacks. The fixed-dictionary compression method is a cryptographically sound countermeasure against the BREACH attack, since it is proven secure in a suitable security model. In this project, we integrate the fixed-dictionary compression method as a countermeasure for BREACH attack, for real-world client-server setting. Further, we measure the performance of the fixed-dictionary compression algorithm against the DEFLATE compression algorithm. The results evident that, it is possible to save some amount of bandwidth, with reasonable compression/decompression time compared to DEFLATE operations. The countermeasure is easy to implement and deploy, hence, this would be a possible direction to mitigate the BREACH attack efficiently, rather than stripping off the HTTP compression entirely.",
+        "authors": [
+            "Isuru Sankalpa",
+            "Tharindu Dhanushka",
+            "Nadeesha Amarasinghe",
+            "Janaka Alawathugoda",
+            "Roshan Ragel"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "alawatugoda",
+                "name": "Dr. Janaka Alawatugoda",
+                "email": "alawatugoda@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/"
+            },
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/MIES.2016.7780263",
+        "preprint_url": "#",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+        ],
+        "tags": [
+            "Dictionaries",
+            "Servers",
+            "Compression algorithms",
+            "Cryptography",
+            "Browsers",
+            "Encoding",
+            "Bandwidth"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MIES.2016.7780263/",
+        "submitted": "2022/08/10 21:28:12"
+    },
+    {
+        "title": "Leakage-resilient storage scheme for cryptographic applications",
+        "venue": "2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)",
+        "year": "2016",
+        "abstract": "Since the side-channel attacks arise as a huge threat for cryptographic schemes than previously realized, it is necessary to implement proven-secure leakage-resilient cryptographic schemes and use them for real-world purposes. In this work our effort is to implement two leakage-resilient cryptographic schemes, a leakage-resilient storage scheme and a refreshing protocol, which have been proven-secure and accepted by the cryptographic community since 2011 (ASIACRYPT 2011). Our aim is to open up the direction for implementing the useful leakage-resilient cryptographic schemes for future usage.",
+        "authors": [
+            "Janaka Alawatugoda",
+            "Roshan Ragel",
+            "Danushka Eranga",
+            "Nalaka Jayanath",
+            "Chinthaka Somathilaka"
+        ],
+        "author_info": [
+            {
+                "type": "STAFF",
+                "id": "alawatugoda",
+                "name": "Dr. Janaka Alawatugoda",
+                "email": "alawatugoda@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/"
+            },
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/ICIAFS.2016.7946548",
+        "preprint_url": "#",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+        ],
+        "tags": [
+            "Side-channel attacks",
+            "Protocols",
+            "Computational modeling",
+            "Timing",
+            "Encryption"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2016.7946548/",
+        "submitted": "2022/08/10 21:30:05"
+    },
+    {
+        "title": "Generic construction of an  eCK -secure key exchange protocol in the standard model",
+        "venue": "International Journal of Information Security",
+        "year": "2017",
+        "abstract": "",
+        "authors": [
+            "Janaka Alawatugoda"
+        ],
+        "author_info": [],
+        "doi": "https://doi.org/10.1007/s10207-016-0346-9",
+        "preprint_url": "#",
+        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10207-016-0346-9.pdf",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+        ],
+        "tags": [
+            "Public-key cryptography",
+            "Key exchange protocols",
+            "eCK model",
+            "Standard model"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1007/s10207-016-0346-9/",
+        "submitted": "2022/08/10 21:33:28"
+    },
+    {
+        "title": "Leakage-resilient non-interactive key exchange in the continuous-memory leakage setting",
+        "venue": "International Conference on Provable Security",
+        "year": "2017",
+        "abstract": "Recently, Chakraborty et al. (Cryptoeprint:2017:441) showed a novel approach of constructing several leakage-resilient cryptographic primitives by introducing a new primitive called leakage-resilient non-interactive key exchange (LR-NIKE). Their construction of LR-NIKE was only in the bounded-memory leakage model, and they left open the construction of LR-NIKE in continuous-memory leakage model. In this paper we address that open problem. Moreover, we extend the continuous-memory leakage model by addressing more realistic after-the-fact leakage. The main ingredients of our construction are a leakage-resilient storage scheme and a refreshing protocol (Dziembowski and Faust, Asiacrypt 2011) and a (standard) chameleon hash function (CHF), equipped with an additional property of oblivious sampling, which we introduce. We observe that the present constructions of CHF already satisfies our new notion. Further, our protocol can be used as a building block to construct leakage-resilient public-key encryption schemes, interactive key exchange and low-latency key exchange protocols in the continuous-memory leakage model, following the approach of Chakraborty et al. (Cryptoeprint:2017:441).",
+        "authors": [
+            "Suvradip Chakraborty",
+            "Janaka Alawatugoda",
+            "C Pandu Rangan"
+        ],
+        "author_info": [],
+        "doi": "https://doi.org/10.1007/978-3-319-68637-0_10",
+        "preprint_url": "#",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+        ],
+        "tags": [
+            "Leakage-resilient",
+            "Key exchange protocols",
+            "After-the-fact leakage",
+            "Continuous-memory leakage"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1007/978-3-319-68637-0_10/",
+        "submitted": "2022/08/10 21:35:59"
+    },
+    {
+        "title": "On the leakage-resilient key exchange",
+        "venue": "Journal of Mathematical Cryptology",
+        "year": "2017",
+        "abstract": "Typically, secure channels are constructed from an authenticated key exchange (AKE) protocol, which authenticates the communicating parties based on long-term public keys and establishes secret session keys. In this paper we address the partial leakage of long-term secret keys of key exchange protocol participants due to various side-channel attacks. Security models for two-party authenticated key exchange protocols have been developed over time to provide security even when the adversary learns certain secret values. This paper combines and extends the advances of security modelling for AKE protocols addressing more granular partial leakage of long-term secrets of protocol participants. Further, we fix some flaws in security proofs of previous leakage-resilient key exchange protocols.",
+        "authors": [
+            "https://doi.org/10.1515/jmc-2016-0003"
+        ],
+        "author_info": [],
+        "doi": "https://doi.org/10.1515/jmc-2016-0003",
+        "preprint_url": "#",
+        "pdf_url": "https://www.degruyter.com/document/doi/10.1515/jmc-2016-0003/pdf",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+        ],
+        "tags": [
+            "Key exchange protocols",
+            "security models",
+            "leakage-resilient cryptography"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1515/jmc-2016-0003/",
+        "submitted": "2022/08/10 21:38:08"
+    },
+    {
+        "title": "Implementing a proven-secure and cost-effective countermeasure against the compression ratio info-leak mass exploitation (CRIME) attack",
+        "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
+        "year": "2017",
+        "abstract": "Header compression is desirable for network applications as it saves bandwidth and reduces latency. However, when data is compressed before being encrypted, the amount of compression leaks information about the amount of redundancy in the plaintext. In web requests, headers contain secret web cookies. Therefore, compression of headers before encryption will reveal the information about the secret web cookies. This side-channel has led to Compression Ratio Info-leak Made Easy (CRIME) attack on web traffic protected by the SSL/TLS protocols. In order to mitigate the CRIME attack, compression is completely disabled at the TLS/SSL layer, which in return increases the bandwidth consumption and latency. In a previous work (Financial Cryptography and Data Security 2015), two countermeasures are presented with formal security proofs, against compression side-channel attacks, namely (l)-separating secret cookies from user inputs and (2)-using a static compression dictionary. In this work we create a test environment to replicate the CRIME attack and verify the attack. Moreover, we implement a proven-secure countermeasure against the CRIME attack, in a real world client/server setup, following the aforementioned two countermeasures. Our implementation achieves better compression ratio (closer to the original TLS/SSL compression), and hence reduces the bandwidth usage and latency significantly (therefore cost-effective). To the best of our knowledge, this is the first proven-secure and cost-effective countermeasure implementation against the CRIME attack.",
+        "authors": [
+            "Jayamine Alupotha",
+            "Sanduni Prasadi",
+            "Janaka Alawatugoda",
+            "Roshan Ragel",
+            "Mohamed Fawsan"
+        ],
+        "author_info": [
+            {
+                "type": "STUDENT",
+                "id": "E/12/009",
+                "name": "R.P.B.J. Alupotha",
+                "email": "jayamine.alupotha@gmail.com",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e12/e12009.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e12/009/"
+            },
+            {
+                "type": "STUDENT",
+                "id": "E/12/269",
+                "name": "R.P.S. Prasadi",
+                "email": "sanduniprasadi06@gmail.com",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e12/e12269.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e12/269/"
+            },
+            {
+                "type": "STAFF",
+                "id": "roshanr",
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            }
+        ],
+        "doi": "https://doi.org/10.1109/ICIINFS.2017.8300359",
+        "preprint_url": "https://www.researchgate.net/profile/Roshan-Ragel/publication/323352314_Implementing_a_proven-secure_and_cost-effective_countermeasure_against_the_compression_ratio_info-leak_mass_exploitation_CRIME_attack/links/61c959beb8305f7c4b0421bc/Implementing-a-proven-secure-and-cost-effective-countermeasure-against-the-compression-ratio-info-leak-mass-exploitation-CRIME-attack.pdf",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+        ],
+        "tags": [
+            "Bandwidth",
+            "Side-channel attacks",
+            "Dictionaries",
+            "Servers",
+            "Data compression"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300359/",
+        "submitted": "2022/08/10 21:42:15"
+    },
+    {
+        "title": "Review on leakage resilient key exchange security models",
+        "venue": "International Journal of Communication Networks and Information Security",
+        "year": "2019",
+        "abstract": "In leakage resilient cryptography, leakage resilient key exchange protocols are constructed to defend against leakage attacks. Then, the key exchange protocol is proved with leakage resilient security model to determine whether its security proof can provide the security properties it claimed or to find out any unexamined flaw during protocol building. It is an interesting work to review the meaningful security properties provided by these security models. This work review how a leakage resilient security model for a key exchange protocol has been evolved over years according to the increasing security requirement which covers a different range of attacks. The relationship on how an adversary capability in the leakage resilient security model can be related to real-world attack scenarios is studied. The analysis work for each leakage resilient security model here enables a better knowledge on how an adversary query addresses different leakage attacks setting, thereby understand the motive of design for a cryptographic primitive in the security model.",
+        "authors": [
+            "Clement Chan Zheng Wei",
+            "Chuah Chai Wen",
+            "Janaka Alawatugoda\\"
+        ],
+        "author_info": [],
+        "doi": "https://doi.org/10.17762/ijcnis.v11i1.3790",
+        "preprint_url": "https://www.researchgate.net/profile/Clement-Zheng-Wei/publication/332671720_Review_on_Leakage_Resilient_Key_Exchange_Security_Model/links/5cc2c6e1a6fdcc1d49af2c1a/Review-on-Leakage-Resilient-Key-Exchange-Security-Model.pdf",
+        "pdf_url": "https://www.ijcnis.org/index.php/ijcnis/article/view/3790/705",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+        ],
+        "tags": [
+            "Leakage-resilient cryptography",
+            "Key exchange protocol",
+            "Security models",
+            "Leakage attacks",
+            "Side-channel attacks",
+            "Leakage resilience"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.17762/ijcnis.v11i1.3790/",
+        "submitted": "2022/08/10 21:46:15"
+    },
+    {
+        "title": "New approach to practical leakage-resilient public-key cryptography",
+        "venue": "Journal of Mathematical Cryptology",
+        "year": "2020",
+        "abstract": "We present a new approach to construct several leakage-resilient cryptographic primitives, including leakage-resilient public-key encryption (PKE) schemes, authenticated key exchange (AKE) protocols and low-latency key exchange (LLKE) protocols. To this end, we introduce a new primitive called leakage-resilient non-interactive key exchange (LR-NIKE) protocol. We introduce an appropriate security model for LR-NIKE protocols in the bounded memory leakage (BML) settings. We then show a secure construction of the LR-NIKE protocol in the BML setting that achieves an optimal leakage rate, i.e., 1 \u00e2\u0080\u0093 o(1). Our construction of LR-NIKE requires a minimal use of a leak-free hardware component. We argue that the use of such a leak-free hardware component seems to be unavoidable in any construction of an LR-NIKE protocol, even in the BML setting. Finally, we show how to construct the aforementioned leakage-resilient primitives from such an LR-NIKE protocol as summarized below. All these primitives also achieve the same (optimal) leakage rate as the underlying LR-NIKE protocol. We show how to construct a leakage-resilient (LR) IND-CCA-2-secure PKE scheme in the BML model generically from a bounded LR-NIKE (BLR-NIKE) protocol. Our construction of LR-IND-CCA-2 secure PKE differs significantly from the state-of-the-art constructions of these primitives, which mainly use hash proof techniques to achieve leakage resilience. Moreover, our transformation preserves the leakage-rate of the underlying BLR-NIKE protocol. We introduce a new leakage model for AKE protocols, in the BML setting, and present a leakage-resilient AKE protocol construction from the LR-NIKE protocol. We introduce the first-ever leakage model for LLKE protocols in the BML setting and the first construction of such a leakage-resilient LLKE from the LR-NIKE protocol.",
+        "authors": [
+            "Suvradip Chakraborty",
+            "Janaka Alawatugoda",
+            "Chandrasekaran Pandu Rangan"
+        ],
+        "author_info": [],
+        "doi": "https://doi.org/10.1515/jmc-2019-0014",
+        "preprint_url": "#",
+        "pdf_url": "https://www.degruyter.com/document/doi/10.1515/jmc-2019-0014/pdf",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+        ],
+        "tags": [
+            "Leakage-resilient cryptography",
+            "public-key cryptography",
+            "non-interactive key exchange",
+            "authenticated key exchange",
+            "low-latency key exchange"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1515/jmc-2019-0014/",
+        "submitted": "2022/08/10 21:49:13"
+    },
+    {
+        "title": "Public-key encryption in the standard model against strong leakage adversary",
+        "venue": "The Computer Journal",
+        "year": "2020",
+        "abstract": "Over the years, security against adaptively chosen-ciphertext attacks (CCA2) is considered as the strongest security definition for public-key encryption schemes. With the uprise of side-channel attacks, new security definitions are proposed, addressing leakage of secret keys together with the standard CCA2 definition. Among the new security definitions, security against continuous and after-the-fact leakage-resilient CCA2 can be considered as the strongest security definition, which is called as security against (continuous) adaptively chosen-ciphertext leakage attacks (continuous CCLA2). In this paper, we present a construction of a public-key encryption scheme, namely LR-PKE, which satisfies the aforementioned security definition. The security of our public-key encryption scheme is proven in the standard model, under decision BDH assumption. Thus, we emphasize that our public-key encryption scheme LR-PKE is (continuous) CCLA2-secure in the standard model. For our construction of LR-PKE, we have used a strong one-time signature scheme and a leakage-resilient refreshing protocol as underlying building blocks. The leakage bound is 0.15nlogp\u00e2\u0088\u00921 bits per leakage query, for a security parameter k and a statistical security parameter n\u00e2\u0081\u00a0, such that logp\u00e2\u0089\u00a5k and n is a function of k\u00e2\u0081\u00a0. It is possible to see that LR-PKE is efficient enough to be used for real-world usage.",
+        "authors": [
+            "Janaka Alawatugoda"
+        ],
+        "author_info": [],
+        "doi": "https://doi.org/10.1093/comjnl/bxaa055",
+        "preprint_url": "https://research-repository.griffith.edu.au/bitstream/handle/10072/414338/Alawatugoda522794-Accepted.pdf?sequence=2",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+        ],
+        "tags": [
+            ""
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1093/comjnl/bxaa055/",
+        "submitted": "2022/08/10 21:52:28"
+    },
+    {
+        "title": "On power analysis attacks against hardware stream ciphers",
+        "venue": "International Journal of Information and Computer Security",
+        "year": "2022",
+        "abstract": "Power analysis attacks are a type of attack which measures and analyses the power consumption of electronic circuits to extract secret information, particularly the secret encryption key. These attacks have become a huge threat for embedded systems, in which the security depends on the secret encryption key for the ciphers. Hence, many researchers try to find vulnerabilities of cryptosystems against power analysis attacks, so that they can develop countermeasures to ensure the security of such systems. In this paper, we review some of the recent power analysis attacks on modern hardware stream ciphers such as Trivium, Grain and MICKEY.",
+        "authors": [
+            "Rangana De Silva",
+            "Iranga Navaratna",
+            "Malitha Kumarasiri",
+            "Janaka Alawatugoda",
+            "Chuah Chai Wen"
+        ],
+        "author_info": [],
+        "doi": "https://doi.org/10.1504/ijics.2022.121289",
+        "preprint_url": "#",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e13/power-analysis-attack-on-trivium-stream-cipher",
+        "codebase": "#",
+        "research_groups": [
+            "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+        ],
+        "tags": [
+            "differential power analysis",
+            "correlation power analysis",
+            "simple power analysis",
+            "power analysis attack",
+            "stream cipher",
+            "Trivium",
+            "Grain",
+            "MICKEY"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1504/ijics.2022.121289/",
+        "submitted": "2022/08/10 21:56:27"
+    },
+    {
+        "title": "Standard model leakage-resilient authenticated key exchange using inner-product extractors",
+        "venue": "Designs, Codes and Cryptography",
+        "year": "2022",
+        "abstract": "With the development of side-channel attacks, a necessity arises to invent authenticated key exchange protocols in a leakage-resilient manner. Constructing authenticated key exchange protocols using existing cryptographic schemes is an effective method, as such construction can be instantiated with any appropriate scheme in a way that the formal security argument remains valid. In parallel, constructing authenticated key exchange protocols that are proven to be secure in the standard model is more preferred as they rely on real-world assumptions. In this paper, we present a Diffie\u00e2\u0080\u0093Hellman-style construction of a leakage-resilient authenticated key exchange protocol, that can be instantiated with any CCLA2-secure public-key encryption scheme and a function from the pseudo-random function family. Our protocol is proven to be secure in the standard model assuming the hardness of the decisional Diffie\u00e2\u0080\u0093Hellman problem. Furthermore, it is resilient to continuous partial leakage of long-term secret keys, that happens even after the session key is established, while satisfying the security features defined by the eCK security model.",
+        "authors": [
+            "Janaka Alawatugoda",
+            "Tatsuaki Okamoto"
+        ],
+        "author_info": [],
+        "doi": "https://doi.org/10.1007/s10623-022-01028-0",
+        "preprint_url": "https://eprint.iacr.org/2021/861.pdf",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [
+            "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+        ],
+        "tags": [
+            "Leakage-resilient cryptography",
+            "Authenticated key exchange",
+            "eCK model",
+            "CAFL-eCK model",
+            "Standard model"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1007/s10623-022-01028-0/",
+        "submitted": "2022/08/10 21:58:54"
     }
 ]

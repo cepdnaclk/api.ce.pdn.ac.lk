@@ -1,0 +1,30 @@
+{
+    "title": "Standard model leakage-resilient authenticated key exchange using inner-product extractors",
+    "venue": "Designs, Codes and Cryptography",
+    "year": "2022",
+    "abstract": "With the development of side-channel attacks, a necessity arises to invent authenticated key exchange protocols in a leakage-resilient manner. Constructing authenticated key exchange protocols using existing cryptographic schemes is an effective method, as such construction can be instantiated with any appropriate scheme in a way that the formal security argument remains valid. In parallel, constructing authenticated key exchange protocols that are proven to be secure in the standard model is more preferred as they rely on real-world assumptions. In this paper, we present a Diffie\u00e2\u0080\u0093Hellman-style construction of a leakage-resilient authenticated key exchange protocol, that can be instantiated with any CCLA2-secure public-key encryption scheme and a function from the pseudo-random function family. Our protocol is proven to be secure in the standard model assuming the hardness of the decisional Diffie\u00e2\u0080\u0093Hellman problem. Furthermore, it is resilient to continuous partial leakage of long-term secret keys, that happens even after the session key is established, while satisfying the security features defined by the eCK security model.",
+    "authors": [
+        "Janaka Alawatugoda",
+        "Tatsuaki Okamoto"
+    ],
+    "author_info": [],
+    "doi": "https://doi.org/10.1007/s10623-022-01028-0",
+    "preprint_url": "https://eprint.iacr.org/2021/861.pdf",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+    ],
+    "tags": [
+        "Leakage-resilient cryptography",
+        "Authenticated key exchange",
+        "eCK model",
+        "CAFL-eCK model",
+        "Standard model"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1007/s10623-022-01028-0/",
+    "submitted": "2022/08/10 21:58:54"
+}

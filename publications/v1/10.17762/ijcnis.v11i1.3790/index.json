@@ -1,0 +1,32 @@
+{
+    "title": "Review on leakage resilient key exchange security models",
+    "venue": "International Journal of Communication Networks and Information Security",
+    "year": "2019",
+    "abstract": "In leakage resilient cryptography, leakage resilient key exchange protocols are constructed to defend against leakage attacks. Then, the key exchange protocol is proved with leakage resilient security model to determine whether its security proof can provide the security properties it claimed or to find out any unexamined flaw during protocol building. It is an interesting work to review the meaningful security properties provided by these security models. This work review how a leakage resilient security model for a key exchange protocol has been evolved over years according to the increasing security requirement which covers a different range of attacks. The relationship on how an adversary capability in the leakage resilient security model can be related to real-world attack scenarios is studied. The analysis work for each leakage resilient security model here enables a better knowledge on how an adversary query addresses different leakage attacks setting, thereby understand the motive of design for a cryptographic primitive in the security model.",
+    "authors": [
+        "Clement Chan Zheng Wei",
+        "Chuah Chai Wen",
+        "Janaka Alawatugoda\\"
+    ],
+    "author_info": [],
+    "doi": "https://doi.org/10.17762/ijcnis.v11i1.3790",
+    "preprint_url": "https://www.researchgate.net/profile/Clement-Zheng-Wei/publication/332671720_Review_on_Leakage_Resilient_Key_Exchange_Security_Model/links/5cc2c6e1a6fdcc1d49af2c1a/Review-on-Leakage-Resilient-Key-Exchange-Security-Model.pdf",
+    "pdf_url": "https://www.ijcnis.org/index.php/ijcnis/article/view/3790/705",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+    ],
+    "tags": [
+        "Leakage-resilient cryptography",
+        "Key exchange protocol",
+        "Security models",
+        "Leakage attacks",
+        "Side-channel attacks",
+        "Leakage resilience"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.17762/ijcnis.v11i1.3790/",
+    "submitted": "2022/08/10 21:46:15"
+}

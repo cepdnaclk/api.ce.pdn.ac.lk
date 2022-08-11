@@ -1,0 +1,52 @@
+{
+    "title": "On implementing a client-server setting to prevent the Browser Reconnaissance and Exfiltration via Adaptive Compression of Hypertext (BREACH) attacks",
+    "venue": "2016 Manufacturing & Industrial Engineering Symposium (MIES)",
+    "year": "2016",
+    "abstract": "Compression is desirable for network applications as it saves bandwidth. Differently, when data is compressed before being encrypted, the amount of compression leaks information about the amount of redundancy in the plaintext. This side channel has led to the \u00e2\u0080\u009cBrowser Reconnaissance and Exfiltration via Adaptive Compression of Hypertext (BREACH)\u00e2\u0080\u009d attack on web traffic protected by the TLS protocol. The general guidance to prevent this attack is to disable HTTP compression, preserving confidentiality but sacrificing bandwidth. As a more sophisticated countermeasure, fixed-dictionary compression was introduced in 2015 enabling compression while protecting high-value secrets, such as cookies, from attacks. The fixed-dictionary compression method is a cryptographically sound countermeasure against the BREACH attack, since it is proven secure in a suitable security model. In this project, we integrate the fixed-dictionary compression method as a countermeasure for BREACH attack, for real-world client-server setting. Further, we measure the performance of the fixed-dictionary compression algorithm against the DEFLATE compression algorithm. The results evident that, it is possible to save some amount of bandwidth, with reasonable compression/decompression time compared to DEFLATE operations. The countermeasure is easy to implement and deploy, hence, this would be a possible direction to mitigate the BREACH attack efficiently, rather than stripping off the HTTP compression entirely.",
+    "authors": [
+        "Isuru Sankalpa",
+        "Tharindu Dhanushka",
+        "Nadeesha Amarasinghe",
+        "Janaka Alawathugoda",
+        "Roshan Ragel"
+    ],
+    "author_info": [
+        {
+            "type": "STAFF",
+            "id": "alawatugoda",
+            "name": "Dr. Janaka Alawatugoda",
+            "email": "alawatugoda@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/"
+        },
+        {
+            "type": "STAFF",
+            "id": "roshanr",
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/MIES.2016.7780263",
+    "preprint_url": "#",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+    ],
+    "tags": [
+        "Dictionaries",
+        "Servers",
+        "Compression algorithms",
+        "Cryptography",
+        "Browsers",
+        "Encoding",
+        "Bandwidth"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MIES.2016.7780263/",
+    "submitted": "2022/08/10 21:28:12"
+}

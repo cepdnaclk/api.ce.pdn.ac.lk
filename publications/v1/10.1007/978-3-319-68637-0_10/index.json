@@ -1,0 +1,30 @@
+{
+    "title": "Leakage-resilient non-interactive key exchange in the continuous-memory leakage setting",
+    "venue": "International Conference on Provable Security",
+    "year": "2017",
+    "abstract": "Recently, Chakraborty et al. (Cryptoeprint:2017:441) showed a novel approach of constructing several leakage-resilient cryptographic primitives by introducing a new primitive called leakage-resilient non-interactive key exchange (LR-NIKE). Their construction of LR-NIKE was only in the bounded-memory leakage model, and they left open the construction of LR-NIKE in continuous-memory leakage model. In this paper we address that open problem. Moreover, we extend the continuous-memory leakage model by addressing more realistic after-the-fact leakage. The main ingredients of our construction are a leakage-resilient storage scheme and a refreshing protocol (Dziembowski and Faust, Asiacrypt 2011) and a (standard) chameleon hash function (CHF), equipped with an additional property of oblivious sampling, which we introduce. We observe that the present constructions of CHF already satisfies our new notion. Further, our protocol can be used as a building block to construct leakage-resilient public-key encryption schemes, interactive key exchange and low-latency key exchange protocols in the continuous-memory leakage model, following the approach of Chakraborty et al. (Cryptoeprint:2017:441).",
+    "authors": [
+        "Suvradip Chakraborty",
+        "Janaka Alawatugoda",
+        "C Pandu Rangan"
+    ],
+    "author_info": [],
+    "doi": "https://doi.org/10.1007/978-3-319-68637-0_10",
+    "preprint_url": "#",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+    ],
+    "tags": [
+        "Leakage-resilient",
+        "Key exchange protocols",
+        "After-the-fact leakage",
+        "Continuous-memory leakage"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1007/978-3-319-68637-0_10/",
+    "submitted": "2022/08/10 21:35:59"
+}
