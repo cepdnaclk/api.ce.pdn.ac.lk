@@ -103,6 +103,19 @@
         "page_url": "https://cepdnaclk.github.io/e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients-in-Sri-Lanka",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients-in-Sri-Lanka/"
     },
+    "e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches": {
+        "title": "Hardware Cache Switching with Operating System Context Switches",
+        "description": "An operating system performs a context switch when it suspends one kernel-level thread and activates a different thread. Typically, data stored in the cache memory are lost in such events. This project aims to explore the advantages of maintaining multiple small 'cache-storage-cores' and switching to the appropriate one during a context switch. We will use a RISC-V CPU with a suitable embedded operating system and a custom-built cache for the FPGA-based experiments",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/",
+        "repo_url": "https://github.com/cepdnaclk/e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches",
+        "page_url": "https://cepdnaclk.github.io/e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/"
+    },
     "e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques": {
         "title": "Human Animal Emotion Detection Using ECG and ML Techniques",
         "description": "This project aims to improve the current machine learning technique of detecting human emotion by building a comprehensive electrocardiogram (ECG) dataset and exploring the world of animal emotion detection using similar techniques.",
@@ -258,5 +271,18 @@
         "repo_url": "https://github.com/cepdnaclk/e16-4yp-post-quantum-cryptographic-schemes-based-on-plain-lattices",
         "page_url": "https://cepdnaclk.github.io/e16-4yp-post-quantum-cryptographic-schemes-based-on-plain-lattices",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/post-quantum-cryptographic-schemes-based-on-plain-lattices/"
+    },
+    "e16-4yp-swarm-intelligence-programming-framework": {
+        "title": "swarm intelligence programming framework",
+        "description": "This particular project will focus on building a high-level programming and compiler framework which can be used to 'write' or 'draw' algorithms and convert them into low-level code. The framework will support multiple different types of robot hardware (both real and virtual).",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/swarm-intelligence-programming-framework/",
+        "repo_url": "https://github.com/cepdnaclk/e16-4yp-swarm-intelligence-programming-framework",
+        "page_url": "https://cepdnaclk.github.io/e16-4yp-swarm-intelligence-programming-framework",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/swarm-intelligence-programming-framework/"
     }
 }
