@@ -19,14 +19,18 @@
         }
     },
     "location": "",
-    "interests": [],
-    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17072.jpg",
+    "interests": [
+        "Machine Learning",
+        "Computer Vision",
+        "Embedded Systems"
+    ],
+    "profile_image": "/images/students/e17/e17072.jpg",
     "urls": {
-        "cv": "",
-        "website": "",
-        "linkedin": "",
-        "github": "",
-        "facebook": "",
+        "cv": "https://dinuransika.github.io/CV/CV_Dinura.pdf",
+        "website": "https://dinuransika.github.io/",
+        "linkedin": "https://www.linkedin.com/in/dinura-dissanayake/",
+        "github": "https://github.com/dinuransika",
+        "facebook": "https://www.facebook.com/dinura.r.dissanayake",
         "researchgate": "",
         "twitter": ""
     },
