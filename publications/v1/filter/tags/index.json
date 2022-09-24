@@ -106,6 +106,39 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/TIC-STH.2009.5444462/index.json"
         }
     ],
+    "Accuracy": [
+        {
+            "title": "Fusion of Colour, Shape and Texture Features for Content Based Image Retrieval",
+            "venue": "8th International Conference on Computer Science and Education (ICCSE)",
+            "year": "2013",
+            "abstract": "Image retrieval in general and content based image retrieval in particular are well-known research fields in information management. A large number of methods have been proposed and investigated in both areas but satisfactory general solution have still no been developed. An image contains several types of visual information which are difficult to extract and combine manually by humans. In this paper, we propose a content based image retrieval system based on three major types of visual information: colour, texture and shape, and their distances to the origin in a three dimensional space for the retrieval. We experimentally investigated several feature extraction methods and learning algorithms for content based image retrieval. The results show that 5-Nearest Neighbour yield the highest accuracy for the chosen feature extraction methods.",
+            "authors": [
+                "Pratheep Anantharatnasamy",
+                "Kaavya Sriskandaraja",
+                "Vahissan Nandakumar",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICCSE.2013.6553949",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Accuracy",
+                "Classification algorithms",
+                "Computers",
+                "Arrays",
+                "Image edge detection"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICCSE.2013.6553949/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICCSE.2013.6553949/index.json"
+        }
+    ],
     "After-the-fact leakage": [
         {
             "title": "Leakage-resilient non-interactive key exchange in the continuous-memory leakage setting",
@@ -469,6 +502,41 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2014.7069624/index.json"
         }
     ],
+    "Androids": [
+        {
+            "title": "Personalized and adaptive user interface framework for mobile application",
+            "venue": "2013 International Conference on Advances in Computing, Communications and Informatics (ICACCI)",
+            "year": "2013",
+            "abstract": "User interfaces in mobile applications are complex since they need to provide sufficient features to variety of users in a restricted space where a small number of components are available. When user acquires expertise in the system they expect user interfaces which satisfy their unique needs. Therefore, user interfaces in mobile applications should be adapted to different users. Since this problem exists in various applications a general solution is required to make user interfaces adaptive using user context history. In this paper, we introduce a conceptual prototype framework for mobile applications to make the user interfaces adaptive to the user. This identifies a suitable experience level to a user by learning his/her history of interactions with applications and then displays adaptive user interfaces. A proof of concept application is implemented to inspect the behavior of framework. Further, a user study was conducted on the developed proof of concept application and user context data was stored. This data was used as the training data for the Inference engine. This framework introduces an abstract solution which can be used to adapt various user interfaces based on human computer interactions. We believe the suggested framework can be used in related adaptation for Web applications, desktop applications and other mobile platforms.",
+            "authors": [
+                "Mahasivam Nivethika",
+                "Ilanthalaisingam Vithiya",
+                "Sebastiankularatnam Anntharshika",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICACCI.2013.6637474",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "User interfaces",
+                "Engines",
+                "Mobile communication",
+                "Context",
+                "Rendering (computer graphics)",
+                "Androids",
+                "Humanoid robots"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICACCI.2013.6637474/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICACCI.2013.6637474/index.json"
+        }
+    ],
     "Annotations": [
         {
             "title": "Ensuring Academic Integrity of Online Examinations",
@@ -645,6 +713,73 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2016.7946534/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2016.7946534/index.json"
+        },
+        {
+            "title": "Fusion of Colour, Shape and Texture Features for Content Based Image Retrieval",
+            "venue": "8th International Conference on Computer Science and Education (ICCSE)",
+            "year": "2013",
+            "abstract": "Image retrieval in general and content based image retrieval in particular are well-known research fields in information management. A large number of methods have been proposed and investigated in both areas but satisfactory general solution have still no been developed. An image contains several types of visual information which are difficult to extract and combine manually by humans. In this paper, we propose a content based image retrieval system based on three major types of visual information: colour, texture and shape, and their distances to the origin in a three dimensional space for the retrieval. We experimentally investigated several feature extraction methods and learning algorithms for content based image retrieval. The results show that 5-Nearest Neighbour yield the highest accuracy for the chosen feature extraction methods.",
+            "authors": [
+                "Pratheep Anantharatnasamy",
+                "Kaavya Sriskandaraja",
+                "Vahissan Nandakumar",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICCSE.2013.6553949",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Accuracy",
+                "Classification algorithms",
+                "Computers",
+                "Arrays",
+                "Image edge detection"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICCSE.2013.6553949/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICCSE.2013.6553949/index.json"
+        }
+    ],
+    "Artificial intelligence": [
+        {
+            "title": "An automatic answering system with template matching for natural language questions",
+            "venue": "2010 Fifth International Conference on Information and Automation for Sustainability",
+            "year": "2010",
+            "abstract": "Using computers to answer natural language questions is an interesting and challenging problem. Generally such problems are handled under two categories: open domain problems and close domain problems. This paper presents a system that attempts to solve close domain problems. Typically, in a close domain, answers to questions are not available in the public domain and therefore they cannot be searched using a search engine. Hence answers have to be stored in a database by a domain expert. Then, the challenge is to understand the natural language question so that the solution could be matched to the respective answer in the database. We use a template matching technique to perform this matching. In addition, given that our target is to use this system with non-native English speakers, we developed a method to overcome the mismatches we might encounter due to spelling mistakes. The system is developed such that the questions can be asked using short messages from a mobile phone and therefore the system is designed to understand SMS language in addition to English. One of the main contributions of this paper is the outcome presented of a deployment of this system in a real environment.",
+            "authors": [
+                "Tilani Gunawardena",
+                "Medhavi Lokuhetti",
+                "Nishara Pathirana",
+                "Roshan Ragel",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAFS.2010.5715686",
+            "preprint": "https://www.academia.edu/download/48742704/17.pdf",
+            "pdf": "#",
+            "presentation": "https://d1wqtxts1xzle7.cloudfront.net/48742704/17-libre.pdf?1473576218=&response-content-disposition=inline%3B+filename%3DAn_automatic_answering_system_with_templ.pdf&Expires=1663963105&Signature=f8AFZyE5hptWxajcAxQa-2whpQldQ4N75IcTG6sAuwMRWr8n0owYhyMGVzl~nyMC5I0NBcy8NOT46ftIow83kqV7Bt96R03KrQ211dRMFy3IY74dlMFZHmldzNQt9nUpwFKqqV4yBf3mL16VwQTioS63YL9dx6lMkQqWpCYVzu2Xgy87MBNZ5YMUG10kDsFFeGuqdf8uBJIsWci6P0v5HwHyQFO1EJ4buHsy6TG4NAfD4nXi7LA-ISPrqwrY-03JVOx3bHl9ThEiK-VWqoI1tuYDT0KZtatvQXT8XiMD9ACmlJcQ59sQmRfAgxMKdGknnEk-yf~qSXRndgEGjbVYLg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Databases",
+                "Syntactics",
+                "Natural languages",
+                "Computers",
+                "Artificial intelligence",
+                "Mobile handsets",
+                "Robots"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2010.5715686/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2010.5715686/index.json"
         }
     ],
     "Australia": [
@@ -885,6 +1020,41 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2014.7069624/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2014.7069624/index.json"
+        }
+    ],
+    "Automation": [
+        {
+            "title": "Objectively Measure Player Performance on Olympic Weightlifting",
+            "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2021",
+            "abstract": "In Olympic-style weightlifting athlete attempts to lift the weight plates on a barbell and scores are determined by a combination of the successful highest weight achieved in snatch and the clean-and-jerk actions. However, the current method does not objectively measure the player techniques. In this paper, we introduce a novel method to objectively measure player performance on weightlifting using human action recognition in videos. We introduce a method to assess player techniques in weightlifting by using skeleton-based human action recognition. In order to achieve our goal, we further introduce a new video dataset for action recognition in weightlifting which is annotated to frame level and introduce an automated scoring system through action recognition. We conclude our paper with qualitative and quantitative experimental results using non-Olympic players and 2016 Gold, Silver, and Bronze medalists in different weight categories (both men and women).",
+            "authors": [
+                "Anandi Karunaratne",
+                "Chamin Jayasooriya",
+                "Sampath Deegalla",
+                "Rajitha Navarathna"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9605963",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Weight measurement",
+                "Silver",
+                "Gold",
+                "Automation",
+                "Current measurement",
+                "Sustainable development",
+                "Videos"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9605963/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9605963/index.json"
         }
     ],
     "Bandwidth": [
@@ -1296,6 +1466,39 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2014.7069585/index.json"
         }
     ],
+    "Classification algorithms": [
+        {
+            "title": "Fusion of Colour, Shape and Texture Features for Content Based Image Retrieval",
+            "venue": "8th International Conference on Computer Science and Education (ICCSE)",
+            "year": "2013",
+            "abstract": "Image retrieval in general and content based image retrieval in particular are well-known research fields in information management. A large number of methods have been proposed and investigated in both areas but satisfactory general solution have still no been developed. An image contains several types of visual information which are difficult to extract and combine manually by humans. In this paper, we propose a content based image retrieval system based on three major types of visual information: colour, texture and shape, and their distances to the origin in a three dimensional space for the retrieval. We experimentally investigated several feature extraction methods and learning algorithms for content based image retrieval. The results show that 5-Nearest Neighbour yield the highest accuracy for the chosen feature extraction methods.",
+            "authors": [
+                "Pratheep Anantharatnasamy",
+                "Kaavya Sriskandaraja",
+                "Vahissan Nandakumar",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICCSE.2013.6553949",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Accuracy",
+                "Classification algorithms",
+                "Computers",
+                "Arrays",
+                "Image edge detection"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICCSE.2013.6553949/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICCSE.2013.6553949/index.json"
+        }
+    ],
     "Clocks": [
         {
             "title": "Constant time encryption as a countermeasure against remote cache timing attacks",
@@ -1395,6 +1598,73 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/Kaleidoscope.2015.7383635/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/Kaleidoscope.2015.7383635/index.json"
+        }
+    ],
+    "Clustering algorithms": [
+        {
+            "title": "AntiPlag: Plagiarism detection on electronic submissions of text based assignments",
+            "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
+            "year": "2013",
+            "abstract": "Plagiarism is one of the growing issues in academia and is always a concern in Universities and other academic institutions. The situation is becoming even worse with the availability of ample resources on the web. This paper focuses on creating an effective and fast tool for plagiarism detection for text based electronic assignments. Our plagiarism detection tool named AntiPlag is developed using the tri-gram sequence matching technique. Three sets of text based assignments were tested by AntiPlag and the results were compared against an existing commercial plagiarism detection tool. AntiPlag showed better results in terms of false positives compared to the commercial tool due to the pre-processing steps performed in AntiPlag. In addition, to improve the detection latency, AntiPlag applies a data clustering technique making it four times faster than the commercial tool considered. AntiPlag could be used to isolate plagiarized text based assignments from non-plagiarised assignments easily. Therefore, we present AntiPlag, a fast and effective tool for plagiarism detection on text based electronic assignments.",
+            "authors": [
+                "MAC Jiffriya",
+                "MAC Akmal Jahan",
+                "Roshan G Ragel",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIInfS.2013.6732013",
+            "preprint": "https://arxiv.org/pdf/1403.1310",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Plagiarism",
+                "Clustering algorithms",
+                "Educational institutions",
+                "Information systems",
+                "Detectors",
+                "Computers",
+                "Conferences"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2013.6732013/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIInfS.2013.6732013/index.json"
+        },
+        {
+            "title": "Students behavioural analysis in an online learning environment using data mining",
+            "venue": "7th International Conference on Information and Automation for Sustainability",
+            "year": "2014",
+            "abstract": "The focus of this research was to use Educational Data Mining (EDM) techniques to conduct a quantitative analysis of students interaction with an e-learning system through instructor-led non-graded and graded courses. This exercise is useful for establishing a guideline for a series of online short courses for them. A group of 412 students' access behaviour in an e-learning system were analysed and they were grouped into clusters using K-Means clustering method according to their course access log records. The results explained that more than 40% from the student group are passive online learners in both graded and non-graded learning environments. The result showed that the difference in the learning environments could change the online access behaviour of a student group. Clustering divided the student population into five access groups based on their course access behaviour. Among these groups, the least access group (NG-41% and G-42%) and the highest access group (NG-9% and G-5%) could be identified very clearly due to their access variation from the rest of the groups.",
+            "authors": [
+                "IP Ratnapala",
+                "RG Ragel",
+                "S Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAFS.2014.7069609",
+            "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/282666458_Students_Behavioural_Analysis_in_an_Online_Learning_Environment_Using_Data_Mining/links/561791d808ae1a88800485c1/Students-Behavioural-Analysis-in-an-Online-Learning-Environment-Using-Data-Mining.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Data mining",
+                "Data visualization",
+                "Electronic learning",
+                "Clustering algorithms",
+                "Materials",
+                "Least squares approximations",
+                "Databases"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2014.7069609/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2014.7069609/index.json"
         }
     ],
     "Cognitive networks": [
@@ -2158,6 +2428,104 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2012.6419893/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2012.6419893/index.json"
+        },
+        {
+            "title": "An automatic answering system with template matching for natural language questions",
+            "venue": "2010 Fifth International Conference on Information and Automation for Sustainability",
+            "year": "2010",
+            "abstract": "Using computers to answer natural language questions is an interesting and challenging problem. Generally such problems are handled under two categories: open domain problems and close domain problems. This paper presents a system that attempts to solve close domain problems. Typically, in a close domain, answers to questions are not available in the public domain and therefore they cannot be searched using a search engine. Hence answers have to be stored in a database by a domain expert. Then, the challenge is to understand the natural language question so that the solution could be matched to the respective answer in the database. We use a template matching technique to perform this matching. In addition, given that our target is to use this system with non-native English speakers, we developed a method to overcome the mismatches we might encounter due to spelling mistakes. The system is developed such that the questions can be asked using short messages from a mobile phone and therefore the system is designed to understand SMS language in addition to English. One of the main contributions of this paper is the outcome presented of a deployment of this system in a real environment.",
+            "authors": [
+                "Tilani Gunawardena",
+                "Medhavi Lokuhetti",
+                "Nishara Pathirana",
+                "Roshan Ragel",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAFS.2010.5715686",
+            "preprint": "https://www.academia.edu/download/48742704/17.pdf",
+            "pdf": "#",
+            "presentation": "https://d1wqtxts1xzle7.cloudfront.net/48742704/17-libre.pdf?1473576218=&response-content-disposition=inline%3B+filename%3DAn_automatic_answering_system_with_templ.pdf&Expires=1663963105&Signature=f8AFZyE5hptWxajcAxQa-2whpQldQ4N75IcTG6sAuwMRWr8n0owYhyMGVzl~nyMC5I0NBcy8NOT46ftIow83kqV7Bt96R03KrQ211dRMFy3IY74dlMFZHmldzNQt9nUpwFKqqV4yBf3mL16VwQTioS63YL9dx6lMkQqWpCYVzu2Xgy87MBNZ5YMUG10kDsFFeGuqdf8uBJIsWci6P0v5HwHyQFO1EJ4buHsy6TG4NAfD4nXi7LA-ISPrqwrY-03JVOx3bHl9ThEiK-VWqoI1tuYDT0KZtatvQXT8XiMD9ACmlJcQ59sQmRfAgxMKdGknnEk-yf~qSXRndgEGjbVYLg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Databases",
+                "Syntactics",
+                "Natural languages",
+                "Computers",
+                "Artificial intelligence",
+                "Mobile handsets",
+                "Robots"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2010.5715686/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2010.5715686/index.json"
+        },
+        {
+            "title": "Fusion of Colour, Shape and Texture Features for Content Based Image Retrieval",
+            "venue": "8th International Conference on Computer Science and Education (ICCSE)",
+            "year": "2013",
+            "abstract": "Image retrieval in general and content based image retrieval in particular are well-known research fields in information management. A large number of methods have been proposed and investigated in both areas but satisfactory general solution have still no been developed. An image contains several types of visual information which are difficult to extract and combine manually by humans. In this paper, we propose a content based image retrieval system based on three major types of visual information: colour, texture and shape, and their distances to the origin in a three dimensional space for the retrieval. We experimentally investigated several feature extraction methods and learning algorithms for content based image retrieval. The results show that 5-Nearest Neighbour yield the highest accuracy for the chosen feature extraction methods.",
+            "authors": [
+                "Pratheep Anantharatnasamy",
+                "Kaavya Sriskandaraja",
+                "Vahissan Nandakumar",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICCSE.2013.6553949",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Accuracy",
+                "Classification algorithms",
+                "Computers",
+                "Arrays",
+                "Image edge detection"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICCSE.2013.6553949/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICCSE.2013.6553949/index.json"
+        },
+        {
+            "title": "AntiPlag: Plagiarism detection on electronic submissions of text based assignments",
+            "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
+            "year": "2013",
+            "abstract": "Plagiarism is one of the growing issues in academia and is always a concern in Universities and other academic institutions. The situation is becoming even worse with the availability of ample resources on the web. This paper focuses on creating an effective and fast tool for plagiarism detection for text based electronic assignments. Our plagiarism detection tool named AntiPlag is developed using the tri-gram sequence matching technique. Three sets of text based assignments were tested by AntiPlag and the results were compared against an existing commercial plagiarism detection tool. AntiPlag showed better results in terms of false positives compared to the commercial tool due to the pre-processing steps performed in AntiPlag. In addition, to improve the detection latency, AntiPlag applies a data clustering technique making it four times faster than the commercial tool considered. AntiPlag could be used to isolate plagiarized text based assignments from non-plagiarised assignments easily. Therefore, we present AntiPlag, a fast and effective tool for plagiarism detection on text based electronic assignments.",
+            "authors": [
+                "MAC Jiffriya",
+                "MAC Akmal Jahan",
+                "Roshan G Ragel",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIInfS.2013.6732013",
+            "preprint": "https://arxiv.org/pdf/1403.1310",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Plagiarism",
+                "Clustering algorithms",
+                "Educational institutions",
+                "Information systems",
+                "Detectors",
+                "Computers",
+                "Conferences"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2013.6732013/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIInfS.2013.6732013/index.json"
         }
     ],
     "Conferences": [
@@ -2194,6 +2562,74 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS53135.2021.9660702/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660702/index.json"
+        },
+        {
+            "title": "AntiPlag: Plagiarism detection on electronic submissions of text based assignments",
+            "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
+            "year": "2013",
+            "abstract": "Plagiarism is one of the growing issues in academia and is always a concern in Universities and other academic institutions. The situation is becoming even worse with the availability of ample resources on the web. This paper focuses on creating an effective and fast tool for plagiarism detection for text based electronic assignments. Our plagiarism detection tool named AntiPlag is developed using the tri-gram sequence matching technique. Three sets of text based assignments were tested by AntiPlag and the results were compared against an existing commercial plagiarism detection tool. AntiPlag showed better results in terms of false positives compared to the commercial tool due to the pre-processing steps performed in AntiPlag. In addition, to improve the detection latency, AntiPlag applies a data clustering technique making it four times faster than the commercial tool considered. AntiPlag could be used to isolate plagiarized text based assignments from non-plagiarised assignments easily. Therefore, we present AntiPlag, a fast and effective tool for plagiarism detection on text based electronic assignments.",
+            "authors": [
+                "MAC Jiffriya",
+                "MAC Akmal Jahan",
+                "Roshan G Ragel",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIInfS.2013.6732013",
+            "preprint": "https://arxiv.org/pdf/1403.1310",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Plagiarism",
+                "Clustering algorithms",
+                "Educational institutions",
+                "Information systems",
+                "Detectors",
+                "Computers",
+                "Conferences"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2013.6732013/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIInfS.2013.6732013/index.json"
+        }
+    ],
+    "Context": [
+        {
+            "title": "Personalized and adaptive user interface framework for mobile application",
+            "venue": "2013 International Conference on Advances in Computing, Communications and Informatics (ICACCI)",
+            "year": "2013",
+            "abstract": "User interfaces in mobile applications are complex since they need to provide sufficient features to variety of users in a restricted space where a small number of components are available. When user acquires expertise in the system they expect user interfaces which satisfy their unique needs. Therefore, user interfaces in mobile applications should be adapted to different users. Since this problem exists in various applications a general solution is required to make user interfaces adaptive using user context history. In this paper, we introduce a conceptual prototype framework for mobile applications to make the user interfaces adaptive to the user. This identifies a suitable experience level to a user by learning his/her history of interactions with applications and then displays adaptive user interfaces. A proof of concept application is implemented to inspect the behavior of framework. Further, a user study was conducted on the developed proof of concept application and user context data was stored. This data was used as the training data for the Inference engine. This framework introduces an abstract solution which can be used to adapt various user interfaces based on human computer interactions. We believe the suggested framework can be used in related adaptation for Web applications, desktop applications and other mobile platforms.",
+            "authors": [
+                "Mahasivam Nivethika",
+                "Ilanthalaisingam Vithiya",
+                "Sebastiankularatnam Anntharshika",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICACCI.2013.6637474",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "User interfaces",
+                "Engines",
+                "Mobile communication",
+                "Context",
+                "Rendering (computer graphics)",
+                "Androids",
+                "Humanoid robots"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICACCI.2013.6637474/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICACCI.2013.6637474/index.json"
         }
     ],
     "Continuous-memory leakage": [
@@ -2333,6 +2769,41 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MIES.2016.7780263/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MIES.2016.7780263/index.json"
+        }
+    ],
+    "Current measurement": [
+        {
+            "title": "Objectively Measure Player Performance on Olympic Weightlifting",
+            "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2021",
+            "abstract": "In Olympic-style weightlifting athlete attempts to lift the weight plates on a barbell and scores are determined by a combination of the successful highest weight achieved in snatch and the clean-and-jerk actions. However, the current method does not objectively measure the player techniques. In this paper, we introduce a novel method to objectively measure player performance on weightlifting using human action recognition in videos. We introduce a method to assess player techniques in weightlifting by using skeleton-based human action recognition. In order to achieve our goal, we further introduce a new video dataset for action recognition in weightlifting which is annotated to frame level and introduce an automated scoring system through action recognition. We conclude our paper with qualitative and quantitative experimental results using non-Olympic players and 2016 Gold, Silver, and Bronze medalists in different weight categories (both men and women).",
+            "authors": [
+                "Anandi Karunaratne",
+                "Chamin Jayasooriya",
+                "Sampath Deegalla",
+                "Rajitha Navarathna"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9605963",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Weight measurement",
+                "Silver",
+                "Gold",
+                "Automation",
+                "Current measurement",
+                "Sustainable development",
+                "Videos"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9605963/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9605963/index.json"
         }
     ],
     "Cycle consistency": [
@@ -2576,6 +3047,38 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS53135.2021.9660702/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660702/index.json"
+        },
+        {
+            "title": "Students behavioural analysis in an online learning environment using data mining",
+            "venue": "7th International Conference on Information and Automation for Sustainability",
+            "year": "2014",
+            "abstract": "The focus of this research was to use Educational Data Mining (EDM) techniques to conduct a quantitative analysis of students interaction with an e-learning system through instructor-led non-graded and graded courses. This exercise is useful for establishing a guideline for a series of online short courses for them. A group of 412 students' access behaviour in an e-learning system were analysed and they were grouped into clusters using K-Means clustering method according to their course access log records. The results explained that more than 40% from the student group are passive online learners in both graded and non-graded learning environments. The result showed that the difference in the learning environments could change the online access behaviour of a student group. Clustering divided the student population into five access groups based on their course access behaviour. Among these groups, the least access group (NG-41% and G-42%) and the highest access group (NG-9% and G-5%) could be identified very clearly due to their access variation from the rest of the groups.",
+            "authors": [
+                "IP Ratnapala",
+                "RG Ragel",
+                "S Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAFS.2014.7069609",
+            "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/282666458_Students_Behavioural_Analysis_in_an_Online_Learning_Environment_Using_Data_Mining/links/561791d808ae1a88800485c1/Students-Behavioural-Analysis-in-an-Online-Learning-Environment-Using-Data-Mining.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Data mining",
+                "Data visualization",
+                "Electronic learning",
+                "Clustering algorithms",
+                "Materials",
+                "Least squares approximations",
+                "Databases"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2014.7069609/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2014.7069609/index.json"
         }
     ],
     "Data security": [
@@ -2651,6 +3154,40 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2008.4783956/index.json"
         }
     ],
+    "Data visualization": [
+        {
+            "title": "Students behavioural analysis in an online learning environment using data mining",
+            "venue": "7th International Conference on Information and Automation for Sustainability",
+            "year": "2014",
+            "abstract": "The focus of this research was to use Educational Data Mining (EDM) techniques to conduct a quantitative analysis of students interaction with an e-learning system through instructor-led non-graded and graded courses. This exercise is useful for establishing a guideline for a series of online short courses for them. A group of 412 students' access behaviour in an e-learning system were analysed and they were grouped into clusters using K-Means clustering method according to their course access log records. The results explained that more than 40% from the student group are passive online learners in both graded and non-graded learning environments. The result showed that the difference in the learning environments could change the online access behaviour of a student group. Clustering divided the student population into five access groups based on their course access behaviour. Among these groups, the least access group (NG-41% and G-42%) and the highest access group (NG-9% and G-5%) could be identified very clearly due to their access variation from the rest of the groups.",
+            "authors": [
+                "IP Ratnapala",
+                "RG Ragel",
+                "S Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAFS.2014.7069609",
+            "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/282666458_Students_Behavioural_Analysis_in_an_Online_Learning_Environment_Using_Data_Mining/links/561791d808ae1a88800485c1/Students-Behavioural-Analysis-in-an-Online-Learning-Environment-Using-Data-Mining.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Data mining",
+                "Data visualization",
+                "Electronic learning",
+                "Clustering algorithms",
+                "Materials",
+                "Least squares approximations",
+                "Databases"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2014.7069609/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2014.7069609/index.json"
+        }
+    ],
     "Databases": [
         {
             "title": "A structured hardware software architecture for peptide based diagnosis \u00e2\u0080\u0094 Sub-string matching problem with limited tolerance",
@@ -2717,6 +3254,72 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon.2018.8421896/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon.2018.8421896/index.json"
+        },
+        {
+            "title": "An automatic answering system with template matching for natural language questions",
+            "venue": "2010 Fifth International Conference on Information and Automation for Sustainability",
+            "year": "2010",
+            "abstract": "Using computers to answer natural language questions is an interesting and challenging problem. Generally such problems are handled under two categories: open domain problems and close domain problems. This paper presents a system that attempts to solve close domain problems. Typically, in a close domain, answers to questions are not available in the public domain and therefore they cannot be searched using a search engine. Hence answers have to be stored in a database by a domain expert. Then, the challenge is to understand the natural language question so that the solution could be matched to the respective answer in the database. We use a template matching technique to perform this matching. In addition, given that our target is to use this system with non-native English speakers, we developed a method to overcome the mismatches we might encounter due to spelling mistakes. The system is developed such that the questions can be asked using short messages from a mobile phone and therefore the system is designed to understand SMS language in addition to English. One of the main contributions of this paper is the outcome presented of a deployment of this system in a real environment.",
+            "authors": [
+                "Tilani Gunawardena",
+                "Medhavi Lokuhetti",
+                "Nishara Pathirana",
+                "Roshan Ragel",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAFS.2010.5715686",
+            "preprint": "https://www.academia.edu/download/48742704/17.pdf",
+            "pdf": "#",
+            "presentation": "https://d1wqtxts1xzle7.cloudfront.net/48742704/17-libre.pdf?1473576218=&response-content-disposition=inline%3B+filename%3DAn_automatic_answering_system_with_templ.pdf&Expires=1663963105&Signature=f8AFZyE5hptWxajcAxQa-2whpQldQ4N75IcTG6sAuwMRWr8n0owYhyMGVzl~nyMC5I0NBcy8NOT46ftIow83kqV7Bt96R03KrQ211dRMFy3IY74dlMFZHmldzNQt9nUpwFKqqV4yBf3mL16VwQTioS63YL9dx6lMkQqWpCYVzu2Xgy87MBNZ5YMUG10kDsFFeGuqdf8uBJIsWci6P0v5HwHyQFO1EJ4buHsy6TG4NAfD4nXi7LA-ISPrqwrY-03JVOx3bHl9ThEiK-VWqoI1tuYDT0KZtatvQXT8XiMD9ACmlJcQ59sQmRfAgxMKdGknnEk-yf~qSXRndgEGjbVYLg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Databases",
+                "Syntactics",
+                "Natural languages",
+                "Computers",
+                "Artificial intelligence",
+                "Mobile handsets",
+                "Robots"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2010.5715686/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2010.5715686/index.json"
+        },
+        {
+            "title": "Students behavioural analysis in an online learning environment using data mining",
+            "venue": "7th International Conference on Information and Automation for Sustainability",
+            "year": "2014",
+            "abstract": "The focus of this research was to use Educational Data Mining (EDM) techniques to conduct a quantitative analysis of students interaction with an e-learning system through instructor-led non-graded and graded courses. This exercise is useful for establishing a guideline for a series of online short courses for them. A group of 412 students' access behaviour in an e-learning system were analysed and they were grouped into clusters using K-Means clustering method according to their course access log records. The results explained that more than 40% from the student group are passive online learners in both graded and non-graded learning environments. The result showed that the difference in the learning environments could change the online access behaviour of a student group. Clustering divided the student population into five access groups based on their course access behaviour. Among these groups, the least access group (NG-41% and G-42%) and the highest access group (NG-9% and G-5%) could be identified very clearly due to their access variation from the rest of the groups.",
+            "authors": [
+                "IP Ratnapala",
+                "RG Ragel",
+                "S Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAFS.2014.7069609",
+            "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/282666458_Students_Behavioural_Analysis_in_an_Online_Learning_Environment_Using_Data_Mining/links/561791d808ae1a88800485c1/Students-Behavioural-Analysis-in-an-Online-Learning-Environment-Using-Data-Mining.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Data mining",
+                "Data visualization",
+                "Electronic learning",
+                "Clustering algorithms",
+                "Materials",
+                "Least squares approximations",
+                "Databases"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2014.7069609/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2014.7069609/index.json"
         }
     ],
     "Denial-of-service attack": [
@@ -2752,6 +3355,41 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185266/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185266/index.json"
+        }
+    ],
+    "Detectors": [
+        {
+            "title": "AntiPlag: Plagiarism detection on electronic submissions of text based assignments",
+            "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
+            "year": "2013",
+            "abstract": "Plagiarism is one of the growing issues in academia and is always a concern in Universities and other academic institutions. The situation is becoming even worse with the availability of ample resources on the web. This paper focuses on creating an effective and fast tool for plagiarism detection for text based electronic assignments. Our plagiarism detection tool named AntiPlag is developed using the tri-gram sequence matching technique. Three sets of text based assignments were tested by AntiPlag and the results were compared against an existing commercial plagiarism detection tool. AntiPlag showed better results in terms of false positives compared to the commercial tool due to the pre-processing steps performed in AntiPlag. In addition, to improve the detection latency, AntiPlag applies a data clustering technique making it four times faster than the commercial tool considered. AntiPlag could be used to isolate plagiarized text based assignments from non-plagiarised assignments easily. Therefore, we present AntiPlag, a fast and effective tool for plagiarism detection on text based electronic assignments.",
+            "authors": [
+                "MAC Jiffriya",
+                "MAC Akmal Jahan",
+                "Roshan G Ragel",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIInfS.2013.6732013",
+            "preprint": "https://arxiv.org/pdf/1403.1310",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Plagiarism",
+                "Clustering algorithms",
+                "Educational institutions",
+                "Information systems",
+                "Detectors",
+                "Computers",
+                "Conferences"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2013.6732013/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIInfS.2013.6732013/index.json"
         }
     ],
     "Dictionaries": [
@@ -2885,6 +3523,75 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/Kaleidoscope.2015.7383635/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/Kaleidoscope.2015.7383635/index.json"
+        }
+    ],
+    "Educational institutions": [
+        {
+            "title": "AntiPlag: Plagiarism detection on electronic submissions of text based assignments",
+            "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
+            "year": "2013",
+            "abstract": "Plagiarism is one of the growing issues in academia and is always a concern in Universities and other academic institutions. The situation is becoming even worse with the availability of ample resources on the web. This paper focuses on creating an effective and fast tool for plagiarism detection for text based electronic assignments. Our plagiarism detection tool named AntiPlag is developed using the tri-gram sequence matching technique. Three sets of text based assignments were tested by AntiPlag and the results were compared against an existing commercial plagiarism detection tool. AntiPlag showed better results in terms of false positives compared to the commercial tool due to the pre-processing steps performed in AntiPlag. In addition, to improve the detection latency, AntiPlag applies a data clustering technique making it four times faster than the commercial tool considered. AntiPlag could be used to isolate plagiarized text based assignments from non-plagiarised assignments easily. Therefore, we present AntiPlag, a fast and effective tool for plagiarism detection on text based electronic assignments.",
+            "authors": [
+                "MAC Jiffriya",
+                "MAC Akmal Jahan",
+                "Roshan G Ragel",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIInfS.2013.6732013",
+            "preprint": "https://arxiv.org/pdf/1403.1310",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Plagiarism",
+                "Clustering algorithms",
+                "Educational institutions",
+                "Information systems",
+                "Detectors",
+                "Computers",
+                "Conferences"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2013.6732013/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIInfS.2013.6732013/index.json"
+        }
+    ],
+    "Electronic learning": [
+        {
+            "title": "Students behavioural analysis in an online learning environment using data mining",
+            "venue": "7th International Conference on Information and Automation for Sustainability",
+            "year": "2014",
+            "abstract": "The focus of this research was to use Educational Data Mining (EDM) techniques to conduct a quantitative analysis of students interaction with an e-learning system through instructor-led non-graded and graded courses. This exercise is useful for establishing a guideline for a series of online short courses for them. A group of 412 students' access behaviour in an e-learning system were analysed and they were grouped into clusters using K-Means clustering method according to their course access log records. The results explained that more than 40% from the student group are passive online learners in both graded and non-graded learning environments. The result showed that the difference in the learning environments could change the online access behaviour of a student group. Clustering divided the student population into five access groups based on their course access behaviour. Among these groups, the least access group (NG-41% and G-42%) and the highest access group (NG-9% and G-5%) could be identified very clearly due to their access variation from the rest of the groups.",
+            "authors": [
+                "IP Ratnapala",
+                "RG Ragel",
+                "S Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAFS.2014.7069609",
+            "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/282666458_Students_Behavioural_Analysis_in_an_Online_Learning_Environment_Using_Data_Mining/links/561791d808ae1a88800485c1/Students-Behavioural-Analysis-in-an-Online-Learning-Environment-Using-Data-Mining.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Data mining",
+                "Data visualization",
+                "Electronic learning",
+                "Clustering algorithms",
+                "Materials",
+                "Least squares approximations",
+                "Databases"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2014.7069609/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2014.7069609/index.json"
         }
     ],
     "Elevators": [
@@ -3216,6 +3923,39 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2012.6419895/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2012.6419895/index.json"
+        },
+        {
+            "title": "Personalized and adaptive user interface framework for mobile application",
+            "venue": "2013 International Conference on Advances in Computing, Communications and Informatics (ICACCI)",
+            "year": "2013",
+            "abstract": "User interfaces in mobile applications are complex since they need to provide sufficient features to variety of users in a restricted space where a small number of components are available. When user acquires expertise in the system they expect user interfaces which satisfy their unique needs. Therefore, user interfaces in mobile applications should be adapted to different users. Since this problem exists in various applications a general solution is required to make user interfaces adaptive using user context history. In this paper, we introduce a conceptual prototype framework for mobile applications to make the user interfaces adaptive to the user. This identifies a suitable experience level to a user by learning his/her history of interactions with applications and then displays adaptive user interfaces. A proof of concept application is implemented to inspect the behavior of framework. Further, a user study was conducted on the developed proof of concept application and user context data was stored. This data was used as the training data for the Inference engine. This framework introduces an abstract solution which can be used to adapt various user interfaces based on human computer interactions. We believe the suggested framework can be used in related adaptation for Web applications, desktop applications and other mobile platforms.",
+            "authors": [
+                "Mahasivam Nivethika",
+                "Ilanthalaisingam Vithiya",
+                "Sebastiankularatnam Anntharshika",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICACCI.2013.6637474",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "User interfaces",
+                "Engines",
+                "Mobile communication",
+                "Context",
+                "Rendering (computer graphics)",
+                "Androids",
+                "Humanoid robots"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICACCI.2013.6637474/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICACCI.2013.6637474/index.json"
         }
     ],
     "Entropy": [
@@ -3253,6 +3993,41 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2009.5429845/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2009.5429845/index.json"
+        }
+    ],
+    "Evaluation technique": [
+        {
+            "title": "Performance evaluation techniques for an automatic question answering system",
+            "venue": "International Journal of Machine Learning and Computing",
+            "year": "2015",
+            "abstract": "Automatic question answering (QA) is an interesting and challenging problem. Generally such problems are handled under two categories: open domain problems and close domain problems. Here the challenge is to understand the natural language question so that the solution could be matched to the respective answer in the database. In this paper we used a template matching technique to perform this matching. The first part of the paper discusses about an automatic question answering system that we have developed using template matching techniques. The approach adopted is an automated FAQ (Frequently Asked Question) answering system that provides pre-stored answers to user questions asked in ordinary English and SMS language. The system also has techniques to overcome spelling and grammar mistakes introduced in questions by its users and therefore user-friendly compared to restricted syntax based approaches. The second part of the paper studies three techniques for performance evaluation in the above system which are based on template matching approach: 1) Random classification of templates, 2) Similarity based classification of templates, 3) Weighting template words.",
+            "authors": [
+                "Tilani Gunawardena",
+                "Nishara Pathirana",
+                "Medhavi Lokuhetti",
+                "Roshan Ragel",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.7763/IJMLC.2015.V5.523",
+            "preprint": "#",
+            "pdf": "http://www.ijmlc.org/vol5/523-C013.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Evaluation technique",
+                "question answering",
+                "NLP",
+                "template matching",
+                "FAQ",
+                "answering system"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.7763/IJMLC.2015.V5.523/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.7763/IJMLC.2015.V5.523/index.json"
         }
     ],
     "Event alignment": [
@@ -3294,6 +4069,41 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1186/s12859-020-03697-x/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1186/s12859-020-03697-x/index.json"
+        }
+    ],
+    "FAQ": [
+        {
+            "title": "Performance evaluation techniques for an automatic question answering system",
+            "venue": "International Journal of Machine Learning and Computing",
+            "year": "2015",
+            "abstract": "Automatic question answering (QA) is an interesting and challenging problem. Generally such problems are handled under two categories: open domain problems and close domain problems. Here the challenge is to understand the natural language question so that the solution could be matched to the respective answer in the database. In this paper we used a template matching technique to perform this matching. The first part of the paper discusses about an automatic question answering system that we have developed using template matching techniques. The approach adopted is an automated FAQ (Frequently Asked Question) answering system that provides pre-stored answers to user questions asked in ordinary English and SMS language. The system also has techniques to overcome spelling and grammar mistakes introduced in questions by its users and therefore user-friendly compared to restricted syntax based approaches. The second part of the paper studies three techniques for performance evaluation in the above system which are based on template matching approach: 1) Random classification of templates, 2) Similarity based classification of templates, 3) Weighting template words.",
+            "authors": [
+                "Tilani Gunawardena",
+                "Nishara Pathirana",
+                "Medhavi Lokuhetti",
+                "Roshan Ragel",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.7763/IJMLC.2015.V5.523",
+            "preprint": "#",
+            "pdf": "http://www.ijmlc.org/vol5/523-C013.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Evaluation technique",
+                "question answering",
+                "NLP",
+                "template matching",
+                "FAQ",
+                "answering system"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.7763/IJMLC.2015.V5.523/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.7763/IJMLC.2015.V5.523/index.json"
         }
     ],
     "Fault tolerant systems": [
@@ -3892,6 +4702,41 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1038/s42003-020-01270-z/index.json"
         }
     ],
+    "Gold": [
+        {
+            "title": "Objectively Measure Player Performance on Olympic Weightlifting",
+            "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2021",
+            "abstract": "In Olympic-style weightlifting athlete attempts to lift the weight plates on a barbell and scores are determined by a combination of the successful highest weight achieved in snatch and the clean-and-jerk actions. However, the current method does not objectively measure the player techniques. In this paper, we introduce a novel method to objectively measure player performance on weightlifting using human action recognition in videos. We introduce a method to assess player techniques in weightlifting by using skeleton-based human action recognition. In order to achieve our goal, we further introduce a new video dataset for action recognition in weightlifting which is annotated to frame level and introduce an automated scoring system through action recognition. We conclude our paper with qualitative and quantitative experimental results using non-Olympic players and 2016 Gold, Silver, and Bronze medalists in different weight categories (both men and women).",
+            "authors": [
+                "Anandi Karunaratne",
+                "Chamin Jayasooriya",
+                "Sampath Deegalla",
+                "Rajitha Navarathna"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9605963",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Weight measurement",
+                "Silver",
+                "Gold",
+                "Automation",
+                "Current measurement",
+                "Sustainable development",
+                "Videos"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9605963/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9605963/index.json"
+        }
+    ],
     "Grain": [
         {
             "title": "On power analysis attacks against hardware stream ciphers",
@@ -4025,6 +4870,41 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2016.7946533/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2016.7946533/index.json"
+        },
+        {
+            "title": "Accelerating k-nn classification algorithm using graphics processing units",
+            "venue": "2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2016",
+            "abstract": "k-Nearest Neighbor (k-NN) is a well-known classification algorithm used in many machine learning applications. When the input data size of k-NN algorithm increases, the execution time of the algorithm increases significantly. Therefore, this becomes a bottleneck for practical usage. Since k-NN algorithm is using searching, sorting and other parallelly executable tasks, we have implemented the k-NN algorithm on a GPU using CUDA utilizing the parallel tasks. The results were promising as expected and for 43,500 training records and 14,500 testing records with nine attributes, the GPU execution showed about a 100\u00c3\u0097 faster execution time compared to a CPU version.",
+            "authors": [
+                "S Selvaluxmiy",
+                "TN Kumara",
+                "P Keerthanan",
+                "R Velmakivan",
+                "R Ragel",
+                "S Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAFS.2016.7946528",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Graphics processing units",
+                "Message systems",
+                "Kernel",
+                "Training",
+                "Prediction algorithms",
+                "Machine learning algorithms",
+                "Testing"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2016.7946528/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2016.7946528/index.json"
         }
     ],
     "Greenhouses": [
@@ -4547,6 +5427,38 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1145/2380445.2380473/index.json"
         }
     ],
+    "High dimensional data": [
+        {
+            "title": "Random subspace and random projection nearest neighbor ensembles for high dimensional data",
+            "venue": "Elsevier Expert systems with applications",
+            "year": "2022",
+            "abstract": "The random subspace and the random projection methods are investigated and compared as techniques for forming ensembles of nearest neighbor classifiers in high dimensional feature spaces. The two methods have been empirically evaluated on three types of high-dimensional datasets: microarrays, chemoinformatics, and images. Experimental results on 34 datasets show that both the random subspace and the random projection method lead to improvements in predictive performance compared to using the standard nearest neighbor classifier, while the best method to use depends on the type of data considered; for the microarray and chemoinformatics datasets, random projection outperforms the random subspace method, while the opposite holds for the image datasets. An analysis using data complexity measures, such as attribute to instance ratio and Fisher\u00e2\u0080\u0099s discriminant ratio, provide some more detailed indications on what relative performance can be expected for specific datasets. The results also indicate that the resulting ensembles may be competitive with state-of-the-art ensemble classifiers; the nearest neighbor ensembles using random projection perform on par with random forests for the microarray and chemoinformatics datasets.",
+            "authors": [
+                "Sampath Deegalla",
+                "Keerthi Walgama",
+                "Panagiotis Papapetrou",
+                "Henrik Bostr\u00c3\u00b6m"
+            ],
+            "doi": "https://doi.org/10.1016/j.eswa.2021.116078",
+            "preprint": "https://www.diva-portal.org/smash/get/diva2:1625293/FULLTEXT01.pdf",
+            "pdf": "https://doi.org/10.1016/j.eswa.2021.116078",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Nearest neighbor ensemble",
+                "High dimensional data",
+                "Random subspace method",
+                "Random projection method"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1016/j.eswa.2021.116078/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1016/j.eswa.2021.116078/index.json"
+        }
+    ],
     "Human-centered computing": [
         {
             "title": "DeepLight: Robust & Unobtrusive Real-time Screen-Camera Communication for Real-World Displays",
@@ -4577,6 +5489,41 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1145/3412382.3458269/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1145/3412382.3458269/index.json"
+        }
+    ],
+    "Humanoid robots": [
+        {
+            "title": "Personalized and adaptive user interface framework for mobile application",
+            "venue": "2013 International Conference on Advances in Computing, Communications and Informatics (ICACCI)",
+            "year": "2013",
+            "abstract": "User interfaces in mobile applications are complex since they need to provide sufficient features to variety of users in a restricted space where a small number of components are available. When user acquires expertise in the system they expect user interfaces which satisfy their unique needs. Therefore, user interfaces in mobile applications should be adapted to different users. Since this problem exists in various applications a general solution is required to make user interfaces adaptive using user context history. In this paper, we introduce a conceptual prototype framework for mobile applications to make the user interfaces adaptive to the user. This identifies a suitable experience level to a user by learning his/her history of interactions with applications and then displays adaptive user interfaces. A proof of concept application is implemented to inspect the behavior of framework. Further, a user study was conducted on the developed proof of concept application and user context data was stored. This data was used as the training data for the Inference engine. This framework introduces an abstract solution which can be used to adapt various user interfaces based on human computer interactions. We believe the suggested framework can be used in related adaptation for Web applications, desktop applications and other mobile platforms.",
+            "authors": [
+                "Mahasivam Nivethika",
+                "Ilanthalaisingam Vithiya",
+                "Sebastiankularatnam Anntharshika",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICACCI.2013.6637474",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "User interfaces",
+                "Engines",
+                "Mobile communication",
+                "Context",
+                "Rendering (computer graphics)",
+                "Androids",
+                "Humanoid robots"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICACCI.2013.6637474/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICACCI.2013.6637474/index.json"
         }
     ],
     "Hypertension": [
@@ -4718,6 +5665,39 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIP42928.2021.9506375/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIP42928.2021.9506375/index.json"
+        }
+    ],
+    "Image edge detection": [
+        {
+            "title": "Fusion of Colour, Shape and Texture Features for Content Based Image Retrieval",
+            "venue": "8th International Conference on Computer Science and Education (ICCSE)",
+            "year": "2013",
+            "abstract": "Image retrieval in general and content based image retrieval in particular are well-known research fields in information management. A large number of methods have been proposed and investigated in both areas but satisfactory general solution have still no been developed. An image contains several types of visual information which are difficult to extract and combine manually by humans. In this paper, we propose a content based image retrieval system based on three major types of visual information: colour, texture and shape, and their distances to the origin in a three dimensional space for the retrieval. We experimentally investigated several feature extraction methods and learning algorithms for content based image retrieval. The results show that 5-Nearest Neighbour yield the highest accuracy for the chosen feature extraction methods.",
+            "authors": [
+                "Pratheep Anantharatnasamy",
+                "Kaavya Sriskandaraja",
+                "Vahissan Nandakumar",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICCSE.2013.6553949",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Accuracy",
+                "Classification algorithms",
+                "Computers",
+                "Arrays",
+                "Image edge detection"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICCSE.2013.6553949/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICCSE.2013.6553949/index.json"
         }
     ],
     "Induction motors": [
@@ -4891,6 +5871,39 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2011.6038037/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2011.6038037/index.json"
+        },
+        {
+            "title": "AntiPlag: Plagiarism detection on electronic submissions of text based assignments",
+            "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
+            "year": "2013",
+            "abstract": "Plagiarism is one of the growing issues in academia and is always a concern in Universities and other academic institutions. The situation is becoming even worse with the availability of ample resources on the web. This paper focuses on creating an effective and fast tool for plagiarism detection for text based electronic assignments. Our plagiarism detection tool named AntiPlag is developed using the tri-gram sequence matching technique. Three sets of text based assignments were tested by AntiPlag and the results were compared against an existing commercial plagiarism detection tool. AntiPlag showed better results in terms of false positives compared to the commercial tool due to the pre-processing steps performed in AntiPlag. In addition, to improve the detection latency, AntiPlag applies a data clustering technique making it four times faster than the commercial tool considered. AntiPlag could be used to isolate plagiarized text based assignments from non-plagiarised assignments easily. Therefore, we present AntiPlag, a fast and effective tool for plagiarism detection on text based electronic assignments.",
+            "authors": [
+                "MAC Jiffriya",
+                "MAC Akmal Jahan",
+                "Roshan G Ragel",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIInfS.2013.6732013",
+            "preprint": "https://arxiv.org/pdf/1403.1310",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Plagiarism",
+                "Clustering algorithms",
+                "Educational institutions",
+                "Information systems",
+                "Detectors",
+                "Computers",
+                "Conferences"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2013.6732013/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIInfS.2013.6732013/index.json"
         }
     ],
     "Information technology": [
@@ -5476,6 +6489,41 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2016.7946534/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2016.7946534/index.json"
+        },
+        {
+            "title": "Accelerating k-nn classification algorithm using graphics processing units",
+            "venue": "2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2016",
+            "abstract": "k-Nearest Neighbor (k-NN) is a well-known classification algorithm used in many machine learning applications. When the input data size of k-NN algorithm increases, the execution time of the algorithm increases significantly. Therefore, this becomes a bottleneck for practical usage. Since k-NN algorithm is using searching, sorting and other parallelly executable tasks, we have implemented the k-NN algorithm on a GPU using CUDA utilizing the parallel tasks. The results were promising as expected and for 43,500 training records and 14,500 testing records with nine attributes, the GPU execution showed about a 100\u00c3\u0097 faster execution time compared to a CPU version.",
+            "authors": [
+                "S Selvaluxmiy",
+                "TN Kumara",
+                "P Keerthanan",
+                "R Velmakivan",
+                "R Ragel",
+                "S Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAFS.2016.7946528",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Graphics processing units",
+                "Message systems",
+                "Kernel",
+                "Training",
+                "Prediction algorithms",
+                "Machine learning algorithms",
+                "Testing"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2016.7946528/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2016.7946528/index.json"
         }
     ],
     "Key exchange protocol": [
@@ -5814,6 +6862,40 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1007/s10623-022-01028-0/index.json"
         }
     ],
+    "Least squares approximations": [
+        {
+            "title": "Students behavioural analysis in an online learning environment using data mining",
+            "venue": "7th International Conference on Information and Automation for Sustainability",
+            "year": "2014",
+            "abstract": "The focus of this research was to use Educational Data Mining (EDM) techniques to conduct a quantitative analysis of students interaction with an e-learning system through instructor-led non-graded and graded courses. This exercise is useful for establishing a guideline for a series of online short courses for them. A group of 412 students' access behaviour in an e-learning system were analysed and they were grouped into clusters using K-Means clustering method according to their course access log records. The results explained that more than 40% from the student group are passive online learners in both graded and non-graded learning environments. The result showed that the difference in the learning environments could change the online access behaviour of a student group. Clustering divided the student population into five access groups based on their course access behaviour. Among these groups, the least access group (NG-41% and G-42%) and the highest access group (NG-9% and G-5%) could be identified very clearly due to their access variation from the rest of the groups.",
+            "authors": [
+                "IP Ratnapala",
+                "RG Ragel",
+                "S Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAFS.2014.7069609",
+            "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/282666458_Students_Behavioural_Analysis_in_an_Online_Learning_Environment_Using_Data_Mining/links/561791d808ae1a88800485c1/Students-Behavioural-Analysis-in-an-Online-Learning-Environment-Using-Data-Mining.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Data mining",
+                "Data visualization",
+                "Electronic learning",
+                "Clustering algorithms",
+                "Materials",
+                "Least squares approximations",
+                "Databases"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2014.7069609/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2014.7069609/index.json"
+        }
+    ],
     "Linux": [
         {
             "title": "Offloading specific performance-related kernel functions into an FPGA",
@@ -6051,6 +7133,43 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660702/index.json"
         }
     ],
+    "Machine learning algorithms": [
+        {
+            "title": "Accelerating k-nn classification algorithm using graphics processing units",
+            "venue": "2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2016",
+            "abstract": "k-Nearest Neighbor (k-NN) is a well-known classification algorithm used in many machine learning applications. When the input data size of k-NN algorithm increases, the execution time of the algorithm increases significantly. Therefore, this becomes a bottleneck for practical usage. Since k-NN algorithm is using searching, sorting and other parallelly executable tasks, we have implemented the k-NN algorithm on a GPU using CUDA utilizing the parallel tasks. The results were promising as expected and for 43,500 training records and 14,500 testing records with nine attributes, the GPU execution showed about a 100\u00c3\u0097 faster execution time compared to a CPU version.",
+            "authors": [
+                "S Selvaluxmiy",
+                "TN Kumara",
+                "P Keerthanan",
+                "R Velmakivan",
+                "R Ragel",
+                "S Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAFS.2016.7946528",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Graphics processing units",
+                "Message systems",
+                "Kernel",
+                "Training",
+                "Prediction algorithms",
+                "Machine learning algorithms",
+                "Testing"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2016.7946528/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2016.7946528/index.json"
+        }
+    ],
     "Maintenance engineering": [
         {
             "title": "Axis2UNO: Web Services Enabled Openoffice.org",
@@ -6087,6 +7206,71 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2008.4783956/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2008.4783956/index.json"
+        }
+    ],
+    "Manuals": [
+        {
+            "title": "Feasibility of using machine learning to access control in Squid proxy server",
+            "venue": "2015 IEEE 10th International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2015",
+            "abstract": "Fast Internet connectivity and billions of web sites have made World Wide Web an attractive place for people to use the Internet in their day-to-day life. Educational institutes provide the Internet access to students mainly for educational purposes. However, most of the time, students are allowed to access any content on the web. Therefore, the full bandwidth is consumed due to access to non-educational content such as streaming non-educational videos and downloading large image files, etc. Prevention of Internet usage on non-education content is practically difficult due to various reasons. Usually, this is implemented in the proxy server through maintaining a blacklist of URLs. Most of the time, this is a static list of URLs. With the fast growing content on the World Wide Web maintaining a static blacklist is impractical. In this paper, we propose a methodology to generate dynamic blacklist of URLs using machine learning techniques. We experimentally investigate several machine learning algorithms to predict whether the URL in concern is educational or noneducational. The results of the initial experiments show that linear support vector machines can be used to predict the content with 98.9% accuracy.",
+            "authors": [
+                "Kanchana Ihalagedara",
+                "Rajitha Kithuldeniya",
+                "Supun Weerasekara",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIINFS.2015.7399061",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Manuals",
+                "XML",
+                "Static VAr compensators"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2015.7399061/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2015.7399061/index.json"
+        }
+    ],
+    "Materials": [
+        {
+            "title": "Students behavioural analysis in an online learning environment using data mining",
+            "venue": "7th International Conference on Information and Automation for Sustainability",
+            "year": "2014",
+            "abstract": "The focus of this research was to use Educational Data Mining (EDM) techniques to conduct a quantitative analysis of students interaction with an e-learning system through instructor-led non-graded and graded courses. This exercise is useful for establishing a guideline for a series of online short courses for them. A group of 412 students' access behaviour in an e-learning system were analysed and they were grouped into clusters using K-Means clustering method according to their course access log records. The results explained that more than 40% from the student group are passive online learners in both graded and non-graded learning environments. The result showed that the difference in the learning environments could change the online access behaviour of a student group. Clustering divided the student population into five access groups based on their course access behaviour. Among these groups, the least access group (NG-41% and G-42%) and the highest access group (NG-9% and G-5%) could be identified very clearly due to their access variation from the rest of the groups.",
+            "authors": [
+                "IP Ratnapala",
+                "RG Ragel",
+                "S Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAFS.2014.7069609",
+            "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/282666458_Students_Behavioural_Analysis_in_an_Online_Learning_Environment_Using_Data_Mining/links/561791d808ae1a88800485c1/Students-Behavioural-Analysis-in-an-Online-Learning-Environment-Using-Data-Mining.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Data mining",
+                "Data visualization",
+                "Electronic learning",
+                "Clustering algorithms",
+                "Materials",
+                "Least squares approximations",
+                "Databases"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2014.7069609/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2014.7069609/index.json"
         }
     ],
     "Mathematical model": [
@@ -6362,6 +7546,43 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2016.7946534/index.json"
         }
     ],
+    "Message systems": [
+        {
+            "title": "Accelerating k-nn classification algorithm using graphics processing units",
+            "venue": "2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2016",
+            "abstract": "k-Nearest Neighbor (k-NN) is a well-known classification algorithm used in many machine learning applications. When the input data size of k-NN algorithm increases, the execution time of the algorithm increases significantly. Therefore, this becomes a bottleneck for practical usage. Since k-NN algorithm is using searching, sorting and other parallelly executable tasks, we have implemented the k-NN algorithm on a GPU using CUDA utilizing the parallel tasks. The results were promising as expected and for 43,500 training records and 14,500 testing records with nine attributes, the GPU execution showed about a 100\u00c3\u0097 faster execution time compared to a CPU version.",
+            "authors": [
+                "S Selvaluxmiy",
+                "TN Kumara",
+                "P Keerthanan",
+                "R Velmakivan",
+                "R Ragel",
+                "S Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAFS.2016.7946528",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Graphics processing units",
+                "Message systems",
+                "Kernel",
+                "Training",
+                "Prediction algorithms",
+                "Machine learning algorithms",
+                "Testing"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2016.7946528/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2016.7946528/index.json"
+        }
+    ],
     "Methylation": [
         {
             "title": "GPU accelerated adaptive banded event alignment for rapid comparative nanopore signal analysis",
@@ -6507,6 +7728,75 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2007.4579145/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2007.4579145/index.json"
+        },
+        {
+            "title": "Personalized and adaptive user interface framework for mobile application",
+            "venue": "2013 International Conference on Advances in Computing, Communications and Informatics (ICACCI)",
+            "year": "2013",
+            "abstract": "User interfaces in mobile applications are complex since they need to provide sufficient features to variety of users in a restricted space where a small number of components are available. When user acquires expertise in the system they expect user interfaces which satisfy their unique needs. Therefore, user interfaces in mobile applications should be adapted to different users. Since this problem exists in various applications a general solution is required to make user interfaces adaptive using user context history. In this paper, we introduce a conceptual prototype framework for mobile applications to make the user interfaces adaptive to the user. This identifies a suitable experience level to a user by learning his/her history of interactions with applications and then displays adaptive user interfaces. A proof of concept application is implemented to inspect the behavior of framework. Further, a user study was conducted on the developed proof of concept application and user context data was stored. This data was used as the training data for the Inference engine. This framework introduces an abstract solution which can be used to adapt various user interfaces based on human computer interactions. We believe the suggested framework can be used in related adaptation for Web applications, desktop applications and other mobile platforms.",
+            "authors": [
+                "Mahasivam Nivethika",
+                "Ilanthalaisingam Vithiya",
+                "Sebastiankularatnam Anntharshika",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICACCI.2013.6637474",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "User interfaces",
+                "Engines",
+                "Mobile communication",
+                "Context",
+                "Rendering (computer graphics)",
+                "Androids",
+                "Humanoid robots"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICACCI.2013.6637474/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICACCI.2013.6637474/index.json"
+        }
+    ],
+    "Mobile handsets": [
+        {
+            "title": "An automatic answering system with template matching for natural language questions",
+            "venue": "2010 Fifth International Conference on Information and Automation for Sustainability",
+            "year": "2010",
+            "abstract": "Using computers to answer natural language questions is an interesting and challenging problem. Generally such problems are handled under two categories: open domain problems and close domain problems. This paper presents a system that attempts to solve close domain problems. Typically, in a close domain, answers to questions are not available in the public domain and therefore they cannot be searched using a search engine. Hence answers have to be stored in a database by a domain expert. Then, the challenge is to understand the natural language question so that the solution could be matched to the respective answer in the database. We use a template matching technique to perform this matching. In addition, given that our target is to use this system with non-native English speakers, we developed a method to overcome the mismatches we might encounter due to spelling mistakes. The system is developed such that the questions can be asked using short messages from a mobile phone and therefore the system is designed to understand SMS language in addition to English. One of the main contributions of this paper is the outcome presented of a deployment of this system in a real environment.",
+            "authors": [
+                "Tilani Gunawardena",
+                "Medhavi Lokuhetti",
+                "Nishara Pathirana",
+                "Roshan Ragel",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAFS.2010.5715686",
+            "preprint": "https://www.academia.edu/download/48742704/17.pdf",
+            "pdf": "#",
+            "presentation": "https://d1wqtxts1xzle7.cloudfront.net/48742704/17-libre.pdf?1473576218=&response-content-disposition=inline%3B+filename%3DAn_automatic_answering_system_with_templ.pdf&Expires=1663963105&Signature=f8AFZyE5hptWxajcAxQa-2whpQldQ4N75IcTG6sAuwMRWr8n0owYhyMGVzl~nyMC5I0NBcy8NOT46ftIow83kqV7Bt96R03KrQ211dRMFy3IY74dlMFZHmldzNQt9nUpwFKqqV4yBf3mL16VwQTioS63YL9dx6lMkQqWpCYVzu2Xgy87MBNZ5YMUG10kDsFFeGuqdf8uBJIsWci6P0v5HwHyQFO1EJ4buHsy6TG4NAfD4nXi7LA-ISPrqwrY-03JVOx3bHl9ThEiK-VWqoI1tuYDT0KZtatvQXT8XiMD9ACmlJcQ59sQmRfAgxMKdGknnEk-yf~qSXRndgEGjbVYLg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Databases",
+                "Syntactics",
+                "Natural languages",
+                "Computers",
+                "Artificial intelligence",
+                "Mobile handsets",
+                "Robots"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2010.5715686/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2010.5715686/index.json"
         }
     ],
     "Mobile learning": [
@@ -6603,6 +7893,41 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/Kaleidoscope.2015.7383635/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/Kaleidoscope.2015.7383635/index.json"
+        }
+    ],
+    "NLP": [
+        {
+            "title": "Performance evaluation techniques for an automatic question answering system",
+            "venue": "International Journal of Machine Learning and Computing",
+            "year": "2015",
+            "abstract": "Automatic question answering (QA) is an interesting and challenging problem. Generally such problems are handled under two categories: open domain problems and close domain problems. Here the challenge is to understand the natural language question so that the solution could be matched to the respective answer in the database. In this paper we used a template matching technique to perform this matching. The first part of the paper discusses about an automatic question answering system that we have developed using template matching techniques. The approach adopted is an automated FAQ (Frequently Asked Question) answering system that provides pre-stored answers to user questions asked in ordinary English and SMS language. The system also has techniques to overcome spelling and grammar mistakes introduced in questions by its users and therefore user-friendly compared to restricted syntax based approaches. The second part of the paper studies three techniques for performance evaluation in the above system which are based on template matching approach: 1) Random classification of templates, 2) Similarity based classification of templates, 3) Weighting template words.",
+            "authors": [
+                "Tilani Gunawardena",
+                "Nishara Pathirana",
+                "Medhavi Lokuhetti",
+                "Roshan Ragel",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.7763/IJMLC.2015.V5.523",
+            "preprint": "#",
+            "pdf": "http://www.ijmlc.org/vol5/523-C013.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Evaluation technique",
+                "question answering",
+                "NLP",
+                "template matching",
+                "FAQ",
+                "answering system"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.7763/IJMLC.2015.V5.523/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.7763/IJMLC.2015.V5.523/index.json"
         }
     ],
     "Nanopolish": [
@@ -6720,6 +8045,74 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1038/s42003-020-01270-z/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1038/s42003-020-01270-z/index.json"
+        }
+    ],
+    "Natural languages": [
+        {
+            "title": "An automatic answering system with template matching for natural language questions",
+            "venue": "2010 Fifth International Conference on Information and Automation for Sustainability",
+            "year": "2010",
+            "abstract": "Using computers to answer natural language questions is an interesting and challenging problem. Generally such problems are handled under two categories: open domain problems and close domain problems. This paper presents a system that attempts to solve close domain problems. Typically, in a close domain, answers to questions are not available in the public domain and therefore they cannot be searched using a search engine. Hence answers have to be stored in a database by a domain expert. Then, the challenge is to understand the natural language question so that the solution could be matched to the respective answer in the database. We use a template matching technique to perform this matching. In addition, given that our target is to use this system with non-native English speakers, we developed a method to overcome the mismatches we might encounter due to spelling mistakes. The system is developed such that the questions can be asked using short messages from a mobile phone and therefore the system is designed to understand SMS language in addition to English. One of the main contributions of this paper is the outcome presented of a deployment of this system in a real environment.",
+            "authors": [
+                "Tilani Gunawardena",
+                "Medhavi Lokuhetti",
+                "Nishara Pathirana",
+                "Roshan Ragel",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAFS.2010.5715686",
+            "preprint": "https://www.academia.edu/download/48742704/17.pdf",
+            "pdf": "#",
+            "presentation": "https://d1wqtxts1xzle7.cloudfront.net/48742704/17-libre.pdf?1473576218=&response-content-disposition=inline%3B+filename%3DAn_automatic_answering_system_with_templ.pdf&Expires=1663963105&Signature=f8AFZyE5hptWxajcAxQa-2whpQldQ4N75IcTG6sAuwMRWr8n0owYhyMGVzl~nyMC5I0NBcy8NOT46ftIow83kqV7Bt96R03KrQ211dRMFy3IY74dlMFZHmldzNQt9nUpwFKqqV4yBf3mL16VwQTioS63YL9dx6lMkQqWpCYVzu2Xgy87MBNZ5YMUG10kDsFFeGuqdf8uBJIsWci6P0v5HwHyQFO1EJ4buHsy6TG4NAfD4nXi7LA-ISPrqwrY-03JVOx3bHl9ThEiK-VWqoI1tuYDT0KZtatvQXT8XiMD9ACmlJcQ59sQmRfAgxMKdGknnEk-yf~qSXRndgEGjbVYLg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Databases",
+                "Syntactics",
+                "Natural languages",
+                "Computers",
+                "Artificial intelligence",
+                "Mobile handsets",
+                "Robots"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2010.5715686/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2010.5715686/index.json"
+        }
+    ],
+    "Nearest neighbor ensemble": [
+        {
+            "title": "Random subspace and random projection nearest neighbor ensembles for high dimensional data",
+            "venue": "Elsevier Expert systems with applications",
+            "year": "2022",
+            "abstract": "The random subspace and the random projection methods are investigated and compared as techniques for forming ensembles of nearest neighbor classifiers in high dimensional feature spaces. The two methods have been empirically evaluated on three types of high-dimensional datasets: microarrays, chemoinformatics, and images. Experimental results on 34 datasets show that both the random subspace and the random projection method lead to improvements in predictive performance compared to using the standard nearest neighbor classifier, while the best method to use depends on the type of data considered; for the microarray and chemoinformatics datasets, random projection outperforms the random subspace method, while the opposite holds for the image datasets. An analysis using data complexity measures, such as attribute to instance ratio and Fisher\u00e2\u0080\u0099s discriminant ratio, provide some more detailed indications on what relative performance can be expected for specific datasets. The results also indicate that the resulting ensembles may be competitive with state-of-the-art ensemble classifiers; the nearest neighbor ensembles using random projection perform on par with random forests for the microarray and chemoinformatics datasets.",
+            "authors": [
+                "Sampath Deegalla",
+                "Keerthi Walgama",
+                "Panagiotis Papapetrou",
+                "Henrik Bostr\u00c3\u00b6m"
+            ],
+            "doi": "https://doi.org/10.1016/j.eswa.2021.116078",
+            "preprint": "https://www.diva-portal.org/smash/get/diva2:1625293/FULLTEXT01.pdf",
+            "pdf": "https://doi.org/10.1016/j.eswa.2021.116078",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Nearest neighbor ensemble",
+                "High dimensional data",
+                "Random subspace method",
+                "Random projection method"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1016/j.eswa.2021.116078/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1016/j.eswa.2021.116078/index.json"
         }
     ],
     "Neural networks": [
@@ -7739,6 +9132,41 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2011.6038036/index.json"
         }
     ],
+    "Plagiarism": [
+        {
+            "title": "AntiPlag: Plagiarism detection on electronic submissions of text based assignments",
+            "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
+            "year": "2013",
+            "abstract": "Plagiarism is one of the growing issues in academia and is always a concern in Universities and other academic institutions. The situation is becoming even worse with the availability of ample resources on the web. This paper focuses on creating an effective and fast tool for plagiarism detection for text based electronic assignments. Our plagiarism detection tool named AntiPlag is developed using the tri-gram sequence matching technique. Three sets of text based assignments were tested by AntiPlag and the results were compared against an existing commercial plagiarism detection tool. AntiPlag showed better results in terms of false positives compared to the commercial tool due to the pre-processing steps performed in AntiPlag. In addition, to improve the detection latency, AntiPlag applies a data clustering technique making it four times faster than the commercial tool considered. AntiPlag could be used to isolate plagiarized text based assignments from non-plagiarised assignments easily. Therefore, we present AntiPlag, a fast and effective tool for plagiarism detection on text based electronic assignments.",
+            "authors": [
+                "MAC Jiffriya",
+                "MAC Akmal Jahan",
+                "Roshan G Ragel",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIInfS.2013.6732013",
+            "preprint": "https://arxiv.org/pdf/1403.1310",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Plagiarism",
+                "Clustering algorithms",
+                "Educational institutions",
+                "Information systems",
+                "Detectors",
+                "Computers",
+                "Conferences"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2013.6732013/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIInfS.2013.6732013/index.json"
+        }
+    ],
     "Polynomials": [
         {
             "title": "SAS-3: A polynomial based strong password authentication protocol",
@@ -7882,6 +9310,43 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300374/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300374/index.json"
+        }
+    ],
+    "Prediction algorithms": [
+        {
+            "title": "Accelerating k-nn classification algorithm using graphics processing units",
+            "venue": "2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2016",
+            "abstract": "k-Nearest Neighbor (k-NN) is a well-known classification algorithm used in many machine learning applications. When the input data size of k-NN algorithm increases, the execution time of the algorithm increases significantly. Therefore, this becomes a bottleneck for practical usage. Since k-NN algorithm is using searching, sorting and other parallelly executable tasks, we have implemented the k-NN algorithm on a GPU using CUDA utilizing the parallel tasks. The results were promising as expected and for 43,500 training records and 14,500 testing records with nine attributes, the GPU execution showed about a 100\u00c3\u0097 faster execution time compared to a CPU version.",
+            "authors": [
+                "S Selvaluxmiy",
+                "TN Kumara",
+                "P Keerthanan",
+                "R Velmakivan",
+                "R Ragel",
+                "S Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAFS.2016.7946528",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Graphics processing units",
+                "Message systems",
+                "Kernel",
+                "Training",
+                "Prediction algorithms",
+                "Machine learning algorithms",
+                "Testing"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2016.7946528/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2016.7946528/index.json"
         }
     ],
     "Process control": [
@@ -8490,6 +9955,70 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/TIC-STH.2009.5444462/index.json"
         }
     ],
+    "Random projection method": [
+        {
+            "title": "Random subspace and random projection nearest neighbor ensembles for high dimensional data",
+            "venue": "Elsevier Expert systems with applications",
+            "year": "2022",
+            "abstract": "The random subspace and the random projection methods are investigated and compared as techniques for forming ensembles of nearest neighbor classifiers in high dimensional feature spaces. The two methods have been empirically evaluated on three types of high-dimensional datasets: microarrays, chemoinformatics, and images. Experimental results on 34 datasets show that both the random subspace and the random projection method lead to improvements in predictive performance compared to using the standard nearest neighbor classifier, while the best method to use depends on the type of data considered; for the microarray and chemoinformatics datasets, random projection outperforms the random subspace method, while the opposite holds for the image datasets. An analysis using data complexity measures, such as attribute to instance ratio and Fisher\u00e2\u0080\u0099s discriminant ratio, provide some more detailed indications on what relative performance can be expected for specific datasets. The results also indicate that the resulting ensembles may be competitive with state-of-the-art ensemble classifiers; the nearest neighbor ensembles using random projection perform on par with random forests for the microarray and chemoinformatics datasets.",
+            "authors": [
+                "Sampath Deegalla",
+                "Keerthi Walgama",
+                "Panagiotis Papapetrou",
+                "Henrik Bostr\u00c3\u00b6m"
+            ],
+            "doi": "https://doi.org/10.1016/j.eswa.2021.116078",
+            "preprint": "https://www.diva-portal.org/smash/get/diva2:1625293/FULLTEXT01.pdf",
+            "pdf": "https://doi.org/10.1016/j.eswa.2021.116078",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Nearest neighbor ensemble",
+                "High dimensional data",
+                "Random subspace method",
+                "Random projection method"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1016/j.eswa.2021.116078/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1016/j.eswa.2021.116078/index.json"
+        }
+    ],
+    "Random subspace method": [
+        {
+            "title": "Random subspace and random projection nearest neighbor ensembles for high dimensional data",
+            "venue": "Elsevier Expert systems with applications",
+            "year": "2022",
+            "abstract": "The random subspace and the random projection methods are investigated and compared as techniques for forming ensembles of nearest neighbor classifiers in high dimensional feature spaces. The two methods have been empirically evaluated on three types of high-dimensional datasets: microarrays, chemoinformatics, and images. Experimental results on 34 datasets show that both the random subspace and the random projection method lead to improvements in predictive performance compared to using the standard nearest neighbor classifier, while the best method to use depends on the type of data considered; for the microarray and chemoinformatics datasets, random projection outperforms the random subspace method, while the opposite holds for the image datasets. An analysis using data complexity measures, such as attribute to instance ratio and Fisher\u00e2\u0080\u0099s discriminant ratio, provide some more detailed indications on what relative performance can be expected for specific datasets. The results also indicate that the resulting ensembles may be competitive with state-of-the-art ensemble classifiers; the nearest neighbor ensembles using random projection perform on par with random forests for the microarray and chemoinformatics datasets.",
+            "authors": [
+                "Sampath Deegalla",
+                "Keerthi Walgama",
+                "Panagiotis Papapetrou",
+                "Henrik Bostr\u00c3\u00b6m"
+            ],
+            "doi": "https://doi.org/10.1016/j.eswa.2021.116078",
+            "preprint": "https://www.diva-portal.org/smash/get/diva2:1625293/FULLTEXT01.pdf",
+            "pdf": "https://doi.org/10.1016/j.eswa.2021.116078",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Nearest neighbor ensemble",
+                "High dimensional data",
+                "Random subspace method",
+                "Random projection method"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1016/j.eswa.2021.116078/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1016/j.eswa.2021.116078/index.json"
+        }
+    ],
     "Real-time systems": [
         {
             "title": "Microservice Based Edge Computing Architecture for Internet of Things",
@@ -8734,6 +10263,41 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MIES.2016.7780261/index.json"
         }
     ],
+    "Rendering (computer graphics)": [
+        {
+            "title": "Personalized and adaptive user interface framework for mobile application",
+            "venue": "2013 International Conference on Advances in Computing, Communications and Informatics (ICACCI)",
+            "year": "2013",
+            "abstract": "User interfaces in mobile applications are complex since they need to provide sufficient features to variety of users in a restricted space where a small number of components are available. When user acquires expertise in the system they expect user interfaces which satisfy their unique needs. Therefore, user interfaces in mobile applications should be adapted to different users. Since this problem exists in various applications a general solution is required to make user interfaces adaptive using user context history. In this paper, we introduce a conceptual prototype framework for mobile applications to make the user interfaces adaptive to the user. This identifies a suitable experience level to a user by learning his/her history of interactions with applications and then displays adaptive user interfaces. A proof of concept application is implemented to inspect the behavior of framework. Further, a user study was conducted on the developed proof of concept application and user context data was stored. This data was used as the training data for the Inference engine. This framework introduces an abstract solution which can be used to adapt various user interfaces based on human computer interactions. We believe the suggested framework can be used in related adaptation for Web applications, desktop applications and other mobile platforms.",
+            "authors": [
+                "Mahasivam Nivethika",
+                "Ilanthalaisingam Vithiya",
+                "Sebastiankularatnam Anntharshika",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICACCI.2013.6637474",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "User interfaces",
+                "Engines",
+                "Mobile communication",
+                "Context",
+                "Rendering (computer graphics)",
+                "Androids",
+                "Humanoid robots"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICACCI.2013.6637474/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICACCI.2013.6637474/index.json"
+        }
+    ],
     "Resource management": [
         {
             "title": "Axis2UNO: Web Services Enabled Openoffice.org",
@@ -8806,6 +10370,42 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185373/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185373/index.json"
+        }
+    ],
+    "Robots": [
+        {
+            "title": "An automatic answering system with template matching for natural language questions",
+            "venue": "2010 Fifth International Conference on Information and Automation for Sustainability",
+            "year": "2010",
+            "abstract": "Using computers to answer natural language questions is an interesting and challenging problem. Generally such problems are handled under two categories: open domain problems and close domain problems. This paper presents a system that attempts to solve close domain problems. Typically, in a close domain, answers to questions are not available in the public domain and therefore they cannot be searched using a search engine. Hence answers have to be stored in a database by a domain expert. Then, the challenge is to understand the natural language question so that the solution could be matched to the respective answer in the database. We use a template matching technique to perform this matching. In addition, given that our target is to use this system with non-native English speakers, we developed a method to overcome the mismatches we might encounter due to spelling mistakes. The system is developed such that the questions can be asked using short messages from a mobile phone and therefore the system is designed to understand SMS language in addition to English. One of the main contributions of this paper is the outcome presented of a deployment of this system in a real environment.",
+            "authors": [
+                "Tilani Gunawardena",
+                "Medhavi Lokuhetti",
+                "Nishara Pathirana",
+                "Roshan Ragel",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAFS.2010.5715686",
+            "preprint": "https://www.academia.edu/download/48742704/17.pdf",
+            "pdf": "#",
+            "presentation": "https://d1wqtxts1xzle7.cloudfront.net/48742704/17-libre.pdf?1473576218=&response-content-disposition=inline%3B+filename%3DAn_automatic_answering_system_with_templ.pdf&Expires=1663963105&Signature=f8AFZyE5hptWxajcAxQa-2whpQldQ4N75IcTG6sAuwMRWr8n0owYhyMGVzl~nyMC5I0NBcy8NOT46ftIow83kqV7Bt96R03KrQ211dRMFy3IY74dlMFZHmldzNQt9nUpwFKqqV4yBf3mL16VwQTioS63YL9dx6lMkQqWpCYVzu2Xgy87MBNZ5YMUG10kDsFFeGuqdf8uBJIsWci6P0v5HwHyQFO1EJ4buHsy6TG4NAfD4nXi7LA-ISPrqwrY-03JVOx3bHl9ThEiK-VWqoI1tuYDT0KZtatvQXT8XiMD9ACmlJcQ59sQmRfAgxMKdGknnEk-yf~qSXRndgEGjbVYLg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Databases",
+                "Syntactics",
+                "Natural languages",
+                "Computers",
+                "Artificial intelligence",
+                "Mobile handsets",
+                "Robots"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2010.5715686/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2010.5715686/index.json"
         }
     ],
     "Runtime": [
@@ -9564,6 +11164,41 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1186/s12859-020-03697-x/index.json"
         }
     ],
+    "Silver": [
+        {
+            "title": "Objectively Measure Player Performance on Olympic Weightlifting",
+            "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2021",
+            "abstract": "In Olympic-style weightlifting athlete attempts to lift the weight plates on a barbell and scores are determined by a combination of the successful highest weight achieved in snatch and the clean-and-jerk actions. However, the current method does not objectively measure the player techniques. In this paper, we introduce a novel method to objectively measure player performance on weightlifting using human action recognition in videos. We introduce a method to assess player techniques in weightlifting by using skeleton-based human action recognition. In order to achieve our goal, we further introduce a new video dataset for action recognition in weightlifting which is annotated to frame level and introduce an automated scoring system through action recognition. We conclude our paper with qualitative and quantitative experimental results using non-Olympic players and 2016 Gold, Silver, and Bronze medalists in different weight categories (both men and women).",
+            "authors": [
+                "Anandi Karunaratne",
+                "Chamin Jayasooriya",
+                "Sampath Deegalla",
+                "Rajitha Navarathna"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9605963",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Weight measurement",
+                "Silver",
+                "Gold",
+                "Automation",
+                "Current measurement",
+                "Sustainable development",
+                "Videos"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9605963/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9605963/index.json"
+        }
+    ],
     "Skeleton": [
         {
             "title": "Visual Design Platform for Wireless Sensor Network",
@@ -10265,6 +11900,37 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/VLSID.2013.154/index.json"
         }
     ],
+    "Static VAr compensators": [
+        {
+            "title": "Feasibility of using machine learning to access control in Squid proxy server",
+            "venue": "2015 IEEE 10th International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2015",
+            "abstract": "Fast Internet connectivity and billions of web sites have made World Wide Web an attractive place for people to use the Internet in their day-to-day life. Educational institutes provide the Internet access to students mainly for educational purposes. However, most of the time, students are allowed to access any content on the web. Therefore, the full bandwidth is consumed due to access to non-educational content such as streaming non-educational videos and downloading large image files, etc. Prevention of Internet usage on non-education content is practically difficult due to various reasons. Usually, this is implemented in the proxy server through maintaining a blacklist of URLs. Most of the time, this is a static list of URLs. With the fast growing content on the World Wide Web maintaining a static blacklist is impractical. In this paper, we propose a methodology to generate dynamic blacklist of URLs using machine learning techniques. We experimentally investigate several machine learning algorithms to predict whether the URL in concern is educational or noneducational. The results of the initial experiments show that linear support vector machines can be used to predict the content with 98.9% accuracy.",
+            "authors": [
+                "Kanchana Ihalagedara",
+                "Rajitha Kithuldeniya",
+                "Supun Weerasekara",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIINFS.2015.7399061",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Manuals",
+                "XML",
+                "Static VAr compensators"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2015.7399061/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2015.7399061/index.json"
+        }
+    ],
     "Statistical analysis": [
         {
             "title": " Identifying the optimal set of attributes that impose high impact on the end results of a cricket match using machine learning",
@@ -10477,6 +12143,41 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300399/index.json"
         }
     ],
+    "Sustainable development": [
+        {
+            "title": "Objectively Measure Player Performance on Olympic Weightlifting",
+            "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2021",
+            "abstract": "In Olympic-style weightlifting athlete attempts to lift the weight plates on a barbell and scores are determined by a combination of the successful highest weight achieved in snatch and the clean-and-jerk actions. However, the current method does not objectively measure the player techniques. In this paper, we introduce a novel method to objectively measure player performance on weightlifting using human action recognition in videos. We introduce a method to assess player techniques in weightlifting by using skeleton-based human action recognition. In order to achieve our goal, we further introduce a new video dataset for action recognition in weightlifting which is annotated to frame level and introduce an automated scoring system through action recognition. We conclude our paper with qualitative and quantitative experimental results using non-Olympic players and 2016 Gold, Silver, and Bronze medalists in different weight categories (both men and women).",
+            "authors": [
+                "Anandi Karunaratne",
+                "Chamin Jayasooriya",
+                "Sampath Deegalla",
+                "Rajitha Navarathna"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9605963",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Weight measurement",
+                "Silver",
+                "Gold",
+                "Automation",
+                "Current measurement",
+                "Sustainable development",
+                "Videos"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9605963/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9605963/index.json"
+        }
+    ],
     "Switches": [
         {
             "title": "Control channel denial-of-service attack in SDN-based networks",
@@ -10510,6 +12211,42 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185266/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185266/index.json"
+        }
+    ],
+    "Syntactics": [
+        {
+            "title": "An automatic answering system with template matching for natural language questions",
+            "venue": "2010 Fifth International Conference on Information and Automation for Sustainability",
+            "year": "2010",
+            "abstract": "Using computers to answer natural language questions is an interesting and challenging problem. Generally such problems are handled under two categories: open domain problems and close domain problems. This paper presents a system that attempts to solve close domain problems. Typically, in a close domain, answers to questions are not available in the public domain and therefore they cannot be searched using a search engine. Hence answers have to be stored in a database by a domain expert. Then, the challenge is to understand the natural language question so that the solution could be matched to the respective answer in the database. We use a template matching technique to perform this matching. In addition, given that our target is to use this system with non-native English speakers, we developed a method to overcome the mismatches we might encounter due to spelling mistakes. The system is developed such that the questions can be asked using short messages from a mobile phone and therefore the system is designed to understand SMS language in addition to English. One of the main contributions of this paper is the outcome presented of a deployment of this system in a real environment.",
+            "authors": [
+                "Tilani Gunawardena",
+                "Medhavi Lokuhetti",
+                "Nishara Pathirana",
+                "Roshan Ragel",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAFS.2010.5715686",
+            "preprint": "https://www.academia.edu/download/48742704/17.pdf",
+            "pdf": "#",
+            "presentation": "https://d1wqtxts1xzle7.cloudfront.net/48742704/17-libre.pdf?1473576218=&response-content-disposition=inline%3B+filename%3DAn_automatic_answering_system_with_templ.pdf&Expires=1663963105&Signature=f8AFZyE5hptWxajcAxQa-2whpQldQ4N75IcTG6sAuwMRWr8n0owYhyMGVzl~nyMC5I0NBcy8NOT46ftIow83kqV7Bt96R03KrQ211dRMFy3IY74dlMFZHmldzNQt9nUpwFKqqV4yBf3mL16VwQTioS63YL9dx6lMkQqWpCYVzu2Xgy87MBNZ5YMUG10kDsFFeGuqdf8uBJIsWci6P0v5HwHyQFO1EJ4buHsy6TG4NAfD4nXi7LA-ISPrqwrY-03JVOx3bHl9ThEiK-VWqoI1tuYDT0KZtatvQXT8XiMD9ACmlJcQ59sQmRfAgxMKdGknnEk-yf~qSXRndgEGjbVYLg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Databases",
+                "Syntactics",
+                "Natural languages",
+                "Computers",
+                "Artificial intelligence",
+                "Mobile handsets",
+                "Robots"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2010.5715686/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2010.5715686/index.json"
         }
     ],
     "Synthetic aperture sonar": [
@@ -10611,6 +12348,41 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2016.7946534/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2016.7946534/index.json"
+        },
+        {
+            "title": "Accelerating k-nn classification algorithm using graphics processing units",
+            "venue": "2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2016",
+            "abstract": "k-Nearest Neighbor (k-NN) is a well-known classification algorithm used in many machine learning applications. When the input data size of k-NN algorithm increases, the execution time of the algorithm increases significantly. Therefore, this becomes a bottleneck for practical usage. Since k-NN algorithm is using searching, sorting and other parallelly executable tasks, we have implemented the k-NN algorithm on a GPU using CUDA utilizing the parallel tasks. The results were promising as expected and for 43,500 training records and 14,500 testing records with nine attributes, the GPU execution showed about a 100\u00c3\u0097 faster execution time compared to a CPU version.",
+            "authors": [
+                "S Selvaluxmiy",
+                "TN Kumara",
+                "P Keerthanan",
+                "R Velmakivan",
+                "R Ragel",
+                "S Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAFS.2016.7946528",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Graphics processing units",
+                "Message systems",
+                "Kernel",
+                "Training",
+                "Prediction algorithms",
+                "Machine learning algorithms",
+                "Testing"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2016.7946528/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2016.7946528/index.json"
         }
     ],
     "Throughput": [
@@ -10886,6 +12658,43 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2016.7946548/index.json"
         }
     ],
+    "Training": [
+        {
+            "title": "Accelerating k-nn classification algorithm using graphics processing units",
+            "venue": "2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2016",
+            "abstract": "k-Nearest Neighbor (k-NN) is a well-known classification algorithm used in many machine learning applications. When the input data size of k-NN algorithm increases, the execution time of the algorithm increases significantly. Therefore, this becomes a bottleneck for practical usage. Since k-NN algorithm is using searching, sorting and other parallelly executable tasks, we have implemented the k-NN algorithm on a GPU using CUDA utilizing the parallel tasks. The results were promising as expected and for 43,500 training records and 14,500 testing records with nine attributes, the GPU execution showed about a 100\u00c3\u0097 faster execution time compared to a CPU version.",
+            "authors": [
+                "S Selvaluxmiy",
+                "TN Kumara",
+                "P Keerthanan",
+                "R Velmakivan",
+                "R Ragel",
+                "S Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAFS.2016.7946528",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Graphics processing units",
+                "Message systems",
+                "Kernel",
+                "Training",
+                "Prediction algorithms",
+                "Machine learning algorithms",
+                "Testing"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2016.7946528/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2016.7946528/index.json"
+        }
+    ],
     "Transform coding": [
         {
             "title": "Instruction-set selection for multi-application based ASIP design: An instruction-level study",
@@ -11056,6 +12865,41 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660702/index.json"
         }
     ],
+    "User interfaces": [
+        {
+            "title": "Personalized and adaptive user interface framework for mobile application",
+            "venue": "2013 International Conference on Advances in Computing, Communications and Informatics (ICACCI)",
+            "year": "2013",
+            "abstract": "User interfaces in mobile applications are complex since they need to provide sufficient features to variety of users in a restricted space where a small number of components are available. When user acquires expertise in the system they expect user interfaces which satisfy their unique needs. Therefore, user interfaces in mobile applications should be adapted to different users. Since this problem exists in various applications a general solution is required to make user interfaces adaptive using user context history. In this paper, we introduce a conceptual prototype framework for mobile applications to make the user interfaces adaptive to the user. This identifies a suitable experience level to a user by learning his/her history of interactions with applications and then displays adaptive user interfaces. A proof of concept application is implemented to inspect the behavior of framework. Further, a user study was conducted on the developed proof of concept application and user context data was stored. This data was used as the training data for the Inference engine. This framework introduces an abstract solution which can be used to adapt various user interfaces based on human computer interactions. We believe the suggested framework can be used in related adaptation for Web applications, desktop applications and other mobile platforms.",
+            "authors": [
+                "Mahasivam Nivethika",
+                "Ilanthalaisingam Vithiya",
+                "Sebastiankularatnam Anntharshika",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICACCI.2013.6637474",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "User interfaces",
+                "Engines",
+                "Mobile communication",
+                "Context",
+                "Rendering (computer graphics)",
+                "Androids",
+                "Humanoid robots"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICACCI.2013.6637474/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICACCI.2013.6637474/index.json"
+        }
+    ],
     "Video processing": [
         {
             "title": "Non-contact Infant Sleep Apnea Detection",
@@ -11089,6 +12933,41 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS47346.2019.9063269/index.json"
+        }
+    ],
+    "Videos": [
+        {
+            "title": "Objectively Measure Player Performance on Olympic Weightlifting",
+            "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2021",
+            "abstract": "In Olympic-style weightlifting athlete attempts to lift the weight plates on a barbell and scores are determined by a combination of the successful highest weight achieved in snatch and the clean-and-jerk actions. However, the current method does not objectively measure the player techniques. In this paper, we introduce a novel method to objectively measure player performance on weightlifting using human action recognition in videos. We introduce a method to assess player techniques in weightlifting by using skeleton-based human action recognition. In order to achieve our goal, we further introduce a new video dataset for action recognition in weightlifting which is annotated to frame level and introduce an automated scoring system through action recognition. We conclude our paper with qualitative and quantitative experimental results using non-Olympic players and 2016 Gold, Silver, and Bronze medalists in different weight categories (both men and women).",
+            "authors": [
+                "Anandi Karunaratne",
+                "Chamin Jayasooriya",
+                "Sampath Deegalla",
+                "Rajitha Navarathna"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9605963",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Weight measurement",
+                "Silver",
+                "Gold",
+                "Automation",
+                "Current measurement",
+                "Sustainable development",
+                "Videos"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9605963/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9605963/index.json"
         }
     ],
     "Virtual SSID": [
@@ -11272,6 +13151,41 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660737/index.json"
         }
     ],
+    "Weight measurement": [
+        {
+            "title": "Objectively Measure Player Performance on Olympic Weightlifting",
+            "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2021",
+            "abstract": "In Olympic-style weightlifting athlete attempts to lift the weight plates on a barbell and scores are determined by a combination of the successful highest weight achieved in snatch and the clean-and-jerk actions. However, the current method does not objectively measure the player techniques. In this paper, we introduce a novel method to objectively measure player performance on weightlifting using human action recognition in videos. We introduce a method to assess player techniques in weightlifting by using skeleton-based human action recognition. In order to achieve our goal, we further introduce a new video dataset for action recognition in weightlifting which is annotated to frame level and introduce an automated scoring system through action recognition. We conclude our paper with qualitative and quantitative experimental results using non-Olympic players and 2016 Gold, Silver, and Bronze medalists in different weight categories (both men and women).",
+            "authors": [
+                "Anandi Karunaratne",
+                "Chamin Jayasooriya",
+                "Sampath Deegalla",
+                "Rajitha Navarathna"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9605963",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Weight measurement",
+                "Silver",
+                "Gold",
+                "Automation",
+                "Current measurement",
+                "Sustainable development",
+                "Videos"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9605963/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9605963/index.json"
+        }
+    ],
     "Wind power generation": [
         {
             "title": "Genetic algorithm based cost optimization to integrate a community based wind turbine while considering smart appliances scheduling",
@@ -11450,6 +13364,37 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185266/index.json"
         }
     ],
+    "XML": [
+        {
+            "title": "Feasibility of using machine learning to access control in Squid proxy server",
+            "venue": "2015 IEEE 10th International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2015",
+            "abstract": "Fast Internet connectivity and billions of web sites have made World Wide Web an attractive place for people to use the Internet in their day-to-day life. Educational institutes provide the Internet access to students mainly for educational purposes. However, most of the time, students are allowed to access any content on the web. Therefore, the full bandwidth is consumed due to access to non-educational content such as streaming non-educational videos and downloading large image files, etc. Prevention of Internet usage on non-education content is practically difficult due to various reasons. Usually, this is implemented in the proxy server through maintaining a blacklist of URLs. Most of the time, this is a static list of URLs. With the fast growing content on the World Wide Web maintaining a static blacklist is impractical. In this paper, we propose a methodology to generate dynamic blacklist of URLs using machine learning techniques. We experimentally investigate several machine learning algorithms to predict whether the URL in concern is educational or noneducational. The results of the initial experiments show that linear support vector machines can be used to predict the content with 98.9% accuracy.",
+            "authors": [
+                "Kanchana Ihalagedara",
+                "Rajitha Kithuldeniya",
+                "Supun Weerasekara",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIINFS.2015.7399061",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Manuals",
+                "XML",
+                "Static VAr compensators"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2015.7399061/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2015.7399061/index.json"
+        }
+    ],
     "access management": [
         {
             "title": "BAT\u00e2\u0080\u0094Block Analytics Tool Integrated with Blockchain Based IoT Platform",
@@ -11485,6 +13430,41 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/electronics9091525/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/electronics9091525/index.json"
+        }
+    ],
+    "answering system": [
+        {
+            "title": "Performance evaluation techniques for an automatic question answering system",
+            "venue": "International Journal of Machine Learning and Computing",
+            "year": "2015",
+            "abstract": "Automatic question answering (QA) is an interesting and challenging problem. Generally such problems are handled under two categories: open domain problems and close domain problems. Here the challenge is to understand the natural language question so that the solution could be matched to the respective answer in the database. In this paper we used a template matching technique to perform this matching. The first part of the paper discusses about an automatic question answering system that we have developed using template matching techniques. The approach adopted is an automated FAQ (Frequently Asked Question) answering system that provides pre-stored answers to user questions asked in ordinary English and SMS language. The system also has techniques to overcome spelling and grammar mistakes introduced in questions by its users and therefore user-friendly compared to restricted syntax based approaches. The second part of the paper studies three techniques for performance evaluation in the above system which are based on template matching approach: 1) Random classification of templates, 2) Similarity based classification of templates, 3) Weighting template words.",
+            "authors": [
+                "Tilani Gunawardena",
+                "Nishara Pathirana",
+                "Medhavi Lokuhetti",
+                "Roshan Ragel",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.7763/IJMLC.2015.V5.523",
+            "preprint": "#",
+            "pdf": "http://www.ijmlc.org/vol5/523-C013.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Evaluation technique",
+                "question answering",
+                "NLP",
+                "template matching",
+                "FAQ",
+                "answering system"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.7763/IJMLC.2015.V5.523/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.7763/IJMLC.2015.V5.523/index.json"
         }
     ],
     "application specific integrated circuits": [
@@ -12475,6 +14455,41 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1515/jmc-2019-0014/index.json"
         }
     ],
+    "question answering": [
+        {
+            "title": "Performance evaluation techniques for an automatic question answering system",
+            "venue": "International Journal of Machine Learning and Computing",
+            "year": "2015",
+            "abstract": "Automatic question answering (QA) is an interesting and challenging problem. Generally such problems are handled under two categories: open domain problems and close domain problems. Here the challenge is to understand the natural language question so that the solution could be matched to the respective answer in the database. In this paper we used a template matching technique to perform this matching. The first part of the paper discusses about an automatic question answering system that we have developed using template matching techniques. The approach adopted is an automated FAQ (Frequently Asked Question) answering system that provides pre-stored answers to user questions asked in ordinary English and SMS language. The system also has techniques to overcome spelling and grammar mistakes introduced in questions by its users and therefore user-friendly compared to restricted syntax based approaches. The second part of the paper studies three techniques for performance evaluation in the above system which are based on template matching approach: 1) Random classification of templates, 2) Similarity based classification of templates, 3) Weighting template words.",
+            "authors": [
+                "Tilani Gunawardena",
+                "Nishara Pathirana",
+                "Medhavi Lokuhetti",
+                "Roshan Ragel",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.7763/IJMLC.2015.V5.523",
+            "preprint": "#",
+            "pdf": "http://www.ijmlc.org/vol5/523-C013.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Evaluation technique",
+                "question answering",
+                "NLP",
+                "template matching",
+                "FAQ",
+                "answering system"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.7763/IJMLC.2015.V5.523/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.7763/IJMLC.2015.V5.523/index.json"
+        }
+    ],
     "reconfigurable architectures": [
         {
             "title": "Strategy to Design Formally Verified hardware/software implementation of Network Protocols on Reconfigurable Hardware",
@@ -12769,6 +14784,41 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1504/ijics.2022.121289/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1504/ijics.2022.121289/index.json"
+        }
+    ],
+    "template matching": [
+        {
+            "title": "Performance evaluation techniques for an automatic question answering system",
+            "venue": "International Journal of Machine Learning and Computing",
+            "year": "2015",
+            "abstract": "Automatic question answering (QA) is an interesting and challenging problem. Generally such problems are handled under two categories: open domain problems and close domain problems. Here the challenge is to understand the natural language question so that the solution could be matched to the respective answer in the database. In this paper we used a template matching technique to perform this matching. The first part of the paper discusses about an automatic question answering system that we have developed using template matching techniques. The approach adopted is an automated FAQ (Frequently Asked Question) answering system that provides pre-stored answers to user questions asked in ordinary English and SMS language. The system also has techniques to overcome spelling and grammar mistakes introduced in questions by its users and therefore user-friendly compared to restricted syntax based approaches. The second part of the paper studies three techniques for performance evaluation in the above system which are based on template matching approach: 1) Random classification of templates, 2) Similarity based classification of templates, 3) Weighting template words.",
+            "authors": [
+                "Tilani Gunawardena",
+                "Nishara Pathirana",
+                "Medhavi Lokuhetti",
+                "Roshan Ragel",
+                "Sampath Deegalla"
+            ],
+            "doi": "https://doi.org/10.7763/IJMLC.2015.V5.523",
+            "preprint": "#",
+            "pdf": "http://www.ijmlc.org/vol5/523-C013.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Evaluation technique",
+                "question answering",
+                "NLP",
+                "template matching",
+                "FAQ",
+                "answering system"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.7763/IJMLC.2015.V5.523/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.7763/IJMLC.2015.V5.523/index.json"
         }
     ],
     "umbrella clustering": [

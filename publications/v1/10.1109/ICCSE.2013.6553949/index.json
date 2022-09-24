@@ -1,0 +1,41 @@
+{
+    "title": "Fusion of Colour, Shape and Texture Features for Content Based Image Retrieval",
+    "venue": "8th International Conference on Computer Science and Education (ICCSE)",
+    "year": "2013",
+    "abstract": "Image retrieval in general and content based image retrieval in particular are well-known research fields in information management. A large number of methods have been proposed and investigated in both areas but satisfactory general solution have still no been developed. An image contains several types of visual information which are difficult to extract and combine manually by humans. In this paper, we propose a content based image retrieval system based on three major types of visual information: colour, texture and shape, and their distances to the origin in a three dimensional space for the retrieval. We experimentally investigated several feature extraction methods and learning algorithms for content based image retrieval. The results show that 5-Nearest Neighbour yield the highest accuracy for the chosen feature extraction methods.",
+    "authors": [
+        "Pratheep Anantharatnasamy",
+        "Kaavya Sriskandaraja",
+        "Vahissan Nandakumar",
+        "Sampath Deegalla"
+    ],
+    "author_info": [
+        {
+            "type": "STAFF",
+            "id": "sampath",
+            "name": "Mr. Sampath Deegalla",
+            "email": "sampath@eng.pdn.ac.lk",
+            "profile_image": "/images/staff/academic-staff/sampath-deegalla.jpg",
+            "profile_url": "/staff/academic/sampath-deegalla/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/ICCSE.2013.6553949",
+    "preprint_url": "#",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        ""
+    ],
+    "tags": [
+        "Accuracy",
+        "Classification algorithms",
+        "Computers",
+        "Arrays",
+        "Image edge detection"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICCSE.2013.6553949/",
+    "submitted": "2022/09/24 00:42:52"
+}

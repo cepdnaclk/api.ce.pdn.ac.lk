@@ -241,6 +241,39 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1145/3412382.3458269/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1145/3412382.3458269/index.json"
+        },
+        {
+            "title": "Objectively Measure Player Performance on Olympic Weightlifting",
+            "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2021",
+            "abstract": "In Olympic-style weightlifting athlete attempts to lift the weight plates on a barbell and scores are determined by a combination of the successful highest weight achieved in snatch and the clean-and-jerk actions. However, the current method does not objectively measure the player techniques. In this paper, we introduce a novel method to objectively measure player performance on weightlifting using human action recognition in videos. We introduce a method to assess player techniques in weightlifting by using skeleton-based human action recognition. In order to achieve our goal, we further introduce a new video dataset for action recognition in weightlifting which is annotated to frame level and introduce an automated scoring system through action recognition. We conclude our paper with qualitative and quantitative experimental results using non-Olympic players and 2016 Gold, Silver, and Bronze medalists in different weight categories (both men and women).",
+            "authors": [
+                "Anandi Karunaratne",
+                "Chamin Jayasooriya",
+                "Sampath Deegalla",
+                "Rajitha Navarathna"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9605963",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Weight measurement",
+                "Silver",
+                "Gold",
+                "Automation",
+                "Current measurement",
+                "Sustainable development",
+                "Videos"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9605963/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9605963/index.json"
         }
     ],
     "ESCAL: Computer Systems (Embedded Systems / Robotics )": [

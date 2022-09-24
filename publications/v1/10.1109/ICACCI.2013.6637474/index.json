@@ -1,0 +1,43 @@
+{
+    "title": "Personalized and adaptive user interface framework for mobile application",
+    "venue": "2013 International Conference on Advances in Computing, Communications and Informatics (ICACCI)",
+    "year": "2013",
+    "abstract": "User interfaces in mobile applications are complex since they need to provide sufficient features to variety of users in a restricted space where a small number of components are available. When user acquires expertise in the system they expect user interfaces which satisfy their unique needs. Therefore, user interfaces in mobile applications should be adapted to different users. Since this problem exists in various applications a general solution is required to make user interfaces adaptive using user context history. In this paper, we introduce a conceptual prototype framework for mobile applications to make the user interfaces adaptive to the user. This identifies a suitable experience level to a user by learning his/her history of interactions with applications and then displays adaptive user interfaces. A proof of concept application is implemented to inspect the behavior of framework. Further, a user study was conducted on the developed proof of concept application and user context data was stored. This data was used as the training data for the Inference engine. This framework introduces an abstract solution which can be used to adapt various user interfaces based on human computer interactions. We believe the suggested framework can be used in related adaptation for Web applications, desktop applications and other mobile platforms.",
+    "authors": [
+        "Mahasivam Nivethika",
+        "Ilanthalaisingam Vithiya",
+        "Sebastiankularatnam Anntharshika",
+        "Sampath Deegalla"
+    ],
+    "author_info": [
+        {
+            "type": "STAFF",
+            "id": "sampath",
+            "name": "Mr. Sampath Deegalla",
+            "email": "sampath@eng.pdn.ac.lk",
+            "profile_image": "/images/staff/academic-staff/sampath-deegalla.jpg",
+            "profile_url": "/staff/academic/sampath-deegalla/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/ICACCI.2013.6637474",
+    "preprint_url": "#",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        ""
+    ],
+    "tags": [
+        "User interfaces",
+        "Engines",
+        "Mobile communication",
+        "Context",
+        "Rendering (computer graphics)",
+        "Androids",
+        "Humanoid robots"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICACCI.2013.6637474/",
+    "submitted": "2022/09/24 00:44:53"
+}

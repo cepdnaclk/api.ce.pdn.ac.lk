@@ -1,0 +1,39 @@
+{
+    "title": "Feasibility of using machine learning to access control in Squid proxy server",
+    "venue": "2015 IEEE 10th International Conference on Industrial and Information Systems (ICIIS)",
+    "year": "2015",
+    "abstract": "Fast Internet connectivity and billions of web sites have made World Wide Web an attractive place for people to use the Internet in their day-to-day life. Educational institutes provide the Internet access to students mainly for educational purposes. However, most of the time, students are allowed to access any content on the web. Therefore, the full bandwidth is consumed due to access to non-educational content such as streaming non-educational videos and downloading large image files, etc. Prevention of Internet usage on non-education content is practically difficult due to various reasons. Usually, this is implemented in the proxy server through maintaining a blacklist of URLs. Most of the time, this is a static list of URLs. With the fast growing content on the World Wide Web maintaining a static blacklist is impractical. In this paper, we propose a methodology to generate dynamic blacklist of URLs using machine learning techniques. We experimentally investigate several machine learning algorithms to predict whether the URL in concern is educational or noneducational. The results of the initial experiments show that linear support vector machines can be used to predict the content with 98.9% accuracy.",
+    "authors": [
+        "Kanchana Ihalagedara",
+        "Rajitha Kithuldeniya",
+        "Supun Weerasekara",
+        "Sampath Deegalla"
+    ],
+    "author_info": [
+        {
+            "type": "STAFF",
+            "id": "sampath",
+            "name": "Mr. Sampath Deegalla",
+            "email": "sampath@eng.pdn.ac.lk",
+            "profile_image": "/images/staff/academic-staff/sampath-deegalla.jpg",
+            "profile_url": "/staff/academic/sampath-deegalla/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/ICIINFS.2015.7399061",
+    "preprint_url": "#",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        ""
+    ],
+    "tags": [
+        "Manuals",
+        "XML",
+        "Static VAr compensators"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2015.7399061/",
+    "submitted": "2022/09/24 00:59:33"
+}

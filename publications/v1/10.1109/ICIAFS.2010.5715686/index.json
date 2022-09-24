@@ -1,0 +1,52 @@
+{
+    "title": "An automatic answering system with template matching for natural language questions",
+    "venue": "2010 Fifth International Conference on Information and Automation for Sustainability",
+    "year": "2010",
+    "abstract": "Using computers to answer natural language questions is an interesting and challenging problem. Generally such problems are handled under two categories: open domain problems and close domain problems. This paper presents a system that attempts to solve close domain problems. Typically, in a close domain, answers to questions are not available in the public domain and therefore they cannot be searched using a search engine. Hence answers have to be stored in a database by a domain expert. Then, the challenge is to understand the natural language question so that the solution could be matched to the respective answer in the database. We use a template matching technique to perform this matching. In addition, given that our target is to use this system with non-native English speakers, we developed a method to overcome the mismatches we might encounter due to spelling mistakes. The system is developed such that the questions can be asked using short messages from a mobile phone and therefore the system is designed to understand SMS language in addition to English. One of the main contributions of this paper is the outcome presented of a deployment of this system in a real environment.",
+    "authors": [
+        "Tilani Gunawardena",
+        "Medhavi Lokuhetti",
+        "Nishara Pathirana",
+        "Roshan Ragel",
+        "Sampath Deegalla"
+    ],
+    "author_info": [
+        {
+            "type": "STAFF",
+            "id": "roshanr",
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "profile_image": "/images/staff/academic-staff/roshan-ragel.jpg",
+            "profile_url": "/staff/academic/roshan-ragel/"
+        },
+        {
+            "type": "STAFF",
+            "id": "sampath",
+            "name": "Mr. Sampath Deegalla",
+            "email": "sampath@eng.pdn.ac.lk",
+            "profile_image": "/images/staff/academic-staff/sampath-deegalla.jpg",
+            "profile_url": "/staff/academic/sampath-deegalla/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/ICIAFS.2010.5715686",
+    "preprint_url": "https://www.academia.edu/download/48742704/17.pdf",
+    "pdf_url": "#",
+    "presentation_url": "https://d1wqtxts1xzle7.cloudfront.net/48742704/17-libre.pdf?1473576218=&response-content-disposition=inline%3B+filename%3DAn_automatic_answering_system_with_templ.pdf&Expires=1663963105&Signature=f8AFZyE5hptWxajcAxQa-2whpQldQ4N75IcTG6sAuwMRWr8n0owYhyMGVzl~nyMC5I0NBcy8NOT46ftIow83kqV7Bt96R03KrQ211dRMFy3IY74dlMFZHmldzNQt9nUpwFKqqV4yBf3mL16VwQTioS63YL9dx6lMkQqWpCYVzu2Xgy87MBNZ5YMUG10kDsFFeGuqdf8uBJIsWci6P0v5HwHyQFO1EJ4buHsy6TG4NAfD4nXi7LA-ISPrqwrY-03JVOx3bHl9ThEiK-VWqoI1tuYDT0KZtatvQXT8XiMD9ACmlJcQ59sQmRfAgxMKdGknnEk-yf~qSXRndgEGjbVYLg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        ""
+    ],
+    "tags": [
+        "Databases",
+        "Syntactics",
+        "Natural languages",
+        "Computers",
+        "Artificial intelligence",
+        "Mobile handsets",
+        "Robots"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2010.5715686/",
+    "submitted": "2022/09/24 00:39:47"
+}

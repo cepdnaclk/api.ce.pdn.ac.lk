@@ -1,0 +1,53 @@
+{
+    "title": "Accelerating k-nn classification algorithm using graphics processing units",
+    "venue": "2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)",
+    "year": "2016",
+    "abstract": "k-Nearest Neighbor (k-NN) is a well-known classification algorithm used in many machine learning applications. When the input data size of k-NN algorithm increases, the execution time of the algorithm increases significantly. Therefore, this becomes a bottleneck for practical usage. Since k-NN algorithm is using searching, sorting and other parallelly executable tasks, we have implemented the k-NN algorithm on a GPU using CUDA utilizing the parallel tasks. The results were promising as expected and for 43,500 training records and 14,500 testing records with nine attributes, the GPU execution showed about a 100\u00c3\u0097 faster execution time compared to a CPU version.",
+    "authors": [
+        "S Selvaluxmiy",
+        "TN Kumara",
+        "P Keerthanan",
+        "R Velmakivan",
+        "R Ragel",
+        "S Deegalla"
+    ],
+    "author_info": [
+        {
+            "type": "STAFF",
+            "id": "roshanr",
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "profile_image": "/images/staff/academic-staff/roshan-ragel.jpg",
+            "profile_url": "/staff/academic/roshan-ragel/"
+        },
+        {
+            "type": "STAFF",
+            "id": "sampath",
+            "name": "Mr. Sampath Deegalla",
+            "email": "sampath@eng.pdn.ac.lk",
+            "profile_image": "/images/staff/academic-staff/sampath-deegalla.jpg",
+            "profile_url": "/staff/academic/sampath-deegalla/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/ICIAFS.2016.7946528",
+    "preprint_url": "#",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        ""
+    ],
+    "tags": [
+        "Graphics processing units",
+        "Message systems",
+        "Kernel",
+        "Training",
+        "Prediction algorithms",
+        "Machine learning algorithms",
+        "Testing"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2016.7946528/",
+    "submitted": "2022/09/24 01:01:43"
+}
