@@ -10,5 +10,60 @@
     "repo_url": "https://github.com/cepdnaclk/e18-co227-SnaT-Meal-Tracking-App-Group-A",
     "page_url": "https://cepdnaclk.github.io/e18-co227-SnaT-Meal-Tracking-App-Group-A",
     "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/SnaT-Meal-Tracking-App-Group-A/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+    "team": {
+        "E/18/128": {
+            "name": "Harihran Raveenthiran",
+            "email": "e18128@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/128",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18128.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/128/"
+        },
+        "E/18/013": {
+            "name": "Ravindran Abilash",
+            "email": "e18013@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/013",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18013.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/013/"
+        },
+        "E/18/366": {
+            "name": "Thulasiyan Yogeswaran",
+            "email": "e18366@eng.pdn.ac.lk",
+            "website": "https://sythulasi.herokuapp.com/",
+            "github": "https://github.com/SyThulasi",
+            "linkedin": "https://www.linkedin.com/in/thulasiyan-yogeswaran-5ba1221a4/",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/366",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18366.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/366/"
+        }
+    },
+    "supervisors": {
+        "nadeeshaa@eng.pdn.ac.lk": {
+            "name": "Mrs. Nadeesha Adikari",
+            "email": "nadeeshaa@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/nadeesha-adikari/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/nadeesha-adikari.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/nadeeshaa",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/nadeesha-adikari-48864961/",
+            "researchgate": "https://www.researchgate.net/profile/Nadeesha-Adikari",
+            "google_scholar": ""
+        }
+    },
+    "tags": [
+        "Mobile Application",
+        "Food",
+        "SnaT",
+        "Web",
+        "Course Page"
+    ]
 }
