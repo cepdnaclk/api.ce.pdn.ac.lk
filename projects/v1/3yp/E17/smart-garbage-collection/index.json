@@ -10,5 +10,69 @@
     "repo_url": "https://github.com/cepdnaclk/e17-3yp-smart-garbage-collection",
     "page_url": "https://cepdnaclk.github.io/e17-3yp-smart-garbage-collection",
     "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/smart-garbage-collection/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+    "team": {
+        "E/17/352": {
+            "name": "Tillekeratne L.J.I",
+            "email": "e17352@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/352",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17352.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/352/"
+        },
+        "E/17/398": {
+            "name": "Wijerathne I.D.H.S.D",
+            "email": "e17398@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/398",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17398.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/398/"
+        },
+        "E/17/148": {
+            "name": "Vidurangi Kalpana",
+            "email": "e17148@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/VidurangiKalpana",
+            "linkedin": "https://www.linkedin.com/in/vidurangi-kalpana-9079301b7/",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/148",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17148.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/148/"
+        }
+    },
+    "supervisors": {
+        "isurunawinne@eng.pdn.ac.lk": {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/isuru-nawinne/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+            "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+        },
+        "mahanamaw@eng.pdn.ac.lk": {
+            "name": "Dr. Mahanama Wickramasinghe",
+            "email": "mahanamaw@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/mahanama-wickramasinghe/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/mahanama-wickramasinghe.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/mahanamaw",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/mahanama",
+            "researchgate": "https://www.researchgate.net/profile/Mahanama-Wickramsinghe",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=kuoZpZEAAAAJ"
+        }
+    },
+    "tags": [
+        "Web",
+        "Embedded Systems",
+        "Automation"
+    ]
 }
