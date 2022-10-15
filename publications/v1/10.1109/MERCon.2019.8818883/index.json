@@ -1,0 +1,54 @@
+{
+    "title": "Power-Aware High-Level Synthesis Flow for Mapping FPGA Designs",
+    "venue": "2019 Moratuwa Engineering Research Conference (MERCon)",
+    "year": "2019",
+    "abstract": "Present Field Programmable Gate Array (FPGA) manufacturers incorporate multi-millions of logic resources which enables hardware designers to design applications extending to large scales. However, handling such applications by existing FPGA Computer Aided Design (CAD) flow requires more improvement in terms of area, performance and power efficiency considerations. The current CAD flow requires the input design to be in Register Transfer Level (RTL). RTL input designs limit the design productivity only to hardware experts in performing analysis for various optimisations. Optimising RTL designs manually are increasingly hard. High-Level Synthesis (HLS) is an approach capable of increasing the design productivity of hardware applications compared to commonly used Hardware Description Languages (HDLs) and is known to be an intelligent approach for performing optimisations at a higher level of abstraction. In this paper, an approach that follows the HLS flow to cater to the mapping of FPGA applications in a power efficient manner using a communication-aware partitioning strategy is proposed. From experiments, it was possible to achieve an average reduction of 8.39% routing thermal power and 3.34% total power using the proposed approach.",
+    "authors": [
+        "Udaree Kanewala",
+        "Kesara Gamlath",
+        "Hasindu Ramanayake",
+        "Kalindu Herath",
+        "Isuru Nawinne",
+        "Roshan Ragel"
+    ],
+    "author_info": [
+        {
+            "type": "STAFF",
+            "id": "isurunawinne",
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+            "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/isuru-nawinne/"
+        },
+        {
+            "type": "STAFF",
+            "id": "roshanr",
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/MERCon.2019.8818883",
+    "preprint_url": "#",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        "Accelerated and High-Performance Computing (FPGA / GPU)",
+        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+    ],
+    "tags": [
+        "Field programmable gate arrays",
+        "Power demand",
+        "Hardware",
+        "Optimization",
+        "Tools",
+        "Integrated circuit interconnections",
+        "Hardware design languages"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon.2019.8818883/",
+    "submitted": "2022/10/15 06:01:02"
+}

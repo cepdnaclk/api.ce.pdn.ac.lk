@@ -1,0 +1,69 @@
+{
+    "title": "Using Near-Infrared Spectroscopy for Vein Visualization",
+    "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+    "year": "2021",
+    "abstract": "Near-Infrared spectroscopy is used for better vein visualization to make the venipuncture process more efficient. There exist a few models that use the said mechanism. However, they are costly, have accuracy and availability issues, and are limited only to certain types of skin tones. Our objectives were to develop a low-cost mechanism of obtaining near-infrared spectroscopy by using the image-guided technique, low-cost hardware, optimized algorithms, and evaluate its efficiency and usefulness by a clinical trial.We have tested the prototype using different combinations of light sources with different intensities and have analyzed the results. To quantitatively analyze, we have compared the number of visible veins under high intensity and low intensity. The number of visible veins is either same or up to 5 veins higher when 18W is used compared to when an intensity of 60W is used. We have also observed that the darker skin tones that have zero visible veins at normal sight result up to 2-3 veins when the prototype is used. The number of veins increased from 1 to 5, when the device was used, on fairer skin as well. We plan to conduct a clinical trial and test the device on human subjects and get feedback from the end-users, and improve the prototype accordingly.",
+    "authors": [
+        "KTB Weerasinghe",
+        "SC Tennakoon",
+        "KNU Kularatne",
+        "I Nawinne",
+        "R Ragel",
+        "H Jayakody"
+    ],
+    "author_info": [
+        {
+            "type": "STUDENT",
+            "id": "E/15/383",
+            "name": "Keshara Weerasinghe",
+            "email": "e15383@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15383.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e15/383/"
+        },
+        {
+            "type": "STUDENT",
+            "id": "E/15/349",
+            "name": "Shamal Tennakoon",
+            "email": "shamal.ten@gmail.com",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15349.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e15/349/"
+        },
+        {
+            "type": "STUDENT",
+            "id": "E/15/188",
+            "name": "Nithya Kularatne",
+            "email": "e15188@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15188.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e15/188/"
+        },
+        {
+            "type": "STAFF",
+            "id": "roshanr",
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9606126",
+    "preprint_url": "#",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        ""
+    ],
+    "tags": [
+        "Visualization",
+        "Veins",
+        "Prototypes",
+        "Clinical trials",
+        "Skin",
+        "Real-time systems",
+        "Sustainable development"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606126/",
+    "submitted": "2022/10/15 06:08:09"
+}

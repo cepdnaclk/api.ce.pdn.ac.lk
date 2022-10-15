@@ -38,6 +38,42 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1186/s12859-020-03697-x/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1186/s12859-020-03697-x/index.json"
+        },
+        {
+            "title": "Power-Aware High-Level Synthesis Flow for Mapping FPGA Designs",
+            "venue": "2019 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2019",
+            "abstract": "Present Field Programmable Gate Array (FPGA) manufacturers incorporate multi-millions of logic resources which enables hardware designers to design applications extending to large scales. However, handling such applications by existing FPGA Computer Aided Design (CAD) flow requires more improvement in terms of area, performance and power efficiency considerations. The current CAD flow requires the input design to be in Register Transfer Level (RTL). RTL input designs limit the design productivity only to hardware experts in performing analysis for various optimisations. Optimising RTL designs manually are increasingly hard. High-Level Synthesis (HLS) is an approach capable of increasing the design productivity of hardware applications compared to commonly used Hardware Description Languages (HDLs) and is known to be an intelligent approach for performing optimisations at a higher level of abstraction. In this paper, an approach that follows the HLS flow to cater to the mapping of FPGA applications in a power efficient manner using a communication-aware partitioning strategy is proposed. From experiments, it was possible to achieve an average reduction of 8.39% routing thermal power and 3.34% total power using the proposed approach.",
+            "authors": [
+                "Udaree Kanewala",
+                "Kesara Gamlath",
+                "Hasindu Ramanayake",
+                "Kalindu Herath",
+                "Isuru Nawinne",
+                "Roshan Ragel"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon.2019.8818883",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Accelerated and High-Performance Computing (FPGA / GPU)",
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "Field programmable gate arrays",
+                "Power demand",
+                "Hardware",
+                "Optimization",
+                "Tools",
+                "Integrated circuit interconnections",
+                "Hardware design languages"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon.2019.8818883/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon.2019.8818883/index.json"
         }
     ],
     "Computational BioEngineering": [
@@ -509,6 +545,106 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/TCAD.2015.2445736/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/TCAD.2015.2445736/index.json"
+        },
+        {
+            "title": "Power-Aware High-Level Synthesis Flow for Mapping FPGA Designs",
+            "venue": "2019 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2019",
+            "abstract": "Present Field Programmable Gate Array (FPGA) manufacturers incorporate multi-millions of logic resources which enables hardware designers to design applications extending to large scales. However, handling such applications by existing FPGA Computer Aided Design (CAD) flow requires more improvement in terms of area, performance and power efficiency considerations. The current CAD flow requires the input design to be in Register Transfer Level (RTL). RTL input designs limit the design productivity only to hardware experts in performing analysis for various optimisations. Optimising RTL designs manually are increasingly hard. High-Level Synthesis (HLS) is an approach capable of increasing the design productivity of hardware applications compared to commonly used Hardware Description Languages (HDLs) and is known to be an intelligent approach for performing optimisations at a higher level of abstraction. In this paper, an approach that follows the HLS flow to cater to the mapping of FPGA applications in a power efficient manner using a communication-aware partitioning strategy is proposed. From experiments, it was possible to achieve an average reduction of 8.39% routing thermal power and 3.34% total power using the proposed approach.",
+            "authors": [
+                "Udaree Kanewala",
+                "Kesara Gamlath",
+                "Hasindu Ramanayake",
+                "Kalindu Herath",
+                "Isuru Nawinne",
+                "Roshan Ragel"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon.2019.8818883",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Accelerated and High-Performance Computing (FPGA / GPU)",
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "Field programmable gate arrays",
+                "Power demand",
+                "Hardware",
+                "Optimization",
+                "Tools",
+                "Integrated circuit interconnections",
+                "Hardware design languages"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon.2019.8818883/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon.2019.8818883/index.json"
+        },
+        {
+            "title": "An ensemble learning approach for electrocardiogram sensor based human emotion recognition",
+            "venue": "MDPI Sensors",
+            "year": "2019",
+            "abstract": "Recently, researchers in the area of biosensor based human emotion recognition have used different types of machine learning models for recognizing human emotions. However, most of them still lack the ability to recognize human emotions with higher classification accuracy incorporating a limited number of bio-sensors. In the domain of machine learning, ensemble learning methods have been successfully applied to solve different types of real-world machine learning problems which require improved classification accuracies. Emphasising on that, this research suggests an ensemble learning approach for developing a machine learning model that can recognize four major human emotions namely: anger; sadness; joy; and pleasure incorporating electrocardiogram (ECG) signals. As feature extraction methods, this analysis combines four ECG signal based techniques, namely: heart rate variability; empirical mode decomposition; with-in beat analysis; and frequency spectrum analysis. The first three feature extraction methods are well-known ECG based feature extraction techniques mentioned in the literature, and the fourth technique is a novel method proposed in this study. The machine learning procedure of this investigation evaluates the performance of a set of well-known ensemble learners for emotion classification and further improves the classification results using feature selection as a prior step to ensemble model training. Compared to the best performing single biosensor based model in the literature, the developed ensemble learner has the accuracy gain of 10.77%. Furthermore, the developed model outperforms most of the multiple biosensor based emotion recognition models with a significantly higher classification accuracy gain. ",
+            "authors": [
+                "Theekshana Dissanayake",
+                "Yasitha Rajapaksha",
+                "Roshan Ragel",
+                "Isuru Nawinne"
+            ],
+            "doi": "https://doi.org/10.3390/s19204495",
+            "preprint": "#",
+            "pdf": "https://www.mdpi.com/1424-8220/19/20/4495/pdf?version=1571300841",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "bio-signal processing",
+                "wearable computing",
+                "ensemble learning",
+                "electrocardiogram",
+                "machine learning"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/s19204495/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/s19204495/index.json"
+        },
+        {
+            "title": "A Programming Framework for Robot Swarms",
+            "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2020",
+            "abstract": "Swarm robotics is a well-evolved research area over the past couple of decades. In this paper, we introduce a framework for programming swarm robots in a novel approach based on behaviour categorization, pheromone communication, and state representation. The framework is packaged with a set of well defined and tested behaviours that are structured based on the level of interactions between robots. These behaviours can be combined and integrated into the user code when implementing new behaviours. Robots function in a user-defined state and perform actions attributed to that state. We have used a behaviour- based bottom-up design approach for designing these behaviours which eventually alleviate the debugging and implementation process. The efficacy of our work is validated using results obtained from a custom-built simulation platform. These results include tests involving an random movement behaviour, an object finding behaviour, and implementation of an aggregation behaviour.",
+            "authors": [
+                "Mahendra Dassanayaka",
+                "Tharuka Bandara",
+                "Nadun Adikari",
+                "Isuru Nawinne",
+                "Roshan Ragel"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185206",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "Programming",
+                "Robot kinematics",
+                "Robot sensing systems",
+                "Hardware",
+                "Libraries",
+                "Debugging"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185206/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185206/index.json"
         }
     ],
     "Machine Learning and Data Mining": [

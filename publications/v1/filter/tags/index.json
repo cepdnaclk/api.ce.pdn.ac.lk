@@ -1499,6 +1499,43 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICCSE.2013.6553949/index.json"
         }
     ],
+    "Clinical trials": [
+        {
+            "title": "Using Near-Infrared Spectroscopy for Vein Visualization",
+            "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2021",
+            "abstract": "Near-Infrared spectroscopy is used for better vein visualization to make the venipuncture process more efficient. There exist a few models that use the said mechanism. However, they are costly, have accuracy and availability issues, and are limited only to certain types of skin tones. Our objectives were to develop a low-cost mechanism of obtaining near-infrared spectroscopy by using the image-guided technique, low-cost hardware, optimized algorithms, and evaluate its efficiency and usefulness by a clinical trial.We have tested the prototype using different combinations of light sources with different intensities and have analyzed the results. To quantitatively analyze, we have compared the number of visible veins under high intensity and low intensity. The number of visible veins is either same or up to 5 veins higher when 18W is used compared to when an intensity of 60W is used. We have also observed that the darker skin tones that have zero visible veins at normal sight result up to 2-3 veins when the prototype is used. The number of veins increased from 1 to 5, when the device was used, on fairer skin as well. We plan to conduct a clinical trial and test the device on human subjects and get feedback from the end-users, and improve the prototype accordingly.",
+            "authors": [
+                "KTB Weerasinghe",
+                "SC Tennakoon",
+                "KNU Kularatne",
+                "I Nawinne",
+                "R Ragel",
+                "H Jayakody"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9606126",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Visualization",
+                "Veins",
+                "Prototypes",
+                "Clinical trials",
+                "Skin",
+                "Real-time systems",
+                "Sustainable development"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606126/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606126/index.json"
+        }
+    ],
     "Clocks": [
         {
             "title": "Constant time encryption as a countermeasure against remote cache timing attacks",
@@ -3322,6 +3359,41 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2014.7069609/index.json"
         }
     ],
+    "Debugging": [
+        {
+            "title": "A Programming Framework for Robot Swarms",
+            "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2020",
+            "abstract": "Swarm robotics is a well-evolved research area over the past couple of decades. In this paper, we introduce a framework for programming swarm robots in a novel approach based on behaviour categorization, pheromone communication, and state representation. The framework is packaged with a set of well defined and tested behaviours that are structured based on the level of interactions between robots. These behaviours can be combined and integrated into the user code when implementing new behaviours. Robots function in a user-defined state and perform actions attributed to that state. We have used a behaviour- based bottom-up design approach for designing these behaviours which eventually alleviate the debugging and implementation process. The efficacy of our work is validated using results obtained from a custom-built simulation platform. These results include tests involving an random movement behaviour, an object finding behaviour, and implementation of an aggregation behaviour.",
+            "authors": [
+                "Mahendra Dassanayaka",
+                "Tharuka Bandara",
+                "Nadun Adikari",
+                "Isuru Nawinne",
+                "Roshan Ragel"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185206",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "Programming",
+                "Robot kinematics",
+                "Robot sensing systems",
+                "Hardware",
+                "Libraries",
+                "Debugging"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185206/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185206/index.json"
+        }
+    ],
     "Denial-of-service attack": [
         {
             "title": "Control channel denial-of-service attack in SDN-based networks",
@@ -4276,6 +4348,42 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2013.6732061/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIInfS.2013.6732061/index.json"
+        },
+        {
+            "title": "Power-Aware High-Level Synthesis Flow for Mapping FPGA Designs",
+            "venue": "2019 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2019",
+            "abstract": "Present Field Programmable Gate Array (FPGA) manufacturers incorporate multi-millions of logic resources which enables hardware designers to design applications extending to large scales. However, handling such applications by existing FPGA Computer Aided Design (CAD) flow requires more improvement in terms of area, performance and power efficiency considerations. The current CAD flow requires the input design to be in Register Transfer Level (RTL). RTL input designs limit the design productivity only to hardware experts in performing analysis for various optimisations. Optimising RTL designs manually are increasingly hard. High-Level Synthesis (HLS) is an approach capable of increasing the design productivity of hardware applications compared to commonly used Hardware Description Languages (HDLs) and is known to be an intelligent approach for performing optimisations at a higher level of abstraction. In this paper, an approach that follows the HLS flow to cater to the mapping of FPGA applications in a power efficient manner using a communication-aware partitioning strategy is proposed. From experiments, it was possible to achieve an average reduction of 8.39% routing thermal power and 3.34% total power using the proposed approach.",
+            "authors": [
+                "Udaree Kanewala",
+                "Kesara Gamlath",
+                "Hasindu Ramanayake",
+                "Kalindu Herath",
+                "Isuru Nawinne",
+                "Roshan Ragel"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon.2019.8818883",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Accelerated and High-Performance Computing (FPGA / GPU)",
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "Field programmable gate arrays",
+                "Power demand",
+                "Hardware",
+                "Optimization",
+                "Tools",
+                "Integrated circuit interconnections",
+                "Hardware design languages"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon.2019.8818883/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon.2019.8818883/index.json"
         }
     ],
     "Floors": [
@@ -5394,6 +5502,113 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2012.6419893/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2012.6419893/index.json"
+        },
+        {
+            "title": "Power-Aware High-Level Synthesis Flow for Mapping FPGA Designs",
+            "venue": "2019 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2019",
+            "abstract": "Present Field Programmable Gate Array (FPGA) manufacturers incorporate multi-millions of logic resources which enables hardware designers to design applications extending to large scales. However, handling such applications by existing FPGA Computer Aided Design (CAD) flow requires more improvement in terms of area, performance and power efficiency considerations. The current CAD flow requires the input design to be in Register Transfer Level (RTL). RTL input designs limit the design productivity only to hardware experts in performing analysis for various optimisations. Optimising RTL designs manually are increasingly hard. High-Level Synthesis (HLS) is an approach capable of increasing the design productivity of hardware applications compared to commonly used Hardware Description Languages (HDLs) and is known to be an intelligent approach for performing optimisations at a higher level of abstraction. In this paper, an approach that follows the HLS flow to cater to the mapping of FPGA applications in a power efficient manner using a communication-aware partitioning strategy is proposed. From experiments, it was possible to achieve an average reduction of 8.39% routing thermal power and 3.34% total power using the proposed approach.",
+            "authors": [
+                "Udaree Kanewala",
+                "Kesara Gamlath",
+                "Hasindu Ramanayake",
+                "Kalindu Herath",
+                "Isuru Nawinne",
+                "Roshan Ragel"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon.2019.8818883",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Accelerated and High-Performance Computing (FPGA / GPU)",
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "Field programmable gate arrays",
+                "Power demand",
+                "Hardware",
+                "Optimization",
+                "Tools",
+                "Integrated circuit interconnections",
+                "Hardware design languages"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon.2019.8818883/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon.2019.8818883/index.json"
+        },
+        {
+            "title": "A Programming Framework for Robot Swarms",
+            "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2020",
+            "abstract": "Swarm robotics is a well-evolved research area over the past couple of decades. In this paper, we introduce a framework for programming swarm robots in a novel approach based on behaviour categorization, pheromone communication, and state representation. The framework is packaged with a set of well defined and tested behaviours that are structured based on the level of interactions between robots. These behaviours can be combined and integrated into the user code when implementing new behaviours. Robots function in a user-defined state and perform actions attributed to that state. We have used a behaviour- based bottom-up design approach for designing these behaviours which eventually alleviate the debugging and implementation process. The efficacy of our work is validated using results obtained from a custom-built simulation platform. These results include tests involving an random movement behaviour, an object finding behaviour, and implementation of an aggregation behaviour.",
+            "authors": [
+                "Mahendra Dassanayaka",
+                "Tharuka Bandara",
+                "Nadun Adikari",
+                "Isuru Nawinne",
+                "Roshan Ragel"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185206",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "Programming",
+                "Robot kinematics",
+                "Robot sensing systems",
+                "Hardware",
+                "Libraries",
+                "Debugging"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185206/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185206/index.json"
+        }
+    ],
+    "Hardware design languages": [
+        {
+            "title": "Power-Aware High-Level Synthesis Flow for Mapping FPGA Designs",
+            "venue": "2019 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2019",
+            "abstract": "Present Field Programmable Gate Array (FPGA) manufacturers incorporate multi-millions of logic resources which enables hardware designers to design applications extending to large scales. However, handling such applications by existing FPGA Computer Aided Design (CAD) flow requires more improvement in terms of area, performance and power efficiency considerations. The current CAD flow requires the input design to be in Register Transfer Level (RTL). RTL input designs limit the design productivity only to hardware experts in performing analysis for various optimisations. Optimising RTL designs manually are increasingly hard. High-Level Synthesis (HLS) is an approach capable of increasing the design productivity of hardware applications compared to commonly used Hardware Description Languages (HDLs) and is known to be an intelligent approach for performing optimisations at a higher level of abstraction. In this paper, an approach that follows the HLS flow to cater to the mapping of FPGA applications in a power efficient manner using a communication-aware partitioning strategy is proposed. From experiments, it was possible to achieve an average reduction of 8.39% routing thermal power and 3.34% total power using the proposed approach.",
+            "authors": [
+                "Udaree Kanewala",
+                "Kesara Gamlath",
+                "Hasindu Ramanayake",
+                "Kalindu Herath",
+                "Isuru Nawinne",
+                "Roshan Ragel"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon.2019.8818883",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Accelerated and High-Performance Computing (FPGA / GPU)",
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "Field programmable gate arrays",
+                "Power demand",
+                "Hardware",
+                "Optimization",
+                "Tools",
+                "Integrated circuit interconnections",
+                "Hardware design languages"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon.2019.8818883/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon.2019.8818883/index.json"
         }
     ],
     "Hardware validation": [
@@ -5976,6 +6191,44 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/VLSID.2013.154/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/VLSID.2013.154/index.json"
+        }
+    ],
+    "Integrated circuit interconnections": [
+        {
+            "title": "Power-Aware High-Level Synthesis Flow for Mapping FPGA Designs",
+            "venue": "2019 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2019",
+            "abstract": "Present Field Programmable Gate Array (FPGA) manufacturers incorporate multi-millions of logic resources which enables hardware designers to design applications extending to large scales. However, handling such applications by existing FPGA Computer Aided Design (CAD) flow requires more improvement in terms of area, performance and power efficiency considerations. The current CAD flow requires the input design to be in Register Transfer Level (RTL). RTL input designs limit the design productivity only to hardware experts in performing analysis for various optimisations. Optimising RTL designs manually are increasingly hard. High-Level Synthesis (HLS) is an approach capable of increasing the design productivity of hardware applications compared to commonly used Hardware Description Languages (HDLs) and is known to be an intelligent approach for performing optimisations at a higher level of abstraction. In this paper, an approach that follows the HLS flow to cater to the mapping of FPGA applications in a power efficient manner using a communication-aware partitioning strategy is proposed. From experiments, it was possible to achieve an average reduction of 8.39% routing thermal power and 3.34% total power using the proposed approach.",
+            "authors": [
+                "Udaree Kanewala",
+                "Kesara Gamlath",
+                "Hasindu Ramanayake",
+                "Kalindu Herath",
+                "Isuru Nawinne",
+                "Roshan Ragel"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon.2019.8818883",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Accelerated and High-Performance Computing (FPGA / GPU)",
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "Field programmable gate arrays",
+                "Power demand",
+                "Hardware",
+                "Optimization",
+                "Tools",
+                "Integrated circuit interconnections",
+                "Hardware design languages"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon.2019.8818883/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon.2019.8818883/index.json"
         }
     ],
     "Integrated circuit modeling": [
@@ -6894,6 +7147,41 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2014.7069609/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2014.7069609/index.json"
+        }
+    ],
+    "Libraries": [
+        {
+            "title": "A Programming Framework for Robot Swarms",
+            "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2020",
+            "abstract": "Swarm robotics is a well-evolved research area over the past couple of decades. In this paper, we introduce a framework for programming swarm robots in a novel approach based on behaviour categorization, pheromone communication, and state representation. The framework is packaged with a set of well defined and tested behaviours that are structured based on the level of interactions between robots. These behaviours can be combined and integrated into the user code when implementing new behaviours. Robots function in a user-defined state and perform actions attributed to that state. We have used a behaviour- based bottom-up design approach for designing these behaviours which eventually alleviate the debugging and implementation process. The efficacy of our work is validated using results obtained from a custom-built simulation platform. These results include tests involving an random movement behaviour, an object finding behaviour, and implementation of an aggregation behaviour.",
+            "authors": [
+                "Mahendra Dassanayaka",
+                "Tharuka Bandara",
+                "Nadun Adikari",
+                "Isuru Nawinne",
+                "Roshan Ragel"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185206",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "Programming",
+                "Robot kinematics",
+                "Robot sensing systems",
+                "Hardware",
+                "Libraries",
+                "Debugging"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185206/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185206/index.json"
         }
     ],
     "Linux": [
@@ -8554,6 +8842,42 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300374/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300374/index.json"
+        },
+        {
+            "title": "Power-Aware High-Level Synthesis Flow for Mapping FPGA Designs",
+            "venue": "2019 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2019",
+            "abstract": "Present Field Programmable Gate Array (FPGA) manufacturers incorporate multi-millions of logic resources which enables hardware designers to design applications extending to large scales. However, handling such applications by existing FPGA Computer Aided Design (CAD) flow requires more improvement in terms of area, performance and power efficiency considerations. The current CAD flow requires the input design to be in Register Transfer Level (RTL). RTL input designs limit the design productivity only to hardware experts in performing analysis for various optimisations. Optimising RTL designs manually are increasingly hard. High-Level Synthesis (HLS) is an approach capable of increasing the design productivity of hardware applications compared to commonly used Hardware Description Languages (HDLs) and is known to be an intelligent approach for performing optimisations at a higher level of abstraction. In this paper, an approach that follows the HLS flow to cater to the mapping of FPGA applications in a power efficient manner using a communication-aware partitioning strategy is proposed. From experiments, it was possible to achieve an average reduction of 8.39% routing thermal power and 3.34% total power using the proposed approach.",
+            "authors": [
+                "Udaree Kanewala",
+                "Kesara Gamlath",
+                "Hasindu Ramanayake",
+                "Kalindu Herath",
+                "Isuru Nawinne",
+                "Roshan Ragel"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon.2019.8818883",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Accelerated and High-Performance Computing (FPGA / GPU)",
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "Field programmable gate arrays",
+                "Power demand",
+                "Hardware",
+                "Optimization",
+                "Tools",
+                "Integrated circuit interconnections",
+                "Hardware design languages"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon.2019.8818883/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon.2019.8818883/index.json"
         }
     ],
     "Packaging": [
@@ -9310,6 +9634,42 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300374/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300374/index.json"
+        },
+        {
+            "title": "Power-Aware High-Level Synthesis Flow for Mapping FPGA Designs",
+            "venue": "2019 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2019",
+            "abstract": "Present Field Programmable Gate Array (FPGA) manufacturers incorporate multi-millions of logic resources which enables hardware designers to design applications extending to large scales. However, handling such applications by existing FPGA Computer Aided Design (CAD) flow requires more improvement in terms of area, performance and power efficiency considerations. The current CAD flow requires the input design to be in Register Transfer Level (RTL). RTL input designs limit the design productivity only to hardware experts in performing analysis for various optimisations. Optimising RTL designs manually are increasingly hard. High-Level Synthesis (HLS) is an approach capable of increasing the design productivity of hardware applications compared to commonly used Hardware Description Languages (HDLs) and is known to be an intelligent approach for performing optimisations at a higher level of abstraction. In this paper, an approach that follows the HLS flow to cater to the mapping of FPGA applications in a power efficient manner using a communication-aware partitioning strategy is proposed. From experiments, it was possible to achieve an average reduction of 8.39% routing thermal power and 3.34% total power using the proposed approach.",
+            "authors": [
+                "Udaree Kanewala",
+                "Kesara Gamlath",
+                "Hasindu Ramanayake",
+                "Kalindu Herath",
+                "Isuru Nawinne",
+                "Roshan Ragel"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon.2019.8818883",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Accelerated and High-Performance Computing (FPGA / GPU)",
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "Field programmable gate arrays",
+                "Power demand",
+                "Hardware",
+                "Optimization",
+                "Tools",
+                "Integrated circuit interconnections",
+                "Hardware design languages"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon.2019.8818883/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon.2019.8818883/index.json"
         }
     ],
     "Prediction algorithms": [
@@ -9587,6 +9947,39 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon.2018.8421896/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon.2018.8421896/index.json"
+        },
+        {
+            "title": "A Programming Framework for Robot Swarms",
+            "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2020",
+            "abstract": "Swarm robotics is a well-evolved research area over the past couple of decades. In this paper, we introduce a framework for programming swarm robots in a novel approach based on behaviour categorization, pheromone communication, and state representation. The framework is packaged with a set of well defined and tested behaviours that are structured based on the level of interactions between robots. These behaviours can be combined and integrated into the user code when implementing new behaviours. Robots function in a user-defined state and perform actions attributed to that state. We have used a behaviour- based bottom-up design approach for designing these behaviours which eventually alleviate the debugging and implementation process. The efficacy of our work is validated using results obtained from a custom-built simulation platform. These results include tests involving an random movement behaviour, an object finding behaviour, and implementation of an aggregation behaviour.",
+            "authors": [
+                "Mahendra Dassanayaka",
+                "Tharuka Bandara",
+                "Nadun Adikari",
+                "Isuru Nawinne",
+                "Roshan Ragel"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185206",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "Programming",
+                "Robot kinematics",
+                "Robot sensing systems",
+                "Hardware",
+                "Libraries",
+                "Debugging"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185206/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185206/index.json"
         }
     ],
     "Proteins": [
@@ -9887,6 +10280,41 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2011.6038093/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2011.6038093/index.json"
+        },
+        {
+            "title": "Using Near-Infrared Spectroscopy for Vein Visualization",
+            "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2021",
+            "abstract": "Near-Infrared spectroscopy is used for better vein visualization to make the venipuncture process more efficient. There exist a few models that use the said mechanism. However, they are costly, have accuracy and availability issues, and are limited only to certain types of skin tones. Our objectives were to develop a low-cost mechanism of obtaining near-infrared spectroscopy by using the image-guided technique, low-cost hardware, optimized algorithms, and evaluate its efficiency and usefulness by a clinical trial.We have tested the prototype using different combinations of light sources with different intensities and have analyzed the results. To quantitatively analyze, we have compared the number of visible veins under high intensity and low intensity. The number of visible veins is either same or up to 5 veins higher when 18W is used compared to when an intensity of 60W is used. We have also observed that the darker skin tones that have zero visible veins at normal sight result up to 2-3 veins when the prototype is used. The number of veins increased from 1 to 5, when the device was used, on fairer skin as well. We plan to conduct a clinical trial and test the device on human subjects and get feedback from the end-users, and improve the prototype accordingly.",
+            "authors": [
+                "KTB Weerasinghe",
+                "SC Tennakoon",
+                "KNU Kularatne",
+                "I Nawinne",
+                "R Ragel",
+                "H Jayakody"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9606126",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Visualization",
+                "Veins",
+                "Prototypes",
+                "Clinical trials",
+                "Skin",
+                "Real-time systems",
+                "Sustainable development"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606126/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606126/index.json"
         }
     ],
     "Public-key cryptography": [
@@ -10052,6 +10480,41 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753930/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC54489.2022.9753930/index.json"
+        },
+        {
+            "title": "Using Near-Infrared Spectroscopy for Vein Visualization",
+            "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2021",
+            "abstract": "Near-Infrared spectroscopy is used for better vein visualization to make the venipuncture process more efficient. There exist a few models that use the said mechanism. However, they are costly, have accuracy and availability issues, and are limited only to certain types of skin tones. Our objectives were to develop a low-cost mechanism of obtaining near-infrared spectroscopy by using the image-guided technique, low-cost hardware, optimized algorithms, and evaluate its efficiency and usefulness by a clinical trial.We have tested the prototype using different combinations of light sources with different intensities and have analyzed the results. To quantitatively analyze, we have compared the number of visible veins under high intensity and low intensity. The number of visible veins is either same or up to 5 veins higher when 18W is used compared to when an intensity of 60W is used. We have also observed that the darker skin tones that have zero visible veins at normal sight result up to 2-3 veins when the prototype is used. The number of veins increased from 1 to 5, when the device was used, on fairer skin as well. We plan to conduct a clinical trial and test the device on human subjects and get feedback from the end-users, and improve the prototype accordingly.",
+            "authors": [
+                "KTB Weerasinghe",
+                "SC Tennakoon",
+                "KNU Kularatne",
+                "I Nawinne",
+                "R Ragel",
+                "H Jayakody"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9606126",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Visualization",
+                "Veins",
+                "Prototypes",
+                "Clinical trials",
+                "Skin",
+                "Real-time systems",
+                "Sustainable development"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606126/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606126/index.json"
         }
     ],
     "Red blood cells": [
@@ -10370,6 +10833,76 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185373/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185373/index.json"
+        }
+    ],
+    "Robot kinematics": [
+        {
+            "title": "A Programming Framework for Robot Swarms",
+            "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2020",
+            "abstract": "Swarm robotics is a well-evolved research area over the past couple of decades. In this paper, we introduce a framework for programming swarm robots in a novel approach based on behaviour categorization, pheromone communication, and state representation. The framework is packaged with a set of well defined and tested behaviours that are structured based on the level of interactions between robots. These behaviours can be combined and integrated into the user code when implementing new behaviours. Robots function in a user-defined state and perform actions attributed to that state. We have used a behaviour- based bottom-up design approach for designing these behaviours which eventually alleviate the debugging and implementation process. The efficacy of our work is validated using results obtained from a custom-built simulation platform. These results include tests involving an random movement behaviour, an object finding behaviour, and implementation of an aggregation behaviour.",
+            "authors": [
+                "Mahendra Dassanayaka",
+                "Tharuka Bandara",
+                "Nadun Adikari",
+                "Isuru Nawinne",
+                "Roshan Ragel"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185206",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "Programming",
+                "Robot kinematics",
+                "Robot sensing systems",
+                "Hardware",
+                "Libraries",
+                "Debugging"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185206/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185206/index.json"
+        }
+    ],
+    "Robot sensing systems": [
+        {
+            "title": "A Programming Framework for Robot Swarms",
+            "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2020",
+            "abstract": "Swarm robotics is a well-evolved research area over the past couple of decades. In this paper, we introduce a framework for programming swarm robots in a novel approach based on behaviour categorization, pheromone communication, and state representation. The framework is packaged with a set of well defined and tested behaviours that are structured based on the level of interactions between robots. These behaviours can be combined and integrated into the user code when implementing new behaviours. Robots function in a user-defined state and perform actions attributed to that state. We have used a behaviour- based bottom-up design approach for designing these behaviours which eventually alleviate the debugging and implementation process. The efficacy of our work is validated using results obtained from a custom-built simulation platform. These results include tests involving an random movement behaviour, an object finding behaviour, and implementation of an aggregation behaviour.",
+            "authors": [
+                "Mahendra Dassanayaka",
+                "Tharuka Bandara",
+                "Nadun Adikari",
+                "Isuru Nawinne",
+                "Roshan Ragel"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185206",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "Programming",
+                "Robot kinematics",
+                "Robot sensing systems",
+                "Hardware",
+                "Libraries",
+                "Debugging"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185206/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185206/index.json"
         }
     ],
     "Robots": [
@@ -11232,6 +11765,43 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon.2018.8421896/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon.2018.8421896/index.json"
+        }
+    ],
+    "Skin": [
+        {
+            "title": "Using Near-Infrared Spectroscopy for Vein Visualization",
+            "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2021",
+            "abstract": "Near-Infrared spectroscopy is used for better vein visualization to make the venipuncture process more efficient. There exist a few models that use the said mechanism. However, they are costly, have accuracy and availability issues, and are limited only to certain types of skin tones. Our objectives were to develop a low-cost mechanism of obtaining near-infrared spectroscopy by using the image-guided technique, low-cost hardware, optimized algorithms, and evaluate its efficiency and usefulness by a clinical trial.We have tested the prototype using different combinations of light sources with different intensities and have analyzed the results. To quantitatively analyze, we have compared the number of visible veins under high intensity and low intensity. The number of visible veins is either same or up to 5 veins higher when 18W is used compared to when an intensity of 60W is used. We have also observed that the darker skin tones that have zero visible veins at normal sight result up to 2-3 veins when the prototype is used. The number of veins increased from 1 to 5, when the device was used, on fairer skin as well. We plan to conduct a clinical trial and test the device on human subjects and get feedback from the end-users, and improve the prototype accordingly.",
+            "authors": [
+                "KTB Weerasinghe",
+                "SC Tennakoon",
+                "KNU Kularatne",
+                "I Nawinne",
+                "R Ragel",
+                "H Jayakody"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9606126",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Visualization",
+                "Veins",
+                "Prototypes",
+                "Clinical trials",
+                "Skin",
+                "Real-time systems",
+                "Sustainable development"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606126/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606126/index.json"
         }
     ],
     "Sleep apnea": [
@@ -12176,6 +12746,41 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9605963/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9605963/index.json"
+        },
+        {
+            "title": "Using Near-Infrared Spectroscopy for Vein Visualization",
+            "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2021",
+            "abstract": "Near-Infrared spectroscopy is used for better vein visualization to make the venipuncture process more efficient. There exist a few models that use the said mechanism. However, they are costly, have accuracy and availability issues, and are limited only to certain types of skin tones. Our objectives were to develop a low-cost mechanism of obtaining near-infrared spectroscopy by using the image-guided technique, low-cost hardware, optimized algorithms, and evaluate its efficiency and usefulness by a clinical trial.We have tested the prototype using different combinations of light sources with different intensities and have analyzed the results. To quantitatively analyze, we have compared the number of visible veins under high intensity and low intensity. The number of visible veins is either same or up to 5 veins higher when 18W is used compared to when an intensity of 60W is used. We have also observed that the darker skin tones that have zero visible veins at normal sight result up to 2-3 veins when the prototype is used. The number of veins increased from 1 to 5, when the device was used, on fairer skin as well. We plan to conduct a clinical trial and test the device on human subjects and get feedback from the end-users, and improve the prototype accordingly.",
+            "authors": [
+                "KTB Weerasinghe",
+                "SC Tennakoon",
+                "KNU Kularatne",
+                "I Nawinne",
+                "R Ragel",
+                "H Jayakody"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9606126",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Visualization",
+                "Veins",
+                "Prototypes",
+                "Clinical trials",
+                "Skin",
+                "Real-time systems",
+                "Sustainable development"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606126/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606126/index.json"
         }
     ],
     "Switches": [
@@ -12658,6 +13263,44 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2016.7946548/index.json"
         }
     ],
+    "Tools": [
+        {
+            "title": "Power-Aware High-Level Synthesis Flow for Mapping FPGA Designs",
+            "venue": "2019 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2019",
+            "abstract": "Present Field Programmable Gate Array (FPGA) manufacturers incorporate multi-millions of logic resources which enables hardware designers to design applications extending to large scales. However, handling such applications by existing FPGA Computer Aided Design (CAD) flow requires more improvement in terms of area, performance and power efficiency considerations. The current CAD flow requires the input design to be in Register Transfer Level (RTL). RTL input designs limit the design productivity only to hardware experts in performing analysis for various optimisations. Optimising RTL designs manually are increasingly hard. High-Level Synthesis (HLS) is an approach capable of increasing the design productivity of hardware applications compared to commonly used Hardware Description Languages (HDLs) and is known to be an intelligent approach for performing optimisations at a higher level of abstraction. In this paper, an approach that follows the HLS flow to cater to the mapping of FPGA applications in a power efficient manner using a communication-aware partitioning strategy is proposed. From experiments, it was possible to achieve an average reduction of 8.39% routing thermal power and 3.34% total power using the proposed approach.",
+            "authors": [
+                "Udaree Kanewala",
+                "Kesara Gamlath",
+                "Hasindu Ramanayake",
+                "Kalindu Herath",
+                "Isuru Nawinne",
+                "Roshan Ragel"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon.2019.8818883",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Accelerated and High-Performance Computing (FPGA / GPU)",
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "Field programmable gate arrays",
+                "Power demand",
+                "Hardware",
+                "Optimization",
+                "Tools",
+                "Integrated circuit interconnections",
+                "Hardware design languages"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon.2019.8818883/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon.2019.8818883/index.json"
+        }
+    ],
     "Training": [
         {
             "title": "Accelerating k-nn classification algorithm using graphics processing units",
@@ -12900,6 +13543,43 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICACCI.2013.6637474/index.json"
         }
     ],
+    "Veins": [
+        {
+            "title": "Using Near-Infrared Spectroscopy for Vein Visualization",
+            "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2021",
+            "abstract": "Near-Infrared spectroscopy is used for better vein visualization to make the venipuncture process more efficient. There exist a few models that use the said mechanism. However, they are costly, have accuracy and availability issues, and are limited only to certain types of skin tones. Our objectives were to develop a low-cost mechanism of obtaining near-infrared spectroscopy by using the image-guided technique, low-cost hardware, optimized algorithms, and evaluate its efficiency and usefulness by a clinical trial.We have tested the prototype using different combinations of light sources with different intensities and have analyzed the results. To quantitatively analyze, we have compared the number of visible veins under high intensity and low intensity. The number of visible veins is either same or up to 5 veins higher when 18W is used compared to when an intensity of 60W is used. We have also observed that the darker skin tones that have zero visible veins at normal sight result up to 2-3 veins when the prototype is used. The number of veins increased from 1 to 5, when the device was used, on fairer skin as well. We plan to conduct a clinical trial and test the device on human subjects and get feedback from the end-users, and improve the prototype accordingly.",
+            "authors": [
+                "KTB Weerasinghe",
+                "SC Tennakoon",
+                "KNU Kularatne",
+                "I Nawinne",
+                "R Ragel",
+                "H Jayakody"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9606126",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Visualization",
+                "Veins",
+                "Prototypes",
+                "Clinical trials",
+                "Skin",
+                "Real-time systems",
+                "Sustainable development"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606126/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606126/index.json"
+        }
+    ],
     "Video processing": [
         {
             "title": "Non-contact Infant Sleep Apnea Detection",
@@ -13039,6 +13719,41 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon.2018.8421896/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon.2018.8421896/index.json"
+        },
+        {
+            "title": "Using Near-Infrared Spectroscopy for Vein Visualization",
+            "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2021",
+            "abstract": "Near-Infrared spectroscopy is used for better vein visualization to make the venipuncture process more efficient. There exist a few models that use the said mechanism. However, they are costly, have accuracy and availability issues, and are limited only to certain types of skin tones. Our objectives were to develop a low-cost mechanism of obtaining near-infrared spectroscopy by using the image-guided technique, low-cost hardware, optimized algorithms, and evaluate its efficiency and usefulness by a clinical trial.We have tested the prototype using different combinations of light sources with different intensities and have analyzed the results. To quantitatively analyze, we have compared the number of visible veins under high intensity and low intensity. The number of visible veins is either same or up to 5 veins higher when 18W is used compared to when an intensity of 60W is used. We have also observed that the darker skin tones that have zero visible veins at normal sight result up to 2-3 veins when the prototype is used. The number of veins increased from 1 to 5, when the device was used, on fairer skin as well. We plan to conduct a clinical trial and test the device on human subjects and get feedback from the end-users, and improve the prototype accordingly.",
+            "authors": [
+                "KTB Weerasinghe",
+                "SC Tennakoon",
+                "KNU Kularatne",
+                "I Nawinne",
+                "R Ragel",
+                "H Jayakody"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9606126",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Visualization",
+                "Veins",
+                "Prototypes",
+                "Clinical trials",
+                "Skin",
+                "Real-time systems",
+                "Sustainable development"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606126/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606126/index.json"
         }
     ],
     "WARP": [
@@ -13569,6 +14284,39 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1016/j.promfg.2019.02.060/index.json"
         }
     ],
+    "bio-signal processing": [
+        {
+            "title": "An ensemble learning approach for electrocardiogram sensor based human emotion recognition",
+            "venue": "MDPI Sensors",
+            "year": "2019",
+            "abstract": "Recently, researchers in the area of biosensor based human emotion recognition have used different types of machine learning models for recognizing human emotions. However, most of them still lack the ability to recognize human emotions with higher classification accuracy incorporating a limited number of bio-sensors. In the domain of machine learning, ensemble learning methods have been successfully applied to solve different types of real-world machine learning problems which require improved classification accuracies. Emphasising on that, this research suggests an ensemble learning approach for developing a machine learning model that can recognize four major human emotions namely: anger; sadness; joy; and pleasure incorporating electrocardiogram (ECG) signals. As feature extraction methods, this analysis combines four ECG signal based techniques, namely: heart rate variability; empirical mode decomposition; with-in beat analysis; and frequency spectrum analysis. The first three feature extraction methods are well-known ECG based feature extraction techniques mentioned in the literature, and the fourth technique is a novel method proposed in this study. The machine learning procedure of this investigation evaluates the performance of a set of well-known ensemble learners for emotion classification and further improves the classification results using feature selection as a prior step to ensemble model training. Compared to the best performing single biosensor based model in the literature, the developed ensemble learner has the accuracy gain of 10.77%. Furthermore, the developed model outperforms most of the multiple biosensor based emotion recognition models with a significantly higher classification accuracy gain. ",
+            "authors": [
+                "Theekshana Dissanayake",
+                "Yasitha Rajapaksha",
+                "Roshan Ragel",
+                "Isuru Nawinne"
+            ],
+            "doi": "https://doi.org/10.3390/s19204495",
+            "preprint": "#",
+            "pdf": "https://www.mdpi.com/1424-8220/19/20/4495/pdf?version=1571300841",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "bio-signal processing",
+                "wearable computing",
+                "ensemble learning",
+                "electrocardiogram",
+                "machine learning"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/s19204495/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/s19204495/index.json"
+        }
+    ],
     "blockchain": [
         {
             "title": "BAT\u00e2\u0080\u0094Block Analytics Tool Integrated with Blockchain Based IoT Platform",
@@ -13843,6 +14591,72 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1007/s10623-022-01028-0/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1007/s10623-022-01028-0/index.json"
+        }
+    ],
+    "electrocardiogram": [
+        {
+            "title": "An ensemble learning approach for electrocardiogram sensor based human emotion recognition",
+            "venue": "MDPI Sensors",
+            "year": "2019",
+            "abstract": "Recently, researchers in the area of biosensor based human emotion recognition have used different types of machine learning models for recognizing human emotions. However, most of them still lack the ability to recognize human emotions with higher classification accuracy incorporating a limited number of bio-sensors. In the domain of machine learning, ensemble learning methods have been successfully applied to solve different types of real-world machine learning problems which require improved classification accuracies. Emphasising on that, this research suggests an ensemble learning approach for developing a machine learning model that can recognize four major human emotions namely: anger; sadness; joy; and pleasure incorporating electrocardiogram (ECG) signals. As feature extraction methods, this analysis combines four ECG signal based techniques, namely: heart rate variability; empirical mode decomposition; with-in beat analysis; and frequency spectrum analysis. The first three feature extraction methods are well-known ECG based feature extraction techniques mentioned in the literature, and the fourth technique is a novel method proposed in this study. The machine learning procedure of this investigation evaluates the performance of a set of well-known ensemble learners for emotion classification and further improves the classification results using feature selection as a prior step to ensemble model training. Compared to the best performing single biosensor based model in the literature, the developed ensemble learner has the accuracy gain of 10.77%. Furthermore, the developed model outperforms most of the multiple biosensor based emotion recognition models with a significantly higher classification accuracy gain. ",
+            "authors": [
+                "Theekshana Dissanayake",
+                "Yasitha Rajapaksha",
+                "Roshan Ragel",
+                "Isuru Nawinne"
+            ],
+            "doi": "https://doi.org/10.3390/s19204495",
+            "preprint": "#",
+            "pdf": "https://www.mdpi.com/1424-8220/19/20/4495/pdf?version=1571300841",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "bio-signal processing",
+                "wearable computing",
+                "ensemble learning",
+                "electrocardiogram",
+                "machine learning"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/s19204495/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/s19204495/index.json"
+        }
+    ],
+    "ensemble learning": [
+        {
+            "title": "An ensemble learning approach for electrocardiogram sensor based human emotion recognition",
+            "venue": "MDPI Sensors",
+            "year": "2019",
+            "abstract": "Recently, researchers in the area of biosensor based human emotion recognition have used different types of machine learning models for recognizing human emotions. However, most of them still lack the ability to recognize human emotions with higher classification accuracy incorporating a limited number of bio-sensors. In the domain of machine learning, ensemble learning methods have been successfully applied to solve different types of real-world machine learning problems which require improved classification accuracies. Emphasising on that, this research suggests an ensemble learning approach for developing a machine learning model that can recognize four major human emotions namely: anger; sadness; joy; and pleasure incorporating electrocardiogram (ECG) signals. As feature extraction methods, this analysis combines four ECG signal based techniques, namely: heart rate variability; empirical mode decomposition; with-in beat analysis; and frequency spectrum analysis. The first three feature extraction methods are well-known ECG based feature extraction techniques mentioned in the literature, and the fourth technique is a novel method proposed in this study. The machine learning procedure of this investigation evaluates the performance of a set of well-known ensemble learners for emotion classification and further improves the classification results using feature selection as a prior step to ensemble model training. Compared to the best performing single biosensor based model in the literature, the developed ensemble learner has the accuracy gain of 10.77%. Furthermore, the developed model outperforms most of the multiple biosensor based emotion recognition models with a significantly higher classification accuracy gain. ",
+            "authors": [
+                "Theekshana Dissanayake",
+                "Yasitha Rajapaksha",
+                "Roshan Ragel",
+                "Isuru Nawinne"
+            ],
+            "doi": "https://doi.org/10.3390/s19204495",
+            "preprint": "#",
+            "pdf": "https://www.mdpi.com/1424-8220/19/20/4495/pdf?version=1571300841",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "bio-signal processing",
+                "wearable computing",
+                "ensemble learning",
+                "electrocardiogram",
+                "machine learning"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/s19204495/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/s19204495/index.json"
         }
     ],
     "f5c": [
@@ -14282,6 +15096,39 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1515/jmc-2019-0014/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1515/jmc-2019-0014/index.json"
+        }
+    ],
+    "machine learning": [
+        {
+            "title": "An ensemble learning approach for electrocardiogram sensor based human emotion recognition",
+            "venue": "MDPI Sensors",
+            "year": "2019",
+            "abstract": "Recently, researchers in the area of biosensor based human emotion recognition have used different types of machine learning models for recognizing human emotions. However, most of them still lack the ability to recognize human emotions with higher classification accuracy incorporating a limited number of bio-sensors. In the domain of machine learning, ensemble learning methods have been successfully applied to solve different types of real-world machine learning problems which require improved classification accuracies. Emphasising on that, this research suggests an ensemble learning approach for developing a machine learning model that can recognize four major human emotions namely: anger; sadness; joy; and pleasure incorporating electrocardiogram (ECG) signals. As feature extraction methods, this analysis combines four ECG signal based techniques, namely: heart rate variability; empirical mode decomposition; with-in beat analysis; and frequency spectrum analysis. The first three feature extraction methods are well-known ECG based feature extraction techniques mentioned in the literature, and the fourth technique is a novel method proposed in this study. The machine learning procedure of this investigation evaluates the performance of a set of well-known ensemble learners for emotion classification and further improves the classification results using feature selection as a prior step to ensemble model training. Compared to the best performing single biosensor based model in the literature, the developed ensemble learner has the accuracy gain of 10.77%. Furthermore, the developed model outperforms most of the multiple biosensor based emotion recognition models with a significantly higher classification accuracy gain. ",
+            "authors": [
+                "Theekshana Dissanayake",
+                "Yasitha Rajapaksha",
+                "Roshan Ragel",
+                "Isuru Nawinne"
+            ],
+            "doi": "https://doi.org/10.3390/s19204495",
+            "preprint": "#",
+            "pdf": "https://www.mdpi.com/1424-8220/19/20/4495/pdf?version=1571300841",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "bio-signal processing",
+                "wearable computing",
+                "ensemble learning",
+                "electrocardiogram",
+                "machine learning"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/s19204495/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/s19204495/index.json"
         }
     ],
     "model-based systems": [
@@ -14901,6 +15748,39 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1255/jsi.2019.a11/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1255/jsi.2019.a11/index.json"
+        }
+    ],
+    "wearable computing": [
+        {
+            "title": "An ensemble learning approach for electrocardiogram sensor based human emotion recognition",
+            "venue": "MDPI Sensors",
+            "year": "2019",
+            "abstract": "Recently, researchers in the area of biosensor based human emotion recognition have used different types of machine learning models for recognizing human emotions. However, most of them still lack the ability to recognize human emotions with higher classification accuracy incorporating a limited number of bio-sensors. In the domain of machine learning, ensemble learning methods have been successfully applied to solve different types of real-world machine learning problems which require improved classification accuracies. Emphasising on that, this research suggests an ensemble learning approach for developing a machine learning model that can recognize four major human emotions namely: anger; sadness; joy; and pleasure incorporating electrocardiogram (ECG) signals. As feature extraction methods, this analysis combines four ECG signal based techniques, namely: heart rate variability; empirical mode decomposition; with-in beat analysis; and frequency spectrum analysis. The first three feature extraction methods are well-known ECG based feature extraction techniques mentioned in the literature, and the fourth technique is a novel method proposed in this study. The machine learning procedure of this investigation evaluates the performance of a set of well-known ensemble learners for emotion classification and further improves the classification results using feature selection as a prior step to ensemble model training. Compared to the best performing single biosensor based model in the literature, the developed ensemble learner has the accuracy gain of 10.77%. Furthermore, the developed model outperforms most of the multiple biosensor based emotion recognition models with a significantly higher classification accuracy gain. ",
+            "authors": [
+                "Theekshana Dissanayake",
+                "Yasitha Rajapaksha",
+                "Roshan Ragel",
+                "Isuru Nawinne"
+            ],
+            "doi": "https://doi.org/10.3390/s19204495",
+            "preprint": "#",
+            "pdf": "https://www.mdpi.com/1424-8220/19/20/4495/pdf?version=1571300841",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "bio-signal processing",
+                "wearable computing",
+                "ensemble learning",
+                "electrocardiogram",
+                "machine learning"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/s19204495/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/s19204495/index.json"
         }
     ]
 }

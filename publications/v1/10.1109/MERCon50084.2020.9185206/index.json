@@ -1,0 +1,75 @@
+{
+    "title": "A Programming Framework for Robot Swarms",
+    "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+    "year": "2020",
+    "abstract": "Swarm robotics is a well-evolved research area over the past couple of decades. In this paper, we introduce a framework for programming swarm robots in a novel approach based on behaviour categorization, pheromone communication, and state representation. The framework is packaged with a set of well defined and tested behaviours that are structured based on the level of interactions between robots. These behaviours can be combined and integrated into the user code when implementing new behaviours. Robots function in a user-defined state and perform actions attributed to that state. We have used a behaviour- based bottom-up design approach for designing these behaviours which eventually alleviate the debugging and implementation process. The efficacy of our work is validated using results obtained from a custom-built simulation platform. These results include tests involving an random movement behaviour, an object finding behaviour, and implementation of an aggregation behaviour.",
+    "authors": [
+        "Mahendra Dassanayaka",
+        "Tharuka Bandara",
+        "Nadun Adikari",
+        "Isuru Nawinne",
+        "Roshan Ragel"
+    ],
+    "author_info": [
+        {
+            "type": "STUDENT",
+            "id": "E/14/065",
+            "name": "Mahendra Dassanayaka",
+            "email": "e14065@ce.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14065.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e14/065/"
+        },
+        {
+            "type": "STUDENT",
+            "id": "E/14/028",
+            "name": "Tharuka Bandara",
+            "email": "e14028@ce.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14028.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e14/028/"
+        },
+        {
+            "type": "STUDENT",
+            "id": "E/14/010",
+            "name": "Nadun Adikari",
+            "email": "e14010@ce.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14010.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e14/010/"
+        },
+        {
+            "type": "STAFF",
+            "id": "isurunawinne",
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+            "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/isuru-nawinne/"
+        },
+        {
+            "type": "STAFF",
+            "id": "roshanr",
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/MERCon50084.2020.9185206",
+    "preprint_url": "#",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+    ],
+    "tags": [
+        "Programming",
+        "Robot kinematics",
+        "Robot sensing systems",
+        "Hardware",
+        "Libraries",
+        "Debugging"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185206/",
+    "submitted": "2022/10/15 06:05:43"
+}
