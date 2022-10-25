@@ -7790,71 +7790,9 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Real-Time-Data-processing-and-AI-for-Distributed-IoT/",
         "repo_url": "https://github.com/cepdnaclk/e15-4yp-Real-Time-Data-processing-and-AI-for-Distributed-IoT",
-        "page_url": "https://cepdnaclk.github.io/e15-4yp-Real-Time-Data-processing-and-AI-for-Distributed-IoT",
+        "page_url": "#",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Real-Time-Data-processing-and-AI-for-Distributed-IoT/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-        "team": {
-            "E/15/246": {
-                "name": "Rajitha Opanayaka",
-                "email": "e15246@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/RajithaOpanayaka",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E15/246",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15246.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/246/"
-            },
-            "E/15/385": {
-                "name": "Amila Weerasinghe",
-                "email": "e15385@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/AmilaWeerasinghe",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E15/385",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15385.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/385/"
-            },
-            "E/15/363": {
-                "name": "Rashmi Thilakarathne",
-                "email": "r.i.thilakarathne@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/ireshe",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E15/363",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15363.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/363/"
-            }
-        },
-        "supervisors": {
-            "upuljm@eng.pdn.ac.lk": {
-                "name": "Dr. Upul Jayasinghe",
-                "email": "upuljm@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/upul/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/upuljm",
-                "website": "",
-                "linkedin": "https://www.linkedin.com/in/upuljm/",
-                "researchgate": "https://www.researchgate.net/profile/Upul-Jayasinghe",
-                "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
-            },
-            "damayanthiherath@eng.pdn.ac.lk": {
-                "name": "Dr. Damayanthi Herath",
-                "email": "damayanthiherath@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/damayanthi-herath/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/damayanthiherath",
-                "website": "https://damayanthiherath.wordpress.com/",
-                "linkedin": "https://www.linkedin.com/in/damayanthi-herath/",
-                "researchgate": "https://www.researchgate.net/profile/Damayanthi-Herath",
-                "google_scholar": "https://scholar.google.com/citations?user=G2jUV5IAAAAJ&hl=en"
-            }
-        },
-        "tags": [
-            "Final Year Projects"
-        ]
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
     },
     "e15-4yp-Real-Time-Emotion-Recognition-using-Electrocardiogram-Analysis": {
         "title": "Real Time Emotion Recognition using Electrocardiogram Analysis",
@@ -8771,6 +8709,20 @@
         "team": {},
         "supervisors": {}
     },
+    "e17-co326-car-rental-system": {
+        "title": "car rental system",
+        "description": "Relational database with user interfaces for a car rental company",
+        "category": {
+            "title": "Industrial Automation Projects (CO326)",
+            "code": "co326",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co326/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co326/e17/car-rental-system/",
+        "repo_url": "https://github.com/cepdnaclk/e17-co326-car-rental-system",
+        "page_url": "#",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co326/E17/car-rental-system/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
+    },
     "e17-co328-Analysis-Tool-for-Industrial-Images": {
         "title": "Analysis Tool for Industrial Images",
         "description": "An analysis tool for increasing the performance of an injection mold maintenance device which uses image processing techniques to identify stuck plastic particles on molds. ",
@@ -9369,8 +9321,8 @@
                 "name": "Arshad MRM",
                 "email": "e17015@eng.pdn.ac.lk",
                 "website": "",
-                "github": "",
-                "linkedin": "",
+                "github": "https://github.com/Arshad-MRM",
+                "linkedin": "http://www.linkedin.com/in/arshadme98/",
                 "researchgate": "",
                 "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/015",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17015.jpg",
@@ -10466,8 +10418,8 @@
                 "name": "Dharmarathna N.S.",
                 "email": "e18077@eng.pdn.ac.lk",
                 "website": "",
-                "github": "",
-                "linkedin": "",
+                "github": "https://github.com/NipunDharmarathne",
+                "linkedin": "https://lk.linkedin.com/in/nipun-dharmarathne-92a9191ba",
                 "researchgate": "",
                 "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/077",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18077.jpg",
