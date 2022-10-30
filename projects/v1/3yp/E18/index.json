@@ -1,4 +1,43 @@
 {
+    "e18-3yp-Road-Traffic-Ecosystem": {
+        "title": "Road Traffic Ecosystem",
+        "description": "Road Traffic Ecosystem",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Road-Traffic-Ecosystem/",
+        "repo_url": "https://github.com/cepdnaclk/e18-3yp-Road-Traffic-Ecosystem",
+        "page_url": "https://cepdnaclk.github.io/e18-3yp-Road-Traffic-Ecosystem",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Road-Traffic-Ecosystem/"
+    },
+    "e18-3yp-Smart-Access-Control-System": {
+        "title": "Smart Access Control System",
+        "description": "",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Smart-Access-Control-System/",
+        "repo_url": "https://github.com/cepdnaclk/e18-3yp-Smart-Access-Control-System",
+        "page_url": "#",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Access-Control-System/"
+    },
+    "e18-3yp-Smart-Gate-Keeping-and-Authentication-System": {
+        "title": "Smart Gate Keeping and Authentication System",
+        "description": "Smart Gate Keeping and Authentication System",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Smart-Gate-Keeping-and-Authentication-System/",
+        "repo_url": "https://github.com/cepdnaclk/e18-3yp-Smart-Gate-Keeping-and-Authentication-System",
+        "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Gate-Keeping-and-Authentication-System",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Gate-Keeping-and-Authentication-System/"
+    },
     "e18-3yp-non-invaisve-glucose-meter": {
         "title": "non invaisve glucose meter",
         "description": "This project contains an embedded system designed to monitor blood glucose levels non-invasively.",
@@ -12,6 +51,19 @@
         "page_url": "#",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/non-invaisve-glucose-meter/"
     },
+    "e18-3yp-road-accident-detection-and-notification-system": {
+        "title": "road accident detection and notification system",
+        "description": "",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/road-accident-detection-and-notification-system/",
+        "repo_url": "https://github.com/cepdnaclk/e18-3yp-road-accident-detection-and-notification-system",
+        "page_url": "https://cepdnaclk.github.io/e18-3yp-road-accident-detection-and-notification-system",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/road-accident-detection-and-notification-system/"
+    },
     "e18-3yp-smart-pet-collar": {
         "title": "smart pet collar",
         "description": "",
@@ -24,5 +76,31 @@
         "repo_url": "https://github.com/cepdnaclk/e18-3yp-smart-pet-collar",
         "page_url": "#",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/smart-pet-collar/"
+    },
+    "e18-3yp-smart-polling-booth": {
+        "title": "smart polling booth",
+        "description": "Smart polling booth",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/smart-polling-booth/",
+        "repo_url": "https://github.com/cepdnaclk/e18-3yp-smart-polling-booth",
+        "page_url": "https://cepdnaclk.github.io/e18-3yp-smart-polling-booth",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/smart-polling-booth/"
+    },
+    "e18-3yp-smart-safety-helmet": {
+        "title": "smart safety helmet",
+        "description": "Smart safety helmet for large scale construction sites",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/smart-safety-helmet/",
+        "repo_url": "https://github.com/cepdnaclk/e18-3yp-smart-safety-helmet",
+        "page_url": "https://cepdnaclk.github.io/e18-3yp-smart-safety-helmet",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/smart-safety-helmet/"
     }
 }
