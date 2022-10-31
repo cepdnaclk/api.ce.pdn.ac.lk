@@ -1,49 +1,49 @@
 {
-    "title": "smart polling booth",
-    "description": "Smart polling booth",
+    "title": "weather analytics and travel path guider",
+    "description": "",
     "category": {
         "title": "Cyber-Physical Systems Projects",
         "code": "3yp",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/"
     },
-    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/smart-polling-booth/",
-    "repo_url": "https://github.com/cepdnaclk/e18-3yp-smart-polling-booth",
-    "page_url": "https://cepdnaclk.github.io/e18-3yp-smart-polling-booth",
-    "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/smart-polling-booth/",
+    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/weather-analytics-and-travel-path-guider/",
+    "repo_url": "https://github.com/cepdnaclk/e18-3yp-weather-analytics-and-travel-path-guider",
+    "page_url": "https://cepdnaclk.github.io/e18-3yp-weather-analytics-and-travel-path-guider",
+    "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/weather-analytics-and-travel-path-guider/",
     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
     "team": {
-        "E/18/073": {
-            "name": "Tharindu Dhananjaya",
-            "email": "e18073@eng.pdn.ac.lk",
+        "E/18/098": {
+            "name": "Ishan Fernando",
+            "email": "e18098@eng.pdn.ac.lk",
             "website": "",
-            "github": "",
+            "github": "https://github.com/ishanfdo18098",
             "linkedin": "",
             "researchgate": "",
-            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/073",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18073.jpg",
-            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/073/"
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/098",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18098.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/098/"
         },
-        "E/18/214": {
-            "name": "Kushan Manahara",
-            "email": "e18214@eng.pdn.ac.lk",
+        "E/18/100": {
+            "name": "Adeepa Fernando",
+            "email": "e18100@eng.pdn.ac.lk",
             "website": "",
-            "github": "https://github.com/KushanManahara",
-            "linkedin": "http://www.linkedin.com/in/kushan-manahara",
-            "researchgate": "https://www.researchgate.net/profile/Kushan-Manahara",
-            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/214",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18214.jpg",
-            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/214/"
-        },
-        "E/18/323": {
-            "name": "Hirushi Devindi",
-            "email": "e18323@eng.pdn.ac.lk",
-            "website": "",
-            "github": "",
+            "github": "https://github.com/NipunFernando",
             "linkedin": "",
             "researchgate": "",
-            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/323",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18323.jpg",
-            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/323/"
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/100",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18100.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/100/"
+        },
+        "E/18/155": {
+            "name": "Ridma Jayasundara",
+            "email": "e18155@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/ridmajayasundara",
+            "linkedin": "https://www.linkedin.com/in/ridma-jayasundara-9471b8213",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/155",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18155.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/155/"
         }
     },
     "supervisors": {
@@ -72,6 +72,8 @@
     },
     "tags": [
         "Web",
-        "Embedded Systems"
+        "Embedded Systems",
+        "IoT",
+        "Weather Data"
     ]
 }

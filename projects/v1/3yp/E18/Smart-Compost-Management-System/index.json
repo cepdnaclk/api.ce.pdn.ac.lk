@@ -1,49 +1,49 @@
 {
-    "title": "smart polling booth",
-    "description": "Smart polling booth",
+    "title": "Smart Compost Management System",
+    "description": "A smart composting system that monitors and manages compost.",
     "category": {
         "title": "Cyber-Physical Systems Projects",
         "code": "3yp",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/"
     },
-    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/smart-polling-booth/",
-    "repo_url": "https://github.com/cepdnaclk/e18-3yp-smart-polling-booth",
-    "page_url": "https://cepdnaclk.github.io/e18-3yp-smart-polling-booth",
-    "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/smart-polling-booth/",
+    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Smart-Compost-Management-System/",
+    "repo_url": "https://github.com/cepdnaclk/e18-3yp-Smart-Compost-Management-System",
+    "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Compost-Management-System",
+    "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Compost-Management-System/",
     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
     "team": {
-        "E/18/073": {
-            "name": "Tharindu Dhananjaya",
-            "email": "e18073@eng.pdn.ac.lk",
+        "E/18/077": {
+            "name": "Dharmarathna N.S.",
+            "email": "e18077@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/NipunDharmarathne",
+            "linkedin": "https://lk.linkedin.com/in/nipun-dharmarathne-92a9191ba",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/077",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18077.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/077/"
+        },
+        "E/18/224": {
+            "name": "Mihiranga G.D.R.",
+            "email": "e18224@eng.pdn.ac.lk",
             "website": "",
             "github": "",
             "linkedin": "",
             "researchgate": "",
-            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/073",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18073.jpg",
-            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/073/"
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/224",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18224.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/224/"
         },
-        "E/18/214": {
-            "name": "Kushan Manahara",
-            "email": "e18214@eng.pdn.ac.lk",
-            "website": "",
-            "github": "https://github.com/KushanManahara",
-            "linkedin": "http://www.linkedin.com/in/kushan-manahara",
-            "researchgate": "https://www.researchgate.net/profile/Kushan-Manahara",
-            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/214",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18214.jpg",
-            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/214/"
-        },
-        "E/18/323": {
-            "name": "Hirushi Devindi",
-            "email": "e18323@eng.pdn.ac.lk",
+        "E/18/227": {
+            "name": "Mudalige D.H.",
+            "email": "e18227@eng.pdn.ac.lk",
             "website": "",
             "github": "",
             "linkedin": "",
             "researchgate": "",
-            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/323",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18323.jpg",
-            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/323/"
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/227",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/227/"
         }
     },
     "supervisors": {
