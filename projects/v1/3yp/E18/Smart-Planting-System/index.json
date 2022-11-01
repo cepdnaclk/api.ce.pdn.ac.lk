@@ -1,49 +1,38 @@
 {
-    "title": "automated poultry farming",
-    "description": "This is about our automated poultry feeding system which mimics the roll of real life poultry farmer",
+    "title": "Smart Planting System",
+    "description": "A smart indoor pot for planting and managing the plant.",
     "category": {
         "title": "Cyber-Physical Systems Projects",
         "code": "3yp",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/"
     },
-    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/automated-poultry-farming/",
-    "repo_url": "https://github.com/cepdnaclk/e18-3yp-automated-poultry-farming",
-    "page_url": "https://cepdnaclk.github.io/e18-3yp-automated-poultry-farming",
-    "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/automated-poultry-farming/",
+    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Smart-Planting-System/",
+    "repo_url": "https://github.com/cepdnaclk/e18-3yp-Smart-Planting-System",
+    "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Planting-System",
+    "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Planting-System/",
     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
     "team": {
-        "E/18/017": {
-            "name": "Aarah J.F.",
-            "email": "e18017@eng.pdn.ac.lk",
-            "website": "",
-            "github": "",
-            "linkedin": "",
+        "E/18/349": {
+            "name": "Anushanga Pavith",
+            "email": "e18349@eng.pdn.ac.lk",
+            "website": "https://bit.ly/anushangapavith",
+            "github": "https://github.com/AnushangaPavith",
+            "linkedin": "www.linkedin.com/in/anushanga-pavith-72764a19b",
             "researchgate": "",
-            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/017",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18017.jpg",
-            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/017/"
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/349",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18349.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/349/"
         },
-        "E/18/177": {
-            "name": "Khan A.K.M.S.",
-            "email": "e18177@eng.pdn.ac.lk",
+        "E/18/327": {
+            "name": "Chamara Dilshan",
+            "email": "e18327@eng.pdn.ac.lk",
             "website": "",
-            "github": "",
-            "linkedin": "",
+            "github": "https://github.com/ChamaraDilshan",
+            "linkedin": "https://www.linkedin.com/in/chamara-dilshan-senevirathna-062170216",
             "researchgate": "",
-            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/177",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18177.jpg",
-            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/177/"
-        },
-        "E/18/304": {
-            "name": "Rishad N.M.",
-            "email": "e18304@eng.pdn.ac.lk",
-            "website": "",
-            "github": "https://github.com/RishadMohamed",
-            "linkedin": "",
-            "researchgate": "",
-            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/304",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18304.jpg",
-            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/304/"
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/327",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18327.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/327/"
         }
     },
     "supervisors": {
@@ -73,7 +62,7 @@
     "tags": [
         "Web",
         "Embedded Systems",
-        "Cloud",
-        "Mobile Application"
+        "Mobile app",
+        "Plants"
     ]
 }

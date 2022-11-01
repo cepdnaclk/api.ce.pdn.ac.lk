@@ -1,49 +1,49 @@
 {
-    "title": "automated poultry farming",
-    "description": "This is about our automated poultry feeding system which mimics the roll of real life poultry farmer",
+    "title": "Road Accident Detection And Notification System",
+    "description": "",
     "category": {
         "title": "Cyber-Physical Systems Projects",
         "code": "3yp",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/"
     },
-    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/automated-poultry-farming/",
-    "repo_url": "https://github.com/cepdnaclk/e18-3yp-automated-poultry-farming",
-    "page_url": "https://cepdnaclk.github.io/e18-3yp-automated-poultry-farming",
-    "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/automated-poultry-farming/",
+    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Road-Accident-Detection-And-Notification-System/",
+    "repo_url": "https://github.com/cepdnaclk/e18-3yp-Road-Accident-Detection-And-Notification-System",
+    "page_url": "https://cepdnaclk.github.io/e18-3yp-Road-Accident-Detection-And-Notification-System",
+    "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Road-Accident-Detection-And-Notification-System/",
     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
     "team": {
-        "E/18/017": {
-            "name": "Aarah J.F.",
-            "email": "e18017@eng.pdn.ac.lk",
+        "E/18/203": {
+            "name": "Shehan Madhusanka",
+            "email": "e18203@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/sheiiz",
+            "linkedin": "https://www.linkedin.com/in/shehan-madhusanka-b7663b229",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/203",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18203.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/203/"
+        },
+        "E/18/264": {
+            "name": "Madhushan Nanayakkara",
+            "email": "e18264@eng.pdn.ac.lk",
             "website": "",
             "github": "",
             "linkedin": "",
             "researchgate": "",
-            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/017",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18017.jpg",
-            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/017/"
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/264",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18264.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/264/"
         },
-        "E/18/177": {
-            "name": "Khan A.K.M.S.",
-            "email": "e18177@eng.pdn.ac.lk",
+        "E/18/375": {
+            "name": "Akitha Pathirana",
+            "email": "e18375@eng.pdn.ac.lk",
             "website": "",
             "github": "",
             "linkedin": "",
             "researchgate": "",
-            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/177",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18177.jpg",
-            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/177/"
-        },
-        "E/18/304": {
-            "name": "Rishad N.M.",
-            "email": "e18304@eng.pdn.ac.lk",
-            "website": "",
-            "github": "https://github.com/RishadMohamed",
-            "linkedin": "",
-            "researchgate": "",
-            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/304",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18304.jpg",
-            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/304/"
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/375",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18375.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/375/"
         }
     },
     "supervisors": {
@@ -72,8 +72,6 @@
     },
     "tags": [
         "Web",
-        "Embedded Systems",
-        "Cloud",
-        "Mobile Application"
+        "Embedded Systems"
     ]
 }
