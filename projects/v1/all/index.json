@@ -3289,6 +3289,17 @@
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Planting-System/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
         "team": {
+            "E/18/154": {
+                "name": "Chamudi Jayasumana",
+                "email": "e18154@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/154",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18154.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/154/"
+            },
             "E/18/349": {
                 "name": "Anushanga Pavith",
                 "email": "e18349@eng.pdn.ac.lk",
@@ -3434,40 +3445,54 @@
         "repo_url": "https://github.com/cepdnaclk/e18-3yp-automated-poultry-farming",
         "page_url": "https://cepdnaclk.github.io/e18-3yp-automated-poultry-farming",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/automated-poultry-farming/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg"
+    },
+    "e18-3yp-non-invaisve-glucose-meter": {
+        "title": "non invaisve glucose meter",
+        "description": "This project contains an embedded system designed to monitor blood glucose levels non-invasively.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/non-invaisve-glucose-meter/",
+        "repo_url": "https://github.com/cepdnaclk/e18-3yp-non-invaisve-glucose-meter",
+        "page_url": "https://cepdnaclk.github.io/e18-3yp-non-invaisve-glucose-meter",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/non-invaisve-glucose-meter/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
         "team": {
-            "E/18/017": {
-                "name": "Aarah J.F.",
-                "email": "e18017@eng.pdn.ac.lk",
+            "E/18/170": {
+                "name": "Karunarathna W.K.",
+                "email": "e18170@eng.pdn.ac.lk",
                 "website": "",
                 "github": "",
                 "linkedin": "",
                 "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/017",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18017.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/017/"
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/170",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18170.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/170/"
             },
-            "E/18/177": {
-                "name": "Khan A.K.M.S.",
-                "email": "e18177@eng.pdn.ac.lk",
+            "E/18/282": {
+                "name": "Ranasinghe R.A.N.S.",
+                "email": "e18282@eng.pdn.ac.lk",
                 "website": "",
                 "github": "",
                 "linkedin": "",
                 "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/177",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18177.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/177/"
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/282",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18282.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/282/"
             },
-            "E/18/304": {
-                "name": "Rishad N.M.",
-                "email": "e18304@eng.pdn.ac.lk",
+            "E/18/382": {
+                "name": "Weerarathne L.D.",
+                "email": "e18382@eng.pdn.ac.lk",
                 "website": "",
-                "github": "https://github.com/RishadMohamed",
+                "github": "",
                 "linkedin": "",
                 "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/304",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18304.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/304/"
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/382",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18382.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/382/"
             }
         },
         "supervisors": {
@@ -3497,28 +3522,9 @@
         "tags": [
             "Web",
             "Embedded Systems",
-            "Cloud",
-            "Mobile Application"
-        ]
-    },
-    "e18-3yp-non-invaisve-glucose-meter": {
-        "title": "non invaisve glucose meter",
-        "description": "This project contains an embedded system designed to monitor blood glucose levels non-invasively.",
-        "category": {
-            "title": "Cyber-Physical Systems Projects",
-            "code": "3yp",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/non-invaisve-glucose-meter/",
-        "repo_url": "https://github.com/cepdnaclk/e18-3yp-non-invaisve-glucose-meter",
-        "page_url": "https://cepdnaclk.github.io/e18-3yp-non-invaisve-glucose-meter",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/non-invaisve-glucose-meter/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-        "team": {},
-        "supervisors": {},
-        "tags": [
-            "Web",
-            "Embedded Systems"
+            "Mobile",
+            "Glucometer",
+            "Non-Invasive"
         ]
     },
     "e18-3yp-smart-glove": {
