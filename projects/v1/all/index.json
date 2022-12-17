@@ -3700,73 +3700,7 @@
         "repo_url": "https://github.com/cepdnaclk/e18-3yp-non-invaisve-glucose-meter",
         "page_url": "https://cepdnaclk.github.io/e18-3yp-non-invaisve-glucose-meter",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/non-invaisve-glucose-meter/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-        "team": {
-            "E/18/170": {
-                "name": "Karunarathna W.K.",
-                "email": "e18170@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/170",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18170.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/170/"
-            },
-            "E/18/282": {
-                "name": "Ranasinghe R.A.N.S.",
-                "email": "e18282@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/282",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18282.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/282/"
-            },
-            "E/18/382": {
-                "name": "Weerarathne L.D.",
-                "email": "e18382@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/382",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18382.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/382/"
-            }
-        },
-        "supervisors": {
-            "isurunawinne@eng.pdn.ac.lk": {
-                "name": "Dr. Isuru Nawinne",
-                "email": "isurunawinne@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/isuru-nawinne/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
-                "website": "",
-                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
-                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
-                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
-            },
-            "mahanamaw@eng.pdn.ac.lk": {
-                "name": "Dr. Mahanama Wickramasinghe",
-                "email": "mahanamaw@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/mahanama-wickramasinghe/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/mahanama-wickramasinghe.jpg",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/mahanamaw",
-                "website": "",
-                "linkedin": "https://www.linkedin.com/in/mahanama",
-                "researchgate": "https://www.researchgate.net/profile/Mahanama-Wickramsinghe",
-                "google_scholar": "https://scholar.google.com/citations?hl=en&user=kuoZpZEAAAAJ"
-            }
-        },
-        "tags": [
-            "Web",
-            "Embedded Systems",
-            "Mobile",
-            "Glucometer",
-            "Non-Invasive"
-        ]
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg"
     },
     "e18-3yp-smart-glove": {
         "title": "smart glove",
@@ -3804,7 +3738,7 @@
     },
     "e18-3yp-smart-pet-collar": {
         "title": "smart pet collar",
-        "description": "",
+        "description": "Smart Pet Collar - 3rd Year Project",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
