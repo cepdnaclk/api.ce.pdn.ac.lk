@@ -2854,20 +2854,6 @@
             "Mobile Application"
         ]
     },
-    "e18-3yp-Automated-Road-Rule-Detector-1": {
-        "title": "Automated Road Rule Detector 1",
-        "description": "",
-        "category": {
-            "title": "Cyber-Physical Systems Projects",
-            "code": "3yp",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Automated-Road-Rule-Detector-1/",
-        "repo_url": "https://github.com/cepdnaclk/e18-3yp-Automated-Road-Rule-Detector-1",
-        "page_url": "#",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Automated-Road-Rule-Detector-1/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg"
-    },
     "e18-3yp-Automated-Road-Rule-Detector": {
         "title": "Automated Road Rule Detector",
         "description": "",
@@ -2975,7 +2961,7 @@
     },
     "e18-3yp-Health-Watch-with-Emergency-Detection": {
         "title": "Health Watch with Emergency Detection",
-        "description": "Health watch to detect emergency situations",
+        "description": "This is a system which can detect a medical emergency and send notifications to the caregivers of the person who is in emergency. This comes with a wrist-worn device that can monitor heart rate, oxygen level of blood and temperature and send these data to server. If an abnormal behavior is detected notifications are sent to the contacts he added.",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
@@ -3638,11 +3624,75 @@
         "repo_url": "https://github.com/cepdnaclk/e18-3yp-non-invaisve-glucose-meter",
         "page_url": "https://cepdnaclk.github.io/e18-3yp-non-invaisve-glucose-meter",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/non-invaisve-glucose-meter/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+        "team": {
+            "E/18/170": {
+                "name": "Karunarathna W.K.",
+                "email": "e18170@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/170",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18170.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/170/"
+            },
+            "E/18/282": {
+                "name": "Ranasinghe R.A.N.S",
+                "email": "e18282@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/282",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18282.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/282/"
+            },
+            "E/18/382": {
+                "name": "Weerarathne L.D.",
+                "email": "e18382@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/382",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18382.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/382/"
+            }
+        },
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            },
+            "mahanamaw@eng.pdn.ac.lk": {
+                "name": "Dr. Mahanama Wickramasinghe",
+                "email": "mahanamaw@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/mahanama-wickramasinghe/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/mahanama-wickramasinghe.jpg",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/mahanamaw",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/mahanama",
+                "researchgate": "https://www.researchgate.net/profile/Mahanama-Wickramsinghe",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=kuoZpZEAAAAJ"
+            }
+        },
+        "tags": [
+            "Web",
+            "Embedded Systems",
+            "Non-Invasive Glucometer"
+        ]
     },
     "e18-3yp-smart-glove": {
         "title": "smart glove",
-        "description": "Project of Hand held device; Smart Glove for mute people",
+        "description": "This project is basically targeting the differently abled people like mute people because most of the people in the community cannot understand the sign language. Smart glove can be used to convert sign language into text. Those converted messages can be seen through a mobile app and vice versa voice messages can be converted to sign images.",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
@@ -3653,8 +3703,65 @@
         "page_url": "https://cepdnaclk.github.io/e18-3yp-smart-glove",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/smart-glove/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-        "team": {},
-        "supervisors": {},
+        "team": {
+            "E/18/010": {
+                "name": "Avishka Abeywickrama",
+                "email": "e18010@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/avishka4444",
+                "linkedin": "https://www.linkedin.com/in/avishka-abeywickrama-97413a21a",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/010",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18010.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/010/"
+            },
+            "E/18/156": {
+                "name": "Thakshila Jayathilake",
+                "email": "e18156@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/ThakshilaJayathilake",
+                "linkedin": "https://www.linkedin.com/in/thakshila-jayathilake-5919b5213/",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/156",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18156.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/156/"
+            },
+            "E/18/329": {
+                "name": "Nirasha Sewwandi",
+                "email": "e18329@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/329",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18329.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/329/"
+            }
+        },
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            },
+            "mahanamaw@eng.pdn.ac.lk": {
+                "name": "Dr. Mahanama Wickramasinghe",
+                "email": "mahanamaw@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/mahanama-wickramasinghe/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/mahanama-wickramasinghe.jpg",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/mahanamaw",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/mahanama",
+                "researchgate": "https://www.researchgate.net/profile/Mahanama-Wickramsinghe",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=kuoZpZEAAAAJ"
+            }
+        },
         "tags": [
             "Web",
             "Embedded Systems"
