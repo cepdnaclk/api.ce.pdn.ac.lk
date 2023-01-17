@@ -2856,7 +2856,7 @@
     },
     "e18-3yp-Automated-Road-Rule-Detector": {
         "title": "Automated Road Rule Detector",
-        "description": "",
+        "description": "'Cop Mate' is a hybrid system that will keep track of the driving of a vehicle. The hardware will monitor a vehicle and detect the crossing of road lines. When a line is crossed the system will measure the distance from that vehicle to an incoming vehicle and calculate how severe the road rule breaking was and send them to the software application",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
@@ -2943,7 +2943,70 @@
         "repo_url": "https://github.com/cepdnaclk/e18-3yp-Corals-Protector",
         "page_url": "https://cepdnaclk.github.io/e18-3yp-Corals-Protector",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Corals-Protector/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+        "team": {
+            "E/18/013": {
+                "name": "Abilash R",
+                "email": "e18013@eng.pdn.ac.lk",
+                "website": "abilash.me",
+                "github": "https://github.com/RavindranAbilash",
+                "linkedin": "https://www.linkedin.com/in/ravindran-abilash/",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/013",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18013.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/013/"
+            },
+            "E/18/115": {
+                "name": "Gowsigan A",
+                "email": "e18115@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/115",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18115.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/115/"
+            },
+            "E/18/366": {
+                "name": "Thulasiyan Y",
+                "email": "e18366@eng.pdn.ac.lk",
+                "website": "https://sythulasi.herokuapp.com/",
+                "github": "https://github.com/SyThulasi",
+                "linkedin": "https://www.linkedin.com/in/thulasiyan-yogeswaran-5ba1221a4/",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/366",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18366.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/366/"
+            }
+        },
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            },
+            "mahanamaw@eng.pdn.ac.lk": {
+                "name": "Dr. Mahanama Wickramasinghe",
+                "email": "mahanamaw@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/mahanama-wickramasinghe/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/mahanama-wickramasinghe.jpg",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/mahanamaw",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/mahanama",
+                "researchgate": "https://www.researchgate.net/profile/Mahanama-Wickramsinghe",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=kuoZpZEAAAAJ"
+            }
+        },
+        "tags": [
+            "Web",
+            "Embedded Systems"
+        ]
     },
     "e18-3yp-Digital-Gas-Monitoring-System": {
         "title": "Digital Gas Monitoring System",
@@ -8123,13 +8186,13 @@
             "E/16/221": {
                 "name": "H.M.K. Madushanka",
                 "email": "e16221@eng.pdn.ac.lk",
-                "website": "#",
-                "github": "#",
-                "linkedin": "#",
-                "researchgate": "#",
-                "api_url": "#",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
-                "profile_url": "#"
+                "website": "",
+                "github": "https://github.com/kavindumadushanka972",
+                "linkedin": "https://www.linkedin.com/in/kavindu-madushanka/",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E16/221",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16221.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e16/221/"
             },
             "E/16/275": {
                 "name": "A.L.H.E. Perera",
