@@ -15,11 +15,19 @@
         "page_url": "https://projects.ce.pdn.ac.lk/3yp/",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/"
     },
+    "6sp": {
+        "code": "6sp",
+        "title": "Sixth Semester Projects",
+        "description": "Sixth Semester Project (6SP) is an effort to combine the project components of Software Engineering (CO328), Operating Systems (CO327), and  Data Mining and Machine Learning (CO544) courses.",
+        "type": "GENERAL",
+        "page_url": "https://projects.ce.pdn.ac.lk/6sp/",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/"
+    },
     "co227": {
         "code": "co227",
         "title": "Software Systems Projects",
         "description": "Software systems designed and developed by second year Computer Engineering Students as part of coursework",
-        "type": "GENERAL",
+        "type": "COURSE",
         "page_url": "https://projects.ce.pdn.ac.lk/co227/",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/"
     },
