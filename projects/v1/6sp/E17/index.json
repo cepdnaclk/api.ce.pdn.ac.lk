@@ -1,4 +1,56 @@
 {
+    "e17-6sp-Analysis-Tool-for-Industrial-Images": {
+        "title": "Analysis Tool for Industrial Images",
+        "description": "An analysis tool for increasing the performance of an injection mold maintenance device which uses image processing techniques to identify stuck plastic particles on molds. ",
+        "category": {
+            "title": "Sixth Semester Projects",
+            "code": "6sp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Analysis-Tool-for-Industrial-Images/",
+        "repo_url": "https://github.com/cepdnaclk/e17-6sp-Analysis-Tool-for-Industrial-Images",
+        "page_url": "https://cepdnaclk.github.io/e17-6sp-Analysis-Tool-for-Industrial-Images",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Analysis-Tool-for-Industrial-Images/"
+    },
+    "e17-6sp-Greenhouse-Monitoring-System": {
+        "title": "Greenhouse Monitoring System",
+        "description": "Greenhouse Monitoring System provides a platform to manage the Greenhouse by tracking the phases of plant harvest, identifying any plant disorder and tracking the plant growth by using the image spectral data of plants. The system is basically considered the key problems plant diseases, huge harvest wastage and unnecessary expensive maintenance in a greenhouse. So this system will make a high positive impact on maximizing the harvest and reduce maintenance cost in Greenhouses.",
+        "category": {
+            "title": "Sixth Semester Projects",
+            "code": "6sp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Greenhouse-Monitoring-System/",
+        "repo_url": "https://github.com/cepdnaclk/e17-6sp-Greenhouse-Monitoring-System",
+        "page_url": "https://cepdnaclk.github.io/e17-6sp-Greenhouse-Monitoring-System",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Greenhouse-Monitoring-System/"
+    },
+    "e17-6sp-History-of-Music": {
+        "title": "History of Music",
+        "description": "The project 'History of Music' is a ML based project. In this project we expect to build a model to express how a piece of music evolved from various genres.",
+        "category": {
+            "title": "Sixth Semester Projects",
+            "code": "6sp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/History-of-Music/",
+        "repo_url": "https://github.com/cepdnaclk/e17-6sp-History-of-Music",
+        "page_url": "https://cepdnaclk.github.io/e17-6sp-History-of-Music",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/History-of-Music/"
+    },
+    "e17-6sp-Host-Pathogen-Interaction": {
+        "title": "Host Pathogen Interaction",
+        "description": "Building the software for analyzing the microbiome data using machine learning technics. the application provides the GUI for the user they can easily analyze the data without any other programming knowledge developed by  @piriyaraj @varnaraj @thanujan @rilwan292",
+        "category": {
+            "title": "Sixth Semester Projects",
+            "code": "6sp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Host-Pathogen-Interaction/",
+        "repo_url": "https://github.com/cepdnaclk/e17-6sp-Host-Pathogen-Interaction",
+        "page_url": "https://cepdnaclk.github.io/e17-6sp-Host-Pathogen-Interaction",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Host-Pathogen-Interaction/"
+    },
     "e17-6sp-Prediction-of-risks-associated-with-mass-corona-vaccination": {
         "title": "Prediction of risks associated with mass corona vaccination",
         "description": "There is a trend among people not to get Covid 19 vaccinations. Because of the differing viewpoints of the various parties involved, society is skeptical of obtaining it. However, there is no research being done into the vaccination's side effects or the causes of illnesses and deaths. This project will look into the specific criteria or risks that come with vaccinations. So, this will help people to get an idea to check whether to take the vaccines or not. ",
@@ -11,5 +63,31 @@
         "repo_url": "https://github.com/cepdnaclk/e17-6sp-Prediction-of-risks-associated-with-mass-corona-vaccination",
         "page_url": "https://cepdnaclk.github.io/e17-6sp-Prediction-of-risks-associated-with-mass-corona-vaccination",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Prediction-of-risks-associated-with-mass-corona-vaccination/"
+    },
+    "e17-6sp-Skim-Sequencing-Analysis": {
+        "title": "Skim Sequencing Analysis",
+        "description": "An Analytical Software for Next Generation Skim Sequencing Data.",
+        "category": {
+            "title": "Sixth Semester Projects",
+            "code": "6sp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Skim-Sequencing-Analysis/",
+        "repo_url": "https://github.com/cepdnaclk/e17-6sp-Skim-Sequencing-Analysis",
+        "page_url": "https://cepdnaclk.github.io/e17-6sp-Skim-Sequencing-Analysis",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Skim-Sequencing-Analysis/"
+    },
+    "e17-6sp-road-accident-analyzer": {
+        "title": "road accident analyzer",
+        "description": "Road traffic injuries are a leading cause of death and disability. In low and middle income countries, vulnerable road users are commonly involved in crashes with severe injuries. Road traffic injuries are a major public health problem globally. About 1.2 million people are killed and more than 50 million are injured due to road traffic crashes annually.More than 90% of these deaths and injuries occur in low and middle income countries (LMIC) due to rapid motorization, lack of road safety culture, poor road conditions, and lack of education on road safety. Our aim is to reduce road accidents using machine learning techniques.",
+        "category": {
+            "title": "Sixth Semester Projects",
+            "code": "6sp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/road-accident-analyzer/",
+        "repo_url": "https://github.com/cepdnaclk/e17-6sp-road-accident-analyzer",
+        "page_url": "https://cepdnaclk.github.io/e17-6sp-road-accident-analyzer",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/road-accident-analyzer/"
     }
 }
