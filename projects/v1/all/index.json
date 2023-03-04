@@ -3034,7 +3034,72 @@
         "repo_url": "https://github.com/cepdnaclk/e18-3yp-Health-Watch-with-Emergency-Detection",
         "page_url": "https://cepdnaclk.github.io/e18-3yp-Health-Watch-with-Emergency-Detection",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Health-Watch-with-Emergency-Detection/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+        "team": {
+            "E/18/276": {
+                "name": "Rajasooriya J.M.",
+                "email": "e18276@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/276",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18276.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/276/"
+            },
+            "E/18/283": {
+                "name": "Ranasinghe R.D.J.M.",
+                "email": "e18283@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/283",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18283.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/283/"
+            },
+            "E/18/412": {
+                "name": "De Silva M.S.G.M.",
+                "email": "e18412@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/412",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18412.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/412/"
+            }
+        },
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            },
+            "mahanamaw@eng.pdn.ac.lk": {
+                "name": "Dr. Mahanama Wickramasinghe",
+                "email": "mahanamaw@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/mahanama-wickramasinghe/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/mahanama-wickramasinghe.jpg",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/mahanamaw",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/mahanama",
+                "researchgate": "https://www.researchgate.net/profile/Mahanama-Wickramsinghe",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=kuoZpZEAAAAJ"
+            }
+        },
+        "tags": [
+            "Mobile Application",
+            "Embedded Systems",
+            "flutter",
+            "Azure"
+        ]
     },
     "e18-3yp-Patient-Monitoring-System-for-Ambulances": {
         "title": "Patient Monitoring System for Ambulances",
@@ -10295,6 +10360,73 @@
             "Machine learning"
         ]
     },
+    "e17-6sp-NGS-Data-AnalysingToolkit": {
+        "title": "NGS Data AnalysingToolkit",
+        "description": "The development of next-generation sequencing (NGS) technology has resulted in a rapid growth in the synthesis of large genomic datasets, but user-friendly tools for finding biomarkers of genes and visualizing this data have not kept pace.  Our project is to develop a web application which can provide a user-friendly interface for Alzheimer disease prediction and finding biomarker genes for particular disease using differential expression analysis of human mRNA sequence data. We improve on available tools by offering a range of normalization, feature selection and classification methods and a simple to use interface.",
+        "category": {
+            "title": "Sixth Semester Projects",
+            "code": "6sp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/NGS-Data-AnalysingToolkit/",
+        "repo_url": "https://github.com/cepdnaclk/e17-6sp-NGS-Data-AnalysingToolkit",
+        "page_url": "https://cepdnaclk.github.io/e17-6sp-NGS-Data-AnalysingToolkit",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/NGS-Data-AnalysingToolkit/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+        "team": {
+            "E/17/159": {
+                "name": "Kavinaya.Y",
+                "email": "e17159@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/159",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17159.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/159/"
+            },
+            "E/17/015": {
+                "name": "Arshad MRM",
+                "email": "e17015@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/Arshad-MRM",
+                "linkedin": "http://www.linkedin.com/in/arshadme98/",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/015",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17015.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/015/"
+            },
+            "E/17/230": {
+                "name": "Nishankar.S",
+                "email": "e17230@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/Nishan-Charlie",
+                "linkedin": "www.linkedin.com/in/nishankar-s-423b551b3",
+                "researchgate": "https://www.researchgate.net/profile/Nishankar-Sathiyamohan",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/230",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17230.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/230/"
+            }
+        },
+        "supervisors": {
+            "damayanthiherath@eng.pdn.ac.lk": {
+                "name": "Dr. Damayanthi Herath",
+                "email": "damayanthiherath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/damayanthi-herath/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/damayanthiherath",
+                "website": "https://damayanthiherath.wordpress.com/",
+                "linkedin": "https://www.linkedin.com/in/damayanthi-herath/",
+                "researchgate": "https://www.researchgate.net/profile/Damayanthi-Herath",
+                "google_scholar": "https://scholar.google.com/citations?user=G2jUV5IAAAAJ&hl=en"
+            }
+        },
+        "tags": [
+            "Web",
+            "Machine Learning",
+            "Data Visualization"
+        ]
+    },
     "e17-6sp-Prediction-of-risks-associated-with-mass-corona-vaccination": {
         "title": "Prediction of risks associated with mass corona vaccination",
         "description": "There is a trend among people not to get Covid 19 vaccinations. Because of the differing viewpoints of the various parties involved, society is skeptical of obtaining it. However, there is no research being done into the vaccination's side effects or the causes of illnesses and deaths. This project will look into the specific criteria or risks that come with vaccinations. So, this will help people to get an idea to check whether to take the vaccines or not. ",
@@ -12468,73 +12600,6 @@
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
     },
-    "e17-co328-NGS-Data-AnalysingToolkit": {
-        "title": "NGS Data AnalysingToolkit",
-        "description": "The development of next-generation sequencing (NGS) technology has resulted in a rapid growth in the synthesis of large genomic datasets, but user-friendly tools for finding biomarkers of genes and visualizing this data have not kept pace.  Our project is to develop a web application which can provide a user-friendly interface for Alzheimer disease prediction and finding biomarker genes for particular disease using differential expression analysis of human mRNA sequence data. We improve on available tools by offering a range of normalization, feature selection and classification methods and a simple to use interface.",
-        "category": {
-            "title": "Software Engineering Projects (CO328)",
-            "code": "co328",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/NGS-Data-AnalysingToolkit/",
-        "repo_url": "https://github.com/cepdnaclk/e17-co328-NGS-Data-AnalysingToolkit",
-        "page_url": "https://cepdnaclk.github.io/e17-co328-NGS-Data-AnalysingToolkit",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/NGS-Data-AnalysingToolkit/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-        "team": {
-            "E/17/159": {
-                "name": "Kavinaya.Y",
-                "email": "e17159@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/159",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17159.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/159/"
-            },
-            "E/17/015": {
-                "name": "Arshad MRM",
-                "email": "e17015@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/Arshad-MRM",
-                "linkedin": "http://www.linkedin.com/in/arshadme98/",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/015",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17015.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/015/"
-            },
-            "E/17/230": {
-                "name": "Nishankar.S",
-                "email": "e17230@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/Nishan-Charlie",
-                "linkedin": "www.linkedin.com/in/nishankar-s-423b551b3",
-                "researchgate": "https://www.researchgate.net/profile/Nishankar-Sathiyamohan",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/230",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17230.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/230/"
-            }
-        },
-        "supervisors": {
-            "damayanthiherath@eng.pdn.ac.lk": {
-                "name": "Dr. Damayanthi Herath",
-                "email": "damayanthiherath@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/damayanthi-herath/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/damayanthiherath",
-                "website": "https://damayanthiherath.wordpress.com/",
-                "linkedin": "https://www.linkedin.com/in/damayanthi-herath/",
-                "researchgate": "https://www.researchgate.net/profile/Damayanthi-Herath",
-                "google_scholar": "https://scholar.google.com/citations?user=G2jUV5IAAAAJ&hl=en"
-            }
-        },
-        "tags": [
-            "Web",
-            "Machine Learning",
-            "Data Visualization"
-        ]
-    },
     "e17-co328-Oral-Cavity-Region-Detection": {
         "title": "Oral Cavity Region Detection",
         "description": "This project contains a web-based application that can be used to upload images of the oral cavity and identify the known regions which are normal. ",
@@ -12547,70 +12612,7 @@
         "repo_url": "https://github.com/cepdnaclk/e17-co328-Oral-Cavity-Region-Detection",
         "page_url": "https://cepdnaclk.github.io/e17-co328-Oral-Cavity-Region-Detection",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Oral-Cavity-Region-Detection/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-        "team": {
-            "E/17/058": {
-                "name": "Devindi G.A.I",
-                "email": "e17058@eng.pdn.ac.lk",
-                "website": "https://isuridevindi.github.io/",
-                "github": "https://github.com/isuridevindi",
-                "linkedin": "https://linkedin.com/in/isuri-devindi-b8602a206",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/058",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17058.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/058/"
-            },
-            "E/17/090": {
-                "name": "Francis F.B.A.H",
-                "email": "e17090@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/AchinthaHarshamal",
-                "linkedin": "https://www.linkedin.com/in/achintha-harshamal/",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/090",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17090.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/090/"
-            },
-            "E/17/190": {
-                "name": "Liyanage S.N",
-                "email": "e17190@eng.pdn.ac.lk",
-                "website": "https://sashiniliyanage.github.io/",
-                "github": "https://github.com/sashiniliyanage",
-                "linkedin": "https://www.linkedin.com/in/sashini-liyanage/",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/190",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17190.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/190/"
-            }
-        },
-        "supervisors": {
-            "isurunawinne@eng.pdn.ac.lk": {
-                "name": "Dr. Isuru Nawinne",
-                "email": "isurunawinne@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/isuru-nawinne/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
-                "website": "",
-                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
-                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
-                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
-            },
-            "roshanr@eng.pdn.ac.lk": {
-                "name": "Prof. Roshan G. Ragel",
-                "email": "roshanr@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/roshanr",
-                "website": "http://roshan.ragel.net/",
-                "linkedin": "https://www.linkedin.com/in/roshanragel/",
-                "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
-                "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
-            }
-        },
-        "tags": [
-            "Machine-Learning",
-            "Software Developments"
-        ]
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
     },
     "e17-co328-Prediction-of-heart-disease-using-ECG": {
         "title": "Prediction of heart disease using ECG",

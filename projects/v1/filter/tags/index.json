@@ -237,6 +237,21 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/smart-garbage-collection/"
         }
     ],
+    "Azure": [
+        {
+            "title": "Health Watch with Emergency Detection",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Health-Watch-with-Emergency-Detection/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Health-Watch-with-Emergency-Detection",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Health-Watch-with-Emergency-Detection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Health-Watch-with-Emergency-Detection/"
+        }
+    ],
     "Bioinformatics": [
         {
             "title": "Skim Sequencing Analysis",
@@ -508,15 +523,15 @@
         {
             "title": "NGS Data AnalysingToolkit",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/NGS-Data-AnalysingToolkit/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-NGS-Data-AnalysingToolkit",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-NGS-Data-AnalysingToolkit",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/NGS-Data-AnalysingToolkit/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/NGS-Data-AnalysingToolkit/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-NGS-Data-AnalysingToolkit",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-NGS-Data-AnalysingToolkit",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/NGS-Data-AnalysingToolkit/"
         }
     ],
     "Deep learning": [
@@ -936,6 +951,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-Corals-Protector",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Corals-Protector/"
+        },
+        {
+            "title": "Health Watch with Emergency Detection",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Health-Watch-with-Emergency-Detection/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Health-Watch-with-Emergency-Detection",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Health-Watch-with-Emergency-Detection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Health-Watch-with-Emergency-Detection/"
         },
         {
             "title": "Patient Monitoring System for Ambulances",
@@ -2566,6 +2594,19 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/History-of-Music/"
         },
         {
+            "title": "NGS Data AnalysingToolkit",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/NGS-Data-AnalysingToolkit/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-NGS-Data-AnalysingToolkit",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-NGS-Data-AnalysingToolkit",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/NGS-Data-AnalysingToolkit/"
+        },
+        {
             "title": "Skim Sequencing Analysis",
             "category": {
                 "code": "6sp",
@@ -2616,19 +2657,6 @@
             "page_url": "https://cepdnaclk.github.io/e17-co328-Flood-Forecasting-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Flood-Forecasting-System/"
-        },
-        {
-            "title": "NGS Data AnalysingToolkit",
-            "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/NGS-Data-AnalysingToolkit/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-NGS-Data-AnalysingToolkit",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-NGS-Data-AnalysingToolkit",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/NGS-Data-AnalysingToolkit/"
         },
         {
             "title": "Prediction of heart disease using ECG",
@@ -2685,19 +2713,6 @@
             "page_url": "https://cepdnaclk.github.io/e16-4yp-AI-as-a-Microservice-for-Smart-Edge-of-Things",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/AI-as-a-Microservice-for-Smart-Edge-of-Things/"
-        },
-        {
-            "title": "Oral Cavity Region Detection",
-            "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Oral-Cavity-Region-Detection/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Oral-Cavity-Region-Detection",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Oral-Cavity-Region-Detection",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Oral-Cavity-Region-Detection/"
         }
     ],
     "Micro Mobility": [
@@ -2803,6 +2818,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-Automated-Poultry-Farming",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Automated-Poultry-Farming/"
+        },
+        {
+            "title": "Health Watch with Emergency Detection",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Health-Watch-with-Emergency-Detection/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Health-Watch-with-Emergency-Detection",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Health-Watch-with-Emergency-Detection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Health-Watch-with-Emergency-Detection/"
         },
         {
             "title": "Road Traffic Ecosystem",
@@ -3554,21 +3582,6 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Molding-Machine-Dashboard",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Molding-Machine-Dashboard/"
-        }
-    ],
-    "Software Developments": [
-        {
-            "title": "Oral Cavity Region Detection",
-            "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Oral-Cavity-Region-Detection/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Oral-Cavity-Region-Detection",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Oral-Cavity-Region-Detection",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Oral-Cavity-Region-Detection/"
         }
     ],
     "Software Engineering": [
@@ -4756,6 +4769,19 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Greenhouse-Monitoring-System/"
         },
         {
+            "title": "NGS Data AnalysingToolkit",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/NGS-Data-AnalysingToolkit/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-NGS-Data-AnalysingToolkit",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-NGS-Data-AnalysingToolkit",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/NGS-Data-AnalysingToolkit/"
+        },
+        {
             "title": "Prediction of risks associated with mass corona vaccination",
             "category": {
                 "code": "6sp",
@@ -5003,19 +5029,6 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Flood-Forecasting-System/"
         },
         {
-            "title": "NGS Data AnalysingToolkit",
-            "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/NGS-Data-AnalysingToolkit/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-NGS-Data-AnalysingToolkit",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-NGS-Data-AnalysingToolkit",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/NGS-Data-AnalysingToolkit/"
-        },
-        {
             "title": "apparel industry performance analyser",
             "category": {
                 "code": "co328",
@@ -5240,6 +5253,21 @@
             "page_url": "https://cepdnaclk.github.io/e16-4yp-swarm-intelligence-programming-framework",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/swarm-intelligence-programming-framework/"
+        }
+    ],
+    "flutter": [
+        {
+            "title": "Health Watch with Emergency Detection",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Health-Watch-with-Emergency-Detection/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Health-Watch-with-Emergency-Detection",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Health-Watch-with-Emergency-Detection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Health-Watch-with-Emergency-Detection/"
         }
     ],
     "images": [
