@@ -23,6 +23,8 @@ webSource = 'https://people.ce.pdn.ac.lk/'
 DEFAULT_PROFILE_IMAGE = "https://people.ce.pdn.ac.lk/images/students/default.jpg"
 
 # Validate and format the registration number
+
+
 def validateRegNumber(regNumber):
     if len(regNumber) == 2:
         regNumber = '0' + regNumber
@@ -46,6 +48,8 @@ def emailFilter(email):
         return {'name': "", 'domain': ""}
 
 # Delete the existing files first
+
+
 def del_old_files():
     dir_path = "../people/v1/students/"
     try:
@@ -68,6 +72,8 @@ def write_index(batch_groups):
         f.write(json.dumps(dict, indent=4))
 
 # Write the /students/{batch}/index.json files
+
+
 def write_batches(batch_groups):
     for batch in batch_groups:
         filename = "../people/v1/students/" + batch.upper() + "/index.json"
@@ -75,7 +81,8 @@ def write_batches(batch_groups):
         data = {}
 
         for student in batch_groups[batch]:
-            regNumber = validateRegNumber(batch_groups[batch][student]['eNumber'].split('/')[2])
+            regNumber = validateRegNumber(
+                batch_groups[batch][student]['eNumber'].split('/')[2])
             url = apiIndex + 'students/' + batch.upper() + '/' + regNumber + '/'
             data[student] = {'url': url}
 
@@ -83,17 +90,23 @@ def write_batches(batch_groups):
             f.write(json.dumps(data, indent=4))
 
 # Write the /students/{batch}/{regNumber}/index.json files
+
+
 def write_students(batch, batch_group):
     for student in batch_group:
         eNumber = batch_group[student]['eNumber'].upper()
         regNumber = validateRegNumber(eNumber.split('/')[2])
 
-        filename = "../people/v1/students/" + batch.upper() + "/" + regNumber + "/index.json"
+        print("Page Write: " + eNumber)
+
+        filename = "../people/v1/students/" + batch.upper() + "/" + regNumber + \
+            "/index.json"
         os.makedirs(os.path.dirname(filename), exist_ok=True)
 
         # print(json.dumps(batch_group[student], indent = 4))
         with open(filename, "w") as f:
             f.write(json.dumps(batch_group[student], indent=4))
+
 
 def write_all(batch_groups):
     data_all = {}
@@ -133,11 +146,14 @@ if r.status_code == 200:
         if (batch[1:].isnumeric() and int(batch[1:]) >= 12):
 
             # Split the email address to avoid spaming
-            data[eNumber]['emails']['personal'] = emailFilter(data[eNumber]['emails']['personal'])
-            data[eNumber]['emails']['faculty'] = emailFilter(data[eNumber]['emails']['faculty'])
-            data[eNumber]['profile_page'] = webSource + 'students/' + data[eNumber]['eNumber'].replace('E/', 'e') + '/';
+            data[eNumber]['emails']['personal'] = emailFilter(
+                data[eNumber]['emails']['personal'])
+            data[eNumber]['emails']['faculty'] = emailFilter(
+                data[eNumber]['emails']['faculty'])
+            data[eNumber]['profile_page'] = webSource + 'students/' + \
+                data[eNumber]['eNumber'].replace('E/', 'e') + '/'
 
-            if data[eNumber]['profile_image'] =='':
+            if data[eNumber]['profile_image'] == '':
                 data[eNumber]['profile_image'] = DEFAULT_PROFILE_IMAGE
 
             if batch not in batch_groups:
@@ -145,13 +161,17 @@ if r.status_code == 200:
             batch_groups[batch][eNumber] = data[eNumber]
 
 # Write the index file for the students
+print("Building: Index pages")
 write_index(batch_groups)
 
 # Create files for each batch
+print("Building: Batch pages")
 write_batches(batch_groups)
 
 # Write individual student files
+print("Building: Student pages")
 for batch in batch_groups:
     write_students(batch, batch_groups[batch])
 
+print("Building: All index file")
 write_all(batch_groups)
