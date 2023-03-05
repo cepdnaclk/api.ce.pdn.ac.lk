@@ -10128,6 +10128,252 @@
             "ML"
         ]
     },
+    "e17-6sp-Automated_Computerised_System": {
+        "title": "Automated_Computerised_System",
+        "description": "",
+        "category": {
+            "title": "Sixth Semester Projects",
+            "code": "6sp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Automated_Computerised_System/",
+        "repo_url": "https://github.com/cepdnaclk/e17-6sp-Automated_Computerised_System",
+        "page_url": "https://cepdnaclk.github.io/e17-6sp-Automated_Computerised_System",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Automated_Computerised_System/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
+    },
+    "e17-6sp-ContactTracingApp": {
+        "title": "ContactTracingApp",
+        "description": "",
+        "category": {
+            "title": "Sixth Semester Projects",
+            "code": "6sp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/ContactTracingApp/",
+        "repo_url": "https://github.com/cepdnaclk/e17-6sp-ContactTracingApp",
+        "page_url": "https://cepdnaclk.github.io/e17-6sp-ContactTracingApp",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/ContactTracingApp/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+        "team": {
+            "E/17/005": {
+                "name": "Ahamed M.I.R",
+                "email": "e17005@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/RishardAhamed",
+                "linkedin": "https://www.linkedin.com/in/m-i-rishard-192247231/",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/005",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17005.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/005/"
+            },
+            "E/17/327": {
+                "name": "Shalha.A.M.F",
+                "email": "e17327@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/fshalha?tab=repositories",
+                "linkedin": "https://www.linkedin.com/in/fathima-shalha-1a4442207/",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/327",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17327.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/327/"
+            },
+            "E/17/379": {
+                "name": "Weerasinghe.S.P.D.D.S",
+                "email": "e17379@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/379",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17379.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/379/"
+            }
+        },
+        "supervisors": {
+            "upuljm@eng.pdn.ac.lk": {
+                "name": "Dr. Upul Jayasinghe",
+                "email": "upuljm@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/upul/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/upuljm",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/upuljm/",
+                "researchgate": "https://www.researchgate.net/profile/Upul-Jayasinghe",
+                "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
+            },
+            "namal@eng.pdn.ac.lk": {
+                "name": "Dr. Suneth Namal Karunarathna",
+                "email": "namal@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/suneth-namal-karunarathna/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/suneth-namal-karunarathna.png",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/namal",
+                "website": "",
+                "linkedin": "https://lk.linkedin.com/in/suneth-namal-b70b8688",
+                "researchgate": "https://www.researchgate.net/profile/Suneth-Namal",
+                "google_scholar": "https://scholar.google.com/citations?user=G39TP7EAAAAJ&hl=en"
+            }
+        },
+        "tags": [
+            "Web",
+            "Embedded Systems"
+        ]
+    },
+    "e17-6sp-Document-Tag-Generator": {
+        "title": "Document Tag Generator",
+        "description": "The project website of the Department of Computer Engineering currently has nearly 150 projects. These projects are categorized by only batches and subjectwise. Also, some of the projects have some tags but some of them are not relevant to those projects. Also, some projects do not have any tags. Currently, users can search projects by keywords, but those keywords are derived only from project descriptions.Our goal is to generate relevant tags for each project according to the description of the projects and other valid data available on the project pages. ",
+        "category": {
+            "title": "Sixth Semester Projects",
+            "code": "6sp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Document-Tag-Generator/",
+        "repo_url": "https://github.com/cepdnaclk/e17-6sp-Document-Tag-Generator",
+        "page_url": "https://cepdnaclk.github.io/e17-6sp-Document-Tag-Generator",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Document-Tag-Generator/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+        "team": {
+            "E/17/100": {
+                "name": "Gunathilaka R.M.S.M",
+                "email": "e17100@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/100",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17100.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/100/"
+            },
+            "E/17/246": {
+                "name": "Perera K.S.D",
+                "email": "e17246@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/ShenalPerera",
+                "linkedin": "https://www.linkedin.com/in/shenal-perera33/",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/246",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17246.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/246/"
+            },
+            "E/17/284": {
+                "name": "Rathnayake R.L.D.A.S",
+                "email": "e17284@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/284",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17284.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/284/"
+            }
+        },
+        "supervisors": {
+            "nuwanjaliyagoda@eng.pdn.ac.lk": {
+                "name": "Nuwan Jaliyagoda",
+                "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk//students/e15/140",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/nuwan.jpg",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/nuwanjaliyagoda",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            },
+            "thusharab@eng.pdn.ac.lk": {
+                "name": "Thushara Bandara",
+                "email": "thusharab@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/temporary-academic-staff/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/thushara.jpeg",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/thusharab",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "6yp",
+            "Machine Learning",
+            "Text Mining"
+        ]
+    },
+    "e17-6sp-Flood-Forecasting-System": {
+        "title": "Flood Forecasting System",
+        "description": "Floods are the most destructive form of natural hazards in both local and global context. This is true in terms of both loss of life and property damage. Early flood forecasting can be used to identify potential areas of flooding in order to develop mitigatory planning and evacuation programs to remove people from such areas during flooding and also to implement suitable preventive measures to avoid damage to properties. In this project, our main objective is to build a flood forecasting system for Mi Oya river basin(Sri Lanka). Mi Oya Basin is heavily affected by seasonal flooding and droughts. As per the available data, floods in the Mi Oya basin are unleashed due to river overflow and reservoir spilling. Out of the several reservoirs located in the basin, Tabbowa and Inginimitiya are crucial in worsening the flood impacts as these two reservoirs are frequently spilling under adverse weather conditions. As such, the prevalence of a real-time flood forecasting model with the incorporation of the reservoir operations for the entire basin is essential to alleviate the flood induced impacts while preserving the optimum volume of water in the major reservoirs in the basin.",
+        "category": {
+            "title": "Sixth Semester Projects",
+            "code": "6sp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Flood-Forecasting-System/",
+        "repo_url": "https://github.com/cepdnaclk/e17-6sp-Flood-Forecasting-System",
+        "page_url": "https://cepdnaclk.github.io/e17-6sp-Flood-Forecasting-System",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Flood-Forecasting-System/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+        "team": {
+            "E/17/006": {
+                "name": "ALAHAKOON A.M.H.H",
+                "email": "e17006@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/006",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17006.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/006/"
+            },
+            "E/17/176": {
+                "name": "KUMARA W.M.E.S.K",
+                "email": "e17176@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/176",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17176.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/176/"
+            },
+            "E/17/338": {
+                "name": "SRIMAL R.M.L.C",
+                "email": "e17338@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/338",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17338.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/338/"
+            }
+        },
+        "supervisors": {
+            "upuljm@eng.pdn.ac.lk": {
+                "name": "Dr. Upul Jayasinghe",
+                "email": "upuljm@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/upul/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/upuljm",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/upuljm/",
+                "researchgate": "https://www.researchgate.net/profile/Upul-Jayasinghe",
+                "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
+            },
+            "imeshuek@eng.pdn.ac.lk": {
+                "name": "Imesh Ekanayake",
+                "email": "imeshuek@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk//students/e15/092",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/imesh.png",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/imeshuek",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Web",
+            "Machine Learning"
+        ]
+    },
     "e17-6sp-Greenhouse-Monitoring-System": {
         "title": "Greenhouse Monitoring System",
         "description": "Greenhouse Monitoring System provides a platform to manage the Greenhouse by tracking the phases of plant harvest, identifying any plant disorder and tracking the plant growth by using the image spectral data of plants. The system is basically considered the key problems plant diseases, huge harvest wastage and unnecessary expensive maintenance in a greenhouse. So this system will make a high positive impact on maximizing the harvest and reduce maintenance cost in Greenhouses.",
@@ -10204,6 +10450,20 @@
             "Web",
             "Embedded Systems"
         ]
+    },
+    "e17-6sp-Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data": {
+        "title": "Greenhouse monitoring and controlling based on IOT sensor data",
+        "description": "In traditional farming, farmer has to visit the farming land regularly to measure the various environmental parameters such as temperature, humidity and light intensity to cultivate the right crops at right time in right soil. Even though this traditional farming system have been used for years, the system is hectic and fail to prove high productivity rate as farmer usually unable to measure all the parameter accurately. In contrast, greenhouse farming is a system where farmer cultivate crops in ecosystem environments where all environmental parameters are adjusted based on crop types. Automation in greenhouse is a method where farmer can monitor and control the greenhouse environment automatically from anywhere in the world any time. Automated greenhouse monitoring and controlling system that incorporate various sensors such as temperature sensor, humidity sensor and light sensor to collect possible environmental parameters of greenhouse. Internet of Things (IoT) is used to store data to a database and process the collected data and finally send the information to the web interface which has been developed for monitoring and controlling of greenhouse by the user.",
+        "category": {
+            "title": "Sixth Semester Projects",
+            "code": "6sp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data/",
+        "repo_url": "https://github.com/cepdnaclk/e17-6sp-Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data",
+        "page_url": "https://cepdnaclk.github.io/e17-6sp-Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
     },
     "e17-6sp-History-of-Music": {
         "title": "History of Music",
@@ -10427,6 +10687,161 @@
             "Data Visualization"
         ]
     },
+    "e17-6sp-Oral-Cavity-Region-Detection": {
+        "title": "Oral Cavity Region Detection",
+        "description": "This project contains a web-based application that can be used to upload images of the oral cavity and identify the known regions which are normal. ",
+        "category": {
+            "title": "Sixth Semester Projects",
+            "code": "6sp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Oral-Cavity-Region-Detection/",
+        "repo_url": "https://github.com/cepdnaclk/e17-6sp-Oral-Cavity-Region-Detection",
+        "page_url": "https://cepdnaclk.github.io/e17-6sp-Oral-Cavity-Region-Detection",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Oral-Cavity-Region-Detection/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+        "team": {
+            "E/17/058": {
+                "name": "Devindi G.A.I",
+                "email": "e17058@eng.pdn.ac.lk",
+                "website": "https://isuridevindi.github.io/",
+                "github": "https://github.com/isuridevindi",
+                "linkedin": "https://linkedin.com/in/isuri-devindi-b8602a206",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/058",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17058.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/058/"
+            },
+            "E/17/090": {
+                "name": "Francis F.B.A.H",
+                "email": "e17090@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/AchinthaHarshamal",
+                "linkedin": "https://www.linkedin.com/in/achintha-harshamal/",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/090",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17090.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/090/"
+            },
+            "E/17/190": {
+                "name": "Liyanage S.N",
+                "email": "e17190@eng.pdn.ac.lk",
+                "website": "https://sashiniliyanage.github.io/",
+                "github": "https://github.com/sashiniliyanage",
+                "linkedin": "https://www.linkedin.com/in/sashini-liyanage/",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/190",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17190.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/190/"
+            }
+        },
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            },
+            "roshanr@eng.pdn.ac.lk": {
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/roshanr",
+                "website": "http://roshan.ragel.net/",
+                "linkedin": "https://www.linkedin.com/in/roshanragel/",
+                "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
+                "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
+            }
+        },
+        "tags": [
+            "Machine-Learning",
+            "Software Developments"
+        ]
+    },
+    "e17-6sp-Prediction-of-heart-disease-using-ECG": {
+        "title": "Prediction of heart disease using ECG",
+        "description": "A software application for predicting potential heart diseases using ECG data",
+        "category": {
+            "title": "Sixth Semester Projects",
+            "code": "6sp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Prediction-of-heart-disease-using-ECG/",
+        "repo_url": "https://github.com/cepdnaclk/e17-6sp-Prediction-of-heart-disease-using-ECG",
+        "page_url": "https://cepdnaclk.github.io/e17-6sp-Prediction-of-heart-disease-using-ECG",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Prediction-of-heart-disease-using-ECG/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+        "team": {
+            "E/17/252": {
+                "name": "Kenath Perera",
+                "email": "e17252@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/252",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17252.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/252/"
+            },
+            "E/17/242": {
+                "name": "Ruchika Perera",
+                "email": "e17242@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/242",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17242.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/242/"
+            },
+            "E/17/044": {
+                "name": "Deanna Coralage",
+                "email": "e17044@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/044",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17044.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/044/"
+            }
+        },
+        "supervisors": {
+            "dhammika@eng.pdn.ac.lk": {
+                "name": "Dr. Dhammika Elkaduwe",
+                "email": "dhammika@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/dhammika-elkaduwe/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/dhammika-elkaduwe.png",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/dhammika",
+                "website": "",
+                "linkedin": "https://lk.linkedin.com/in/dhammika-elkaduwe-74030613",
+                "researchgate": "https://www.researchgate.net/profile/Dhammika-Elkaduwe",
+                "google_scholar": "https://scholar.google.com/citations?user=zLUPMFkAAAAJ&hl=en"
+            },
+            "sampath@eng.pdn.ac.lk": {
+                "name": "Mr. Sampath Deegalla",
+                "email": "sampath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/sampath-deegalla/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/sampath-deegalla.jpg",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/sampath",
+                "website": "https://www.sites.google.com/site/dsdeegalla/",
+                "linkedin": "https://www.linkedin.com/in/dsdeegalla",
+                "researchgate": "https://www.researchgate.net/profile/Sampath-Deegalla-2",
+                "google_scholar": "https://scholar.google.com/citations?user=QDoeGtYAAAAJ&hl=en"
+            }
+        },
+        "tags": [
+            "Software Engineering",
+            "Machine Learning",
+            "Operating Systems"
+        ]
+    },
     "e17-6sp-Prediction-of-risks-associated-with-mass-corona-vaccination": {
         "title": "Prediction of risks associated with mass corona vaccination",
         "description": "There is a trend among people not to get Covid 19 vaccinations. Because of the differing viewpoints of the various parties involved, society is skeptical of obtaining it. However, there is no research being done into the vaccination's side effects or the causes of illnesses and deaths. This project will look into the specific criteria or risks that come with vaccinations. So, this will help people to get an idea to check whether to take the vaccines or not. ",
@@ -10503,6 +10918,20 @@
             "Web",
             "ML"
         ]
+    },
+    "e17-6sp-Research-profiles-of-academic-staff": {
+        "title": "Research profiles of academic staff",
+        "description": "A web portal to collect all publications on all areas under Computer Engineering department to a single information repository.\u200b",
+        "category": {
+            "title": "Sixth Semester Projects",
+            "code": "6sp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Research-profiles-of-academic-staff/",
+        "repo_url": "https://github.com/cepdnaclk/e17-6sp-Research-profiles-of-academic-staff",
+        "page_url": "https://cepdnaclk.github.io/e17-6sp-Research-profiles-of-academic-staff",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Research-profiles-of-academic-staff/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
     },
     "e17-6sp-Skim-Sequencing-Analysis": {
         "title": "Skim Sequencing Analysis",
@@ -10596,6 +11025,97 @@
         "page_url": "https://cepdnaclk.github.io/e17-6sp-Sobriety-Detection-Using-Mobile-Phone-Gyroscope-Data",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Sobriety-Detection-Using-Mobile-Phone-Gyroscope-Data/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
+    },
+    "e17-6sp-Visualization-of-Teacher-Student-Activities": {
+        "title": "Visualization of Teacher Student Activities",
+        "description": "This a graphical tool for represent teacher-student activities based on Moodle log data",
+        "category": {
+            "title": "Sixth Semester Projects",
+            "code": "6sp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Visualization-of-Teacher-Student-Activities/",
+        "repo_url": "https://github.com/cepdnaclk/e17-6sp-Visualization-of-Teacher-Student-Activities",
+        "page_url": "https://cepdnaclk.github.io/e17-6sp-Visualization-of-Teacher-Student-Activities",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Visualization-of-Teacher-Student-Activities/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
+    },
+    "e17-6sp-apparel-industry-performance-analyser": {
+        "title": "apparel industry performance analyser",
+        "description": "A tool for data visualization and performance optimization of the production process of apparel industry.",
+        "category": {
+            "title": "Sixth Semester Projects",
+            "code": "6sp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/apparel-industry-performance-analyser/",
+        "repo_url": "https://github.com/cepdnaclk/e17-6sp-apparel-industry-performance-analyser",
+        "page_url": "https://cepdnaclk.github.io/e17-6sp-apparel-industry-performance-analyser",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/apparel-industry-performance-analyser/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+        "team": {
+            "E/17/134": {
+                "name": "Kavindu Jayasooriya",
+                "email": "e17134@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/KavinduJayas",
+                "linkedin": "https://www.linkedin.com/in/kavindu-jayasooriya/",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/134",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17134.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/134/"
+            },
+            "E/17/207": {
+                "name": "Pasindu Marasinghe",
+                "email": "e17207@eng.pdn.ac.lk",
+                "website": "https://pasindumarasinghe.live",
+                "github": "https://github.com/pasindumarasinghe",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/207",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17207.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/207/"
+            },
+            "E/17/318": {
+                "name": "Udith Amasura",
+                "email": "e17318@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/318",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17318.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/318/"
+            }
+        },
+        "supervisors": {
+            "asithab@eng.pdn.ac.lk": {
+                "name": "Dr. Asitha Bandaranayake",
+                "email": "asithab@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/asitha-bandaranayake/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake.jpg",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/asithab",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/asithab/",
+                "researchgate": "https://www.researchgate.net/profile/Asitha-Bandaranayake-3",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=sf6MaF4AAAAJ"
+            },
+            "cds@eng.pdn.ac.lk": {
+                "name": "Dr. Chanaka Senanayake",
+                "email": "cds@eng.pdn.ac.lk",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Web",
+            "Machine Learning"
+        ]
     },
     "e17-6sp-road-accident-analyzer": {
         "title": "road accident analyzer",
@@ -12340,461 +12860,114 @@
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E14/packet-forwarding-simulator/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
     },
-    "e17-co328-Automated_Computerised_System": {
-        "title": "Automated_Computerised_System",
+    "e15-co543-Brain-Tumor-Detection": {
+        "title": "Brain Tumor Detection",
         "description": "",
         "category": {
-            "title": "Software Engineering Projects (CO328)",
-            "code": "co328",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/"
+            "title": "Image Processing Projects (CO543)",
+            "code": "co543",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Automated_Computerised_System/",
-        "repo_url": "https://github.com/cepdnaclk/e17-co328-Automated_Computerised_System",
-        "page_url": "https://cepdnaclk.github.io/e17-co328-Automated_Computerised_System",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Automated_Computerised_System/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
+        "project_url": "https://projects.ce.pdn.ac.lk/co543/e15/Brain-Tumor-Detection/",
+        "repo_url": "https://github.com/cepdnaclk/e15-co543-Brain-Tumor-Detection",
+        "page_url": "#",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E15/Brain-Tumor-Detection/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg"
     },
-    "e17-co328-ContactTracingApp": {
-        "title": "ContactTracingApp",
-        "description": "",
+    "e15-co543-Swarm-Robot-Monitoring-System-group-A": {
+        "title": "Swarm Robot Monitoring System group A",
+        "description": "A swarm robotics systems consists of automation robots with local sensing and communication capabilities, lacking centralized control or access to global information, situated in a possibly unknown environment performing a collective action. Therefore, having centralized monitoring in addition to the distributed local sensing yields to a more robust system as a centralized monitoring system capable of performing global collective actions under a wide range of group sizes (scalability), despite the possible sudden loss of multiple agents (robustness), and under unknown and dynamic circumstances (flexibility).",
         "category": {
-            "title": "Software Engineering Projects (CO328)",
-            "code": "co328",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/"
+            "title": "Image Processing Projects (CO543)",
+            "code": "co543",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/ContactTracingApp/",
-        "repo_url": "https://github.com/cepdnaclk/e17-co328-ContactTracingApp",
-        "page_url": "https://cepdnaclk.github.io/e17-co328-ContactTracingApp",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/ContactTracingApp/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-        "team": {
-            "E/17/005": {
-                "name": "Ahamed M.I.R",
-                "email": "e17005@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/RishardAhamed",
-                "linkedin": "https://www.linkedin.com/in/m-i-rishard-192247231/",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/005",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17005.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/005/"
-            },
-            "E/17/327": {
-                "name": "Shalha.A.M.F",
-                "email": "e17327@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/fshalha?tab=repositories",
-                "linkedin": "https://www.linkedin.com/in/fathima-shalha-1a4442207/",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/327",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17327.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/327/"
-            },
-            "E/17/379": {
-                "name": "Weerasinghe.S.P.D.D.S",
-                "email": "e17379@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/379",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17379.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/379/"
-            }
+        "project_url": "https://projects.ce.pdn.ac.lk/co543/e15/Swarm-Robot-Monitoring-System-group-A/",
+        "repo_url": "https://github.com/cepdnaclk/e15-co543-Swarm-Robot-Monitoring-System-group-A",
+        "page_url": "#",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E15/Swarm-Robot-Monitoring-System-group-A/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg"
+    },
+    "e15-co543-Swarm-Robot-Monitoring-System-group-B": {
+        "title": "Swarm Robot Monitoring System group B",
+        "description": "localization of robots, identifying  the boundary of arena and distance calculation with image processing(openCV python)",
+        "category": {
+            "title": "Image Processing Projects (CO543)",
+            "code": "co543",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
         },
-        "supervisors": {
-            "upuljm@eng.pdn.ac.lk": {
-                "name": "Dr. Upul Jayasinghe",
-                "email": "upuljm@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/upul/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/upuljm",
-                "website": "",
-                "linkedin": "https://www.linkedin.com/in/upuljm/",
-                "researchgate": "https://www.researchgate.net/profile/Upul-Jayasinghe",
-                "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
-            },
-            "namal@eng.pdn.ac.lk": {
-                "name": "Dr. Suneth Namal Karunarathna",
-                "email": "namal@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/suneth-namal-karunarathna/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/suneth-namal-karunarathna.png",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/namal",
-                "website": "",
-                "linkedin": "https://lk.linkedin.com/in/suneth-namal-b70b8688",
-                "researchgate": "https://www.researchgate.net/profile/Suneth-Namal",
-                "google_scholar": "https://scholar.google.com/citations?user=G39TP7EAAAAJ&hl=en"
-            }
+        "project_url": "https://projects.ce.pdn.ac.lk/co543/e15/Swarm-Robot-Monitoring-System-group-B/",
+        "repo_url": "https://github.com/cepdnaclk/e15-co543-Swarm-Robot-Monitoring-System-group-B",
+        "page_url": "#",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E15/Swarm-Robot-Monitoring-System-group-B/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg"
+    },
+    "e15-co543-Swarm-Robot-Monitoring-System-group-C": {
+        "title": "Swarm Robot Monitoring System group C",
+        "description": "Localization of multiple robots in real time, Video restoration at the presence of noise due to lighting conditions and degradation due to motion blur.",
+        "category": {
+            "title": "Image Processing Projects (CO543)",
+            "code": "co543",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
         },
+        "project_url": "https://projects.ce.pdn.ac.lk/co543/e15/Swarm-Robot-Monitoring-System-group-C/",
+        "repo_url": "https://github.com/cepdnaclk/e15-co543-Swarm-Robot-Monitoring-System-group-C",
+        "page_url": "#",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E15/Swarm-Robot-Monitoring-System-group-C/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg"
+    },
+    "e17-co543-Mini-Project-Group-H": {
+        "title": "Mini Project Group H",
+        "description": "A License / Number Plate Recognition (NPR) system using OpenCV and Python.",
+        "category": {
+            "title": "Image Processing Projects (CO543)",
+            "code": "co543",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co543/e17/Mini-Project-Group-H/",
+        "repo_url": "https://github.com/cepdnaclk/e17-co543-Mini-Project-Group-H",
+        "page_url": "#",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/Mini-Project-Group-H/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg"
+    },
+    "e17-co543-Number-Plate-Recognition-system": {
+        "title": "Number Plate Recognition system",
+        "description": "Number Plate Recognition (NPR) system to detect Sri Lankan number plate images",
+        "category": {
+            "title": "Image Processing Projects (CO543)",
+            "code": "co543",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co543/e17/Number-Plate-Recognition-system/",
+        "repo_url": "https://github.com/cepdnaclk/e17-co543-Number-Plate-Recognition-system",
+        "page_url": "https://cepdnaclk.github.io/e17-co543-Number-Plate-Recognition-system",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/Number-Plate-Recognition-system/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+        "team": {},
+        "supervisors": {},
         "tags": [
             "Web",
             "Embedded Systems"
         ]
     },
-    "e17-co328-Document-Tag-Generator": {
-        "title": "Document Tag Generator",
-        "description": "The project website of the Department of Computer Engineering currently has nearly 150 projects. These projects are categorized by only batches and subjectwise. Also, some of the projects have some tags but some of them are not relevant to those projects. Also, some projects do not have any tags. Currently, users can search projects by keywords, but those keywords are derived only from project descriptions.Our goal is to generate relevant tags for each project according to the description of the projects and other valid data available on the project pages. ",
+    "e17-co543-SL-Number-Plate-Detection-Group-A": {
+        "title": "SL Number Plate Detection Group A",
+        "description": "An automated number plate recognition solution for Sri Lankan number plate images.",
         "category": {
-            "title": "Software Engineering Projects (CO328)",
-            "code": "co328",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/"
+            "title": "Image Processing Projects (CO543)",
+            "code": "co543",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Document-Tag-Generator/",
-        "repo_url": "https://github.com/cepdnaclk/e17-co328-Document-Tag-Generator",
-        "page_url": "https://cepdnaclk.github.io/e17-co328-Document-Tag-Generator",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Document-Tag-Generator/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-        "team": {
-            "E/17/100": {
-                "name": "Gunathilaka R.M.S.M",
-                "email": "e17100@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/100",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17100.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/100/"
-            },
-            "E/17/246": {
-                "name": "Perera K.S.D",
-                "email": "e17246@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/ShenalPerera",
-                "linkedin": "https://www.linkedin.com/in/shenal-perera33/",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/246",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17246.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/246/"
-            },
-            "E/17/284": {
-                "name": "Rathnayake R.L.D.A.S",
-                "email": "e17284@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/284",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17284.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/284/"
-            }
-        },
-        "supervisors": {
-            "nuwanjaliyagoda@eng.pdn.ac.lk": {
-                "name": "Nuwan Jaliyagoda",
-                "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk//students/e15/140",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/nuwan.jpg",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/nuwanjaliyagoda",
-                "website": "#",
-                "linkedin": "#",
-                "researchgate": "#",
-                "google_scholar": "#"
-            },
-            "thusharab@eng.pdn.ac.lk": {
-                "name": "Thushara Bandara",
-                "email": "thusharab@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/temporary-academic-staff/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/thushara.jpeg",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/thusharab",
-                "website": "#",
-                "linkedin": "#",
-                "researchgate": "#",
-                "google_scholar": "#"
-            }
-        },
-        "tags": [
-            "6yp",
-            "Machine Learning",
-            "Text Mining"
-        ]
-    },
-    "e17-co328-Flood-Forecasting-System": {
-        "title": "Flood Forecasting System",
-        "description": "Floods are the most destructive form of natural hazards in both local and global context. This is true in terms of both loss of life and property damage. Early flood forecasting can be used to identify potential areas of flooding in order to develop mitigatory planning and evacuation programs to remove people from such areas during flooding and also to implement suitable preventive measures to avoid damage to properties. In this project, our main objective is to build a flood forecasting system for Mi Oya river basin(Sri Lanka). Mi Oya Basin is heavily affected by seasonal flooding and droughts. As per the available data, floods in the Mi Oya basin are unleashed due to river overflow and reservoir spilling. Out of the several reservoirs located in the basin, Tabbowa and Inginimitiya are crucial in worsening the flood impacts as these two reservoirs are frequently spilling under adverse weather conditions. As such, the prevalence of a real-time flood forecasting model with the incorporation of the reservoir operations for the entire basin is essential to alleviate the flood induced impacts while preserving the optimum volume of water in the major reservoirs in the basin.",
-        "category": {
-            "title": "Software Engineering Projects (CO328)",
-            "code": "co328",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Flood-Forecasting-System/",
-        "repo_url": "https://github.com/cepdnaclk/e17-co328-Flood-Forecasting-System",
-        "page_url": "https://cepdnaclk.github.io/e17-co328-Flood-Forecasting-System",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Flood-Forecasting-System/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-        "team": {
-            "E/17/006": {
-                "name": "ALAHAKOON A.M.H.H",
-                "email": "e17006@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/006",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17006.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/006/"
-            },
-            "E/17/176": {
-                "name": "KUMARA W.M.E.S.K",
-                "email": "e17176@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/176",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17176.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/176/"
-            },
-            "E/17/338": {
-                "name": "SRIMAL R.M.L.C",
-                "email": "e17338@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/338",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17338.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/338/"
-            }
-        },
-        "supervisors": {
-            "upuljm@eng.pdn.ac.lk": {
-                "name": "Dr. Upul Jayasinghe",
-                "email": "upuljm@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/upul/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/upuljm",
-                "website": "",
-                "linkedin": "https://www.linkedin.com/in/upuljm/",
-                "researchgate": "https://www.researchgate.net/profile/Upul-Jayasinghe",
-                "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
-            },
-            "imeshuek@eng.pdn.ac.lk": {
-                "name": "Imesh Ekanayake",
-                "email": "imeshuek@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk//students/e15/092",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/imesh.png",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/imeshuek",
-                "website": "#",
-                "linkedin": "#",
-                "researchgate": "#",
-                "google_scholar": "#"
-            }
-        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co543/e17/SL-Number-Plate-Detection-Group-A/",
+        "repo_url": "https://github.com/cepdnaclk/e17-co543-SL-Number-Plate-Detection-Group-A",
+        "page_url": "https://cepdnaclk.github.io/e17-co543-SL-Number-Plate-Detection-Group-A",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/SL-Number-Plate-Detection-Group-A/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+        "team": {},
+        "supervisors": {},
         "tags": [
             "Web",
-            "Machine Learning"
-        ]
-    },
-    "e17-co328-Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data": {
-        "title": "Greenhouse monitoring and controlling based on IOT sensor data",
-        "description": "In traditional farming, farmer has to visit the farming land regularly to measure the various environmental parameters such as temperature, humidity and light intensity to cultivate the right crops at right time in right soil. Even though this traditional farming system have been used for years, the system is hectic and fail to prove high productivity rate as farmer usually unable to measure all the parameter accurately. In contrast, greenhouse farming is a system where farmer cultivate crops in ecosystem environments where all environmental parameters are adjusted based on crop types. Automation in greenhouse is a method where farmer can monitor and control the greenhouse environment automatically from anywhere in the world any time. Automated greenhouse monitoring and controlling system that incorporate various sensors such as temperature sensor, humidity sensor and light sensor to collect possible environmental parameters of greenhouse. Internet of Things (IoT) is used to store data to a database and process the collected data and finally send the information to the web interface which has been developed for monitoring and controlling of greenhouse by the user.",
-        "category": {
-            "title": "Software Engineering Projects (CO328)",
-            "code": "co328",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data/",
-        "repo_url": "https://github.com/cepdnaclk/e17-co328-Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data",
-        "page_url": "https://cepdnaclk.github.io/e17-co328-Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
-    },
-    "e17-co328-Oral-Cavity-Region-Detection": {
-        "title": "Oral Cavity Region Detection",
-        "description": "This project contains a web-based application that can be used to upload images of the oral cavity and identify the known regions which are normal. ",
-        "category": {
-            "title": "Software Engineering Projects (CO328)",
-            "code": "co328",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Oral-Cavity-Region-Detection/",
-        "repo_url": "https://github.com/cepdnaclk/e17-co328-Oral-Cavity-Region-Detection",
-        "page_url": "https://cepdnaclk.github.io/e17-co328-Oral-Cavity-Region-Detection",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Oral-Cavity-Region-Detection/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
-    },
-    "e17-co328-Prediction-of-heart-disease-using-ECG": {
-        "title": "Prediction of heart disease using ECG",
-        "description": "A software application for predicting potential heart diseases using ECG data",
-        "category": {
-            "title": "Software Engineering Projects (CO328)",
-            "code": "co328",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Prediction-of-heart-disease-using-ECG/",
-        "repo_url": "https://github.com/cepdnaclk/e17-co328-Prediction-of-heart-disease-using-ECG",
-        "page_url": "https://cepdnaclk.github.io/e17-co328-Prediction-of-heart-disease-using-ECG",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Prediction-of-heart-disease-using-ECG/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-        "team": {
-            "E/17/252": {
-                "name": "Kenath Perera",
-                "email": "e17252@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/252",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17252.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/252/"
-            },
-            "E/17/242": {
-                "name": "Ruchika Perera",
-                "email": "e17242@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/242",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17242.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/242/"
-            },
-            "E/17/044": {
-                "name": "Deanna Coralage",
-                "email": "e17044@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/044",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17044.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/044/"
-            }
-        },
-        "supervisors": {
-            "dhammika@eng.pdn.ac.lk": {
-                "name": "Dr. Dhammika Elkaduwe",
-                "email": "dhammika@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/dhammika-elkaduwe/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/dhammika-elkaduwe.png",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/dhammika",
-                "website": "",
-                "linkedin": "https://lk.linkedin.com/in/dhammika-elkaduwe-74030613",
-                "researchgate": "https://www.researchgate.net/profile/Dhammika-Elkaduwe",
-                "google_scholar": "https://scholar.google.com/citations?user=zLUPMFkAAAAJ&hl=en"
-            },
-            "sampath@eng.pdn.ac.lk": {
-                "name": "Mr. Sampath Deegalla",
-                "email": "sampath@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/sampath-deegalla/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/sampath-deegalla.jpg",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/sampath",
-                "website": "https://www.sites.google.com/site/dsdeegalla/",
-                "linkedin": "https://www.linkedin.com/in/dsdeegalla",
-                "researchgate": "https://www.researchgate.net/profile/Sampath-Deegalla-2",
-                "google_scholar": "https://scholar.google.com/citations?user=QDoeGtYAAAAJ&hl=en"
-            }
-        },
-        "tags": [
-            "Software Engineering",
-            "Machine Learning",
-            "Operating Systems"
-        ]
-    },
-    "e17-co328-Research-profiles-of-academic-staff": {
-        "title": "Research profiles of academic staff",
-        "description": "A web portal to collect all publications on all areas under Computer Engineering department to a single information repository.\u200b",
-        "category": {
-            "title": "Software Engineering Projects (CO328)",
-            "code": "co328",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Research-profiles-of-academic-staff/",
-        "repo_url": "https://github.com/cepdnaclk/e17-co328-Research-profiles-of-academic-staff",
-        "page_url": "https://cepdnaclk.github.io/e17-co328-Research-profiles-of-academic-staff",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Research-profiles-of-academic-staff/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
-    },
-    "e17-co328-Visualization-of-Teacher-Student-Activities": {
-        "title": "Visualization of Teacher Student Activities",
-        "description": "This a graphical tool for represent teacher-student activities based on Moodle log data",
-        "category": {
-            "title": "Software Engineering Projects (CO328)",
-            "code": "co328",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Visualization-of-Teacher-Student-Activities/",
-        "repo_url": "https://github.com/cepdnaclk/e17-co328-Visualization-of-Teacher-Student-Activities",
-        "page_url": "https://cepdnaclk.github.io/e17-co328-Visualization-of-Teacher-Student-Activities",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Visualization-of-Teacher-Student-Activities/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
-    },
-    "e17-co328-apparel-industry-performance-analyser": {
-        "title": "apparel industry performance analyser",
-        "description": "A tool for data visualization and performance optimization of the production process of apparel industry.",
-        "category": {
-            "title": "Software Engineering Projects (CO328)",
-            "code": "co328",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/apparel-industry-performance-analyser/",
-        "repo_url": "https://github.com/cepdnaclk/e17-co328-apparel-industry-performance-analyser",
-        "page_url": "https://cepdnaclk.github.io/e17-co328-apparel-industry-performance-analyser",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/apparel-industry-performance-analyser/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-        "team": {
-            "E/17/134": {
-                "name": "Kavindu Jayasooriya",
-                "email": "e17134@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/KavinduJayas",
-                "linkedin": "https://www.linkedin.com/in/kavindu-jayasooriya/",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/134",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17134.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/134/"
-            },
-            "E/17/207": {
-                "name": "Pasindu Marasinghe",
-                "email": "e17207@eng.pdn.ac.lk",
-                "website": "https://pasindumarasinghe.live",
-                "github": "https://github.com/pasindumarasinghe",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/207",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17207.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/207/"
-            },
-            "E/17/318": {
-                "name": "Udith Amasura",
-                "email": "e17318@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/318",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17318.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/318/"
-            }
-        },
-        "supervisors": {
-            "asithab@eng.pdn.ac.lk": {
-                "name": "Dr. Asitha Bandaranayake",
-                "email": "asithab@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/asitha-bandaranayake/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake.jpg",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/asithab",
-                "website": "",
-                "linkedin": "https://www.linkedin.com/in/asithab/",
-                "researchgate": "https://www.researchgate.net/profile/Asitha-Bandaranayake-3",
-                "google_scholar": "https://scholar.google.com/citations?hl=en&user=sf6MaF4AAAAJ"
-            },
-            "cds@eng.pdn.ac.lk": {
-                "name": "Dr. Chanaka Senanayake",
-                "email": "cds@eng.pdn.ac.lk",
-                "profile_url": "#",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
-                "api_url": "#",
-                "website": "#",
-                "linkedin": "#",
-                "researchgate": "#",
-                "google_scholar": "#"
-            }
-        },
-        "tags": [
-            "Web",
-            "Machine Learning"
+            "Embedded Systems"
         ]
     },
     "e16-co328-Footwear-Shop-System": {
@@ -13018,116 +13191,6 @@
         "supervisors": {},
         "tags": [
             "Web"
-        ]
-    },
-    "e15-co543-Brain-Tumor-Detection": {
-        "title": "Brain Tumor Detection",
-        "description": "",
-        "category": {
-            "title": "Image Processing Projects (CO543)",
-            "code": "co543",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co543/e15/Brain-Tumor-Detection/",
-        "repo_url": "https://github.com/cepdnaclk/e15-co543-Brain-Tumor-Detection",
-        "page_url": "#",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E15/Brain-Tumor-Detection/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg"
-    },
-    "e15-co543-Swarm-Robot-Monitoring-System-group-A": {
-        "title": "Swarm Robot Monitoring System group A",
-        "description": "A swarm robotics systems consists of automation robots with local sensing and communication capabilities, lacking centralized control or access to global information, situated in a possibly unknown environment performing a collective action. Therefore, having centralized monitoring in addition to the distributed local sensing yields to a more robust system as a centralized monitoring system capable of performing global collective actions under a wide range of group sizes (scalability), despite the possible sudden loss of multiple agents (robustness), and under unknown and dynamic circumstances (flexibility).",
-        "category": {
-            "title": "Image Processing Projects (CO543)",
-            "code": "co543",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co543/e15/Swarm-Robot-Monitoring-System-group-A/",
-        "repo_url": "https://github.com/cepdnaclk/e15-co543-Swarm-Robot-Monitoring-System-group-A",
-        "page_url": "#",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E15/Swarm-Robot-Monitoring-System-group-A/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg"
-    },
-    "e15-co543-Swarm-Robot-Monitoring-System-group-B": {
-        "title": "Swarm Robot Monitoring System group B",
-        "description": "localization of robots, identifying  the boundary of arena and distance calculation with image processing(openCV python)",
-        "category": {
-            "title": "Image Processing Projects (CO543)",
-            "code": "co543",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co543/e15/Swarm-Robot-Monitoring-System-group-B/",
-        "repo_url": "https://github.com/cepdnaclk/e15-co543-Swarm-Robot-Monitoring-System-group-B",
-        "page_url": "#",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E15/Swarm-Robot-Monitoring-System-group-B/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg"
-    },
-    "e15-co543-Swarm-Robot-Monitoring-System-group-C": {
-        "title": "Swarm Robot Monitoring System group C",
-        "description": "Localization of multiple robots in real time, Video restoration at the presence of noise due to lighting conditions and degradation due to motion blur.",
-        "category": {
-            "title": "Image Processing Projects (CO543)",
-            "code": "co543",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co543/e15/Swarm-Robot-Monitoring-System-group-C/",
-        "repo_url": "https://github.com/cepdnaclk/e15-co543-Swarm-Robot-Monitoring-System-group-C",
-        "page_url": "#",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E15/Swarm-Robot-Monitoring-System-group-C/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg"
-    },
-    "e17-co543-Mini-Project-Group-H": {
-        "title": "Mini Project Group H",
-        "description": "A License / Number Plate Recognition (NPR) system using OpenCV and Python.",
-        "category": {
-            "title": "Image Processing Projects (CO543)",
-            "code": "co543",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co543/e17/Mini-Project-Group-H/",
-        "repo_url": "https://github.com/cepdnaclk/e17-co543-Mini-Project-Group-H",
-        "page_url": "#",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/Mini-Project-Group-H/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg"
-    },
-    "e17-co543-Number-Plate-Recognition-system": {
-        "title": "Number Plate Recognition system",
-        "description": "Number Plate Recognition (NPR) system to detect Sri Lankan number plate images",
-        "category": {
-            "title": "Image Processing Projects (CO543)",
-            "code": "co543",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co543/e17/Number-Plate-Recognition-system/",
-        "repo_url": "https://github.com/cepdnaclk/e17-co543-Number-Plate-Recognition-system",
-        "page_url": "https://cepdnaclk.github.io/e17-co543-Number-Plate-Recognition-system",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/Number-Plate-Recognition-system/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
-        "team": {},
-        "supervisors": {},
-        "tags": [
-            "Web",
-            "Embedded Systems"
-        ]
-    },
-    "e17-co543-SL-Number-Plate-Detection-Group-A": {
-        "title": "SL Number Plate Detection Group A",
-        "description": "An automated number plate recognition solution for Sri Lankan number plate images.",
-        "category": {
-            "title": "Image Processing Projects (CO543)",
-            "code": "co543",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co543/e17/SL-Number-Plate-Detection-Group-A/",
-        "repo_url": "https://github.com/cepdnaclk/e17-co543-SL-Number-Plate-Detection-Group-A",
-        "page_url": "https://cepdnaclk.github.io/e17-co543-SL-Number-Plate-Detection-Group-A",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/SL-Number-Plate-Detection-Group-A/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
-        "team": {},
-        "supervisors": {},
-        "tags": [
-            "Web",
-            "Embedded Systems"
         ]
     },
     "e16-co502-RISCV-Pipeline-CPU-Implimentation-Group2": {
