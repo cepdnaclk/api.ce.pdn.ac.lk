@@ -19,14 +19,18 @@ apiIndex = 'https://api.ce.pdn.ac.lk/people/v1'
 apiSource = 'https://people.ce.pdn.ac.lk/api/staff/'
 
 # Split the email address into 2 fields
+
+
 def emailFilter(email):
     if email != "":
         words = email.split('@')
-        return { 'name':words[0], 'domain':words[1] }
+        return {'name': words[0], 'domain': words[1]}
     else:
-        return { 'name': "", 'domain': "" }
+        return {'name': "", 'domain': ""}
 
 # Delete the existing files first
+
+
 def del_old_files():
     dir_path = "../people/v1/staff/"
     try:
@@ -35,13 +39,15 @@ def del_old_files():
         print("Error !")
 
 # Write the /staff/index.json
+
+
 def write_index(staff_list):
     dict = {}
 
     for email in staff_list:
         raw = staff_list[email]
         email_id = email.split('@')[0]
-        url = '{0}/staff/{1}/'.format(apiIndex,email_id)
+        url = '{0}/staff/{1}/'.format(apiIndex, email_id)
         dict[email] = {
             'name': raw['name'],
             'url': url,
@@ -51,13 +57,17 @@ def write_index(staff_list):
     filename = "../people/v1/staff/index.json"
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, "w") as f:
-        f.write(json.dumps(dict, indent = 4))
+        f.write(json.dumps(dict, indent=4))
 
 # Write the /staff/{email_id}/index.json files
+
+
 def write_staff_pages(staff_list):
     for email in staff_list:
         raw_data = staff_list[email]
         email_id = email.split('@')[0]
+
+        print("Page Write: " + raw_data['name'])
 
         filename = "../people/v1/staff/" + email_id + "/index.json"
         os.makedirs(os.path.dirname(filename), exist_ok=True)
@@ -72,16 +82,17 @@ def write_staff_pages(staff_list):
         }
 
         with open(filename, "w") as f:
-            f.write(json.dumps(data, indent = 4))
+            f.write(json.dumps(data, indent=4))
 
 # Write the /staff/all/index.json file
+
+
 def write_all(staff_list, temp_staff_list, support_staff_list):
     data_all = {}
     sorted_data_all = {}
 
     filename = "../people/v1/staff/all/index.json"
     os.makedirs(os.path.dirname(filename), exist_ok=True)
-
 
     # Temporary Academic Staff
     for email in temp_staff_list:
@@ -117,8 +128,6 @@ def write_all(staff_list, temp_staff_list, support_staff_list):
         }
         data_all[email_id] = data
 
-
-
     # Sort in alphabatical order
     for key in sorted(data_all):
         sorted_data_all[key] = data_all[key]
@@ -136,7 +145,7 @@ r = requests.get(apiSource)
 staff_list = {}
 
 # Fetch data from the people.ce.pdn.ac.lk
-if r.status_code==200:
+if r.status_code == 200:
     all_staff_list = json.loads(r.text)
 
     # Academic Staff -----------------------------------------------------------
@@ -146,13 +155,15 @@ if r.status_code==200:
     write_index(staff_list)
 
     # Create files for each academic staff member
+    print("Building: Academic Staff details")
     write_staff_pages(staff_list)
 
     # Temporary Academic and Academic Support Staff ----------------------------
     # No individual pages for them
+    print("Building: Temporary and NonAcademic staff details")
     temp_staff_list = all_staff_list['temporary-academic']
     support_staff_list = all_staff_list['support-academic']
 
-
     # Create the aggregated index file
+    print("Generating: all/index.json")
     write_all(staff_list, temp_staff_list, support_staff_list)
