@@ -11,12 +11,36 @@
     ],
     "author_info": [
         {
+            "type": "OUTSIDER",
+            "id": "outsider",
+            "name": "",
+            "email": "",
+            "profile_image": "#",
+            "profile_url": "#"
+        },
+        {
+            "type": "OUTSIDER",
+            "id": "outsider",
+            "name": "",
+            "email": "",
+            "profile_image": "#",
+            "profile_url": "#"
+        },
+        {
             "type": "STAFF",
             "id": "sampath",
             "name": "Mr. Sampath Deegalla",
             "email": "sampath@eng.pdn.ac.lk",
             "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/sampath-deegalla.jpg",
             "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/sampath-deegalla/"
+        },
+        {
+            "type": "OUTSIDER",
+            "id": "outsider",
+            "name": "",
+            "email": "",
+            "profile_image": "#",
+            "profile_url": "#"
         }
     ],
     "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9605963",
