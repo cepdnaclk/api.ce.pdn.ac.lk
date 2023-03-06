@@ -7,7 +7,24 @@
         "Janaka Alawatugoda",
         "Tatsuaki Okamoto"
     ],
-    "author_info": [],
+    "author_info": [
+        {
+            "type": "OUTSIDER",
+            "id": "alawathugoda",
+            "name": "",
+            "email": "",
+            "profile_image": "#",
+            "profile_url": "#"
+        },
+        {
+            "type": "OUTSIDER",
+            "id": "outsider",
+            "name": "",
+            "email": "",
+            "profile_image": "#",
+            "profile_url": "#"
+        }
+    ],
     "doi": "https://doi.org/10.1007/s10623-022-01028-0",
     "preprint_url": "https://eprint.iacr.org/2021/861.pdf",
     "pdf_url": "#",
