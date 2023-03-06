@@ -13,6 +13,7 @@ from datetime import date, datetime
 
 from utility import getStudent
 from utility import getStaff
+from collections import defaultdict
 
 # Use SL timezone
 os.environ['TZ'] = 'Asia/Colombo'
@@ -94,6 +95,7 @@ PROJECT_URL = 17
 
 FIELD_COUNT = 18
 
+
 # print(json.dumps(pub_raw[0].replace('\r', '').split("\t"), indent = 4))
 
 # Skip the header line
@@ -124,6 +126,8 @@ for line in pub_raw[1:]:
             person_card = getStaff(apiBase, staff, author_id)
             if person_card != None:
                 author_info.append(person_card)
+        else:
+            author_info.append(defaultdict(lambda: "Outsider"))
 
     api_url = "{0}/publications/v1/{1}/".format(apiBase, get_id_from_doi(pub_raw_data[DOI]))
 
