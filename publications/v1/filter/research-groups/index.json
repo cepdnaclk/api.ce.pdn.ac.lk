@@ -78,7 +78,7 @@
     ],
     "Computational BioEngineering": [
         {
-            "title": "Non-contact Infant Sleep Apnea Detection",
+            "title": "E/15/379, E/14/158, E/14/339, E/14/237, roshanr@eng.pdn.ac.lk, isurunawinne@eng.pdn.ac.lk",
             "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
             "year": "2019",
             "abstract": "Sleep apnea is a breathing disorder where a person repeatedly stops breathing in sleep. Early detection is crucial for infants because it might bring long term adversities. The existing accurate detection mechanism (pulse oximetry) is a skin contact measurement. The existing non-contact mechanisms (acoustics, video processing) are not accurate enough. This paper presents a novel algorithm for the detection of sleep apnea with video processing. The solution is non-contact, accurate and lightweight enough to run on a single board computer. The paper discusses the accuracy of the algorithm on real data, advantages of the new algorithm, its limitations and suggests future improvements.",
@@ -180,7 +180,7 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185373/index.json"
         },
         {
-            "title": "Non-contact Infant Sleep Apnea Detection",
+            "title": "E/15/379, E/14/158, E/14/339, E/14/237, roshanr@eng.pdn.ac.lk, isurunawinne@eng.pdn.ac.lk",
             "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
             "year": "2019",
             "abstract": "Sleep apnea is a breathing disorder where a person repeatedly stops breathing in sleep. Early detection is crucial for infants because it might bring long term adversities. The existing accurate detection mechanism (pulse oximetry) is a skin contact measurement. The existing non-contact mechanisms (acoustics, video processing) are not accurate enough. This paper presents a novel algorithm for the detection of sleep apnea with video processing. The solution is non-contact, accurate and lightweight enough to run on a single board computer. The paper discusses the accuracy of the algorithm on real data, advantages of the new algorithm, its limitations and suggests future improvements.",
@@ -878,7 +878,7 @@
             "year": "2017",
             "abstract": "Typically, secure channels are constructed from an authenticated key exchange (AKE) protocol, which authenticates the communicating parties based on long-term public keys and establishes secret session keys. In this paper we address the partial leakage of long-term secret keys of key exchange protocol participants due to various side-channel attacks. Security models for two-party authenticated key exchange protocols have been developed over time to provide security even when the adversary learns certain secret values. This paper combines and extends the advances of security modelling for AKE protocols addressing more granular partial leakage of long-term secrets of protocol participants. Further, we fix some flaws in security proofs of previous leakage-resilient key exchange protocols.",
             "authors": [
-                "https://doi.org/10.1515/jmc-2016-0003"
+                "Janaka Alawathugoda"
             ],
             "doi": "https://doi.org/10.1515/jmc-2016-0003",
             "preprint": "#",

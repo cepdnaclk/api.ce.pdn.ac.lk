@@ -39,12 +39,36 @@
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e14/339/"
             },
             {
+                "type": "OUTSIDER",
+                "id": "outsider",
+                "name": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
+                "type": "OUTSIDER",
+                "id": "outsider",
+                "name": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
                 "type": "STAFF",
                 "id": "roshanr",
                 "name": "Prof. Roshan G. Ragel",
                 "email": "roshanr@eng.pdn.ac.lk",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
                 "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+            },
+            {
+                "type": "OUTSIDER",
+                "id": "outsider",
+                "name": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
             }
         ],
         "doi": "https://doi.org/10.1109/MERCon50084.2020.9185373",
@@ -68,7 +92,7 @@
         "submitted": "2022/05/13 12:26:29"
     },
     {
-        "title": "Non-contact Infant Sleep Apnea Detection",
+        "title": "E/15/379, E/14/158, E/14/339, E/14/237, roshanr@eng.pdn.ac.lk, isurunawinne@eng.pdn.ac.lk",
         "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
         "year": "2019",
         "abstract": "Sleep apnea is a breathing disorder where a person repeatedly stops breathing in sleep. Early detection is crucial for infants because it might bring long term adversities. The existing accurate detection mechanism (pulse oximetry) is a skin contact measurement. The existing non-contact mechanisms (acoustics, video processing) are not accurate enough. This paper presents a novel algorithm for the detection of sleep apnea with video processing. The solution is non-contact, accurate and lightweight enough to run on a single board computer. The paper discusses the accuracy of the algorithm on real data, advantages of the new algorithm, its limitations and suggests future improvements.",
@@ -336,14 +360,6 @@
             },
             {
                 "type": "OUTSIDER",
-                "id": "E/10/102",
-                "name": "",
-                "email": "",
-                "profile_image": "#",
-                "profile_url": "#"
-            },
-            {
-                "type": "OUTSIDER",
                 "id": "outsider",
                 "name": "",
                 "email": "",
@@ -376,7 +392,7 @@
             },
             {
                 "type": "OUTSIDER",
-                "id": "E/10/102",
+                "id": "outsider",
                 "name": "",
                 "email": "",
                 "profile_image": "#",
@@ -638,14 +654,6 @@
             {
                 "type": "OUTSIDER",
                 "id": "outsider",
-                "name": "",
-                "email": "",
-                "profile_image": "#",
-                "profile_url": "#"
-            },
-            {
-                "type": "OUTSIDER",
-                "id": "",
                 "name": "",
                 "email": "",
                 "profile_image": "#",
@@ -1765,7 +1773,6 @@
             "Isuru B. Nawinne",
             "Mahanama S. Wickramasinghe",
             "Roshan G. Ragel",
-            "Member",
             "Swarnalatha Radhakrishnan"
         ],
         "author_info": [
@@ -3589,12 +3596,20 @@
         ],
         "author_info": [
             {
-                "type": "OUTSIDER",
-                "id": "E/15/243 .E/15/048",
-                "name": "",
-                "email": "",
-                "profile_image": "#",
-                "profile_url": "#"
+                "type": "STUDENT",
+                "id": "E/15/243",
+                "name": "Sewwandi Nisansala",
+                "email": "e15243@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15243.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/243/"
+            },
+            {
+                "type": "STUDENT",
+                "id": "E/15/048",
+                "name": "Gayal Laksara",
+                "email": "e15048@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15048.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/048/"
             },
             {
                 "type": "STUDENT",
@@ -4101,7 +4116,7 @@
         "year": "2017",
         "abstract": "Typically, secure channels are constructed from an authenticated key exchange (AKE) protocol, which authenticates the communicating parties based on long-term public keys and establishes secret session keys. In this paper we address the partial leakage of long-term secret keys of key exchange protocol participants due to various side-channel attacks. Security models for two-party authenticated key exchange protocols have been developed over time to provide security even when the adversary learns certain secret values. This paper combines and extends the advances of security modelling for AKE protocols addressing more granular partial leakage of long-term secrets of protocol participants. Further, we fix some flaws in security proofs of previous leakage-resilient key exchange protocols.",
         "authors": [
-            "https://doi.org/10.1515/jmc-2016-0003"
+            "Janaka Alawathugoda"
         ],
         "author_info": [
             {
@@ -4972,6 +4987,14 @@
             {
                 "type": "OUTSIDER",
                 "id": "E/10/143",
+                "name": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
+                "type": "OUTSIDER",
+                "id": "outsider",
                 "name": "",
                 "email": "",
                 "profile_image": "#",
