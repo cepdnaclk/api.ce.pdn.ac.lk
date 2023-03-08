@@ -206,6 +206,162 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2012.6304784/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIInfS.2012.6304784/index.json"
+        },
+        {
+            "title": "Detection of Novel Biomarker Genes of Alzheimer\u00e2\u0080\u0099s Disease Using Gene Expression Data",
+            "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2020",
+            "abstract": "It is well recognized, that most common form of dementia is Alzheimer's disease and a successful cure or medication is not discovered. A plethora of research has been conducted to understand the underlying mechanism and the pathogenesis of the Alzheimer's disease. To explore the underlying genetic structure of the disease, gene expression data is being used by many researches and computational and statistical approaches were used to identify possible genes that are risk. In this paper, we propose a machine learning framework that can be used to identify possible bio-marker genes. Our experiments discover possible set of 14 genes, which some of them are validated by biological sources. We also present a critical analysis of the propose machine learning framework using GSE5281 gene dataset.",
+            "authors": [
+                "Shehan Perera",
+                "Kaveesha Hewage",
+                "Chamara Gunarathne",
+                "Rajitha Navarathna",
+                "Damayanthi Herath",
+                "Roshan G Ragel"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185336",
+            "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/346705332_Detection_of_Novel_Biomarker_Genes_of_Alzheimer's_Disease_Using_Gene_Expression_Data/links/607ffd468ea909241e1273dd/Detection-of-Novel-Biomarker-Genes-of-Alzheimers-Disease-Using-Gene-Expression-Data.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering"
+            ],
+            "funding": "",
+            "tags": [
+                "Principal component analysis",
+                "Feature extraction",
+                "Forestry",
+                "Correlation",
+                "Support vector machines",
+                "Dementia"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185336/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185336/index.json"
+        },
+        {
+            "title": "A Data Driven Binning Method to Recover More Nucleotide Sequences of Species in a Metagenome",
+            "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2020",
+            "abstract": "Metagenomics accelerated the process of studying different species and their dynamics in multiple environments. A key step in a metagenomic study is to group nucleotide sequences belonging to an individual or closely related species which is often termed binning. Multiple machine learning techniques have been adopted in binning metagenomic sequences. Specifically, unsupervised learning is being used in most of the recent binning methods. This work considers data-driven methods for binning metagenomic sequences and discusses such approaches in detail. Furthermore, it explores on increasing the amount of metagenomic sequences binned while maintaining a reasonable binning accuracy. Consequently, a dissimilarity-based approach is proposed to improve the number of contigs binned by an existing binning method. It is shown to result in a 10% increase in the number of contigs binned compared to the original approach. Accordingly, this work suggests that the effective use of observed data which may be discarded as outliers otherwise, may result in improved performance in binning.",
+            "authors": [
+                "Kasun Vimukthi",
+                "Geeth Wimalasiri",
+                "Prabhath Bandara",
+                "Damayanthi Herath"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185388",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering"
+            ],
+            "funding": "",
+            "tags": [
+                "Genomics",
+                "DNA",
+                "Sequential analysis",
+                "Bioinformatics",
+                "Taxonomy",
+                "Clustering algorithms",
+                "Benchmark testing"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185388/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185388/index.json"
+        },
+        {
+            "title": "miRNAFinder: A pre-microRNA classifier for plants and analysis of feature impact",
+            "venue": "2020 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB)",
+            "year": "2020",
+            "abstract": "MicroRNAs (miRNAs) are endogenous small noncoding RNAs that play an important role in post-transcriptional gene regulation. Several machine learning-based studies have been conducted for miRNA identification with the use of miRNA features. It is difficult to classify real and pseudo-pre-miRNAs in plant species than that in animals since plant pre-miRNAs are more diverse than the animal pre-miRNAs. Therefore, this study is focused on classifying real and pseudo precursor miRNAs (pre-miRNAs) in plants. We have introduced a machine learning model based on a 280 feature set including compositional, sequence-based, and thermodynamic features. Classification performance is tested and compared, considering different feature sets and four different classifiers. Random forest classifier results in the best classification performance with all 280 features with a 97% accuracy for the testing dataset.",
+            "authors": [
+                "Puwasuru Ihalagedara",
+                "Sandali Lokuge",
+                "Shyaman Jayasundara",
+                "Damayanthi Herath",
+                "Indika Kahanda"
+            ],
+            "doi": "https://doi.org/10.1109/CIBCB48159.2020.9277723",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering"
+            ],
+            "funding": "",
+            "tags": [
+                "Feature extraction",
+                "RNA",
+                "Support vector machines",
+                "Testing",
+                "Animals",
+                "Vegetation",
+                "Random forests"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/CIBCB48159.2020.9277723/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/CIBCB48159.2020.9277723/index.json"
+        },
+        {
+            "title": "Revealing MicroRNA Biomarkers for Alzheimer\u00e2\u0080\u0099s Disease Using Next Generation Sequencing Data",
+            "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2021",
+            "abstract": "",
+            "authors": [
+                "Imalsha Dinuwanthi",
+                "Hasini Thilakarathna",
+                "Vidwa Sripadi",
+                "Damayanthi Herath",
+                "Roshan Ragel"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9606093",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering"
+            ],
+            "funding": "",
+            "tags": [
+                ""
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606093/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606093/index.json"
+        },
+        {
+            "title": "DeepSelectNet: deep neural network based selective sequencing for oxford nanopore sequencing",
+            "venue": "BMC bioinformatics",
+            "year": "2023",
+            "abstract": "",
+            "authors": [
+                "Anjana Senanayake",
+                "Hasindu Gamaarachchi",
+                "Damayanthi Herath",
+                "Roshan Ragel"
+            ],
+            "doi": "https://doi.org/10.1186/s12859-023-05151-0",
+            "preprint": "#",
+            "pdf": "https://doi.org/10.1186/s12859-023-05151-0",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "https://github.com/AnjanaSenanayake/DeepSelectNet",
+            "researchgroups": [
+                "Computational BioEngineering"
+            ],
+            "funding": "",
+            "tags": [
+                ""
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1186/s12859-023-05151-0/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1186/s12859-023-05151-0/index.json"
         }
     ],
     "Computer Vision": [

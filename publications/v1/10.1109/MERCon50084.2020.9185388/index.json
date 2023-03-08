@@ -1,0 +1,67 @@
+{
+    "title": "A Data Driven Binning Method to Recover More Nucleotide Sequences of Species in a Metagenome",
+    "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+    "year": "2020",
+    "abstract": "Metagenomics accelerated the process of studying different species and their dynamics in multiple environments. A key step in a metagenomic study is to group nucleotide sequences belonging to an individual or closely related species which is often termed binning. Multiple machine learning techniques have been adopted in binning metagenomic sequences. Specifically, unsupervised learning is being used in most of the recent binning methods. This work considers data-driven methods for binning metagenomic sequences and discusses such approaches in detail. Furthermore, it explores on increasing the amount of metagenomic sequences binned while maintaining a reasonable binning accuracy. Consequently, a dissimilarity-based approach is proposed to improve the number of contigs binned by an existing binning method. It is shown to result in a 10% increase in the number of contigs binned compared to the original approach. Accordingly, this work suggests that the effective use of observed data which may be discarded as outliers otherwise, may result in improved performance in binning.",
+    "authors": [
+        "Kasun Vimukthi",
+        "Geeth Wimalasiri",
+        "Prabhath Bandara",
+        "Damayanthi Herath"
+    ],
+    "author_info": [
+        {
+            "type": "OUTSIDER",
+            "id": "outsider",
+            "name": "",
+            "email": "",
+            "profile_image": "#",
+            "profile_url": "#"
+        },
+        {
+            "type": "OUTSIDER",
+            "id": "outsider",
+            "name": "",
+            "email": "",
+            "profile_image": "#",
+            "profile_url": "#"
+        },
+        {
+            "type": "OUTSIDER",
+            "id": "outsider",
+            "name": "",
+            "email": "",
+            "profile_image": "#",
+            "profile_url": "#"
+        },
+        {
+            "type": "STAFF",
+            "id": "damayanthiherath",
+            "name": "Dr. Damayanthi Herath",
+            "email": "damayanthiherath@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/damayanthi-herath/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/MERCon50084.2020.9185388",
+    "preprint_url": "#",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        "Computational BioEngineering"
+    ],
+    "tags": [
+        "Genomics",
+        "DNA",
+        "Sequential analysis",
+        "Bioinformatics",
+        "Taxonomy",
+        "Clustering algorithms",
+        "Benchmark testing"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185388/",
+    "submitted": "2023/03/08 07:40:50"
+}
