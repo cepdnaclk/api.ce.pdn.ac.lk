@@ -127,7 +127,9 @@ def process_supervisors(data):
 
         if email_id in staff:
             details = staff[email_id]
-            api_url = apiBase + "/people/v1/staff/" + email_id
+
+            # TODO: Need a better way than this
+            api_url = apiBase + "/people/v1/staff/" + email_id if details['designation'] != "Visiting Research Fellow" else "#"
 
             supervisors[person['email']] = {
                 'name': details['name'],
