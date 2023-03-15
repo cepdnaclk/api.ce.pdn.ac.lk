@@ -41,19 +41,22 @@ for pub in publications:
         for aIdx in range(len(pub_data["authors"])):
             author_cards.append({
                 "name": pub_data["authors"][aIdx],
-                "profile": "#"
+                "profile": "#",
+                "type": "UNDETERMINED"
             })
     else:
         for aIdx in range(len(pub_data["authors"])):
             if pub_data["author_info"][aIdx]["type"] == "OUTSIDER":
                 author_cards.append({
                     "name": pub_data["authors"][aIdx],
-                    "profile": "#"
+                    "profile": "#",
+                    "type": "OUTSIDER"
                 })
             else:
                 author_cards.append({
                     "name": pub_data["authors"][aIdx],
-                    "profile": pub_data["author_info"][aIdx]["profile_url"]
+                    "profile": pub_data["author_info"][aIdx]["profile_url"],
+                    "type": pub_data["author_info"][aIdx]["type"]
                 })
 
     edit_url = pub['api_url'].replace(
@@ -66,7 +69,6 @@ for pub in publications:
         'year': pub_data['year'],
         'abstract': pub_data['abstract'],
         'authors': pub_data['authors'],
-        'author_info': pub_data['author_info'],
         'author_cards': author_cards,
         'doi': pub_data['doi'],
         'preprint': pub_data['preprint_url'] or "#",
