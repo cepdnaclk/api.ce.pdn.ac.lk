@@ -51,6 +51,8 @@ def get_id_from_doi(doi):
     return doi_id
 
 # Write individual files for each publication
+
+
 def write_publication(data):
     doi_id = get_id_from_doi(data['doi'])
 
@@ -59,7 +61,7 @@ def write_publication(data):
         # print(filename)
         os.makedirs(os.path.dirname(filename), exist_ok=True)
         with open(filename, "w") as f:
-            f.write(json.dumps(data, indent = 4))
+            f.write(json.dumps(data, indent=4))
 
         # Debug:
         print(data['title'])
@@ -67,9 +69,11 @@ def write_publication(data):
 
 # ------------------------------------------------------------------------------
 
+
 google_form_link = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQkkmY3EMIGJamXqsR0eSku9hGxrVcq_5R1EdY_laqhajwsHkROj9XWYxUbNcM4yYjw4nrcRr5XpSZY/pub?output=tsv"
 
-pub_raw = requests.get(google_form_link, headers={'Cache-Control': 'no-cache'}).text.split("\n")
+pub_raw = requests.get(google_form_link, headers={
+                       'Cache-Control': 'no-cache'}).text.split("\n")
 publications = []
 
 # Source file index
@@ -94,6 +98,7 @@ PROJECT_URL = 17
 
 FIELD_COUNT = 18
 
+
 # print(json.dumps(pub_raw[0].replace('\r', '').split("\t"), indent = 4))
 
 # Skip the header line
@@ -101,14 +106,16 @@ for line in pub_raw[1:]:
 
     pub_raw_data = line.replace('\r', '').split("\t")
 
-    if(len(pub_raw_data) != FIELD_COUNT):
+    if (len(pub_raw_data) != FIELD_COUNT):
         print("Not supported: (", len(pub_raw_data), ')')
         continue
 
-    submitted_on =  datetime.strptime(pub_raw_data[TIMESTAMP], '%m/%d/%Y %H:%M:%S')
+    submitted_on = datetime.strptime(
+        pub_raw_data[TIMESTAMP], '%m/%d/%Y %H:%M:%S')
     authors = [x.strip() for x in pub_raw_data[AUTHORS].split(',')]
     author_ids = [x.strip() for x in pub_raw_data[AUTHOR_IDS].split(',')]
-    research_groups = [x.strip() for x in pub_raw_data[RESEARCH_GROUPS].split(',')]
+    research_groups = [x.strip()
+                       for x in pub_raw_data[RESEARCH_GROUPS].split(',')]
     tags = [x.strip() for x in pub_raw_data[TAGS].split(',')]
 
     author_info = []
@@ -124,8 +131,18 @@ for line in pub_raw[1:]:
             person_card = getStaff(apiBase, staff, author_id)
             if person_card != None:
                 author_info.append(person_card)
+        else:
+            author_info.append({
+                "type": "OUTSIDER",
+                "id": author_id,
+                "name": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            })
 
-    api_url = "{0}/publications/v1/{1}/".format(apiBase, get_id_from_doi(pub_raw_data[DOI]))
+    api_url = "{0}/publications/v1/{1}/".format(
+        apiBase, get_id_from_doi(pub_raw_data[DOI]))
 
     pub_data = {
         "title": pub_raw_data[TITLE],
@@ -158,4 +175,4 @@ for line in pub_raw[1:]:
 filename = "../publications/v1/all/index.json"
 os.makedirs(os.path.dirname(filename), exist_ok=True)
 with open(filename, "w") as f:
-    f.write(json.dumps(publications, indent = 4))
+    f.write(json.dumps(publications, indent=4))

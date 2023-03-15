@@ -28,6 +28,24 @@
         }
       }
     },
+    "/all/" : {
+      "get" : {
+        "operationId" : "allStaffMembers, with details",
+        "description" : "List of all the staff members with datails",
+        "produces" : [ "application/json" ],
+        "responses" : {
+          "200" : {
+            "description" : "Success",
+            "schema" : {
+              "type" : "array",
+              "items" : {
+                "$ref" : "#/definitions/StaffDetails"
+              }
+            }
+          }
+        }
+      }
+    },
     "/{staffMemberId}/" : {
       "get" : {
         "operationId" : "staffMember",

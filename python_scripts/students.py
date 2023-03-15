@@ -143,22 +143,21 @@ if r.status_code == 200:
         batch = data[eNumber]['batch']
 
         # API is only for E12 and onwards
-        if (batch[1:].isnumeric() and int(batch[1:]) >= 12):
+        # if (batch[1:].isnumeric() and int(batch[1:]) >= 12):
+        # Split the email address to avoid spaming
+        data[eNumber]['emails']['personal'] = emailFilter(
+            data[eNumber]['emails']['personal'])
+        data[eNumber]['emails']['faculty'] = emailFilter(
+            data[eNumber]['emails']['faculty'])
+        data[eNumber]['profile_page'] = webSource + 'students/' + \
+            data[eNumber]['eNumber'].replace('E/', 'e') + '/'
 
-            # Split the email address to avoid spaming
-            data[eNumber]['emails']['personal'] = emailFilter(
-                data[eNumber]['emails']['personal'])
-            data[eNumber]['emails']['faculty'] = emailFilter(
-                data[eNumber]['emails']['faculty'])
-            data[eNumber]['profile_page'] = webSource + 'students/' + \
-                data[eNumber]['eNumber'].replace('E/', 'e') + '/'
+        if data[eNumber]['profile_image'] == '':
+            data[eNumber]['profile_image'] = DEFAULT_PROFILE_IMAGE
 
-            if data[eNumber]['profile_image'] == '':
-                data[eNumber]['profile_image'] = DEFAULT_PROFILE_IMAGE
-
-            if batch not in batch_groups:
-                batch_groups[batch] = {}
-            batch_groups[batch][eNumber] = data[eNumber]
+        if batch not in batch_groups:
+            batch_groups[batch] = {}
+        batch_groups[batch][eNumber] = data[eNumber]
 
 # Write the index file for the students
 print("Building: Index pages")

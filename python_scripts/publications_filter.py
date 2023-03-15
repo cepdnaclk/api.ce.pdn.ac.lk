@@ -32,10 +32,32 @@ with open(publications_url, 'r') as f:
 for pub in publications:
 
     # read the publication information from the publication's index file
-    filename = pub['api_url'].replace('https://api.ce.pdn.ac.lk', '..') + "index.json"
+    filename = pub['api_url'].replace(
+        'https://api.ce.pdn.ac.lk', '..') + "index.json"
     pub_data = json.load(open(filename, "r"))
+    author_cards = []
 
-    edit_url = pub['api_url'].replace("https://api.ce.pdn.ac.lk/", "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/") + "index.json"
+    if len(pub_data["authors"]) != len(pub_data["author_info"]):
+        for aIdx in range(len(pub_data["authors"])):
+            author_cards.append({
+                "name": pub_data["authors"][aIdx],
+                "profile": "#"
+            })
+    else:
+        for aIdx in range(len(pub_data["authors"])):
+            if pub_data["author_info"][aIdx]["type"] == "OUTSIDER":
+                author_cards.append({
+                    "name": pub_data["authors"][aIdx],
+                    "profile": "#"
+                })
+            else:
+                author_cards.append({
+                    "name": pub_data["authors"][aIdx],
+                    "profile": pub_data["author_info"][aIdx]["profile_url"]
+                })
+
+    edit_url = pub['api_url'].replace(
+        "https://api.ce.pdn.ac.lk/", "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/") + "index.json"
 
     # Prepare a subset of the publication data
     pub_info = {
@@ -44,9 +66,11 @@ for pub in publications:
         'year': pub_data['year'],
         'abstract': pub_data['abstract'],
         'authors': pub_data['authors'],
+        'author_info': pub_data['author_info'],
+        'author_cards': author_cards,
         'doi': pub_data['doi'],
         'preprint': pub_data['preprint_url'] or "#",
-        'pdf': pub_data['pdf_url'] or"#",
+        'pdf': pub_data['pdf_url'] or "#",
         'presentation': pub_data['presentation_url'] or "#",
         'project': pub_data['project_url'] or "#",
         'codebase': pub_data['codebase'] or "#",
@@ -64,9 +88,10 @@ for pub in publications:
         for author in pub_data['author_info']:
             author_id = author['id']
 
-            if author_id!="" and author['type'] == 'STUDENT':
+            if author_id != "" and author['type'] == 'STUDENT':
                 # Student
-                if author_id not in student_author_dict: student_author_dict[author_id] = []
+                if author_id not in student_author_dict:
+                    student_author_dict[author_id] = []
 
                 # Delete the Abstract
                 temp_pub_info = pub_info.copy()
@@ -75,11 +100,12 @@ for pub in publications:
                 student_author_dict[author_id].append(temp_pub_info)
                 print('  > Student:', author_id)
 
-            elif author_id!="" and author['type'] == 'STAFF':
+            elif author_id != "" and author['type'] == 'STAFF':
                 # Staff
                 # NOTE: This need to be handle carefully !
                 key = author_id + '@eng.pdn.ac.lk'
-                if key not in staff_author_dict: staff_author_dict[key] = []
+                if key not in staff_author_dict:
+                    staff_author_dict[key] = []
 
                 # Delete the Abstract
                 temp_pub_info = pub_info.copy()
@@ -91,15 +117,17 @@ for pub in publications:
     # Add the project_tag info into the tag indexes
     if 'tags' in pub_data:
         for tag in pub_data['tags']:
-            if tag !="":
-                if tag not in tag_dict: tag_dict[tag] = []
+            if tag != "":
+                if tag not in tag_dict:
+                    tag_dict[tag] = []
                 tag_dict[tag].append(pub_info)
                 print('  > Tag:', tag)
 
     if 'research_groups' in pub_data:
         for tag in pub_data['research_groups']:
-            if tag !="":
-                if tag not in research_group_dict: research_group_dict[tag] = []
+            if tag != "":
+                if tag not in research_group_dict:
+                    research_group_dict[tag] = []
                 research_group_dict[tag].append(pub_info)
                 print('  > Research Group:', tag)
 
@@ -119,7 +147,7 @@ for key in sorted(student_author_dict):
 studentFilter_filename = "../publications/v1/filter/students/index.json"
 os.makedirs(os.path.dirname(studentFilter_filename), exist_ok=True)
 with open(studentFilter_filename, "w") as f:
-    f.write(json.dumps(students_sorted, indent = 4))
+    f.write(json.dumps(students_sorted, indent=4))
 
 staff_sorted = {}
 for key in sorted(staff_author_dict):
@@ -128,7 +156,7 @@ for key in sorted(staff_author_dict):
 staffFilter_filename = "../publications/v1/filter/staff/index.json"
 os.makedirs(os.path.dirname(staffFilter_filename), exist_ok=True)
 with open(staffFilter_filename, "w") as f:
-    f.write(json.dumps(staff_sorted, indent = 4))
+    f.write(json.dumps(staff_sorted, indent=4))
 
 # ------------------------------------------------------------------------------
 # Tags
@@ -140,7 +168,7 @@ for key in sorted(tag_dict):
 tagFilter_filename = "../publications/v1/filter/tags/index.json"
 os.makedirs(os.path.dirname(tagFilter_filename), exist_ok=True)
 with open(tagFilter_filename, "w") as f:
-    f.write(json.dumps(tag_dict_sorted, indent = 4))
+    f.write(json.dumps(tag_dict_sorted, indent=4))
 
 # ------------------------------------------------------------------------------
 # Research groups
@@ -152,4 +180,4 @@ for key in sorted(research_group_dict):
 researchGroupFilter_filename = "../publications/v1/filter/research-groups/index.json"
 os.makedirs(os.path.dirname(researchGroupFilter_filename), exist_ok=True)
 with open(researchGroupFilter_filename, "w") as f:
-    f.write(json.dumps(research_group_dict_sorted, indent = 4))
+    f.write(json.dumps(research_group_dict_sorted, indent=4))

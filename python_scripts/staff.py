@@ -35,8 +35,8 @@ def del_old_files():
     dir_path = "../people/v1/staff/"
     try:
         shutil.rmtree(dir_path)
-    except error as e:
-        print("Error !")
+    except:
+        print("Error on deleting old files!")
 
 # Write the /staff/index.json
 
@@ -87,7 +87,7 @@ def write_staff_pages(staff_list):
 # Write the /staff/all/index.json file
 
 
-def write_all(staff_list, temp_staff_list, support_staff_list):
+def write_all(staff_list, temp_staff_list, support_staff_list, visiting_staff_list):
     data_all = {}
     sorted_data_all = {}
 
@@ -107,7 +107,7 @@ def write_all(staff_list, temp_staff_list, support_staff_list):
             'profile_url': raw_data['link'],
             'profile_image': raw_data['profile_image'],
             'urls': {},
-            'research_interests': {},
+            'research_interests': [],
         }
         data_all[email_id] = data
 
@@ -125,6 +125,23 @@ def write_all(staff_list, temp_staff_list, support_staff_list):
             'profile_image': raw_data['profile_image'],
             'urls': raw_data['urls'],
             'research_interests': raw_data['research_interests'],
+        }
+        data_all[email_id] = data
+
+    # Visiting Staff 
+    for email in visiting_staff_list:
+        raw_data = visiting_staff_list[email]
+        email_id = email.split('@')[0]
+
+        raw_data = visiting_staff_list[email]
+        data = {
+            'name': raw_data['name'],
+            'designation': raw_data['designation'],
+            'email': raw_data['email'],
+            'profile_url': raw_data['link'],
+            'profile_image': raw_data['profile_image'],
+            'urls': raw_data['urls'],
+            'research_interests': [],
         }
         data_all[email_id] = data
 
@@ -164,6 +181,11 @@ if r.status_code == 200:
     temp_staff_list = all_staff_list['temporary-academic']
     support_staff_list = all_staff_list['support-academic']
 
+    # Visiting Staff -----------------------------------------------------------
+    # No individual pages for them
+    print("Building: Visiting staff details")
+    visiting_staff_list = all_staff_list['visiting'] if "visiting" in all_staff_list else []
+
     # Create the aggregated index file
     print("Generating: all/index.json")
-    write_all(staff_list, temp_staff_list, support_staff_list)
+    write_all(staff_list, temp_staff_list, support_staff_list, visiting_staff_list)
