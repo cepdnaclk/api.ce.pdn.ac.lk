@@ -1,0 +1,50 @@
+{
+    "title": "Accelerating string matching for bio-computing applications on multi-core CPUs",
+    "venue": "2012 IEEE 7th International Conference on Industrial and Information Systems (ICIIS)",
+    "year": "2012",
+    "abstract": "Huge amount of data in the form of strings are being handled in bio-computing applications and searching algorithms are quite frequently used in them. Many methods utilizing on both software and hardware are being proposed to accelerate processing of such data. The typical hardware-based acceleration techniques either require special hardware such as generalpurpose graphics processing units (GPGPUs) or need building a new hardware such as an FPGA based design. On the other hard, software-based acceleration techniques are easier since they only require some changes in the software code or the software architecture. Typical software-based techniques make use of computers connected over a network, also known as a network grid to accelerate the processing. In this paper, we test the hypothesis that multi-core architectures should provide better performance in this kind of computation, but still it would depend on the algorithm selected as well as the programming model being utilized. We present the acceleration of a string-searching algorithm on a multi-core CPU via a POSIX thread based implementation. Our implementation on an 8-core processor (that supports 16-threads) resulted in 9x throughput improvement compared to a single thread implementation.",
+    "authors": [
+        "Damayanthi Herath",
+        "Chathurika Lakmali",
+        "Roshan Ragel"
+    ],
+    "author_info": [
+        {
+            "type": "STAFF",
+            "id": "damayanthiherath",
+            "name": "Dr. Damayanthi Herath",
+            "email": "damayanthiherath@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/damayanthi-herath/"
+        },
+        {
+            "type": "STAFF",
+            "id": "roshanr",
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/ICIInfS.2012.6304784",
+    "preprint_url": "https://arxiv.org/pdf/1403.7294",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [
+        "Computational BioEngineering",
+        "Accelerated and High-Performance Computing (FPGA / GPU)"
+    ],
+    "tags": [
+        "Instruction sets",
+        "Throughput",
+        "Software algorithms",
+        "Pattern matching",
+        "Acceleration",
+        "Algorithm design and analysis"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2012.6304784/",
+    "submitted": "2023/03/08 07:36:57"
+}

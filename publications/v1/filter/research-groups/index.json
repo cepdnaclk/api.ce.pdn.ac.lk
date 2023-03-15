@@ -14,6 +14,54 @@
                 "Martin A. Smith",
                 "Sri Parameswaran"
             ],
+            "author_info": [
+                {
+                    "type": "STUDENT",
+                    "id": "E/14/158",
+                    "name": "G. C. Jayatilaka",
+                    "email": "gihanjayatilaka@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
+                },
+                {
+                    "type": "STUDENT",
+                    "id": "E/14/302",
+                    "name": "Hiruna Samarakoon",
+                    "email": "e14302@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14302.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/302/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Hasindu Gamaarachchi",
+                    "profile": "#"
+                },
+                {
+                    "name": "Chun Wai Lam",
+                    "profile": "#"
+                },
+                {
+                    "name": "Gihan Jayatilaka",
+                    "profile": "#"
+                },
+                {
+                    "name": "Hiruna Samarakoon",
+                    "profile": "#"
+                },
+                {
+                    "name": "Jared T. Simpson",
+                    "profile": "#"
+                },
+                {
+                    "name": "Martin A. Smith",
+                    "profile": "#"
+                },
+                {
+                    "name": "Sri Parameswaran",
+                    "profile": "#"
+                }
+            ],
             "doi": "https://doi.org/10.1186/s12859-020-03697-x",
             "preprint": "https://www.biorxiv.org/content/10.1101/756122v1.full.pdf",
             "pdf": "https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-020-03697-x.pdf",
@@ -52,6 +100,50 @@
                 "Isuru Nawinne",
                 "Roshan Ragel"
             ],
+            "author_info": [
+                {
+                    "type": "STAFF",
+                    "id": "isurunawinne",
+                    "name": "Dr. Isuru Nawinne",
+                    "email": "isurunawinne@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/isuru-nawinne/"
+                },
+                {
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "name": "Prof. Roshan G. Ragel",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Udaree Kanewala",
+                    "profile": "#"
+                },
+                {
+                    "name": "Kesara Gamlath",
+                    "profile": "#"
+                },
+                {
+                    "name": "Hasindu Ramanayake",
+                    "profile": "#"
+                },
+                {
+                    "name": "Kalindu Herath",
+                    "profile": "#"
+                },
+                {
+                    "name": "Isuru Nawinne",
+                    "profile": "#"
+                },
+                {
+                    "name": "Roshan Ragel",
+                    "profile": "#"
+                }
+            ],
             "doi": "https://doi.org/10.1109/MERCon.2019.8818883",
             "preprint": "#",
             "pdf": "#",
@@ -74,6 +166,70 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon.2019.8818883/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon.2019.8818883/index.json"
+        },
+        {
+            "title": "Accelerating string matching for bio-computing applications on multi-core CPUs",
+            "venue": "2012 IEEE 7th International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2012",
+            "abstract": "Huge amount of data in the form of strings are being handled in bio-computing applications and searching algorithms are quite frequently used in them. Many methods utilizing on both software and hardware are being proposed to accelerate processing of such data. The typical hardware-based acceleration techniques either require special hardware such as generalpurpose graphics processing units (GPGPUs) or need building a new hardware such as an FPGA based design. On the other hard, software-based acceleration techniques are easier since they only require some changes in the software code or the software architecture. Typical software-based techniques make use of computers connected over a network, also known as a network grid to accelerate the processing. In this paper, we test the hypothesis that multi-core architectures should provide better performance in this kind of computation, but still it would depend on the algorithm selected as well as the programming model being utilized. We present the acceleration of a string-searching algorithm on a multi-core CPU via a POSIX thread based implementation. Our implementation on an 8-core processor (that supports 16-threads) resulted in 9x throughput improvement compared to a single thread implementation.",
+            "authors": [
+                "Damayanthi Herath",
+                "Chathurika Lakmali",
+                "Roshan Ragel"
+            ],
+            "author_info": [
+                {
+                    "type": "STAFF",
+                    "id": "damayanthiherath",
+                    "name": "Dr. Damayanthi Herath",
+                    "email": "damayanthiherath@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/damayanthi-herath/"
+                },
+                {
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "name": "Prof. Roshan G. Ragel",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Damayanthi Herath",
+                    "profile": "#"
+                },
+                {
+                    "name": "Chathurika Lakmali",
+                    "profile": "#"
+                },
+                {
+                    "name": "Roshan Ragel",
+                    "profile": "#"
+                }
+            ],
+            "doi": "https://doi.org/10.1109/ICIInfS.2012.6304784",
+            "preprint": "https://arxiv.org/pdf/1403.7294",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering",
+                "Accelerated and High-Performance Computing (FPGA / GPU)"
+            ],
+            "funding": "",
+            "tags": [
+                "Instruction sets",
+                "Throughput",
+                "Software algorithms",
+                "Pattern matching",
+                "Acceleration",
+                "Algorithm design and analysis"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2012.6304784/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIInfS.2012.6304784/index.json"
         }
     ],
     "Computational BioEngineering": [
@@ -89,6 +245,82 @@
                 "Pankayaraj Pathmanathan",
                 "Roshan Ragel",
                 "Isuru Nawinne"
+            ],
+            "author_info": [
+                {
+                    "type": "STUDENT",
+                    "id": "E/14/158",
+                    "name": "G. C. Jayatilaka",
+                    "email": "gihanjayatilaka@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
+                },
+                {
+                    "type": "STUDENT",
+                    "id": "E/14/379",
+                    "name": "W.G.H.S. Weligampola",
+                    "email": "#",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14379.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/379/"
+                },
+                {
+                    "type": "STUDENT",
+                    "id": "E/14/339",
+                    "name": "Suren Sritharan",
+                    "email": "e14339@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14339.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/339/"
+                },
+                {
+                    "type": "STUDENT",
+                    "id": "E/14/237",
+                    "name": "P. Pankayaraj",
+                    "email": "pankayaraj1995@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14237.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/237/"
+                },
+                {
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "name": "Prof. Roshan G. Ragel",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+                },
+                {
+                    "type": "STAFF",
+                    "id": "isurunawinne",
+                    "name": "Dr. Isuru Nawinne",
+                    "email": "isurunawinne@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/isuru-nawinne/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Gihan Jayatilaka",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/158/"
+                },
+                {
+                    "name": "Harshana Weligampola",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/379/"
+                },
+                {
+                    "name": "Suren Sritharan",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/339/"
+                },
+                {
+                    "name": "Pankayaraj Pathmanathan",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/237/"
+                },
+                {
+                    "name": "Roshan Ragel",
+                    "profile": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+                },
+                {
+                    "name": "Isuru Nawinne",
+                    "profile": "https://people.ce.pdn.ac.lk//staff/academic/isuru-nawinne/"
+                }
             ],
             "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
             "preprint": "https://arxiv.org/pdf/1910.04725.pdf",
@@ -126,6 +358,78 @@
                 "Hasindu Gamaarachchi",
                 "Ira W. Deveson"
             ],
+            "author_info": [
+                {
+                    "type": "STUDENT",
+                    "id": "E/14/302",
+                    "name": "Hiruna Samarakoon",
+                    "email": "e14302@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14302.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/302/"
+                },
+                {
+                    "type": "STUDENT",
+                    "id": "E/14/262",
+                    "name": "Sanoj Punchihewa",
+                    "email": "e14262@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14262.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/262/"
+                },
+                {
+                    "type": "STUDENT",
+                    "id": "E/14/317",
+                    "name": "Anjana Senanayake",
+                    "email": "e14317@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14317.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/317/"
+                },
+                {
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "name": "Prof. Roshan G. Ragel",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Hiruna Samarakoon",
+                    "profile": "#"
+                },
+                {
+                    "name": "Sanoj Punchihewa",
+                    "profile": "#"
+                },
+                {
+                    "name": "Anjana Senanayake",
+                    "profile": "#"
+                },
+                {
+                    "name": "Jillian M. Hammond",
+                    "profile": "#"
+                },
+                {
+                    "name": "Igor Stevanovski",
+                    "profile": "#"
+                },
+                {
+                    "name": "James M. Ferguson",
+                    "profile": "#"
+                },
+                {
+                    "name": "Roshan Ragel",
+                    "profile": "#"
+                },
+                {
+                    "name": "Hasindu Gamaarachchi",
+                    "profile": "#"
+                },
+                {
+                    "name": "Ira W. Deveson",
+                    "profile": "#"
+                }
+            ],
             "doi": "https://doi.org/10.1038/s42003-020-01270-z",
             "preprint": "#",
             "pdf": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
@@ -142,6 +446,406 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1038/s42003-020-01270-z/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1038/s42003-020-01270-z/index.json"
+        },
+        {
+            "title": "Accelerating string matching for bio-computing applications on multi-core CPUs",
+            "venue": "2012 IEEE 7th International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2012",
+            "abstract": "Huge amount of data in the form of strings are being handled in bio-computing applications and searching algorithms are quite frequently used in them. Many methods utilizing on both software and hardware are being proposed to accelerate processing of such data. The typical hardware-based acceleration techniques either require special hardware such as generalpurpose graphics processing units (GPGPUs) or need building a new hardware such as an FPGA based design. On the other hard, software-based acceleration techniques are easier since they only require some changes in the software code or the software architecture. Typical software-based techniques make use of computers connected over a network, also known as a network grid to accelerate the processing. In this paper, we test the hypothesis that multi-core architectures should provide better performance in this kind of computation, but still it would depend on the algorithm selected as well as the programming model being utilized. We present the acceleration of a string-searching algorithm on a multi-core CPU via a POSIX thread based implementation. Our implementation on an 8-core processor (that supports 16-threads) resulted in 9x throughput improvement compared to a single thread implementation.",
+            "authors": [
+                "Damayanthi Herath",
+                "Chathurika Lakmali",
+                "Roshan Ragel"
+            ],
+            "author_info": [
+                {
+                    "type": "STAFF",
+                    "id": "damayanthiherath",
+                    "name": "Dr. Damayanthi Herath",
+                    "email": "damayanthiherath@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/damayanthi-herath/"
+                },
+                {
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "name": "Prof. Roshan G. Ragel",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Damayanthi Herath",
+                    "profile": "#"
+                },
+                {
+                    "name": "Chathurika Lakmali",
+                    "profile": "#"
+                },
+                {
+                    "name": "Roshan Ragel",
+                    "profile": "#"
+                }
+            ],
+            "doi": "https://doi.org/10.1109/ICIInfS.2012.6304784",
+            "preprint": "https://arxiv.org/pdf/1403.7294",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering",
+                "Accelerated and High-Performance Computing (FPGA / GPU)"
+            ],
+            "funding": "",
+            "tags": [
+                "Instruction sets",
+                "Throughput",
+                "Software algorithms",
+                "Pattern matching",
+                "Acceleration",
+                "Algorithm design and analysis"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2012.6304784/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIInfS.2012.6304784/index.json"
+        },
+        {
+            "title": "Detection of Novel Biomarker Genes of Alzheimer\u00e2\u0080\u0099s Disease Using Gene Expression Data",
+            "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2020",
+            "abstract": "It is well recognized, that most common form of dementia is Alzheimer's disease and a successful cure or medication is not discovered. A plethora of research has been conducted to understand the underlying mechanism and the pathogenesis of the Alzheimer's disease. To explore the underlying genetic structure of the disease, gene expression data is being used by many researches and computational and statistical approaches were used to identify possible genes that are risk. In this paper, we propose a machine learning framework that can be used to identify possible bio-marker genes. Our experiments discover possible set of 14 genes, which some of them are validated by biological sources. We also present a critical analysis of the propose machine learning framework using GSE5281 gene dataset.",
+            "authors": [
+                "Shehan Perera",
+                "Kaveesha Hewage",
+                "Chamara Gunarathne",
+                "Rajitha Navarathna",
+                "Damayanthi Herath",
+                "Roshan G Ragel"
+            ],
+            "author_info": [
+                {
+                    "type": "STAFF",
+                    "id": "damayanthiherath",
+                    "name": "Dr. Damayanthi Herath",
+                    "email": "damayanthiherath@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/damayanthi-herath/"
+                },
+                {
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "name": "Prof. Roshan G. Ragel",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Shehan Perera",
+                    "profile": "#"
+                },
+                {
+                    "name": "Kaveesha Hewage",
+                    "profile": "#"
+                },
+                {
+                    "name": "Chamara Gunarathne",
+                    "profile": "#"
+                },
+                {
+                    "name": "Rajitha Navarathna",
+                    "profile": "#"
+                },
+                {
+                    "name": "Damayanthi Herath",
+                    "profile": "#"
+                },
+                {
+                    "name": "Roshan G Ragel",
+                    "profile": "#"
+                }
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185336",
+            "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/346705332_Detection_of_Novel_Biomarker_Genes_of_Alzheimer's_Disease_Using_Gene_Expression_Data/links/607ffd468ea909241e1273dd/Detection-of-Novel-Biomarker-Genes-of-Alzheimers-Disease-Using-Gene-Expression-Data.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering"
+            ],
+            "funding": "",
+            "tags": [
+                "Principal component analysis",
+                "Feature extraction",
+                "Forestry",
+                "Correlation",
+                "Support vector machines",
+                "Dementia"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185336/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185336/index.json"
+        },
+        {
+            "title": "A Data Driven Binning Method to Recover More Nucleotide Sequences of Species in a Metagenome",
+            "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2020",
+            "abstract": "Metagenomics accelerated the process of studying different species and their dynamics in multiple environments. A key step in a metagenomic study is to group nucleotide sequences belonging to an individual or closely related species which is often termed binning. Multiple machine learning techniques have been adopted in binning metagenomic sequences. Specifically, unsupervised learning is being used in most of the recent binning methods. This work considers data-driven methods for binning metagenomic sequences and discusses such approaches in detail. Furthermore, it explores on increasing the amount of metagenomic sequences binned while maintaining a reasonable binning accuracy. Consequently, a dissimilarity-based approach is proposed to improve the number of contigs binned by an existing binning method. It is shown to result in a 10% increase in the number of contigs binned compared to the original approach. Accordingly, this work suggests that the effective use of observed data which may be discarded as outliers otherwise, may result in improved performance in binning.",
+            "authors": [
+                "Kasun Vimukthi",
+                "Geeth Wimalasiri",
+                "Prabhath Bandara",
+                "Damayanthi Herath"
+            ],
+            "author_info": [
+                {
+                    "type": "STAFF",
+                    "id": "damayanthiherath",
+                    "name": "Dr. Damayanthi Herath",
+                    "email": "damayanthiherath@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/damayanthi-herath/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Kasun Vimukthi",
+                    "profile": "#"
+                },
+                {
+                    "name": "Geeth Wimalasiri",
+                    "profile": "#"
+                },
+                {
+                    "name": "Prabhath Bandara",
+                    "profile": "#"
+                },
+                {
+                    "name": "Damayanthi Herath",
+                    "profile": "#"
+                }
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185388",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering"
+            ],
+            "funding": "",
+            "tags": [
+                "Genomics",
+                "DNA",
+                "Sequential analysis",
+                "Bioinformatics",
+                "Taxonomy",
+                "Clustering algorithms",
+                "Benchmark testing"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185388/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185388/index.json"
+        },
+        {
+            "title": "miRNAFinder: A pre-microRNA classifier for plants and analysis of feature impact",
+            "venue": "2020 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB)",
+            "year": "2020",
+            "abstract": "MicroRNAs (miRNAs) are endogenous small noncoding RNAs that play an important role in post-transcriptional gene regulation. Several machine learning-based studies have been conducted for miRNA identification with the use of miRNA features. It is difficult to classify real and pseudo-pre-miRNAs in plant species than that in animals since plant pre-miRNAs are more diverse than the animal pre-miRNAs. Therefore, this study is focused on classifying real and pseudo precursor miRNAs (pre-miRNAs) in plants. We have introduced a machine learning model based on a 280 feature set including compositional, sequence-based, and thermodynamic features. Classification performance is tested and compared, considering different feature sets and four different classifiers. Random forest classifier results in the best classification performance with all 280 features with a 97% accuracy for the testing dataset.",
+            "authors": [
+                "Puwasuru Ihalagedara",
+                "Sandali Lokuge",
+                "Shyaman Jayasundara",
+                "Damayanthi Herath",
+                "Indika Kahanda"
+            ],
+            "author_info": [
+                {
+                    "type": "STAFF",
+                    "id": "damayanthiherath",
+                    "name": "Dr. Damayanthi Herath",
+                    "email": "damayanthiherath@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/damayanthi-herath/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Puwasuru Ihalagedara",
+                    "profile": "#"
+                },
+                {
+                    "name": "Sandali Lokuge",
+                    "profile": "#"
+                },
+                {
+                    "name": "Shyaman Jayasundara",
+                    "profile": "#"
+                },
+                {
+                    "name": "Damayanthi Herath",
+                    "profile": "#"
+                },
+                {
+                    "name": "Indika Kahanda",
+                    "profile": "#"
+                }
+            ],
+            "doi": "https://doi.org/10.1109/CIBCB48159.2020.9277723",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering"
+            ],
+            "funding": "",
+            "tags": [
+                "Feature extraction",
+                "RNA",
+                "Support vector machines",
+                "Testing",
+                "Animals",
+                "Vegetation",
+                "Random forests"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/CIBCB48159.2020.9277723/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/CIBCB48159.2020.9277723/index.json"
+        },
+        {
+            "title": "Revealing MicroRNA Biomarkers for Alzheimer\u00e2\u0080\u0099s Disease Using Next Generation Sequencing Data",
+            "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2021",
+            "abstract": "",
+            "authors": [
+                "Imalsha Dinuwanthi",
+                "Hasini Thilakarathna",
+                "Vidwa Sripadi",
+                "Damayanthi Herath",
+                "Roshan Ragel"
+            ],
+            "author_info": [
+                {
+                    "type": "STAFF",
+                    "id": "damayanthiherath",
+                    "name": "Dr. Damayanthi Herath",
+                    "email": "damayanthiherath@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/damayanthi-herath/"
+                },
+                {
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "name": "Prof. Roshan G. Ragel",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Imalsha Dinuwanthi",
+                    "profile": "#"
+                },
+                {
+                    "name": "Hasini Thilakarathna",
+                    "profile": "#"
+                },
+                {
+                    "name": "Vidwa Sripadi",
+                    "profile": "#"
+                },
+                {
+                    "name": "Damayanthi Herath",
+                    "profile": "#"
+                },
+                {
+                    "name": "Roshan Ragel",
+                    "profile": "#"
+                }
+            ],
+            "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9606093",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering"
+            ],
+            "funding": "",
+            "tags": [
+                ""
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606093/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606093/index.json"
+        },
+        {
+            "title": "DeepSelectNet: deep neural network based selective sequencing for oxford nanopore sequencing",
+            "venue": "BMC bioinformatics",
+            "year": "2023",
+            "abstract": "",
+            "authors": [
+                "Anjana Senanayake",
+                "Hasindu Gamaarachchi",
+                "Damayanthi Herath",
+                "Roshan Ragel"
+            ],
+            "author_info": [
+                {
+                    "type": "STAFF",
+                    "id": "damayanthiherath",
+                    "name": "Dr. Damayanthi Herath",
+                    "email": "damayanthiherath@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/damayanthi-herath/"
+                },
+                {
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "name": "Prof. Roshan G. Ragel",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Anjana Senanayake",
+                    "profile": "#"
+                },
+                {
+                    "name": "Hasindu Gamaarachchi",
+                    "profile": "#"
+                },
+                {
+                    "name": "Damayanthi Herath",
+                    "profile": "#"
+                },
+                {
+                    "name": "Roshan Ragel",
+                    "profile": "#"
+                }
+            ],
+            "doi": "https://doi.org/10.1186/s12859-023-05151-0",
+            "preprint": "#",
+            "pdf": "https://doi.org/10.1186/s12859-023-05151-0",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "https://github.com/AnjanaSenanayake/DeepSelectNet",
+            "researchgroups": [
+                "Computational BioEngineering"
+            ],
+            "funding": "",
+            "tags": [
+                ""
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1186/s12859-023-05151-0/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1186/s12859-023-05151-0/index.json"
         }
     ],
     "Computer Vision": [
@@ -158,6 +862,62 @@
                 "Parakrama Ekanayeka",
                 "Roshan Ragel",
                 "Vijitha Herath"
+            ],
+            "author_info": [
+                {
+                    "type": "STUDENT",
+                    "id": "E/14/158",
+                    "name": "G. C. Jayatilaka",
+                    "email": "gihanjayatilaka@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
+                },
+                {
+                    "type": "STUDENT",
+                    "id": "E/14/339",
+                    "name": "Suren Sritharan",
+                    "email": "e14339@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14339.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/339/"
+                },
+                {
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "name": "Prof. Roshan G. Ragel",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Harshana Weligampola",
+                    "profile": "#"
+                },
+                {
+                    "name": "Gihan Jayatilaka",
+                    "profile": "#"
+                },
+                {
+                    "name": "Suren Sritharan",
+                    "profile": "#"
+                },
+                {
+                    "name": "Roshan Goldaliyadda",
+                    "profile": "#"
+                },
+                {
+                    "name": "Parakrama Ekanayeka",
+                    "profile": "#"
+                },
+                {
+                    "name": "Roshan Ragel",
+                    "profile": "#"
+                },
+                {
+                    "name": "Vijitha Herath",
+                    "profile": "#"
+                }
             ],
             "doi": "https://doi.org/10.1109/MERCon50084.2020.9185373",
             "preprint": "https://arxiv.org/pdf/2006.15304.pdf",
@@ -191,6 +951,82 @@
                 "Pankayaraj Pathmanathan",
                 "Roshan Ragel",
                 "Isuru Nawinne"
+            ],
+            "author_info": [
+                {
+                    "type": "STUDENT",
+                    "id": "E/14/158",
+                    "name": "G. C. Jayatilaka",
+                    "email": "gihanjayatilaka@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
+                },
+                {
+                    "type": "STUDENT",
+                    "id": "E/14/379",
+                    "name": "W.G.H.S. Weligampola",
+                    "email": "#",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14379.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/379/"
+                },
+                {
+                    "type": "STUDENT",
+                    "id": "E/14/339",
+                    "name": "Suren Sritharan",
+                    "email": "e14339@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14339.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/339/"
+                },
+                {
+                    "type": "STUDENT",
+                    "id": "E/14/237",
+                    "name": "P. Pankayaraj",
+                    "email": "pankayaraj1995@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14237.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/237/"
+                },
+                {
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "name": "Prof. Roshan G. Ragel",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+                },
+                {
+                    "type": "STAFF",
+                    "id": "isurunawinne",
+                    "name": "Dr. Isuru Nawinne",
+                    "email": "isurunawinne@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/isuru-nawinne/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Gihan Jayatilaka",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/158/"
+                },
+                {
+                    "name": "Harshana Weligampola",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/379/"
+                },
+                {
+                    "name": "Suren Sritharan",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/339/"
+                },
+                {
+                    "name": "Pankayaraj Pathmanathan",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/237/"
+                },
+                {
+                    "name": "Roshan Ragel",
+                    "profile": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+                },
+                {
+                    "name": "Isuru Nawinne",
+                    "profile": "https://people.ce.pdn.ac.lk//staff/academic/isuru-nawinne/"
+                }
             ],
             "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
             "preprint": "https://arxiv.org/pdf/1910.04725.pdf",
@@ -226,6 +1062,46 @@
                 "Vijitha Herath",
                 "Roshan Godaliyadda"
             ],
+            "author_info": [
+                {
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "name": "Prof. Roshan G. Ragel",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Harshana Weligampola",
+                    "profile": "#"
+                },
+                {
+                    "name": "Gihan Jayatilaka",
+                    "profile": "#"
+                },
+                {
+                    "name": "Suren Sritharan",
+                    "profile": "#"
+                },
+                {
+                    "name": "Parakrama Ekanayake",
+                    "profile": "#"
+                },
+                {
+                    "name": "Roshan Ragel",
+                    "profile": "#"
+                },
+                {
+                    "name": "Vijitha Herath",
+                    "profile": "#"
+                },
+                {
+                    "name": "Roshan Godaliyadda",
+                    "profile": "#"
+                }
+            ],
             "doi": "https://doi.org/10.1109/ICIP42928.2021.9506375",
             "preprint": "https://arxiv.org/pdf/2105.10076",
             "pdf": "#",
@@ -259,6 +1135,34 @@
                 "Ashwin Ashok",
                 "Archan Misra"
             ],
+            "author_info": [
+                {
+                    "type": "STUDENT",
+                    "id": "E/14/158",
+                    "name": "G. C. Jayatilaka",
+                    "email": "gihanjayatilaka@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Vu Tran",
+                    "profile": "#"
+                },
+                {
+                    "name": "Gihan Jayatilaka",
+                    "profile": "#"
+                },
+                {
+                    "name": "Ashwin Ashok",
+                    "profile": "#"
+                },
+                {
+                    "name": "Archan Misra",
+                    "profile": "#"
+                }
+            ],
             "doi": "https://doi.org/10.1145/3412382.3458269",
             "preprint": "https://arxiv.org/pdf/2105.05092",
             "pdf": "#",
@@ -288,6 +1192,34 @@
                 "Chamin Jayasooriya",
                 "Sampath Deegalla",
                 "Rajitha Navarathna"
+            ],
+            "author_info": [
+                {
+                    "type": "STAFF",
+                    "id": "sampath",
+                    "name": "Mr. Sampath Deegalla",
+                    "email": "sampath@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/sampath-deegalla.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/sampath-deegalla/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Anandi Karunaratne",
+                    "profile": "#"
+                },
+                {
+                    "name": "Chamin Jayasooriya",
+                    "profile": "#"
+                },
+                {
+                    "name": "Sampath Deegalla",
+                    "profile": "#"
+                },
+                {
+                    "name": "Rajitha Navarathna",
+                    "profile": "#"
+                }
             ],
             "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9605963",
             "preprint": "#",
@@ -321,8 +1253,39 @@
             "authors": [
                 "S.M. Vidanagamachchi",
                 "S.D. Dewasurendra",
-                "",
                 "R.G. Ragel"
+            ],
+            "author_info": [
+                {
+                    "type": "STAFF",
+                    "id": "dewasuren",
+                    "name": "Dr. Shirley Dewasurendra",
+                    "email": "dewasuren@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/shirley-dewasurendra/"
+                },
+                {
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "name": "Prof. Roshan G. Ragel",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "S.M. Vidanagamachchi",
+                    "profile": "#"
+                },
+                {
+                    "name": "S.D. Dewasurendra",
+                    "profile": "#"
+                },
+                {
+                    "name": "R.G. Ragel",
+                    "profile": "#"
+                }
             ],
             "doi": "https://doi.org/10.1109/ICIInfS.2013.6732003",
             "preprint": "https://arxiv.org/ftp/arxiv/papers/1403/1403.1317.pdf",
@@ -354,6 +1317,38 @@
                 "S. M. Vidanagamachchi",
                 "S. D. Dewasurendra",
                 "R. G. Ragel"
+            ],
+            "author_info": [
+                {
+                    "type": "STAFF",
+                    "id": "dewasuren",
+                    "name": "Dr. Shirley Dewasurendra",
+                    "email": "dewasuren@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/shirley-dewasurendra/"
+                },
+                {
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "name": "Prof. Roshan G. Ragel",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "S. M. Vidanagamachchi",
+                    "profile": "#"
+                },
+                {
+                    "name": "S. D. Dewasurendra",
+                    "profile": "#"
+                },
+                {
+                    "name": "R. G. Ragel",
+                    "profile": "#"
+                }
             ],
             "doi": "https://doi.org/10.1109/ICIInfS.2013.6732061",
             "preprint": "https://arxiv.org/pdf/1403.1319",
@@ -387,6 +1382,42 @@
                 "Swarnalatha Radhakrishnan",
                 "Jude Angelo Ambrose",
                 "Sri Parameswaran"
+            ],
+            "author_info": [
+                {
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "name": "Prof. Roshan G. Ragel",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+                },
+                {
+                    "type": "STAFF",
+                    "id": "swarnar",
+                    "name": "Dr. Swarnalatha Radhakrishnan",
+                    "email": "swarnar@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/swarnalatha-radhakrishnan.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/swarnalatha-radhakrishnan/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Roshan G. Ragel",
+                    "profile": "#"
+                },
+                {
+                    "name": "Swarnalatha Radhakrishnan",
+                    "profile": "#"
+                },
+                {
+                    "name": "Jude Angelo Ambrose",
+                    "profile": "#"
+                },
+                {
+                    "name": "Sri Parameswaran",
+                    "profile": "#"
+                }
             ],
             "doi": "https://doi.org/10.1109/VLSID.2013.154",
             "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/261501995_A_Study_on_Instruction-set_Selection_Using_Multi-application_Based_Application_Specific_Instruction-set_Processors/links/54e48faf0cf2dbf60696e9b4/A-Study-on-Instruction-set-Selection-Using-Multi-application-Based-Application-Specific-Instruction-set-Processors.pdf",
@@ -424,6 +1455,58 @@
                 "J\u00c3\u00b6rg Henkel",
                 "Sri Parameswaran"
             ],
+            "author_info": [
+                {
+                    "type": "STAFF",
+                    "id": "swarnar",
+                    "name": "Dr. Swarnalatha Radhakrishnan",
+                    "email": "swarnar@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/swarnalatha-radhakrishnan.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/swarnalatha-radhakrishnan/"
+                },
+                {
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "name": "Prof. Roshan G. Ragel",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Tuo Li",
+                    "profile": "#"
+                },
+                {
+                    "name": "Muhammad Shafique",
+                    "profile": "#"
+                },
+                {
+                    "name": "Semeen Rehman",
+                    "profile": "#"
+                },
+                {
+                    "name": "Swarnalatha Radhakrishnan",
+                    "profile": "#"
+                },
+                {
+                    "name": "Roshan Ragel",
+                    "profile": "#"
+                },
+                {
+                    "name": "Jude Angelo Ambrose",
+                    "profile": "#"
+                },
+                {
+                    "name": "J\u00c3\u00b6rg Henkel",
+                    "profile": "#"
+                },
+                {
+                    "name": "Sri Parameswaran",
+                    "profile": "#"
+                }
+            ],
             "doi": "https://doi.org/10.7873/DATE.2013.152",
             "preprint": "#",
             "pdf": "#",
@@ -458,6 +1541,54 @@
                 "Swarnalatha Radhakrishnan",
                 "Kewal K. Saluja"
             ],
+            "author_info": [
+                {
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "name": "Prof. Roshan G. Ragel",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+                },
+                {
+                    "type": "STAFF",
+                    "id": "swarnar",
+                    "name": "Dr. Swarnalatha Radhakrishnan",
+                    "email": "swarnar@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/swarnalatha-radhakrishnan.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/swarnalatha-radhakrishnan/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Lawrance Zhang",
+                    "profile": "#"
+                },
+                {
+                    "name": "Jude Angelo Ambrose",
+                    "profile": "#"
+                },
+                {
+                    "name": "Jorgen Peddersen",
+                    "profile": "#"
+                },
+                {
+                    "name": "Sri Parameswaran",
+                    "profile": "#"
+                },
+                {
+                    "name": "Roshan Ragel",
+                    "profile": "#"
+                },
+                {
+                    "name": "Swarnalatha Radhakrishnan",
+                    "profile": "#"
+                },
+                {
+                    "name": "Kewal K. Saluja",
+                    "profile": "#"
+                }
+            ],
             "doi": "https://doi.org/10.1145/2483028.2483101",
             "preprint": "#",
             "pdf": "#",
@@ -489,6 +1620,46 @@
                 "Roshan Ragel",
                 "Swarnalatha Radhakrishnan",
                 "Sri Parameswaran"
+            ],
+            "author_info": [
+                {
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "name": "Prof. Roshan G. Ragel",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+                },
+                {
+                    "type": "STAFF",
+                    "id": "swarnar",
+                    "name": "Dr. Swarnalatha Radhakrishnan",
+                    "email": "swarnar@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/swarnalatha-radhakrishnan.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/swarnalatha-radhakrishnan/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Isuru Nawinne",
+                    "profile": "#"
+                },
+                {
+                    "name": "Haris Javaid",
+                    "profile": "#"
+                },
+                {
+                    "name": "Roshan Ragel",
+                    "profile": "#"
+                },
+                {
+                    "name": "Swarnalatha Radhakrishnan",
+                    "profile": "#"
+                },
+                {
+                    "name": "Sri Parameswaran",
+                    "profile": "#"
+                }
             ],
             "doi": "https://doi.org/10.1109/TCAD.2015.2445736",
             "preprint": "#",
@@ -523,6 +1694,46 @@
                 "Roshan Ragel",
                 "Swarnalatha Radhakrishnan",
                 "Sri Parameswaran"
+            ],
+            "author_info": [
+                {
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "name": "Prof. Roshan G. Ragel",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+                },
+                {
+                    "type": "STAFF",
+                    "id": "swarnar",
+                    "name": "Dr. Swarnalatha Radhakrishnan",
+                    "email": "swarnar@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/swarnalatha-radhakrishnan.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/swarnalatha-radhakrishnan/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Isuru Nawinne",
+                    "profile": "#"
+                },
+                {
+                    "name": "Haris Javaid",
+                    "profile": "#"
+                },
+                {
+                    "name": "Roshan Ragel",
+                    "profile": "#"
+                },
+                {
+                    "name": "Swarnalatha Radhakrishnan",
+                    "profile": "#"
+                },
+                {
+                    "name": "Sri Parameswaran",
+                    "profile": "#"
+                }
             ],
             "doi": "https://doi.org/10.1109/TCAD.2015.2445736",
             "preprint": "#",
@@ -559,6 +1770,50 @@
                 "Isuru Nawinne",
                 "Roshan Ragel"
             ],
+            "author_info": [
+                {
+                    "type": "STAFF",
+                    "id": "isurunawinne",
+                    "name": "Dr. Isuru Nawinne",
+                    "email": "isurunawinne@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/isuru-nawinne/"
+                },
+                {
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "name": "Prof. Roshan G. Ragel",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Udaree Kanewala",
+                    "profile": "#"
+                },
+                {
+                    "name": "Kesara Gamlath",
+                    "profile": "#"
+                },
+                {
+                    "name": "Hasindu Ramanayake",
+                    "profile": "#"
+                },
+                {
+                    "name": "Kalindu Herath",
+                    "profile": "#"
+                },
+                {
+                    "name": "Isuru Nawinne",
+                    "profile": "#"
+                },
+                {
+                    "name": "Roshan Ragel",
+                    "profile": "#"
+                }
+            ],
             "doi": "https://doi.org/10.1109/MERCon.2019.8818883",
             "preprint": "#",
             "pdf": "#",
@@ -593,6 +1848,58 @@
                 "Roshan Ragel",
                 "Isuru Nawinne"
             ],
+            "author_info": [
+                {
+                    "type": "STUDENT",
+                    "id": "E/13/073",
+                    "name": "T.D.P.T. Dissanayake",
+                    "email": "theekshanapubudu1550@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e13/e13073.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e13/073/"
+                },
+                {
+                    "type": "STUDENT",
+                    "id": "E/13/274",
+                    "name": "Y.N.Rajapaksha",
+                    "email": "yasitha.rajapaksha@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e13/e13274.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e13/274/"
+                },
+                {
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "name": "Prof. Roshan G. Ragel",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+                },
+                {
+                    "type": "STAFF",
+                    "id": "isurunawinne",
+                    "name": "Dr. Isuru Nawinne",
+                    "email": "isurunawinne@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/isuru-nawinne/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Theekshana Dissanayake",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e13/073/"
+                },
+                {
+                    "name": "Yasitha Rajapaksha",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e13/274/"
+                },
+                {
+                    "name": "Roshan Ragel",
+                    "profile": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+                },
+                {
+                    "name": "Isuru Nawinne",
+                    "profile": "https://people.ce.pdn.ac.lk//staff/academic/isuru-nawinne/"
+                }
+            ],
             "doi": "https://doi.org/10.3390/s19204495",
             "preprint": "#",
             "pdf": "https://www.mdpi.com/1424-8220/19/20/4495/pdf?version=1571300841",
@@ -625,6 +1932,70 @@
                 "Isuru Nawinne",
                 "Roshan Ragel"
             ],
+            "author_info": [
+                {
+                    "type": "STUDENT",
+                    "id": "E/14/065",
+                    "name": "Mahendra Dassanayaka",
+                    "email": "e14065@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14065.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/065/"
+                },
+                {
+                    "type": "STUDENT",
+                    "id": "E/14/028",
+                    "name": "Tharuka Bandara",
+                    "email": "e14028@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14028.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/028/"
+                },
+                {
+                    "type": "STUDENT",
+                    "id": "E/14/010",
+                    "name": "Nadun Adikari",
+                    "email": "e14010@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14010.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/010/"
+                },
+                {
+                    "type": "STAFF",
+                    "id": "isurunawinne",
+                    "name": "Dr. Isuru Nawinne",
+                    "email": "isurunawinne@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/isuru-nawinne/"
+                },
+                {
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "name": "Prof. Roshan G. Ragel",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Mahendra Dassanayaka",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/065/"
+                },
+                {
+                    "name": "Tharuka Bandara",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/028/"
+                },
+                {
+                    "name": "Nadun Adikari",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/010/"
+                },
+                {
+                    "name": "Isuru Nawinne",
+                    "profile": "https://people.ce.pdn.ac.lk//staff/academic/isuru-nawinne/"
+                },
+                {
+                    "name": "Roshan Ragel",
+                    "profile": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+                }
+            ],
             "doi": "https://doi.org/10.1109/MERCon50084.2020.9185206",
             "preprint": "#",
             "pdf": "#",
@@ -654,7 +2025,36 @@
             "year": "2020",
             "abstract": "Chronic Kidney Disease (CKD) or chronic renal disease has become a major issue with a steady growth rate. A person can only survive without kidneys for an average time of 18 days, which makes a huge demand for a kidney transplant and Dialysis. It is important to have effective methods for early prediction of CKD. Machine learning methods are effective in CKD prediction. This work proposes a workflow to predict CKD status based on clinical data, incorporating data prepossessing, a missing value handling method with collaborative filtering and attributes selection. Out of the 11 machine learning methods considered, the extra tree classifier and random forest classifier are shown to result in the highest accuracy and minimal bias to the attributes. The research also considers the practical aspects of data collection and highlights the importance of incorporating domain knowledge when using machine learning for CKD status prediction.",
             "authors": [
-                "Imesh Udara Ekanayake; Damayanthi Herath"
+                "Imesh Udara Ekanayake",
+                "Damayanthi Herath"
+            ],
+            "author_info": [
+                {
+                    "type": "STUDENT",
+                    "id": "E/15/092",
+                    "name": "Imesh Ekanayake",
+                    "email": "imeshuek@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15092.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/092/"
+                },
+                {
+                    "type": "STAFF",
+                    "id": "damayanthiherath",
+                    "name": "Dr. Damayanthi Herath",
+                    "email": "damayanthiherath@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/damayanthi-herath/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Imesh Udara Ekanayake",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e15/092/"
+                },
+                {
+                    "name": "Damayanthi Herath",
+                    "profile": "https://people.ce.pdn.ac.lk//staff/academic/damayanthi-herath/"
+                }
             ],
             "doi": " https://doi.org/10.1109/MERCon50084.2020.9185249",
             "preprint": "#",
@@ -686,6 +2086,26 @@
             "authors": [
                 "Manjula Sandirigama",
                 "Rasika Idamekorala"
+            ],
+            "author_info": [
+                {
+                    "type": "STAFF",
+                    "id": "manjula.sandirigama",
+                    "name": "Dr. Manjula Sandirigama",
+                    "email": "manjula.sandirigama@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/manjula-sandirigama/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Manjula Sandirigama",
+                    "profile": "#"
+                },
+                {
+                    "name": "Rasika Idamekorala",
+                    "profile": "#"
+                }
             ],
             "doi": "https://doi.org/10.1109/TIC-STH.2009.5444462",
             "preprint": "#",
@@ -723,6 +2143,26 @@
             "authors": [
                 "Manjula Sandirigama",
                 "Rasika Idamekorala"
+            ],
+            "author_info": [
+                {
+                    "type": "STAFF",
+                    "id": "manjula.sandirigama",
+                    "name": "Dr. Manjula Sandirigama",
+                    "email": "manjula.sandirigama@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/manjula-sandirigama/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Manjula Sandirigama",
+                    "profile": "#"
+                },
+                {
+                    "name": "Rasika Idamekorala",
+                    "profile": "#"
+                }
             ],
             "doi": "https://doi.org/10.1109/TIC-STH.2009.5444462",
             "preprint": "#",
@@ -762,6 +2202,46 @@
                 "Janaka Alawathugoda",
                 "Roshan Ragel"
             ],
+            "author_info": [
+                {
+                    "type": "STAFF",
+                    "id": "alawatugoda",
+                    "name": "Dr. Janaka Alawatugoda",
+                    "email": "alawatugoda@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/janaka-alawatugoda/"
+                },
+                {
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "name": "Prof. Roshan G. Ragel",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Isuru Sankalpa",
+                    "profile": "#"
+                },
+                {
+                    "name": "Tharindu Dhanushka",
+                    "profile": "#"
+                },
+                {
+                    "name": "Nadeesha Amarasinghe",
+                    "profile": "#"
+                },
+                {
+                    "name": "Janaka Alawathugoda",
+                    "profile": "#"
+                },
+                {
+                    "name": "Roshan Ragel",
+                    "profile": "#"
+                }
+            ],
             "doi": "https://doi.org/10.1109/MIES.2016.7780263",
             "preprint": "#",
             "pdf": "#",
@@ -796,6 +2276,46 @@
                 "Nalaka Jayanath",
                 "Chinthaka Somathilaka"
             ],
+            "author_info": [
+                {
+                    "type": "STAFF",
+                    "id": "alawatugoda",
+                    "name": "Dr. Janaka Alawatugoda",
+                    "email": "alawatugoda@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/janaka-alawatugoda/"
+                },
+                {
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "name": "Prof. Roshan G. Ragel",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Janaka Alawatugoda",
+                    "profile": "#"
+                },
+                {
+                    "name": "Roshan Ragel",
+                    "profile": "#"
+                },
+                {
+                    "name": "Danushka Eranga",
+                    "profile": "#"
+                },
+                {
+                    "name": "Nalaka Jayanath",
+                    "profile": "#"
+                },
+                {
+                    "name": "Chinthaka Somathilaka",
+                    "profile": "#"
+                }
+            ],
             "doi": "https://doi.org/10.1109/ICIAFS.2016.7946548",
             "preprint": "#",
             "pdf": "#",
@@ -823,6 +2343,13 @@
             "abstract": "",
             "authors": [
                 "Janaka Alawatugoda"
+            ],
+            "author_info": [],
+            "author_cards": [
+                {
+                    "name": "Janaka Alawatugoda",
+                    "profile": "#"
+                }
             ],
             "doi": "https://doi.org/10.1007/s10207-016-0346-9",
             "preprint": "#",
@@ -853,6 +2380,21 @@
                 "Janaka Alawatugoda",
                 "C Pandu Rangan"
             ],
+            "author_info": [],
+            "author_cards": [
+                {
+                    "name": "Suvradip Chakraborty",
+                    "profile": "#"
+                },
+                {
+                    "name": "Janaka Alawatugoda",
+                    "profile": "#"
+                },
+                {
+                    "name": "C Pandu Rangan",
+                    "profile": "#"
+                }
+            ],
             "doi": "https://doi.org/10.1007/978-3-319-68637-0_10",
             "preprint": "#",
             "pdf": "#",
@@ -878,7 +2420,14 @@
             "year": "2017",
             "abstract": "Typically, secure channels are constructed from an authenticated key exchange (AKE) protocol, which authenticates the communicating parties based on long-term public keys and establishes secret session keys. In this paper we address the partial leakage of long-term secret keys of key exchange protocol participants due to various side-channel attacks. Security models for two-party authenticated key exchange protocols have been developed over time to provide security even when the adversary learns certain secret values. This paper combines and extends the advances of security modelling for AKE protocols addressing more granular partial leakage of long-term secrets of protocol participants. Further, we fix some flaws in security proofs of previous leakage-resilient key exchange protocols.",
             "authors": [
-                "https://doi.org/10.1515/jmc-2016-0003"
+                "Janaka Alawathugoda"
+            ],
+            "author_info": [],
+            "author_cards": [
+                {
+                    "name": "Janaka Alawathugoda",
+                    "profile": "#"
+                }
             ],
             "doi": "https://doi.org/10.1515/jmc-2016-0003",
             "preprint": "#",
@@ -910,6 +2459,54 @@
                 "Roshan Ragel",
                 "Mohamed Fawsan"
             ],
+            "author_info": [
+                {
+                    "type": "STUDENT",
+                    "id": "E/12/009",
+                    "name": "R.P.B.J. Alupotha",
+                    "email": "jayamine.alupotha@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e12/e12009.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e12/009/"
+                },
+                {
+                    "type": "STUDENT",
+                    "id": "E/12/269",
+                    "name": "R.P.S. Prasadi",
+                    "email": "sanduniprasadi06@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e12/e12269.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e12/269/"
+                },
+                {
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "name": "Prof. Roshan G. Ragel",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
+                }
+            ],
+            "author_cards": [
+                {
+                    "name": "Jayamine Alupotha",
+                    "profile": "#"
+                },
+                {
+                    "name": "Sanduni Prasadi",
+                    "profile": "#"
+                },
+                {
+                    "name": "Janaka Alawatugoda",
+                    "profile": "#"
+                },
+                {
+                    "name": "Roshan Ragel",
+                    "profile": "#"
+                },
+                {
+                    "name": "Mohamed Fawsan",
+                    "profile": "#"
+                }
+            ],
             "doi": "https://doi.org/10.1109/ICIINFS.2017.8300359",
             "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/323352314_Implementing_a_proven-secure_and_cost-effective_countermeasure_against_the_compression_ratio_info-leak_mass_exploitation_CRIME_attack/links/61c959beb8305f7c4b0421bc/Implementing-a-proven-secure-and-cost-effective-countermeasure-against-the-compression-ratio-info-leak-mass-exploitation-CRIME-attack.pdf",
             "pdf": "#",
@@ -939,6 +2536,21 @@
                 "Clement Chan Zheng Wei",
                 "Chuah Chai Wen",
                 "Janaka Alawatugoda\\"
+            ],
+            "author_info": [],
+            "author_cards": [
+                {
+                    "name": "Clement Chan Zheng Wei",
+                    "profile": "#"
+                },
+                {
+                    "name": "Chuah Chai Wen",
+                    "profile": "#"
+                },
+                {
+                    "name": "Janaka Alawatugoda\\",
+                    "profile": "#"
+                }
             ],
             "doi": "https://doi.org/10.17762/ijcnis.v11i1.3790",
             "preprint": "https://www.researchgate.net/profile/Clement-Zheng-Wei/publication/332671720_Review_on_Leakage_Resilient_Key_Exchange_Security_Model/links/5cc2c6e1a6fdcc1d49af2c1a/Review-on-Leakage-Resilient-Key-Exchange-Security-Model.pdf",
@@ -971,6 +2583,21 @@
                 "Janaka Alawatugoda",
                 "Chandrasekaran Pandu Rangan"
             ],
+            "author_info": [],
+            "author_cards": [
+                {
+                    "name": "Suvradip Chakraborty",
+                    "profile": "#"
+                },
+                {
+                    "name": "Janaka Alawatugoda",
+                    "profile": "#"
+                },
+                {
+                    "name": "Chandrasekaran Pandu Rangan",
+                    "profile": "#"
+                }
+            ],
             "doi": "https://doi.org/10.1515/jmc-2019-0014",
             "preprint": "#",
             "pdf": "https://www.degruyter.com/document/doi/10.1515/jmc-2019-0014/pdf",
@@ -999,6 +2626,13 @@
             "authors": [
                 "Janaka Alawatugoda"
             ],
+            "author_info": [],
+            "author_cards": [
+                {
+                    "name": "Janaka Alawatugoda",
+                    "profile": "#"
+                }
+            ],
             "doi": "https://doi.org/10.1093/comjnl/bxaa055",
             "preprint": "https://research-repository.griffith.edu.au/bitstream/handle/10072/414338/Alawatugoda522794-Accepted.pdf?sequence=2",
             "pdf": "#",
@@ -1026,6 +2660,29 @@
                 "Malitha Kumarasiri",
                 "Janaka Alawatugoda",
                 "Chuah Chai Wen"
+            ],
+            "author_info": [],
+            "author_cards": [
+                {
+                    "name": "Rangana De Silva",
+                    "profile": "#"
+                },
+                {
+                    "name": "Iranga Navaratna",
+                    "profile": "#"
+                },
+                {
+                    "name": "Malitha Kumarasiri",
+                    "profile": "#"
+                },
+                {
+                    "name": "Janaka Alawatugoda",
+                    "profile": "#"
+                },
+                {
+                    "name": "Chuah Chai Wen",
+                    "profile": "#"
+                }
             ],
             "doi": "https://doi.org/10.1504/ijics.2022.121289",
             "preprint": "#",
@@ -1058,6 +2715,17 @@
             "authors": [
                 "Janaka Alawatugoda",
                 "Tatsuaki Okamoto"
+            ],
+            "author_info": [],
+            "author_cards": [
+                {
+                    "name": "Janaka Alawatugoda",
+                    "profile": "#"
+                },
+                {
+                    "name": "Tatsuaki Okamoto",
+                    "profile": "#"
+                }
             ],
             "doi": "https://doi.org/10.1007/s10623-022-01028-0",
             "preprint": "https://eprint.iacr.org/2021/861.pdf",
