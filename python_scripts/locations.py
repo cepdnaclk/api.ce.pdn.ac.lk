@@ -131,6 +131,18 @@ for line in loc_raw[1:]:
 
     locations[floor_id]['locations'].append(loc_data)
 
+# Write index file
+location_index = {}
+for floor in locations:
+    location_index[floor] = {
+        "floor": floor,
+        "api_url": "{0}/{1}/index.json".format(apiIndex, floor),
+        "location_count": len(locations[floor]['locations'])
+    }
+filename = "../locations/v1/index.json"
+os.makedirs(os.path.dirname(filename), exist_ok=True)
+with open(filename, "w") as f:
+    f.write(json.dumps(location_index, indent=4))
 
 # Write all locations
 filename = "../locations/v1/all/index.json"
@@ -138,7 +150,7 @@ os.makedirs(os.path.dirname(filename), exist_ok=True)
 with open(filename, "w") as f:
     f.write(json.dumps(locations, indent=4))
 
-# TODO: Write locations by floors
+# Write locations by floors
 for floor in locations:
     filename = "../locations/v1/{0}/index.json".format(floor)
     os.makedirs(os.path.dirname(filename), exist_ok=True)
