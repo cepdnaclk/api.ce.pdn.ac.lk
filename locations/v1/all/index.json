@@ -19,11 +19,11 @@
                     "public"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             },
             {
@@ -40,15 +40,15 @@
                 "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/02/index.json",
                 "descrription": "",
                 "tags": [
-                    "private",
-                    " staff"
+                    " staff",
+                    "private"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             },
             {
@@ -68,11 +68,11 @@
                     "public"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             },
             {
@@ -92,11 +92,11 @@
                     "public"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             },
             {
@@ -136,9 +136,9 @@
                     "staff"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
+                    "INSTRUCTORS",
                     "STAFF",
-                    "INSTRUCTORS"
+                    "TECHNICAL_OFFICERS"
                 ]
             },
             {
@@ -158,9 +158,9 @@
                     "staff"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
+                    "INSTRUCTORS",
                     "STAFF",
-                    "INSTRUCTORS"
+                    "TECHNICAL_OFFICERS"
                 ]
             },
             {
@@ -180,11 +180,11 @@
                     "lab"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             },
             {
@@ -204,11 +204,11 @@
                     "lab"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             },
             {
@@ -228,11 +228,11 @@
                     "public"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             },
             {
@@ -252,11 +252,11 @@
                     "public"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             },
             {
@@ -276,84 +276,12 @@
                     "public"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
-            },
-            {
-                "floor": "G",
-                "id": "10G",
-                "label": "G-10G",
-                "title": "Gents Washrooms",
-                "contact": {
-                    "tele": "",
-                    "email": ""
-                },
-                "capacity": "",
-                "url": "",
-                "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/10G/index.json",
-                "descrription": "",
-                "tags": [
-                    "public"
-                ],
-                "accessibility": []
-            },
-            {
-                "floor": "G",
-                "id": "10G",
-                "label": "G-10G",
-                "title": "Gents Washrooms",
-                "contact": {
-                    "tele": "",
-                    "email": ""
-                },
-                "capacity": "",
-                "url": "",
-                "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/10G/index.json",
-                "descrription": "",
-                "tags": [
-                    "public"
-                ],
-                "accessibility": []
-            },
-            {
-                "floor": "G",
-                "id": "10L",
-                "label": "G-10L",
-                "title": "Ladies Washrooms",
-                "contact": {
-                    "tele": "",
-                    "email": ""
-                },
-                "capacity": "",
-                "url": "",
-                "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/10L/index.json",
-                "descrription": "",
-                "tags": [
-                    "public"
-                ],
-                "accessibility": []
-            },
-            {
-                "floor": "G",
-                "id": "10L",
-                "label": "G-10L",
-                "title": "Ladies Washrooms",
-                "contact": {
-                    "tele": "",
-                    "email": ""
-                },
-                "capacity": "",
-                "url": "",
-                "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/10L/index.json",
-                "descrription": "",
-                "tags": [
-                    "public"
-                ],
-                "accessibility": []
             },
             {
                 "floor": "G",
@@ -372,11 +300,11 @@
                     "public"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             },
             {
@@ -396,11 +324,11 @@
                     "public"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             },
             {
@@ -460,11 +388,11 @@
                     "public"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             }
         ]
@@ -509,8 +437,8 @@
                     "staff"
                 ],
                 "accessibility": [
-                    "POSTGRADUATES",
-                    "INSTRUCTORS"
+                    "INSTRUCTORS",
+                    "POSTGRADUATES"
                 ]
             },
             {
@@ -650,11 +578,11 @@
                     "lab"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             },
             {
@@ -674,11 +602,11 @@
                     "public"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             },
             {
@@ -698,11 +626,11 @@
                     "public"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             },
             {
@@ -762,11 +690,11 @@
                     "lab"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             }
         ]
@@ -811,8 +739,8 @@
                     "staff"
                 ],
                 "accessibility": [
-                    "POSTGRADUATES",
-                    "INSTRUCTORS"
+                    "INSTRUCTORS",
+                    "POSTGRADUATES"
                 ]
             },
             {
@@ -832,11 +760,11 @@
                     "lab"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             },
             {
@@ -856,11 +784,11 @@
                     "public"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             },
             {
@@ -960,11 +888,11 @@
                     "public"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             },
             {
@@ -1004,11 +932,11 @@
                     "public"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             },
             {
@@ -1048,11 +976,11 @@
                     "lab"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             }
         ]
@@ -1177,8 +1105,8 @@
                     "staff"
                 ],
                 "accessibility": [
-                    "POSTGRADUATES",
-                    "INSTRUCTORS"
+                    "INSTRUCTORS",
+                    "POSTGRADUATES"
                 ]
             },
             {
@@ -1218,11 +1146,11 @@
                     "lab"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             },
             {
@@ -1242,11 +1170,11 @@
                     "lab"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             },
             {
@@ -1266,11 +1194,11 @@
                     "lab"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             },
             {
@@ -1290,11 +1218,11 @@
                     "public"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             },
             {
@@ -1314,11 +1242,11 @@
                     "public"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             },
             {
@@ -1475,11 +1403,11 @@
                     "lab"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             },
             {
@@ -1539,11 +1467,11 @@
                     "lab"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             },
             {
@@ -1643,8 +1571,8 @@
                     "staff"
                 ],
                 "accessibility": [
-                    "POSTGRADUATES",
-                    "INSTRUCTORS"
+                    "INSTRUCTORS",
+                    "POSTGRADUATES"
                 ]
             },
             {
@@ -1700,11 +1628,11 @@
                     "public"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             },
             {
@@ -1724,11 +1652,11 @@
                     "public"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             },
             {
@@ -1788,11 +1716,11 @@
                     "public"
                 ],
                 "accessibility": [
-                    "TECHNICAL_OFFICERS",
-                    "STAFF",
+                    "INSTRUCTORS",
                     "POSTGRADUATES",
-                    "UNDERGRADUATES",
-                    "INSTRUCTORS"
+                    "STAFF",
+                    "TECHNICAL_OFFICERS",
+                    "UNDERGRADUATES"
                 ]
             }
         ]

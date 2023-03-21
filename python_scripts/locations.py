@@ -120,8 +120,8 @@ for line in loc_raw[1:]:
         "url": loc_raw_data[URL],
         "api_url": api_url,
         "descrription": loc_raw_data[DESCRIPTION],
-        "tags": tag_list,
-        "accessibility": list(set(access_list)),
+        "tags": sorted(tag_list),
+        "accessibility": sorted(list(set(access_list))),
     }
 
     write_location(loc_data)

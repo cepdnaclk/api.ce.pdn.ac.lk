@@ -12,14 +12,14 @@
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/02/index.json",
     "descrription": "",
     "tags": [
-        "private",
-        " staff"
+        " staff",
+        "private"
     ],
     "accessibility": [
-        "TECHNICAL_OFFICERS",
-        "STAFF",
+        "INSTRUCTORS",
         "POSTGRADUATES",
-        "UNDERGRADUATES",
-        "INSTRUCTORS"
+        "STAFF",
+        "TECHNICAL_OFFICERS",
+        "UNDERGRADUATES"
     ]
 }
