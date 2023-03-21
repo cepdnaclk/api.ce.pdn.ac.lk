@@ -13,7 +13,8 @@
             "capacity": "",
             "url": "",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/01/index.json",
-            "descrription": "This room is used by Technical officer and assistant.Mr.Kelum is currently incharge in here",
+            "description": "This room is used by Technical officer and assistant.Mr.Kelum is currently incharge in here",
+            "features": "This room has a Hardware component storage",
             "tags": [
                 "staff"
             ],
@@ -33,7 +34,8 @@
             "capacity": "",
             "url": "",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/02/index.json",
-            "descrription": "This is the room for Instructors and Post Graduate students",
+            "description": "This is the room for Instructors and Post Graduate students",
+            "features": "This room has working space for four",
             "tags": [
                 "staff"
             ],
@@ -54,7 +56,8 @@
             "capacity": "6",
             "url": "https://ce.pdn.ac.lk/facilities/industrial-automation-lab",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/03/index.json",
-            "descrription": "This lab is used for related lab activities",
+            "description": "This lab is used for related lab activities",
+            "features": "This lab has PLC Boards, Industrial Conveyor Belts",
             "tags": [
                 "lab"
             ],
@@ -78,7 +81,8 @@
             "capacity": "",
             "url": "",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/09/index.json",
-            "descrription": "This room is used to have discussions of projects,activities etc",
+            "description": "This room is used to have discussions of projects,activities etc",
+            "features": "This has a space for 30 students and  White Boards and study tables are availbale",
             "tags": [
                 "public"
             ],
@@ -102,7 +106,8 @@
             "capacity": "",
             "url": "",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/05/index.json",
-            "descrription": "https://people.ce.pdn.ac.lk/staff/academic/",
+            "description": "https://people.ce.pdn.ac.lk/staff/academic/",
+            "features": "",
             "tags": [
                 "staff"
             ],
@@ -122,7 +127,8 @@
             "capacity": "",
             "url": "",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/06/index.json",
-            "descrription": "https://people.ce.pdn.ac.lk/staff/academic/",
+            "description": "https://people.ce.pdn.ac.lk/staff/academic/",
+            "features": "",
             "tags": [
                 "staff"
             ],
@@ -142,7 +148,8 @@
             "capacity": "",
             "url": "",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/07/index.json",
-            "descrription": "https://people.ce.pdn.ac.lk/staff/academic/",
+            "description": "https://people.ce.pdn.ac.lk/staff/academic/",
+            "features": "",
             "tags": [
                 "staff"
             ],
@@ -162,7 +169,8 @@
             "capacity": "",
             "url": "",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/08/index.json",
-            "descrription": "https://people.ce.pdn.ac.lk/staff/academic/",
+            "description": "https://people.ce.pdn.ac.lk/staff/academic/",
+            "features": "",
             "tags": [
                 "staff"
             ],
@@ -182,7 +190,8 @@
             "capacity": "",
             "url": "",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/ENTR/index.json",
-            "descrription": "The lift or the staircases to enter other floors can be accessed from here",
+            "description": "The lift or the staircases to enter other floors can be accessed from here",
+            "features": "Entrance and the Exit points are in here",
             "tags": [
                 "public"
             ],
@@ -206,7 +215,8 @@
             "capacity": "",
             "url": "",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/LIFT/index.json",
-            "descrription": "Can be used to enter other floors",
+            "description": "Can be used to enter other floors",
+            "features": "This belongs to Floor2",
             "tags": [
                 "public"
             ],
@@ -226,7 +236,8 @@
             "capacity": "",
             "url": "",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/CR01/index.json",
-            "descrription": "This corridor can be used to reach discussion room,Hardware & CI lab,TO room and Main room",
+            "description": "This corridor can be used to reach discussion room,Hardware & CI lab,TO room and Main room",
+            "features": "This belongs to floor 2",
             "tags": [
                 "public"
             ],
@@ -250,7 +261,8 @@
             "capacity": "",
             "url": "",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/OP/index.json",
-            "descrription": "",
+            "description": "",
+            "features": "This belongs to second Floor",
             "tags": [
                 "authorized"
             ],
@@ -270,7 +282,8 @@
             "capacity": "60",
             "url": "https://ce.pdn.ac.lk/facilities/hardware-and-interfacing-lab/",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/00/index.json",
-            "descrription": "This lab is used for Digital Design, Embedded Systems and other courses",
+            "description": "This lab is used for Digital Design, Embedded Systems and other courses",
+            "features": "This lab contains 30 Computers, Oscilloscopes, Power Supplies, Signal Generators",
             "tags": [
                 "lab"
             ],

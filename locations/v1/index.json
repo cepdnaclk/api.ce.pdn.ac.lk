@@ -23,5 +23,10 @@
         "floor": "04",
         "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/index.json",
         "location_count": 20
+    },
+    "all": {
+        "floor": "N/A",
+        "api_url": "https://api.ce.pdn.ac.lk/locations/v1/all/index.json",
+        "location_count": 79
     }
 }

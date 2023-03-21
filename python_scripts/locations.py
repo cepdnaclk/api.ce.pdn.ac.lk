@@ -119,7 +119,8 @@ for line in loc_raw[1:]:
         "capacity": loc_raw_data[CAPACITY],
         "url": loc_raw_data[URL],
         "api_url": api_url,
-        "descrription": loc_raw_data[DESCRIPTION],
+        "description": loc_raw_data[DESCRIPTION],
+        "features": loc_raw_data[FEATURES],
         "tags": sorted(tag_list),
         "accessibility": sorted(list(set(access_list))),
     }
@@ -133,12 +134,20 @@ for line in loc_raw[1:]:
 
 # Write index file
 location_index = {}
+location_total = 0
 for floor in locations:
+    location_total = location_total + len(locations[floor]['locations'])
     location_index[floor] = {
         "floor": floor,
         "api_url": "{0}/{1}/index.json".format(apiIndex, floor),
         "location_count": len(locations[floor]['locations'])
     }
+location_index["all"] = {
+    "floor": "N/A",
+    "api_url": "{0}/all/index.json".format(apiIndex),
+    "location_count": location_total
+}
+
 filename = "../locations/v1/index.json"
 os.makedirs(os.path.dirname(filename), exist_ok=True)
 with open(filename, "w") as f:
