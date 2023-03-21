@@ -1,0 +1,24 @@
+{
+    "floor": "02",
+    "id": "09",
+    "label": "02-09",
+    "title": "Discussion Room",
+    "contact": {
+        "tele": "",
+        "email": ""
+    },
+    "capacity": "",
+    "url": "",
+    "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/09/index.json",
+    "descrription": "This room is used to have discussions of projects,activities etc",
+    "tags": [
+        "public"
+    ],
+    "accessibility": [
+        "TECHNICAL_OFFICERS",
+        "STAFF",
+        "POSTGRADUATES",
+        "UNDERGRADUATES",
+        "INSTRUCTORS"
+    ]
+}

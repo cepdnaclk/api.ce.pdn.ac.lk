@@ -1,0 +1,22 @@
+{
+    "floor": "G",
+    "id": "06",
+    "label": "G-06",
+    "title": "Staff Common Room 1",
+    "contact": {
+        "tele": "",
+        "email": ""
+    },
+    "capacity": "",
+    "url": "",
+    "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/06/index.json",
+    "descrription": "Currently used by TOs",
+    "tags": [
+        "staff"
+    ],
+    "accessibility": [
+        "TECHNICAL_OFFICERS",
+        "STAFF",
+        "INSTRUCTORS"
+    ]
+}

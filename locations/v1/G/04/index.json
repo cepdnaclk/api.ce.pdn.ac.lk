@@ -1,0 +1,24 @@
+{
+    "floor": "G",
+    "id": "04",
+    "label": "G-04",
+    "title": "Central Lobby",
+    "contact": {
+        "tele": "",
+        "email": ""
+    },
+    "capacity": "",
+    "url": "",
+    "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/04/index.json",
+    "descrription": "This is a transit area",
+    "tags": [
+        "public"
+    ],
+    "accessibility": [
+        "TECHNICAL_OFFICERS",
+        "STAFF",
+        "POSTGRADUATES",
+        "UNDERGRADUATES",
+        "INSTRUCTORS"
+    ]
+}

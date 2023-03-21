@@ -1,0 +1,302 @@
+{
+    "title": "01",
+    "locations": [
+        {
+            "floor": "01",
+            "id": "01",
+            "label": "01-01",
+            "title": "Technical Officer's room",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/01/index.json",
+            "descrription": "This belongs to first Floor",
+            "tags": [
+                "staff"
+            ],
+            "accessibility": [
+                "TECHNICAL_OFFICERS"
+            ]
+        },
+        {
+            "floor": "01",
+            "id": "02",
+            "label": "01-02",
+            "title": "Insructors' Room",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/02/index.json",
+            "descrription": "This contains a working space for four",
+            "tags": [
+                "staff"
+            ],
+            "accessibility": [
+                "POSTGRADUATES",
+                "INSTRUCTORS"
+            ]
+        },
+        {
+            "floor": "01",
+            "id": "03",
+            "label": "01-03",
+            "title": "Lecturer's Room 1",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/03/index.json",
+            "descrription": "",
+            "tags": [
+                "staff"
+            ],
+            "accessibility": [
+                "STAFF"
+            ]
+        },
+        {
+            "floor": "01",
+            "id": "04",
+            "label": "01-04",
+            "title": "Lecturer's Room 2",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/04/index.json",
+            "descrription": "",
+            "tags": [
+                "staff"
+            ],
+            "accessibility": [
+                "STAFF"
+            ]
+        },
+        {
+            "floor": "01",
+            "id": "05",
+            "label": "01-05",
+            "title": "Lecturer's Room 3",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/05/index.json",
+            "descrription": "",
+            "tags": [
+                "staff"
+            ],
+            "accessibility": [
+                "STAFF"
+            ]
+        },
+        {
+            "floor": "01",
+            "id": "06",
+            "label": "01-06",
+            "title": "Lecturer's Room 4",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/06/index.json",
+            "descrription": "",
+            "tags": [
+                "staff"
+            ],
+            "accessibility": [
+                "STAFF"
+            ]
+        },
+        {
+            "floor": "01",
+            "id": "07",
+            "label": "01-07",
+            "title": "Lecturer's Room 5",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/07/index.json",
+            "descrription": "",
+            "tags": [
+                "staff"
+            ],
+            "accessibility": [
+                "STAFF"
+            ]
+        },
+        {
+            "floor": "01",
+            "id": "08",
+            "label": "01-08",
+            "title": "Lecturer's Room 6",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/08/index.json",
+            "descrription": "",
+            "tags": [
+                "staff"
+            ],
+            "accessibility": [
+                "STAFF"
+            ]
+        },
+        {
+            "floor": "01",
+            "id": "09",
+            "label": "01-09",
+            "title": "Network & Communication Lab",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "30",
+            "url": "https://ce.pdn.ac.lk/facilities/networking-lab",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/09/index.json",
+            "descrription": "This lab has Computers, Networking Devices etc.",
+            "tags": [
+                "lab"
+            ],
+            "accessibility": [
+                "TECHNICAL_OFFICERS",
+                "STAFF",
+                "POSTGRADUATES",
+                "UNDERGRADUATES",
+                "INSTRUCTORS"
+            ]
+        },
+        {
+            "floor": "01",
+            "id": "CR01",
+            "label": "01-CR01",
+            "title": "Corridor-01",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/CR01/index.json",
+            "descrription": "This belongs to floor 1",
+            "tags": [
+                "public"
+            ],
+            "accessibility": [
+                "TECHNICAL_OFFICERS",
+                "STAFF",
+                "POSTGRADUATES",
+                "UNDERGRADUATES",
+                "INSTRUCTORS"
+            ]
+        },
+        {
+            "floor": "01",
+            "id": "ENTR",
+            "label": "01-ENTR",
+            "title": "Main Room",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/ENTR/index.json",
+            "descrription": "Entrance and the Exit points are in here",
+            "tags": [
+                "public"
+            ],
+            "accessibility": [
+                "TECHNICAL_OFFICERS",
+                "STAFF",
+                "POSTGRADUATES",
+                "UNDERGRADUATES",
+                "INSTRUCTORS"
+            ]
+        },
+        {
+            "floor": "01",
+            "id": "OP",
+            "label": "01-OP",
+            "title": "Operator-room",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/OP/index.json",
+            "descrription": "This belongs to Floor1",
+            "tags": [
+                "authorized"
+            ],
+            "accessibility": [
+                "TECHNICAL_OFFICERS"
+            ]
+        },
+        {
+            "floor": "01",
+            "id": "LIFT",
+            "label": "01-LIFT",
+            "title": "Lift",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/LIFT/index.json",
+            "descrription": "This belongs to Floor1",
+            "tags": [
+                "public"
+            ],
+            "accessibility": [
+                "NONE"
+            ]
+        },
+        {
+            "floor": "01",
+            "id": "00",
+            "label": "01-00",
+            "title": "Computer Laboratory 2",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "64",
+            "url": "https://ce.pdn.ac.lk/facilities/computer-lab2",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/00/index.json",
+            "descrription": "This lab contains 2 built in projectors and screens and 64 computers",
+            "tags": [
+                "lab"
+            ],
+            "accessibility": [
+                "TECHNICAL_OFFICERS",
+                "STAFF",
+                "POSTGRADUATES",
+                "UNDERGRADUATES",
+                "INSTRUCTORS"
+            ]
+        }
+    ]
+}

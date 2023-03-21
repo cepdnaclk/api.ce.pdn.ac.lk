@@ -1,0 +1,326 @@
+{
+    "title": "03",
+    "locations": [
+        {
+            "floor": "03",
+            "id": "01",
+            "label": "03-01",
+            "title": "Lecturer's Room 2",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/01/index.json",
+            "descrription": "",
+            "tags": [
+                "staff"
+            ],
+            "accessibility": [
+                "STAFF"
+            ]
+        },
+        {
+            "floor": "03",
+            "id": "02",
+            "label": "03-02",
+            "title": "Lecturer's Room 3",
+            "contact": {
+                "tele": "",
+                "email": "sithuminie@eng.pdn.ac.lk"
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/02/index.json",
+            "descrription": "",
+            "tags": [
+                "staff"
+            ],
+            "accessibility": [
+                "STAFF"
+            ]
+        },
+        {
+            "floor": "03",
+            "id": "03",
+            "label": "03-03",
+            "title": "Lecturer's Room 4",
+            "contact": {
+                "tele": "",
+                "email": "mahanamaw@eng.pdn.ac.lk"
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/03/index.json",
+            "descrription": "",
+            "tags": [
+                "staff"
+            ],
+            "accessibility": [
+                "STAFF"
+            ]
+        },
+        {
+            "floor": "03",
+            "id": "04",
+            "label": "03-04",
+            "title": "Lecturer's Room 5",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/04/index.json",
+            "descrription": "",
+            "tags": [
+                "staff"
+            ],
+            "accessibility": [
+                "STAFF"
+            ]
+        },
+        {
+            "floor": "03",
+            "id": "05",
+            "label": "03-05",
+            "title": "Lecturer's Room 6",
+            "contact": {
+                "tele": "",
+                "email": "nadeeshaa@eng.pdn.ac.lk"
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/05/index.json",
+            "descrription": "",
+            "tags": [
+                "staff"
+            ],
+            "accessibility": [
+                "STAFF"
+            ]
+        },
+        {
+            "floor": "03",
+            "id": "06",
+            "label": "03-06",
+            "title": "Insructors' Room",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/06/index.json",
+            "descrription": "This contains a working space for six people and a storage",
+            "tags": [
+                "staff"
+            ],
+            "accessibility": [
+                "POSTGRADUATES",
+                "INSTRUCTORS"
+            ]
+        },
+        {
+            "floor": "03",
+            "id": "07",
+            "label": "03-07",
+            "title": "Technical Offcer's room",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/07/index.json",
+            "descrription": "This space is Additionally used as material storage",
+            "tags": [
+                "staff"
+            ],
+            "accessibility": [
+                "TECHNICAL_OFFICERS"
+            ]
+        },
+        {
+            "floor": "03",
+            "id": "08",
+            "label": "03-08",
+            "title": "ESCAL Makerspace Lab",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "20",
+            "url": "https://ce.pdn.ac.lk/facilities/makerspace",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/08/index.json",
+            "descrription": "This lab has PLC Board, Industrial Conveyor Belt",
+            "tags": [
+                "lab"
+            ],
+            "accessibility": [
+                "TECHNICAL_OFFICERS",
+                "STAFF",
+                "POSTGRADUATES",
+                "UNDERGRADUATES",
+                "INSTRUCTORS"
+            ]
+        },
+        {
+            "floor": "03",
+            "id": "09",
+            "label": "03-09",
+            "title": "ESCAL Makerspace-Machine Room",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "4",
+            "url": "https://ce.pdn.ac.lk/facilities/makerspace",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/09/index.json",
+            "descrription": "This is for MakerSpace Heavy Machinery Work",
+            "tags": [
+                "lab"
+            ],
+            "accessibility": [
+                "TECHNICAL_OFFICERS",
+                "STAFF",
+                "POSTGRADUATES",
+                "UNDERGRADUATES",
+                "INSTRUCTORS"
+            ]
+        },
+        {
+            "floor": "03",
+            "id": "10",
+            "label": "03-10",
+            "title": "ESCAL Robotics Lab 1",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "12",
+            "url": "https://ce.pdn.ac.lk/facilities/robotics-lab",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/10/index.json",
+            "descrription": "This is for Robotics related works",
+            "tags": [
+                "lab"
+            ],
+            "accessibility": [
+                "TECHNICAL_OFFICERS",
+                "STAFF",
+                "POSTGRADUATES",
+                "UNDERGRADUATES",
+                "INSTRUCTORS"
+            ]
+        },
+        {
+            "floor": "03",
+            "id": "CR01",
+            "label": "03-CR01",
+            "title": "Corridor",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/CR01/index.json",
+            "descrription": "This belongs to floor 3",
+            "tags": [
+                "public"
+            ],
+            "accessibility": [
+                "TECHNICAL_OFFICERS",
+                "STAFF",
+                "POSTGRADUATES",
+                "UNDERGRADUATES",
+                "INSTRUCTORS"
+            ]
+        },
+        {
+            "floor": "03",
+            "id": "ENTR",
+            "label": "03-ENTR",
+            "title": "Main Room",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/ENTR/index.json",
+            "descrription": "Entrance and the Exit points are in here",
+            "tags": [
+                "public"
+            ],
+            "accessibility": [
+                "TECHNICAL_OFFICERS",
+                "STAFF",
+                "POSTGRADUATES",
+                "UNDERGRADUATES",
+                "INSTRUCTORS"
+            ]
+        },
+        {
+            "floor": "03",
+            "id": "LIFT",
+            "label": "03-LIFT",
+            "title": "Lift",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/LIFT/index.json",
+            "descrription": "This belongs to Floor3",
+            "tags": [
+                "public"
+            ],
+            "accessibility": [
+                "NONE"
+            ]
+        },
+        {
+            "floor": "03",
+            "id": "OP",
+            "label": "03-OP",
+            "title": "Operator-room",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/OP/index.json",
+            "descrription": "This belongs to third Floor",
+            "tags": [
+                "authorized"
+            ],
+            "accessibility": [
+                "TECHNICAL_OFFICERS"
+            ]
+        },
+        {
+            "floor": "03",
+            "id": "00",
+            "label": "03-00",
+            "title": "Lecturer's Room 1",
+            "contact": {
+                "tele": "",
+                "email": "isurunawinne@eng.pdn.ac.lk"
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/00/index.json",
+            "descrription": "",
+            "tags": [
+                "staff"
+            ],
+            "accessibility": [
+                "STAFF"
+            ]
+        }
+    ]
+}

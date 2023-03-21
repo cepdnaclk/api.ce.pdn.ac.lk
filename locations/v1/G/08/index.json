@@ -1,0 +1,24 @@
+{
+    "floor": "G",
+    "id": "08",
+    "label": "G-08",
+    "title": "Open Lab 1",
+    "contact": {
+        "tele": "",
+        "email": ""
+    },
+    "capacity": "30-40",
+    "url": "https://ce.pdn.ac.lk/facilities/open-lab",
+    "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/08/index.json",
+    "descrription": "Whiteboards and facilities for using laptops",
+    "tags": [
+        "lab"
+    ],
+    "accessibility": [
+        "TECHNICAL_OFFICERS",
+        "STAFF",
+        "POSTGRADUATES",
+        "UNDERGRADUATES",
+        "INSTRUCTORS"
+    ]
+}

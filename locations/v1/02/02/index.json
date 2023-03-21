@@ -1,0 +1,21 @@
+{
+    "floor": "02",
+    "id": "02",
+    "label": "02-02",
+    "title": "Insructors' Room",
+    "contact": {
+        "tele": "",
+        "email": ""
+    },
+    "capacity": "",
+    "url": "",
+    "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/02/index.json",
+    "descrription": "This is the room for Instructors and Post Graduate students",
+    "tags": [
+        "staff"
+    ],
+    "accessibility": [
+        "POSTGRADUATES",
+        "INSTRUCTORS"
+    ]
+}

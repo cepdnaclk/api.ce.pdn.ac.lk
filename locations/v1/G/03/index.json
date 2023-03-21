@@ -1,0 +1,24 @@
+{
+    "floor": "G",
+    "id": "03",
+    "label": "G-03",
+    "title": "Conference Room",
+    "contact": {
+        "tele": "",
+        "email": ""
+    },
+    "capacity": "15",
+    "url": "https://ce.pdn.ac.lk/facilities/conference-room/",
+    "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/03/index.json",
+    "descrription": "This is for official gatherings",
+    "tags": [
+        "public"
+    ],
+    "accessibility": [
+        "TECHNICAL_OFFICERS",
+        "STAFF",
+        "POSTGRADUATES",
+        "UNDERGRADUATES",
+        "INSTRUCTORS"
+    ]
+}

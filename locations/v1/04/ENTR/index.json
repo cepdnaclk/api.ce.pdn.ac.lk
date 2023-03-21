@@ -1,0 +1,24 @@
+{
+    "floor": "04",
+    "id": "ENTR",
+    "label": "04-ENTR",
+    "title": "Staircase",
+    "contact": {
+        "tele": "",
+        "email": ""
+    },
+    "capacity": "",
+    "url": "",
+    "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/ENTR/index.json",
+    "descrription": "Entrance and the Exit points are in here",
+    "tags": [
+        "public"
+    ],
+    "accessibility": [
+        "TECHNICAL_OFFICERS",
+        "STAFF",
+        "POSTGRADUATES",
+        "UNDERGRADUATES",
+        "INSTRUCTORS"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "floor": "01",
+    "id": "ENTR",
+    "label": "01-ENTR",
+    "title": "Main Room",
+    "contact": {
+        "tele": "",
+        "email": ""
+    },
+    "capacity": "",
+    "url": "",
+    "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/ENTR/index.json",
+    "descrription": "Entrance and the Exit points are in here",
+    "tags": [
+        "public"
+    ],
+    "accessibility": [
+        "TECHNICAL_OFFICERS",
+        "STAFF",
+        "POSTGRADUATES",
+        "UNDERGRADUATES",
+        "INSTRUCTORS"
+    ]
+}

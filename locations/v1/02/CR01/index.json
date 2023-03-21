@@ -1,0 +1,24 @@
+{
+    "floor": "02",
+    "id": "CR01",
+    "label": "02-CR01",
+    "title": "Corridor",
+    "contact": {
+        "tele": "",
+        "email": ""
+    },
+    "capacity": "",
+    "url": "",
+    "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/CR01/index.json",
+    "descrription": "This corridor can be used to reach discussion room,Hardware & CI lab,TO room and Main room",
+    "tags": [
+        "public"
+    ],
+    "accessibility": [
+        "TECHNICAL_OFFICERS",
+        "STAFF",
+        "POSTGRADUATES",
+        "UNDERGRADUATES",
+        "INSTRUCTORS"
+    ]
+}

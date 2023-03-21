@@ -1,0 +1,24 @@
+{
+    "floor": "02",
+    "id": "03",
+    "label": "02-03",
+    "title": "Industrial Automation Laboratory",
+    "contact": {
+        "tele": "",
+        "email": ""
+    },
+    "capacity": "6",
+    "url": "https://ce.pdn.ac.lk/facilities/industrial-automation-lab",
+    "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/03/index.json",
+    "descrription": "This lab is used for related lab activities",
+    "tags": [
+        "lab"
+    ],
+    "accessibility": [
+        "TECHNICAL_OFFICERS",
+        "STAFF",
+        "POSTGRADUATES",
+        "UNDERGRADUATES",
+        "INSTRUCTORS"
+    ]
+}

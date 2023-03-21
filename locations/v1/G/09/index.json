@@ -1,0 +1,24 @@
+{
+    "floor": "G",
+    "id": "09",
+    "label": "G-09",
+    "title": "Open Lab 2",
+    "contact": {
+        "tele": "",
+        "email": ""
+    },
+    "capacity": "5-10",
+    "url": "https://ce.pdn.ac.lk/facilities/open-lab",
+    "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/09/index.json",
+    "descrription": "Open lab with Sofa and some seating arrangements",
+    "tags": [
+        "lab"
+    ],
+    "accessibility": [
+        "TECHNICAL_OFFICERS",
+        "STAFF",
+        "POSTGRADUATES",
+        "UNDERGRADUATES",
+        "INSTRUCTORS"
+    ]
+}

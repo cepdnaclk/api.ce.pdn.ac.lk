@@ -1,0 +1,24 @@
+{
+    "floor": "G",
+    "id": "CR01",
+    "label": "G-CR01",
+    "title": "Corridor",
+    "contact": {
+        "tele": "",
+        "email": ""
+    },
+    "capacity": "",
+    "url": "",
+    "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/CR01/index.json",
+    "descrription": "This corridor connects central lobby,department office,conference room, operator room",
+    "tags": [
+        "public"
+    ],
+    "accessibility": [
+        "TECHNICAL_OFFICERS",
+        "STAFF",
+        "POSTGRADUATES",
+        "UNDERGRADUATES",
+        "INSTRUCTORS"
+    ]
+}

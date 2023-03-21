@@ -1,0 +1,24 @@
+{
+    "floor": "G",
+    "id": "11",
+    "label": "G-11",
+    "title": "Open lab Entry Lobby",
+    "contact": {
+        "tele": "",
+        "email": ""
+    },
+    "capacity": "",
+    "url": "",
+    "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/11/index.json",
+    "descrription": "Providing after hours access to G-08 and G-09",
+    "tags": [
+        "public"
+    ],
+    "accessibility": [
+        "TECHNICAL_OFFICERS",
+        "STAFF",
+        "POSTGRADUATES",
+        "UNDERGRADUATES",
+        "INSTRUCTORS"
+    ]
+}

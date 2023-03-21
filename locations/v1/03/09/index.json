@@ -1,0 +1,24 @@
+{
+    "floor": "03",
+    "id": "09",
+    "label": "03-09",
+    "title": "ESCAL Makerspace-Machine Room",
+    "contact": {
+        "tele": "",
+        "email": ""
+    },
+    "capacity": "4",
+    "url": "https://ce.pdn.ac.lk/facilities/makerspace",
+    "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/09/index.json",
+    "descrription": "This is for MakerSpace Heavy Machinery Work",
+    "tags": [
+        "lab"
+    ],
+    "accessibility": [
+        "TECHNICAL_OFFICERS",
+        "STAFF",
+        "POSTGRADUATES",
+        "UNDERGRADUATES",
+        "INSTRUCTORS"
+    ]
+}

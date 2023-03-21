@@ -1,0 +1,24 @@
+{
+    "floor": "03",
+    "id": "08",
+    "label": "03-08",
+    "title": "ESCAL Makerspace Lab",
+    "contact": {
+        "tele": "",
+        "email": ""
+    },
+    "capacity": "20",
+    "url": "https://ce.pdn.ac.lk/facilities/makerspace",
+    "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/08/index.json",
+    "descrription": "This lab has PLC Board, Industrial Conveyor Belt",
+    "tags": [
+        "lab"
+    ],
+    "accessibility": [
+        "TECHNICAL_OFFICERS",
+        "STAFF",
+        "POSTGRADUATES",
+        "UNDERGRADUATES",
+        "INSTRUCTORS"
+    ]
+}

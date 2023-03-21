@@ -1,0 +1,24 @@
+{
+    "floor": "01",
+    "id": "CR01",
+    "label": "01-CR01",
+    "title": "Corridor-01",
+    "contact": {
+        "tele": "",
+        "email": ""
+    },
+    "capacity": "",
+    "url": "",
+    "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/CR01/index.json",
+    "descrription": "This belongs to floor 1",
+    "tags": [
+        "public"
+    ],
+    "accessibility": [
+        "TECHNICAL_OFFICERS",
+        "STAFF",
+        "POSTGRADUATES",
+        "UNDERGRADUATES",
+        "INSTRUCTORS"
+    ]
+}
