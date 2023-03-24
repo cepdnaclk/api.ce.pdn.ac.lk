@@ -1,14 +1,16 @@
 {
     "floor": "G",
     "id": "05",
-    "label": "G-05",
+    "label": "CE-G-05",
     "title": "Filing Room & Storage",
     "contact": {
         "tele": "",
-        "email": ""
+        "email": "",
+        "name": "",
+        "link": ""
     },
-    "capacity": "",
-    "url": "",
+    "capacity": "N/A",
+    "url": "#",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/05/index.json",
     "description": "It has a Storage area",
     "features": "",
@@ -16,6 +18,6 @@
         "authorized"
     ],
     "accessibility": [
-        "TECHNICAL_OFFICERS"
+        "Technical Officers"
     ]
 }

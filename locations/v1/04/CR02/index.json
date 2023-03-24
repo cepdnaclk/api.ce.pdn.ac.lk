@@ -1,14 +1,16 @@
 {
     "floor": "04",
     "id": "CR02",
-    "label": "04-CR02",
+    "label": "CE-04-CR02",
     "title": "Corridor 2",
     "contact": {
         "tele": "",
-        "email": ""
+        "email": "",
+        "name": "",
+        "link": ""
     },
-    "capacity": "",
-    "url": "",
+    "capacity": "N/A",
+    "url": "#",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/CR02/index.json",
     "description": "This corridor can be used to enter to the computer vision lab,main room and operators",
     "features": "",
@@ -16,10 +18,10 @@
         "public"
     ],
     "accessibility": [
-        "INSTRUCTORS",
-        "POSTGRADUATES",
-        "STAFF",
-        "TECHNICAL_OFFICERS",
-        "UNDERGRADUATES"
+        "Instructors",
+        "Postgraduates",
+        "Staff",
+        "Technical Officers",
+        "Undergraduates"
     ]
 }

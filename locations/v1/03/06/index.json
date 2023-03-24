@@ -1,14 +1,16 @@
 {
     "floor": "03",
     "id": "06",
-    "label": "03-06",
+    "label": "CE-03-06",
     "title": "Insructors' Room",
     "contact": {
         "tele": "",
-        "email": ""
+        "email": "",
+        "name": "",
+        "link": ""
     },
-    "capacity": "",
-    "url": "",
+    "capacity": "N/A",
+    "url": "#",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/06/index.json",
     "description": "This contains a working space for six people and a storage",
     "features": "This is the room for Instructors and Post Graduate students",
@@ -16,7 +18,7 @@
         "staff"
     ],
     "accessibility": [
-        "INSTRUCTORS",
-        "POSTGRADUATES"
+        "Instructors",
+        "Postgraduates"
     ]
 }

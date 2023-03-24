@@ -1,11 +1,13 @@
 {
     "floor": "G",
     "id": "03",
-    "label": "G-03",
+    "label": "CE-G-03",
     "title": "Conference Room",
     "contact": {
         "tele": "",
-        "email": ""
+        "email": "",
+        "name": "",
+        "link": ""
     },
     "capacity": "15",
     "url": "https://ce.pdn.ac.lk/facilities/conference-room/",
@@ -16,10 +18,10 @@
         "public"
     ],
     "accessibility": [
-        "INSTRUCTORS",
-        "POSTGRADUATES",
-        "STAFF",
-        "TECHNICAL_OFFICERS",
-        "UNDERGRADUATES"
+        "Postgraduates",
+        "Staff",
+        "Technical Officers",
+        "URL",
+        "Undergraduates"
     ]
 }

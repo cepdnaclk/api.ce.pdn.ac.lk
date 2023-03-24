@@ -1,14 +1,16 @@
 {
     "floor": "02",
     "id": "05",
-    "label": "02-05",
+    "label": "CE-02-05",
     "title": "Lecturer's Room 1",
     "contact": {
         "tele": "",
-        "email": ""
+        "email": "",
+        "name": "",
+        "link": ""
     },
-    "capacity": "",
-    "url": "",
+    "capacity": "N/A",
+    "url": "#",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/05/index.json",
     "description": "https://people.ce.pdn.ac.lk/staff/academic/",
     "features": "",
@@ -16,6 +18,6 @@
         "staff"
     ],
     "accessibility": [
-        "STAFF"
+        "Staff"
     ]
 }

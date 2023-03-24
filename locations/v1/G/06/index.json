@@ -1,14 +1,16 @@
 {
     "floor": "G",
     "id": "06",
-    "label": "G-06",
+    "label": "CE-G-06",
     "title": "Staff Common Room 1",
     "contact": {
         "tele": "",
-        "email": ""
+        "email": "",
+        "name": "",
+        "link": ""
     },
-    "capacity": "",
-    "url": "",
+    "capacity": "N/A",
+    "url": "#",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/06/index.json",
     "description": "Currently used by TOs",
     "features": "It has facilities for staff gatherings",
@@ -16,8 +18,8 @@
         "staff"
     ],
     "accessibility": [
-        "INSTRUCTORS",
-        "STAFF",
-        "TECHNICAL_OFFICERS"
+        "Instructors",
+        "Staff",
+        "Technical Officers"
     ]
 }

@@ -1,14 +1,16 @@
 {
     "floor": "G",
     "id": "LIFT",
-    "label": "G-LIFT",
+    "label": "CE-G-LIFT",
     "title": "Lift",
     "contact": {
         "tele": "",
-        "email": ""
+        "email": "",
+        "name": "",
+        "link": ""
     },
-    "capacity": "",
-    "url": "",
+    "capacity": "N/A",
+    "url": "#",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/LIFT/index.json",
     "description": "Can be used to enter other floors",
     "features": "",
@@ -16,6 +18,6 @@
         "public"
     ],
     "accessibility": [
-        "NONE"
+        "None"
     ]
 }

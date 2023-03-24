@@ -1,11 +1,13 @@
 {
     "floor": "01",
     "id": "00",
-    "label": "01-00",
+    "label": "CE-01-00",
     "title": "Computer Laboratory 2",
     "contact": {
         "tele": "",
-        "email": ""
+        "email": "",
+        "name": "",
+        "link": ""
     },
     "capacity": "64",
     "url": "https://ce.pdn.ac.lk/facilities/computer-lab2",
@@ -16,10 +18,10 @@
         "lab"
     ],
     "accessibility": [
-        "INSTRUCTORS",
-        "POSTGRADUATES",
-        "STAFF",
-        "TECHNICAL_OFFICERS",
-        "UNDERGRADUATES"
+        "Postgraduates",
+        "Staff",
+        "Technical Officers",
+        "URL",
+        "Undergraduates"
     ]
 }
