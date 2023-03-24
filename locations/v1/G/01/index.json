@@ -1,0 +1,25 @@
+{
+    "floor": "G",
+    "id": "01",
+    "label": "G-01",
+    "title": "Department Office",
+    "contact": {
+        "tele": "",
+        "email": ""
+    },
+    "capacity": "",
+    "url": "http://www.ce.pdn.ac.lk/",
+    "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/01/index.json",
+    "description": "",
+    "features": "",
+    "tags": [
+        "public"
+    ],
+    "accessibility": [
+        "INSTRUCTORS",
+        "POSTGRADUATES",
+        "STAFF",
+        "TECHNICAL_OFFICERS",
+        "UNDERGRADUATES"
+    ]
+}

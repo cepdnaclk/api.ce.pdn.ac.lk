@@ -1,0 +1,25 @@
+{
+    "floor": "G",
+    "id": "OUTSIDE",
+    "label": "G-OUTSIDE",
+    "title": "Garden",
+    "contact": {
+        "tele": "",
+        "email": ""
+    },
+    "capacity": "",
+    "url": "",
+    "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/OUTSIDE/index.json",
+    "description": "",
+    "features": "This is the outside area of the Dept",
+    "tags": [
+        "public"
+    ],
+    "accessibility": [
+        "INSTRUCTORS",
+        "POSTGRADUATES",
+        "STAFF",
+        "TECHNICAL_OFFICERS",
+        "UNDERGRADUATES"
+    ]
+}

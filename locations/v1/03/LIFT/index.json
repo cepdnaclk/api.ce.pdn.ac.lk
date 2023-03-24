@@ -1,0 +1,21 @@
+{
+    "floor": "03",
+    "id": "LIFT",
+    "label": "03-LIFT",
+    "title": "Lift",
+    "contact": {
+        "tele": "",
+        "email": ""
+    },
+    "capacity": "",
+    "url": "",
+    "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/LIFT/index.json",
+    "description": "This belongs to Floor3",
+    "features": "Can be used to enter other floors",
+    "tags": [
+        "public"
+    ],
+    "accessibility": [
+        "NONE"
+    ]
+}

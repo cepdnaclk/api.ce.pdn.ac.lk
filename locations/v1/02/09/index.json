@@ -1,0 +1,25 @@
+{
+    "floor": "02",
+    "id": "09",
+    "label": "02-09",
+    "title": "Discussion Room",
+    "contact": {
+        "tele": "",
+        "email": ""
+    },
+    "capacity": "",
+    "url": "",
+    "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/09/index.json",
+    "description": "This room is used to have discussions of projects,activities etc",
+    "features": "This has a space for 30 students and  White Boards and study tables are availbale",
+    "tags": [
+        "public"
+    ],
+    "accessibility": [
+        "INSTRUCTORS",
+        "POSTGRADUATES",
+        "STAFF",
+        "TECHNICAL_OFFICERS",
+        "UNDERGRADUATES"
+    ]
+}

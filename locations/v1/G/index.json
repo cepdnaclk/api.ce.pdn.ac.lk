@@ -1,0 +1,415 @@
+{
+    "title": "G",
+    "locations": [
+        {
+            "floor": "G",
+            "id": "01",
+            "label": "G-01",
+            "title": "Department Office",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "http://www.ce.pdn.ac.lk/",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/01/index.json",
+            "description": "",
+            "features": "",
+            "tags": [
+                "public"
+            ],
+            "accessibility": [
+                "INSTRUCTORS",
+                "POSTGRADUATES",
+                "STAFF",
+                "TECHNICAL_OFFICERS",
+                "UNDERGRADUATES"
+            ]
+        },
+        {
+            "floor": "G",
+            "id": "02",
+            "label": "G-02",
+            "title": "HoD Office",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/02/index.json",
+            "description": "",
+            "features": "",
+            "tags": [
+                " staff",
+                "private"
+            ],
+            "accessibility": [
+                "INSTRUCTORS",
+                "POSTGRADUATES",
+                "STAFF",
+                "TECHNICAL_OFFICERS",
+                "UNDERGRADUATES"
+            ]
+        },
+        {
+            "floor": "G",
+            "id": "03",
+            "label": "G-03",
+            "title": "Conference Room",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "15",
+            "url": "https://ce.pdn.ac.lk/facilities/conference-room/",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/03/index.json",
+            "description": "This is for official gatherings",
+            "features": "This conference room has facilities like Smart Display,Conference Camera, Conference Mic",
+            "tags": [
+                "public"
+            ],
+            "accessibility": [
+                "INSTRUCTORS",
+                "POSTGRADUATES",
+                "STAFF",
+                "TECHNICAL_OFFICERS",
+                "UNDERGRADUATES"
+            ]
+        },
+        {
+            "floor": "G",
+            "id": "04",
+            "label": "G-04",
+            "title": "Central Lobby",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/04/index.json",
+            "description": "This is a transit area",
+            "features": "This space consists of a library and a museaum",
+            "tags": [
+                "public"
+            ],
+            "accessibility": [
+                "INSTRUCTORS",
+                "POSTGRADUATES",
+                "STAFF",
+                "TECHNICAL_OFFICERS",
+                "UNDERGRADUATES"
+            ]
+        },
+        {
+            "floor": "G",
+            "id": "05",
+            "label": "G-05",
+            "title": "Filing Room & Storage",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/05/index.json",
+            "description": "It has a Storage area",
+            "features": "",
+            "tags": [
+                "authorized"
+            ],
+            "accessibility": [
+                "TECHNICAL_OFFICERS"
+            ]
+        },
+        {
+            "floor": "G",
+            "id": "06",
+            "label": "G-06",
+            "title": "Staff Common Room 1",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/06/index.json",
+            "description": "Currently used by TOs",
+            "features": "It has facilities for staff gatherings",
+            "tags": [
+                "staff"
+            ],
+            "accessibility": [
+                "INSTRUCTORS",
+                "STAFF",
+                "TECHNICAL_OFFICERS"
+            ]
+        },
+        {
+            "floor": "G",
+            "id": "07",
+            "label": "G-07",
+            "title": "Staff Common Room 2",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/07/index.json",
+            "description": "to be used for lunch, tea and other informal gatherings.",
+            "features": "It has facilities for gatherings",
+            "tags": [
+                "staff"
+            ],
+            "accessibility": [
+                "INSTRUCTORS",
+                "STAFF",
+                "TECHNICAL_OFFICERS"
+            ]
+        },
+        {
+            "floor": "G",
+            "id": "08",
+            "label": "G-08",
+            "title": "Open Lab 1",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "30-40",
+            "url": "https://ce.pdn.ac.lk/facilities/open-lab",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/08/index.json",
+            "description": "Whiteboards and facilities for using laptops",
+            "features": "This is used by students for group-work, 'tech-talks', etc..After Hours access through G11",
+            "tags": [
+                "lab"
+            ],
+            "accessibility": [
+                "INSTRUCTORS",
+                "POSTGRADUATES",
+                "STAFF",
+                "TECHNICAL_OFFICERS",
+                "UNDERGRADUATES"
+            ]
+        },
+        {
+            "floor": "G",
+            "id": "09",
+            "label": "G-09",
+            "title": "Open Lab 2",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "5-10",
+            "url": "https://ce.pdn.ac.lk/facilities/open-lab",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/09/index.json",
+            "description": "Open lab with Sofa and some seating arrangements",
+            "features": "This is used by students for group-work, 'tech-talks', etc..After Hours access through G11",
+            "tags": [
+                "lab"
+            ],
+            "accessibility": [
+                "INSTRUCTORS",
+                "POSTGRADUATES",
+                "STAFF",
+                "TECHNICAL_OFFICERS",
+                "UNDERGRADUATES"
+            ]
+        },
+        {
+            "floor": "G",
+            "id": "10G",
+            "label": "G-10G",
+            "title": "Gents Washrooms",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/10G/index.json",
+            "description": "",
+            "features": "",
+            "tags": [
+                "public"
+            ],
+            "accessibility": [
+                "INSTRUCTORS",
+                "POSTGRADUATES",
+                "STAFF",
+                "TECHNICAL_OFFICERS",
+                "UNDERGRADUATES"
+            ]
+        },
+        {
+            "floor": "G",
+            "id": "10L",
+            "label": "G-10L",
+            "title": "Ladies Washrooms",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/10L/index.json",
+            "description": "",
+            "features": "",
+            "tags": [
+                "public"
+            ],
+            "accessibility": [
+                "INSTRUCTORS",
+                "POSTGRADUATES",
+                "STAFF",
+                "TECHNICAL_OFFICERS",
+                "UNDERGRADUATES"
+            ]
+        },
+        {
+            "floor": "G",
+            "id": "11",
+            "label": "G-11",
+            "title": "Open lab Entry Lobby",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/11/index.json",
+            "description": "Providing after hours access to G-08 and G-09",
+            "features": "This space is used for activities in ACES",
+            "tags": [
+                "public"
+            ],
+            "accessibility": [
+                "INSTRUCTORS",
+                "POSTGRADUATES",
+                "STAFF",
+                "TECHNICAL_OFFICERS",
+                "UNDERGRADUATES"
+            ]
+        },
+        {
+            "floor": "G",
+            "id": "OUTSIDE",
+            "label": "G-OUTSIDE",
+            "title": "Garden",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/OUTSIDE/index.json",
+            "description": "",
+            "features": "This is the outside area of the Dept",
+            "tags": [
+                "public"
+            ],
+            "accessibility": [
+                "INSTRUCTORS",
+                "POSTGRADUATES",
+                "STAFF",
+                "TECHNICAL_OFFICERS",
+                "UNDERGRADUATES"
+            ]
+        },
+        {
+            "floor": "G",
+            "id": "CR01",
+            "label": "G-CR01",
+            "title": "Corridor",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/CR01/index.json",
+            "description": "This corridor connects central lobby,department office,conference room, operator room",
+            "features": "",
+            "tags": [
+                "public"
+            ],
+            "accessibility": [
+                "INSTRUCTORS",
+                "POSTGRADUATES",
+                "STAFF",
+                "TECHNICAL_OFFICERS",
+                "UNDERGRADUATES"
+            ]
+        },
+        {
+            "floor": "G",
+            "id": "LIFT",
+            "label": "G-LIFT",
+            "title": "Lift",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/LIFT/index.json",
+            "description": "Can be used to enter other floors",
+            "features": "",
+            "tags": [
+                "public"
+            ],
+            "accessibility": [
+                "NONE"
+            ]
+        },
+        {
+            "floor": "G",
+            "id": "OP",
+            "label": "G-OP",
+            "title": "Operator-room",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/OP/index.json",
+            "description": "",
+            "features": "",
+            "tags": [
+                "authorized"
+            ],
+            "accessibility": [
+                "TECHNICAL_OFFICERS"
+            ]
+        },
+        {
+            "floor": "G",
+            "id": "18",
+            "label": "G-18",
+            "title": "Entrance Lobby",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/18/index.json",
+            "description": "This is the entrance area",
+            "features": "Seating arrangements are in this entrance area",
+            "tags": [
+                "public"
+            ],
+            "accessibility": [
+                "INSTRUCTORS",
+                "POSTGRADUATES",
+                "STAFF",
+                "TECHNICAL_OFFICERS",
+                "UNDERGRADUATES"
+            ]
+        }
+    ]
+}

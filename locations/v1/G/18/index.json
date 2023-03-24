@@ -1,0 +1,25 @@
+{
+    "floor": "G",
+    "id": "18",
+    "label": "G-18",
+    "title": "Entrance Lobby",
+    "contact": {
+        "tele": "",
+        "email": ""
+    },
+    "capacity": "",
+    "url": "",
+    "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/18/index.json",
+    "description": "This is the entrance area",
+    "features": "Seating arrangements are in this entrance area",
+    "tags": [
+        "public"
+    ],
+    "accessibility": [
+        "INSTRUCTORS",
+        "POSTGRADUATES",
+        "STAFF",
+        "TECHNICAL_OFFICERS",
+        "UNDERGRADUATES"
+    ]
+}

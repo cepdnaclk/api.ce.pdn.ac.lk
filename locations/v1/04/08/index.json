@@ -1,0 +1,25 @@
+{
+    "floor": "04",
+    "id": "08",
+    "label": "04-08",
+    "title": "Computer Laboratory 1",
+    "contact": {
+        "tele": "",
+        "email": ""
+    },
+    "capacity": "70",
+    "url": "",
+    "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/08/index.json",
+    "description": "This lab has teaching aids, facilities like Multimedia Projector",
+    "features": "This is the main computer laboratory of the department",
+    "tags": [
+        "lab"
+    ],
+    "accessibility": [
+        "INSTRUCTORS",
+        "POSTGRADUATES",
+        "STAFF",
+        "TECHNICAL_OFFICERS",
+        "UNDERGRADUATES"
+    ]
+}

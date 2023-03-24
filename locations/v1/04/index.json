@@ -1,0 +1,434 @@
+{
+    "title": "04",
+    "locations": [
+        {
+            "floor": "04",
+            "id": "01",
+            "label": "04-01",
+            "title": "Incubation Centre 1",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/01/index.json",
+            "description": "",
+            "features": "These space is to be used as the Incubation Centre for start-ups, Industry-Funded Laboratories (such as the Cambio Lab)",
+            "tags": [
+                ""
+            ],
+            "accessibility": []
+        },
+        {
+            "floor": "04",
+            "id": "02",
+            "label": "04-02",
+            "title": "Incubation Centre 2",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/02/index.json",
+            "description": "",
+            "features": "These space is to be used as the Incubation Centre for start-ups, Industry-Funded Laboratories (such as the Cambio Lab)",
+            "tags": [
+                ""
+            ],
+            "accessibility": []
+        },
+        {
+            "floor": "04",
+            "id": "03",
+            "label": "04-03",
+            "title": "Incubation Centre 3",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/03/index.json",
+            "description": "",
+            "features": "These space is to be used as the Incubation Centre for start-ups, Industry-Funded Laboratories (such as the Cambio Lab)",
+            "tags": [
+                ""
+            ],
+            "accessibility": []
+        },
+        {
+            "floor": "04",
+            "id": "04",
+            "label": "04-04",
+            "title": "Incubation Centre 4",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/04/index.json",
+            "description": "",
+            "features": "These space is to be used as the Incubation Centre for start-ups, Industry-Funded Laboratories (such as the Cambio Lab)",
+            "tags": [
+                ""
+            ],
+            "accessibility": []
+        },
+        {
+            "floor": "04",
+            "id": "00",
+            "label": "04-00",
+            "title": "ESCAL Computer Vision Lab",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "4",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/00/index.json",
+            "description": "This is for computer vision related projects,work",
+            "features": "This is for computer vision related projects,work",
+            "tags": [
+                "lab"
+            ],
+            "accessibility": [
+                "INSTRUCTORS",
+                "POSTGRADUATES",
+                "STAFF",
+                "TECHNICAL_OFFICERS",
+                "UNDERGRADUATES"
+            ]
+        },
+        {
+            "floor": "04",
+            "id": "05",
+            "label": "04-05",
+            "title": "Lecturer's Room 1",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/05/index.json",
+            "description": "",
+            "features": "",
+            "tags": [
+                "staff"
+            ],
+            "accessibility": [
+                "STAFF"
+            ]
+        },
+        {
+            "floor": "04",
+            "id": "06",
+            "label": "04-06",
+            "title": "Lecturer's Room 2",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/06/index.json",
+            "description": "",
+            "features": "",
+            "tags": [
+                "staff"
+            ],
+            "accessibility": [
+                "STAFF"
+            ]
+        },
+        {
+            "floor": "04",
+            "id": "08",
+            "label": "04-08",
+            "title": "Computer Laboratory 1",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "70",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/08/index.json",
+            "description": "This lab has teaching aids, facilities like Multimedia Projector",
+            "features": "This is the main computer laboratory of the department",
+            "tags": [
+                "lab"
+            ],
+            "accessibility": [
+                "INSTRUCTORS",
+                "POSTGRADUATES",
+                "STAFF",
+                "TECHNICAL_OFFICERS",
+                "UNDERGRADUATES"
+            ]
+        },
+        {
+            "floor": "04",
+            "id": "09",
+            "label": "04-09",
+            "title": "Lecturer's Room 3",
+            "contact": {
+                "tele": "",
+                "email": "dhammika@eng.pdn.ac.lk"
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/09/index.json",
+            "description": "",
+            "features": "",
+            "tags": [
+                "staff"
+            ],
+            "accessibility": [
+                "STAFF"
+            ]
+        },
+        {
+            "floor": "04",
+            "id": "10",
+            "label": "04-10",
+            "title": "Lecturer's Room 4",
+            "contact": {
+                "tele": "",
+                "email": "upuljm@eng.pdn.ac.lk"
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/10/index.json",
+            "description": "",
+            "features": "",
+            "tags": [
+                "staff"
+            ],
+            "accessibility": [
+                "STAFF"
+            ]
+        },
+        {
+            "floor": "04",
+            "id": "11",
+            "label": "04-11",
+            "title": "Lecturer's Room 5",
+            "contact": {
+                "tele": "",
+                "email": "alawatugoda@eng.pdn.ac.lk"
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/11/index.json",
+            "description": "",
+            "features": "",
+            "tags": [
+                "staff"
+            ],
+            "accessibility": [
+                "STAFF"
+            ]
+        },
+        {
+            "floor": "04",
+            "id": "12",
+            "label": "04-12",
+            "title": "Server room",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "https://ce.pdn.ac.lk/facilities/server-room",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/12/index.json",
+            "description": "This space for Department servers",
+            "features": "",
+            "tags": [
+                "authorized"
+            ],
+            "accessibility": [
+                "TECHNICAL_OFFICERS"
+            ]
+        },
+        {
+            "floor": "04",
+            "id": "13",
+            "label": "04-13",
+            "title": "Insructors' Room",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/13/index.json",
+            "description": "This contains a working space for two people and a storage",
+            "features": "This is the room for Instructors and Past Graduate students",
+            "tags": [
+                "staff"
+            ],
+            "accessibility": [
+                "INSTRUCTORS",
+                "POSTGRADUATES"
+            ]
+        },
+        {
+            "floor": "04",
+            "id": "07L",
+            "label": "04-07L",
+            "title": "Ladies Washroom",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/07L/index.json",
+            "description": "These washromms are For the use of Ladies",
+            "features": "",
+            "tags": [
+                "public"
+            ],
+            "accessibility": []
+        },
+        {
+            "floor": "04",
+            "id": "07G",
+            "label": "04-07G",
+            "title": "Gents Washroom",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/07G/index.json",
+            "description": "These washromms are For the use of Gents",
+            "features": "",
+            "tags": [
+                "public"
+            ],
+            "accessibility": []
+        },
+        {
+            "floor": "04",
+            "id": "ENTR",
+            "label": "04-ENTR",
+            "title": "Staircase",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/ENTR/index.json",
+            "description": "Entrance and the Exit points are in here",
+            "features": "The lift or the staircases to enter other lower floors can be accessed from here",
+            "tags": [
+                "public"
+            ],
+            "accessibility": [
+                "INSTRUCTORS",
+                "POSTGRADUATES",
+                "STAFF",
+                "TECHNICAL_OFFICERS",
+                "UNDERGRADUATES"
+            ]
+        },
+        {
+            "floor": "04",
+            "id": "CR01",
+            "label": "04-CR01",
+            "title": "Corridor 1",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/CR01/index.json",
+            "description": "This corridor can be used to reach lift,corridor2,instructor room,staircase,computer lab1 and washrooms",
+            "features": "",
+            "tags": [
+                "public"
+            ],
+            "accessibility": [
+                "INSTRUCTORS",
+                "POSTGRADUATES",
+                "STAFF",
+                "TECHNICAL_OFFICERS",
+                "UNDERGRADUATES"
+            ]
+        },
+        {
+            "floor": "04",
+            "id": "LIFT",
+            "label": "04-LIFT",
+            "title": "Lift",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/LIFT/index.json",
+            "description": "Can be used to enter other floors",
+            "features": "",
+            "tags": [
+                "public"
+            ],
+            "accessibility": [
+                "NONE"
+            ]
+        },
+        {
+            "floor": "04",
+            "id": "OP",
+            "label": "04-OP",
+            "title": "Operator-room",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/OP/index.json",
+            "description": "",
+            "features": "",
+            "tags": [
+                "authorized"
+            ],
+            "accessibility": [
+                "TECHNICAL_OFFICERS"
+            ]
+        },
+        {
+            "floor": "04",
+            "id": "CR02",
+            "label": "04-CR02",
+            "title": "Corridor 2",
+            "contact": {
+                "tele": "",
+                "email": ""
+            },
+            "capacity": "",
+            "url": "",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/CR02/index.json",
+            "description": "This corridor can be used to enter to the computer vision lab,main room and operators",
+            "features": "",
+            "tags": [
+                "public"
+            ],
+            "accessibility": [
+                "INSTRUCTORS",
+                "POSTGRADUATES",
+                "STAFF",
+                "TECHNICAL_OFFICERS",
+                "UNDERGRADUATES"
+            ]
+        }
+    ]
+}

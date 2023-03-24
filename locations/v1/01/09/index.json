@@ -1,0 +1,25 @@
+{
+    "floor": "01",
+    "id": "09",
+    "label": "01-09",
+    "title": "Network & Communication Lab",
+    "contact": {
+        "tele": "",
+        "email": ""
+    },
+    "capacity": "30",
+    "url": "https://ce.pdn.ac.lk/facilities/networking-lab",
+    "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/09/index.json",
+    "description": "This lab has Computers, Networking Devices etc.",
+    "features": "This lab is used for Networking related courses",
+    "tags": [
+        "lab"
+    ],
+    "accessibility": [
+        "INSTRUCTORS",
+        "POSTGRADUATES",
+        "STAFF",
+        "TECHNICAL_OFFICERS",
+        "UNDERGRADUATES"
+    ]
+}
