@@ -33,13 +33,13 @@ staff_file = open(staffSource)
 staff = json.load(staff_file)
 
 enumAccess = {
-    "S": ["STAFF"],
-    "I": ["INSTRUCTORS"],
-    "TO": ["TECHNICAL_OFFICERS"],
-    "UG": ["UNDERGRADUATES"],
-    "PG": ["POSTGRADUATES"],
-    "N": ["NONE"],
-    "ALL": ["STAFF", "INSTRUCTORS", "TECHNICAL_OFFICERS", "UNDERGRADUATES", "POSTGRADUATES"]
+    "S": ["Staff"],
+    "I": ["Instructors"],
+    "TO": ["Technical Officers"],
+    "UG": ["Undergraduates"],
+    "PG": ["Postgraduates"],
+    "N": ["None"],
+    "ALL": ["Staff", "URL", "Technical Officers", "Undergraduates", "Postgraduates"]
 }
 
 
@@ -60,8 +60,7 @@ def write_location(data):
         f.write(json.dumps(data, indent=4))
 
     # Debug:
-    print(data['id'])
-    # print('  > ', data[''], ',', data[''], '\n')
+    print(data['label'])
 
 
 del_existing_data()
@@ -95,6 +94,7 @@ for line in loc_raw[1:]:
 
     floor_id = loc_raw_data[ID].split("-")[0]
     room_id = loc_raw_data[ID].split("-")[1]
+    label = "CE-" + loc_raw_data[ID]
 
     tag_list = loc_raw_data[TAGS].split(",")
 
@@ -110,14 +110,16 @@ for line in loc_raw[1:]:
     loc_data = {
         "floor": floor_id,
         "id": room_id,
-        "label": loc_raw_data[ID],
+        "label": label,
         "title": loc_raw_data[NAME],
         "contact": {
             "tele": loc_raw_data[CONTACT_TELE],
             "email": loc_raw_data[CONTACT_EMAIL],
+            "name": "", # TODO: Fill from Staff API
+            "link": "" # TODO: Fill from Staff API
         },
-        "capacity": loc_raw_data[CAPACITY],
-        "url": loc_raw_data[URL],
+        "capacity": "N/A" if loc_raw_data[CAPACITY] == "" else loc_raw_data[CAPACITY],
+        "url": "#" if loc_raw_data[URL] == "" else loc_raw_data[URL], 
         "api_url": api_url,
         "description": loc_raw_data[DESCRIPTION],
         "features": loc_raw_data[FEATURES],

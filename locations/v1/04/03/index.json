@@ -1,14 +1,16 @@
 {
     "floor": "04",
     "id": "03",
-    "label": "04-03",
+    "label": "CE-04-03",
     "title": "Incubation Centre 3",
     "contact": {
         "tele": "",
-        "email": ""
+        "email": "",
+        "name": "",
+        "link": ""
     },
-    "capacity": "",
-    "url": "",
+    "capacity": "N/A",
+    "url": "#",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/03/index.json",
     "description": "",
     "features": "These space is to be used as the Incubation Centre for start-ups, Industry-Funded Laboratories (such as the Cambio Lab)",

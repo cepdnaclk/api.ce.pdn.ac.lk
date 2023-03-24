@@ -1,14 +1,16 @@
 {
     "floor": "04",
     "id": "OP",
-    "label": "04-OP",
+    "label": "CE-04-OP",
     "title": "Operator-room",
     "contact": {
         "tele": "",
-        "email": ""
+        "email": "",
+        "name": "",
+        "link": ""
     },
-    "capacity": "",
-    "url": "",
+    "capacity": "N/A",
+    "url": "#",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/OP/index.json",
     "description": "",
     "features": "",
@@ -16,6 +18,6 @@
         "authorized"
     ],
     "accessibility": [
-        "TECHNICAL_OFFICERS"
+        "Technical Officers"
     ]
 }

@@ -1,14 +1,16 @@
 {
     "floor": "04",
     "id": "00",
-    "label": "04-00",
+    "label": "CE-04-00",
     "title": "ESCAL Computer Vision Lab",
     "contact": {
         "tele": "",
-        "email": ""
+        "email": "",
+        "name": "",
+        "link": ""
     },
     "capacity": "4",
-    "url": "",
+    "url": "#",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/00/index.json",
     "description": "This is for computer vision related projects,work",
     "features": "This is for computer vision related projects,work",
@@ -16,10 +18,10 @@
         "lab"
     ],
     "accessibility": [
-        "INSTRUCTORS",
-        "POSTGRADUATES",
-        "STAFF",
-        "TECHNICAL_OFFICERS",
-        "UNDERGRADUATES"
+        "Instructors",
+        "Postgraduates",
+        "Staff",
+        "Technical Officers",
+        "Undergraduates"
     ]
 }

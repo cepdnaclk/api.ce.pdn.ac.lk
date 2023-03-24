@@ -1,14 +1,16 @@
 {
     "floor": "04",
     "id": "10",
-    "label": "04-10",
+    "label": "CE-04-10",
     "title": "Lecturer's Room 4",
     "contact": {
         "tele": "",
-        "email": "upuljm@eng.pdn.ac.lk"
+        "email": "upuljm@eng.pdn.ac.lk",
+        "name": "",
+        "link": ""
     },
-    "capacity": "",
-    "url": "",
+    "capacity": "N/A",
+    "url": "#",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/10/index.json",
     "description": "",
     "features": "",
@@ -16,6 +18,6 @@
         "staff"
     ],
     "accessibility": [
-        "STAFF"
+        "Staff"
     ]
 }

@@ -1,14 +1,16 @@
 {
     "floor": "G",
     "id": "02",
-    "label": "G-02",
+    "label": "CE-G-02",
     "title": "HoD Office",
     "contact": {
         "tele": "",
-        "email": ""
+        "email": "",
+        "name": "",
+        "link": ""
     },
-    "capacity": "",
-    "url": "",
+    "capacity": "N/A",
+    "url": "#",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/02/index.json",
     "description": "",
     "features": "",
@@ -17,10 +19,10 @@
         "private"
     ],
     "accessibility": [
-        "INSTRUCTORS",
-        "POSTGRADUATES",
-        "STAFF",
-        "TECHNICAL_OFFICERS",
-        "UNDERGRADUATES"
+        "Postgraduates",
+        "Staff",
+        "Technical Officers",
+        "URL",
+        "Undergraduates"
     ]
 }

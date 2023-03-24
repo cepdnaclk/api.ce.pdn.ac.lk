@@ -1,14 +1,16 @@
 {
     "floor": "02",
     "id": "ENTR",
-    "label": "02-ENTR",
+    "label": "CE-02-ENTR",
     "title": "Main Room",
     "contact": {
         "tele": "",
-        "email": ""
+        "email": "",
+        "name": "",
+        "link": ""
     },
-    "capacity": "",
-    "url": "",
+    "capacity": "N/A",
+    "url": "#",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/ENTR/index.json",
     "description": "The lift or the staircases to enter other floors can be accessed from here",
     "features": "Entrance and the Exit points are in here",
@@ -16,10 +18,10 @@
         "public"
     ],
     "accessibility": [
-        "INSTRUCTORS",
-        "POSTGRADUATES",
-        "STAFF",
-        "TECHNICAL_OFFICERS",
-        "UNDERGRADUATES"
+        "Postgraduates",
+        "Staff",
+        "Technical Officers",
+        "URL",
+        "Undergraduates"
     ]
 }

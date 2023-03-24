@@ -1,14 +1,16 @@
 {
     "floor": "02",
     "id": "CR01",
-    "label": "02-CR01",
+    "label": "CE-02-CR01",
     "title": "Corridor",
     "contact": {
         "tele": "",
-        "email": ""
+        "email": "",
+        "name": "",
+        "link": ""
     },
-    "capacity": "",
-    "url": "",
+    "capacity": "N/A",
+    "url": "#",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/CR01/index.json",
     "description": "This corridor can be used to reach discussion room,Hardware & CI lab,TO room and Main room",
     "features": "This belongs to floor 2",
@@ -16,10 +18,10 @@
         "public"
     ],
     "accessibility": [
-        "INSTRUCTORS",
-        "POSTGRADUATES",
-        "STAFF",
-        "TECHNICAL_OFFICERS",
-        "UNDERGRADUATES"
+        "Postgraduates",
+        "Staff",
+        "Technical Officers",
+        "URL",
+        "Undergraduates"
     ]
 }

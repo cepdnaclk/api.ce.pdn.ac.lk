@@ -1,14 +1,16 @@
 {
     "floor": "G",
     "id": "18",
-    "label": "G-18",
+    "label": "CE-G-18",
     "title": "Entrance Lobby",
     "contact": {
         "tele": "",
-        "email": ""
+        "email": "",
+        "name": "",
+        "link": ""
     },
-    "capacity": "",
-    "url": "",
+    "capacity": "N/A",
+    "url": "#",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/18/index.json",
     "description": "This is the entrance area",
     "features": "Seating arrangements are in this entrance area",
@@ -16,10 +18,10 @@
         "public"
     ],
     "accessibility": [
-        "INSTRUCTORS",
-        "POSTGRADUATES",
-        "STAFF",
-        "TECHNICAL_OFFICERS",
-        "UNDERGRADUATES"
+        "Postgraduates",
+        "Staff",
+        "Technical Officers",
+        "URL",
+        "Undergraduates"
     ]
 }

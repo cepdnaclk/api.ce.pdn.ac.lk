@@ -1,11 +1,13 @@
 {
     "floor": "01",
     "id": "09",
-    "label": "01-09",
+    "label": "CE-01-09",
     "title": "Network & Communication Lab",
     "contact": {
         "tele": "",
-        "email": ""
+        "email": "",
+        "name": "",
+        "link": ""
     },
     "capacity": "30",
     "url": "https://ce.pdn.ac.lk/facilities/networking-lab",
@@ -16,10 +18,10 @@
         "lab"
     ],
     "accessibility": [
-        "INSTRUCTORS",
-        "POSTGRADUATES",
-        "STAFF",
-        "TECHNICAL_OFFICERS",
-        "UNDERGRADUATES"
+        "Postgraduates",
+        "Staff",
+        "Technical Officers",
+        "URL",
+        "Undergraduates"
     ]
 }

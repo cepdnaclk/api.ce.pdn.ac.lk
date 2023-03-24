@@ -1,14 +1,16 @@
 {
     "floor": "04",
     "id": "CR01",
-    "label": "04-CR01",
+    "label": "CE-04-CR01",
     "title": "Corridor 1",
     "contact": {
         "tele": "",
-        "email": ""
+        "email": "",
+        "name": "",
+        "link": ""
     },
-    "capacity": "",
-    "url": "",
+    "capacity": "N/A",
+    "url": "#",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/CR01/index.json",
     "description": "This corridor can be used to reach lift,corridor2,instructor room,staircase,computer lab1 and washrooms",
     "features": "",
@@ -16,10 +18,10 @@
         "public"
     ],
     "accessibility": [
-        "INSTRUCTORS",
-        "POSTGRADUATES",
-        "STAFF",
-        "TECHNICAL_OFFICERS",
-        "UNDERGRADUATES"
+        "Instructors",
+        "Postgraduates",
+        "Staff",
+        "Technical Officers",
+        "Undergraduates"
     ]
 }

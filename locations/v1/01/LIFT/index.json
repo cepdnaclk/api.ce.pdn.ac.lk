@@ -1,14 +1,16 @@
 {
     "floor": "01",
     "id": "LIFT",
-    "label": "01-LIFT",
+    "label": "CE-01-LIFT",
     "title": "Lift",
     "contact": {
         "tele": "",
-        "email": ""
+        "email": "",
+        "name": "",
+        "link": ""
     },
-    "capacity": "",
-    "url": "",
+    "capacity": "N/A",
+    "url": "#",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/LIFT/index.json",
     "description": "This belongs to Floor1",
     "features": "Can be used to enter other floors",
@@ -16,6 +18,6 @@
         "public"
     ],
     "accessibility": [
-        "NONE"
+        "None"
     ]
 }

@@ -1,14 +1,16 @@
 {
     "floor": "G",
     "id": "04",
-    "label": "G-04",
+    "label": "CE-G-04",
     "title": "Central Lobby",
     "contact": {
         "tele": "",
-        "email": ""
+        "email": "",
+        "name": "",
+        "link": ""
     },
-    "capacity": "",
-    "url": "",
+    "capacity": "N/A",
+    "url": "#",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/04/index.json",
     "description": "This is a transit area",
     "features": "This space consists of a library and a museaum",
@@ -16,10 +18,10 @@
         "public"
     ],
     "accessibility": [
-        "INSTRUCTORS",
-        "POSTGRADUATES",
-        "STAFF",
-        "TECHNICAL_OFFICERS",
-        "UNDERGRADUATES"
+        "Postgraduates",
+        "Staff",
+        "Technical Officers",
+        "URL",
+        "Undergraduates"
     ]
 }

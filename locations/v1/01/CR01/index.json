@@ -1,14 +1,16 @@
 {
     "floor": "01",
     "id": "CR01",
-    "label": "01-CR01",
+    "label": "CE-01-CR01",
     "title": "Corridor-01",
     "contact": {
         "tele": "",
-        "email": ""
+        "email": "",
+        "name": "",
+        "link": ""
     },
-    "capacity": "",
-    "url": "",
+    "capacity": "N/A",
+    "url": "#",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/CR01/index.json",
     "description": "This belongs to floor 1",
     "features": "This corridor can be used to reach Lecturers' Room 1, 2, Instructors' Room and the Main room",
@@ -16,10 +18,10 @@
         "public"
     ],
     "accessibility": [
-        "INSTRUCTORS",
-        "POSTGRADUATES",
-        "STAFF",
-        "TECHNICAL_OFFICERS",
-        "UNDERGRADUATES"
+        "Postgraduates",
+        "Staff",
+        "Technical Officers",
+        "URL",
+        "Undergraduates"
     ]
 }
