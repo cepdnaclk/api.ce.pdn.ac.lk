@@ -8374,6 +8374,75 @@
             "OpenCL"
         ]
     },
+    "e15-4yp-Adaptive-people-movement-and-action-prediction-using-CCTV": {
+        "title": "Adaptive people movement and action prediction using CCTV",
+        "description": "In a domestic environment, people's behavior is often routine. They move place to place in a house while activating different domestic appliances and lights. On the other hand, CCTV is becoming a common surveillance system installed in many houses and buildings. A correctly trained adaptive system can predict the behavior and perform control actions automatically. In this research project, it is intended to develop an adaptive training system using CCTV video streams for controlling appliances. ",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Adaptive-people-movement-and-action-prediction-using-CCTV/",
+        "repo_url": "https://github.com/cepdnaclk/e15-4yp-Adaptive-people-movement-and-action-prediction-using-CCTV",
+        "page_url": "https://cepdnaclk.github.io/e15-4yp-Adaptive-people-movement-and-action-prediction-using-CCTV",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Adaptive-people-movement-and-action-prediction-using-CCTV/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "team": {
+            "E/15/265": {
+                "name": "Risith Perera",
+                "email": "risithperera@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/RisithPerera",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E15/265",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15265.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/265/"
+            },
+            "E/15/347": {
+                "name": "Isuru Sudasinghe",
+                "email": "isuru.sudasinghe@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/IsuruSudasinghe",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E15/347",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15347.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/347/"
+            },
+            "E/15/010": {
+                "name": "Ruchika Alwis",
+                "email": "e15010@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/RuchikaAlwis",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E15/010",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15010.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/010/"
+            }
+        },
+        "supervisors": {
+            "kamalanath@eng.pdn.ac.lk  ": {
+                "name": "Dr. Eng. Kamalanath Samarakoon",
+                "email": "kamalanath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/kamalanath-samarakoon/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/kamalanath-samarakoon.png",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
+                "website": "http://kamalanath.samarakoon.info/",
+                "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
+                "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
+                "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
+            }
+        },
+        "tags": [
+            "Final Year Projects",
+            "Yolo",
+            "OpenPose",
+            "MTCNN",
+            "Person Reidentification"
+        ]
+    },
     "e15-4yp-Brain-Computer-Interface-for-controlling-virtual-objects": {
         "title": "Brain Computer Interface for controlling virtual objects",
         "description": "Develop a Brain-Computer Interface for Controlling virtual objects using the self-paced mind intent of a person. Here we have developed a Real-time pipeline for recognizing thought patterns using machine learning techniques and feed into a virtual environment(unity engine) for controlling virtual objects.",
@@ -9438,75 +9507,6 @@
         },
         "tags": [
             "Final Year Projects"
-        ]
-    },
-    "e15-4yp-human-behavior-prediction-using-cctv": {
-        "title": "human behavior prediction using cctv",
-        "description": "In a domestic environment, people's behavior is often routine. They move place to place in a house while activating different domestic appliances and lights. On the other hand, CCTV is becoming a common surveillance system installed in many houses and buildings. A correctly trained adaptive system can predict the behavior and perform control actions automatically. In this research project, it is intended to develop an adaptive training system using CCTV video streams for controlling appliances. ",
-        "category": {
-            "title": "Undergraduate Research Projects",
-            "code": "4yp",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/human-behavior-prediction-using-cctv/",
-        "repo_url": "https://github.com/cepdnaclk/e15-4yp-human-behavior-prediction-using-cctv",
-        "page_url": "https://cepdnaclk.github.io/e15-4yp-human-behavior-prediction-using-cctv",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/human-behavior-prediction-using-cctv/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-        "team": {
-            "E/15/265": {
-                "name": "Risith Perera",
-                "email": "risithperera@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/RisithPerera",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E15/265",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15265.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/265/"
-            },
-            "E/15/347": {
-                "name": "Isuru Sudasinghe",
-                "email": "isuru.sudasinghe@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/IsuruSudasinghe",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E15/347",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15347.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/347/"
-            },
-            "E/15/010": {
-                "name": "Ruchika Alwis",
-                "email": "e15010@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/RuchikaAlwis",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E15/010",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15010.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/010/"
-            }
-        },
-        "supervisors": {
-            "kamalanath@eng.pdn.ac.lk  ": {
-                "name": "Dr. Eng. Kamalanath Samarakoon",
-                "email": "kamalanath@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/kamalanath-samarakoon/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/kamalanath-samarakoon.png",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
-                "website": "http://kamalanath.samarakoon.info/",
-                "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
-                "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
-                "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
-            }
-        },
-        "tags": [
-            "Final Year Projects",
-            "Yolo",
-            "OpenPose",
-            "MTCNN",
-            "Person Reidentification"
         ]
     },
     "e15-4yp-nearIR-spectroscopy": {
@@ -13192,6 +13192,20 @@
         "tags": [
             "Web"
         ]
+    },
+    "e15-co328-banking-management-system": {
+        "title": "banking management system",
+        "description": "Banking management system customized for 'Sanasa Society Bank'",
+        "category": {
+            "title": "Software Engineering Projects (CO328)",
+            "code": "co328",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co328/e15/banking-management-system/",
+        "repo_url": "https://github.com/cepdnaclk/e15-co328-banking-management-system",
+        "page_url": "#",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E15/banking-management-system/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
     },
     "e16-co502-RISCV-Pipeline-CPU-Implimentation-Group2": {
         "title": "RISCV Pipeline CPU Implimentation Group2",
