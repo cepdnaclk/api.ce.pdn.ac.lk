@@ -28,7 +28,7 @@ jobs:
           pip install requests
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-
+# -------------------------------------------------------------------------------------
 
       - name: "Students API: Generate Student API files"
         run: |
@@ -42,8 +42,6 @@ jobs:
           python3 staff.py
           cd ../
 
-
-
       - name: "Projects API: Generate Project files"
         run: |
           cd ./python_scripts
@@ -56,9 +54,14 @@ jobs:
           python3 projects_filters.py
           cd ../
 
+      - name: "Location API: Update location details from Google Sheet"
+        run: |
+          cd ./python_scripts
+          python3 locations.py
+          cd ../
 
-
-
+# -------------------------------------------------------------------------------------
+ 
       - name: Commit and push into the main branch
         run: |
           git config user.name github-actions
