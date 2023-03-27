@@ -12,10 +12,14 @@
     "capacity": "70",
     "url": "#",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/08/index.json",
-    "description": "This lab has teaching aids, facilities like Multimedia Projector",
-    "features": "This is the main computer laboratory of the department",
+    "description": [
+        "This lab has teaching aids, facilities like Multimedia Projector"
+    ],
+    "features": [
+        "This is the main computer laboratory of the department"
+    ],
     "tags": [
-        "lab"
+        "Lab"
     ],
     "accessibility": [
         "Instructors",

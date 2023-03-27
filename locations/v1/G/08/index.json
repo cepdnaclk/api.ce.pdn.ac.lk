@@ -12,16 +12,20 @@
     "capacity": "30-40",
     "url": "https://ce.pdn.ac.lk/facilities/open-lab",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/08/index.json",
-    "description": "Whiteboards and facilities for using laptops",
-    "features": "This is used by students for group-work, 'tech-talks', etc..After Hours access through G11",
+    "description": [
+        "Whiteboards and facilities for using laptops"
+    ],
+    "features": [
+        "This is used by students for group-work, 'tech-talks', etc..After Hours access through G11"
+    ],
     "tags": [
-        "lab"
+        "Lab"
     ],
     "accessibility": [
+        "Instructors",
         "Postgraduates",
         "Staff",
         "Technical Officers",
-        "URL",
         "Undergraduates"
     ]
 }

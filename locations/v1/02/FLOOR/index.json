@@ -1,8 +1,8 @@
 {
-    "floor": "G",
-    "id": "10L",
-    "label": "CE-G-10L",
-    "title": "Ladies Washrooms",
+    "floor": "02",
+    "id": "FLOOR",
+    "label": "CE-02-FLOOR",
+    "title": "Second Floor",
     "contact": {
         "tele": "",
         "email": "",
@@ -11,7 +11,7 @@
     },
     "capacity": "N/A",
     "url": "#",
-    "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/10L/index.json",
+    "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/FLOOR/index.json",
     "description": [],
     "features": [],
     "tags": [

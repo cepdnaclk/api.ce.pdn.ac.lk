@@ -12,10 +12,14 @@
     "capacity": "4",
     "url": "#",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/00/index.json",
-    "description": "This is for computer vision related projects,work",
-    "features": "This is for computer vision related projects,work",
+    "description": [
+        "This is for computer vision related projects,work"
+    ],
+    "features": [
+        "This is for computer vision related projects,work"
+    ],
     "tags": [
-        "lab"
+        "Lab"
     ],
     "accessibility": [
         "Instructors",

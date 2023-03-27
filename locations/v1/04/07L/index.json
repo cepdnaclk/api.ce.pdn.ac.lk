@@ -12,10 +12,12 @@
     "capacity": "N/A",
     "url": "#",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/07L/index.json",
-    "description": "These washromms are For the use of Ladies",
-    "features": "",
+    "description": [
+        "These washromms are For the use of Ladies"
+    ],
+    "features": [],
     "tags": [
-        "public"
+        "Public"
     ],
     "accessibility": []
 }

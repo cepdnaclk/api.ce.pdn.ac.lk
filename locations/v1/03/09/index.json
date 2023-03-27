@@ -12,16 +12,20 @@
     "capacity": "4",
     "url": "https://ce.pdn.ac.lk/facilities/makerspace",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/09/index.json",
-    "description": "This is for MakerSpace Heavy Machinery Work",
-    "features": "This is for MakerSpace Heavy Machinery Work",
+    "description": [
+        "This is for MakerSpace Heavy Machinery Work"
+    ],
+    "features": [
+        "This is for MakerSpace Heavy Machinery Work"
+    ],
     "tags": [
-        "lab"
+        "Lab"
     ],
     "accessibility": [
+        "Instructors",
         "Postgraduates",
         "Staff",
         "Technical Officers",
-        "URL",
         "Undergraduates"
     ]
 }

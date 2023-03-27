@@ -12,10 +12,12 @@
     "capacity": "N/A",
     "url": "#",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/05/index.json",
-    "description": "It has a Storage area",
-    "features": "",
+    "description": [
+        "It has a Storage area"
+    ],
+    "features": [],
     "tags": [
-        "authorized"
+        "Authorized"
     ],
     "accessibility": [
         "Technical Officers"

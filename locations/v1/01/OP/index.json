@@ -12,10 +12,12 @@
     "capacity": "N/A",
     "url": "#",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/OP/index.json",
-    "description": "This belongs to Floor1",
-    "features": "",
+    "description": [
+        "This belongs to Floor1"
+    ],
+    "features": [],
     "tags": [
-        "authorized"
+        "Authorized"
     ],
     "accessibility": [
         "Technical Officers"

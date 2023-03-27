@@ -12,16 +12,20 @@
     "capacity": "N/A",
     "url": "#",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/ENTR/index.json",
-    "description": "Entrance and the Exit points are in here",
-    "features": "The lift or the staircases to enter other floors can be accessed from here",
+    "description": [
+        "Entrance and the Exit points are in here"
+    ],
+    "features": [
+        "The lift or the staircases to enter other floors can be accessed from here"
+    ],
     "tags": [
-        "public"
+        "Public"
     ],
     "accessibility": [
+        "Instructors",
         "Postgraduates",
         "Staff",
         "Technical Officers",
-        "URL",
         "Undergraduates"
     ]
 }

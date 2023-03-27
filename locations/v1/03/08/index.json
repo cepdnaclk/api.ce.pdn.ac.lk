@@ -12,16 +12,20 @@
     "capacity": "20",
     "url": "https://ce.pdn.ac.lk/facilities/makerspace",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/08/index.json",
-    "description": "This lab has PLC Board, Industrial Conveyor Belt",
-    "features": "This lab has 5 Working Stations with Fabrication facilities",
+    "description": [
+        "This lab has PLC Board, Industrial Conveyor Belt"
+    ],
+    "features": [
+        "This lab has 5 Working Stations with Fabrication facilities"
+    ],
     "tags": [
-        "lab"
+        "Lab"
     ],
     "accessibility": [
+        "Instructors",
         "Postgraduates",
         "Staff",
         "Technical Officers",
-        "URL",
         "Undergraduates"
     ]
 }

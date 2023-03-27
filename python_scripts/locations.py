@@ -39,7 +39,7 @@ enumAccess = {
     "UG": ["Undergraduates"],
     "PG": ["Postgraduates"],
     "N": ["None"],
-    "ALL": ["Staff", "URL", "Technical Officers", "Undergraduates", "Postgraduates"]
+    "ALL": ["Staff", "Instructors", "Technical Officers", "Undergraduates", "Postgraduates"]
 }
 
 
@@ -80,32 +80,59 @@ CONTACT_TELE = 6
 CONTACT_EMAIL = 7
 CAPACITY = 8
 URL = 9
-DESCRIPTION = 10
-FEATURES = 11
+DESCRIPTION_1 = 10
+DESCRIPTION_2 = 11
+DESCRIPTION_3 = 12
+FEATURE_1 = 13
+FEATURE_2 = 14
+FEATURE_3 = 15
 
-FIELD_COUNT = 12
+FIELD_COUNT = 16
 
-# Skip the header line
+# Skip the header line of the TSV
 for line in loc_raw[1:]:
     loc_raw_data = line.replace('\r', '').split("\t")
 
+    # Skip incompatible rows
     if (len(loc_raw_data) != FIELD_COUNT or loc_raw_data[0] == ""):
         continue
+
 
     floor_id = loc_raw_data[ID].split("-")[0]
     room_id = loc_raw_data[ID].split("-")[1]
     label = "CE-" + loc_raw_data[ID]
 
-    tag_list = loc_raw_data[TAGS].split(",")
+    tag_list = [ t.strip() for t in loc_raw_data[TAGS].split(",") ]
 
     access_list = []
-    for access in loc_raw_data[ACCESSIBILITY].split(","):
+    for access in [ a.strip() for a in loc_raw_data[ACCESSIBILITY].split(",") ]:
         if access in enumAccess:
             access_list.extend(enumAccess[access])
         elif access != "":
             print("{0}: Unsupported Tag !".format(access))
 
+    description_list = [x for x in list([
+            loc_raw_data[DESCRIPTION_1],
+            loc_raw_data[DESCRIPTION_2],
+            loc_raw_data[DESCRIPTION_3]
+        ]) if x != ""]
+    
+    features_list = [x for x in list([
+            loc_raw_data[FEATURE_1],
+            loc_raw_data[FEATURE_2],
+            loc_raw_data[FEATURE_3]
+        ]) if x != ""]
+
     api_url = "{0}/{1}/{2}/index.json".format(apiIndex, floor_id, room_id)
+
+    # Staff API integration
+    if loc_raw_data[CONTACT_EMAIL] != "" :
+        staff_id = loc_raw_data[CONTACT_EMAIL].split('@')[0]
+        staff_name = staff[staff_id]["name"] if staff_id in staff else ""
+        staff_link = staff[staff_id]["profile_url"] if staff_id in staff else ""
+    else:
+        staff_name = ""
+        staff_link = ""
 
     loc_data = {
         "floor": floor_id,
@@ -115,14 +142,14 @@ for line in loc_raw[1:]:
         "contact": {
             "tele": loc_raw_data[CONTACT_TELE],
             "email": loc_raw_data[CONTACT_EMAIL],
-            "name": "", # TODO: Fill from Staff API
-            "link": "" # TODO: Fill from Staff API
+            "name": staff_name,
+            "link":  staff_link
         },
         "capacity": "N/A" if loc_raw_data[CAPACITY] == "" else loc_raw_data[CAPACITY],
         "url": "#" if loc_raw_data[URL] == "" else loc_raw_data[URL], 
         "api_url": api_url,
-        "description": loc_raw_data[DESCRIPTION],
-        "features": loc_raw_data[FEATURES],
+        "description": description_list,
+        "features": features_list,
         "tags": sorted(tag_list),
         "accessibility": sorted(list(set(access_list))),
     }
