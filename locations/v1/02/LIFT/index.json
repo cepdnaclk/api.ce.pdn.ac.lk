@@ -12,10 +12,14 @@
     "capacity": "N/A",
     "url": "#",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/LIFT/index.json",
-    "description": "Can be used to enter other floors",
-    "features": "This belongs to Floor2",
+    "description": [
+        "Can be used to enter other floors"
+    ],
+    "features": [
+        "This belongs to Floor2"
+    ],
     "tags": [
-        "public"
+        "Public"
     ],
     "accessibility": [
         "None"

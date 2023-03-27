@@ -3,6 +3,33 @@
     "locations": [
         {
             "floor": "04",
+            "id": "FLOOR",
+            "label": "CE-04-FLOOR",
+            "title": "Fourth Floor",
+            "contact": {
+                "tele": "",
+                "email": "",
+                "name": "",
+                "link": ""
+            },
+            "capacity": "N/A",
+            "url": "#",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/FLOOR/index.json",
+            "description": [],
+            "features": [],
+            "tags": [
+                "Public"
+            ],
+            "accessibility": [
+                "Instructors",
+                "Postgraduates",
+                "Staff",
+                "Technical Officers",
+                "Undergraduates"
+            ]
+        },
+        {
+            "floor": "04",
             "id": "01",
             "label": "CE-04-01",
             "title": "Incubation Centre 1",
@@ -15,8 +42,10 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/01/index.json",
-            "description": "",
-            "features": "These space is to be used as the Incubation Centre for start-ups, Industry-Funded Laboratories (such as the Cambio Lab)",
+            "description": [],
+            "features": [
+                "These space is to be used as the Incubation Centre for start-ups, Industry-Funded Laboratories (such as the Cambio Lab)"
+            ],
             "tags": [
                 ""
             ],
@@ -36,8 +65,10 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/02/index.json",
-            "description": "",
-            "features": "These space is to be used as the Incubation Centre for start-ups, Industry-Funded Laboratories (such as the Cambio Lab)",
+            "description": [],
+            "features": [
+                "These space is to be used as the Incubation Centre for start-ups, Industry-Funded Laboratories (such as the Cambio Lab)"
+            ],
             "tags": [
                 ""
             ],
@@ -57,8 +88,10 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/03/index.json",
-            "description": "",
-            "features": "These space is to be used as the Incubation Centre for start-ups, Industry-Funded Laboratories (such as the Cambio Lab)",
+            "description": [],
+            "features": [
+                "These space is to be used as the Incubation Centre for start-ups, Industry-Funded Laboratories (such as the Cambio Lab)"
+            ],
             "tags": [
                 ""
             ],
@@ -78,8 +111,10 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/04/index.json",
-            "description": "",
-            "features": "These space is to be used as the Incubation Centre for start-ups, Industry-Funded Laboratories (such as the Cambio Lab)",
+            "description": [],
+            "features": [
+                "These space is to be used as the Incubation Centre for start-ups, Industry-Funded Laboratories (such as the Cambio Lab)"
+            ],
             "tags": [
                 ""
             ],
@@ -99,10 +134,14 @@
             "capacity": "4",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/00/index.json",
-            "description": "This is for computer vision related projects,work",
-            "features": "This is for computer vision related projects,work",
+            "description": [
+                "This is for computer vision related projects,work"
+            ],
+            "features": [
+                "This is for computer vision related projects,work"
+            ],
             "tags": [
-                "lab"
+                "Lab"
             ],
             "accessibility": [
                 "Instructors",
@@ -126,10 +165,10 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/05/index.json",
-            "description": "",
-            "features": "",
+            "description": [],
+            "features": [],
             "tags": [
-                "staff"
+                "Staff"
             ],
             "accessibility": [
                 "Staff"
@@ -149,10 +188,10 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/06/index.json",
-            "description": "",
-            "features": "",
+            "description": [],
+            "features": [],
             "tags": [
-                "staff"
+                "Staff"
             ],
             "accessibility": [
                 "Staff"
@@ -172,10 +211,14 @@
             "capacity": "70",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/08/index.json",
-            "description": "This lab has teaching aids, facilities like Multimedia Projector",
-            "features": "This is the main computer laboratory of the department",
+            "description": [
+                "This lab has teaching aids, facilities like Multimedia Projector"
+            ],
+            "features": [
+                "This is the main computer laboratory of the department"
+            ],
             "tags": [
-                "lab"
+                "Lab"
             ],
             "accessibility": [
                 "Instructors",
@@ -193,16 +236,16 @@
             "contact": {
                 "tele": "",
                 "email": "dhammika@eng.pdn.ac.lk",
-                "name": "",
-                "link": ""
+                "name": "Dr. Dhammika Elkaduwe",
+                "link": "https://people.ce.pdn.ac.lk//staff/academic/dhammika-elkaduwe/"
             },
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/09/index.json",
-            "description": "",
-            "features": "",
+            "description": [],
+            "features": [],
             "tags": [
-                "staff"
+                "Staff"
             ],
             "accessibility": [
                 "Staff"
@@ -216,16 +259,16 @@
             "contact": {
                 "tele": "",
                 "email": "upuljm@eng.pdn.ac.lk",
-                "name": "",
-                "link": ""
+                "name": "Dr. Upul Jayasinghe",
+                "link": "https://people.ce.pdn.ac.lk//staff/academic/upul/"
             },
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/10/index.json",
-            "description": "",
-            "features": "",
+            "description": [],
+            "features": [],
             "tags": [
-                "staff"
+                "Staff"
             ],
             "accessibility": [
                 "Staff"
@@ -239,16 +282,16 @@
             "contact": {
                 "tele": "",
                 "email": "alawatugoda@eng.pdn.ac.lk",
-                "name": "",
-                "link": ""
+                "name": "Dr. Janaka Alawatugoda",
+                "link": "https://people.ce.pdn.ac.lk//staff/academic/janaka-alawatugoda/"
             },
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/11/index.json",
-            "description": "",
-            "features": "",
+            "description": [],
+            "features": [],
             "tags": [
-                "staff"
+                "Staff"
             ],
             "accessibility": [
                 "Staff"
@@ -268,10 +311,12 @@
             "capacity": "N/A",
             "url": "https://ce.pdn.ac.lk/facilities/server-room",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/12/index.json",
-            "description": "This space for Department servers",
-            "features": "",
+            "description": [
+                "This space for Department servers"
+            ],
+            "features": [],
             "tags": [
-                "authorized"
+                "Authorized"
             ],
             "accessibility": [
                 "Technical Officers"
@@ -291,10 +336,14 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/13/index.json",
-            "description": "This contains a working space for two people and a storage",
-            "features": "This is the room for Instructors and Past Graduate students",
+            "description": [
+                "This contains a working space for two people and a storage"
+            ],
+            "features": [
+                "This is the room for Instructors and Past Graduate students"
+            ],
             "tags": [
-                "staff"
+                "Staff"
             ],
             "accessibility": [
                 "Instructors",
@@ -315,10 +364,12 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/07L/index.json",
-            "description": "These washromms are For the use of Ladies",
-            "features": "",
+            "description": [
+                "These washromms are For the use of Ladies"
+            ],
+            "features": [],
             "tags": [
-                "public"
+                "Public"
             ],
             "accessibility": []
         },
@@ -336,10 +387,12 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/07G/index.json",
-            "description": "These washromms are For the use of Gents",
-            "features": "",
+            "description": [
+                "These washromms are For the use of Gents"
+            ],
+            "features": [],
             "tags": [
-                "public"
+                "Public"
             ],
             "accessibility": []
         },
@@ -357,10 +410,14 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/ENTR/index.json",
-            "description": "Entrance and the Exit points are in here",
-            "features": "The lift or the staircases to enter other lower floors can be accessed from here",
+            "description": [
+                "Entrance and the Exit points are in here"
+            ],
+            "features": [
+                "The lift or the staircases to enter other lower floors can be accessed from here"
+            ],
             "tags": [
-                "public"
+                "Public"
             ],
             "accessibility": [
                 "Instructors",
@@ -384,10 +441,12 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/CR01/index.json",
-            "description": "This corridor can be used to reach lift,corridor2,instructor room,staircase,computer lab1 and washrooms",
-            "features": "",
+            "description": [
+                "This corridor can be used to reach lift,corridor2,instructor room,staircase,computer lab1 and washrooms"
+            ],
+            "features": [],
             "tags": [
-                "public"
+                "Public"
             ],
             "accessibility": [
                 "Instructors",
@@ -411,10 +470,12 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/LIFT/index.json",
-            "description": "Can be used to enter other floors",
-            "features": "",
+            "description": [
+                "Can be used to enter other floors"
+            ],
+            "features": [],
             "tags": [
-                "public"
+                "Public"
             ],
             "accessibility": [
                 "None"
@@ -434,10 +495,10 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/OP/index.json",
-            "description": "",
-            "features": "",
+            "description": [],
+            "features": [],
             "tags": [
-                "authorized"
+                "Authorized"
             ],
             "accessibility": [
                 "Technical Officers"
@@ -457,10 +518,12 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/CR02/index.json",
-            "description": "This corridor can be used to enter to the computer vision lab,main room and operators",
-            "features": "",
+            "description": [
+                "This corridor can be used to enter to the computer vision lab,main room and operators"
+            ],
+            "features": [],
             "tags": [
-                "public"
+                "Public"
             ],
             "accessibility": [
                 "Instructors",

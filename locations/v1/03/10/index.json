@@ -12,16 +12,20 @@
     "capacity": "12",
     "url": "https://ce.pdn.ac.lk/facilities/robotics-lab",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/10/index.json",
-    "description": "This is for Robotics related works",
-    "features": "This is for Robotics related works",
+    "description": [
+        "This is for Robotics related works"
+    ],
+    "features": [
+        "This is for Robotics related works"
+    ],
     "tags": [
-        "lab"
+        "Lab"
     ],
     "accessibility": [
+        "Instructors",
         "Postgraduates",
         "Staff",
         "Technical Officers",
-        "URL",
         "Undergraduates"
     ]
 }

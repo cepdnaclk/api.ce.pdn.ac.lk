@@ -12,16 +12,20 @@
     "capacity": "60",
     "url": "https://ce.pdn.ac.lk/facilities/hardware-and-interfacing-lab/",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/00/index.json",
-    "description": "This lab is used for Digital Design, Embedded Systems and other courses",
-    "features": "This lab contains 30 Computers, Oscilloscopes, Power Supplies, Signal Generators",
+    "description": [
+        "This lab is used for Digital Design, Embedded Systems and other courses"
+    ],
+    "features": [
+        "This lab contains 30 Computers, Oscilloscopes, Power Supplies, Signal Generators"
+    ],
     "tags": [
-        "lab"
+        "Lab"
     ],
     "accessibility": [
+        "Instructors",
         "Postgraduates",
         "Staff",
         "Technical Officers",
-        "URL",
         "Undergraduates"
     ]
 }

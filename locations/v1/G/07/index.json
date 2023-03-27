@@ -12,10 +12,14 @@
     "capacity": "N/A",
     "url": "#",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/07/index.json",
-    "description": "to be used for lunch, tea and other informal gatherings.",
-    "features": "It has facilities for gatherings",
+    "description": [
+        "to be used for lunch, tea and other informal gatherings."
+    ],
+    "features": [
+        "It has facilities for gatherings"
+    ],
     "tags": [
-        "staff"
+        "Staff"
     ],
     "accessibility": [
         "Instructors",

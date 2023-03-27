@@ -12,10 +12,14 @@
     "capacity": "N/A",
     "url": "#",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/13/index.json",
-    "description": "This contains a working space for two people and a storage",
-    "features": "This is the room for Instructors and Past Graduate students",
+    "description": [
+        "This contains a working space for two people and a storage"
+    ],
+    "features": [
+        "This is the room for Instructors and Past Graduate students"
+    ],
     "tags": [
-        "staff"
+        "Staff"
     ],
     "accessibility": [
         "Instructors",

@@ -3,6 +3,35 @@
     "locations": [
         {
             "floor": "G",
+            "id": "FLOOR",
+            "label": "CE-G-FLOOR",
+            "title": "Ground Floor",
+            "contact": {
+                "tele": "",
+                "email": "",
+                "name": "",
+                "link": ""
+            },
+            "capacity": "N/A",
+            "url": "#",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/FLOOR/index.json",
+            "description": [
+                "Welcome to Computer Engineering Department UoP"
+            ],
+            "features": [],
+            "tags": [
+                "Public"
+            ],
+            "accessibility": [
+                "Instructors",
+                "Postgraduates",
+                "Staff",
+                "Technical Officers",
+                "Undergraduates"
+            ]
+        },
+        {
+            "floor": "G",
             "id": "01",
             "label": "CE-G-01",
             "title": "Department Office",
@@ -15,16 +44,16 @@
             "capacity": "N/A",
             "url": "http://www.ce.pdn.ac.lk/",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/01/index.json",
-            "description": "",
-            "features": "",
+            "description": [],
+            "features": [],
             "tags": [
-                "public"
+                "Public"
             ],
             "accessibility": [
+                "Instructors",
                 "Postgraduates",
                 "Staff",
                 "Technical Officers",
-                "URL",
                 "Undergraduates"
             ]
         },
@@ -42,17 +71,17 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/02/index.json",
-            "description": "",
-            "features": "",
+            "description": [],
+            "features": [],
             "tags": [
-                " staff",
-                "private"
+                "Private",
+                "Staff"
             ],
             "accessibility": [
+                "Instructors",
                 "Postgraduates",
                 "Staff",
                 "Technical Officers",
-                "URL",
                 "Undergraduates"
             ]
         },
@@ -70,16 +99,20 @@
             "capacity": "15",
             "url": "https://ce.pdn.ac.lk/facilities/conference-room/",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/03/index.json",
-            "description": "This is for official gatherings",
-            "features": "This conference room has facilities like Smart Display,Conference Camera, Conference Mic",
+            "description": [
+                "This is for official gatherings"
+            ],
+            "features": [
+                "This conference room has facilities like Smart Display,Conference Camera, Conference Mic"
+            ],
             "tags": [
-                "public"
+                "Public"
             ],
             "accessibility": [
+                "Instructors",
                 "Postgraduates",
                 "Staff",
                 "Technical Officers",
-                "URL",
                 "Undergraduates"
             ]
         },
@@ -97,16 +130,20 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/04/index.json",
-            "description": "This is a transit area",
-            "features": "This space consists of a library and a museaum",
+            "description": [
+                "This is a transit area"
+            ],
+            "features": [
+                "This space consists of a library and a museaum"
+            ],
             "tags": [
-                "public"
+                "Public"
             ],
             "accessibility": [
+                "Instructors",
                 "Postgraduates",
                 "Staff",
                 "Technical Officers",
-                "URL",
                 "Undergraduates"
             ]
         },
@@ -124,10 +161,12 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/05/index.json",
-            "description": "It has a Storage area",
-            "features": "",
+            "description": [
+                "It has a Storage area"
+            ],
+            "features": [],
             "tags": [
-                "authorized"
+                "Authorized"
             ],
             "accessibility": [
                 "Technical Officers"
@@ -147,10 +186,14 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/06/index.json",
-            "description": "Currently used by TOs",
-            "features": "It has facilities for staff gatherings",
+            "description": [
+                "Currently used by TOs"
+            ],
+            "features": [
+                "It has facilities for staff gatherings"
+            ],
             "tags": [
-                "staff"
+                "Staff"
             ],
             "accessibility": [
                 "Instructors",
@@ -172,10 +215,14 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/07/index.json",
-            "description": "to be used for lunch, tea and other informal gatherings.",
-            "features": "It has facilities for gatherings",
+            "description": [
+                "to be used for lunch, tea and other informal gatherings."
+            ],
+            "features": [
+                "It has facilities for gatherings"
+            ],
             "tags": [
-                "staff"
+                "Staff"
             ],
             "accessibility": [
                 "Instructors",
@@ -197,16 +244,20 @@
             "capacity": "30-40",
             "url": "https://ce.pdn.ac.lk/facilities/open-lab",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/08/index.json",
-            "description": "Whiteboards and facilities for using laptops",
-            "features": "This is used by students for group-work, 'tech-talks', etc..After Hours access through G11",
+            "description": [
+                "Whiteboards and facilities for using laptops"
+            ],
+            "features": [
+                "This is used by students for group-work, 'tech-talks', etc..After Hours access through G11"
+            ],
             "tags": [
-                "lab"
+                "Lab"
             ],
             "accessibility": [
+                "Instructors",
                 "Postgraduates",
                 "Staff",
                 "Technical Officers",
-                "URL",
                 "Undergraduates"
             ]
         },
@@ -224,16 +275,20 @@
             "capacity": "5-10",
             "url": "https://ce.pdn.ac.lk/facilities/open-lab",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/09/index.json",
-            "description": "Open lab with Sofa and some seating arrangements",
-            "features": "This is used by students for group-work, 'tech-talks', etc..After Hours access through G11",
+            "description": [
+                "Open lab with Sofa and some seating arrangements"
+            ],
+            "features": [
+                "This is used by students for group-work, 'tech-talks', etc..After Hours access through G11"
+            ],
             "tags": [
-                "lab"
+                "Lab"
             ],
             "accessibility": [
+                "Instructors",
                 "Postgraduates",
                 "Staff",
                 "Technical Officers",
-                "URL",
                 "Undergraduates"
             ]
         },
@@ -251,16 +306,16 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/10G/index.json",
-            "description": "",
-            "features": "",
+            "description": [],
+            "features": [],
             "tags": [
-                "public"
+                "Public"
             ],
             "accessibility": [
+                "Instructors",
                 "Postgraduates",
                 "Staff",
                 "Technical Officers",
-                "URL",
                 "Undergraduates"
             ]
         },
@@ -278,16 +333,16 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/10L/index.json",
-            "description": "",
-            "features": "",
+            "description": [],
+            "features": [],
             "tags": [
-                "public"
+                "Public"
             ],
             "accessibility": [
+                "Instructors",
                 "Postgraduates",
                 "Staff",
                 "Technical Officers",
-                "URL",
                 "Undergraduates"
             ]
         },
@@ -305,16 +360,20 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/11/index.json",
-            "description": "Providing after hours access to G-08 and G-09",
-            "features": "This space is used for activities in ACES",
+            "description": [
+                "Providing after hours access to G-08 and G-09"
+            ],
+            "features": [
+                "This space is used for activities in ACES"
+            ],
             "tags": [
-                "public"
+                "Public"
             ],
             "accessibility": [
+                "Instructors",
                 "Postgraduates",
                 "Staff",
                 "Technical Officers",
-                "URL",
                 "Undergraduates"
             ]
         },
@@ -332,16 +391,18 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/OUTSIDE/index.json",
-            "description": "",
-            "features": "This is the outside area of the Dept",
+            "description": [],
+            "features": [
+                "This is the outside area of the Dept"
+            ],
             "tags": [
-                "public"
+                "Public"
             ],
             "accessibility": [
+                "Instructors",
                 "Postgraduates",
                 "Staff",
                 "Technical Officers",
-                "URL",
                 "Undergraduates"
             ]
         },
@@ -359,16 +420,18 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/CR01/index.json",
-            "description": "This corridor connects central lobby,department office,conference room, operator room",
-            "features": "",
+            "description": [
+                "This corridor connects central lobby,department office,conference room, operator room"
+            ],
+            "features": [],
             "tags": [
-                "public"
+                "Public"
             ],
             "accessibility": [
+                "Instructors",
                 "Postgraduates",
                 "Staff",
                 "Technical Officers",
-                "URL",
                 "Undergraduates"
             ]
         },
@@ -386,10 +449,12 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/LIFT/index.json",
-            "description": "Can be used to enter other floors",
-            "features": "",
+            "description": [
+                "Can be used to enter other floors"
+            ],
+            "features": [],
             "tags": [
-                "public"
+                "Public"
             ],
             "accessibility": [
                 "None"
@@ -409,10 +474,10 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/OP/index.json",
-            "description": "",
-            "features": "",
+            "description": [],
+            "features": [],
             "tags": [
-                "authorized"
+                "Authorized"
             ],
             "accessibility": [
                 "Technical Officers"
@@ -432,16 +497,20 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/18/index.json",
-            "description": "This is the entrance area",
-            "features": "Seating arrangements are in this entrance area",
+            "description": [
+                "This is the entrance area"
+            ],
+            "features": [
+                "Seating arrangements are in this entrance area"
+            ],
             "tags": [
-                "public"
+                "Public"
             ],
             "accessibility": [
+                "Instructors",
                 "Postgraduates",
                 "Staff",
                 "Technical Officers",
-                "URL",
                 "Undergraduates"
             ]
         }

@@ -2,31 +2,31 @@
     "G": {
         "floor": "G",
         "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/index.json",
-        "location_count": 17
+        "location_count": 18
     },
     "01": {
         "floor": "01",
         "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/index.json",
-        "location_count": 14
+        "location_count": 15
     },
     "02": {
         "floor": "02",
         "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/index.json",
-        "location_count": 13
+        "location_count": 14
     },
     "03": {
         "floor": "03",
         "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/index.json",
-        "location_count": 15
+        "location_count": 16
     },
     "04": {
         "floor": "04",
         "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/index.json",
-        "location_count": 20
+        "location_count": 21
     },
     "all": {
         "floor": "N/A",
         "api_url": "https://api.ce.pdn.ac.lk/locations/v1/all/index.json",
-        "location_count": 79
+        "location_count": 84
     }
 }

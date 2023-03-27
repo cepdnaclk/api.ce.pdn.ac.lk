@@ -12,16 +12,18 @@
     "capacity": "N/A",
     "url": "#",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/OUTSIDE/index.json",
-    "description": "",
-    "features": "This is the outside area of the Dept",
+    "description": [],
+    "features": [
+        "This is the outside area of the Dept"
+    ],
     "tags": [
-        "public"
+        "Public"
     ],
     "accessibility": [
+        "Instructors",
         "Postgraduates",
         "Staff",
         "Technical Officers",
-        "URL",
         "Undergraduates"
     ]
 }

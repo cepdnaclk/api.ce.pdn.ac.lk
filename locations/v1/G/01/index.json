@@ -12,16 +12,16 @@
     "capacity": "N/A",
     "url": "http://www.ce.pdn.ac.lk/",
     "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/01/index.json",
-    "description": "",
-    "features": "",
+    "description": [],
+    "features": [],
     "tags": [
-        "public"
+        "Public"
     ],
     "accessibility": [
+        "Instructors",
         "Postgraduates",
         "Staff",
         "Technical Officers",
-        "URL",
         "Undergraduates"
     ]
 }
