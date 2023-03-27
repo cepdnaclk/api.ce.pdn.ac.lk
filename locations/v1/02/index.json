@@ -35,7 +35,7 @@
             "title": "Technical Offcer's room",
             "contact": {
                 "tele": "",
-                "email": "",
+                "email": "kalumg@eng.pdn.ac.lk",
                 "name": "",
                 "link": ""
             },
@@ -43,7 +43,7 @@
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/01/index.json",
             "description": [
-                "This room is used by Technical officer and assistant.Mr.Kelum is currently incharge in here"
+                "This room is used by Technical officer and assistant. Mr.Kelum is currently in-charge"
             ],
             "features": [
                 "This room has a Hardware component storage"
@@ -70,11 +70,10 @@
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/02/index.json",
             "description": [
-                "This is the room for Instructors and Post Graduate students"
-            ],
-            "features": [
+                "This is the room for Instructors and Postgraduate students",
                 "This room has working space for four"
             ],
+            "features": [],
             "tags": [
                 "Staff"
             ],
@@ -129,10 +128,10 @@
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/09/index.json",
             "description": [
-                "This room is used to have discussions of projects,activities etc"
+                "This room is used to have discussions of projects, activities, etc"
             ],
             "features": [
-                "This has a space for 30 students and  White Boards and study tables are availbale"
+                "This has a space for 30 students and White Boards and Study tables"
             ],
             "tags": [
                 "Public"
@@ -159,9 +158,7 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/05/index.json",
-            "description": [
-                "https://people.ce.pdn.ac.lk/staff/academic/"
-            ],
+            "description": [],
             "features": [],
             "tags": [
                 "Staff"
@@ -184,9 +181,7 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/06/index.json",
-            "description": [
-                "https://people.ce.pdn.ac.lk/staff/academic/"
-            ],
+            "description": [],
             "features": [],
             "tags": [
                 "Staff"
@@ -209,9 +204,7 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/07/index.json",
-            "description": [
-                "https://people.ce.pdn.ac.lk/staff/academic/"
-            ],
+            "description": [],
             "features": [],
             "tags": [
                 "Staff"
@@ -234,9 +227,7 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/08/index.json",
-            "description": [
-                "https://people.ce.pdn.ac.lk/staff/academic/"
-            ],
+            "description": [],
             "features": [],
             "tags": [
                 "Staff"
@@ -262,9 +253,7 @@
             "description": [
                 "The lift or the staircases to enter other floors can be accessed from here"
             ],
-            "features": [
-                "Entrance and the Exit points are in here"
-            ],
+            "features": [],
             "tags": [
                 "Public"
             ],
@@ -291,11 +280,9 @@
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/LIFT/index.json",
             "description": [
-                "Can be used to enter other floors"
+                "This is a proposed part, and not existing for now"
             ],
-            "features": [
-                "This belongs to Floor2"
-            ],
+            "features": [],
             "tags": [
                 "Public"
             ],
@@ -318,11 +305,9 @@
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/CR01/index.json",
             "description": [
-                "This corridor can be used to reach discussion room,Hardware & CI lab,TO room and Main room"
+                "This corridor can be used to reach Discussion room, Hardware & CI lab, TO room, and Main room"
             ],
-            "features": [
-                "This belongs to floor 2"
-            ],
+            "features": [],
             "tags": [
                 "Public"
             ],
@@ -349,9 +334,7 @@
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/OP/index.json",
             "description": [],
-            "features": [
-                "This belongs to second Floor"
-            ],
+            "features": [],
             "tags": [
                 "Authorized"
             ],

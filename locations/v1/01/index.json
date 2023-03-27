@@ -43,11 +43,9 @@
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/01/index.json",
             "description": [
-                "This belongs to first Floor"
-            ],
-            "features": [
                 "This room is used by Technical officer and assistant"
             ],
+            "features": [],
             "tags": [
                 "Staff"
             ],
@@ -70,11 +68,10 @@
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/02/index.json",
             "description": [
-                "This contains a working space for four"
+                "This contains a working space for 4 temporary academic staff",
+                "This is the room for Instructors and Postgraduate students"
             ],
-            "features": [
-                "This is the room for Instructors and Past Graduate students"
-            ],
+            "features": [],
             "tags": [
                 "Staff"
             ],
@@ -238,9 +235,7 @@
             "description": [
                 "This lab has Computers, Networking Devices etc."
             ],
-            "features": [
-                "This lab is used for Networking related courses"
-            ],
+            "features": [],
             "tags": [
                 "Lab"
             ],
@@ -267,11 +262,9 @@
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/CR01/index.json",
             "description": [
-                "This belongs to floor 1"
-            ],
-            "features": [
                 "This corridor can be used to reach Lecturers' Room 1, 2, Instructors' Room and the Main room"
             ],
+            "features": [],
             "tags": [
                 "Public"
             ],
@@ -300,9 +293,7 @@
             "description": [
                 "Entrance and the Exit points are in here"
             ],
-            "features": [
-                "The lift or the staircases to enter other floors can be accessed from here"
-            ],
+            "features": [],
             "tags": [
                 "Public"
             ],
@@ -328,9 +319,7 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/OP/index.json",
-            "description": [
-                "This belongs to Floor1"
-            ],
+            "description": [],
             "features": [],
             "tags": [
                 "Authorized"
@@ -354,11 +343,9 @@
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/LIFT/index.json",
             "description": [
-                "This belongs to Floor1"
+                "This is a proposed part, and not existing for now"
             ],
-            "features": [
-                "Can be used to enter other floors"
-            ],
+            "features": [],
             "tags": [
                 "Public"
             ],
@@ -383,9 +370,7 @@
             "description": [
                 "This lab contains 2 built in projectors and screens and 64 computers"
             ],
-            "features": [
-                "Can be used for lab activities"
-            ],
+            "features": [],
             "tags": [
                 "Lab"
             ],

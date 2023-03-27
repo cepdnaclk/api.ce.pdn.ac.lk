@@ -103,7 +103,7 @@
                 "This is for official gatherings"
             ],
             "features": [
-                "This conference room has facilities like Smart Display,Conference Camera, Conference Mic"
+                "This conference room has facilities like Smart Display, Conference Camera, and Conference Mic"
             ],
             "tags": [
                 "Public"
@@ -245,10 +245,12 @@
             "url": "https://ce.pdn.ac.lk/facilities/open-lab",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/08/index.json",
             "description": [
-                "Whiteboards and facilities for using laptops"
+                "This is a proposed area, and not existing for now",
+                "This is used by students for group-work, 'tech-talks', etc..."
             ],
             "features": [
-                "This is used by students for group-work, 'tech-talks', etc..After Hours access through G11"
+                "Whiteboards and facilities for using laptops",
+                "After Hours access through G11"
             ],
             "tags": [
                 "Lab"
@@ -276,10 +278,12 @@
             "url": "https://ce.pdn.ac.lk/facilities/open-lab",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/09/index.json",
             "description": [
-                "Open lab with Sofa and some seating arrangements"
+                "This is a proposed area, and not existing for now",
+                "This is used by students for group-work, 'tech-talks', etc..."
             ],
             "features": [
-                "This is used by students for group-work, 'tech-talks', etc..After Hours access through G11"
+                "Open lab with Sofa and some seating arrangements",
+                "After Hours access through G11"
             ],
             "tags": [
                 "Lab"
@@ -306,7 +310,9 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/10G/index.json",
-            "description": [],
+            "description": [
+                "This is a proposed area, and not existing for now"
+            ],
             "features": [],
             "tags": [
                 "Public"
@@ -333,7 +339,9 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/10L/index.json",
-            "description": [],
+            "description": [
+                "This is a proposed area, and not existing for now"
+            ],
             "features": [],
             "tags": [
                 "Public"
@@ -361,11 +369,11 @@
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/11/index.json",
             "description": [
-                "Providing after hours access to G-08 and G-09"
-            ],
-            "features": [
+                "This is a proposed area, and not existing for now",
+                "Providing after hours access to G-08 and G-09",
                 "This space is used for activities in ACES"
             ],
+            "features": [],
             "tags": [
                 "Public"
             ],
@@ -391,10 +399,10 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/OUTSIDE/index.json",
-            "description": [],
-            "features": [
+            "description": [
                 "This is the outside area of the Dept"
             ],
+            "features": [],
             "tags": [
                 "Public"
             ],
@@ -421,7 +429,7 @@
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/CR01/index.json",
             "description": [
-                "This corridor connects central lobby,department office,conference room, operator room"
+                "This corridor connects central lobby, department office,conference room, and operator room"
             ],
             "features": [],
             "tags": [
@@ -450,7 +458,7 @@
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/LIFT/index.json",
             "description": [
-                "Can be used to enter other floors"
+                "This is a proposed part, and not existing for now"
             ],
             "features": [],
             "tags": [

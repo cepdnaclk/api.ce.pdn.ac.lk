@@ -42,10 +42,10 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/01/index.json",
-            "description": [],
-            "features": [
-                "These space is to be used as the Incubation Centre for start-ups, Industry-Funded Laboratories (such as the Cambio Lab)"
+            "description": [
+                "These space will be used as the Incubation Centre for start-ups, Industry-Funded Laboratories"
             ],
+            "features": [],
             "tags": [
                 ""
             ],
@@ -65,10 +65,10 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/02/index.json",
-            "description": [],
-            "features": [
-                "These space is to be used as the Incubation Centre for start-ups, Industry-Funded Laboratories (such as the Cambio Lab)"
+            "description": [
+                "These space will be used as the Incubation Centre for start-ups, Industry-Funded Laboratories"
             ],
+            "features": [],
             "tags": [
                 ""
             ],
@@ -88,10 +88,10 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/03/index.json",
-            "description": [],
-            "features": [
-                "These space is to be used as the Incubation Centre for start-ups, Industry-Funded Laboratories (such as the Cambio Lab)"
+            "description": [
+                "These space will be used as the Incubation Centre for start-ups, Industry-Funded Laboratories"
             ],
+            "features": [],
             "tags": [
                 ""
             ],
@@ -111,10 +111,10 @@
             "capacity": "N/A",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/04/index.json",
-            "description": [],
-            "features": [
-                "These space is to be used as the Incubation Centre for start-ups, Industry-Funded Laboratories (such as the Cambio Lab)"
+            "description": [
+                "These space will be used as the Incubation Centre for start-ups, Industry-Funded Laboratories"
             ],
+            "features": [],
             "tags": [
                 ""
             ],
@@ -135,11 +135,10 @@
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/00/index.json",
             "description": [
-                "This is for computer vision related projects,work"
+                "This is for computer vision related projects will be done in here",
+                "This is a proposed Lab"
             ],
-            "features": [
-                "This is for computer vision related projects,work"
-            ],
+            "features": [],
             "tags": [
                 "Lab"
             ],
@@ -212,7 +211,7 @@
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/08/index.json",
             "description": [
-                "This lab has teaching aids, facilities like Multimedia Projector"
+                "This lab has Teaching Aids and facilities like Multimedia Projector"
             ],
             "features": [
                 "This is the main computer laboratory of the department"
@@ -312,7 +311,7 @@
             "url": "https://ce.pdn.ac.lk/facilities/server-room",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/12/index.json",
             "description": [
-                "This space for Department servers"
+                "This space for Department Servers"
             ],
             "features": [],
             "tags": [
@@ -365,7 +364,7 @@
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/07L/index.json",
             "description": [
-                "These washromms are For the use of Ladies"
+                "This washroom is for the use of Ladies"
             ],
             "features": [],
             "tags": [
@@ -388,7 +387,7 @@
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/07G/index.json",
             "description": [
-                "These washromms are For the use of Gents"
+                "This washroom is for the use of Gents"
             ],
             "features": [],
             "tags": [
@@ -411,7 +410,7 @@
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/ENTR/index.json",
             "description": [
-                "Entrance and the Exit points are in here"
+                "Entrance and the exit points are in here"
             ],
             "features": [
                 "The lift or the staircases to enter other lower floors can be accessed from here"
@@ -442,7 +441,7 @@
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/CR01/index.json",
             "description": [
-                "This corridor can be used to reach lift,corridor2,instructor room,staircase,computer lab1 and washrooms"
+                "This corridor can be used to reach corridor2, instructor room, staircase, computer lab1 and washrooms"
             ],
             "features": [],
             "tags": [
@@ -471,7 +470,7 @@
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/LIFT/index.json",
             "description": [
-                "Can be used to enter other floors"
+                "This is a proposed part, and not existing for now"
             ],
             "features": [],
             "tags": [
@@ -519,7 +518,7 @@
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/CR02/index.json",
             "description": [
-                "This corridor can be used to enter to the computer vision lab,main room and operators"
+                "This corridor can be used to enter to the Computer Vision Lab, main room and operators"
             ],
             "features": [],
             "tags": [
