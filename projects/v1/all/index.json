@@ -8374,18 +8374,18 @@
             "OpenCL"
         ]
     },
-    "e15-4yp-Adaptive-people-movement-and-action-prediction-using-CCTV": {
-        "title": "Adaptive people movement and action prediction using CCTV",
+    "e15-4yp-Adaptive-People-Movement-And-Action-Prediction-Using-CCTV": {
+        "title": "Adaptive People Movement And Action Prediction Using CCTV",
         "description": "In a domestic environment, people's behavior is often routine. They move place to place in a house while activating different domestic appliances and lights. On the other hand, CCTV is becoming a common surveillance system installed in many houses and buildings. A correctly trained adaptive system can predict the behavior and perform control actions automatically. In this research project, it is intended to develop an adaptive training system using CCTV video streams for controlling appliances. ",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Adaptive-people-movement-and-action-prediction-using-CCTV/",
-        "repo_url": "https://github.com/cepdnaclk/e15-4yp-Adaptive-people-movement-and-action-prediction-using-CCTV",
-        "page_url": "https://cepdnaclk.github.io/e15-4yp-Adaptive-people-movement-and-action-prediction-using-CCTV",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Adaptive-people-movement-and-action-prediction-using-CCTV/",
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Adaptive-People-Movement-And-Action-Prediction-Using-CCTV/",
+        "repo_url": "https://github.com/cepdnaclk/e15-4yp-Adaptive-People-Movement-And-Action-Prediction-Using-CCTV",
+        "page_url": "https://cepdnaclk.github.io/e15-4yp-Adaptive-People-Movement-And-Action-Prediction-Using-CCTV",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Adaptive-People-Movement-And-Action-Prediction-Using-CCTV/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
         "team": {
             "E/15/265": {
@@ -12860,114 +12860,71 @@
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E14/packet-forwarding-simulator/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
     },
-    "e15-co543-Brain-Tumor-Detection": {
-        "title": "Brain Tumor Detection",
-        "description": "",
+    "e15-co328-Banking-Management-System": {
+        "title": "Banking Management System",
+        "description": "Banking management system customized for 'Sanasa Society Bank'",
         "category": {
-            "title": "Image Processing Projects (CO543)",
-            "code": "co543",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
+            "title": "Software Engineering Projects (CO328)",
+            "code": "co328",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/co543/e15/Brain-Tumor-Detection/",
-        "repo_url": "https://github.com/cepdnaclk/e15-co543-Brain-Tumor-Detection",
+        "project_url": "https://projects.ce.pdn.ac.lk/co328/e15/Banking-Management-System/",
+        "repo_url": "https://github.com/cepdnaclk/e15-co328-Banking-Management-System",
         "page_url": "#",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E15/Brain-Tumor-Detection/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg"
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E15/Banking-Management-System/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
     },
-    "e15-co543-Swarm-Robot-Monitoring-System-group-A": {
-        "title": "Swarm Robot Monitoring System group A",
-        "description": "A swarm robotics systems consists of automation robots with local sensing and communication capabilities, lacking centralized control or access to global information, situated in a possibly unknown environment performing a collective action. Therefore, having centralized monitoring in addition to the distributed local sensing yields to a more robust system as a centralized monitoring system capable of performing global collective actions under a wide range of group sizes (scalability), despite the possible sudden loss of multiple agents (robustness), and under unknown and dynamic circumstances (flexibility).",
+    "e15-co328-Zero-Trash": {
+        "title": "Zero Trash",
+        "description": "Zero Trash provides a communication platform between its users and garbage collectors which did not exist (at least not successfully) in Sri Lanka. This could have huge implications for both lessening the cost of collecting garbage and aiding in the recycling process, as well as ensuring that materials that would otherwise end up in a landfill are transported to the appropriate recycling centers. This will increase the income for garbage collectors while providing householders with an additional income.",
         "category": {
-            "title": "Image Processing Projects (CO543)",
-            "code": "co543",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
+            "title": "Software Engineering Projects (CO328)",
+            "code": "co328",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/co543/e15/Swarm-Robot-Monitoring-System-group-A/",
-        "repo_url": "https://github.com/cepdnaclk/e15-co543-Swarm-Robot-Monitoring-System-group-A",
-        "page_url": "#",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E15/Swarm-Robot-Monitoring-System-group-A/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg"
-    },
-    "e15-co543-Swarm-Robot-Monitoring-System-group-B": {
-        "title": "Swarm Robot Monitoring System group B",
-        "description": "localization of robots, identifying  the boundary of arena and distance calculation with image processing(openCV python)",
-        "category": {
-            "title": "Image Processing Projects (CO543)",
-            "code": "co543",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
+        "project_url": "https://projects.ce.pdn.ac.lk/co328/e15/Zero-Trash/",
+        "repo_url": "https://github.com/cepdnaclk/e15-co328-Zero-Trash",
+        "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+        "team": {
+            "E/15/140": {
+                "name": "Jaliyagoda A.J.N.M.",
+                "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
+                "website": "https://nuwanjaliyagoda.com/",
+                "github": "https://github.com/NuwanJ",
+                "linkedin": "https://www.linkedin.com/in/nuwan-jaliyagoda/",
+                "researchgate": "https://www.researchgate.net/profile/Nuwan-Jaliyagoda",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E15/140",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15140.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/140/"
+            },
+            "E/15/173": {
+                "name": "Karunarathna S.D.D.D.",
+                "email": "dilshanik@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/DDilshani",
+                "linkedin": "https://www.linkedin.com/in/dilshanikarunarathna/",
+                "researchgate": "https://www.researchgate.net/profile/Dilshani-Karunrathna",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E15/173",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15173.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/173/"
+            },
+            "E/15/350": {
+                "name": "Pasan Tennakoon",
+                "email": "e15350@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/PasanT9",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E15/350",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15350.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/350/"
+            }
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/co543/e15/Swarm-Robot-Monitoring-System-group-B/",
-        "repo_url": "https://github.com/cepdnaclk/e15-co543-Swarm-Robot-Monitoring-System-group-B",
-        "page_url": "#",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E15/Swarm-Robot-Monitoring-System-group-B/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg"
-    },
-    "e15-co543-Swarm-Robot-Monitoring-System-group-C": {
-        "title": "Swarm Robot Monitoring System group C",
-        "description": "Localization of multiple robots in real time, Video restoration at the presence of noise due to lighting conditions and degradation due to motion blur.",
-        "category": {
-            "title": "Image Processing Projects (CO543)",
-            "code": "co543",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co543/e15/Swarm-Robot-Monitoring-System-group-C/",
-        "repo_url": "https://github.com/cepdnaclk/e15-co543-Swarm-Robot-Monitoring-System-group-C",
-        "page_url": "#",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E15/Swarm-Robot-Monitoring-System-group-C/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg"
-    },
-    "e17-co543-Mini-Project-Group-H": {
-        "title": "Mini Project Group H",
-        "description": "A License / Number Plate Recognition (NPR) system using OpenCV and Python.",
-        "category": {
-            "title": "Image Processing Projects (CO543)",
-            "code": "co543",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co543/e17/Mini-Project-Group-H/",
-        "repo_url": "https://github.com/cepdnaclk/e17-co543-Mini-Project-Group-H",
-        "page_url": "#",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/Mini-Project-Group-H/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg"
-    },
-    "e17-co543-Number-Plate-Recognition-system": {
-        "title": "Number Plate Recognition system",
-        "description": "Number Plate Recognition (NPR) system to detect Sri Lankan number plate images",
-        "category": {
-            "title": "Image Processing Projects (CO543)",
-            "code": "co543",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co543/e17/Number-Plate-Recognition-system/",
-        "repo_url": "https://github.com/cepdnaclk/e17-co543-Number-Plate-Recognition-system",
-        "page_url": "https://cepdnaclk.github.io/e17-co543-Number-Plate-Recognition-system",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/Number-Plate-Recognition-system/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
-        "team": {},
         "supervisors": {},
         "tags": [
-            "Web",
-            "Embedded Systems"
-        ]
-    },
-    "e17-co543-SL-Number-Plate-Detection-Group-A": {
-        "title": "SL Number Plate Detection Group A",
-        "description": "An automated number plate recognition solution for Sri Lankan number plate images.",
-        "category": {
-            "title": "Image Processing Projects (CO543)",
-            "code": "co543",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co543/e17/SL-Number-Plate-Detection-Group-A/",
-        "repo_url": "https://github.com/cepdnaclk/e17-co543-SL-Number-Plate-Detection-Group-A",
-        "page_url": "https://cepdnaclk.github.io/e17-co543-SL-Number-Plate-Detection-Group-A",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/SL-Number-Plate-Detection-Group-A/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
-        "team": {},
-        "supervisors": {},
-        "tags": [
-            "Web",
-            "Embedded Systems"
+            "Web"
         ]
     },
     "e16-co328-Footwear-Shop-System": {
@@ -13140,72 +13097,115 @@
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E14/GPSARSA-gaussian-process-state-action-reward-state-actios-based-SITNSHOP/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
     },
-    "e15-co328-Zero-Trash": {
-        "title": "Zero Trash",
-        "description": "Zero Trash provides a communication platform between its users and garbage collectors which did not exist (at least not successfully) in Sri Lanka. This could have huge implications for both lessening the cost of collecting garbage and aiding in the recycling process, as well as ensuring that materials that would otherwise end up in a landfill are transported to the appropriate recycling centers. This will increase the income for garbage collectors while providing householders with an additional income.",
+    "e15-co543-Brain-Tumor-Detection": {
+        "title": "Brain Tumor Detection",
+        "description": "",
         "category": {
-            "title": "Software Engineering Projects (CO328)",
-            "code": "co328",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/"
+            "title": "Image Processing Projects (CO543)",
+            "code": "co543",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/co328/e15/Zero-Trash/",
-        "repo_url": "https://github.com/cepdnaclk/e15-co328-Zero-Trash",
-        "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-        "team": {
-            "E/15/140": {
-                "name": "Jaliyagoda A.J.N.M.",
-                "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
-                "website": "https://nuwanjaliyagoda.com/",
-                "github": "https://github.com/NuwanJ",
-                "linkedin": "https://www.linkedin.com/in/nuwan-jaliyagoda/",
-                "researchgate": "https://www.researchgate.net/profile/Nuwan-Jaliyagoda",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E15/140",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15140.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/140/"
-            },
-            "E/15/173": {
-                "name": "Karunarathna S.D.D.D.",
-                "email": "dilshanik@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/DDilshani",
-                "linkedin": "https://www.linkedin.com/in/dilshanikarunarathna/",
-                "researchgate": "https://www.researchgate.net/profile/Dilshani-Karunrathna",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E15/173",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15173.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/173/"
-            },
-            "E/15/350": {
-                "name": "Pasan Tennakoon",
-                "email": "e15350@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/PasanT9",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E15/350",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15350.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/350/"
-            }
+        "project_url": "https://projects.ce.pdn.ac.lk/co543/e15/Brain-Tumor-Detection/",
+        "repo_url": "https://github.com/cepdnaclk/e15-co543-Brain-Tumor-Detection",
+        "page_url": "#",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E15/Brain-Tumor-Detection/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg"
+    },
+    "e15-co543-Swarm-Robot-Monitoring-System-group-A": {
+        "title": "Swarm Robot Monitoring System group A",
+        "description": "A swarm robotics systems consists of automation robots with local sensing and communication capabilities, lacking centralized control or access to global information, situated in a possibly unknown environment performing a collective action. Therefore, having centralized monitoring in addition to the distributed local sensing yields to a more robust system as a centralized monitoring system capable of performing global collective actions under a wide range of group sizes (scalability), despite the possible sudden loss of multiple agents (robustness), and under unknown and dynamic circumstances (flexibility).",
+        "category": {
+            "title": "Image Processing Projects (CO543)",
+            "code": "co543",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
         },
+        "project_url": "https://projects.ce.pdn.ac.lk/co543/e15/Swarm-Robot-Monitoring-System-group-A/",
+        "repo_url": "https://github.com/cepdnaclk/e15-co543-Swarm-Robot-Monitoring-System-group-A",
+        "page_url": "#",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E15/Swarm-Robot-Monitoring-System-group-A/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg"
+    },
+    "e15-co543-Swarm-Robot-Monitoring-System-group-B": {
+        "title": "Swarm Robot Monitoring System group B",
+        "description": "localization of robots, identifying  the boundary of arena and distance calculation with image processing(openCV python)",
+        "category": {
+            "title": "Image Processing Projects (CO543)",
+            "code": "co543",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co543/e15/Swarm-Robot-Monitoring-System-group-B/",
+        "repo_url": "https://github.com/cepdnaclk/e15-co543-Swarm-Robot-Monitoring-System-group-B",
+        "page_url": "#",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E15/Swarm-Robot-Monitoring-System-group-B/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg"
+    },
+    "e15-co543-Swarm-Robot-Monitoring-System-group-C": {
+        "title": "Swarm Robot Monitoring System group C",
+        "description": "Localization of multiple robots in real time, Video restoration at the presence of noise due to lighting conditions and degradation due to motion blur.",
+        "category": {
+            "title": "Image Processing Projects (CO543)",
+            "code": "co543",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co543/e15/Swarm-Robot-Monitoring-System-group-C/",
+        "repo_url": "https://github.com/cepdnaclk/e15-co543-Swarm-Robot-Monitoring-System-group-C",
+        "page_url": "#",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E15/Swarm-Robot-Monitoring-System-group-C/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg"
+    },
+    "e17-co543-Mini-Project-Group-H": {
+        "title": "Mini Project Group H",
+        "description": "A License / Number Plate Recognition (NPR) system using OpenCV and Python.",
+        "category": {
+            "title": "Image Processing Projects (CO543)",
+            "code": "co543",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co543/e17/Mini-Project-Group-H/",
+        "repo_url": "https://github.com/cepdnaclk/e17-co543-Mini-Project-Group-H",
+        "page_url": "#",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/Mini-Project-Group-H/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg"
+    },
+    "e17-co543-Number-Plate-Recognition-system": {
+        "title": "Number Plate Recognition system",
+        "description": "Number Plate Recognition (NPR) system to detect Sri Lankan number plate images",
+        "category": {
+            "title": "Image Processing Projects (CO543)",
+            "code": "co543",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co543/e17/Number-Plate-Recognition-system/",
+        "repo_url": "https://github.com/cepdnaclk/e17-co543-Number-Plate-Recognition-system",
+        "page_url": "https://cepdnaclk.github.io/e17-co543-Number-Plate-Recognition-system",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/Number-Plate-Recognition-system/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+        "team": {},
         "supervisors": {},
         "tags": [
-            "Web"
+            "Web",
+            "Embedded Systems"
         ]
     },
-    "e15-co328-banking-management-system": {
-        "title": "banking management system",
-        "description": "Banking management system customized for 'Sanasa Society Bank'",
+    "e17-co543-SL-Number-Plate-Detection-Group-A": {
+        "title": "SL Number Plate Detection Group A",
+        "description": "An automated number plate recognition solution for Sri Lankan number plate images.",
         "category": {
-            "title": "Software Engineering Projects (CO328)",
-            "code": "co328",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/"
+            "title": "Image Processing Projects (CO543)",
+            "code": "co543",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/co328/e15/banking-management-system/",
-        "repo_url": "https://github.com/cepdnaclk/e15-co328-banking-management-system",
-        "page_url": "#",
-        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E15/banking-management-system/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
+        "project_url": "https://projects.ce.pdn.ac.lk/co543/e17/SL-Number-Plate-Detection-Group-A/",
+        "repo_url": "https://github.com/cepdnaclk/e17-co543-SL-Number-Plate-Detection-Group-A",
+        "page_url": "https://cepdnaclk.github.io/e17-co543-SL-Number-Plate-Detection-Group-A",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/SL-Number-Plate-Detection-Group-A/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+        "team": {},
+        "supervisors": {},
+        "tags": [
+            "Web",
+            "Embedded Systems"
+        ]
     },
     "e16-co502-RISCV-Pipeline-CPU-Implimentation-Group2": {
         "title": "RISCV Pipeline CPU Implimentation Group2",
@@ -13514,9 +13514,23 @@
         "team": {},
         "supervisors": {}
     },
+    "e18-co502-RV32IM-Pipeline-Implementation-Group4-1": {
+        "title": "RV32IM Pipeline Implementation Group4 1",
+        "description": "Single-cycle MIPS-like processor with a memory subsystem including a cache.",
+        "category": {
+            "title": "Advanced Computer Architecture (CO502)",
+            "code": "co502",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co502/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co502/e18/RV32IM-Pipeline-Implementation-Group4-1/",
+        "repo_url": "https://github.com/cepdnaclk/e18-co502-RV32IM-Pipeline-Implementation-Group4-1",
+        "page_url": "#",
+        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co502/E18/RV32IM-Pipeline-Implementation-Group4-1/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg"
+    },
     "e18-co502-RV32IM-Pipeline-Implementation-Group4": {
         "title": "RV32IM Pipeline Implementation Group4",
-        "description": "",
+        "description": "Single-cycle MIPS-like processor with a memory subsystem including a cache.",
         "category": {
             "title": "Advanced Computer Architecture (CO502)",
             "code": "co502",

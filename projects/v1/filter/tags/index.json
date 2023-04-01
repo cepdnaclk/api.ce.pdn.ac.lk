@@ -1629,32 +1629,6 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Development-of-an-Image-Capturing-Unit-for-Remote-Monitoring/"
         },
         {
-            "title": "Number Plate Recognition system",
-            "category": {
-                "code": "co543",
-                "title": "Image Processing Projects (CO543)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co543/e17/Number-Plate-Recognition-system/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co543-Number-Plate-Recognition-system",
-            "page_url": "https://cepdnaclk.github.io/e17-co543-Number-Plate-Recognition-system",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/Number-Plate-Recognition-system/"
-        },
-        {
-            "title": "SL Number Plate Detection Group A",
-            "category": {
-                "code": "co543",
-                "title": "Image Processing Projects (CO543)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co543/e17/SL-Number-Plate-Detection-Group-A/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co543-SL-Number-Plate-Detection-Group-A",
-            "page_url": "https://cepdnaclk.github.io/e17-co543-SL-Number-Plate-Detection-Group-A",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/SL-Number-Plate-Detection-Group-A/"
-        },
-        {
             "title": "Movie Review System",
             "category": {
                 "code": "co328",
@@ -1679,6 +1653,32 @@
             "page_url": "https://cepdnaclk.github.io/e16-co328-Project-Publication-Platform",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E16/Project-Publication-Platform/"
+        },
+        {
+            "title": "Number Plate Recognition system",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e17/Number-Plate-Recognition-system/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co543-Number-Plate-Recognition-system",
+            "page_url": "https://cepdnaclk.github.io/e17-co543-Number-Plate-Recognition-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/Number-Plate-Recognition-system/"
+        },
+        {
+            "title": "SL Number Plate Detection Group A",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e17/SL-Number-Plate-Detection-Group-A/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co543-SL-Number-Plate-Detection-Group-A",
+            "page_url": "https://cepdnaclk.github.io/e17-co543-SL-Number-Plate-Detection-Group-A",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/SL-Number-Plate-Detection-Group-A/"
         }
     ],
     "FPGA": [
@@ -1815,17 +1815,17 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Accelerating-Adaptive-Banded-Event-Alignment-Algorithm-with-OpenCL-on-FPGA/"
         },
         {
-            "title": "Adaptive people movement and action prediction using CCTV",
+            "title": "Adaptive People Movement And Action Prediction Using CCTV",
             "category": {
                 "code": "4yp",
                 "title": "Undergraduate Research Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Adaptive-people-movement-and-action-prediction-using-CCTV/",
-            "repo_url": "https://github.com/cepdnaclk/e15-4yp-Adaptive-people-movement-and-action-prediction-using-CCTV",
-            "page_url": "https://cepdnaclk.github.io/e15-4yp-Adaptive-people-movement-and-action-prediction-using-CCTV",
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Adaptive-People-Movement-And-Action-Prediction-Using-CCTV/",
+            "repo_url": "https://github.com/cepdnaclk/e15-4yp-Adaptive-People-Movement-And-Action-Prediction-Using-CCTV",
+            "page_url": "https://cepdnaclk.github.io/e15-4yp-Adaptive-People-Movement-And-Action-Prediction-Using-CCTV",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Adaptive-people-movement-and-action-prediction-using-CCTV/"
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Adaptive-People-Movement-And-Action-Prediction-Using-CCTV/"
         },
         {
             "title": "Brain Computer Interface for controlling virtual objects",
@@ -2540,17 +2540,17 @@
     ],
     "MTCNN": [
         {
-            "title": "Adaptive people movement and action prediction using CCTV",
+            "title": "Adaptive People Movement And Action Prediction Using CCTV",
             "category": {
                 "code": "4yp",
                 "title": "Undergraduate Research Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Adaptive-people-movement-and-action-prediction-using-CCTV/",
-            "repo_url": "https://github.com/cepdnaclk/e15-4yp-Adaptive-people-movement-and-action-prediction-using-CCTV",
-            "page_url": "https://cepdnaclk.github.io/e15-4yp-Adaptive-people-movement-and-action-prediction-using-CCTV",
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Adaptive-People-Movement-And-Action-Prediction-Using-CCTV/",
+            "repo_url": "https://github.com/cepdnaclk/e15-4yp-Adaptive-People-Movement-And-Action-Prediction-Using-CCTV",
+            "page_url": "https://cepdnaclk.github.io/e15-4yp-Adaptive-People-Movement-And-Action-Prediction-Using-CCTV",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Adaptive-people-movement-and-action-prediction-using-CCTV/"
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Adaptive-People-Movement-And-Action-Prediction-Using-CCTV/"
         }
     ],
     "Machine Learning": [
@@ -3164,17 +3164,17 @@
     ],
     "OpenPose": [
         {
-            "title": "Adaptive people movement and action prediction using CCTV",
+            "title": "Adaptive People Movement And Action Prediction Using CCTV",
             "category": {
                 "code": "4yp",
                 "title": "Undergraduate Research Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Adaptive-people-movement-and-action-prediction-using-CCTV/",
-            "repo_url": "https://github.com/cepdnaclk/e15-4yp-Adaptive-people-movement-and-action-prediction-using-CCTV",
-            "page_url": "https://cepdnaclk.github.io/e15-4yp-Adaptive-people-movement-and-action-prediction-using-CCTV",
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Adaptive-People-Movement-And-Action-Prediction-Using-CCTV/",
+            "repo_url": "https://github.com/cepdnaclk/e15-4yp-Adaptive-People-Movement-And-Action-Prediction-Using-CCTV",
+            "page_url": "https://cepdnaclk.github.io/e15-4yp-Adaptive-People-Movement-And-Action-Prediction-Using-CCTV",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Adaptive-people-movement-and-action-prediction-using-CCTV/"
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Adaptive-People-Movement-And-Action-Prediction-Using-CCTV/"
         }
     ],
     "Openpose": [
@@ -3282,17 +3282,17 @@
     ],
     "Person Reidentification": [
         {
-            "title": "Adaptive people movement and action prediction using CCTV",
+            "title": "Adaptive People Movement And Action Prediction Using CCTV",
             "category": {
                 "code": "4yp",
                 "title": "Undergraduate Research Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Adaptive-people-movement-and-action-prediction-using-CCTV/",
-            "repo_url": "https://github.com/cepdnaclk/e15-4yp-Adaptive-people-movement-and-action-prediction-using-CCTV",
-            "page_url": "https://cepdnaclk.github.io/e15-4yp-Adaptive-people-movement-and-action-prediction-using-CCTV",
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Adaptive-People-Movement-And-Action-Prediction-Using-CCTV/",
+            "repo_url": "https://github.com/cepdnaclk/e15-4yp-Adaptive-People-Movement-And-Action-Prediction-Using-CCTV",
+            "page_url": "https://cepdnaclk.github.io/e15-4yp-Adaptive-People-Movement-And-Action-Prediction-Using-CCTV",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Adaptive-people-movement-and-action-prediction-using-CCTV/"
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Adaptive-People-Movement-And-Action-Prediction-Using-CCTV/"
         }
     ],
     "Plain Lattices": [
@@ -5161,30 +5161,17 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E15/Pera-Knowledge-Portal/"
         },
         {
-            "title": "Number Plate Recognition system",
+            "title": "Zero Trash",
             "category": {
-                "code": "co543",
-                "title": "Image Processing Projects (CO543)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co543/e17/Number-Plate-Recognition-system/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co543-Number-Plate-Recognition-system",
-            "page_url": "https://cepdnaclk.github.io/e17-co543-Number-Plate-Recognition-system",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/Number-Plate-Recognition-system/"
-        },
-        {
-            "title": "SL Number Plate Detection Group A",
-            "category": {
-                "code": "co543",
-                "title": "Image Processing Projects (CO543)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co543/e17/SL-Number-Plate-Detection-Group-A/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co543-SL-Number-Plate-Detection-Group-A",
-            "page_url": "https://cepdnaclk.github.io/e17-co543-SL-Number-Plate-Detection-Group-A",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/SL-Number-Plate-Detection-Group-A/"
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e15/Zero-Trash/",
+            "repo_url": "https://github.com/cepdnaclk/e15-co328-Zero-Trash",
+            "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/"
         },
         {
             "title": "Movie Review System",
@@ -5213,17 +5200,30 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E16/Project-Publication-Platform/"
         },
         {
-            "title": "Zero Trash",
+            "title": "Number Plate Recognition system",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e15/Zero-Trash/",
-            "repo_url": "https://github.com/cepdnaclk/e15-co328-Zero-Trash",
-            "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/"
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e17/Number-Plate-Recognition-system/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co543-Number-Plate-Recognition-system",
+            "page_url": "https://cepdnaclk.github.io/e17-co543-Number-Plate-Recognition-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/Number-Plate-Recognition-system/"
+        },
+        {
+            "title": "SL Number Plate Detection Group A",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e17/SL-Number-Plate-Detection-Group-A/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co543-SL-Number-Plate-Detection-Group-A",
+            "page_url": "https://cepdnaclk.github.io/e17-co543-SL-Number-Plate-Detection-Group-A",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/SL-Number-Plate-Detection-Group-A/"
         }
     ],
     "Web Application": [
@@ -5301,17 +5301,17 @@
     ],
     "Yolo": [
         {
-            "title": "Adaptive people movement and action prediction using CCTV",
+            "title": "Adaptive People Movement And Action Prediction Using CCTV",
             "category": {
                 "code": "4yp",
                 "title": "Undergraduate Research Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Adaptive-people-movement-and-action-prediction-using-CCTV/",
-            "repo_url": "https://github.com/cepdnaclk/e15-4yp-Adaptive-people-movement-and-action-prediction-using-CCTV",
-            "page_url": "https://cepdnaclk.github.io/e15-4yp-Adaptive-people-movement-and-action-prediction-using-CCTV",
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Adaptive-People-Movement-And-Action-Prediction-Using-CCTV/",
+            "repo_url": "https://github.com/cepdnaclk/e15-4yp-Adaptive-People-Movement-And-Action-Prediction-Using-CCTV",
+            "page_url": "https://cepdnaclk.github.io/e15-4yp-Adaptive-People-Movement-And-Action-Prediction-Using-CCTV",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Adaptive-people-movement-and-action-prediction-using-CCTV/"
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Adaptive-People-Movement-And-Action-Prediction-Using-CCTV/"
         }
     ],
     "ZTA": [
