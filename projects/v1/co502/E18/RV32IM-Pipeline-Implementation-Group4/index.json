@@ -11,6 +11,68 @@
     "page_url": "https://cepdnaclk.github.io/e18-co502-RV32IM-Pipeline-Implementation-Group4",
     "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co502/E18/RV32IM-Pipeline-Implementation-Group4/",
     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
-    "team": {},
-    "supervisors": {}
+    "team": {
+        "E/18/077": {
+            "name": "Nipun Dharmarathne",
+            "email": "e18077@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/NipunDharmarathne",
+            "linkedin": "https://lk.linkedin.com/in/nipun-dharmarathne-92a9191ba",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/077",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18077.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/077/"
+        },
+        "E/18/397": {
+            "name": "Shamod Wijerathne",
+            "email": "e18397@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/ShamodGeevinda",
+            "linkedin": "https://www.linkedin.com/in/shamod-geevinda/",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/397",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18397.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/397/"
+        },
+        "E/18/402": {
+            "name": "Chathura Wimalasiri",
+            "email": "e18402@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/chathurawimalasiri",
+            "linkedin": "https://www.linkedin.com/in/chathura-wimalasiri-b0637b1a1",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E18/402",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18402.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/402/"
+        }
+    },
+    "supervisors": {
+        "isurunawinne@eng.pdn.ac.lk": {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/isuru-nawinne/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+            "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+        },
+        "mahanamaw@eng.pdn.ac.lk": {
+            "name": "Dr. Mahanama Wickramasinghe",
+            "email": "mahanamaw@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/mahanama-wickramasinghe/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/mahanama-wickramasinghe.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/mahanamaw",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/mahanama",
+            "researchgate": "https://www.researchgate.net/profile/Mahanama-Wickramsinghe",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=kuoZpZEAAAAJ"
+        }
+    },
+    "tags": [
+        "Computer Architecture",
+        "RISC-V",
+        "Verilog"
+    ]
 }
