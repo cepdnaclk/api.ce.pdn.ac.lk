@@ -11,6 +11,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      webhook_url: ${{ secrets.NOTIFICATION_WEBHOOK_URL }}
     steps:
       - name: checkout
         uses: actions/checkout@master

@@ -15,6 +15,9 @@ import os
 import shutil
 
 from utility import getStaff
+from notifications import Notifications
+
+notify = Notifications("warning", "Github Action")
 
 # Use SL timezone
 os.environ['TZ'] = 'Asia/Colombo'
@@ -97,36 +100,37 @@ for line in loc_raw[1:]:
     if (len(loc_raw_data) != FIELD_COUNT or loc_raw_data[0] == ""):
         continue
 
-
     floor_id = loc_raw_data[ID].split("-")[0]
     room_id = loc_raw_data[ID].split("-")[1]
     label = "CE-" + loc_raw_data[ID]
 
-    tag_list = [ t.strip() for t in loc_raw_data[TAGS].split(",") ]
+    tag_list = [t.strip() for t in loc_raw_data[TAGS].split(",")]
 
     access_list = []
-    for access in [ a.strip() for a in loc_raw_data[ACCESSIBILITY].split(",") ]:
+    for access in [a.strip() for a in loc_raw_data[ACCESSIBILITY].split(",")]:
         if access in enumAccess:
             access_list.extend(enumAccess[access])
         elif access != "":
             print("{0}: Unsupported Tag !".format(access))
+            notify.warning("Unsupported Tag",
+                           "The tag `{0}` is not supported !".format(access))
 
     description_list = [x for x in list([
-            loc_raw_data[DESCRIPTION_1],
-            loc_raw_data[DESCRIPTION_2],
-            loc_raw_data[DESCRIPTION_3]
-        ]) if x != ""]
-    
+        loc_raw_data[DESCRIPTION_1],
+        loc_raw_data[DESCRIPTION_2],
+        loc_raw_data[DESCRIPTION_3]
+    ]) if x != ""]
+
     features_list = [x for x in list([
-            loc_raw_data[FEATURE_1],
-            loc_raw_data[FEATURE_2],
-            loc_raw_data[FEATURE_3]
-        ]) if x != ""]
+        loc_raw_data[FEATURE_1],
+        loc_raw_data[FEATURE_2],
+        loc_raw_data[FEATURE_3]
+    ]) if x != ""]
 
     api_url = "{0}/{1}/{2}/index.json".format(apiIndex, floor_id, room_id)
 
     # Staff API integration
-    if loc_raw_data[CONTACT_EMAIL] != "" :
+    if loc_raw_data[CONTACT_EMAIL] != "":
         staff_id = loc_raw_data[CONTACT_EMAIL].split('@')[0]
         staff_name = staff[staff_id]["name"] if staff_id in staff else ""
         staff_link = staff[staff_id]["profile_url"] if staff_id in staff else ""
@@ -146,7 +150,7 @@ for line in loc_raw[1:]:
             "link":  staff_link
         },
         "capacity": "N/A" if loc_raw_data[CAPACITY] == "" else loc_raw_data[CAPACITY],
-        "url": "#" if loc_raw_data[URL] == "" else loc_raw_data[URL], 
+        "url": "#" if loc_raw_data[URL] == "" else loc_raw_data[URL],
         "api_url": api_url,
         "description": description_list,
         "features": features_list,
