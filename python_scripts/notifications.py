@@ -8,9 +8,10 @@ import os
 
 
 class Notifications:
-    def __init__(self, author, workflow):
+    def __init__(self, author, workflow, url="#"):
         self.author = author
         self.workflow = workflow
+        self.url = url
 
     def get_webhook_url(self):
         return os.environ['webhook_url']
@@ -47,6 +48,10 @@ class Notifications:
 
         data = {
             "username": "GitHub Actions",
+            "author": {
+                "name": self.author,
+                "url": self.url,
+            },
             "embeds": [
                 {
                     "title": "{0} {1}".format(notification_type[level]["icon"], workflow),

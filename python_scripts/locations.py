@@ -17,7 +17,7 @@ import shutil
 from utility import getStaff
 from notifications import Notifications
 
-notify = Notifications("warning", "Github Action")
+notify = Notifications("api.ce.pdn.ac.lk", "Daily")
 
 # Use SL timezone
 os.environ['TZ'] = 'Asia/Colombo'
