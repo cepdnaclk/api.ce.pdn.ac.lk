@@ -8,7 +8,62 @@
     },
     "project_url": "https://projects.ce.pdn.ac.lk/co328/e15/Banking-Management-System/",
     "repo_url": "https://github.com/cepdnaclk/e15-co328-Banking-Management-System",
-    "page_url": "#",
+    "page_url": "https://cepdnaclk.github.io/e15-co328-Banking-Management-System",
     "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E15/Banking-Management-System/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+    "team": {
+        "E/15/265": {
+            "name": "U.L.R.R. Perera",
+            "email": "risithperera@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/RisithPerera",
+            "linkedin": "https://www.linkedin.com/in/risith/",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E15/265",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15265.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e15/265/"
+        },
+        "E/15/347": {
+            "name": "I.U. Sudasinghe",
+            "email": "isuru.sudasinghe@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/IsuruSudasinghe",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E15/347",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15347.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e15/347/"
+        },
+        "E/15/010": {
+            "name": "K.A.R.L. Alwis",
+            "email": "e15010@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/RuchikaAlwis",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E15/010",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15010.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e15/010/"
+        }
+    },
+    "supervisors": {
+        "alawatugoda@eng.pdn.ac.lk": {
+            "name": "Dr. Janaka Alawatugoda",
+            "email": "alawatugoda@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk//staff/academic/janaka-alawatugoda/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/alawatugoda",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/janaka-alawatugoda-53294034/",
+            "researchgate": "https://www.researchgate.net/profile/Janaka-Alawatugoda-2",
+            "google_scholar": "https://scholar.google.com/citations?user=TJWRzj4AAAAJ&hl=en"
+        }
+    },
+    "tags": [
+        "Java",
+        "MySQL",
+        "JavaFX",
+        "FXML",
+        "CSS"
+    ]
 }
