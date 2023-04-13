@@ -134,190 +134,226 @@
       }
     }
   },
-  "definitions" : {
-    "PublicationsAll" : {
-      "type" : "array",
-      "items" : {
-        "$ref" : "#/definitions/Publication"
+  "definitions": {
+    "PublicationsAll": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/Publication"
       }
     },
-    "StaffPublications" : {
-      "type" : "array",
-      "items" : {
-        "$ref" : "#/definitions/Publication"
+    "StaffPublications": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/Publication"
       }
     },
-    "StudentPublications" : {
-      "type" : "array",
-      "items" : {
-        "$ref" : "#/definitions/Publication"
+    "StudentPublications": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/Publication"
       }
     },
-    "TaggedPublications" : {
-      "type" : "array",
-      "items" : {
-        "$ref" : "#/definitions/Publication"
+    "TaggedPublications": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/Publication"
       }
     },
-    "ResearchGroupPublications" : {
-      "type" : "array",
-      "items" : {
-        "$ref" : "#/definitions/Publication"
-      }
-    },
-    "Author" : {
-      "type" : "object",
-      "properties" : {
-        "type" : {
-          "type" : "string",
-          "description" : "Either 'STUDENT' or 'STAFF'"
+    "Author": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string",
+          "description": "Either 'STUDENT' or 'STAFF'"
         },
-        "id" : {
-          "type" : "string",
-          "description" : "For students: E number, for staff: Username part of the EngEmail"
+        "id": {
+          "type": "string",
+          "description": "For students: E number, for staff: Username part of the EngEmail"
         },
-        "name" : {
-          "type" : "string",
-          "description" : "Name"
+        "name": {
+          "type": "string",
+          "description": "Name"
         },
-        "email" : {
-          "type" : "string",
-          "format" : "email",
-          "description" : "Email address"
+        "email": {
+          "type": "string",
+          "format": "email",
+          "description": "Email address"
         },
-        "profile_image" : {
-          "type" : "string",
-          "format" : "uri",
-          "description" : "Link to the profile image"
+        "profile_image": {
+          "type": "string",
+          "format": "uri",
+          "description": "Link to the profile image"
         },
-        "profile_url" : {
-          "type" : "string",
-          "format" : "uri",
-          "description" : "Link to the profile page"
+        "profile_url": {
+          "type": "string",
+          "format": "uri",
+          "description": "Link to the profile page"
         }
       },
-      "example" : {
-        "type" : "STUDENT",
-        "id" : "E/99/999",
-        "name" : "John Doe",
-        "email" : "e19999@eng.pdn.ac.lk",
-        "profile_image" : "https://people.ce.pdn.ac.lk/images/students/e99/e99999.jpg",
-        "profile_url" : "https://people.ce.pdn.ac.lk/students/e99/999/"
+      "example": {
+        "type": "STUDENT",
+        "id": "E/99/999",
+        "name": "John Doe",
+        "email": "e19999@eng.pdn.ac.lk",
+        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e99/e99999.jpg",
+        "profile_url": "https://people.ce.pdn.ac.lk/students/e99/999/"
       }
     },
-    "Publication" : {
-      "type" : "object",
-      "required" : [ "title", "venue", "year", "doi", "authors" ],
-      "properties" : {
-        "title" : {
-          "type" : "string",
-          "format" : "text"
+    "Publication": {
+      "type": "object",
+      "required": [
+        "authors",
+        "doi",
+        "title",
+        "venue",
+        "year"
+      ],
+      "properties": {
+        "title": {
+          "type": "string",
+          "format": "text"
         },
-        "venue" : {
-          "type" : "string",
-          "format" : "text"
+        "venue": {
+          "type": "string",
+          "format": "text"
         },
-        "year" : {
-          "type" : "number",
-          "format" : "int32",
-          "minimum" : 1900,
-          "maximum" : 2200
+        "year": {
+          "type": "number",
+          "format": "int32",
+          "minimum": 1900,
+          "maximum": 2200
         },
-        "abstract" : {
-          "type" : "string"
+        "abstract": {
+          "type": "string"
         },
-        "authors" : {
-          "type" : "array",
-          "items" : {
-            "type" : "string"
+        "authors": {
+          "type": "array",
+          "items": {
+            "type": "string"
           }
         },
-        "author_info" : {
-          "type" : "array",
-          "items" : {
-            "$ref" : "#/definitions/Author"
+        "author_info": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Author"
           }
         },
-        "doi" : {
-          "type" : "string",
-          "format" : "uri"
+        "doi": {
+          "type": "string",
+          "format": "uri"
         },
-        "preprint_url" : {
-          "type" : "string",
-          "format" : "uri"
+        "preprint_url": {
+          "type": "string",
+          "format": "uri"
         },
-        "pdf_url" : {
-          "type" : "string",
-          "format" : "uri"
+        "pdf_url": {
+          "type": "string",
+          "format": "uri"
         },
-        "presentation_url" : {
-          "type" : "string",
-          "format" : "uri"
+        "presentation_url": {
+          "type": "string",
+          "format": "uri"
         },
-        "project_url" : {
-          "type" : "string",
-          "format" : "uri"
+        "project_url": {
+          "type": "string",
+          "format": "uri"
         },
-        "codebase" : {
-          "type" : "string",
-          "format" : "uri"
+        "codebase": {
+          "type": "string",
+          "format": "uri"
         },
-        "research_groups" : {
-          "type" : "array",
-          "items" : {
-            "type" : "string"
+        "research_groups": {
+          "type": "array",
+          "items": {
+            "type": "string"
           }
         },
-        "tags" : {
-          "type" : "array",
-          "items" : {
-            "type" : "string"
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
           }
         },
-        "funding" : {
-          "type" : "string"
+        "funding": {
+          "type": "string"
         },
-        "api_url" : {
-          "type" : "string",
-          "format" : "uri"
+        "api_url": {
+          "type": "string",
+          "format": "uri"
         },
-        "submitted" : {
-          "type" : "string",
-          "format" : "date-time"
+        "submitted": {
+          "type": "string",
+          "format": "date-time"
         }
       },
-      "example" : {
-        "title" : "Sample Title of the Publication",
-        "venue" : "Journal of ABCD",
-        "year" : "2020",
-        "abstract" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt...",
-        "authors" : [ "John Doe", "Jane Doe" ],
-        "author_info" : [ {
-          "type" : "STUDENT",
-          "id" : "E/99/999",
-          "name" : "John Doe",
-          "email" : "e19999@eng.pdn.ac.lk",
-          "profile_image" : "https://people.ce.pdn.ac.lk/images/students/e99/e99999.jpg",
-          "profile_url" : "https://people.ce.pdn.ac.lk/students/e99/999/"
-        }, {
-          "type" : "STAFF",
-          "id" : "janedoe",
-          "name" : "Dr. Jane Doe",
-          "email" : "janedoe@eng.pdn.ac.lk",
-          "profile_image" : "https://people.ce.pdn.ac.lk/images/staff/academic-staff/jane-doe.jpg",
-          "profile_url" : "https://people.ce.pdn.ac.lk/staff/academic/jane-doe/"
-        } ],
-        "doi" : "https://doi.org/10.1109/some.label/",
-        "preprint_url" : "https://arxiv.org/pdf/some_number.pdf",
-        "pdf_url" : "https://journal.com/paper-title/paper.pdf",
-        "presentation_url" : "https://example.com/presentation.pdf",
-        "project_url" : "https://projects.ce.pdn.ac.lk/category/title/",
-        "codebase" : "https://github.com/UserName/some-repository/",
-        "research_groups" : [ "Computer Vision", "Computational BioEngineering" ],
-        "tags" : [ "Tag A", "Tag B" ],
-        "funding" : "ABCD grant to Jane Doe from XYZ research fund (ID: 1234-G-45)",
-        "api_url" : "http://api.ce.pdn.ac.lk/publications/v1/10.1109/some.label/",
-        "submitted" : "2020/01/01 01:10:35"
+      "example": {
+        "title": "Sample Title of the Publication",
+        "venue": "Journal of ABCD",
+        "year": "2020",
+        "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt...",
+        "authors": [
+          "John Doe",
+          "Jane Doe"
+        ],
+        "author_info": [
+          {
+            "type": "STUDENT",
+            "id": "E/99/999",
+            "name": "John Doe",
+            "email": "e19999@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e99/e99999.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e99/999/"
+          },
+          {
+            "type": "STAFF",
+            "id": "janedoe",
+            "name": "Dr. Jane Doe",
+            "email": "janedoe@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/jane-doe.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/jane-doe/"
+          }
+        ],
+        "doi": "https://doi.org/10.1109/some.label/",
+        "preprint_url": "https://arxiv.org/pdf/some_number.pdf",
+        "pdf_url": "https://journal.com/paper-title/paper.pdf",
+        "presentation_url": "https://example.com/presentation.pdf",
+        "project_url": "https://projects.ce.pdn.ac.lk/category/title/",
+        "codebase": "https://github.com/UserName/some-repository/",
+        "research_groups": [
+          "Computer Vision",
+          "Computational BioEngineering"
+        ],
+        "tags": [
+          "Tag A",
+          "Tag B"
+        ],
+        "funding": "ABCD grant to Jane Doe from XYZ research fund (ID: 1234-G-45)",
+        "api_url": "http://api.ce.pdn.ac.lk/publications/v1/10.1109/some.label/",
+        "submitted": "2020/01/01 01:10:35"
+      }
+    },
+    "inline_response_200": {
+      "type": "object",
+      "properties": {
+        "janedoe@eng.pdn.ac.lk": {
+          "$ref": "#/definitions/StaffPublications"
+        }
+      }
+    },
+    "inline_response_200_1": {
+      "type": "object",
+      "properties": {
+        "E/99/999": {
+          "$ref": "#/definitions/StudentPublications"
+        }
+      }
+    },
+    "inline_response_200_2": {
+      "type": "object",
+      "properties": {
+        "Tag A": {
+          "$ref": "#/definitions/TaggedPublications"
+        }
       }
     }
   },
