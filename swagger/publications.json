@@ -242,6 +242,9 @@
           "type": "string",
           "format": "uri"
         },
+        "is_dept_affiliated": {
+          "type": "boolean"
+        },
         "preprint_url": {
           "type": "string",
           "format": "uri"
@@ -314,6 +317,7 @@
           }
         ],
         "doi": "https://doi.org/10.1109/some.label/",
+        "is_dept_affiliated": true,
         "preprint_url": "https://arxiv.org/pdf/some_number.pdf",
         "pdf_url": "https://journal.com/paper-title/paper.pdf",
         "presentation_url": "https://example.com/presentation.pdf",
