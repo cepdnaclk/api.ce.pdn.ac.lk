@@ -48,7 +48,7 @@ def get_id_from_doi(doi):
     doi_id = doi.replace("http://", "").replace("https://", "")
     doi_id = doi_id.replace("doi.org/", "")
     doi_id = doi_id.replace("doi:", "")
-    return doi_id
+    return doi_id.strip()
 
 # Write individual files for each publication
 
@@ -95,8 +95,9 @@ FUNDING = 14
 PDF = 15
 BIB = 16
 PROJECT_URL = 17
+DEPT_AFFILIATION = 18
 
-FIELD_COUNT = 18
+FIELD_COUNT = 19
 
 
 # print(json.dumps(pub_raw[0].replace('\r', '').split("\t"), indent = 4))
@@ -109,6 +110,8 @@ for line in pub_raw[1:]:
     if (len(pub_raw_data) != FIELD_COUNT):
         print("Not supported: (", len(pub_raw_data), ')')
         continue
+
+    dept_affiliation = True if pub_raw_data[DEPT_AFFILIATION] else False
 
     submitted_on = datetime.strptime(
         pub_raw_data[TIMESTAMP], '%m/%d/%Y %H:%M:%S')
@@ -153,6 +156,7 @@ for line in pub_raw[1:]:
         # "author_ids": author_ids,
         "author_info": author_info,
         "doi": pub_raw_data[DOI],
+        "is_dept_affiliated": dept_affiliation,
         "preprint_url": pub_raw_data[PREPRINT] or "#",
         "pdf_url": pub_raw_data[PDF] or "#",
         "presentation_url": pub_raw_data[PRESENTATION] or "#",

@@ -10,6 +10,9 @@ import requests
 import json
 import os
 import shutil
+from notifications import Notifications
+
+notify = Notifications("api.ce.pdn.ac.lk", "Daily")
 
 # Where the API is available
 apiBase = "http://api.ce.pdn.ac.lk"
@@ -33,6 +36,8 @@ enable_deep_scan = True
 DEFAULT_PROFILE_IMAGE = "https://people.ce.pdn.ac.lk/images/students/default.jpg"
 
 # Delete the existing files first
+
+
 def del_old_files():
     dir_path = "../projects/v1/"
     try:
@@ -40,16 +45,19 @@ def del_old_files():
     except:
         print("Error: Folder Not Found!")
 
+
 def project_key(title):
     return title.replace(' ', '-')
 
 # Pre-process the team data
+
+
 def process_team(data):
     team = {}
 
     for person in data:
 
-        if( person['eNumber'] == "E/yy/xxx"):
+        if (person['eNumber'] == "E/yy/xxx"):
             # Considered as not configured
             continue
 
@@ -60,7 +68,8 @@ def process_team(data):
         linkedin = person['linkedin_profile'] if 'linkedin_profile' in person else "#"
         researchgate = person['researchgate_profile'] if 'researchgate_profile' in person else "#"
         website = person['website'] if 'website' in person else "#"
-        profile_api = apiBase + "/people/v1/students/" + eNumber.replace("E/", "E")
+        profile_api = apiBase + "/people/v1/students/" + \
+            eNumber.replace("E/", "E")
 
         if eNumber in students:
             # Check with the details available in the student API
@@ -72,12 +81,13 @@ def process_team(data):
                 personal_email = person_from_api['emails']['personal']
 
                 if faculty_email['name'] != "":
-                    api_email = faculty_email['name'] + '@' + faculty_email['domain']
+                    api_email = faculty_email['name'] + \
+                        '@' + faculty_email['domain']
                 elif personal_email['name'] != "":
-                    api_email = personal_email['name'] + '@' + personal_email['domain']
+                    api_email = personal_email['name'] + \
+                        '@' + personal_email['domain']
                 else:
                     api_email = '#'
-
 
             # If student API has information, replace the relevent parameter with it
             # (assume the API has the latest info)
@@ -104,21 +114,23 @@ def process_team(data):
             profile_image = DEFAULT_PROFILE_IMAGE
 
         team[eNumber] = {
-            'name':name, 'email':email, 'website':website,
-            'github':github, 'linkedin':linkedin,
-            'researchgate':researchgate, 'api_url':profile_api,
-            'profile_image':profile_image , 'profile_url':profile_url
+            'name': name, 'email': email, 'website': website,
+            'github': github, 'linkedin': linkedin,
+            'researchgate': researchgate, 'api_url': profile_api,
+            'profile_image': profile_image, 'profile_url': profile_url
         }
 
     return team
 
 # Pre-process the supervisor data
+
+
 def process_supervisors(data):
     # TODO: Process, validate, and add missing data from people APIs
     supervisors = {}
 
     for person in data:
-        if( person['email'] == "email@eng.pdn.ac.lk"):
+        if (person['email'] == "email@eng.pdn.ac.lk"):
             # Not configured
             continue
 
@@ -129,7 +141,8 @@ def process_supervisors(data):
             details = staff[email_id]
 
             # TODO: Need a better way than this
-            api_url = apiBase + "/people/v1/staff/" + email_id if details['designation'] != "Visiting Research Fellow" else "#"
+            api_url = apiBase + "/people/v1/staff/" + \
+                email_id if details['designation'] != "Visiting Research Fellow" else "#"
 
             supervisors[person['email']] = {
                 'name': details['name'],
@@ -159,18 +172,22 @@ def process_supervisors(data):
     return supervisors
 
 # Pre-process the tag data
+
+
 def process_tags(data):
     # TODO: Process, validate and return
     return data
+
 
 def process_publications(data):
     # TODO: process & validate
     pub = []
     for publication in data:
-        if publication['title']!="Paper Title" and publication['url']!='#':
+        if publication['title'] != "Paper Title" and publication['url'] != '#':
             pub.append(publication)
 
     return pub
+
 
 def project_details(page_url):
     data = {}
@@ -179,7 +196,7 @@ def project_details(page_url):
         url = page_url + "/data/index.json"
         r = requests.get(url)
 
-        if r.status_code==200:
+        if r.status_code == 200:
             # it is available
             try:
                 proj_config = json.loads(r.text)
@@ -192,14 +209,16 @@ def project_details(page_url):
 
                 try:
                     if 'supervisors' in proj_config:
-                        data['supervisors'] = process_supervisors(proj_config['supervisors'])
+                        data['supervisors'] = process_supervisors(
+                            proj_config['supervisors'])
                 except Exception as e:
                     print('parse failed, supervisors; ' + url, e)
 
                 try:
                     if 'publications' in proj_config:
-                        publications = process_publications(proj_config['publications'])
-                        if len(publications)>0:
+                        publications = process_publications(
+                            proj_config['publications'])
+                        if len(publications) > 0:
                             data['publications'] = publications
                 except Exception as e:
                     print('parse failed, publications; ' + url, e)
@@ -207,45 +226,51 @@ def project_details(page_url):
                 try:
                     if 'tags' in proj_config:
                         tags = process_tags(proj_config['tags'])
-                        if len(tags)>0:
+                        if len(tags) > 0:
                             data['tags'] = tags
                 except Exception as e:
                     print('parse failed, tags; ' + url, e)
 
                 # TODO: Add remaining parameters
             except:
-                print('parse failed; ' +  url)
+                print('parse failed; ' + url)
     except:
-        print('load failed; ' +  url)
+        print('load failed; ' + url)
 
     return data
 
 # Write the /projects/v1/all/index.json
+
+
 def write_all(all_projects):
     filename = "../projects/v1/all/index.json"
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, "w") as f:
-        f.write(json.dumps(all_projects, indent = 4))
+        f.write(json.dumps(all_projects, indent=4))
 
 # Write the /projects/v1/index.json
+
+
 def write_index(category_index, categories):
     filename = "../projects/v1/index.json"
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, "w") as f:
-        f.write(json.dumps(category_index, indent = 4))
+        f.write(json.dumps(category_index, indent=4))
 
 # Write the /projects/v1/{category}/index.json files
+
+
 def write_categories(categories):
     for cat in categories:
-        cat_name =  title_to_code[cat]
+        cat_name = title_to_code[cat]
         data = {}
         sorted_data = {}
 
         # Generate the project list
         for batch in categories[cat]:
-            url =  '{0}/projects/v1/{1}/{2}/'.format(apiBase,cat_name,batch)
+            url = '{0}/projects/v1/{1}/{2}/'.format(apiBase, cat_name, batch)
             proj_count = len(categories[cat][batch].keys())
-            data[batch] = { 'api_url': url, 'project_count': proj_count }
+            data[batch] = {'api_url': url, 'project_count': proj_count}
 
         # Sort the projects in alphabatical order
         for key in sorted(data):
@@ -257,21 +282,23 @@ def write_categories(categories):
         type = category_index[cat_name]['type']
 
         output = {
-            'code': code, 'title':title, 'description':description,
+            'code': code, 'title': title, 'description': description,
             'thumb': 'https://projects.ce.pdn.ac.lk/data/categories/{0}/thumbnail.jpg'.format(code),
-            'type':type, 'batches': sorted_data
+            'type': type, 'batches': sorted_data
         }
 
         filename = "../projects/v1/{0}/index.json".format(cat_name)
         os.makedirs(os.path.dirname(filename), exist_ok=True)
         with open(filename, "w") as f:
-            f.write(json.dumps(output, indent = 4))
+            f.write(json.dumps(output, indent=4))
 
 # Write the /projects/v1/{category}/{batch}/index.json files
+
+
 def write_batches(categories):
     # For each category
     for cat in categories:
-        cat_name =  title_to_code[cat]
+        cat_name = title_to_code[cat]
 
         # For each batch
         for batch in categories[cat]:
@@ -285,33 +312,38 @@ def write_batches(categories):
                 category_code = title_to_code[project['category']]
                 proj_name = project_key(project['title'])
 
-                api_url =  '{0}/projects/v1/{1}/{2}/{3}/'.format(apiBase,cat_name,batch,proj_name)
-                category_api_url = '{0}/projects/v1/{1}/'.format(apiBase,cat_name)
+                api_url = '{0}/projects/v1/{1}/{2}/{3}/'.format(
+                    apiBase, cat_name, batch, proj_name)
+                category_api_url = '{0}/projects/v1/{1}/'.format(
+                    apiBase, cat_name)
 
                 data[proj] = {
-                        'title': project['title'],
-                        'description': project['description'],
-                        'category': {
-                            'title': project['category'],
-                            'code': category_code,
-                            'api_url': category_api_url
-                        },
-                        'project_url': project['project_url'],
-                        'repo_url': project['repo_url'],
-                        'page_url': project['page_url'],
-                        'api_url': api_url,
+                    'title': project['title'],
+                    'description': project['description'],
+                    'category': {
+                        'title': project['category'],
+                        'code': category_code,
+                        'api_url': category_api_url
+                    },
+                    'project_url': project['project_url'],
+                    'repo_url': project['repo_url'],
+                    'page_url': project['page_url'],
+                    'api_url': api_url,
                 }
 
             # Sort by the project name
             for key in sorted(data):
                 sorted_data[key] = data[key]
 
-            filename = "../projects/v1/{0}/{1}/index.json".format(cat_name,batch)
+            filename = "../projects/v1/{0}/{1}/index.json".format(
+                cat_name, batch)
             os.makedirs(os.path.dirname(filename), exist_ok=True)
             with open(filename, "w") as f:
-                f.write(json.dumps(sorted_data, indent = 4))
+                f.write(json.dumps(sorted_data, indent=4))
 
 # Write the /projects/v1/{category}/{batch}/{project}/index.json files
+
+
 def write_projects(categories):
     all = {}
     for cat in categories:
@@ -329,8 +361,9 @@ def write_projects(categories):
 
                 proj_name = project_key(raw_data['title'])
                 cat_code = title_to_code[raw_data['category']]
-                cat_api_url ='{0}/projects/v1/{1}/'.format(apiBase,cat_code)
-                api_url = '{0}/projects/v1/{1}/{2}/{3}/'.format(apiBase,cat_code,batch,proj_name)
+                cat_api_url = '{0}/projects/v1/{1}/'.format(apiBase, cat_code)
+                api_url = '{0}/projects/v1/{1}/{2}/{3}/'.format(
+                    apiBase, cat_code, batch, proj_name)
                 data = {
                     'title': raw_data['title'],
                     'description': raw_data['description'],
@@ -346,7 +379,7 @@ def write_projects(categories):
                     'thumbnail_url': raw_data['thumbnail_url']
                 }
 
-                if(enable_deep_scan and data['page_url'] != "#"):
+                if (enable_deep_scan and data['page_url'] != "#"):
                     # Load proj configuration details from the GitHub pages
                     additionalData = project_details(data['page_url'])
                     for details in additionalData:
@@ -355,10 +388,11 @@ def write_projects(categories):
                     # print(json.dumps(data, indent = 4))
                     # return
 
-                filename = "../projects/v1/{0}/{1}/{2}/index.json".format(cat_code,batch,proj_name)
+                filename = "../projects/v1/{0}/{1}/{2}/index.json".format(
+                    cat_code, batch, proj_name)
                 os.makedirs(os.path.dirname(filename), exist_ok=True)
                 with open(filename, "w") as f:
-                    f.write(json.dumps(data, indent = 4))
+                    f.write(json.dumps(data, indent=4))
 
                 all[project] = data
 
@@ -367,12 +401,13 @@ def write_projects(categories):
 
 # ------------------------------------------------------------------------------
 
+
 # Delete the existing files first
 del_old_files()
 
 category_index = {}
 categories = {}
-title_to_code = {} #  translate title to category code
+title_to_code = {}  # translate title to category code
 students = {}
 
 # Gather Student API data
@@ -385,7 +420,7 @@ staff = json.load(staff_file)
 
 # Fetch category data from the projects.ce.pdn.ac.lk
 req_category = requests.get(apiSource + "categories/")
-if req_category.status_code==200:
+if req_category.status_code == 200:
     category_data = json.loads(req_category.text)
 
     for category in category_data:
@@ -395,18 +430,18 @@ if req_category.status_code==200:
         description = category['description']
 
         page = category['page_url']
-        api ='{0}/projects/v1/{1}/'.format(apiBase,code)
+        api = '{0}/projects/v1/{1}/'.format(apiBase, code)
 
         category_index[code] = {
-            'code':code, 'title':title, 'description':description,
-            'type':type,'page_url':page, 'api_url':api
+            'code': code, 'title': title, 'description': description,
+            'type': type, 'page_url': page, 'api_url': api
         }
         title_to_code[title] = code
 
 
 # Fetch project data from the projects.ce.pdn.ac.lk
 req_projects = requests.get(apiSource + "all/")
-if req_projects.status_code==200:
+if req_projects.status_code == 200:
     data = json.loads(req_projects.text)
 
     for project in data:
@@ -415,28 +450,30 @@ if req_projects.status_code==200:
         title = project['repo_url'].replace(repoSource, "")
 
         # Create dictionary keys if not exists
-        if category not in categories: categories[category] = {}
-        if batch not in categories[category]: categories[category][batch] = {}
+        if category not in categories:
+            categories[category] = {}
+        if batch not in categories[category]:
+            categories[category][batch] = {}
 
         categories[category][batch][title] = project
 
 
 # Write the index file for the projects, including all the projects
-print("Generating the index");
+print("Generating the index")
 write_index(category_index, categories)
 
 # Create files for categories
-print("Generating the categories");
+print("Generating the categories")
 write_categories(categories)
 
 # Create files for category/batch
-print("Generating the batches");
+print("Generating the batches")
 write_batches(categories)
 
 # Create files for each project
-print("Generating the projects");
+print("Generating the projects")
 all_data = write_projects(categories)
 
 # Write all the project details into one file
-print("Generating the all projects file");
+print("Generating the all projects file")
 write_all(all_data)
