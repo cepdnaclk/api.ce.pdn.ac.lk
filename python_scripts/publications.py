@@ -148,9 +148,9 @@ for line in pub_raw[1:]:
         apiBase, get_id_from_doi(pub_raw_data[DOI]))
 
     pub_data = {
-        "title": pub_raw_data[TITLE],
-        "venue": pub_raw_data[VENUE],
-        "year": pub_raw_data[YEAR],
+        "title": pub_raw_data[TITLE].strip(),
+        "venue": pub_raw_data[VENUE].strip(),
+        "year": pub_raw_data[YEAR].strip(),
         "abstract": pub_raw_data[ABSTRACT],
         "authors": authors,
         # "author_ids": author_ids,
