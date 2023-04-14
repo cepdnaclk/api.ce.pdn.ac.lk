@@ -5330,7 +5330,7 @@
     ],
     "Data mining": [
         {
-            "title": " Identifying the optimal set of attributes that impose high impact on the end results of a cricket match using machine learning",
+            "title": "Identifying the optimal set of attributes that impose high impact on the end results of a cricket match using machine learning",
             "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
             "year": "2017",
             "abstract": "Indian Premier League (IPL) is a franchise system based, annual cricket tournament. IPL deals with millions of dollars. The amount of money spent on the IPL teams imposes high pressure on owners to search victories, which depends on team performance. Essentially, it is critical to find the right set of metrics that would lead to assemble a team with the highest chance of winning. This study attempts to identify the optimal set of attributes, which impose the high impact on the results of a cricket match. Determining an optimal set of attributes will help team owners to look for players with these attributes to form a team by which they can enhance the winnability of a cricket team. Several efforts have already been taken to address this problem without much success. Most of the existing works focused on identifying different performance metrics based on their domain knowledge of cricket. The proposed solution relies on statistical analysis and machine learning while minimizing the use of domain knowledge. Ball by ball data for all past IPL matches were collected, aggregated to innings level details for the analysis and the problem is modeled as a classification problem. The data set contained a set of features based on the innings level data and win/lose/draw class labels. Different machine learning algorithms were employed, and Support Vector Machine (SVM) achieved the best accuracy in the evaluation. Then, we examined all possible feature combinations using SVM by using separate training and testing sets. Finally, the attribute set that yields the highest accuracy in the evaluation is identified, which will be the optimal set of attributes that impose the high impact on the end results of a cricket match.",
@@ -8488,7 +8488,7 @@
     ],
     "Games": [
         {
-            "title": " Identifying the optimal set of attributes that impose high impact on the end results of a cricket match using machine learning",
+            "title": "Identifying the optimal set of attributes that impose high impact on the end results of a cricket match using machine learning",
             "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
             "year": "2017",
             "abstract": "Indian Premier League (IPL) is a franchise system based, annual cricket tournament. IPL deals with millions of dollars. The amount of money spent on the IPL teams imposes high pressure on owners to search victories, which depends on team performance. Essentially, it is critical to find the right set of metrics that would lead to assemble a team with the highest chance of winning. This study attempts to identify the optimal set of attributes, which impose the high impact on the results of a cricket match. Determining an optimal set of attributes will help team owners to look for players with these attributes to form a team by which they can enhance the winnability of a cricket team. Several efforts have already been taken to address this problem without much success. Most of the existing works focused on identifying different performance metrics based on their domain knowledge of cricket. The proposed solution relies on statistical analysis and machine learning while minimizing the use of domain knowledge. Ball by ball data for all past IPL matches were collected, aggregated to innings level details for the analysis and the problem is modeled as a classification problem. The data set contained a set of features based on the innings level data and win/lose/draw class labels. Different machine learning algorithms were employed, and Support Vector Machine (SVM) achieved the best accuracy in the evaluation. Then, we examined all possible feature combinations using SVM by using separate training and testing sets. Finally, the attribute set that yields the highest accuracy in the evaluation is identified, which will be the optimal set of attributes that impose the high impact on the end results of a cricket match.",
@@ -10222,6 +10222,45 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185206/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185206/index.json"
+        },
+        {
+            "title": "IMPRES: integrated monitoring for processor reliability and security",
+            "venue": "Proceedings of the 43rd annual Design Automation Conference",
+            "year": "2006",
+            "abstract": "Security and reliability in processor based systems are concernsrequiring adroit solutions.Securityis often compromised by code injection attacks, jeopardizing even `trusted software'.Reliabilityis of concern where unintended code is executed in modern processors with ever smaller feature sizes and low voltage swings causing bit flips. Countermeasures by software-only approaches increasecodesize by large amounts and therefore significantly reduce performance. Hardware assisted approaches add extensive amountsofhardware monitors and thus incur unacceptably highhardware cost. This paper presents a novel hardware/softwaretechniqueat the granularity of micro-instructions to reduce overheads considerably. Experiments show thatour technique incurs an additional hardware overhead of 0.91% and clock period increase of 0.06%. Average clock cycle and code size overheads are just 11.9% and 10.6% forfive industrystandard application benchmarks. These overheads are far smaller than have been previously encountered.",
+            "authors": [
+                "Roshan G Ragel",
+                "Sri Parameswaran"
+            ],
+            "author_cards": [
+                {
+                    "name": "Roshan G Ragel",
+                    "profile": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/",
+                    "type": "STAFF"
+                },
+                {
+                    "name": "Sri Parameswaran",
+                    "profile": "#",
+                    "type": "OUTSIDER"
+                }
+            ],
+            "doi": "https://doi.org/10.1145/1146909.1147041",
+            "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/261279320_IMPRES_integrated_monitoring_for_processor_reliability_and_security/links/5738bc7708ae9f741b2bd424/IMPRES-integrated-monitoring-for-processor-reliability-and-security.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Hardware",
+                "Hardware test",
+                "Robustness"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1145/1146909.1147041/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1145/1146909.1147041/index.json"
         }
     ],
     "Hardware design languages": [
@@ -10292,6 +10331,47 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon.2019.8818883/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon.2019.8818883/index.json"
+        }
+    ],
+    "Hardware test": [
+        {
+            "title": "IMPRES: integrated monitoring for processor reliability and security",
+            "venue": "Proceedings of the 43rd annual Design Automation Conference",
+            "year": "2006",
+            "abstract": "Security and reliability in processor based systems are concernsrequiring adroit solutions.Securityis often compromised by code injection attacks, jeopardizing even `trusted software'.Reliabilityis of concern where unintended code is executed in modern processors with ever smaller feature sizes and low voltage swings causing bit flips. Countermeasures by software-only approaches increasecodesize by large amounts and therefore significantly reduce performance. Hardware assisted approaches add extensive amountsofhardware monitors and thus incur unacceptably highhardware cost. This paper presents a novel hardware/softwaretechniqueat the granularity of micro-instructions to reduce overheads considerably. Experiments show thatour technique incurs an additional hardware overhead of 0.91% and clock period increase of 0.06%. Average clock cycle and code size overheads are just 11.9% and 10.6% forfive industrystandard application benchmarks. These overheads are far smaller than have been previously encountered.",
+            "authors": [
+                "Roshan G Ragel",
+                "Sri Parameswaran"
+            ],
+            "author_cards": [
+                {
+                    "name": "Roshan G Ragel",
+                    "profile": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/",
+                    "type": "STAFF"
+                },
+                {
+                    "name": "Sri Parameswaran",
+                    "profile": "#",
+                    "type": "OUTSIDER"
+                }
+            ],
+            "doi": "https://doi.org/10.1145/1146909.1147041",
+            "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/261279320_IMPRES_integrated_monitoring_for_processor_reliability_and_security/links/5738bc7708ae9f741b2bd424/IMPRES-integrated-monitoring-for-processor-reliability-and-security.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Hardware",
+                "Hardware test",
+                "Robustness"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1145/1146909.1147041/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1145/1146909.1147041/index.json"
         }
     ],
     "Hardware validation": [
@@ -13859,7 +13939,7 @@
     ],
     "Measurement": [
         {
-            "title": " Identifying the optimal set of attributes that impose high impact on the end results of a cricket match using machine learning",
+            "title": "Identifying the optimal set of attributes that impose high impact on the end results of a cricket match using machine learning",
             "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
             "year": "2017",
             "abstract": "Indian Premier League (IPL) is a franchise system based, annual cricket tournament. IPL deals with millions of dollars. The amount of money spent on the IPL teams imposes high pressure on owners to search victories, which depends on team performance. Essentially, it is critical to find the right set of metrics that would lead to assemble a team with the highest chance of winning. This study attempts to identify the optimal set of attributes, which impose the high impact on the results of a cricket match. Determining an optimal set of attributes will help team owners to look for players with these attributes to form a team by which they can enhance the winnability of a cricket team. Several efforts have already been taken to address this problem without much success. Most of the existing works focused on identifying different performance metrics based on their domain knowledge of cricket. The proposed solution relies on statistical analysis and machine learning while minimizing the use of domain knowledge. Ball by ball data for all past IPL matches were collected, aggregated to innings level details for the analysis and the problem is modeled as a classification problem. The data set contained a set of features based on the innings level data and win/lose/draw class labels. Different machine learning algorithms were employed, and Support Vector Machine (SVM) achieved the best accuracy in the evaluation. Then, we examined all possible feature combinations using SVM by using separate training and testing sets. Finally, the attribute set that yields the highest accuracy in the evaluation is identified, which will be the optimal set of attributes that impose the high impact on the end results of a cricket match.",
@@ -19263,7 +19343,7 @@
     ],
     "Relational databases": [
         {
-            "title": " Identifying the optimal set of attributes that impose high impact on the end results of a cricket match using machine learning",
+            "title": "Identifying the optimal set of attributes that impose high impact on the end results of a cricket match using machine learning",
             "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
             "year": "2017",
             "abstract": "Indian Premier League (IPL) is a franchise system based, annual cricket tournament. IPL deals with millions of dollars. The amount of money spent on the IPL teams imposes high pressure on owners to search victories, which depends on team performance. Essentially, it is critical to find the right set of metrics that would lead to assemble a team with the highest chance of winning. This study attempts to identify the optimal set of attributes, which impose the high impact on the results of a cricket match. Determining an optimal set of attributes will help team owners to look for players with these attributes to form a team by which they can enhance the winnability of a cricket team. Several efforts have already been taken to address this problem without much success. Most of the existing works focused on identifying different performance metrics based on their domain knowledge of cricket. The proposed solution relies on statistical analysis and machine learning while minimizing the use of domain knowledge. Ball by ball data for all past IPL matches were collected, aggregated to innings level details for the analysis and the problem is modeled as a classification problem. The data set contained a set of features based on the innings level data and win/lose/draw class labels. Different machine learning algorithms were employed, and Support Vector Machine (SVM) achieved the best accuracy in the evaluation. Then, we examined all possible feature combinations using SVM by using separate training and testing sets. Finally, the attribute set that yields the highest accuracy in the evaluation is identified, which will be the optimal set of attributes that impose the high impact on the end results of a cricket match.",
@@ -19761,6 +19841,47 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2010.5715686/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2010.5715686/index.json"
+        }
+    ],
+    "Robustness": [
+        {
+            "title": "IMPRES: integrated monitoring for processor reliability and security",
+            "venue": "Proceedings of the 43rd annual Design Automation Conference",
+            "year": "2006",
+            "abstract": "Security and reliability in processor based systems are concernsrequiring adroit solutions.Securityis often compromised by code injection attacks, jeopardizing even `trusted software'.Reliabilityis of concern where unintended code is executed in modern processors with ever smaller feature sizes and low voltage swings causing bit flips. Countermeasures by software-only approaches increasecodesize by large amounts and therefore significantly reduce performance. Hardware assisted approaches add extensive amountsofhardware monitors and thus incur unacceptably highhardware cost. This paper presents a novel hardware/softwaretechniqueat the granularity of micro-instructions to reduce overheads considerably. Experiments show thatour technique incurs an additional hardware overhead of 0.91% and clock period increase of 0.06%. Average clock cycle and code size overheads are just 11.9% and 10.6% forfive industrystandard application benchmarks. These overheads are far smaller than have been previously encountered.",
+            "authors": [
+                "Roshan G Ragel",
+                "Sri Parameswaran"
+            ],
+            "author_cards": [
+                {
+                    "name": "Roshan G Ragel",
+                    "profile": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/",
+                    "type": "STAFF"
+                },
+                {
+                    "name": "Sri Parameswaran",
+                    "profile": "#",
+                    "type": "OUTSIDER"
+                }
+            ],
+            "doi": "https://doi.org/10.1145/1146909.1147041",
+            "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/261279320_IMPRES_integrated_monitoring_for_processor_reliability_and_security/links/5738bc7708ae9f741b2bd424/IMPRES-integrated-monitoring-for-processor-reliability-and-security.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Hardware",
+                "Hardware test",
+                "Robustness"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1145/1146909.1147041/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1145/1146909.1147041/index.json"
         }
     ],
     "Runtime": [
@@ -22363,7 +22484,7 @@
     ],
     "Sports equipment": [
         {
-            "title": " Identifying the optimal set of attributes that impose high impact on the end results of a cricket match using machine learning",
+            "title": "Identifying the optimal set of attributes that impose high impact on the end results of a cricket match using machine learning",
             "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
             "year": "2017",
             "abstract": "Indian Premier League (IPL) is a franchise system based, annual cricket tournament. IPL deals with millions of dollars. The amount of money spent on the IPL teams imposes high pressure on owners to search victories, which depends on team performance. Essentially, it is critical to find the right set of metrics that would lead to assemble a team with the highest chance of winning. This study attempts to identify the optimal set of attributes, which impose the high impact on the results of a cricket match. Determining an optimal set of attributes will help team owners to look for players with these attributes to form a team by which they can enhance the winnability of a cricket team. Several efforts have already been taken to address this problem without much success. Most of the existing works focused on identifying different performance metrics based on their domain knowledge of cricket. The proposed solution relies on statistical analysis and machine learning while minimizing the use of domain knowledge. Ball by ball data for all past IPL matches were collected, aggregated to innings level details for the analysis and the problem is modeled as a classification problem. The data set contained a set of features based on the innings level data and win/lose/draw class labels. Different machine learning algorithms were employed, and Support Vector Machine (SVM) achieved the best accuracy in the evaluation. Then, we examined all possible feature combinations using SVM by using separate training and testing sets. Finally, the attribute set that yields the highest accuracy in the evaluation is identified, which will be the optimal set of attributes that impose the high impact on the end results of a cricket match.",
@@ -22612,7 +22733,7 @@
     ],
     "Statistical analysis": [
         {
-            "title": " Identifying the optimal set of attributes that impose high impact on the end results of a cricket match using machine learning",
+            "title": "Identifying the optimal set of attributes that impose high impact on the end results of a cricket match using machine learning",
             "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
             "year": "2017",
             "abstract": "Indian Premier League (IPL) is a franchise system based, annual cricket tournament. IPL deals with millions of dollars. The amount of money spent on the IPL teams imposes high pressure on owners to search victories, which depends on team performance. Essentially, it is critical to find the right set of metrics that would lead to assemble a team with the highest chance of winning. This study attempts to identify the optimal set of attributes, which impose the high impact on the results of a cricket match. Determining an optimal set of attributes will help team owners to look for players with these attributes to form a team by which they can enhance the winnability of a cricket team. Several efforts have already been taken to address this problem without much success. Most of the existing works focused on identifying different performance metrics based on their domain knowledge of cricket. The proposed solution relies on statistical analysis and machine learning while minimizing the use of domain knowledge. Ball by ball data for all past IPL matches were collected, aggregated to innings level details for the analysis and the problem is modeled as a classification problem. The data set contained a set of features based on the innings level data and win/lose/draw class labels. Different machine learning algorithms were employed, and Support Vector Machine (SVM) achieved the best accuracy in the evaluation. Then, we examined all possible feature combinations using SVM by using separate training and testing sets. Finally, the attribute set that yields the highest accuracy in the evaluation is identified, which will be the optimal set of attributes that impose the high impact on the end results of a cricket match.",
@@ -22907,7 +23028,7 @@
     ],
     "Support vector machines": [
         {
-            "title": " Identifying the optimal set of attributes that impose high impact on the end results of a cricket match using machine learning",
+            "title": "Identifying the optimal set of attributes that impose high impact on the end results of a cricket match using machine learning",
             "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
             "year": "2017",
             "abstract": "Indian Premier League (IPL) is a franchise system based, annual cricket tournament. IPL deals with millions of dollars. The amount of money spent on the IPL teams imposes high pressure on owners to search victories, which depends on team performance. Essentially, it is critical to find the right set of metrics that would lead to assemble a team with the highest chance of winning. This study attempts to identify the optimal set of attributes, which impose the high impact on the results of a cricket match. Determining an optimal set of attributes will help team owners to look for players with these attributes to form a team by which they can enhance the winnability of a cricket team. Several efforts have already been taken to address this problem without much success. Most of the existing works focused on identifying different performance metrics based on their domain knowledge of cricket. The proposed solution relies on statistical analysis and machine learning while minimizing the use of domain knowledge. Ball by ball data for all past IPL matches were collected, aggregated to innings level details for the analysis and the problem is modeled as a classification problem. The data set contained a set of features based on the innings level data and win/lose/draw class labels. Different machine learning algorithms were employed, and Support Vector Machine (SVM) achieved the best accuracy in the evaluation. Then, we examined all possible feature combinations using SVM by using separate training and testing sets. Finally, the attribute set that yields the highest accuracy in the evaluation is identified, which will be the optimal set of attributes that impose the high impact on the end results of a cricket match.",
