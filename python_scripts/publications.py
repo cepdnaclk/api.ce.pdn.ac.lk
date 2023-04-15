@@ -111,7 +111,7 @@ for line in pub_raw[1:]:
         print("Not supported: (", len(pub_raw_data), ')')
         continue
 
-    dept_affiliation = True if pub_raw_data[DEPT_AFFILIATION] else False
+    dept_affiliation = True if pub_raw_data[DEPT_AFFILIATION]=="Yes" else False
 
     submitted_on = datetime.strptime(
         pub_raw_data[TIMESTAMP], '%m/%d/%Y %H:%M:%S')
