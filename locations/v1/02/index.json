@@ -3,22 +3,26 @@
     "locations": [
         {
             "floor": "02",
-            "id": "FLOOR",
-            "label": "CE-02-FLOOR",
-            "title": "Second Floor",
+            "id": "00",
+            "label": "CE-02-00",
+            "title": "Hardware & Computer Interfacing Lab",
             "contact": {
                 "tele": "",
                 "email": "",
                 "name": "",
                 "link": ""
             },
-            "capacity": "N/A",
+            "capacity": "60",
             "url": "#",
-            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/FLOOR/index.json",
-            "description": [],
-            "features": [],
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/00/index.json",
+            "description": [
+                "This lab is used for Digital Design, Embedded Systems and other courses"
+            ],
+            "features": [
+                "This lab contains 30 Computers, Oscilloscopes, Power Supplies, Signal Generators"
+            ],
             "tags": [
-                "Public"
+                "Lab"
             ],
             "accessibility": [
                 "Instructors",
@@ -104,37 +108,6 @@
             ],
             "tags": [
                 "Lab"
-            ],
-            "accessibility": [
-                "Instructors",
-                "Postgraduates",
-                "Staff",
-                "Technical Officers",
-                "Undergraduates"
-            ]
-        },
-        {
-            "floor": "02",
-            "id": "09",
-            "label": "CE-02-09",
-            "title": "Discussion Room",
-            "contact": {
-                "tele": "",
-                "email": "",
-                "name": "",
-                "link": ""
-            },
-            "capacity": "N/A",
-            "url": "#",
-            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/09/index.json",
-            "description": [
-                "This room is used to have discussions of projects, activities, etc"
-            ],
-            "features": [
-                "This has a space for 30 students and White Boards and Study tables"
-            ],
-            "tags": [
-                "Public"
             ],
             "accessibility": [
                 "Instructors",
@@ -238,6 +211,66 @@
         },
         {
             "floor": "02",
+            "id": "09",
+            "label": "CE-02-09",
+            "title": "Discussion Room",
+            "contact": {
+                "tele": "",
+                "email": "",
+                "name": "",
+                "link": ""
+            },
+            "capacity": "N/A",
+            "url": "#",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/09/index.json",
+            "description": [
+                "This room is used to have discussions of projects, activities, etc"
+            ],
+            "features": [
+                "This has a space for 30 students and White Boards and Study tables"
+            ],
+            "tags": [
+                "Public"
+            ],
+            "accessibility": [
+                "Instructors",
+                "Postgraduates",
+                "Staff",
+                "Technical Officers",
+                "Undergraduates"
+            ]
+        },
+        {
+            "floor": "02",
+            "id": "CR01",
+            "label": "CE-02-CR01",
+            "title": "Corridor",
+            "contact": {
+                "tele": "",
+                "email": "",
+                "name": "",
+                "link": ""
+            },
+            "capacity": "N/A",
+            "url": "#",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/CR01/index.json",
+            "description": [
+                "This corridor can be used to reach Discussion room, Hardware & CI lab, TO room, and Main room"
+            ],
+            "features": [],
+            "tags": [
+                "Public"
+            ],
+            "accessibility": [
+                "Instructors",
+                "Postgraduates",
+                "Staff",
+                "Technical Officers",
+                "Undergraduates"
+            ]
+        },
+        {
+            "floor": "02",
             "id": "ENTR",
             "label": "CE-02-ENTR",
             "title": "Main Room",
@@ -253,6 +286,33 @@
             "description": [
                 "The lift or the staircases to enter other floors can be accessed from here"
             ],
+            "features": [],
+            "tags": [
+                "Public"
+            ],
+            "accessibility": [
+                "Instructors",
+                "Postgraduates",
+                "Staff",
+                "Technical Officers",
+                "Undergraduates"
+            ]
+        },
+        {
+            "floor": "02",
+            "id": "FLOOR",
+            "label": "CE-02-FLOOR",
+            "title": "Second Floor",
+            "contact": {
+                "tele": "",
+                "email": "",
+                "name": "",
+                "link": ""
+            },
+            "capacity": "N/A",
+            "url": "#",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/FLOOR/index.json",
+            "description": [],
             "features": [],
             "tags": [
                 "Public"
@@ -292,35 +352,6 @@
         },
         {
             "floor": "02",
-            "id": "CR01",
-            "label": "CE-02-CR01",
-            "title": "Corridor",
-            "contact": {
-                "tele": "",
-                "email": "",
-                "name": "",
-                "link": ""
-            },
-            "capacity": "N/A",
-            "url": "#",
-            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/CR01/index.json",
-            "description": [
-                "This corridor can be used to reach Discussion room, Hardware & CI lab, TO room, and Main room"
-            ],
-            "features": [],
-            "tags": [
-                "Public"
-            ],
-            "accessibility": [
-                "Instructors",
-                "Postgraduates",
-                "Staff",
-                "Technical Officers",
-                "Undergraduates"
-            ]
-        },
-        {
-            "floor": "02",
             "id": "OP",
             "label": "CE-02-OP",
             "title": "Operator-room",
@@ -340,37 +371,6 @@
             ],
             "accessibility": [
                 "Technical Officers"
-            ]
-        },
-        {
-            "floor": "02",
-            "id": "00",
-            "label": "CE-02-00",
-            "title": "Hardware & Computer Interfacing Lab",
-            "contact": {
-                "tele": "",
-                "email": "",
-                "name": "",
-                "link": ""
-            },
-            "capacity": "60",
-            "url": "#",
-            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/00/index.json",
-            "description": [
-                "This lab is used for Digital Design, Embedded Systems and other courses"
-            ],
-            "features": [
-                "This lab contains 30 Computers, Oscilloscopes, Power Supplies, Signal Generators"
-            ],
-            "tags": [
-                "Lab"
-            ],
-            "accessibility": [
-                "Instructors",
-                "Postgraduates",
-                "Staff",
-                "Technical Officers",
-                "Undergraduates"
             ]
         }
     ]
