@@ -3,29 +3,25 @@
     "locations": [
         {
             "floor": "03",
-            "id": "FLOOR",
-            "label": "CE-03-FLOOR",
-            "title": "Third Floor",
+            "id": "00",
+            "label": "CE-03-00",
+            "title": "Lecturer's Room 1",
             "contact": {
                 "tele": "",
-                "email": "",
-                "name": "",
-                "link": ""
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "name": "Dr. Isuru Nawinne",
+                "link": "https://people.ce.pdn.ac.lk//staff/academic/isuru-nawinne/"
             },
             "capacity": "N/A",
             "url": "#",
-            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/FLOOR/index.json",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/00/index.json",
             "description": [],
             "features": [],
             "tags": [
-                "Public"
+                "Staff"
             ],
             "accessibility": [
-                "Instructors",
-                "Postgraduates",
-                "Staff",
-                "Technical Officers",
-                "Undergraduates"
+                "Staff"
             ]
         },
         {
@@ -344,6 +340,33 @@
         },
         {
             "floor": "03",
+            "id": "FLOOR",
+            "label": "CE-03-FLOOR",
+            "title": "Third Floor",
+            "contact": {
+                "tele": "",
+                "email": "",
+                "name": "",
+                "link": ""
+            },
+            "capacity": "N/A",
+            "url": "#",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/FLOOR/index.json",
+            "description": [],
+            "features": [],
+            "tags": [
+                "Public"
+            ],
+            "accessibility": [
+                "Instructors",
+                "Postgraduates",
+                "Staff",
+                "Technical Officers",
+                "Undergraduates"
+            ]
+        },
+        {
+            "floor": "03",
             "id": "LIFT",
             "label": "CE-03-LIFT",
             "title": "Lift",
@@ -388,29 +411,6 @@
             ],
             "accessibility": [
                 "Technical Officers"
-            ]
-        },
-        {
-            "floor": "03",
-            "id": "00",
-            "label": "CE-03-00",
-            "title": "Lecturer's Room 1",
-            "contact": {
-                "tele": "",
-                "email": "isurunawinne@eng.pdn.ac.lk",
-                "name": "Dr. Isuru Nawinne",
-                "link": "https://people.ce.pdn.ac.lk//staff/academic/isuru-nawinne/"
-            },
-            "capacity": "N/A",
-            "url": "#",
-            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/00/index.json",
-            "description": [],
-            "features": [],
-            "tags": [
-                "Staff"
-            ],
-            "accessibility": [
-                "Staff"
             ]
         }
     ]
