@@ -10997,7 +10997,59 @@
         "repo_url": "https://github.com/cepdnaclk/e17-6sp-Research-profiles-of-academic-staff",
         "page_url": "https://cepdnaclk.github.io/e17-6sp-Research-profiles-of-academic-staff",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Research-profiles-of-academic-staff/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+        "team": {
+            "E/17/122": {
+                "name": "Isthikar F.S.",
+                "email": "e17122@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/122",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17122.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/122/"
+            },
+            "E/17/153": {
+                "name": "Karunachandra R.H.I.O.",
+                "email": "e17153@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/Odasara",
+                "linkedin": "https://www.linkedin.com/in/odasara-karunachandra-b55a3a7b",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/153",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17153.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/153/"
+            },
+            "E/17/294": {
+                "name": "Rossmaree D.M.",
+                "email": "e17294@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E17/294",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17294.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/294/"
+            }
+        },
+        "supervisors": {
+            "nuwanjaliyagoda@eng.pdn.ac.lk": {
+                "name": "Nuwan Jaliyagoda",
+                "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk//students/e15/140",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/nuwan.jpg",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/nuwanjaliyagoda",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "6yp",
+            "software engineering"
+        ]
     },
     "e17-6sp-Skim-Sequencing-Analysis": {
         "title": "Skim Sequencing Analysis",
