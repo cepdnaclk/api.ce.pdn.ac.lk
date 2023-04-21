@@ -41,13 +41,14 @@ def publish_discord(title, venue, year, authors, doi, tags):
     embed['fields'].append({"name": "Published at", "value": venue_string})
     embed['fields'].append({"name": "Authors", "value": authors_string})
     embed['fields'].append({"name": "DOI", "value": doi})
-    embed['fields'].append({"name": "Tags", "value": tag_string})
+    
+    if len(tags) > 0:
+        embed['fields'].append({"name": "Tags", "value": tag_string})
 
     data['embeds'].append(embed)
-    # print(json.dumps(data, indent = 4))
     response = requests.post(ENDPOINT, json=data)
-    # print(response.status_code)
-    # print(response.content)
+    
+    print(response.status_code, response.content)
 
     if (response.status_code == 204):
         print("\t Success")
