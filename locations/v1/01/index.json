@@ -3,24 +3,22 @@
     "locations": [
         {
             "floor": "01",
-            "id": "00",
-            "label": "CE-01-00",
-            "title": "Computer Laboratory 2",
+            "id": "FLOOR",
+            "label": "CE-01-FLOOR",
+            "title": "First Floor",
             "contact": {
                 "tele": "",
                 "email": "",
                 "name": "",
                 "link": ""
             },
-            "capacity": "64",
+            "capacity": "N/A",
             "url": "#",
-            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/00/index.json",
-            "description": [
-                "This lab contains 2 built in projectors and screens and 64 computers"
-            ],
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/FLOOR/index.json",
+            "description": [],
             "features": [],
             "tags": [
-                "Lab"
+                "Public"
             ],
             "accessibility": [
                 "Instructors",
@@ -309,9 +307,9 @@
         },
         {
             "floor": "01",
-            "id": "FLOOR",
-            "label": "CE-01-FLOOR",
-            "title": "First Floor",
+            "id": "OP",
+            "label": "CE-01-OP",
+            "title": "Operator-room",
             "contact": {
                 "tele": "",
                 "email": "",
@@ -320,18 +318,14 @@
             },
             "capacity": "N/A",
             "url": "#",
-            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/FLOOR/index.json",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/OP/index.json",
             "description": [],
             "features": [],
             "tags": [
-                "Public"
+                "Authorized"
             ],
             "accessibility": [
-                "Instructors",
-                "Postgraduates",
-                "Staff",
-                "Technical Officers",
-                "Undergraduates"
+                "Technical Officers"
             ]
         },
         {
@@ -361,25 +355,31 @@
         },
         {
             "floor": "01",
-            "id": "OP",
-            "label": "CE-01-OP",
-            "title": "Operator-room",
+            "id": "00",
+            "label": "CE-01-00",
+            "title": "Computer Laboratory 2",
             "contact": {
                 "tele": "",
                 "email": "",
                 "name": "",
                 "link": ""
             },
-            "capacity": "N/A",
+            "capacity": "64",
             "url": "#",
-            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/OP/index.json",
-            "description": [],
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/00/index.json",
+            "description": [
+                "This lab contains 2 built in projectors and screens and 64 computers"
+            ],
             "features": [],
             "tags": [
-                "Authorized"
+                "Lab"
             ],
             "accessibility": [
-                "Technical Officers"
+                "Instructors",
+                "Postgraduates",
+                "Staff",
+                "Technical Officers",
+                "Undergraduates"
             ]
         }
     ]

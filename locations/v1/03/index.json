@@ -3,6 +3,33 @@
     "locations": [
         {
             "floor": "03",
+            "id": "FLOOR",
+            "label": "CE-03-FLOOR",
+            "title": "Third Floor",
+            "contact": {
+                "tele": "",
+                "email": "",
+                "name": "",
+                "link": ""
+            },
+            "capacity": "N/A",
+            "url": "#",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/FLOOR/index.json",
+            "description": [],
+            "features": [],
+            "tags": [
+                "Public"
+            ],
+            "accessibility": [
+                "Instructors",
+                "Postgraduates",
+                "Staff",
+                "Technical Officers",
+                "Undergraduates"
+            ]
+        },
+        {
+            "floor": "03",
             "id": "00",
             "label": "CE-03-00",
             "title": "Lecturer's Room 1",
@@ -326,33 +353,6 @@
             "description": [
                 "Entrance and the Exit points are in here"
             ],
-            "features": [],
-            "tags": [
-                "Public"
-            ],
-            "accessibility": [
-                "Instructors",
-                "Postgraduates",
-                "Staff",
-                "Technical Officers",
-                "Undergraduates"
-            ]
-        },
-        {
-            "floor": "03",
-            "id": "FLOOR",
-            "label": "CE-03-FLOOR",
-            "title": "Third Floor",
-            "contact": {
-                "tele": "",
-                "email": "",
-                "name": "",
-                "link": ""
-            },
-            "capacity": "N/A",
-            "url": "#",
-            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/03/FLOOR/index.json",
-            "description": [],
             "features": [],
             "tags": [
                 "Public"

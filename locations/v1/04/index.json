@@ -3,25 +3,22 @@
     "locations": [
         {
             "floor": "04",
-            "id": "00",
-            "label": "CE-04-00",
-            "title": "ESCAL Computer Vision Lab",
+            "id": "FLOOR",
+            "label": "CE-04-FLOOR",
+            "title": "Fourth Floor",
             "contact": {
                 "tele": "",
                 "email": "",
                 "name": "",
                 "link": ""
             },
-            "capacity": "4",
+            "capacity": "N/A",
             "url": "#",
-            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/00/index.json",
-            "description": [
-                "This is for computer vision related projects will be done in here",
-                "This is a proposed Lab"
-            ],
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/FLOOR/index.json",
+            "description": [],
             "features": [],
             "tags": [
-                "Lab"
+                "Public"
             ],
             "accessibility": [
                 "Instructors",
@@ -125,6 +122,36 @@
         },
         {
             "floor": "04",
+            "id": "00",
+            "label": "CE-04-00",
+            "title": "ESCAL Computer Vision Lab",
+            "contact": {
+                "tele": "",
+                "email": "",
+                "name": "",
+                "link": ""
+            },
+            "capacity": "4",
+            "url": "#",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/00/index.json",
+            "description": [
+                "This is for computer vision related projects will be done in here",
+                "This is a proposed Lab"
+            ],
+            "features": [],
+            "tags": [
+                "Lab"
+            ],
+            "accessibility": [
+                "Instructors",
+                "Postgraduates",
+                "Staff",
+                "Technical Officers",
+                "Undergraduates"
+            ]
+        },
+        {
+            "floor": "04",
             "id": "05",
             "label": "CE-04-05",
             "title": "Lecturer's Room 1",
@@ -168,52 +195,6 @@
             "accessibility": [
                 "Staff"
             ]
-        },
-        {
-            "floor": "04",
-            "id": "07G",
-            "label": "CE-04-07G",
-            "title": "Gents Washroom",
-            "contact": {
-                "tele": "",
-                "email": "",
-                "name": "",
-                "link": ""
-            },
-            "capacity": "N/A",
-            "url": "#",
-            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/07G/index.json",
-            "description": [
-                "This washroom is for the use of Gents"
-            ],
-            "features": [],
-            "tags": [
-                "Public"
-            ],
-            "accessibility": []
-        },
-        {
-            "floor": "04",
-            "id": "07L",
-            "label": "CE-04-07L",
-            "title": "Ladies Washroom",
-            "contact": {
-                "tele": "",
-                "email": "",
-                "name": "",
-                "link": ""
-            },
-            "capacity": "N/A",
-            "url": "#",
-            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/07L/index.json",
-            "description": [
-                "This washroom is for the use of Ladies"
-            ],
-            "features": [],
-            "tags": [
-                "Public"
-            ],
-            "accessibility": []
         },
         {
             "floor": "04",
@@ -370,9 +351,9 @@
         },
         {
             "floor": "04",
-            "id": "CR01",
-            "label": "CE-04-CR01",
-            "title": "Corridor 1",
+            "id": "07L",
+            "label": "CE-04-07L",
+            "title": "Ladies Washroom",
             "contact": {
                 "tele": "",
                 "email": "",
@@ -381,27 +362,21 @@
             },
             "capacity": "N/A",
             "url": "#",
-            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/CR01/index.json",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/07L/index.json",
             "description": [
-                "This corridor can be used to reach corridor2, instructor room, staircase, computer lab1 and washrooms"
+                "This washroom is for the use of Ladies"
             ],
             "features": [],
             "tags": [
                 "Public"
             ],
-            "accessibility": [
-                "Instructors",
-                "Postgraduates",
-                "Staff",
-                "Technical Officers",
-                "Undergraduates"
-            ]
+            "accessibility": []
         },
         {
             "floor": "04",
-            "id": "CR02",
-            "label": "CE-04-CR02",
-            "title": "Corridor 2",
+            "id": "07G",
+            "label": "CE-04-07G",
+            "title": "Gents Washroom",
             "contact": {
                 "tele": "",
                 "email": "",
@@ -410,21 +385,15 @@
             },
             "capacity": "N/A",
             "url": "#",
-            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/CR02/index.json",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/07G/index.json",
             "description": [
-                "This corridor can be used to enter to the Computer Vision Lab, main room and operators"
+                "This washroom is for the use of Gents"
             ],
             "features": [],
             "tags": [
                 "Public"
             ],
-            "accessibility": [
-                "Instructors",
-                "Postgraduates",
-                "Staff",
-                "Technical Officers",
-                "Undergraduates"
-            ]
+            "accessibility": []
         },
         {
             "floor": "04",
@@ -459,9 +428,9 @@
         },
         {
             "floor": "04",
-            "id": "FLOOR",
-            "label": "CE-04-FLOOR",
-            "title": "Fourth Floor",
+            "id": "CR01",
+            "label": "CE-04-CR01",
+            "title": "Corridor 1",
             "contact": {
                 "tele": "",
                 "email": "",
@@ -470,8 +439,10 @@
             },
             "capacity": "N/A",
             "url": "#",
-            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/FLOOR/index.json",
-            "description": [],
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/CR01/index.json",
+            "description": [
+                "This corridor can be used to reach corridor2, instructor room, staircase, computer lab1 and washrooms"
+            ],
             "features": [],
             "tags": [
                 "Public"
@@ -530,6 +501,35 @@
             ],
             "accessibility": [
                 "Technical Officers"
+            ]
+        },
+        {
+            "floor": "04",
+            "id": "CR02",
+            "label": "CE-04-CR02",
+            "title": "Corridor 2",
+            "contact": {
+                "tele": "",
+                "email": "",
+                "name": "",
+                "link": ""
+            },
+            "capacity": "N/A",
+            "url": "#",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/04/CR02/index.json",
+            "description": [
+                "This corridor can be used to enter to the Computer Vision Lab, main room and operators"
+            ],
+            "features": [],
+            "tags": [
+                "Public"
+            ],
+            "accessibility": [
+                "Instructors",
+                "Postgraduates",
+                "Staff",
+                "Technical Officers",
+                "Undergraduates"
             ]
         }
     ]

@@ -3,6 +3,35 @@
     "locations": [
         {
             "floor": "G",
+            "id": "FLOOR",
+            "label": "CE-G-FLOOR",
+            "title": "Ground Floor",
+            "contact": {
+                "tele": "",
+                "email": "",
+                "name": "",
+                "link": ""
+            },
+            "capacity": "N/A",
+            "url": "#",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/FLOOR/index.json",
+            "description": [
+                "Welcome to Computer Engineering Department UoP"
+            ],
+            "features": [],
+            "tags": [
+                "Public"
+            ],
+            "accessibility": [
+                "Instructors",
+                "Postgraduates",
+                "Staff",
+                "Technical Officers",
+                "Undergraduates"
+            ]
+        },
+        {
+            "floor": "G",
             "id": "01",
             "label": "CE-G-01",
             "title": "Department Office",
@@ -358,9 +387,9 @@
         },
         {
             "floor": "G",
-            "id": "18",
-            "label": "CE-G-18",
-            "title": "Entrance Lobby",
+            "id": "OUTSIDE",
+            "label": "CE-G-OUTSIDE",
+            "title": "Garden",
             "contact": {
                 "tele": "",
                 "email": "",
@@ -369,13 +398,11 @@
             },
             "capacity": "N/A",
             "url": "#",
-            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/18/index.json",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/OUTSIDE/index.json",
             "description": [
-                "This is the entrance area"
+                "This is the outside area of the Dept"
             ],
-            "features": [
-                "Seating arrangements are in this entrance area"
-            ],
+            "features": [],
             "tags": [
                 "Public"
             ],
@@ -403,35 +430,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/CR01/index.json",
             "description": [
                 "This corridor connects central lobby, department office,conference room, and operator room"
-            ],
-            "features": [],
-            "tags": [
-                "Public"
-            ],
-            "accessibility": [
-                "Instructors",
-                "Postgraduates",
-                "Staff",
-                "Technical Officers",
-                "Undergraduates"
-            ]
-        },
-        {
-            "floor": "G",
-            "id": "FLOOR",
-            "label": "CE-G-FLOOR",
-            "title": "Ground Floor",
-            "contact": {
-                "tele": "",
-                "email": "",
-                "name": "",
-                "link": ""
-            },
-            "capacity": "N/A",
-            "url": "#",
-            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/FLOOR/index.json",
-            "description": [
-                "Welcome to Computer Engineering Department UoP"
             ],
             "features": [],
             "tags": [
@@ -495,9 +493,9 @@
         },
         {
             "floor": "G",
-            "id": "OUTSIDE",
-            "label": "CE-G-OUTSIDE",
-            "title": "Garden",
+            "id": "18",
+            "label": "CE-G-18",
+            "title": "Entrance Lobby",
             "contact": {
                 "tele": "",
                 "email": "",
@@ -506,11 +504,13 @@
             },
             "capacity": "N/A",
             "url": "#",
-            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/OUTSIDE/index.json",
+            "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/18/index.json",
             "description": [
-                "This is the outside area of the Dept"
+                "This is the entrance area"
             ],
-            "features": [],
+            "features": [
+                "Seating arrangements are in this entrance area"
+            ],
             "tags": [
                 "Public"
             ],

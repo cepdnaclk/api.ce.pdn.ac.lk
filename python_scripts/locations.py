@@ -194,12 +194,7 @@ with open(filename, "w") as f:
 
 # Write locations by floors
 for floor in locations:
-    sorted_locations = { 
-        "title": locations[floor]['title'], 
-        "locations" : sorted(locations[floor]['locations'], key=lambda x: x['id'])
-    }
-
     filename = "../locations/v1/{0}/index.json".format(floor)
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, "w") as f:
-        f.write(json.dumps(sorted_locations, indent=4))
+        f.write(json.dumps(locations[floor], indent=4))
