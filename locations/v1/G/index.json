@@ -36,8 +36,8 @@
             "label": "CE-G-01",
             "title": "Department Office",
             "contact": {
-                "tele": "",
-                "email": "",
+                "tele": "081-2393471",
+                "email": "anuradhasb@eng.pdn.ac.lk",
                 "name": "",
                 "link": ""
             },
@@ -63,8 +63,8 @@
             "label": "CE-G-02",
             "title": "HoD Office",
             "contact": {
-                "tele": "",
-                "email": "",
+                "tele": "081-2393470",
+                "email": "headce@eng.pdn.ac.lk",
                 "name": "",
                 "link": ""
             },
@@ -74,8 +74,7 @@
             "description": [],
             "features": [],
             "tags": [
-                "Private",
-                "Staff"
+                ""
             ],
             "accessibility": [
                 "Instructors",
@@ -153,8 +152,8 @@
             "label": "CE-G-05",
             "title": "Filing Room & Storage",
             "contact": {
-                "tele": "",
-                "email": "",
+                "tele": "081-2393471",
+                "email": "hemanthak@eng.pdn.ac.lk",
                 "name": "",
                 "link": ""
             },
@@ -187,7 +186,8 @@
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/06/index.json",
             "description": [
-                "Currently used by TOs"
+                "Currently used by TOs",
+                "-"
             ],
             "features": [
                 "It has facilities for staff gatherings"
@@ -250,7 +250,7 @@
             ],
             "features": [
                 "Whiteboards and facilities for using laptops",
-                "After Hours access through G11"
+                "After Hours access through G-11"
             ],
             "tags": [
                 "Lab"
@@ -283,7 +283,7 @@
             ],
             "features": [
                 "Open lab with Sofa and some seating arrangements",
-                "After Hours access through G11"
+                "After Hours access through G-11"
             ],
             "tags": [
                 "Lab"

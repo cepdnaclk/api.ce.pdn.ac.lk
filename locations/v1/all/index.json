@@ -37,8 +37,8 @@
                 "label": "CE-G-01",
                 "title": "Department Office",
                 "contact": {
-                    "tele": "",
-                    "email": "",
+                    "tele": "081-2393471",
+                    "email": "anuradhasb@eng.pdn.ac.lk",
                     "name": "",
                     "link": ""
                 },
@@ -64,8 +64,8 @@
                 "label": "CE-G-02",
                 "title": "HoD Office",
                 "contact": {
-                    "tele": "",
-                    "email": "",
+                    "tele": "081-2393470",
+                    "email": "headce@eng.pdn.ac.lk",
                     "name": "",
                     "link": ""
                 },
@@ -75,8 +75,7 @@
                 "description": [],
                 "features": [],
                 "tags": [
-                    "Private",
-                    "Staff"
+                    ""
                 ],
                 "accessibility": [
                     "Instructors",
@@ -154,8 +153,8 @@
                 "label": "CE-G-05",
                 "title": "Filing Room & Storage",
                 "contact": {
-                    "tele": "",
-                    "email": "",
+                    "tele": "081-2393471",
+                    "email": "hemanthak@eng.pdn.ac.lk",
                     "name": "",
                     "link": ""
                 },
@@ -188,7 +187,8 @@
                 "url": "#",
                 "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/06/index.json",
                 "description": [
-                    "Currently used by TOs"
+                    "Currently used by TOs",
+                    "-"
                 ],
                 "features": [
                     "It has facilities for staff gatherings"
@@ -251,7 +251,7 @@
                 ],
                 "features": [
                     "Whiteboards and facilities for using laptops",
-                    "After Hours access through G11"
+                    "After Hours access through G-11"
                 ],
                 "tags": [
                     "Lab"
@@ -284,7 +284,7 @@
                 ],
                 "features": [
                     "Open lab with Sofa and some seating arrangements",
-                    "After Hours access through G11"
+                    "After Hours access through G-11"
                 ],
                 "tags": [
                     "Lab"
@@ -561,8 +561,8 @@
                 "label": "CE-01-01",
                 "title": "Technical Officer's room",
                 "contact": {
-                    "tele": "",
-                    "email": "",
+                    "tele": "081-2393471",
+                    "email": "urathnayake@eng.pdn.ac.lk",
                     "name": "",
                     "link": ""
                 },
@@ -584,14 +584,14 @@
                 "floor": "01",
                 "id": "02",
                 "label": "CE-01-02",
-                "title": "Insructors' Room",
+                "title": "Instructors' Room",
                 "contact": {
                     "tele": "",
                     "email": "",
                     "name": "",
                     "link": ""
                 },
-                "capacity": "N/A",
+                "capacity": "4",
                 "url": "#",
                 "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/02/index.json",
                 "description": [
@@ -614,9 +614,9 @@
                 "title": "Lecturer's Room 1",
                 "contact": {
                     "tele": "",
-                    "email": "",
-                    "name": "",
-                    "link": ""
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "name": "Prof. Roshan G. Ragel",
+                    "link": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/"
                 },
                 "capacity": "N/A",
                 "url": "#",
@@ -637,9 +637,9 @@
                 "title": "Lecturer's Room 2",
                 "contact": {
                     "tele": "",
-                    "email": "",
-                    "name": "",
-                    "link": ""
+                    "email": "swarnar@eng.pdn.ac.lk",
+                    "name": "Dr. Swarnalatha Radhakrishnan",
+                    "link": "https://people.ce.pdn.ac.lk//staff/academic/swarnalatha-radhakrishnan/"
                 },
                 "capacity": "N/A",
                 "url": "#",
@@ -660,9 +660,9 @@
                 "title": "Lecturer's Room 3",
                 "contact": {
                     "tele": "",
-                    "email": "",
-                    "name": "",
-                    "link": ""
+                    "email": "sampath@eng.pdn.ac.lk",
+                    "name": "Mr. Sampath Deegalla",
+                    "link": "https://people.ce.pdn.ac.lk//staff/academic/sampath-deegalla/"
                 },
                 "capacity": "N/A",
                 "url": "#",
@@ -683,9 +683,9 @@
                 "title": "Lecturer's Room 4",
                 "contact": {
                     "tele": "",
-                    "email": "",
-                    "name": "",
-                    "link": ""
+                    "email": "manjula.sandirigama@eng.pdn.ac.lk",
+                    "name": "Dr. Manjula Sandirigama",
+                    "link": "https://people.ce.pdn.ac.lk//staff/academic/manjula-sandirigama/"
                 },
                 "capacity": "N/A",
                 "url": "#",
@@ -947,7 +947,7 @@
                 "label": "CE-02-01",
                 "title": "Technical Offcer's room",
                 "contact": {
-                    "tele": "",
+                    "tele": "081-2393910",
                     "email": "kalumg@eng.pdn.ac.lk",
                     "name": "",
                     "link": ""
@@ -972,7 +972,7 @@
                 "floor": "02",
                 "id": "02",
                 "label": "CE-02-02",
-                "title": "Insructors' Room",
+                "title": "Instructors' Room",
                 "contact": {
                     "tele": "",
                     "email": "",
@@ -1489,7 +1489,7 @@
                 "label": "CE-03-07",
                 "title": "Technical Offcer's room",
                 "contact": {
-                    "tele": "",
+                    "tele": "081-2393911",
                     "email": "bandaraw@eng.pdn.ac.lk",
                     "name": "",
                     "link": ""
@@ -1864,9 +1864,9 @@
                 "title": "Lecturer's Room 1",
                 "contact": {
                     "tele": "",
-                    "email": "",
-                    "name": "",
-                    "link": ""
+                    "email": "damayanthiherath@eng.pdn.ac.lk",
+                    "name": "Dr. Damayanthi Herath",
+                    "link": "https://people.ce.pdn.ac.lk//staff/academic/damayanthi-herath/"
                 },
                 "capacity": "N/A",
                 "url": "#",
@@ -1941,9 +1941,9 @@
                 "title": "Lecturer's Room 3",
                 "contact": {
                     "tele": "",
-                    "email": "dhammika@eng.pdn.ac.lk",
-                    "name": "Dr. Dhammika Elkaduwe",
-                    "link": "https://people.ce.pdn.ac.lk//staff/academic/dhammika-elkaduwe/"
+                    "email": "",
+                    "name": "",
+                    "link": ""
                 },
                 "capacity": "N/A",
                 "url": "#",
@@ -1987,9 +1987,9 @@
                 "title": "Lecturer's Room 5",
                 "contact": {
                     "tele": "",
-                    "email": "alawatugoda@eng.pdn.ac.lk",
-                    "name": "Dr. Janaka Alawatugoda",
-                    "link": "https://people.ce.pdn.ac.lk//staff/academic/janaka-alawatugoda/"
+                    "email": "",
+                    "name": "",
+                    "link": ""
                 },
                 "capacity": "N/A",
                 "url": "#",
