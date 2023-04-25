@@ -37,12 +37,12 @@
                 "label": "CE-G-01",
                 "title": "Department Office",
                 "contact": {
-                    "tele": "081-2393471",
-                    "email": "anuradhasb@eng.pdn.ac.lk",
+                    "tele": "",
+                    "email": "",
                     "name": "",
                     "link": ""
                 },
-                "capacity": "N/A",
+                "capacity": "2",
                 "url": "http://www.ce.pdn.ac.lk/",
                 "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/01/index.json",
                 "description": [],
@@ -74,9 +74,7 @@
                 "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/02/index.json",
                 "description": [],
                 "features": [],
-                "tags": [
-                    ""
-                ],
+                "tags": [],
                 "accessibility": [
                     "Instructors",
                     "Postgraduates",
@@ -158,7 +156,7 @@
                     "name": "",
                     "link": ""
                 },
-                "capacity": "N/A",
+                "capacity": "1",
                 "url": "#",
                 "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/05/index.json",
                 "description": [
@@ -183,7 +181,7 @@
                     "name": "",
                     "link": ""
                 },
-                "capacity": "N/A",
+                "capacity": "12",
                 "url": "#",
                 "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/06/index.json",
                 "description": [
@@ -566,7 +564,7 @@
                     "name": "",
                     "link": ""
                 },
-                "capacity": "N/A",
+                "capacity": "1",
                 "url": "#",
                 "api_url": "https://api.ce.pdn.ac.lk/locations/v1/01/01/index.json",
                 "description": [
@@ -836,7 +834,7 @@
                 "floor": "01",
                 "id": "OP",
                 "label": "CE-01-OP",
-                "title": "Operator-room",
+                "title": "Operator Room",
                 "contact": {
                     "tele": "",
                     "email": "",
@@ -945,14 +943,14 @@
                 "floor": "02",
                 "id": "01",
                 "label": "CE-02-01",
-                "title": "Technical Offcer's room",
+                "title": "Technical Offcer's Room",
                 "contact": {
                     "tele": "081-2393910",
                     "email": "kalumg@eng.pdn.ac.lk",
                     "name": "",
                     "link": ""
                 },
-                "capacity": "N/A",
+                "capacity": "1",
                 "url": "#",
                 "api_url": "https://api.ce.pdn.ac.lk/locations/v1/02/01/index.json",
                 "description": [
@@ -1236,7 +1234,7 @@
                 "floor": "02",
                 "id": "OP",
                 "label": "CE-02-OP",
-                "title": "Operator-room",
+                "title": "Operator Room",
                 "contact": {
                     "tele": "",
                     "email": "",
@@ -1487,7 +1485,7 @@
                 "floor": "03",
                 "id": "07",
                 "label": "CE-03-07",
-                "title": "Technical Offcer's room",
+                "title": "Technical Offcer's Room",
                 "contact": {
                     "tele": "081-2393911",
                     "email": "bandaraw@eng.pdn.ac.lk",
@@ -2007,7 +2005,7 @@
                 "floor": "04",
                 "id": "12",
                 "label": "CE-04-12",
-                "title": "Server room",
+                "title": "Server Room",
                 "contact": {
                     "tele": "",
                     "email": "",
@@ -2191,7 +2189,7 @@
                 "floor": "04",
                 "id": "OP",
                 "label": "CE-04-OP",
-                "title": "Operator-room",
+                "title": "Operator Room",
                 "contact": {
                     "tele": "",
                     "email": "",

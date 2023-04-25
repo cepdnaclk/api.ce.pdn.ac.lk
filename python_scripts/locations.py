@@ -105,14 +105,16 @@ for line in loc_raw[1:]:
     label = "CE-" + loc_raw_data[ID]
 
     tag_list = [t.strip() for t in loc_raw_data[TAGS].split(",")]
-
+    if len(tag_list) == 1 and tag_list[0] == "":
+        tag_list = []
+        
     access_list = []
     for access in [a.strip() for a in loc_raw_data[ACCESSIBILITY].split(",")]:
         if access in enumAccess:
             access_list.extend(enumAccess[access])
         elif access != "":
-            print("{0}: Unsupported Tag !".format(access))
-            notify.warning("Unsupported Tag",
+            print("{0}: Unsupported Tag for Access !".format(access))
+            notify.warning("Unsupported Tag for Access",
                            "The tag `{0}` is not supported !".format(access))
 
     description_list = [x for x in list([

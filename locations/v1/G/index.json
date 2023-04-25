@@ -36,12 +36,12 @@
             "label": "CE-G-01",
             "title": "Department Office",
             "contact": {
-                "tele": "081-2393471",
-                "email": "anuradhasb@eng.pdn.ac.lk",
+                "tele": "",
+                "email": "",
                 "name": "",
                 "link": ""
             },
-            "capacity": "N/A",
+            "capacity": "2",
             "url": "http://www.ce.pdn.ac.lk/",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/01/index.json",
             "description": [],
@@ -73,9 +73,7 @@
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/02/index.json",
             "description": [],
             "features": [],
-            "tags": [
-                ""
-            ],
+            "tags": [],
             "accessibility": [
                 "Instructors",
                 "Postgraduates",
@@ -157,7 +155,7 @@
                 "name": "",
                 "link": ""
             },
-            "capacity": "N/A",
+            "capacity": "1",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/05/index.json",
             "description": [
@@ -182,7 +180,7 @@
                 "name": "",
                 "link": ""
             },
-            "capacity": "N/A",
+            "capacity": "12",
             "url": "#",
             "api_url": "https://api.ce.pdn.ac.lk/locations/v1/G/06/index.json",
             "description": [
