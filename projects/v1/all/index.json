@@ -8868,7 +8868,69 @@
         "repo_url": "https://github.com/cepdnaclk/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
         "page_url": "https://cepdnaclk.github.io/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Microservice-Based-Edge-Computing-Architecture/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "team": {
+            "E/15/048": {
+                "name": "Gayal Laksara",
+                "email": "e15048@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/Laksara1996",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E15/048",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15048.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/048/"
+            },
+            "E/15/243": {
+                "name": "Sewwandi Nisansala",
+                "email": "e15243@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/sewwandi-nisansala",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E15/243",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15243.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/243/"
+            },
+            "E/15/271": {
+                "name": "Sonali Prasadika",
+                "email": "e15271@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/sonaliprasadika",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/students/E15/271",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15271.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/271/"
+            }
+        },
+        "supervisors": {
+            "upuljml@eng.pdn.ac.lk": {
+                "name": "Dr.Upul Jayasinghe",
+                "email": "upuljml@eng.pdn.ac.lk",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            },
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "http://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            }
+        },
+        "tags": [
+            "Final Year Projects"
+        ]
     },
     "e15-4yp-Mixed-Reality-based-Simulation-Platform-for-Swarm-Robotics": {
         "title": "Mixed Reality based Simulation Platform for Swarm Robotics",
