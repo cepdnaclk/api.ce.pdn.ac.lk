@@ -178,7 +178,7 @@ for line in pub_raw[1:]:
                     "name": authors[aIdx],
                     "profile": author_info[aIdx]["profile_url"],
                     "type": author_info[aIdx]["type"],
-                    "id": author_info[aIdx]["email"].split('@')[0],
+                    "id": author_info[aIdx]["id"],
                     "email": author_info[aIdx]["email"],
                     "profile_image": author_info[aIdx]["profile_image"],
                     "profile_url": author_info[aIdx]["profile_url"]
