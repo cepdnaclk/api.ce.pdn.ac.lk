@@ -187,6 +187,9 @@ for line in pub_raw[1:]:
     api_url = "{0}/publications/v1/{1}/".format(
         apiBase, get_id_from_doi(pub_raw_data[DOI]))
 
+    edit_url = api_url.replace(
+        "https://api.ce.pdn.ac.lk/", "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/") + "index.json"
+
     pub_data = {
         "title": pub_raw_data[TITLE].strip(),
         "venue": pub_raw_data[VENUE].strip(),
@@ -207,6 +210,7 @@ for line in pub_raw[1:]:
         "tags": tags,
         "funding": pub_raw_data[FUNDING],
         "api_url": api_url,
+        "edit_url": edit_url,
         "submitted": datetime.strftime(submitted_on, "%Y/%m/%d %H:%M:%S")
     }
 

@@ -48,6 +48,7 @@ for pub in publications:
         'authors': pub_data['authors'],
         'author_info': pub_data['author_info'],
         'doi': pub_data['doi'],
+        'is_dept_affiliated': pub_data["is_dept_affiliated"],
         'preprint': pub_data['preprint_url'] or "#",
         'pdf': pub_data['pdf_url'] or "#",
         'presentation': pub_data['presentation_url'] or "#",
@@ -57,7 +58,7 @@ for pub in publications:
         'funding': pub_data['funding'],
         'tags': pub_data['tags'],
         'api_url': pub_data['api_url'],
-        'edit_url': edit_url
+        'edit_url': edit_url,
     }
 
     print(pub_data['title'])
