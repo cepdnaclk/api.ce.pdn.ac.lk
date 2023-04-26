@@ -1,53 +1,353 @@
 {
-    "#": [
+    "E/10/102": [
         {
-            "title": "Non-contact Infant Sleep Apnea Detection",
-            "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
+            "title": "Autonomic trust management in cloud-based and highly dynamic IoT applications",
+            "venue": "2015 ITU Kaleidoscope: Trust in the Information Society (K-2015)",
+            "year": "2015",
+            "authors": [
+                "Suneth Namal",
+                "Hasindu Gamaarachchi",
+                "Gyu MyoungLee",
+                "Tai-Won Um"
+            ],
+            "author_info": [
+                {
+                    "name": "Suneth Namal",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/suneth-namal-karunarathna/",
+                    "type": "STAFF",
+                    "id": "namal",
+                    "email": "namal@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/suneth-namal-karunarathna.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/suneth-namal-karunarathna/"
+                },
+                {
+                    "name": "Hasindu Gamaarachchi",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e10/102/",
+                    "type": "STUDENT",
+                    "id": "E/10/102",
+                    "email": "hasindu@unsw.edu.au",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e10/e10102.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e10/102/"
+                },
+                {
+                    "name": "Gyu MyoungLee",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Tai-Won Um",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                }
+            ],
+            "doi": "https://doi.org/10.1109/Kaleidoscope.2015.7383635",
+            "preprint": "#",
+            "pdf": "https://researchonline.ljmu.ac.uk/id/eprint/2150/1/1570197625.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [],
+            "funding": "",
+            "tags": [
+                "Cloud computing",
+                "Security",
+                "Biological system modeling",
+                "Monitoring",
+                "Internet of things",
+                "Ecosystems",
+                "Scalability"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/Kaleidoscope.2015.7383635/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/Kaleidoscope.2015.7383635/index.json"
+        }
+    ],
+    "E/10/143": [
+        {
+            "title": "Accelerating k-nn classification algorithm using graphics processing units",
+            "venue": "2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2016",
+            "authors": [
+                "S Selvaluxmiy",
+                "TN Kumara",
+                "P Keerthanan",
+                "R Velmakivan",
+                "R Ragel",
+                "S Deegalla"
+            ],
+            "author_info": [
+                {
+                    "name": "S Selvaluxmiy",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "TN Kumara",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e10/143/",
+                    "type": "STUDENT",
+                    "id": "E/10/143",
+                    "email": "titus.nandakumara@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e10/e10143.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e10/143/"
+                },
+                {
+                    "name": "P Keerthanan",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "R Velmakivan",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "R Ragel",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+                },
+                {
+                    "name": "S Deegalla",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/sampath-deegalla/",
+                    "type": "STAFF",
+                    "id": "sampath",
+                    "email": "sampath@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/sampath-deegalla.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/sampath-deegalla/"
+                }
+            ],
+            "doi": "https://doi.org/10.1109/ICIAFS.2016.7946528",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [],
+            "funding": "",
+            "tags": [
+                "Graphics processing units",
+                "Message systems",
+                "Kernel",
+                "Training",
+                "Prediction algorithms",
+                "Machine learning algorithms",
+                "Testing"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2016.7946528/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2016.7946528/index.json"
+        }
+    ],
+    "E/12/009": [
+        {
+            "title": "Implementing a proven-secure and cost-effective countermeasure against the compression ratio info-leak mass exploitation (CRIME) attack",
+            "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2017",
+            "authors": [
+                "Jayamine Alupotha",
+                "Sanduni Prasadi",
+                "Janaka Alawatugoda",
+                "Roshan Ragel",
+                "Mohamed Fawsan"
+            ],
+            "author_info": [
+                {
+                    "name": "Jayamine Alupotha",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e12/009/",
+                    "type": "STUDENT",
+                    "id": "E/12/009",
+                    "email": "jayamine.alupotha@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e12/e12009.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e12/009/"
+                },
+                {
+                    "name": "Sanduni Prasadi",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e12/269/",
+                    "type": "STUDENT",
+                    "id": "E/12/269",
+                    "email": "sanduniprasadi06@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e12/e12269.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e12/269/"
+                },
+                {
+                    "name": "Janaka Alawatugoda",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/",
+                    "type": "STAFF",
+                    "id": "alawatugoda",
+                    "email": "alawatugoda@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/"
+                },
+                {
+                    "name": "Roshan Ragel",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+                },
+                {
+                    "name": "Mohamed Fawsan",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                }
+            ],
+            "doi": "https://doi.org/10.1109/ICIINFS.2017.8300359",
+            "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/323352314_Implementing_a_proven-secure_and_cost-effective_countermeasure_against_the_compression_ratio_info-leak_mass_exploitation_CRIME_attack/links/61c959beb8305f7c4b0421bc/Implementing-a-proven-secure-and-cost-effective-countermeasure-against-the-compression-ratio-info-leak-mass-exploitation-CRIME-attack.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+            ],
+            "funding": "",
+            "tags": [
+                "Bandwidth",
+                "Side-channel attacks",
+                "Dictionaries",
+                "Servers",
+                "Data compression"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300359/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300359/index.json"
+        }
+    ],
+    "E/12/269": [
+        {
+            "title": "Implementing a proven-secure and cost-effective countermeasure against the compression ratio info-leak mass exploitation (CRIME) attack",
+            "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2017",
+            "authors": [
+                "Jayamine Alupotha",
+                "Sanduni Prasadi",
+                "Janaka Alawatugoda",
+                "Roshan Ragel",
+                "Mohamed Fawsan"
+            ],
+            "author_info": [
+                {
+                    "name": "Jayamine Alupotha",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e12/009/",
+                    "type": "STUDENT",
+                    "id": "E/12/009",
+                    "email": "jayamine.alupotha@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e12/e12009.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e12/009/"
+                },
+                {
+                    "name": "Sanduni Prasadi",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e12/269/",
+                    "type": "STUDENT",
+                    "id": "E/12/269",
+                    "email": "sanduniprasadi06@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e12/e12269.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e12/269/"
+                },
+                {
+                    "name": "Janaka Alawatugoda",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/",
+                    "type": "STAFF",
+                    "id": "alawatugoda",
+                    "email": "alawatugoda@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/"
+                },
+                {
+                    "name": "Roshan Ragel",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+                },
+                {
+                    "name": "Mohamed Fawsan",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                }
+            ],
+            "doi": "https://doi.org/10.1109/ICIINFS.2017.8300359",
+            "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/323352314_Implementing_a_proven-secure_and_cost-effective_countermeasure_against_the_compression_ratio_info-leak_mass_exploitation_CRIME_attack/links/61c959beb8305f7c4b0421bc/Implementing-a-proven-secure-and-cost-effective-countermeasure-against-the-compression-ratio-info-leak-mass-exploitation-CRIME-attack.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+            ],
+            "funding": "",
+            "tags": [
+                "Bandwidth",
+                "Side-channel attacks",
+                "Dictionaries",
+                "Servers",
+                "Data compression"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300359/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300359/index.json"
+        }
+    ],
+    "E/13/073": [
+        {
+            "title": "An ensemble learning approach for electrocardiogram sensor based human emotion recognition",
+            "venue": "MDPI Sensors",
             "year": "2019",
             "authors": [
-                "Gihan Jayatilaka",
-                "Harshana Weligampola",
-                "Suren Sritharan",
-                "Pankayaraj Pathmanathan",
+                "Theekshana Dissanayake",
+                "Yasitha Rajapaksha",
                 "Roshan Ragel",
                 "Isuru Nawinne"
             ],
             "author_info": [
                 {
-                    "name": "Gihan Jayatilaka",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e14/158/",
+                    "name": "Theekshana Dissanayake",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e13/073/",
                     "type": "STUDENT",
-                    "id": "gihanjayatilaka",
-                    "email": "gihanjayatilaka@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
+                    "id": "E/13/073",
+                    "email": "theekshanapubudu1550@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e13/e13073.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e13/073/"
                 },
                 {
-                    "name": "Harshana Weligampola",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e14/379/",
+                    "name": "Yasitha Rajapaksha",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e13/274/",
                     "type": "STUDENT",
-                    "id": "#",
-                    "email": "#",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14379.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/379/"
-                },
-                {
-                    "name": "Suren Sritharan",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e14/339/",
-                    "type": "STUDENT",
-                    "id": "e14339",
-                    "email": "e14339@ce.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14339.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/339/"
-                },
-                {
-                    "name": "Pankayaraj Pathmanathan",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e14/237/",
-                    "type": "STUDENT",
-                    "id": "pankayaraj1995",
-                    "email": "pankayaraj1995@gmail.com",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14237.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/237/"
+                    "id": "E/13/274",
+                    "email": "yasitha.rajapaksha@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e13/e13274.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e13/274/"
                 },
                 {
                     "name": "Roshan Ragel",
@@ -68,28 +368,98 @@
                     "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
                 }
             ],
-            "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
-            "preprint": "https://arxiv.org/pdf/1910.04725.pdf",
-            "pdf": "#",
+            "doi": "https://doi.org/10.3390/s19204495",
+            "preprint": "#",
+            "pdf": "https://www.mdpi.com/1424-8220/19/20/4495/pdf?version=1571300841",
             "presentation": "#",
             "project": "#",
             "codebase": "#",
             "researchgroups": [
-                "Computational BioEngineering",
-                "Computer Vision"
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
             ],
             "funding": "",
             "tags": [
-                "Sleep apnea",
-                "Video processing",
-                "Bio medical engineering",
-                "Pattern recognition"
+                "bio-signal processing",
+                "wearable computing",
+                "ensemble learning",
+                "electrocardiogram",
+                "machine learning"
             ],
-            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/",
-            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS47346.2019.9063269/index.json"
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/s19204495/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/s19204495/index.json"
         }
     ],
-    "e14010": [
+    "E/13/274": [
+        {
+            "title": "An ensemble learning approach for electrocardiogram sensor based human emotion recognition",
+            "venue": "MDPI Sensors",
+            "year": "2019",
+            "authors": [
+                "Theekshana Dissanayake",
+                "Yasitha Rajapaksha",
+                "Roshan Ragel",
+                "Isuru Nawinne"
+            ],
+            "author_info": [
+                {
+                    "name": "Theekshana Dissanayake",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e13/073/",
+                    "type": "STUDENT",
+                    "id": "E/13/073",
+                    "email": "theekshanapubudu1550@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e13/e13073.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e13/073/"
+                },
+                {
+                    "name": "Yasitha Rajapaksha",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e13/274/",
+                    "type": "STUDENT",
+                    "id": "E/13/274",
+                    "email": "yasitha.rajapaksha@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e13/e13274.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e13/274/"
+                },
+                {
+                    "name": "Roshan Ragel",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+                },
+                {
+                    "name": "Isuru Nawinne",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                    "type": "STAFF",
+                    "id": "isurunawinne",
+                    "email": "isurunawinne@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+                }
+            ],
+            "doi": "https://doi.org/10.3390/s19204495",
+            "preprint": "#",
+            "pdf": "https://www.mdpi.com/1424-8220/19/20/4495/pdf?version=1571300841",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "bio-signal processing",
+                "wearable computing",
+                "ensemble learning",
+                "electrocardiogram",
+                "machine learning"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/s19204495/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/s19204495/index.json"
+        }
+    ],
+    "E/14/010": [
         {
             "title": "A Programming Framework for Robot Swarms",
             "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
@@ -106,7 +476,7 @@
                     "name": "Mahendra Dassanayaka",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/065/",
                     "type": "STUDENT",
-                    "id": "e14065",
+                    "id": "E/14/065",
                     "email": "e14065@ce.pdn.ac.lk",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14065.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e14/065/"
@@ -115,7 +485,7 @@
                     "name": "Tharuka Bandara",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/028/",
                     "type": "STUDENT",
-                    "id": "e14028",
+                    "id": "E/14/028",
                     "email": "e14028@ce.pdn.ac.lk",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14028.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e14/028/"
@@ -124,7 +494,7 @@
                     "name": "Nadun Adikari",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/010/",
                     "type": "STUDENT",
-                    "id": "e14010",
+                    "id": "E/14/010",
                     "email": "e14010@ce.pdn.ac.lk",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14010.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e14/010/"
@@ -170,7 +540,7 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185206/index.json"
         }
     ],
-    "e14028": [
+    "E/14/028": [
         {
             "title": "A Programming Framework for Robot Swarms",
             "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
@@ -187,7 +557,7 @@
                     "name": "Mahendra Dassanayaka",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/065/",
                     "type": "STUDENT",
-                    "id": "e14065",
+                    "id": "E/14/065",
                     "email": "e14065@ce.pdn.ac.lk",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14065.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e14/065/"
@@ -196,7 +566,7 @@
                     "name": "Tharuka Bandara",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/028/",
                     "type": "STUDENT",
-                    "id": "e14028",
+                    "id": "E/14/028",
                     "email": "e14028@ce.pdn.ac.lk",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14028.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e14/028/"
@@ -205,7 +575,7 @@
                     "name": "Nadun Adikari",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/010/",
                     "type": "STUDENT",
-                    "id": "e14010",
+                    "id": "E/14/010",
                     "email": "e14010@ce.pdn.ac.lk",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14010.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e14/010/"
@@ -251,7 +621,7 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185206/index.json"
         }
     ],
-    "e14054": [
+    "E/14/054": [
         {
             "title": "BAT\u00e2\u0080\u0094Block Analytics Tool Integrated with Blockchain Based IoT Platform",
             "venue": "Electronics",
@@ -271,7 +641,7 @@
                     "name": "Chathurangi Edussuriya",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/054/",
                     "type": "STUDENT",
-                    "id": "e14054",
+                    "id": "E/14/054",
                     "email": "e14054@ce.pdn.ac.lk",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14054.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e14/054/"
@@ -280,7 +650,7 @@
                     "name": "Kasun Vithanage",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/413/",
                     "type": "STUDENT",
-                    "id": "e14413",
+                    "id": "E/14/413",
                     "email": "e14413@ce.pdn.ac.lk",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14413.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e14/413/"
@@ -372,7 +742,7 @@
                     "name": "Chathurangi Edussuriya",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/054/",
                     "type": "STUDENT",
-                    "id": "e14054",
+                    "id": "E/14/054",
                     "email": "e14054@ce.pdn.ac.lk",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14054.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e14/054/"
@@ -409,7 +779,7 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1371/journal.pntd.0009756/index.json"
         }
     ],
-    "e14065": [
+    "E/14/065": [
         {
             "title": "A Programming Framework for Robot Swarms",
             "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
@@ -426,7 +796,7 @@
                     "name": "Mahendra Dassanayaka",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/065/",
                     "type": "STUDENT",
-                    "id": "e14065",
+                    "id": "E/14/065",
                     "email": "e14065@ce.pdn.ac.lk",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14065.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e14/065/"
@@ -435,7 +805,7 @@
                     "name": "Tharuka Bandara",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/028/",
                     "type": "STUDENT",
-                    "id": "e14028",
+                    "id": "E/14/028",
                     "email": "e14028@ce.pdn.ac.lk",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14028.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e14/028/"
@@ -444,7 +814,7 @@
                     "name": "Nadun Adikari",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/010/",
                     "type": "STUDENT",
-                    "id": "e14010",
+                    "id": "E/14/010",
                     "email": "e14010@ce.pdn.ac.lk",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14010.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e14/010/"
@@ -490,461 +860,7 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185206/index.json"
         }
     ],
-    "e14262": [
-        {
-            "title": "Genopo: a nanopore sequencing analysis toolkit for portable Android devices",
-            "venue": "Communications Biology",
-            "year": "2020",
-            "authors": [
-                "Hiruna Samarakoon",
-                "Sanoj Punchihewa",
-                "Anjana Senanayake",
-                "Jillian M. Hammond",
-                "Igor Stevanovski",
-                "James M. Ferguson",
-                "Roshan Ragel",
-                "Hasindu Gamaarachchi",
-                "Ira W. Deveson"
-            ],
-            "author_info": [
-                {
-                    "name": "Hiruna Samarakoon",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e14/302/",
-                    "type": "STUDENT",
-                    "id": "e14302",
-                    "email": "e14302@ce.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14302.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/302/"
-                },
-                {
-                    "name": "Sanoj Punchihewa",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e14/262/",
-                    "type": "STUDENT",
-                    "id": "e14262",
-                    "email": "e14262@ce.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14262.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/262/"
-                },
-                {
-                    "name": "Anjana Senanayake",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e14/317/",
-                    "type": "STUDENT",
-                    "id": "e14317",
-                    "email": "e14317@ce.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14317.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/317/"
-                },
-                {
-                    "name": "Jillian M. Hammond",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                },
-                {
-                    "name": "Igor Stevanovski",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                },
-                {
-                    "name": "James M. Ferguson",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                },
-                {
-                    "name": "Roshan Ragel",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF",
-                    "id": "roshanr",
-                    "email": "roshanr@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
-                },
-                {
-                    "name": "Hasindu Gamaarachchi",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                },
-                {
-                    "name": "Ira W. Deveson",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                }
-            ],
-            "doi": "https://doi.org/10.1038/s42003-020-01270-z",
-            "preprint": "#",
-            "pdf": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
-            "presentation": "#",
-            "project": "#",
-            "codebase": "#",
-            "researchgroups": [
-                "Computational BioEngineering"
-            ],
-            "funding": "MRFF grant APP1173594 (to I.W.D.), Cancer Institute NSW Early Career Fellowship 2018/ECF013 (to I.W.D.) and philanthropic support from The Kinghorn Foundation (to I.W.D. and H.G.).",
-            "tags": [
-                "Genopo",
-                "Nanopore Sequencing"
-            ],
-            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1038/s42003-020-01270-z/",
-            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1038/s42003-020-01270-z/index.json"
-        }
-    ],
-    "e14302": [
-        {
-            "title": "Genopo: a nanopore sequencing analysis toolkit for portable Android devices",
-            "venue": "Communications Biology",
-            "year": "2020",
-            "authors": [
-                "Hiruna Samarakoon",
-                "Sanoj Punchihewa",
-                "Anjana Senanayake",
-                "Jillian M. Hammond",
-                "Igor Stevanovski",
-                "James M. Ferguson",
-                "Roshan Ragel",
-                "Hasindu Gamaarachchi",
-                "Ira W. Deveson"
-            ],
-            "author_info": [
-                {
-                    "name": "Hiruna Samarakoon",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e14/302/",
-                    "type": "STUDENT",
-                    "id": "e14302",
-                    "email": "e14302@ce.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14302.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/302/"
-                },
-                {
-                    "name": "Sanoj Punchihewa",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e14/262/",
-                    "type": "STUDENT",
-                    "id": "e14262",
-                    "email": "e14262@ce.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14262.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/262/"
-                },
-                {
-                    "name": "Anjana Senanayake",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e14/317/",
-                    "type": "STUDENT",
-                    "id": "e14317",
-                    "email": "e14317@ce.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14317.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/317/"
-                },
-                {
-                    "name": "Jillian M. Hammond",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                },
-                {
-                    "name": "Igor Stevanovski",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                },
-                {
-                    "name": "James M. Ferguson",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                },
-                {
-                    "name": "Roshan Ragel",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF",
-                    "id": "roshanr",
-                    "email": "roshanr@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
-                },
-                {
-                    "name": "Hasindu Gamaarachchi",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                },
-                {
-                    "name": "Ira W. Deveson",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                }
-            ],
-            "doi": "https://doi.org/10.1038/s42003-020-01270-z",
-            "preprint": "#",
-            "pdf": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
-            "presentation": "#",
-            "project": "#",
-            "codebase": "#",
-            "researchgroups": [
-                "Computational BioEngineering"
-            ],
-            "funding": "MRFF grant APP1173594 (to I.W.D.), Cancer Institute NSW Early Career Fellowship 2018/ECF013 (to I.W.D.) and philanthropic support from The Kinghorn Foundation (to I.W.D. and H.G.).",
-            "tags": [
-                "Genopo",
-                "Nanopore Sequencing"
-            ],
-            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1038/s42003-020-01270-z/",
-            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1038/s42003-020-01270-z/index.json"
-        },
-        {
-            "title": "GPU accelerated adaptive banded event alignment for rapid comparative nanopore signal analysis",
-            "venue": "BMC Bioinformatics",
-            "year": "2020",
-            "authors": [
-                "Hasindu Gamaarachchi",
-                "Chun Wai Lam",
-                "Gihan Jayatilaka",
-                "Hiruna Samarakoon",
-                "Jared T. Simpson",
-                "Martin A. Smith",
-                "Sri Parameswaran"
-            ],
-            "author_info": [
-                {
-                    "name": "Hasindu Gamaarachchi",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                },
-                {
-                    "name": "Chun Wai Lam",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                },
-                {
-                    "name": "Gihan Jayatilaka",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e14/158/",
-                    "type": "STUDENT",
-                    "id": "gihanjayatilaka",
-                    "email": "gihanjayatilaka@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
-                },
-                {
-                    "name": "Hiruna Samarakoon",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e14/302/",
-                    "type": "STUDENT",
-                    "id": "e14302",
-                    "email": "e14302@ce.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14302.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/302/"
-                },
-                {
-                    "name": "Jared T. Simpson",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                },
-                {
-                    "name": "Martin A. Smith",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                },
-                {
-                    "name": "Sri Parameswaran",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                }
-            ],
-            "doi": "https://doi.org/10.1186/s12859-020-03697-x",
-            "preprint": "https://www.biorxiv.org/content/10.1101/756122v1.full.pdf",
-            "pdf": "https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-020-03697-x.pdf",
-            "presentation": "#",
-            "project": "#",
-            "codebase": "https://github.com/hasindu2008/f5c",
-            "researchgroups": [
-                "Accelerated and High-Performance Computing (FPGA / GPU)"
-            ],
-            "funding": "Jared T. Simpson is supported by the Ontario Institute for Cancer Research through funds provided by the Government of Ontario and the Government of Canada through Genome Canada and Ontario Genomics (OGI-136).",
-            "tags": [
-                "Nanopore",
-                "Signal alignment",
-                "Event alignment",
-                "Methylation",
-                "GPU",
-                "GPU acceleration",
-                "Optimisation",
-                "SoC",
-                "Nanopolish",
-                "f5c"
-            ],
-            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1186/s12859-020-03697-x/",
-            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1186/s12859-020-03697-x/index.json"
-        }
-    ],
-    "e14317": [
-        {
-            "title": "Genopo: a nanopore sequencing analysis toolkit for portable Android devices",
-            "venue": "Communications Biology",
-            "year": "2020",
-            "authors": [
-                "Hiruna Samarakoon",
-                "Sanoj Punchihewa",
-                "Anjana Senanayake",
-                "Jillian M. Hammond",
-                "Igor Stevanovski",
-                "James M. Ferguson",
-                "Roshan Ragel",
-                "Hasindu Gamaarachchi",
-                "Ira W. Deveson"
-            ],
-            "author_info": [
-                {
-                    "name": "Hiruna Samarakoon",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e14/302/",
-                    "type": "STUDENT",
-                    "id": "e14302",
-                    "email": "e14302@ce.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14302.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/302/"
-                },
-                {
-                    "name": "Sanoj Punchihewa",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e14/262/",
-                    "type": "STUDENT",
-                    "id": "e14262",
-                    "email": "e14262@ce.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14262.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/262/"
-                },
-                {
-                    "name": "Anjana Senanayake",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e14/317/",
-                    "type": "STUDENT",
-                    "id": "e14317",
-                    "email": "e14317@ce.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14317.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/317/"
-                },
-                {
-                    "name": "Jillian M. Hammond",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                },
-                {
-                    "name": "Igor Stevanovski",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                },
-                {
-                    "name": "James M. Ferguson",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                },
-                {
-                    "name": "Roshan Ragel",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF",
-                    "id": "roshanr",
-                    "email": "roshanr@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
-                },
-                {
-                    "name": "Hasindu Gamaarachchi",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                },
-                {
-                    "name": "Ira W. Deveson",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                }
-            ],
-            "doi": "https://doi.org/10.1038/s42003-020-01270-z",
-            "preprint": "#",
-            "pdf": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
-            "presentation": "#",
-            "project": "#",
-            "codebase": "#",
-            "researchgroups": [
-                "Computational BioEngineering"
-            ],
-            "funding": "MRFF grant APP1173594 (to I.W.D.), Cancer Institute NSW Early Career Fellowship 2018/ECF013 (to I.W.D.) and philanthropic support from The Kinghorn Foundation (to I.W.D. and H.G.).",
-            "tags": [
-                "Genopo",
-                "Nanopore Sequencing"
-            ],
-            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1038/s42003-020-01270-z/",
-            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1038/s42003-020-01270-z/index.json"
-        }
-    ],
-    "e14339": [
+    "E/14/158": [
         {
             "title": "A Retinex based GAN Pipeline to Utilize Paired and Unpaired Datasets for Enhancing Low Light Images",
             "venue": "MERcon",
@@ -972,7 +888,7 @@
                     "name": "Gihan Jayatilaka",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/158/",
                     "type": "STUDENT",
-                    "id": "gihanjayatilaka",
+                    "id": "E/14/158",
                     "email": "gihanjayatilaka@eng.pdn.ac.lk",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
@@ -981,7 +897,7 @@
                     "name": "Suren Sritharan",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/339/",
                     "type": "STUDENT",
-                    "id": "e14339",
+                    "id": "E/14/339",
                     "email": "e14339@ce.pdn.ac.lk",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14339.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e14/339/"
@@ -1060,7 +976,7 @@
                     "name": "Gihan Jayatilaka",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/158/",
                     "type": "STUDENT",
-                    "id": "gihanjayatilaka",
+                    "id": "E/14/158",
                     "email": "gihanjayatilaka@eng.pdn.ac.lk",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
@@ -1069,7 +985,7 @@
                     "name": "Harshana Weligampola",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/379/",
                     "type": "STUDENT",
-                    "id": "#",
+                    "id": "E/14/379",
                     "email": "#",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14379.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e14/379/"
@@ -1078,7 +994,7 @@
                     "name": "Suren Sritharan",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/339/",
                     "type": "STUDENT",
-                    "id": "e14339",
+                    "id": "E/14/339",
                     "email": "e14339@ce.pdn.ac.lk",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14339.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e14/339/"
@@ -1087,853 +1003,7 @@
                     "name": "Pankayaraj Pathmanathan",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/237/",
                     "type": "STUDENT",
-                    "id": "pankayaraj1995",
-                    "email": "pankayaraj1995@gmail.com",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14237.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/237/"
-                },
-                {
-                    "name": "Roshan Ragel",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF",
-                    "id": "roshanr",
-                    "email": "roshanr@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
-                },
-                {
-                    "name": "Isuru Nawinne",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
-                    "type": "STAFF",
-                    "id": "isurunawinne",
-                    "email": "isurunawinne@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
-                }
-            ],
-            "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
-            "preprint": "https://arxiv.org/pdf/1910.04725.pdf",
-            "pdf": "#",
-            "presentation": "#",
-            "project": "#",
-            "codebase": "#",
-            "researchgroups": [
-                "Computational BioEngineering",
-                "Computer Vision"
-            ],
-            "funding": "",
-            "tags": [
-                "Sleep apnea",
-                "Video processing",
-                "Bio medical engineering",
-                "Pattern recognition"
-            ],
-            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/",
-            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS47346.2019.9063269/index.json"
-        }
-    ],
-    "e14413": [
-        {
-            "title": "BAT\u00e2\u0080\u0094Block Analytics Tool Integrated with Blockchain Based IoT Platform",
-            "venue": "Electronics",
-            "year": "2020",
-            "authors": [
-                "Chathurangi Edussuriya",
-                "Kasun Vithanage",
-                "Namila Bandara",
-                "Janaka Alawatugoda",
-                "Manjula Sandirigama",
-                "Upul Jayasinghe",
-                "Nathan Shone",
-                "Gyu Myoung Lee"
-            ],
-            "author_info": [
-                {
-                    "name": "Chathurangi Edussuriya",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e14/054/",
-                    "type": "STUDENT",
-                    "id": "e14054",
-                    "email": "e14054@ce.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14054.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/054/"
-                },
-                {
-                    "name": "Kasun Vithanage",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e14/413/",
-                    "type": "STUDENT",
-                    "id": "e14413",
-                    "email": "e14413@ce.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14413.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/413/"
-                },
-                {
-                    "name": "Namila Bandara",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                },
-                {
-                    "name": "Janaka Alawatugoda",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/",
-                    "type": "STAFF",
-                    "id": "alawatugoda",
-                    "email": "alawatugoda@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/"
-                },
-                {
-                    "name": "Manjula Sandirigama",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/",
-                    "type": "STAFF",
-                    "id": "manjula.sandirigama",
-                    "email": "manjula.sandirigama@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/"
-                },
-                {
-                    "name": "Upul Jayasinghe",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/upul/",
-                    "type": "STAFF",
-                    "id": "upuljm",
-                    "email": "upuljm@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul/"
-                },
-                {
-                    "name": "Nathan Shone",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                },
-                {
-                    "name": "Gyu Myoung Lee",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                }
-            ],
-            "doi": "https://doi.org/10.3390/electronics9091525",
-            "preprint": "#",
-            "pdf": "https://www.mdpi.com/2079-9292/9/9/1525/pdf?version=1600413580",
-            "presentation": "#",
-            "project": "#",
-            "codebase": "#",
-            "researchgroups": [],
-            "funding": "",
-            "tags": [
-                "IoT",
-                "blockchain",
-                "data analytics",
-                "smart contracts",
-                "access management"
-            ],
-            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/electronics9091525/",
-            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/electronics9091525/index.json"
-        }
-    ],
-    "e15021": [
-        {
-            "title": "Ensuring Academic Integrity of Online Examinations",
-            "venue": "2021 IEEE 16th International Conference on Industrial and Information Systems (ICIIS)",
-            "year": "2021",
-            "authors": [
-                "Mohamed Irfan",
-                "Mohammed Aslam",
-                "Ziyan Maraikar",
-                "Upul Jayasinghe",
-                "Mohamed Fawzan"
-            ],
-            "author_info": [
-                {
-                    "name": "Mohamed Irfan",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e15/138/",
-                    "type": "STUDENT",
-                    "id": "e15138",
-                    "email": "e15138@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15138.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/138/"
-                },
-                {
-                    "name": "Mohammed Aslam",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e15/021/",
-                    "type": "STUDENT",
-                    "id": "e15021",
-                    "email": "e15021@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15021.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/021/"
-                },
-                {
-                    "name": "Ziyan Maraikar",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/ziyan-maraikar/",
-                    "type": "STAFF",
-                    "id": "ziyanm",
-                    "email": "ziyanm@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/ziyan-maraikar.png",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/ziyan-maraikar/"
-                },
-                {
-                    "name": "Upul Jayasinghe",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/upul/",
-                    "type": "STAFF",
-                    "id": "upuljm",
-                    "email": "upuljm@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul/"
-                },
-                {
-                    "name": "Mohamed Fawzan",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                }
-            ],
-            "doi": "https://doi.org/10.1109/ICIIS53135.2021.9660737",
-            "preprint": "#",
-            "pdf": "#",
-            "presentation": "#",
-            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/online-proctoring-system/",
-            "codebase": "#",
-            "researchgroups": [],
-            "funding": "",
-            "tags": [
-                "Source separation",
-                "Webcams",
-                "Annotations",
-                "Time series analysis",
-                "Pose estimation",
-                "Streaming media",
-                "Feature extraction"
-            ],
-            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS53135.2021.9660737/",
-            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660737/index.json"
-        }
-    ],
-    "e15048": [
-        {
-            "title": "Microservice Based Edge Computing Architecture for Internet of Things",
-            "venue": "2022 2nd International Conference on Advanced Research in Computing (ICARC)",
-            "year": "2022",
-            "authors": [
-                "Sewwandi Nisansala",
-                "Gayal Laksara Chandrasiri",
-                "Sonali Prasadika",
-                "Upul Jayasinghe"
-            ],
-            "author_info": [
-                {
-                    "name": "Sewwandi Nisansala",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e15/243/",
-                    "type": "STUDENT",
-                    "id": "e15243",
-                    "email": "e15243@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15243.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/243/"
-                },
-                {
-                    "name": "Gayal Laksara Chandrasiri",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e15/048/",
-                    "type": "STUDENT",
-                    "id": "e15048",
-                    "email": "e15048@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15048.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/048/"
-                },
-                {
-                    "name": "Sonali Prasadika",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e15/271/",
-                    "type": "STUDENT",
-                    "id": "e15271",
-                    "email": "e15271@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15271.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/271/"
-                },
-                {
-                    "name": "Upul Jayasinghe",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/upul/",
-                    "type": "STAFF",
-                    "id": "upuljm",
-                    "email": "upuljm@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul/"
-                }
-            ],
-            "doi": "https://doi.org/10.1109/ICARC54489.2022.9753930",
-            "preprint": "#",
-            "pdf": "https://ieeexplore.ieee.org/abstract/document/9753930",
-            "presentation": "#",
-            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Microservice-Based-Edge-Computing-Architecture/",
-            "codebase": "https://github.com/cepdnaclk/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
-            "researchgroups": [],
-            "funding": "",
-            "tags": [
-                "Cloud computing",
-                "Architecture",
-                "Scalability",
-                "Microservice architectures",
-                "Computer architecture",
-                "Real-time systems",
-                "Internet of Things"
-            ],
-            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753930/",
-            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC54489.2022.9753930/index.json"
-        }
-    ],
-    "e15138": [
-        {
-            "title": "Ensuring Academic Integrity of Online Examinations",
-            "venue": "2021 IEEE 16th International Conference on Industrial and Information Systems (ICIIS)",
-            "year": "2021",
-            "authors": [
-                "Mohamed Irfan",
-                "Mohammed Aslam",
-                "Ziyan Maraikar",
-                "Upul Jayasinghe",
-                "Mohamed Fawzan"
-            ],
-            "author_info": [
-                {
-                    "name": "Mohamed Irfan",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e15/138/",
-                    "type": "STUDENT",
-                    "id": "e15138",
-                    "email": "e15138@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15138.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/138/"
-                },
-                {
-                    "name": "Mohammed Aslam",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e15/021/",
-                    "type": "STUDENT",
-                    "id": "e15021",
-                    "email": "e15021@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15021.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/021/"
-                },
-                {
-                    "name": "Ziyan Maraikar",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/ziyan-maraikar/",
-                    "type": "STAFF",
-                    "id": "ziyanm",
-                    "email": "ziyanm@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/ziyan-maraikar.png",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/ziyan-maraikar/"
-                },
-                {
-                    "name": "Upul Jayasinghe",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/upul/",
-                    "type": "STAFF",
-                    "id": "upuljm",
-                    "email": "upuljm@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul/"
-                },
-                {
-                    "name": "Mohamed Fawzan",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                }
-            ],
-            "doi": "https://doi.org/10.1109/ICIIS53135.2021.9660737",
-            "preprint": "#",
-            "pdf": "#",
-            "presentation": "#",
-            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/online-proctoring-system/",
-            "codebase": "#",
-            "researchgroups": [],
-            "funding": "",
-            "tags": [
-                "Source separation",
-                "Webcams",
-                "Annotations",
-                "Time series analysis",
-                "Pose estimation",
-                "Streaming media",
-                "Feature extraction"
-            ],
-            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS53135.2021.9660737/",
-            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660737/index.json"
-        }
-    ],
-    "e15188": [
-        {
-            "title": "Using Near-Infrared Spectroscopy for Vein Visualization",
-            "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
-            "year": "2021",
-            "authors": [
-                "KTB Weerasinghe",
-                "SC Tennakoon",
-                "KNU Kularatne",
-                "I Nawinne",
-                "R Ragel",
-                "H Jayakody"
-            ],
-            "author_info": [
-                {
-                    "name": "KTB Weerasinghe",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e15/383/",
-                    "type": "STUDENT",
-                    "id": "e15383",
-                    "email": "e15383@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15383.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/383/"
-                },
-                {
-                    "name": "SC Tennakoon",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e15/349/",
-                    "type": "STUDENT",
-                    "id": "shamal.ten",
-                    "email": "shamal.ten@gmail.com",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15349.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/349/"
-                },
-                {
-                    "name": "KNU Kularatne",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e15/188/",
-                    "type": "STUDENT",
-                    "id": "e15188",
-                    "email": "e15188@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15188.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/188/"
-                },
-                {
-                    "name": "I Nawinne",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
-                    "type": "STAFF",
-                    "id": "isurunawinne",
-                    "email": "isurunawinne@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
-                },
-                {
-                    "name": "R Ragel",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF",
-                    "id": "roshanr",
-                    "email": "roshanr@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
-                },
-                {
-                    "name": "H Jayakody",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                }
-            ],
-            "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9606126",
-            "preprint": "#",
-            "pdf": "#",
-            "presentation": "#",
-            "project": "#",
-            "codebase": "#",
-            "researchgroups": [],
-            "funding": "",
-            "tags": [
-                "Visualization",
-                "Veins",
-                "Prototypes",
-                "Clinical trials",
-                "Skin",
-                "Real-time systems",
-                "Sustainable development"
-            ],
-            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606126/",
-            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606126/index.json"
-        }
-    ],
-    "e15243": [
-        {
-            "title": "Microservice Based Edge Computing Architecture for Internet of Things",
-            "venue": "2022 2nd International Conference on Advanced Research in Computing (ICARC)",
-            "year": "2022",
-            "authors": [
-                "Sewwandi Nisansala",
-                "Gayal Laksara Chandrasiri",
-                "Sonali Prasadika",
-                "Upul Jayasinghe"
-            ],
-            "author_info": [
-                {
-                    "name": "Sewwandi Nisansala",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e15/243/",
-                    "type": "STUDENT",
-                    "id": "e15243",
-                    "email": "e15243@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15243.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/243/"
-                },
-                {
-                    "name": "Gayal Laksara Chandrasiri",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e15/048/",
-                    "type": "STUDENT",
-                    "id": "e15048",
-                    "email": "e15048@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15048.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/048/"
-                },
-                {
-                    "name": "Sonali Prasadika",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e15/271/",
-                    "type": "STUDENT",
-                    "id": "e15271",
-                    "email": "e15271@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15271.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/271/"
-                },
-                {
-                    "name": "Upul Jayasinghe",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/upul/",
-                    "type": "STAFF",
-                    "id": "upuljm",
-                    "email": "upuljm@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul/"
-                }
-            ],
-            "doi": "https://doi.org/10.1109/ICARC54489.2022.9753930",
-            "preprint": "#",
-            "pdf": "https://ieeexplore.ieee.org/abstract/document/9753930",
-            "presentation": "#",
-            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Microservice-Based-Edge-Computing-Architecture/",
-            "codebase": "https://github.com/cepdnaclk/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
-            "researchgroups": [],
-            "funding": "",
-            "tags": [
-                "Cloud computing",
-                "Architecture",
-                "Scalability",
-                "Microservice architectures",
-                "Computer architecture",
-                "Real-time systems",
-                "Internet of Things"
-            ],
-            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753930/",
-            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC54489.2022.9753930/index.json"
-        }
-    ],
-    "e15271": [
-        {
-            "title": "Microservice Based Edge Computing Architecture for Internet of Things",
-            "venue": "2022 2nd International Conference on Advanced Research in Computing (ICARC)",
-            "year": "2022",
-            "authors": [
-                "Sewwandi Nisansala",
-                "Gayal Laksara Chandrasiri",
-                "Sonali Prasadika",
-                "Upul Jayasinghe"
-            ],
-            "author_info": [
-                {
-                    "name": "Sewwandi Nisansala",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e15/243/",
-                    "type": "STUDENT",
-                    "id": "e15243",
-                    "email": "e15243@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15243.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/243/"
-                },
-                {
-                    "name": "Gayal Laksara Chandrasiri",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e15/048/",
-                    "type": "STUDENT",
-                    "id": "e15048",
-                    "email": "e15048@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15048.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/048/"
-                },
-                {
-                    "name": "Sonali Prasadika",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e15/271/",
-                    "type": "STUDENT",
-                    "id": "e15271",
-                    "email": "e15271@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15271.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/271/"
-                },
-                {
-                    "name": "Upul Jayasinghe",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/upul/",
-                    "type": "STAFF",
-                    "id": "upuljm",
-                    "email": "upuljm@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul/"
-                }
-            ],
-            "doi": "https://doi.org/10.1109/ICARC54489.2022.9753930",
-            "preprint": "#",
-            "pdf": "https://ieeexplore.ieee.org/abstract/document/9753930",
-            "presentation": "#",
-            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Microservice-Based-Edge-Computing-Architecture/",
-            "codebase": "https://github.com/cepdnaclk/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
-            "researchgroups": [],
-            "funding": "",
-            "tags": [
-                "Cloud computing",
-                "Architecture",
-                "Scalability",
-                "Microservice architectures",
-                "Computer architecture",
-                "Real-time systems",
-                "Internet of Things"
-            ],
-            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753930/",
-            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC54489.2022.9753930/index.json"
-        }
-    ],
-    "e15383": [
-        {
-            "title": "Using Near-Infrared Spectroscopy for Vein Visualization",
-            "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
-            "year": "2021",
-            "authors": [
-                "KTB Weerasinghe",
-                "SC Tennakoon",
-                "KNU Kularatne",
-                "I Nawinne",
-                "R Ragel",
-                "H Jayakody"
-            ],
-            "author_info": [
-                {
-                    "name": "KTB Weerasinghe",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e15/383/",
-                    "type": "STUDENT",
-                    "id": "e15383",
-                    "email": "e15383@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15383.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/383/"
-                },
-                {
-                    "name": "SC Tennakoon",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e15/349/",
-                    "type": "STUDENT",
-                    "id": "shamal.ten",
-                    "email": "shamal.ten@gmail.com",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15349.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/349/"
-                },
-                {
-                    "name": "KNU Kularatne",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e15/188/",
-                    "type": "STUDENT",
-                    "id": "e15188",
-                    "email": "e15188@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15188.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/188/"
-                },
-                {
-                    "name": "I Nawinne",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
-                    "type": "STAFF",
-                    "id": "isurunawinne",
-                    "email": "isurunawinne@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
-                },
-                {
-                    "name": "R Ragel",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF",
-                    "id": "roshanr",
-                    "email": "roshanr@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
-                },
-                {
-                    "name": "H Jayakody",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                }
-            ],
-            "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9606126",
-            "preprint": "#",
-            "pdf": "#",
-            "presentation": "#",
-            "project": "#",
-            "codebase": "#",
-            "researchgroups": [],
-            "funding": "",
-            "tags": [
-                "Visualization",
-                "Veins",
-                "Prototypes",
-                "Clinical trials",
-                "Skin",
-                "Real-time systems",
-                "Sustainable development"
-            ],
-            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606126/",
-            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606126/index.json"
-        }
-    ],
-    "gihanjayatilaka": [
-        {
-            "title": "A Retinex based GAN Pipeline to Utilize Paired and Unpaired Datasets for Enhancing Low Light Images",
-            "venue": "MERcon",
-            "year": "2020",
-            "authors": [
-                "Harshana Weligampola",
-                "Gihan Jayatilaka",
-                "Suren Sritharan",
-                "Roshan Goldaliyadda",
-                "Parakrama Ekanayeka",
-                "Roshan Ragel",
-                "Vijitha Herath"
-            ],
-            "author_info": [
-                {
-                    "name": "Harshana Weligampola",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                },
-                {
-                    "name": "Gihan Jayatilaka",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e14/158/",
-                    "type": "STUDENT",
-                    "id": "gihanjayatilaka",
-                    "email": "gihanjayatilaka@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
-                },
-                {
-                    "name": "Suren Sritharan",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e14/339/",
-                    "type": "STUDENT",
-                    "id": "e14339",
-                    "email": "e14339@ce.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14339.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/339/"
-                },
-                {
-                    "name": "Roshan Goldaliyadda",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                },
-                {
-                    "name": "Parakrama Ekanayeka",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                },
-                {
-                    "name": "Roshan Ragel",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF",
-                    "id": "roshanr",
-                    "email": "roshanr@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
-                },
-                {
-                    "name": "Vijitha Herath",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                }
-            ],
-            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185373",
-            "preprint": "https://arxiv.org/pdf/2006.15304.pdf",
-            "pdf": "#",
-            "presentation": "https://www.cs.umd.edu/~gihan/projects/fyp/mercon-2020-presentation.pdf",
-            "project": "#",
-            "codebase": "#",
-            "researchgroups": [
-                "Computer Vision"
-            ],
-            "funding": "",
-            "tags": [
-                "Low-light image enhancement",
-                "Retinex theory",
-                "Generative adversarial networks",
-                "Cycle consistency",
-                "Computer Vision"
-            ],
-            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185373/",
-            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185373/index.json"
-        },
-        {
-            "title": "Non-contact Infant Sleep Apnea Detection",
-            "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
-            "year": "2019",
-            "authors": [
-                "Gihan Jayatilaka",
-                "Harshana Weligampola",
-                "Suren Sritharan",
-                "Pankayaraj Pathmanathan",
-                "Roshan Ragel",
-                "Isuru Nawinne"
-            ],
-            "author_info": [
-                {
-                    "name": "Gihan Jayatilaka",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e14/158/",
-                    "type": "STUDENT",
-                    "id": "gihanjayatilaka",
-                    "email": "gihanjayatilaka@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
-                },
-                {
-                    "name": "Harshana Weligampola",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e14/379/",
-                    "type": "STUDENT",
-                    "id": "#",
-                    "email": "#",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14379.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/379/"
-                },
-                {
-                    "name": "Suren Sritharan",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e14/339/",
-                    "type": "STUDENT",
-                    "id": "e14339",
-                    "email": "e14339@ce.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14339.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/339/"
-                },
-                {
-                    "name": "Pankayaraj Pathmanathan",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e14/237/",
-                    "type": "STUDENT",
-                    "id": "pankayaraj1995",
+                    "id": "E/14/237",
                     "email": "pankayaraj1995@gmail.com",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14237.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e14/237/"
@@ -2032,7 +1102,7 @@
                     "name": "G.C. Jayatilaka",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/158/",
                     "type": "STUDENT",
-                    "id": "gihanjayatilaka",
+                    "id": "E/14/158",
                     "email": "gihanjayatilaka@eng.pdn.ac.lk",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
@@ -2123,7 +1193,7 @@
                     "name": "Gihan Jayatilaka",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/158/",
                     "type": "STUDENT",
-                    "id": "gihanjayatilaka",
+                    "id": "E/14/158",
                     "email": "gihanjayatilaka@eng.pdn.ac.lk",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
@@ -2132,7 +1202,7 @@
                     "name": "Hiruna Samarakoon",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/302/",
                     "type": "STUDENT",
-                    "id": "e14302",
+                    "id": "E/14/302",
                     "email": "e14302@ce.pdn.ac.lk",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14302.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e14/302/"
@@ -2214,7 +1284,7 @@
                     "name": "Gihan Jayatilaka",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/158/",
                     "type": "STUDENT",
-                    "id": "gihanjayatilaka",
+                    "id": "E/14/158",
                     "email": "gihanjayatilaka@eng.pdn.ac.lk",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
@@ -2258,207 +1328,7 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1145/3412382.3458269/index.json"
         }
     ],
-    "hasindu": [
-        {
-            "title": "Autonomic trust management in cloud-based and highly dynamic IoT applications",
-            "venue": "2015 ITU Kaleidoscope: Trust in the Information Society (K-2015)",
-            "year": "2015",
-            "authors": [
-                "Suneth Namal",
-                "Hasindu Gamaarachchi",
-                "Gyu MyoungLee",
-                "Tai-Won Um"
-            ],
-            "author_info": [
-                {
-                    "name": "Suneth Namal",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/suneth-namal-karunarathna/",
-                    "type": "STAFF",
-                    "id": "namal",
-                    "email": "namal@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/suneth-namal-karunarathna.png",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/suneth-namal-karunarathna/"
-                },
-                {
-                    "name": "Hasindu Gamaarachchi",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e10/102/",
-                    "type": "STUDENT",
-                    "id": "hasindu",
-                    "email": "hasindu@unsw.edu.au",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e10/e10102.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e10/102/"
-                },
-                {
-                    "name": "Gyu MyoungLee",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                },
-                {
-                    "name": "Tai-Won Um",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                }
-            ],
-            "doi": "https://doi.org/10.1109/Kaleidoscope.2015.7383635",
-            "preprint": "#",
-            "pdf": "https://researchonline.ljmu.ac.uk/id/eprint/2150/1/1570197625.pdf",
-            "presentation": "#",
-            "project": "#",
-            "codebase": "#",
-            "researchgroups": [],
-            "funding": "",
-            "tags": [
-                "Cloud computing",
-                "Security",
-                "Biological system modeling",
-                "Monitoring",
-                "Internet of things",
-                "Ecosystems",
-                "Scalability"
-            ],
-            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/Kaleidoscope.2015.7383635/",
-            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/Kaleidoscope.2015.7383635/index.json"
-        }
-    ],
-    "imeshuek": [
-        {
-            "title": "Chronic kidney disease prediction using machine learning methods",
-            "venue": "2020 Moratuwa Engineering Research Conference (MERCon) - IEEE",
-            "year": "2020",
-            "authors": [
-                "Imesh Udara Ekanayake",
-                "Damayanthi Herath"
-            ],
-            "author_info": [
-                {
-                    "name": "Imesh Udara Ekanayake",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e15/092/",
-                    "type": "STUDENT",
-                    "id": "imeshuek",
-                    "email": "imeshuek@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15092.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/092/"
-                },
-                {
-                    "name": "Damayanthi Herath",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
-                    "type": "STAFF",
-                    "id": "damayanthiherath",
-                    "email": "damayanthiherath@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/"
-                }
-            ],
-            "doi": " https://doi.org/10.1109/MERCon50084.2020.9185249",
-            "preprint": "#",
-            "pdf": "https://www.researchgate.net/profile/Imesh-Ekanayake/publication/344319206_Chronic_Kidney_Disease_Prediction_Using_Machine_Learning_Methods/links/5f672571458515b7cf418d5b/Chronic-Kidney-Disease-Prediction-Using-Machine-Learning-Methods.pdf",
-            "presentation": "#",
-            "project": "#",
-            "codebase": "#",
-            "researchgroups": [
-                "Machine Learning and Data Mining"
-            ],
-            "funding": "",
-            "tags": [
-                "Kidney",
-                "Diseases",
-                "Machine learning",
-                "Red blood cells",
-                "Hypertension"
-            ],
-            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185249/",
-            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185249/index.json"
-        }
-    ],
-    "jayamine.alupotha": [
-        {
-            "title": "Implementing a proven-secure and cost-effective countermeasure against the compression ratio info-leak mass exploitation (CRIME) attack",
-            "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
-            "year": "2017",
-            "authors": [
-                "Jayamine Alupotha",
-                "Sanduni Prasadi",
-                "Janaka Alawatugoda",
-                "Roshan Ragel",
-                "Mohamed Fawsan"
-            ],
-            "author_info": [
-                {
-                    "name": "Jayamine Alupotha",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e12/009/",
-                    "type": "STUDENT",
-                    "id": "jayamine.alupotha",
-                    "email": "jayamine.alupotha@gmail.com",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e12/e12009.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e12/009/"
-                },
-                {
-                    "name": "Sanduni Prasadi",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e12/269/",
-                    "type": "STUDENT",
-                    "id": "sanduniprasadi06",
-                    "email": "sanduniprasadi06@gmail.com",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e12/e12269.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e12/269/"
-                },
-                {
-                    "name": "Janaka Alawatugoda",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/",
-                    "type": "STAFF",
-                    "id": "alawatugoda",
-                    "email": "alawatugoda@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/"
-                },
-                {
-                    "name": "Roshan Ragel",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF",
-                    "id": "roshanr",
-                    "email": "roshanr@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
-                },
-                {
-                    "name": "Mohamed Fawsan",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                }
-            ],
-            "doi": "https://doi.org/10.1109/ICIINFS.2017.8300359",
-            "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/323352314_Implementing_a_proven-secure_and_cost-effective_countermeasure_against_the_compression_ratio_info-leak_mass_exploitation_CRIME_attack/links/61c959beb8305f7c4b0421bc/Implementing-a-proven-secure-and-cost-effective-countermeasure-against-the-compression-ratio-info-leak-mass-exploitation-CRIME-attack.pdf",
-            "pdf": "#",
-            "presentation": "#",
-            "project": "#",
-            "codebase": "#",
-            "researchgroups": [
-                "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
-            ],
-            "funding": "",
-            "tags": [
-                "Bandwidth",
-                "Side-channel attacks",
-                "Dictionaries",
-                "Servers",
-                "Data compression"
-            ],
-            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300359/",
-            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300359/index.json"
-        }
-    ],
-    "pankayaraj1995": [
+    "E/14/237": [
         {
             "title": "Non-contact Infant Sleep Apnea Detection",
             "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
@@ -2476,7 +1346,7 @@
                     "name": "Gihan Jayatilaka",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/158/",
                     "type": "STUDENT",
-                    "id": "gihanjayatilaka",
+                    "id": "E/14/158",
                     "email": "gihanjayatilaka@eng.pdn.ac.lk",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
@@ -2485,7 +1355,7 @@
                     "name": "Harshana Weligampola",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/379/",
                     "type": "STUDENT",
-                    "id": "#",
+                    "id": "E/14/379",
                     "email": "#",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14379.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e14/379/"
@@ -2494,7 +1364,7 @@
                     "name": "Suren Sritharan",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/339/",
                     "type": "STUDENT",
-                    "id": "e14339",
+                    "id": "E/14/339",
                     "email": "e14339@ce.pdn.ac.lk",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14339.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e14/339/"
@@ -2503,7 +1373,7 @@
                     "name": "Pankayaraj Pathmanathan",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/237/",
                     "type": "STUDENT",
-                    "id": "pankayaraj1995",
+                    "id": "E/14/237",
                     "email": "pankayaraj1995@gmail.com",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14237.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e14/237/"
@@ -2548,45 +1418,76 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS47346.2019.9063269/index.json"
         }
     ],
-    "sanduniprasadi06": [
+    "E/14/262": [
         {
-            "title": "Implementing a proven-secure and cost-effective countermeasure against the compression ratio info-leak mass exploitation (CRIME) attack",
-            "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
-            "year": "2017",
+            "title": "Genopo: a nanopore sequencing analysis toolkit for portable Android devices",
+            "venue": "Communications Biology",
+            "year": "2020",
             "authors": [
-                "Jayamine Alupotha",
-                "Sanduni Prasadi",
-                "Janaka Alawatugoda",
+                "Hiruna Samarakoon",
+                "Sanoj Punchihewa",
+                "Anjana Senanayake",
+                "Jillian M. Hammond",
+                "Igor Stevanovski",
+                "James M. Ferguson",
                 "Roshan Ragel",
-                "Mohamed Fawsan"
+                "Hasindu Gamaarachchi",
+                "Ira W. Deveson"
             ],
             "author_info": [
                 {
-                    "name": "Jayamine Alupotha",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e12/009/",
+                    "name": "Hiruna Samarakoon",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/302/",
                     "type": "STUDENT",
-                    "id": "jayamine.alupotha",
-                    "email": "jayamine.alupotha@gmail.com",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e12/e12009.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e12/009/"
+                    "id": "E/14/302",
+                    "email": "e14302@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14302.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/302/"
                 },
                 {
-                    "name": "Sanduni Prasadi",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e12/269/",
+                    "name": "Sanoj Punchihewa",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/262/",
                     "type": "STUDENT",
-                    "id": "sanduniprasadi06",
-                    "email": "sanduniprasadi06@gmail.com",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e12/e12269.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e12/269/"
+                    "id": "E/14/262",
+                    "email": "e14262@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14262.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/262/"
                 },
                 {
-                    "name": "Janaka Alawatugoda",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/",
-                    "type": "STAFF",
-                    "id": "alawatugoda",
-                    "email": "alawatugoda@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/"
+                    "name": "Anjana Senanayake",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/317/",
+                    "type": "STUDENT",
+                    "id": "E/14/317",
+                    "email": "e14317@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14317.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/317/"
+                },
+                {
+                    "name": "Jillian M. Hammond",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Igor Stevanovski",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "James M. Ferguson",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Roshan Ragel",
@@ -2598,7 +1499,16 @@
                     "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
                 },
                 {
-                    "name": "Mohamed Fawsan",
+                    "name": "Hasindu Gamaarachchi",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Ira W. Deveson",
                     "profile": "#",
                     "type": "OUTSIDER",
                     "id": "",
@@ -2607,28 +1517,1028 @@
                     "profile_url": "#"
                 }
             ],
-            "doi": "https://doi.org/10.1109/ICIINFS.2017.8300359",
-            "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/323352314_Implementing_a_proven-secure_and_cost-effective_countermeasure_against_the_compression_ratio_info-leak_mass_exploitation_CRIME_attack/links/61c959beb8305f7c4b0421bc/Implementing-a-proven-secure-and-cost-effective-countermeasure-against-the-compression-ratio-info-leak-mass-exploitation-CRIME-attack.pdf",
+            "doi": "https://doi.org/10.1038/s42003-020-01270-z",
+            "preprint": "#",
+            "pdf": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering"
+            ],
+            "funding": "MRFF grant APP1173594 (to I.W.D.), Cancer Institute NSW Early Career Fellowship 2018/ECF013 (to I.W.D.) and philanthropic support from The Kinghorn Foundation (to I.W.D. and H.G.).",
+            "tags": [
+                "Genopo",
+                "Nanopore Sequencing"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1038/s42003-020-01270-z/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1038/s42003-020-01270-z/index.json"
+        }
+    ],
+    "E/14/302": [
+        {
+            "title": "Genopo: a nanopore sequencing analysis toolkit for portable Android devices",
+            "venue": "Communications Biology",
+            "year": "2020",
+            "authors": [
+                "Hiruna Samarakoon",
+                "Sanoj Punchihewa",
+                "Anjana Senanayake",
+                "Jillian M. Hammond",
+                "Igor Stevanovski",
+                "James M. Ferguson",
+                "Roshan Ragel",
+                "Hasindu Gamaarachchi",
+                "Ira W. Deveson"
+            ],
+            "author_info": [
+                {
+                    "name": "Hiruna Samarakoon",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/302/",
+                    "type": "STUDENT",
+                    "id": "E/14/302",
+                    "email": "e14302@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14302.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/302/"
+                },
+                {
+                    "name": "Sanoj Punchihewa",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/262/",
+                    "type": "STUDENT",
+                    "id": "E/14/262",
+                    "email": "e14262@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14262.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/262/"
+                },
+                {
+                    "name": "Anjana Senanayake",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/317/",
+                    "type": "STUDENT",
+                    "id": "E/14/317",
+                    "email": "e14317@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14317.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/317/"
+                },
+                {
+                    "name": "Jillian M. Hammond",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Igor Stevanovski",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "James M. Ferguson",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Roshan Ragel",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+                },
+                {
+                    "name": "Hasindu Gamaarachchi",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Ira W. Deveson",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                }
+            ],
+            "doi": "https://doi.org/10.1038/s42003-020-01270-z",
+            "preprint": "#",
+            "pdf": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering"
+            ],
+            "funding": "MRFF grant APP1173594 (to I.W.D.), Cancer Institute NSW Early Career Fellowship 2018/ECF013 (to I.W.D.) and philanthropic support from The Kinghorn Foundation (to I.W.D. and H.G.).",
+            "tags": [
+                "Genopo",
+                "Nanopore Sequencing"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1038/s42003-020-01270-z/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1038/s42003-020-01270-z/index.json"
+        },
+        {
+            "title": "GPU accelerated adaptive banded event alignment for rapid comparative nanopore signal analysis",
+            "venue": "BMC Bioinformatics",
+            "year": "2020",
+            "authors": [
+                "Hasindu Gamaarachchi",
+                "Chun Wai Lam",
+                "Gihan Jayatilaka",
+                "Hiruna Samarakoon",
+                "Jared T. Simpson",
+                "Martin A. Smith",
+                "Sri Parameswaran"
+            ],
+            "author_info": [
+                {
+                    "name": "Hasindu Gamaarachchi",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Chun Wai Lam",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Gihan Jayatilaka",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/158/",
+                    "type": "STUDENT",
+                    "id": "E/14/158",
+                    "email": "gihanjayatilaka@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
+                },
+                {
+                    "name": "Hiruna Samarakoon",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/302/",
+                    "type": "STUDENT",
+                    "id": "E/14/302",
+                    "email": "e14302@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14302.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/302/"
+                },
+                {
+                    "name": "Jared T. Simpson",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Martin A. Smith",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Sri Parameswaran",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                }
+            ],
+            "doi": "https://doi.org/10.1186/s12859-020-03697-x",
+            "preprint": "https://www.biorxiv.org/content/10.1101/756122v1.full.pdf",
+            "pdf": "https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-020-03697-x.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "https://github.com/hasindu2008/f5c",
+            "researchgroups": [
+                "Accelerated and High-Performance Computing (FPGA / GPU)"
+            ],
+            "funding": "Jared T. Simpson is supported by the Ontario Institute for Cancer Research through funds provided by the Government of Ontario and the Government of Canada through Genome Canada and Ontario Genomics (OGI-136).",
+            "tags": [
+                "Nanopore",
+                "Signal alignment",
+                "Event alignment",
+                "Methylation",
+                "GPU",
+                "GPU acceleration",
+                "Optimisation",
+                "SoC",
+                "Nanopolish",
+                "f5c"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1186/s12859-020-03697-x/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1186/s12859-020-03697-x/index.json"
+        }
+    ],
+    "E/14/317": [
+        {
+            "title": "Genopo: a nanopore sequencing analysis toolkit for portable Android devices",
+            "venue": "Communications Biology",
+            "year": "2020",
+            "authors": [
+                "Hiruna Samarakoon",
+                "Sanoj Punchihewa",
+                "Anjana Senanayake",
+                "Jillian M. Hammond",
+                "Igor Stevanovski",
+                "James M. Ferguson",
+                "Roshan Ragel",
+                "Hasindu Gamaarachchi",
+                "Ira W. Deveson"
+            ],
+            "author_info": [
+                {
+                    "name": "Hiruna Samarakoon",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/302/",
+                    "type": "STUDENT",
+                    "id": "E/14/302",
+                    "email": "e14302@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14302.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/302/"
+                },
+                {
+                    "name": "Sanoj Punchihewa",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/262/",
+                    "type": "STUDENT",
+                    "id": "E/14/262",
+                    "email": "e14262@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14262.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/262/"
+                },
+                {
+                    "name": "Anjana Senanayake",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/317/",
+                    "type": "STUDENT",
+                    "id": "E/14/317",
+                    "email": "e14317@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14317.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/317/"
+                },
+                {
+                    "name": "Jillian M. Hammond",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Igor Stevanovski",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "James M. Ferguson",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Roshan Ragel",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+                },
+                {
+                    "name": "Hasindu Gamaarachchi",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Ira W. Deveson",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                }
+            ],
+            "doi": "https://doi.org/10.1038/s42003-020-01270-z",
+            "preprint": "#",
+            "pdf": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering"
+            ],
+            "funding": "MRFF grant APP1173594 (to I.W.D.), Cancer Institute NSW Early Career Fellowship 2018/ECF013 (to I.W.D.) and philanthropic support from The Kinghorn Foundation (to I.W.D. and H.G.).",
+            "tags": [
+                "Genopo",
+                "Nanopore Sequencing"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1038/s42003-020-01270-z/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1038/s42003-020-01270-z/index.json"
+        }
+    ],
+    "E/14/339": [
+        {
+            "title": "A Retinex based GAN Pipeline to Utilize Paired and Unpaired Datasets for Enhancing Low Light Images",
+            "venue": "MERcon",
+            "year": "2020",
+            "authors": [
+                "Harshana Weligampola",
+                "Gihan Jayatilaka",
+                "Suren Sritharan",
+                "Roshan Goldaliyadda",
+                "Parakrama Ekanayeka",
+                "Roshan Ragel",
+                "Vijitha Herath"
+            ],
+            "author_info": [
+                {
+                    "name": "Harshana Weligampola",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Gihan Jayatilaka",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/158/",
+                    "type": "STUDENT",
+                    "id": "E/14/158",
+                    "email": "gihanjayatilaka@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
+                },
+                {
+                    "name": "Suren Sritharan",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/339/",
+                    "type": "STUDENT",
+                    "id": "E/14/339",
+                    "email": "e14339@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14339.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/339/"
+                },
+                {
+                    "name": "Roshan Goldaliyadda",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Parakrama Ekanayeka",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Roshan Ragel",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+                },
+                {
+                    "name": "Vijitha Herath",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                }
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185373",
+            "preprint": "https://arxiv.org/pdf/2006.15304.pdf",
+            "pdf": "#",
+            "presentation": "https://www.cs.umd.edu/~gihan/projects/fyp/mercon-2020-presentation.pdf",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Low-light image enhancement",
+                "Retinex theory",
+                "Generative adversarial networks",
+                "Cycle consistency",
+                "Computer Vision"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185373/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185373/index.json"
+        },
+        {
+            "title": "Non-contact Infant Sleep Apnea Detection",
+            "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2019",
+            "authors": [
+                "Gihan Jayatilaka",
+                "Harshana Weligampola",
+                "Suren Sritharan",
+                "Pankayaraj Pathmanathan",
+                "Roshan Ragel",
+                "Isuru Nawinne"
+            ],
+            "author_info": [
+                {
+                    "name": "Gihan Jayatilaka",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/158/",
+                    "type": "STUDENT",
+                    "id": "E/14/158",
+                    "email": "gihanjayatilaka@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
+                },
+                {
+                    "name": "Harshana Weligampola",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/379/",
+                    "type": "STUDENT",
+                    "id": "E/14/379",
+                    "email": "#",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14379.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/379/"
+                },
+                {
+                    "name": "Suren Sritharan",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/339/",
+                    "type": "STUDENT",
+                    "id": "E/14/339",
+                    "email": "e14339@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14339.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/339/"
+                },
+                {
+                    "name": "Pankayaraj Pathmanathan",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/237/",
+                    "type": "STUDENT",
+                    "id": "E/14/237",
+                    "email": "pankayaraj1995@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14237.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/237/"
+                },
+                {
+                    "name": "Roshan Ragel",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+                },
+                {
+                    "name": "Isuru Nawinne",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                    "type": "STAFF",
+                    "id": "isurunawinne",
+                    "email": "isurunawinne@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+                }
+            ],
+            "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
+            "preprint": "https://arxiv.org/pdf/1910.04725.pdf",
             "pdf": "#",
             "presentation": "#",
             "project": "#",
             "codebase": "#",
             "researchgroups": [
-                "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+                "Computational BioEngineering",
+                "Computer Vision"
             ],
             "funding": "",
             "tags": [
-                "Bandwidth",
-                "Side-channel attacks",
-                "Dictionaries",
-                "Servers",
-                "Data compression"
+                "Sleep apnea",
+                "Video processing",
+                "Bio medical engineering",
+                "Pattern recognition"
             ],
-            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300359/",
-            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300359/index.json"
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS47346.2019.9063269/index.json"
         }
     ],
-    "shamal.ten": [
+    "E/14/379": [
+        {
+            "title": "Non-contact Infant Sleep Apnea Detection",
+            "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2019",
+            "authors": [
+                "Gihan Jayatilaka",
+                "Harshana Weligampola",
+                "Suren Sritharan",
+                "Pankayaraj Pathmanathan",
+                "Roshan Ragel",
+                "Isuru Nawinne"
+            ],
+            "author_info": [
+                {
+                    "name": "Gihan Jayatilaka",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/158/",
+                    "type": "STUDENT",
+                    "id": "E/14/158",
+                    "email": "gihanjayatilaka@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
+                },
+                {
+                    "name": "Harshana Weligampola",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/379/",
+                    "type": "STUDENT",
+                    "id": "E/14/379",
+                    "email": "#",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14379.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/379/"
+                },
+                {
+                    "name": "Suren Sritharan",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/339/",
+                    "type": "STUDENT",
+                    "id": "E/14/339",
+                    "email": "e14339@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14339.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/339/"
+                },
+                {
+                    "name": "Pankayaraj Pathmanathan",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/237/",
+                    "type": "STUDENT",
+                    "id": "E/14/237",
+                    "email": "pankayaraj1995@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14237.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/237/"
+                },
+                {
+                    "name": "Roshan Ragel",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+                },
+                {
+                    "name": "Isuru Nawinne",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                    "type": "STAFF",
+                    "id": "isurunawinne",
+                    "email": "isurunawinne@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+                }
+            ],
+            "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
+            "preprint": "https://arxiv.org/pdf/1910.04725.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering",
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Sleep apnea",
+                "Video processing",
+                "Bio medical engineering",
+                "Pattern recognition"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS47346.2019.9063269/index.json"
+        }
+    ],
+    "E/14/413": [
+        {
+            "title": "BAT\u00e2\u0080\u0094Block Analytics Tool Integrated with Blockchain Based IoT Platform",
+            "venue": "Electronics",
+            "year": "2020",
+            "authors": [
+                "Chathurangi Edussuriya",
+                "Kasun Vithanage",
+                "Namila Bandara",
+                "Janaka Alawatugoda",
+                "Manjula Sandirigama",
+                "Upul Jayasinghe",
+                "Nathan Shone",
+                "Gyu Myoung Lee"
+            ],
+            "author_info": [
+                {
+                    "name": "Chathurangi Edussuriya",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/054/",
+                    "type": "STUDENT",
+                    "id": "E/14/054",
+                    "email": "e14054@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14054.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/054/"
+                },
+                {
+                    "name": "Kasun Vithanage",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/413/",
+                    "type": "STUDENT",
+                    "id": "E/14/413",
+                    "email": "e14413@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14413.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/413/"
+                },
+                {
+                    "name": "Namila Bandara",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Janaka Alawatugoda",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/",
+                    "type": "STAFF",
+                    "id": "alawatugoda",
+                    "email": "alawatugoda@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/"
+                },
+                {
+                    "name": "Manjula Sandirigama",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/",
+                    "type": "STAFF",
+                    "id": "manjula.sandirigama",
+                    "email": "manjula.sandirigama@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/"
+                },
+                {
+                    "name": "Upul Jayasinghe",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/upul/",
+                    "type": "STAFF",
+                    "id": "upuljm",
+                    "email": "upuljm@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul/"
+                },
+                {
+                    "name": "Nathan Shone",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Gyu Myoung Lee",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                }
+            ],
+            "doi": "https://doi.org/10.3390/electronics9091525",
+            "preprint": "#",
+            "pdf": "https://www.mdpi.com/2079-9292/9/9/1525/pdf?version=1600413580",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [],
+            "funding": "",
+            "tags": [
+                "IoT",
+                "blockchain",
+                "data analytics",
+                "smart contracts",
+                "access management"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/electronics9091525/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/electronics9091525/index.json"
+        }
+    ],
+    "E/15/021": [
+        {
+            "title": "Ensuring Academic Integrity of Online Examinations",
+            "venue": "2021 IEEE 16th International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2021",
+            "authors": [
+                "Mohamed Irfan",
+                "Mohammed Aslam",
+                "Ziyan Maraikar",
+                "Upul Jayasinghe",
+                "Mohamed Fawzan"
+            ],
+            "author_info": [
+                {
+                    "name": "Mohamed Irfan",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e15/138/",
+                    "type": "STUDENT",
+                    "id": "E/15/138",
+                    "email": "e15138@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15138.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/138/"
+                },
+                {
+                    "name": "Mohammed Aslam",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e15/021/",
+                    "type": "STUDENT",
+                    "id": "E/15/021",
+                    "email": "e15021@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15021.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/021/"
+                },
+                {
+                    "name": "Ziyan Maraikar",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/ziyan-maraikar/",
+                    "type": "STAFF",
+                    "id": "ziyanm",
+                    "email": "ziyanm@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/ziyan-maraikar.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/ziyan-maraikar/"
+                },
+                {
+                    "name": "Upul Jayasinghe",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/upul/",
+                    "type": "STAFF",
+                    "id": "upuljm",
+                    "email": "upuljm@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul/"
+                },
+                {
+                    "name": "Mohamed Fawzan",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                }
+            ],
+            "doi": "https://doi.org/10.1109/ICIIS53135.2021.9660737",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/online-proctoring-system/",
+            "codebase": "#",
+            "researchgroups": [],
+            "funding": "",
+            "tags": [
+                "Source separation",
+                "Webcams",
+                "Annotations",
+                "Time series analysis",
+                "Pose estimation",
+                "Streaming media",
+                "Feature extraction"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS53135.2021.9660737/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660737/index.json"
+        }
+    ],
+    "E/15/048": [
+        {
+            "title": "Microservice Based Edge Computing Architecture for Internet of Things",
+            "venue": "2022 2nd International Conference on Advanced Research in Computing (ICARC)",
+            "year": "2022",
+            "authors": [
+                "Sewwandi Nisansala",
+                "Gayal Laksara Chandrasiri",
+                "Sonali Prasadika",
+                "Upul Jayasinghe"
+            ],
+            "author_info": [
+                {
+                    "name": "Sewwandi Nisansala",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e15/243/",
+                    "type": "STUDENT",
+                    "id": "E/15/243",
+                    "email": "e15243@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15243.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/243/"
+                },
+                {
+                    "name": "Gayal Laksara Chandrasiri",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e15/048/",
+                    "type": "STUDENT",
+                    "id": "E/15/048",
+                    "email": "e15048@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15048.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/048/"
+                },
+                {
+                    "name": "Sonali Prasadika",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e15/271/",
+                    "type": "STUDENT",
+                    "id": "E/15/271",
+                    "email": "e15271@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15271.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/271/"
+                },
+                {
+                    "name": "Upul Jayasinghe",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/upul/",
+                    "type": "STAFF",
+                    "id": "upuljm",
+                    "email": "upuljm@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul/"
+                }
+            ],
+            "doi": "https://doi.org/10.1109/ICARC54489.2022.9753930",
+            "preprint": "#",
+            "pdf": "https://ieeexplore.ieee.org/abstract/document/9753930",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Microservice-Based-Edge-Computing-Architecture/",
+            "codebase": "https://github.com/cepdnaclk/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
+            "researchgroups": [],
+            "funding": "",
+            "tags": [
+                "Cloud computing",
+                "Architecture",
+                "Scalability",
+                "Microservice architectures",
+                "Computer architecture",
+                "Real-time systems",
+                "Internet of Things"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753930/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC54489.2022.9753930/index.json"
+        }
+    ],
+    "E/15/092": [
+        {
+            "title": "Chronic kidney disease prediction using machine learning methods",
+            "venue": "2020 Moratuwa Engineering Research Conference (MERCon) - IEEE",
+            "year": "2020",
+            "authors": [
+                "Imesh Udara Ekanayake",
+                "Damayanthi Herath"
+            ],
+            "author_info": [
+                {
+                    "name": "Imesh Udara Ekanayake",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e15/092/",
+                    "type": "STUDENT",
+                    "id": "E/15/092",
+                    "email": "imeshuek@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15092.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/092/"
+                },
+                {
+                    "name": "Damayanthi Herath",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
+                    "type": "STAFF",
+                    "id": "damayanthiherath",
+                    "email": "damayanthiherath@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/"
+                }
+            ],
+            "doi": " https://doi.org/10.1109/MERCon50084.2020.9185249",
+            "preprint": "#",
+            "pdf": "https://www.researchgate.net/profile/Imesh-Ekanayake/publication/344319206_Chronic_Kidney_Disease_Prediction_Using_Machine_Learning_Methods/links/5f672571458515b7cf418d5b/Chronic-Kidney-Disease-Prediction-Using-Machine-Learning-Methods.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Machine Learning and Data Mining"
+            ],
+            "funding": "",
+            "tags": [
+                "Kidney",
+                "Diseases",
+                "Machine learning",
+                "Red blood cells",
+                "Hypertension"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185249/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185249/index.json"
+        }
+    ],
+    "E/15/138": [
+        {
+            "title": "Ensuring Academic Integrity of Online Examinations",
+            "venue": "2021 IEEE 16th International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2021",
+            "authors": [
+                "Mohamed Irfan",
+                "Mohammed Aslam",
+                "Ziyan Maraikar",
+                "Upul Jayasinghe",
+                "Mohamed Fawzan"
+            ],
+            "author_info": [
+                {
+                    "name": "Mohamed Irfan",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e15/138/",
+                    "type": "STUDENT",
+                    "id": "E/15/138",
+                    "email": "e15138@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15138.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/138/"
+                },
+                {
+                    "name": "Mohammed Aslam",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e15/021/",
+                    "type": "STUDENT",
+                    "id": "E/15/021",
+                    "email": "e15021@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15021.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/021/"
+                },
+                {
+                    "name": "Ziyan Maraikar",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/ziyan-maraikar/",
+                    "type": "STAFF",
+                    "id": "ziyanm",
+                    "email": "ziyanm@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/ziyan-maraikar.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/ziyan-maraikar/"
+                },
+                {
+                    "name": "Upul Jayasinghe",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/upul/",
+                    "type": "STAFF",
+                    "id": "upuljm",
+                    "email": "upuljm@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul/"
+                },
+                {
+                    "name": "Mohamed Fawzan",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                }
+            ],
+            "doi": "https://doi.org/10.1109/ICIIS53135.2021.9660737",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/online-proctoring-system/",
+            "codebase": "#",
+            "researchgroups": [],
+            "funding": "",
+            "tags": [
+                "Source separation",
+                "Webcams",
+                "Annotations",
+                "Time series analysis",
+                "Pose estimation",
+                "Streaming media",
+                "Feature extraction"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS53135.2021.9660737/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660737/index.json"
+        }
+    ],
+    "E/15/188": [
         {
             "title": "Using Near-Infrared Spectroscopy for Vein Visualization",
             "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
@@ -2646,7 +2556,7 @@
                     "name": "KTB Weerasinghe",
                     "profile": "https://people.ce.pdn.ac.lk/students/e15/383/",
                     "type": "STUDENT",
-                    "id": "e15383",
+                    "id": "E/15/383",
                     "email": "e15383@eng.pdn.ac.lk",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15383.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e15/383/"
@@ -2655,7 +2565,7 @@
                     "name": "SC Tennakoon",
                     "profile": "https://people.ce.pdn.ac.lk/students/e15/349/",
                     "type": "STUDENT",
-                    "id": "shamal.ten",
+                    "id": "E/15/349",
                     "email": "shamal.ten@gmail.com",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15349.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e15/349/"
@@ -2664,7 +2574,7 @@
                     "name": "KNU Kularatne",
                     "profile": "https://people.ce.pdn.ac.lk/students/e15/188/",
                     "type": "STUDENT",
-                    "id": "e15188",
+                    "id": "E/15/188",
                     "email": "e15188@eng.pdn.ac.lk",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15188.jpg",
                     "profile_url": "https://people.ce.pdn.ac.lk/students/e15/188/"
@@ -2718,125 +2628,195 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606126/index.json"
         }
     ],
-    "theekshanapubudu1550": [
+    "E/15/243": [
         {
-            "title": "An ensemble learning approach for electrocardiogram sensor based human emotion recognition",
-            "venue": "MDPI Sensors",
-            "year": "2019",
+            "title": "Microservice Based Edge Computing Architecture for Internet of Things",
+            "venue": "2022 2nd International Conference on Advanced Research in Computing (ICARC)",
+            "year": "2022",
             "authors": [
-                "Theekshana Dissanayake",
-                "Yasitha Rajapaksha",
-                "Roshan Ragel",
-                "Isuru Nawinne"
+                "Sewwandi Nisansala",
+                "Gayal Laksara Chandrasiri",
+                "Sonali Prasadika",
+                "Upul Jayasinghe"
             ],
             "author_info": [
                 {
-                    "name": "Theekshana Dissanayake",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e13/073/",
+                    "name": "Sewwandi Nisansala",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e15/243/",
                     "type": "STUDENT",
-                    "id": "theekshanapubudu1550",
-                    "email": "theekshanapubudu1550@gmail.com",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e13/e13073.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e13/073/"
+                    "id": "E/15/243",
+                    "email": "e15243@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15243.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/243/"
                 },
                 {
-                    "name": "Yasitha Rajapaksha",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e13/274/",
+                    "name": "Gayal Laksara Chandrasiri",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e15/048/",
                     "type": "STUDENT",
-                    "id": "yasitha.rajapaksha",
-                    "email": "yasitha.rajapaksha@gmail.com",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e13/e13274.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e13/274/"
+                    "id": "E/15/048",
+                    "email": "e15048@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15048.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/048/"
                 },
                 {
-                    "name": "Roshan Ragel",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                    "name": "Sonali Prasadika",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e15/271/",
+                    "type": "STUDENT",
+                    "id": "E/15/271",
+                    "email": "e15271@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15271.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/271/"
+                },
+                {
+                    "name": "Upul Jayasinghe",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/upul/",
                     "type": "STAFF",
-                    "id": "roshanr",
-                    "email": "roshanr@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+                    "id": "upuljm",
+                    "email": "upuljm@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul/"
+                }
+            ],
+            "doi": "https://doi.org/10.1109/ICARC54489.2022.9753930",
+            "preprint": "#",
+            "pdf": "https://ieeexplore.ieee.org/abstract/document/9753930",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Microservice-Based-Edge-Computing-Architecture/",
+            "codebase": "https://github.com/cepdnaclk/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
+            "researchgroups": [],
+            "funding": "",
+            "tags": [
+                "Cloud computing",
+                "Architecture",
+                "Scalability",
+                "Microservice architectures",
+                "Computer architecture",
+                "Real-time systems",
+                "Internet of Things"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753930/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC54489.2022.9753930/index.json"
+        }
+    ],
+    "E/15/271": [
+        {
+            "title": "Microservice Based Edge Computing Architecture for Internet of Things",
+            "venue": "2022 2nd International Conference on Advanced Research in Computing (ICARC)",
+            "year": "2022",
+            "authors": [
+                "Sewwandi Nisansala",
+                "Gayal Laksara Chandrasiri",
+                "Sonali Prasadika",
+                "Upul Jayasinghe"
+            ],
+            "author_info": [
+                {
+                    "name": "Sewwandi Nisansala",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e15/243/",
+                    "type": "STUDENT",
+                    "id": "E/15/243",
+                    "email": "e15243@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15243.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/243/"
                 },
                 {
-                    "name": "Isuru Nawinne",
+                    "name": "Gayal Laksara Chandrasiri",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e15/048/",
+                    "type": "STUDENT",
+                    "id": "E/15/048",
+                    "email": "e15048@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15048.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/048/"
+                },
+                {
+                    "name": "Sonali Prasadika",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e15/271/",
+                    "type": "STUDENT",
+                    "id": "E/15/271",
+                    "email": "e15271@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15271.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/271/"
+                },
+                {
+                    "name": "Upul Jayasinghe",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/upul/",
+                    "type": "STAFF",
+                    "id": "upuljm",
+                    "email": "upuljm@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul/"
+                }
+            ],
+            "doi": "https://doi.org/10.1109/ICARC54489.2022.9753930",
+            "preprint": "#",
+            "pdf": "https://ieeexplore.ieee.org/abstract/document/9753930",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Microservice-Based-Edge-Computing-Architecture/",
+            "codebase": "https://github.com/cepdnaclk/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
+            "researchgroups": [],
+            "funding": "",
+            "tags": [
+                "Cloud computing",
+                "Architecture",
+                "Scalability",
+                "Microservice architectures",
+                "Computer architecture",
+                "Real-time systems",
+                "Internet of Things"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753930/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC54489.2022.9753930/index.json"
+        }
+    ],
+    "E/15/349": [
+        {
+            "title": "Using Near-Infrared Spectroscopy for Vein Visualization",
+            "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2021",
+            "authors": [
+                "KTB Weerasinghe",
+                "SC Tennakoon",
+                "KNU Kularatne",
+                "I Nawinne",
+                "R Ragel",
+                "H Jayakody"
+            ],
+            "author_info": [
+                {
+                    "name": "KTB Weerasinghe",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e15/383/",
+                    "type": "STUDENT",
+                    "id": "E/15/383",
+                    "email": "e15383@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15383.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/383/"
+                },
+                {
+                    "name": "SC Tennakoon",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e15/349/",
+                    "type": "STUDENT",
+                    "id": "E/15/349",
+                    "email": "shamal.ten@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15349.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/349/"
+                },
+                {
+                    "name": "KNU Kularatne",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e15/188/",
+                    "type": "STUDENT",
+                    "id": "E/15/188",
+                    "email": "e15188@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15188.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/188/"
+                },
+                {
+                    "name": "I Nawinne",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
                     "type": "STAFF",
                     "id": "isurunawinne",
                     "email": "isurunawinne@eng.pdn.ac.lk",
                     "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
                     "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
-                }
-            ],
-            "doi": "https://doi.org/10.3390/s19204495",
-            "preprint": "#",
-            "pdf": "https://www.mdpi.com/1424-8220/19/20/4495/pdf?version=1571300841",
-            "presentation": "#",
-            "project": "#",
-            "codebase": "#",
-            "researchgroups": [
-                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-            ],
-            "funding": "",
-            "tags": [
-                "bio-signal processing",
-                "wearable computing",
-                "ensemble learning",
-                "electrocardiogram",
-                "machine learning"
-            ],
-            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/s19204495/",
-            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/s19204495/index.json"
-        }
-    ],
-    "titus.nandakumara": [
-        {
-            "title": "Accelerating k-nn classification algorithm using graphics processing units",
-            "venue": "2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)",
-            "year": "2016",
-            "authors": [
-                "S Selvaluxmiy",
-                "TN Kumara",
-                "P Keerthanan",
-                "R Velmakivan",
-                "R Ragel",
-                "S Deegalla"
-            ],
-            "author_info": [
-                {
-                    "name": "S Selvaluxmiy",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                },
-                {
-                    "name": "TN Kumara",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e10/143/",
-                    "type": "STUDENT",
-                    "id": "titus.nandakumara",
-                    "email": "titus.nandakumara@gmail.com",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e10/e10143.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e10/143/"
-                },
-                {
-                    "name": "P Keerthanan",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                },
-                {
-                    "name": "R Velmakivan",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
                 },
                 {
                     "name": "R Ragel",
@@ -2848,16 +2828,16 @@
                     "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
                 },
                 {
-                    "name": "S Deegalla",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/sampath-deegalla/",
-                    "type": "STAFF",
-                    "id": "sampath",
-                    "email": "sampath@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/sampath-deegalla.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/sampath-deegalla/"
+                    "name": "H Jayakody",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 }
             ],
-            "doi": "https://doi.org/10.1109/ICIAFS.2016.7946528",
+            "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9606126",
             "preprint": "#",
             "pdf": "#",
             "presentation": "#",
@@ -2866,50 +2846,70 @@
             "researchgroups": [],
             "funding": "",
             "tags": [
-                "Graphics processing units",
-                "Message systems",
-                "Kernel",
-                "Training",
-                "Prediction algorithms",
-                "Machine learning algorithms",
-                "Testing"
+                "Visualization",
+                "Veins",
+                "Prototypes",
+                "Clinical trials",
+                "Skin",
+                "Real-time systems",
+                "Sustainable development"
             ],
-            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2016.7946528/",
-            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2016.7946528/index.json"
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606126/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606126/index.json"
         }
     ],
-    "yasitha.rajapaksha": [
+    "E/15/383": [
         {
-            "title": "An ensemble learning approach for electrocardiogram sensor based human emotion recognition",
-            "venue": "MDPI Sensors",
-            "year": "2019",
+            "title": "Using Near-Infrared Spectroscopy for Vein Visualization",
+            "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2021",
             "authors": [
-                "Theekshana Dissanayake",
-                "Yasitha Rajapaksha",
-                "Roshan Ragel",
-                "Isuru Nawinne"
+                "KTB Weerasinghe",
+                "SC Tennakoon",
+                "KNU Kularatne",
+                "I Nawinne",
+                "R Ragel",
+                "H Jayakody"
             ],
             "author_info": [
                 {
-                    "name": "Theekshana Dissanayake",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e13/073/",
+                    "name": "KTB Weerasinghe",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e15/383/",
                     "type": "STUDENT",
-                    "id": "theekshanapubudu1550",
-                    "email": "theekshanapubudu1550@gmail.com",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e13/e13073.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e13/073/"
+                    "id": "E/15/383",
+                    "email": "e15383@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15383.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/383/"
                 },
                 {
-                    "name": "Yasitha Rajapaksha",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e13/274/",
+                    "name": "SC Tennakoon",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e15/349/",
                     "type": "STUDENT",
-                    "id": "yasitha.rajapaksha",
-                    "email": "yasitha.rajapaksha@gmail.com",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e13/e13274.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e13/274/"
+                    "id": "E/15/349",
+                    "email": "shamal.ten@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15349.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/349/"
                 },
                 {
-                    "name": "Roshan Ragel",
+                    "name": "KNU Kularatne",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e15/188/",
+                    "type": "STUDENT",
+                    "id": "E/15/188",
+                    "email": "e15188@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15188.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/188/"
+                },
+                {
+                    "name": "I Nawinne",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                    "type": "STAFF",
+                    "id": "isurunawinne",
+                    "email": "isurunawinne@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+                },
+                {
+                    "name": "R Ragel",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
                     "type": "STAFF",
                     "id": "roshanr",
@@ -2918,34 +2918,34 @@
                     "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
                 },
                 {
-                    "name": "Isuru Nawinne",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
-                    "type": "STAFF",
-                    "id": "isurunawinne",
-                    "email": "isurunawinne@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+                    "name": "H Jayakody",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 }
             ],
-            "doi": "https://doi.org/10.3390/s19204495",
+            "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9606126",
             "preprint": "#",
-            "pdf": "https://www.mdpi.com/1424-8220/19/20/4495/pdf?version=1571300841",
+            "pdf": "#",
             "presentation": "#",
             "project": "#",
             "codebase": "#",
-            "researchgroups": [
-                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-            ],
+            "researchgroups": [],
             "funding": "",
             "tags": [
-                "bio-signal processing",
-                "wearable computing",
-                "ensemble learning",
-                "electrocardiogram",
-                "machine learning"
+                "Visualization",
+                "Veins",
+                "Prototypes",
+                "Clinical trials",
+                "Skin",
+                "Real-time systems",
+                "Sustainable development"
             ],
-            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/s19204495/",
-            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/s19204495/index.json"
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606126/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606126/index.json"
         }
     ]
 }

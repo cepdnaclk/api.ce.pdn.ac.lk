@@ -67,7 +67,7 @@ for pub in publications:
         for author in pub_data['author_info']:
             author_id = author['id']
 
-            if author_id != "" and author['type'] == 'STUDENT':
+            if author_id != "" and author_id != "#" and author['type'] == 'STUDENT':
                 # Student
                 if author_id not in student_author_dict:
                     student_author_dict[author_id] = []
