@@ -15,65 +15,73 @@
     ],
     "author_info": [
         {
+            "name": "Chathurangi Edussuriya",
+            "profile": "https://people.ce.pdn.ac.lk/students/e14/054/",
             "type": "STUDENT",
-            "id": "E/14/054",
-            "name": "Chathurangi .E",
+            "id": "e14054",
             "email": "e14054@ce.pdn.ac.lk",
             "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14054.jpg",
             "profile_url": "https://people.ce.pdn.ac.lk/students/e14/054/"
         },
         {
-            "type": "STUDENT",
-            "id": "E/14/413",
             "name": "Kasun Vithanage",
+            "profile": "https://people.ce.pdn.ac.lk/students/e14/413/",
+            "type": "STUDENT",
+            "id": "e14413",
             "email": "e14413@ce.pdn.ac.lk",
             "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14413.jpg",
             "profile_url": "https://people.ce.pdn.ac.lk/students/e14/413/"
         },
         {
+            "name": "Namila Bandara",
+            "profile": "#",
             "type": "OUTSIDER",
-            "id": "Namila Dissanayaka",
-            "name": "",
+            "id": "",
             "email": "",
             "profile_image": "#",
             "profile_url": "#"
         },
         {
+            "name": "Janaka Alawatugoda",
+            "profile": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/",
             "type": "STAFF",
             "id": "alawatugoda",
-            "name": "Dr. Janaka Alawatugoda",
             "email": "alawatugoda@eng.pdn.ac.lk",
             "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
             "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/"
         },
         {
+            "name": "Manjula Sandirigama",
+            "profile": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/",
             "type": "STAFF",
             "id": "manjula.sandirigama",
-            "name": "Dr. Manjula Sandirigama",
             "email": "manjula.sandirigama@eng.pdn.ac.lk",
             "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
             "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/"
         },
         {
+            "name": "Upul Jayasinghe",
+            "profile": "https://people.ce.pdn.ac.lk/staff/academic/upul/",
             "type": "STAFF",
             "id": "upuljm",
-            "name": "Dr. Upul Jayasinghe",
             "email": "upuljm@eng.pdn.ac.lk",
             "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
             "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul/"
         },
         {
+            "name": "Nathan Shone",
+            "profile": "#",
             "type": "OUTSIDER",
-            "id": "outsider",
-            "name": "",
+            "id": "",
             "email": "",
             "profile_image": "#",
             "profile_url": "#"
         },
         {
+            "name": "Gyu Myoung Lee",
+            "profile": "#",
             "type": "OUTSIDER",
-            "id": "outsider",
-            "name": "",
+            "id": "",
             "email": "",
             "profile_image": "#",
             "profile_url": "#"
@@ -86,9 +94,7 @@
     "presentation_url": "#",
     "project_url": "#",
     "codebase": "#",
-    "research_groups": [
-        ""
-    ],
+    "research_groups": [],
     "tags": [
         "IoT",
         "blockchain",

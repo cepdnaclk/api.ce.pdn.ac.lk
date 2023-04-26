@@ -11,33 +11,37 @@
     ],
     "author_info": [
         {
+            "name": "Suneth Namal",
+            "profile": "https://people.ce.pdn.ac.lk/staff/academic/suneth-namal-karunarathna/",
             "type": "STAFF",
             "id": "namal",
-            "name": "Dr. Suneth Namal Karunarathna",
             "email": "namal@eng.pdn.ac.lk",
             "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/suneth-namal-karunarathna.png",
             "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/suneth-namal-karunarathna/"
         },
         {
+            "name": "Hasindu Gamaarachchi",
+            "profile": "https://people.ce.pdn.ac.lk/students/e10/102/",
             "type": "STUDENT",
-            "id": "E/10/102",
-            "name": "H.M. Gamaarachchi",
+            "id": "hasindu",
             "email": "hasindu@unsw.edu.au",
             "profile_image": "https://people.ce.pdn.ac.lk/images/students/e10/e10102.jpg",
             "profile_url": "https://people.ce.pdn.ac.lk/students/e10/102/"
         },
         {
+            "name": "Gyu MyoungLee",
+            "profile": "#",
             "type": "OUTSIDER",
-            "id": "outsider",
-            "name": "",
+            "id": "",
             "email": "",
             "profile_image": "#",
             "profile_url": "#"
         },
         {
+            "name": "Tai-Won Um",
+            "profile": "#",
             "type": "OUTSIDER",
-            "id": "outsider",
-            "name": "",
+            "id": "",
             "email": "",
             "profile_image": "#",
             "profile_url": "#"
@@ -50,9 +54,7 @@
     "presentation_url": "#",
     "project_url": "#",
     "codebase": "#",
-    "research_groups": [
-        ""
-    ],
+    "research_groups": [],
     "tags": [
         "Cloud computing",
         "Security",

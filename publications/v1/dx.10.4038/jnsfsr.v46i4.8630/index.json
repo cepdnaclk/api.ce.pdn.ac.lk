@@ -9,17 +9,19 @@
     ],
     "author_info": [
         {
+            "name": "SD Dewasurendra",
+            "profile": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/",
             "type": "STAFF",
             "id": "dewasuren",
-            "name": "Dr. Shirley Dewasurendra",
             "email": "dewasuren@gmail.com",
             "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
             "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/"
         },
         {
+            "name": "SM Vidanagamachchi",
+            "profile": "#",
             "type": "OUTSIDER",
-            "id": "outsider",
-            "name": "",
+            "id": "",
             "email": "",
             "profile_image": "#",
             "profile_url": "#"
@@ -32,12 +34,8 @@
     "presentation_url": "#",
     "project_url": "#",
     "codebase": "#",
-    "research_groups": [
-        ""
-    ],
-    "tags": [
-        ""
-    ],
+    "research_groups": [],
+    "tags": [],
     "funding": "",
     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/dx.10.4038/jnsfsr.v46i4.8630/",
     "submitted": "2022/06/27 03:49:11"

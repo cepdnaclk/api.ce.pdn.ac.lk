@@ -117,9 +117,14 @@ for line in pub_raw[1:]:
         pub_raw_data[TIMESTAMP], '%m/%d/%Y %H:%M:%S')
     authors = [x.strip() for x in pub_raw_data[AUTHORS].split(',')]
     author_ids = [x.strip() for x in pub_raw_data[AUTHOR_IDS].split(',')]
-    research_groups = [x.strip()
-                       for x in pub_raw_data[RESEARCH_GROUPS].split(',')]
+
+    research_groups = [x.strip() for x in pub_raw_data[RESEARCH_GROUPS].split(',')]
+    if len(research_groups) == 1 and research_groups[0] == "":
+        research_groups = []
+
     tags = [x.strip() for x in pub_raw_data[TAGS].split(',')]
+    if len(tags) == 1 and tags[0] == "":
+        tags = [] 
 
     author_info = []
 
@@ -144,6 +149,41 @@ for line in pub_raw[1:]:
                 "profile_url": "#"
             })
 
+    # 
+    author_cards = []
+    if len(authors) != len(author_info):
+        for aIdx in range(len(authors)):
+            author_cards.append({
+                "name": authors[aIdx],
+                "type": "UNDETERMINED",
+                "id": author_id,
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            })
+    else:
+        for aIdx in range(len(authors)):
+            if author_info[aIdx]["type"] == "OUTSIDER":
+                author_cards.append({
+                    "name": authors[aIdx],
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                })
+            else:
+                author_cards.append({
+                    "name": authors[aIdx],
+                    "profile": author_info[aIdx]["profile_url"],
+                    "type": author_info[aIdx]["type"],
+                    "id": author_info[aIdx]["email"].split('@')[0],
+                    "email": author_info[aIdx]["email"],
+                    "profile_image": author_info[aIdx]["profile_image"],
+                    "profile_url": author_info[aIdx]["profile_url"]
+                })
+
     api_url = "{0}/publications/v1/{1}/".format(
         apiBase, get_id_from_doi(pub_raw_data[DOI]))
 
@@ -154,7 +194,8 @@ for line in pub_raw[1:]:
         "abstract": pub_raw_data[ABSTRACT],
         "authors": authors,
         # "author_ids": author_ids,
-        "author_info": author_info,
+        # "author_info": author_info,
+        "author_info": author_cards,
         "doi": pub_raw_data[DOI],
         "is_dept_affiliated": dept_affiliation,
         "preprint_url": pub_raw_data[PREPRINT] or "#",
@@ -162,7 +203,7 @@ for line in pub_raw[1:]:
         "presentation_url": pub_raw_data[PRESENTATION] or "#",
         "project_url": pub_raw_data[PROJECT_URL] or "#",
         "codebase": pub_raw_data[CODEBASE] or "#",
-        "research_groups": research_groups,
+        "research_groups": research_groups ,
         "tags": tags,
         "funding": pub_raw_data[FUNDING],
         "api_url": api_url,

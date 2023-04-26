@@ -10,25 +10,28 @@
     ],
     "author_info": [
         {
+            "name": "Darshana Jayasinghe",
+            "profile": "#",
             "type": "OUTSIDER",
-            "id": "outsider",
-            "name": "",
+            "id": "",
             "email": "",
             "profile_image": "#",
             "profile_url": "#"
         },
         {
+            "name": "Roshan Ragel",
+            "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
             "type": "STAFF",
             "id": "roshanr",
-            "name": "Prof. Roshan G. Ragel",
             "email": "roshanr@eng.pdn.ac.lk",
             "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
             "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
         },
         {
+            "name": "Dhammika Elkaduwe",
+            "profile": "https://people.ce.pdn.ac.lk/staff/academic/dhammika-elkaduwe/",
             "type": "STAFF",
             "id": "dhammika",
-            "name": "Dr. Dhammika Elkaduwe",
             "email": "dhammika@eng.pdn.ac.lk",
             "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/dhammika-elkaduwe.png",
             "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/dhammika-elkaduwe/"
@@ -41,9 +44,7 @@
     "presentation_url": "#",
     "project_url": "#",
     "codebase": "#",
-    "research_groups": [
-        ""
-    ],
+    "research_groups": [],
     "tags": [
         "Encryption",
         "Timing",

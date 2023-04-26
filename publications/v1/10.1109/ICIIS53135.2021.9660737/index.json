@@ -12,41 +12,46 @@
     ],
     "author_info": [
         {
-            "type": "STUDENT",
-            "id": "E/15/138",
             "name": "Mohamed Irfan",
+            "profile": "https://people.ce.pdn.ac.lk/students/e15/138/",
+            "type": "STUDENT",
+            "id": "e15138",
             "email": "e15138@eng.pdn.ac.lk",
             "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15138.jpg",
             "profile_url": "https://people.ce.pdn.ac.lk/students/e15/138/"
         },
         {
-            "type": "STUDENT",
-            "id": "E/15/021",
             "name": "Mohammed Aslam",
+            "profile": "https://people.ce.pdn.ac.lk/students/e15/021/",
+            "type": "STUDENT",
+            "id": "e15021",
             "email": "e15021@eng.pdn.ac.lk",
             "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15021.jpg",
             "profile_url": "https://people.ce.pdn.ac.lk/students/e15/021/"
         },
         {
+            "name": "Ziyan Maraikar",
+            "profile": "https://people.ce.pdn.ac.lk/staff/academic/ziyan-maraikar/",
             "type": "STAFF",
             "id": "ziyanm",
-            "name": "Mr. Ziyan Maraikar",
             "email": "ziyanm@eng.pdn.ac.lk",
             "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/ziyan-maraikar.png",
             "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/ziyan-maraikar/"
         },
         {
+            "name": "Upul Jayasinghe",
+            "profile": "https://people.ce.pdn.ac.lk/staff/academic/upul/",
             "type": "STAFF",
             "id": "upuljm",
-            "name": "Dr. Upul Jayasinghe",
             "email": "upuljm@eng.pdn.ac.lk",
             "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
             "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul/"
         },
         {
+            "name": "Mohamed Fawzan",
+            "profile": "#",
             "type": "OUTSIDER",
-            "id": "outsider",
-            "name": "",
+            "id": "",
             "email": "",
             "profile_image": "#",
             "profile_url": "#"
@@ -59,9 +64,7 @@
     "presentation_url": "#",
     "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/online-proctoring-system/",
     "codebase": "#",
-    "research_groups": [
-        ""
-    ],
+    "research_groups": [],
     "tags": [
         "Source separation",
         "Webcams",

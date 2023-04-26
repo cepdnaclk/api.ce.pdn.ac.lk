@@ -14,41 +14,69 @@
                 "Martin A. Smith",
                 "Sri Parameswaran"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Hasindu Gamaarachchi",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Chun Wai Lam",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Gihan Jayatilaka",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/158/",
-                    "type": "STUDENT"
+                    "type": "STUDENT",
+                    "id": "gihanjayatilaka",
+                    "email": "gihanjayatilaka@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
                 },
                 {
                     "name": "Hiruna Samarakoon",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/302/",
-                    "type": "STUDENT"
+                    "type": "STUDENT",
+                    "id": "e14302",
+                    "email": "e14302@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14302.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/302/"
                 },
                 {
                     "name": "Jared T. Simpson",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Martin A. Smith",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Sri Parameswaran",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 }
             ],
             "doi": "https://doi.org/10.1186/s12859-020-03697-x",
@@ -89,36 +117,60 @@
                 "Isuru Nawinne",
                 "Roshan Ragel"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Udaree Kanewala",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Kesara Gamlath",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Hasindu Ramanayake",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Kalindu Herath",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Isuru Nawinne",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "isurunawinne",
+                    "email": "isurunawinne@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
                 },
                 {
                     "name": "Roshan Ragel",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
                 }
             ],
             "doi": "https://doi.org/10.1109/MERCon.2019.8818883",
@@ -154,21 +206,33 @@
                 "Chathurika Lakmali",
                 "Roshan Ragel"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Damayanthi Herath",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "damayanthiherath",
+                    "email": "damayanthiherath@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/"
                 },
                 {
                     "name": "Chathurika Lakmali",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Roshan Ragel",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
                 }
             ],
             "doi": "https://doi.org/10.1109/ICIInfS.2012.6304784",
@@ -208,36 +272,60 @@
                 "Roshan Ragel",
                 "Isuru Nawinne"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Gihan Jayatilaka",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/158/",
-                    "type": "STUDENT"
+                    "type": "STUDENT",
+                    "id": "gihanjayatilaka",
+                    "email": "gihanjayatilaka@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
                 },
                 {
                     "name": "Harshana Weligampola",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/379/",
-                    "type": "STUDENT"
+                    "type": "STUDENT",
+                    "id": "#",
+                    "email": "#",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14379.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/379/"
                 },
                 {
                     "name": "Suren Sritharan",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/339/",
-                    "type": "STUDENT"
+                    "type": "STUDENT",
+                    "id": "e14339",
+                    "email": "e14339@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14339.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/339/"
                 },
                 {
                     "name": "Pankayaraj Pathmanathan",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/237/",
-                    "type": "STUDENT"
+                    "type": "STUDENT",
+                    "id": "pankayaraj1995",
+                    "email": "pankayaraj1995@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14237.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/237/"
                 },
                 {
                     "name": "Roshan Ragel",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
                 },
                 {
                     "name": "Isuru Nawinne",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "isurunawinne",
+                    "email": "isurunawinne@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
                 }
             ],
             "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
@@ -276,51 +364,87 @@
                 "Hasindu Gamaarachchi",
                 "Ira W. Deveson"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Hiruna Samarakoon",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/302/",
-                    "type": "STUDENT"
+                    "type": "STUDENT",
+                    "id": "e14302",
+                    "email": "e14302@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14302.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/302/"
                 },
                 {
                     "name": "Sanoj Punchihewa",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/262/",
-                    "type": "STUDENT"
+                    "type": "STUDENT",
+                    "id": "e14262",
+                    "email": "e14262@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14262.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/262/"
                 },
                 {
                     "name": "Anjana Senanayake",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/317/",
-                    "type": "STUDENT"
+                    "type": "STUDENT",
+                    "id": "e14317",
+                    "email": "e14317@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14317.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/317/"
                 },
                 {
                     "name": "Jillian M. Hammond",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Igor Stevanovski",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "James M. Ferguson",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Roshan Ragel",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
                 },
                 {
                     "name": "Hasindu Gamaarachchi",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Ira W. Deveson",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 }
             ],
             "doi": "https://doi.org/10.1038/s42003-020-01270-z",
@@ -350,21 +474,33 @@
                 "Chathurika Lakmali",
                 "Roshan Ragel"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Damayanthi Herath",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "damayanthiherath",
+                    "email": "damayanthiherath@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/"
                 },
                 {
                     "name": "Chathurika Lakmali",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Roshan Ragel",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
                 }
             ],
             "doi": "https://doi.org/10.1109/ICIInfS.2012.6304784",
@@ -402,36 +538,60 @@
                 "Damayanthi Herath",
                 "Roshan G Ragel"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Shehan Perera",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Kaveesha Hewage",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Chamara Gunarathne",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Rajitha Navarathna",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Damayanthi Herath",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "damayanthiherath",
+                    "email": "damayanthiherath@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/"
                 },
                 {
                     "name": "Roshan G Ragel",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
                 }
             ],
             "doi": "https://doi.org/10.1109/MERCon50084.2020.9185336",
@@ -466,26 +626,42 @@
                 "Prabhath Bandara",
                 "Damayanthi Herath"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Kasun Vimukthi",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Geeth Wimalasiri",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Prabhath Bandara",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Damayanthi Herath",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "damayanthiherath",
+                    "email": "damayanthiherath@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/"
                 }
             ],
             "doi": "https://doi.org/10.1109/MERCon50084.2020.9185388",
@@ -522,31 +698,51 @@
                 "Damayanthi Herath",
                 "Indika Kahanda"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Puwasuru Ihalagedara",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Sandali Lokuge",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Shyaman Jayasundara",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Damayanthi Herath",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "damayanthiherath",
+                    "email": "damayanthiherath@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/"
                 },
                 {
                     "name": "Indika Kahanda",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 }
             ],
             "doi": "https://doi.org/10.1109/CIBCB48159.2020.9277723",
@@ -583,31 +779,51 @@
                 "Damayanthi Herath",
                 "Roshan Ragel"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Imalsha Dinuwanthi",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Hasini Thilakarathna",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Vidwa Sripadi",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Damayanthi Herath",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "damayanthiherath",
+                    "email": "damayanthiherath@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/"
                 },
                 {
                     "name": "Roshan Ragel",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
                 }
             ],
             "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9606093",
@@ -620,9 +836,7 @@
                 "Computational BioEngineering"
             ],
             "funding": "",
-            "tags": [
-                ""
-            ],
+            "tags": [],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606093/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606093/index.json"
         },
@@ -637,26 +851,42 @@
                 "Damayanthi Herath",
                 "Roshan Ragel"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Anjana Senanayake",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Hasindu Gamaarachchi",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Damayanthi Herath",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "damayanthiherath",
+                    "email": "damayanthiherath@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/"
                 },
                 {
                     "name": "Roshan Ragel",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
                 }
             ],
             "doi": "https://doi.org/10.1186/s12859-023-05151-0",
@@ -669,9 +899,7 @@
                 "Computational BioEngineering"
             ],
             "funding": "",
-            "tags": [
-                ""
-            ],
+            "tags": [],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1186/s12859-023-05151-0/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1186/s12859-023-05151-0/index.json"
         }
@@ -691,41 +919,69 @@
                 "Roshan Ragel",
                 "Vijitha Herath"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Harshana Weligampola",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Gihan Jayatilaka",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/158/",
-                    "type": "STUDENT"
+                    "type": "STUDENT",
+                    "id": "gihanjayatilaka",
+                    "email": "gihanjayatilaka@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
                 },
                 {
                     "name": "Suren Sritharan",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/339/",
-                    "type": "STUDENT"
+                    "type": "STUDENT",
+                    "id": "e14339",
+                    "email": "e14339@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14339.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/339/"
                 },
                 {
                     "name": "Roshan Goldaliyadda",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Parakrama Ekanayeka",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Roshan Ragel",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
                 },
                 {
                     "name": "Vijitha Herath",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 }
             ],
             "doi": "https://doi.org/10.1109/MERCon50084.2020.9185373",
@@ -761,36 +1017,60 @@
                 "Roshan Ragel",
                 "Isuru Nawinne"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Gihan Jayatilaka",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/158/",
-                    "type": "STUDENT"
+                    "type": "STUDENT",
+                    "id": "gihanjayatilaka",
+                    "email": "gihanjayatilaka@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
                 },
                 {
                     "name": "Harshana Weligampola",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/379/",
-                    "type": "STUDENT"
+                    "type": "STUDENT",
+                    "id": "#",
+                    "email": "#",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14379.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/379/"
                 },
                 {
                     "name": "Suren Sritharan",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/339/",
-                    "type": "STUDENT"
+                    "type": "STUDENT",
+                    "id": "e14339",
+                    "email": "e14339@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14339.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/339/"
                 },
                 {
                     "name": "Pankayaraj Pathmanathan",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/237/",
-                    "type": "STUDENT"
+                    "type": "STUDENT",
+                    "id": "pankayaraj1995",
+                    "email": "pankayaraj1995@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14237.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/237/"
                 },
                 {
                     "name": "Roshan Ragel",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
                 },
                 {
                     "name": "Isuru Nawinne",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "isurunawinne",
+                    "email": "isurunawinne@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
                 }
             ],
             "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
@@ -827,41 +1107,69 @@
                 "Vijitha Herath",
                 "Roshan Godaliyadda"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Harshana Weligampola",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Gihan Jayatilaka",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Suren Sritharan",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Parakrama Ekanayake",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Roshan Ragel",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
                 },
                 {
                     "name": "Vijitha Herath",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Roshan Godaliyadda",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 }
             ],
             "doi": "https://doi.org/10.1109/ICIP42928.2021.9506375",
@@ -897,26 +1205,42 @@
                 "Ashwin Ashok",
                 "Archan Misra"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Vu Tran",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Gihan Jayatilaka",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/158/",
-                    "type": "STUDENT"
+                    "type": "STUDENT",
+                    "id": "gihanjayatilaka",
+                    "email": "gihanjayatilaka@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14158.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/158/"
                 },
                 {
                     "name": "Ashwin Ashok",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Archan Misra",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 }
             ],
             "doi": "https://doi.org/10.1145/3412382.3458269",
@@ -949,26 +1273,42 @@
                 "Sampath Deegalla",
                 "Rajitha Navarathna"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Anandi Karunaratne",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Chamin Jayasooriya",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Sampath Deegalla",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/sampath-deegalla/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "sampath",
+                    "email": "sampath@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/sampath-deegalla.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/sampath-deegalla/"
                 },
                 {
                     "name": "Rajitha Navarathna",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 }
             ],
             "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9605963",
@@ -1005,21 +1345,33 @@
                 "S.D. Dewasurendra",
                 "R.G. Ragel"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "S.M. Vidanagamachchi",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "S.D. Dewasurendra",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "dewasuren",
+                    "email": "dewasuren@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/"
                 },
                 {
                     "name": "R.G. Ragel",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
                 }
             ],
             "doi": "https://doi.org/10.1109/ICIInfS.2013.6732003",
@@ -1053,21 +1405,33 @@
                 "S. D. Dewasurendra",
                 "R. G. Ragel"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "S. M. Vidanagamachchi",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "S. D. Dewasurendra",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "dewasuren",
+                    "email": "dewasuren@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/"
                 },
                 {
                     "name": "R. G. Ragel",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
                 }
             ],
             "doi": "https://doi.org/10.1109/ICIInfS.2013.6732061",
@@ -1103,26 +1467,42 @@
                 "Jude Angelo Ambrose",
                 "Sri Parameswaran"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Roshan G. Ragel",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
                 },
                 {
                     "name": "Swarnalatha Radhakrishnan",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/swarnalatha-radhakrishnan/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "swarnar",
+                    "email": "swarnar@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/swarnalatha-radhakrishnan.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/swarnalatha-radhakrishnan/"
                 },
                 {
                     "name": "Jude Angelo Ambrose",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Sri Parameswaran",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 }
             ],
             "doi": "https://doi.org/10.1109/VLSID.2013.154",
@@ -1161,46 +1541,78 @@
                 "J\u00c3\u00b6rg Henkel",
                 "Sri Parameswaran"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Tuo Li",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Muhammad Shafique",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Semeen Rehman",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Swarnalatha Radhakrishnan",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/swarnalatha-radhakrishnan/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "swarnar",
+                    "email": "swarnar@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/swarnalatha-radhakrishnan.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/swarnalatha-radhakrishnan/"
                 },
                 {
                     "name": "Roshan Ragel",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
                 },
                 {
                     "name": "Jude Angelo Ambrose",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "J\u00c3\u00b6rg Henkel",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Sri Parameswaran",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 }
             ],
             "doi": "https://doi.org/10.7873/DATE.2013.152",
@@ -1237,41 +1649,69 @@
                 "Swarnalatha Radhakrishnan",
                 "Kewal K. Saluja"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Lawrance Zhang",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Jude Angelo Ambrose",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Jorgen Peddersen",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Sri Parameswaran",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Roshan Ragel",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
                 },
                 {
                     "name": "Swarnalatha Radhakrishnan",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/swarnalatha-radhakrishnan/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "swarnar",
+                    "email": "swarnar@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/swarnalatha-radhakrishnan.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/swarnalatha-radhakrishnan/"
                 },
                 {
                     "name": "Kewal K. Saluja",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 }
             ],
             "doi": "https://doi.org/10.1145/2483028.2483101",
@@ -1306,31 +1746,51 @@
                 "Swarnalatha Radhakrishnan",
                 "Sri Parameswaran"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Isuru Nawinne",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Haris Javaid",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Roshan Ragel",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
                 },
                 {
                     "name": "Swarnalatha Radhakrishnan",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/swarnalatha-radhakrishnan/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "swarnar",
+                    "email": "swarnar@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/swarnalatha-radhakrishnan.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/swarnalatha-radhakrishnan/"
                 },
                 {
                     "name": "Sri Parameswaran",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 }
             ],
             "doi": "https://doi.org/10.1109/TCAD.2015.2445736",
@@ -1367,31 +1827,51 @@
                 "Swarnalatha Radhakrishnan",
                 "Sri Parameswaran"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Isuru Nawinne",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Haris Javaid",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Roshan Ragel",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
                 },
                 {
                     "name": "Swarnalatha Radhakrishnan",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/swarnalatha-radhakrishnan/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "swarnar",
+                    "email": "swarnar@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/swarnalatha-radhakrishnan.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/swarnalatha-radhakrishnan/"
                 },
                 {
                     "name": "Sri Parameswaran",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 }
             ],
             "doi": "https://doi.org/10.1109/TCAD.2015.2445736",
@@ -1429,36 +1909,60 @@
                 "Isuru Nawinne",
                 "Roshan Ragel"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Udaree Kanewala",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Kesara Gamlath",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Hasindu Ramanayake",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Kalindu Herath",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Isuru Nawinne",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "isurunawinne",
+                    "email": "isurunawinne@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
                 },
                 {
                     "name": "Roshan Ragel",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
                 }
             ],
             "doi": "https://doi.org/10.1109/MERCon.2019.8818883",
@@ -1495,26 +1999,42 @@
                 "Roshan Ragel",
                 "Isuru Nawinne"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Theekshana Dissanayake",
                     "profile": "https://people.ce.pdn.ac.lk/students/e13/073/",
-                    "type": "STUDENT"
+                    "type": "STUDENT",
+                    "id": "theekshanapubudu1550",
+                    "email": "theekshanapubudu1550@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e13/e13073.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e13/073/"
                 },
                 {
                     "name": "Yasitha Rajapaksha",
                     "profile": "https://people.ce.pdn.ac.lk/students/e13/274/",
-                    "type": "STUDENT"
+                    "type": "STUDENT",
+                    "id": "yasitha.rajapaksha",
+                    "email": "yasitha.rajapaksha@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e13/e13274.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e13/274/"
                 },
                 {
                     "name": "Roshan Ragel",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
                 },
                 {
                     "name": "Isuru Nawinne",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "isurunawinne",
+                    "email": "isurunawinne@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
                 }
             ],
             "doi": "https://doi.org/10.3390/s19204495",
@@ -1549,31 +2069,51 @@
                 "Isuru Nawinne",
                 "Roshan Ragel"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Mahendra Dassanayaka",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/065/",
-                    "type": "STUDENT"
+                    "type": "STUDENT",
+                    "id": "e14065",
+                    "email": "e14065@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14065.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/065/"
                 },
                 {
                     "name": "Tharuka Bandara",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/028/",
-                    "type": "STUDENT"
+                    "type": "STUDENT",
+                    "id": "e14028",
+                    "email": "e14028@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14028.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/028/"
                 },
                 {
                     "name": "Nadun Adikari",
                     "profile": "https://people.ce.pdn.ac.lk/students/e14/010/",
-                    "type": "STUDENT"
+                    "type": "STUDENT",
+                    "id": "e14010",
+                    "email": "e14010@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14010.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/010/"
                 },
                 {
                     "name": "Isuru Nawinne",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "isurunawinne",
+                    "email": "isurunawinne@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
                 },
                 {
                     "name": "Roshan Ragel",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
                 }
             ],
             "doi": "https://doi.org/10.1109/MERCon50084.2020.9185206",
@@ -1608,16 +2148,24 @@
                 "Imesh Udara Ekanayake",
                 "Damayanthi Herath"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Imesh Udara Ekanayake",
                     "profile": "https://people.ce.pdn.ac.lk/students/e15/092/",
-                    "type": "STUDENT"
+                    "type": "STUDENT",
+                    "id": "imeshuek",
+                    "email": "imeshuek@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15092.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/092/"
                 },
                 {
                     "name": "Damayanthi Herath",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "damayanthiherath",
+                    "email": "damayanthiherath@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/"
                 }
             ],
             "doi": " https://doi.org/10.1109/MERCon50084.2020.9185249",
@@ -1651,16 +2199,24 @@
                 "Manjula Sandirigama",
                 "Rasika Idamekorala"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Manjula Sandirigama",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "manjula.sandirigama",
+                    "email": "manjula.sandirigama@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/"
                 },
                 {
                     "name": "Rasika Idamekorala",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 }
             ],
             "doi": "https://doi.org/10.1109/TIC-STH.2009.5444462",
@@ -1700,16 +2256,24 @@
                 "Manjula Sandirigama",
                 "Rasika Idamekorala"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Manjula Sandirigama",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "manjula.sandirigama",
+                    "email": "manjula.sandirigama@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/"
                 },
                 {
                     "name": "Rasika Idamekorala",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 }
             ],
             "doi": "https://doi.org/10.1109/TIC-STH.2009.5444462",
@@ -1750,31 +2314,51 @@
                 "Janaka Alawatugoda",
                 "Roshan Ragel"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Isuru Sankalpa",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Tharindu Dhanushka",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Nadeesha Amarasinghe",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Janaka Alawatugoda",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "alawatugoda",
+                    "email": "alawatugoda@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/"
                 },
                 {
                     "name": "Roshan Ragel",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
                 }
             ],
             "doi": "https://doi.org/10.1109/MIES.2016.7780263",
@@ -1811,31 +2395,51 @@
                 "Nalaka Jayanath",
                 "Chinthaka Somathilaka"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Janaka Alawatugoda",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "alawatugoda",
+                    "email": "alawatugoda@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/"
                 },
                 {
                     "name": "Roshan Ragel",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
                 },
                 {
                     "name": "Danushka Eranga",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Nalaka Jayanath",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Chinthaka Somathilaka",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 }
             ],
             "doi": "https://doi.org/10.1109/ICIAFS.2016.7946548",
@@ -1866,11 +2470,15 @@
             "authors": [
                 "Janaka Alawatugoda"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Janaka Alawatugoda",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "alawatugoda",
+                    "email": "alawatugoda@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/"
                 }
             ],
             "doi": "https://doi.org/10.1007/s10207-016-0346-9",
@@ -1902,21 +2510,33 @@
                 "Janaka Alawatugoda",
                 "C Pandu Rangan"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Suvradip Chakraborty",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Janaka Alawatugoda",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "alawatugoda",
+                    "email": "alawatugoda@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/"
                 },
                 {
                     "name": "C Pandu Rangan",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 }
             ],
             "doi": "https://doi.org/10.1007/978-3-319-68637-0_10",
@@ -1946,11 +2566,15 @@
             "authors": [
                 "Janaka Alawatugoda"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Janaka Alawatugoda",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "alawatugoda",
+                    "email": "alawatugoda@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/"
                 }
             ],
             "doi": "https://doi.org/10.1515/jmc-2016-0003",
@@ -1983,31 +2607,51 @@
                 "Roshan Ragel",
                 "Mohamed Fawsan"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Jayamine Alupotha",
                     "profile": "https://people.ce.pdn.ac.lk/students/e12/009/",
-                    "type": "STUDENT"
+                    "type": "STUDENT",
+                    "id": "jayamine.alupotha",
+                    "email": "jayamine.alupotha@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e12/e12009.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e12/009/"
                 },
                 {
                     "name": "Sanduni Prasadi",
                     "profile": "https://people.ce.pdn.ac.lk/students/e12/269/",
-                    "type": "STUDENT"
+                    "type": "STUDENT",
+                    "id": "sanduniprasadi06",
+                    "email": "sanduniprasadi06@gmail.com",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e12/e12269.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e12/269/"
                 },
                 {
                     "name": "Janaka Alawatugoda",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "alawatugoda",
+                    "email": "alawatugoda@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/"
                 },
                 {
                     "name": "Roshan Ragel",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "roshanr",
+                    "email": "roshanr@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
                 },
                 {
                     "name": "Mohamed Fawsan",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 }
             ],
             "doi": "https://doi.org/10.1109/ICIINFS.2017.8300359",
@@ -2040,21 +2684,33 @@
                 "Chuah Chai Wen",
                 "Janaka Alawatugoda\\"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Clement Chan Zheng Wei",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Chuah Chai Wen",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "alawatugoda",
+                    "email": "alawatugoda@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/"
                 },
                 {
                     "name": "Janaka Alawatugoda\\",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 }
             ],
             "doi": "https://doi.org/10.17762/ijcnis.v11i1.3790",
@@ -2088,21 +2744,33 @@
                 "Janaka Alawatugoda",
                 "Chandrasekaran Pandu Rangan"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Suvradip Chakraborty",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Janaka Alawatugoda",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "alawatugoda",
+                    "email": "alawatugoda@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/"
                 },
                 {
                     "name": "Chandrasekaran Pandu Rangan",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 }
             ],
             "doi": "https://doi.org/10.1515/jmc-2019-0014",
@@ -2133,11 +2801,15 @@
             "authors": [
                 "Janaka Alawatugoda"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Janaka Alawatugoda",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "alawatugoda",
+                    "email": "alawatugoda@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/"
                 }
             ],
             "doi": "https://doi.org/10.1093/comjnl/bxaa055",
@@ -2150,9 +2822,7 @@
                 "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
             ],
             "funding": "",
-            "tags": [
-                ""
-            ],
+            "tags": [],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1093/comjnl/bxaa055/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1093/comjnl/bxaa055/index.json"
         },
@@ -2168,31 +2838,51 @@
                 "Janaka Alawatugoda",
                 "Chuah Chai Wen"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Rangana De Silva",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Iranga Navaratna",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Malitha Kumarasiri",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Janaka Alawatugoda",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "alawatugoda",
+                    "email": "alawatugoda@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/"
                 },
                 {
                     "name": "Chuah Chai Wen",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 }
             ],
             "doi": "https://doi.org/10.1504/ijics.2022.121289",
@@ -2227,16 +2917,24 @@
                 "Janaka Alawatugoda",
                 "Tatsuaki Okamoto"
             ],
-            "author_cards": [
+            "author_info": [
                 {
                     "name": "Janaka Alawatugoda",
                     "profile": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/",
-                    "type": "STAFF"
+                    "type": "STAFF",
+                    "id": "alawatugoda",
+                    "email": "alawatugoda@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/"
                 },
                 {
                     "name": "Tatsuaki Okamoto",
                     "profile": "#",
-                    "type": "OUTSIDER"
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 }
             ],
             "doi": "https://doi.org/10.1007/s10623-022-01028-0",

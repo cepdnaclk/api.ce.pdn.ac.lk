@@ -10,25 +10,28 @@
     ],
     "author_info": [
         {
+            "name": "Chathurangi Edussuriya",
+            "profile": "https://people.ce.pdn.ac.lk/students/e14/054/",
             "type": "STUDENT",
-            "id": "E/14/054",
-            "name": "Chathurangi .E",
+            "id": "e14054",
             "email": "e14054@ce.pdn.ac.lk",
             "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14054.jpg",
             "profile_url": "https://people.ce.pdn.ac.lk/students/e14/054/"
         },
         {
+            "name": "Sampath Deegalla",
+            "profile": "https://people.ce.pdn.ac.lk/staff/academic/sampath-deegalla/",
             "type": "STAFF",
             "id": "sampath",
-            "name": "Mr. Sampath Deegalla",
             "email": "sampath@eng.pdn.ac.lk",
             "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/sampath-deegalla.jpg",
             "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/sampath-deegalla/"
         },
         {
+            "name": "Indika Gawarammana",
+            "profile": "#",
             "type": "OUTSIDER",
-            "id": "outsider",
-            "name": "",
+            "id": "",
             "email": "",
             "profile_image": "#",
             "profile_url": "#"
@@ -41,12 +44,8 @@
     "presentation_url": "#",
     "project_url": "#",
     "codebase": "#",
-    "research_groups": [
-        ""
-    ],
-    "tags": [
-        ""
-    ],
+    "research_groups": [],
+    "tags": [],
     "funding": "",
     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1371/journal.pntd.0009756/",
     "submitted": "2022/09/24 01:07:27"
