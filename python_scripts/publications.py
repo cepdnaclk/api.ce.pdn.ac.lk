@@ -100,11 +100,11 @@ DEPT_AFFILIATION = 18
 FIELD_COUNT = 19
 
 
-# print(json.dumps(pub_raw[0].replace('\r', '').split("\t"), indent = 4))
-
 # Skip the header line
 for line in pub_raw[1:]:
-
+    # TODO: Allow to edit the JSON file 
+    # TODO: Wrap with try catch block, and error notification via Discord
+    
     pub_raw_data = line.replace('\r', '').split("\t")
 
     if (len(pub_raw_data) != FIELD_COUNT):
