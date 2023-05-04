@@ -42,7 +42,7 @@ with open(projects_url, 'r') as f:
 for p_name in projects:
 
     # read the project information from the project's index file
-    filename = projects[p_name]['api_url'].replace('http://api.ce.pdn.ac.lk', '..') + "index.json"
+    filename = projects[p_name]['api_url'].replace('https://api.ce.pdn.ac.lk', '..') + "index.json"
     proj_data = json.load(open(filename, "r"))
     print(proj_data['title'])
 

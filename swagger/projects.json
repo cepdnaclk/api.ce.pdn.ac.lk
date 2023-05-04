@@ -211,7 +211,7 @@
           "description" : "Cyber-Physical Systems designed and implemented by 3rd year Computer Engineering Students as part of...",
           "type" : "GENERAL",
           "page_url" : "https://projects.ce.pdn.ac.lk/3yp/",
-          "api_url" : "http://api.ce.pdn.ac.lk/projects/v1/3yp/"
+          "api_url" : "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
         }
       }
     },
@@ -254,7 +254,7 @@
           "description" : "The list of batches",
           "example" : {
             "E15" : {
-              "api_url" : "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/",
+              "api_url" : "https://api.ce.pdn.ac.lk/projects/v1/3yp/E15/",
               "project_count" : 20
             }
           }
@@ -268,7 +268,7 @@
         "type" : "GENERAL",
         "batches" : {
           "E15" : {
-            "api_url" : "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/",
+            "api_url" : "https://api.ce.pdn.ac.lk/projects/v1/3yp/E15/",
             "project_count" : 20
           }
         }
@@ -349,12 +349,12 @@
           "category" : {
             "title" : "Undergraduate Research Projects",
             "code" : "4yp",
-            "api_url" : "http://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            "api_url" : "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
           },
           "project_url" : "https://projects.ce.pdn.ac.lk/4yp/e10/CUDA_Fast_ICA",
           "repo_url" : "https://github.com/cepdnaclk/e10-4yp-CUDA_Fast_ICA",
           "page_url" : "#",
-          "api_url" : "http://api.ce.pdn.ac.lk/projects/v1/4yp/E10/CUDA_Fast_ICA/"
+          "api_url" : "https://api.ce.pdn.ac.lk/projects/v1/4yp/E10/CUDA_Fast_ICA/"
         }
       }
     },
@@ -434,7 +434,7 @@
         "category" : {
           "title" : "Cyber-Physical Systems Projects",
           "code" : "3yp",
-          "api_url" : "http://api.ce.pdn.ac.lk/projects/v1/3yp/"
+          "api_url" : "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
         },
         "project_url" : "https://projects.ce.pdn.ac.lk/3yp/e15/A-GUI-for-controlling-and-supervising-multiple-robots-remotely",
         "repo_url" : "https://github.com/cepdnaclk/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely",
@@ -448,7 +448,7 @@
             "github" : "https://github.com/NuwanJ",
             "linkedin" : "https://www.linkedin.com/in/nuwan-jaliyagoda/",
             "researchgate" : "https://www.researchgate.net/profile/Nuwan-Jaliyagoda",
-            "api_url" : "http://api.ce.pdn.ac.lk/people/v1/students/E15/140",
+            "api_url" : "https://api.ce.pdn.ac.lk/people/v1/students/E15/140",
             "profile_image" : "https://people.ce.pdn.ac.lk/images/students/e15/e15140.jpg",
             "profile_url" : "https://people.ce.pdn.ac.lk/students/e15/140/"
           }
@@ -459,7 +459,7 @@
             "email" : "isurunawinne@eng.pdn.ac.lk",
             "profile_url" : "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
             "profile_image" : "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
-            "api_url" : "http://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+            "api_url" : "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
             "website" : "",
             "linkedin" : "https://www.linkedin.com/in/isuru-nawinne-73302833/",
             "researchgate" : "https://www.researchgate.net/profile/Isuru-Nawinne",
@@ -576,7 +576,7 @@
           "repo_url" : "https://github.com/cepdnaclk/e14-3yp-Networked-and-Automated-Weather-Monitoring-and-Alerting-System",
           "page_url" : "https://cepdnaclk.github.io/e14-3yp-Networked-and-Automated-Weather-Monitoring-and-Alerting-System",
           "thumbnail_url" : "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-          "api_url" : "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Networked-and-Automated-Weather-Monitoring-and-Alerting-System/"
+          "api_url" : "https://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Networked-and-Automated-Weather-Monitoring-and-Alerting-System/"
         } ]
       }
     },
@@ -643,7 +643,7 @@
           "repo_url" : "https://github.com/cepdnaclk/e14-3yp-Networked-and-Automated-Weather-Monitoring-and-Alerting-System",
           "page_url" : "https://cepdnaclk.github.io/e14-3yp-Networked-and-Automated-Weather-Monitoring-and-Alerting-System",
           "thumbnail_url" : "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-          "api_url" : "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Networked-and-Automated-Weather-Monitoring-and-Alerting-System/"
+          "api_url" : "https://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Networked-and-Automated-Weather-Monitoring-and-Alerting-System/"
         } ]
       }
     },
@@ -656,7 +656,7 @@
           "category" : {
             "title" : "Cyber-Physical Systems Projects",
             "code" : "3yp",
-            "api_url" : "http://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            "api_url" : "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
           },
           "project_url" : "https://projects.ce.pdn.ac.lk/3yp/e17/smart-shopping-cart/",
           "repo_url" : "https://github.com/cepdnaclk/e17-3yp-smart-shopping-cart",
@@ -670,7 +670,7 @@
               "github" : "",
               "linkedin" : "",
               "researchgate" : "",
-              "api_url" : "http://api.ce.pdn.ac.lk/people/v1/students/E17/159",
+              "api_url" : "https://api.ce.pdn.ac.lk/people/v1/students/E17/159",
               "profile_image" : "https://people.ce.pdn.ac.lk/images/students/e17/e17159.jpg",
               "profile_url" : "https://people.ce.pdn.ac.lk/students/e17/159/"
             },
@@ -681,7 +681,7 @@
               "github" : "",
               "linkedin" : "",
               "researchgate" : "",
-              "api_url" : "http://api.ce.pdn.ac.lk/people/v1/students/E17/256",
+              "api_url" : "https://api.ce.pdn.ac.lk/people/v1/students/E17/256",
               "profile_image" : "https://people.ce.pdn.ac.lk/images/students/e17/e17256.jpg",
               "profile_url" : "https://people.ce.pdn.ac.lk/students/e17/256/"
             },
@@ -692,7 +692,7 @@
               "github" : "",
               "linkedin" : "",
               "researchgate" : "",
-              "api_url" : "http://api.ce.pdn.ac.lk/people/v1/students/E17/292",
+              "api_url" : "https://api.ce.pdn.ac.lk/people/v1/students/E17/292",
               "profile_image" : "https://people.ce.pdn.ac.lk/images/students/e17/e17292.jpg",
               "profile_url" : "https://people.ce.pdn.ac.lk/students/e17/292/"
             }
@@ -703,7 +703,7 @@
               "email" : "isurunawinne@eng.pdn.ac.lk",
               "profile_url" : "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
               "profile_image" : "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
-              "api_url" : "http://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+              "api_url" : "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
               "website" : "",
               "linkedin" : "https://www.linkedin.com/in/isuru-nawinne-73302833/",
               "researchgate" : "https://www.researchgate.net/profile/Isuru-Nawinne",
@@ -714,7 +714,7 @@
               "email" : "mahanamaw@eng.pdn.ac.lk",
               "profile_url" : "https://people.ce.pdn.ac.lk/staff/academic/mahanama-wickramasinghe/",
               "profile_image" : "https://people.ce.pdn.ac.lk/images/staff/academic-staff/mahanama-wickramasinghe.jpg",
-              "api_url" : "http://api.ce.pdn.ac.lk/people/v1/staff/mahanamaw",
+              "api_url" : "https://api.ce.pdn.ac.lk/people/v1/staff/mahanamaw",
               "website" : "",
               "linkedin" : "https://www.linkedin.com/in/mahanama",
               "researchgate" : "https://www.researchgate.net/profile/Mahanama-Wickramsinghe",
