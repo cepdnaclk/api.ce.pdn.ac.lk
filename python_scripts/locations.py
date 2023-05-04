@@ -15,6 +15,7 @@ import os
 import shutil
 
 from utility import getStaff
+from utility import strip_strings
 from notifications import Notifications
 
 notify = Notifications("api.ce.pdn.ac.lk", "Daily")
@@ -159,6 +160,7 @@ for line in loc_raw[1:]:
         "tags": sorted(tag_list),
         "accessibility": sorted(list(set(access_list))),
     }
+    strip_strings(loc_data)
 
     write_location(loc_data)
 

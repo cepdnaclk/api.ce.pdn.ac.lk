@@ -50,8 +50,6 @@ def project_key(title):
     return title.replace(' ', '-')
 
 # Pre-process the team data
-
-
 def process_team(data):
     team = {}
 
@@ -114,17 +112,15 @@ def process_team(data):
             profile_image = DEFAULT_PROFILE_IMAGE
 
         team[eNumber] = {
-            'name': name, 'email': email, 'website': website,
-            'github': github, 'linkedin': linkedin,
-            'researchgate': researchgate, 'api_url': profile_api,
+            'name': name.strip(), 'email': email.strip(), 'website': website.strip(),
+            'github': github.strip(), 'linkedin': linkedin.strip(),
+            'researchgate': researchgate.strip(), 'api_url': profile_api,
             'profile_image': profile_image, 'profile_url': profile_url
         }
 
     return team
 
 # Pre-process the supervisor data
-
-
 def process_supervisors(data):
     # TODO: Process, validate, and add missing data from people APIs
     supervisors = {}
@@ -145,21 +141,21 @@ def process_supervisors(data):
                 email_id if details['designation'] != "Visiting Research Fellow" else "#"
 
             supervisors[person['email']] = {
-                'name': details['name'],
-                'email': details['email'],
-                'profile_url': details['profile_url'],
-                'profile_image': details['profile_image'],
+                'name': details['name'].strip(),
+                'email': details['email'].strip(),
+                'profile_url': details['profile_url'].strip(),
+                'profile_image': details['profile_image'].strip(),
                 'api_url': api_url,
-                'website': details['urls']['website'] if ('urls' in details and 'website' in details['urls']) else "#",
-                'linkedin': details['urls']['linkedin'] if ('urls' in details and 'linkedin' in details['urls']) else "#",
-                'researchgate': details['urls']['researchgate'] if ('urls' in details and 'researchgate' in details['urls']) else "#",
-                'google_scholar': details['urls']['google_scholar'] if ('urls' in details and 'google_scholar' in details['urls']) else "#",
+                'website': details['urls']['website'].strip() if ('urls' in details and 'website' in details['urls']) else "#",
+                'linkedin': details['urls']['linkedin'].strip() if ('urls' in details and 'linkedin' in details['urls']) else "#",
+                'researchgate': details['urls']['researchgate'].strip() if ('urls' in details and 'researchgate' in details['urls']) else "#",
+                'google_scholar': details['urls']['google_scholar'].strip() if ('urls' in details and 'google_scholar' in details['urls']) else "#",
             }
 
         else:
             supervisors[person['email']] = {
-                'name': person['name'],
-                'email': person['email'],
+                'name': person['name'].strip(),
+                'email': person['email'].strip(),
                 'profile_url': '#',
                 'profile_image': DEFAULT_PROFILE_IMAGE,
                 'api_url': '#',

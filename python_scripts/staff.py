@@ -11,6 +11,8 @@ import json
 import os
 import shutil
 
+from utility import strip_strings
+
 # Where the API is available
 apiIndex = 'https://api.ce.pdn.ac.lk/people/v1'
 # apiIndex = 'http://localhost:4001/people'
@@ -42,26 +44,23 @@ def del_old_files():
 
 
 def write_index(staff_list):
-    dict = {}
+    dictionary = {}
 
     for email in staff_list:
         raw = staff_list[email]
         email_id = email.split('@')[0]
         url = '{0}/staff/{1}/'.format(apiIndex, email_id)
-        dict[email] = {
+        dictionary[email] = {
             'name': raw['name'],
             'url': url,
             'designation':  raw['designation']
         }
-
     filename = "../people/v1/staff/index.json"
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, "w") as f:
-        f.write(json.dumps(dict, indent=4))
+        f.write(json.dumps(dictionary, indent=4))
 
 # Write the /staff/{email_id}/index.json files
-
-
 def write_staff_pages(staff_list):
     for email in staff_list:
         raw_data = staff_list[email]
@@ -85,8 +84,6 @@ def write_staff_pages(staff_list):
             f.write(json.dumps(data, indent=4))
 
 # Write the /staff/all/index.json file
-
-
 def write_all(staff_list, temp_staff_list, support_staff_list, visiting_staff_list):
     data_all = {}
     sorted_data_all = {}
@@ -167,6 +164,7 @@ if r.status_code == 200:
 
     # Academic Staff -----------------------------------------------------------
     staff_list = all_staff_list['academic']
+    strip_strings(staff_list)
 
     # Write the index file for the academic staff
     write_index(staff_list)
@@ -180,6 +178,8 @@ if r.status_code == 200:
     print("Building: Temporary and NonAcademic staff details")
     temp_staff_list = all_staff_list['temporary-academic']
     support_staff_list = all_staff_list['support-academic']
+    strip_strings(temp_staff_list)
+    strip_strings(support_staff_list)
 
     # Visiting Staff -----------------------------------------------------------
     # No individual pages for them

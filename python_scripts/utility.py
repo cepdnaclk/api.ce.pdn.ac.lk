@@ -7,11 +7,11 @@ def getStudent(apiBase, students_dict, eNumber):
         person_from_api = students_dict[eNumber]
 
         # Select the best available name
-        if(person_from_api['name_with_initials'] != ""):
+        if(person_from_api['name_with_initials'].strip() != ""):
             name = person_from_api["name_with_initials"]
-        elif(person_from_api['preferred_long_name'] != ""):
+        elif(person_from_api['preferred_long_name'].strip() != ""):
             name = person_from_api["preferred_long_name"]
-        elif(person_from_api['full_name'] != ""):
+        elif(person_from_api['full_name'].strip() != ""):
             name = person_from_api["full_name"]
 
         # Construct and select the Email address
@@ -21,9 +21,9 @@ def getStudent(apiBase, students_dict, eNumber):
             personal_email = person_from_api['emails']['personal']
 
             if faculty_email['name'] != "":
-                email = faculty_email['name'] + '@' + faculty_email['domain']
+                email = faculty_email['name'].strip() + '@' + faculty_email['domain'].strip()
             elif personal_email['name'] != "":
-                email = personal_email['name'] + '@' + personal_email['domain']
+                email = personal_email['name'].strip() + '@' + personal_email['domain'].strip()
             else:
                 email = '#'
 
@@ -41,8 +41,8 @@ def getStudent(apiBase, students_dict, eNumber):
 
         student = {
             'type': 'STUDENT', 'id': eNumber,
-            'name':name, 'email':email,
-            'profile_image':profile_image , 'profile_url':profile_url
+            'name':name.strip(), 'email':email,
+            'profile_image':profile_image.strip() , 'profile_url':profile_url.strip()
         }
 
     else:
@@ -69,8 +69,8 @@ def getStaff(apiBase, staff_dict, email):
         else:
             profile_image = DEFAULT_PROFILE_IMAGE
 
-        name = person_from_api['name']
-        email = person_from_api['email']
+        name = person_from_api['name'].strip()
+        email = person_from_api['email'].strip()
 
         profile_url = person_from_api['profile_url'] if 'profile_url' in person_from_api else "#"
         profile_api = apiBase + apiBase + "/people/v1/staff/" + email_id
@@ -85,3 +85,11 @@ def getStaff(apiBase, staff_dict, email):
         staff = None
 
     return staff
+
+
+def strip_strings(d):
+    for key, value in d.items():
+        if isinstance(value, dict):
+            strip_strings(value)  # Recursively strip strings in nested dictionaries
+        elif isinstance(value, str):
+            d[key] = value.strip()  # Strip whitespace characters from string values

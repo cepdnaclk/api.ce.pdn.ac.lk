@@ -10,6 +10,7 @@ import requests
 import json
 import os
 import shutil
+from utility import strip_strings
 
 # Where the API is available
 apiIndex = 'https://api.ce.pdn.ac.lk/people/v1/'
@@ -136,6 +137,8 @@ batch_groups = {}
 # Fetch data from the people.ce.pdn.ac.lk
 if r.status_code == 200:
     data = json.loads(r.text)
+
+    strip_strings(data)
     # print(data)
 
     for eNumber in data:
@@ -146,9 +149,9 @@ if r.status_code == 200:
         # if (batch[1:].isnumeric() and int(batch[1:]) >= 12):
         # Split the email address to avoid spaming
         data[eNumber]['emails']['personal'] = emailFilter(
-            data[eNumber]['emails']['personal'])
+            data[eNumber]['emails']['personal'].strip())
         data[eNumber]['emails']['faculty'] = emailFilter(
-            data[eNumber]['emails']['faculty'])
+            data[eNumber]['emails']['faculty'].strip())
         data[eNumber]['profile_page'] = webSource + 'students/' + \
             data[eNumber]['eNumber'].replace('E/', 'e') + '/'
 

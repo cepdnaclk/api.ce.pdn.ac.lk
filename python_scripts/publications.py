@@ -13,6 +13,7 @@ from datetime import date, datetime
 
 from utility import getStudent
 from utility import getStaff
+from utility import strip_strings
 
 # Use SL timezone
 os.environ['TZ'] = 'Asia/Colombo'
@@ -213,6 +214,8 @@ for line in pub_raw[1:]:
         "edit_url": edit_url,
         "submitted": datetime.strftime(submitted_on, "%Y/%m/%d %H:%M:%S")
     }
+
+    strip_strings(pub_data)
 
     # Write into an individual file
     write_publication(pub_data)
