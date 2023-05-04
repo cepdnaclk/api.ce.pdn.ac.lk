@@ -15,7 +15,7 @@ from notifications import Notifications
 notify = Notifications("api.ce.pdn.ac.lk", "Daily")
 
 # Where the API is available
-apiBase = "http://api.ce.pdn.ac.lk"
+apiBase = "https://api.ce.pdn.ac.lk"
 
 # Where the student data available
 studentSource = "../people/v1/students/all/index.json"
