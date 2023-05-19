@@ -1,16 +1,16 @@
 {
-    "e17-4yp-3D-Occupancy-Prediction": {
-        "title": "3D Occupancy Prediction",
+    "e17-4yp-3D-Occupancy-Prediction-for-Autonomous-Driving": {
+        "title": "3D Occupancy Prediction for Autonomous Driving",
         "description": "",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/3D-Occupancy-Prediction/",
-        "repo_url": "https://github.com/cepdnaclk/e17-4yp-3D-Occupancy-Prediction",
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/3D-Occupancy-Prediction-for-Autonomous-Driving/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-3D-Occupancy-Prediction-for-Autonomous-Driving",
         "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/3D-Occupancy-Prediction/"
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/3D-Occupancy-Prediction-for-Autonomous-Driving/"
     },
     "e17-4yp-Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving": {
         "title": "Improving Trajectory Guided Control Prediction for Autonomous Driving",
@@ -24,5 +24,18 @@
         "repo_url": "https://github.com/cepdnaclk/e17-4yp-Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving",
         "page_url": "https://cepdnaclk.github.io/e17-4yp-Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving/"
+    },
+    "e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs": {
+        "title": "Neuromorphic NoC Architecture for SNNs",
+        "description": "This project aims to develop a novel neuromorphic NoC architecture based on RISC-V ISA to support spiking neural network applications, and test it on FPGA.",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Neuromorphic-NoC-Architecture-for-SNNs/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Neuromorphic-NoC-Architecture-for-SNNs/"
     }
 }
