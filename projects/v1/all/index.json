@@ -176,6 +176,104 @@
             "Final Year Projects"
         ]
     },
+    "e17-4yp-develop-a-programming-and-compiler-toolchain-for-multi-agent-systems": {
+        "title": "develop a programming and compiler toolchain for multi agent systems",
+        "description": "The aim is to design an Integrated Development Environment to build software for multi-agent systems. The IDE shall provide facilities to compose algorithms at a high-level (ideally in a visual manner), and compile them over multiple stages into binaries and program the hardware over-the-air (OTA).",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/develop-a-programming-and-compiler-toolchain-for-multi-agent-systems/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-develop-a-programming-and-compiler-toolchain-for-multi-agent-systems",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-develop-a-programming-and-compiler-toolchain-for-multi-agent-systems",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/develop-a-programming-and-compiler-toolchain-for-multi-agent-systems/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "team": {
+            "E/17/352": {
+                "name": "Tillekeratne L.J.I.",
+                "email": "e17352@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/IsaraTillekeratne",
+                "linkedin": "https://www.linkedin.com/in/isara-tillekeratne-12a301212/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/352",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17352.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/352/"
+            },
+            "E/17/398": {
+                "name": "Wijerathne I.D.H.S.D.",
+                "email": "e17398@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/398",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17398.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/398/"
+            },
+            "E/17/159": {
+                "name": "Kavinaya Y.",
+                "email": "e17159@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/159",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17159.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/159/"
+            }
+        },
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            },
+            "mahanamaw@eng.pdn.ac.lk": {
+                "name": "Dr. Mahanama Wickramasinghe",
+                "email": "mahanamaw@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/mahanama-wickramasinghe/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/mahanama-wickramasinghe.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/mahanamaw",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/mahanama",
+                "researchgate": "https://www.researchgate.net/profile/Mahanama-Wickramsinghe",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=kuoZpZEAAAAJ"
+            },
+            "roshanr@eng.pdn.ac.lk": {
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/roshanr",
+                "website": "http://roshan.ragel.net/",
+                "linkedin": "https://www.linkedin.com/in/roshanragel/",
+                "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
+                "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
+            },
+            "sithuminie@eng.pdn.ac.lk": {
+                "name": "Dr. Sithumini Ekanayake",
+                "email": "sithuminie@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/sithumini-ekanayake/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/sithumini-ekanayake.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/sithuminie",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/sithumini/",
+                "researchgate": "https://www.researchgate.net/profile/Sithumini-Ekanayake-2",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=mRlKPGsAAAAJ"
+            }
+        },
+        "tags": [
+            "Final Year Projects"
+        ]
+    },
     "e16-4yp-ABM-for-Micro-Mobility-in-Sri-Lankan-Cities": {
         "title": "ABM for Micro Mobility in Sri Lankan Cities",
         "description": "Agent Based Model for Micro mobility in Sri Lankan cities",
@@ -6416,14 +6514,14 @@
         "team": {
             "E/18/013": {
                 "name": "Abilash R",
-                "email": "e18013@eng.pdn.ac.lk",
-                "website": "abilash.me",
+                "email": "e180130@eng.pdn.ac.lk",
+                "website": "#",
                 "github": "https://github.com/RavindranAbilash",
                 "linkedin": "https://www.linkedin.com/in/ravindran-abilash/",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/013",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18013.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/013/"
+                "researchgate": "#",
+                "api_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "profile_url": "#"
             },
             "E/18/115": {
                 "name": "Gowsigan A",
@@ -10165,72 +10263,19 @@
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E16/Agriculture-Monitoring-and-Control-System/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
     },
-    "e15-co326-Remotely-Controlled-CNC-Robot": {
-        "title": "Remotely Controlled CNC Robot",
-        "description": "In this project, we developed a CNC (Computer Numerical Control) based pick and place arm, which will help to try different wiring arrangements in a PLC rig and try experiments on it remotely.",
+    "e18-co326-Patient-monitoring-system": {
+        "title": "Patient monitoring system",
+        "description": "This IoT-based health monitoring system will assist doctors in providing timely medical attention and ensuring that patients' health is taken care of, even when they are not physically present.",
         "category": {
             "title": "Industrial Automation Projects (CO326)",
             "code": "co326",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/co326/e15/Remotely-Controlled-CNC-Robot/",
-        "repo_url": "https://github.com/cepdnaclk/e15-co326-Remotely-Controlled-CNC-Robot",
-        "page_url": "https://cepdnaclk.github.io/e15-co326-Remotely-Controlled-CNC-Robot",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-        "team": {
-            "E/15/140": {
-                "name": "Jaliyagoda A.J.N.M.",
-                "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
-                "website": "https://nuwanjaliyagoda.com/",
-                "github": "https://github.com/NuwanJ",
-                "linkedin": "https://www.linkedin.com/in/nuwan-jaliyagoda/",
-                "researchgate": "https://www.researchgate.net/profile/Nuwan-Jaliyagoda",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E15/140",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15140.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/140/"
-            },
-            "E/15/173": {
-                "name": "Karunarathna S.D.D.D.",
-                "email": "dilshanik@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/DDilshani",
-                "linkedin": "https://www.linkedin.com/in/dilshanikarunarathna/",
-                "researchgate": "https://www.researchgate.net/profile/Dilshani-Karunrathna",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E15/173",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15173.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/173/"
-            },
-            "E/15/350": {
-                "name": "Pasan Tennakoon",
-                "email": "e15350@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/PasanT9",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E15/350",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15350.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/350/"
-            }
-        },
-        "supervisors": {
-            "kamalanath@eng.pdn.ac.lk ": {
-                "name": "Dr. Eng. Kamalanath Samarakoon",
-                "email": "kamalanath@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/kamalanath-samarakoon/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/kamalanath-samarakoon.png",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
-                "website": "http://kamalanath.samarakoon.info/",
-                "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
-                "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
-                "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
-            }
-        },
-        "tags": [
-            "Embedded Systems",
-            "MQTT",
-            "CNC"
-        ]
+        "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Patient-monitoring-system/",
+        "repo_url": "https://github.com/cepdnaclk/e18-co326-Patient-monitoring-system",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Patient-monitoring-system/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
     },
     "e18-co326-Secured-Vision-Camera-Surveillance-System-with-Automated-Lighting": {
         "title": "Secured Vision Camera Surveillance System with Automated Lighting",
@@ -10310,6 +10355,73 @@
         "tags": [
             "Computer Systems Engineering",
             "Industrial Networks"
+        ]
+    },
+    "e15-co326-Remotely-Controlled-CNC-Robot": {
+        "title": "Remotely Controlled CNC Robot",
+        "description": "In this project, we developed a CNC (Computer Numerical Control) based pick and place arm, which will help to try different wiring arrangements in a PLC rig and try experiments on it remotely.",
+        "category": {
+            "title": "Industrial Automation Projects (CO326)",
+            "code": "co326",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co326/e15/Remotely-Controlled-CNC-Robot/",
+        "repo_url": "https://github.com/cepdnaclk/e15-co326-Remotely-Controlled-CNC-Robot",
+        "page_url": "https://cepdnaclk.github.io/e15-co326-Remotely-Controlled-CNC-Robot",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+        "team": {
+            "E/15/140": {
+                "name": "Jaliyagoda A.J.N.M.",
+                "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
+                "website": "https://nuwanjaliyagoda.com/",
+                "github": "https://github.com/NuwanJ",
+                "linkedin": "https://www.linkedin.com/in/nuwan-jaliyagoda/",
+                "researchgate": "https://www.researchgate.net/profile/Nuwan-Jaliyagoda",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E15/140",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15140.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/140/"
+            },
+            "E/15/173": {
+                "name": "Karunarathna S.D.D.D.",
+                "email": "dilshanik@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/DDilshani",
+                "linkedin": "https://www.linkedin.com/in/dilshanikarunarathna/",
+                "researchgate": "https://www.researchgate.net/profile/Dilshani-Karunrathna",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E15/173",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15173.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/173/"
+            },
+            "E/15/350": {
+                "name": "Pasan Tennakoon",
+                "email": "e15350@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/PasanT9",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E15/350",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15350.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/350/"
+            }
+        },
+        "supervisors": {
+            "kamalanath@eng.pdn.ac.lk ": {
+                "name": "Dr. Eng. Kamalanath Samarakoon",
+                "email": "kamalanath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/kamalanath-samarakoon/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/kamalanath-samarakoon.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
+                "website": "http://kamalanath.samarakoon.info/",
+                "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
+                "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
+                "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
+            }
+        },
+        "tags": [
+            "Embedded Systems",
+            "MQTT",
+            "CNC"
         ]
     },
     "e17-co326-Smart-Building-1": {
@@ -11593,6 +11705,20 @@
         "repo_url": "https://github.com/cepdnaclk/e18-6sp-Realtime-Flood-Forecast-System",
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Realtime-Flood-Forecast-System/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
+    },
+    "e18-6sp-Stock-Mentor": {
+        "title": "Stock Mentor",
+        "description": "This is a web application that will provide recommendations to investors regarding whether they should buy, sell, or hold stocks for various companies on a daily basis.",
+        "category": {
+            "title": "Sixth Semester Projects",
+            "code": "6sp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Stock-Mentor/",
+        "repo_url": "https://github.com/cepdnaclk/e18-6sp-Stock-Mentor",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Stock-Mentor/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
     },
     "e18-co227-Augmented-Reality-Guidance-System": {
@@ -13030,13 +13156,13 @@
             "E/18/013": {
                 "name": "Ravindran Abilash",
                 "email": "e18013@eng.pdn.ac.lk",
-                "website": "abilash.me",
-                "github": "https://github.com/RavindranAbilash",
-                "linkedin": "https://www.linkedin.com/in/ravindran-abilash/",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/013",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18013.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/013/"
+                "website": "#",
+                "github": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "api_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "profile_url": "#"
             },
             "E/18/366": {
                 "name": "Thulasiyan Yogeswaran",
@@ -13661,6 +13787,34 @@
             "Embedded Systems"
         ]
     },
+    "e18-co226-Database-for-the-University-Gym": {
+        "title": "Database for the University Gym",
+        "description": "",
+        "category": {
+            "title": "Database Projects (CO226)",
+            "code": "co226",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co226/e18/Database-for-the-University-Gym/",
+        "repo_url": "https://github.com/cepdnaclk/e18-co226-Database-for-the-University-Gym",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E18/Database-for-the-University-Gym/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
+    },
+    "e17-co226-business-to-business-database": {
+        "title": "business to business database",
+        "description": "CO226 Project - Relational Database for B2B Online Trade Community - by: @Isuri-Devindi, @KavinduJayas, @Dr-Madhushan",
+        "category": {
+            "title": "Database Projects (CO226)",
+            "code": "co226",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co226/e17/business-to-business-database/",
+        "repo_url": "https://github.com/cepdnaclk/e17-co226-business-to-business-database",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E17/business-to-business-database/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
+    },
     "e16-co502-RISCV-Pipeline-CPU-Implimentation-Group2": {
         "title": "RISCV Pipeline CPU Implimentation Group2",
         "description": "This is the RISC-V ISA implementation by Group 2",
@@ -14251,19 +14405,5 @@
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E14/balancing-an-inverted-pendulum-using-a-neural-network/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg"
-    },
-    "e17-co226-business-to-business-database": {
-        "title": "business to business database",
-        "description": "CO226 Project - Relational Database for B2B Online Trade Community - by: @Isuri-Devindi, @KavinduJayas, @Dr-Madhushan",
-        "category": {
-            "title": "Database Projects (CO226)",
-            "code": "co226",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co226/e17/business-to-business-database/",
-        "repo_url": "https://github.com/cepdnaclk/e17-co226-business-to-business-database",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E17/business-to-business-database/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
     }
 }
