@@ -13,6 +13,98 @@
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/3D-Occupancy-Prediction-for-Autonomous-Driving/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
     },
+    "e17-4yp-Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling": {
+        "title": "Acceleration of deep neural network based nanopore super accuracy basecalling",
+        "description": "Implementing suitable acceleration to speed up nanopore super accuracy basecalling process.",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
+    },
+    "e17-4yp-Applying-deep-learning-on-histological-images-of-lymph-tissues": {
+        "title": "Applying deep learning on histological images of lymph tissues",
+        "description": "Automated LN image analysis project aims to alleviate the demand on histologists, leading to earlier cancer detection and saving lives.",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Applying-deep-learning-on-histological-images-of-lymph-tissues/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-Applying-deep-learning-on-histological-images-of-lymph-tissues",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-Applying-deep-learning-on-histological-images-of-lymph-tissues",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Applying-deep-learning-on-histological-images-of-lymph-tissues/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "team": {
+            "E/17/230": {
+                "name": "Nishankar S",
+                "email": "e17230@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/Nishan-Charlie",
+                "linkedin": "www.linkedin.com/in/nishankar-s-423b551b3",
+                "researchgate": "https://www.researchgate.net/profile/Nishankar-Sathiyamohan",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/230",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17230.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/230/"
+            },
+            "E/17/256": {
+                "name": "Piriyaraj S",
+                "email": "e17256@eng.pdn.ac.lk",
+                "website": "https://spiriyaraj.blogspot.com/",
+                "github": "https://github.com/piriyaraj",
+                "linkedin": "www.linkedin.com/in/piriyaraj",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/256",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17256.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/256/"
+            },
+            "E/17/358": {
+                "name": "Varnaraj N",
+                "email": "e17358@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/varanaraj",
+                "linkedin": "https://www.linkedin.com/in/varnaa",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/358",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17358.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/358/"
+            }
+        },
+        "supervisors": {
+            "swarnar@eng.pdn.ac.lk": {
+                "name": "Dr. Swarnalatha Radhakrishnan",
+                "email": "swarnar@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/swarnalatha-radhakrishnan/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/swarnalatha-radhakrishnan.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/swarnar",
+                "website": "",
+                "linkedin": "https://lk.linkedin.com/in/swarnalatha-radhakrishnan-b4557636",
+                "researchgate": "https://www.researchgate.net/profile/Swarnalatha-Radhakrishnan-2",
+                "google_scholar": "https://scholar.google.com/citations?user=SN6DXkUAAAAJ&hl=en"
+            },
+            "pratheepan@uwu.ac.lk": {
+                "name": "Dr. Pratheepan",
+                "email": "pratheepan@uwu.ac.lk",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Final Year Projects",
+            "deep learning",
+            "cancer detection"
+        ]
+    },
     "e17-4yp-Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving": {
         "title": "Improving Trajectory Guided Control Prediction for Autonomous Driving",
         "description": "",
@@ -270,6 +362,25 @@
                 "google_scholar": "https://scholar.google.com/citations?hl=en&user=mRlKPGsAAAAJ"
             }
         },
+        "tags": [
+            "Final Year Projects"
+        ]
+    },
+    "e17-4yp-flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements": {
+        "title": "flexible glove for real time tracking and analysis of hand and finger movements",
+        "description": "This research proposes a flexible glove embedded with 9-axis IMUs for real-time tracking and analysis of hand movements, revolutionizing remote training in various fields.",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "team": {},
+        "supervisors": {},
         "tags": [
             "Final Year Projects"
         ]
@@ -6514,14 +6625,14 @@
         "team": {
             "E/18/013": {
                 "name": "Abilash R",
-                "email": "e180130@eng.pdn.ac.lk",
-                "website": "#",
+                "email": "e18013@eng.pdn.ac.lk",
+                "website": "https://ravindranabilash.github.io/",
                 "github": "https://github.com/RavindranAbilash",
                 "linkedin": "https://www.linkedin.com/in/ravindran-abilash/",
-                "researchgate": "#",
-                "api_url": "#",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
-                "profile_url": "#"
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/013",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18013.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/013/"
             },
             "E/18/115": {
                 "name": "Gowsigan A",
@@ -11693,6 +11804,84 @@
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Analysis-and-visualization-of-complex-software-system-traces/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
     },
+    "e18-6sp-ML-for-Analyzing-Egg-Hatching": {
+        "title": "ML for Analyzing Egg Hatching",
+        "description": "Using machine learning algorithms and data analysis techniques to predict the number of hatching eggs, optimize egg hatching conditions, predict optimal incubation parameters, and improve hatch rates.",
+        "category": {
+            "title": "Sixth Semester Projects",
+            "code": "6sp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/ML-for-Analyzing-Egg-Hatching/",
+        "repo_url": "https://github.com/cepdnaclk/e18-6sp-ML-for-Analyzing-Egg-Hatching",
+        "page_url": "https://cepdnaclk.github.io/e18-6sp-ML-for-Analyzing-Egg-Hatching",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-for-Analyzing-Egg-Hatching/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+        "team": {
+            "E/18/030": {
+                "name": "A.M.S Aththanayaka",
+                "email": "e18030@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/030",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18030.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/030/"
+            },
+            "E/18/282": {
+                "name": "R.A.N.S Ranasinghe",
+                "email": "e18282@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/282",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18282.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/282/"
+            },
+            "E/18/283": {
+                "name": "R.D.J.M Ranasinghe",
+                "email": "e18283@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/JayathriRanasinghe",
+                "linkedin": "www.linkedin.com/in/jayathri-ranasinghe-2171a9204",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/283",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18283.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/283/"
+            }
+        },
+        "supervisors": {
+            "asithab@eng.pdn.ac.lk": {
+                "name": "Dr. Asitha Bandaranayake",
+                "email": "asithab@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/asithab",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/asithab/",
+                "researchgate": "https://www.researchgate.net/profile/Asitha-Bandaranayake-3",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=sf6MaF4AAAAJ"
+            },
+            "nadeeshaa@eng.pdn.ac.lk": {
+                "name": "Mrs. Nadeesha Adikari",
+                "email": "nadeeshaa@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/nadeesha-adikari/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/nadeesha-adikari.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/nadeeshaa",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/nadeesha-adikari-48864961/",
+                "researchgate": "https://www.researchgate.net/profile/Nadeesha-Adikari",
+                "google_scholar": ""
+            }
+        },
+        "tags": [
+            "Machine Learning",
+            "Web development",
+            "Poultry Industry"
+        ]
+    },
     "e18-6sp-Realtime-Flood-Forecast-System": {
         "title": "Realtime Flood Forecast System",
         "description": "",
@@ -12202,8 +12391,8 @@
                 "name": "Vilakshan",
                 "email": "e18373@eng.pdn.ac.lk",
                 "website": "",
-                "github": "",
-                "linkedin": "",
+                "github": "https://github.com/vilakshan2996",
+                "linkedin": "https://www.linkedin.com/in/vilakshan-vinasirajan/",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/373",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18373.jpg",
@@ -13156,13 +13345,13 @@
             "E/18/013": {
                 "name": "Ravindran Abilash",
                 "email": "e18013@eng.pdn.ac.lk",
-                "website": "#",
-                "github": "#",
-                "linkedin": "#",
-                "researchgate": "#",
-                "api_url": "#",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
-                "profile_url": "#"
+                "website": "https://ravindranabilash.github.io/",
+                "github": "https://github.com/RavindranAbilash",
+                "linkedin": "https://www.linkedin.com/in/ravindran-abilash/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/013",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18013.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/013/"
             },
             "E/18/366": {
                 "name": "Thulasiyan Yogeswaran",
