@@ -23,9 +23,82 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling/",
         "repo_url": "https://github.com/cepdnaclk/e17-4yp-Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "team": {
+            "E/17/012": {
+                "name": "R. A. A. U. Amarasinghe",
+                "email": "e17012@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://www.github.com/AmindaAmarasinghe/",
+                "linkedin": "http://www.linkedin.com/in/aminda-amarasinghe-30b4591a8/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/012",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17012.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/012/"
+            },
+            "E/17/201": {
+                "name": "W. T. Madhushani",
+                "email": "e17201@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/201",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17201.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/201/"
+            },
+            "E/17/284": {
+                "name": "R. L. D. A. S. Rathnayaka",
+                "email": "e17284@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/284",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17284.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/284/"
+            }
+        },
+        "supervisors": {
+            "roshanr@eng.pdn.ac.lk": {
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/roshanr",
+                "website": "http://roshan.ragel.net/",
+                "linkedin": "https://www.linkedin.com/in/roshanragel/",
+                "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
+                "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
+            },
+            "damayanthi@eng.pdn.ac.lk": {
+                "name": "Dr. Damayanthi Herath",
+                "email": "damayanthi@eng.pdn.ac.lk",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            },
+            "": {
+                "name": "Dr. Hasindu Gamarachchi",
+                "email": "",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Final Year Projects"
+        ]
     },
     "e17-4yp-Applying-deep-learning-on-histological-images-of-lymph-tissues": {
         "title": "Applying deep learning on histological images of lymph tissues",
@@ -105,6 +178,104 @@
             "cancer detection"
         ]
     },
+    "e17-4yp-Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators": {
+        "title": "Comprehensive ECG analysis with Deep Learning on GPU accelerators",
+        "description": "Objective: Developing a GPU accelerated Deep Learning algorithm for ECG analysis which works like the MUSE ECG system and optimizing it as an open-source, portable, and low-power GPU alternative, capable of providing comprehensive analysis. ",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "team": {
+            "E/17/006": {
+                "name": "Alahakoon A.M.H.H",
+                "email": "e17006@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/006",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17006.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/006/"
+            },
+            "E/17/242": {
+                "name": "Perera C.R.M",
+                "email": "e17242@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/242",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17242.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/242/"
+            },
+            "E/17/338": {
+                "name": "Srimal R.M.L.C",
+                "email": "e17338@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/338",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17338.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/338/"
+            }
+        },
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            },
+            "mahanamaw@eng.pdn.ac.lk": {
+                "name": "Dr. Mahanama Wickramasinghe",
+                "email": "mahanamaw@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/mahanama-wickramasinghe/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/mahanama-wickramasinghe.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/mahanamaw",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/mahanama",
+                "researchgate": "https://www.researchgate.net/profile/Mahanama-Wickramsinghe",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=kuoZpZEAAAAJ"
+            },
+            "roshanr@eng.pdn.ac.lk": {
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/roshanr",
+                "website": "http://roshan.ragel.net/",
+                "linkedin": "https://www.linkedin.com/in/roshanragel/",
+                "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
+                "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
+            },
+            "vajira@simula.no": {
+                "name": "Dr. Vajira Thambawita",
+                "email": "vajira@simula.no",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/visiting-research-fellows/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/fellows/vajira-thambawita.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "https://lk.linkedin.com/in/vlbthambawita",
+                "researchgate": "https://www.researchgate.net/profile/Vajira-Thambawita-2",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Final Year Projects"
+        ]
+    },
     "e17-4yp-Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving": {
         "title": "Improving Trajectory Guided Control Prediction for Autonomous Driving",
         "description": "",
@@ -169,6 +340,20 @@
         "tags": [
             "Final Year Projects"
         ]
+    },
+    "e17-4yp-Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers": {
+        "title": "Investigating Onchip Sensor Based RPA Attack Vulnerabilities of Light Weight Ciphers",
+        "description": "At the moment there are some proven Correlation Power Analysis attacks against AES cipher with help of on-chip sensors and machine learning techniques. The aim of this research project is to investigate other ciphers for Remote Power Analysis Attacks and propose countermeasures to prevent RPA attacks on those ciphers.",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
     },
     "e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs": {
         "title": "Neuromorphic NoC Architecture for SNNs",
@@ -378,6 +563,59 @@
         "repo_url": "https://github.com/cepdnaclk/e17-4yp-flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements",
         "page_url": "https://cepdnaclk.github.io/e17-4yp-flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "team": {},
+        "supervisors": {},
+        "tags": [
+            "Final Year Projects"
+        ]
+    },
+    "e17-4yp-network-anomaly-detection": {
+        "title": "network anomaly detection",
+        "description": "",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/network-anomaly-detection/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-network-anomaly-detection",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-network-anomaly-detection",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/network-anomaly-detection/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "team": {},
+        "supervisors": {},
+        "tags": [
+            "Web",
+            "Embedded Systems"
+        ]
+    },
+    "e17-4yp-novel-compression-methods-for-nanopore-raw-signal-data": {
+        "title": "novel compression methods for nanopore raw signal data",
+        "description": "",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/novel-compression-methods-for-nanopore-raw-signal-data/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-novel-compression-methods-for-nanopore-raw-signal-data",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/novel-compression-methods-for-nanopore-raw-signal-data/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
+    },
+    "e17-4yp-os-initiated-cache-switching-to-minimize-performance-loss-in-context-switches": {
+        "title": "os initiated cache switching to minimize performance loss in context switches",
+        "description": "OS-initiated cache switching to minimize performance loss in context switches",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/os-initiated-cache-switching-to-minimize-performance-loss-in-context-switches/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-os-initiated-cache-switching-to-minimize-performance-loss-in-context-switches",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-os-initiated-cache-switching-to-minimize-performance-loss-in-context-switches",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/os-initiated-cache-switching-to-minimize-performance-loss-in-context-switches/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
         "team": {},
         "supervisors": {},
@@ -11800,8 +12038,87 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Analysis-and-visualization-of-complex-software-system-traces/",
         "repo_url": "https://github.com/cepdnaclk/e18-6sp-Analysis-and-visualization-of-complex-software-system-traces",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e18-6sp-Analysis-and-visualization-of-complex-software-system-traces",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Analysis-and-visualization-of-complex-software-system-traces/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+        "team": {
+            "E/18/098": {
+                "name": "Ishan Fernando",
+                "email": "e18098@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/ishanfdo18098",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/098",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18098.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/098/"
+            },
+            "E/18/100": {
+                "name": "Adeepa Fernando",
+                "email": "e18100@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/NipunFernando",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/100",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18100.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/100/"
+            },
+            "E/18/155": {
+                "name": "Ridma Jayasundara",
+                "email": "e18155@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/ridmajayasundara",
+                "linkedin": "https://www.linkedin.com/in/ridma-jayasundara-9471b8213",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/155",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18155.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/155/"
+            }
+        },
+        "supervisors": {
+            "asithab@eng.pdn.ac.lk": {
+                "name": "Dr. Asitha Bandaranayake",
+                "email": "asithab@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/asithab",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/asithab/",
+                "researchgate": "https://www.researchgate.net/profile/Asitha-Bandaranayake-3",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=sf6MaF4AAAAJ"
+            },
+            "#": {
+                "name": "Rostislav Yavorskiy",
+                "email": "#",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Machine Learning",
+            "NLP",
+            "Log Analysis",
+            "Log Visualization"
+        ]
+    },
+    "e18-6sp-Digital-Twin": {
+        "title": "Digital Twin",
+        "description": "",
+        "category": {
+            "title": "Sixth Semester Projects",
+            "code": "6sp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Digital-Twin/",
+        "repo_url": "https://github.com/cepdnaclk/e18-6sp-Digital-Twin",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Digital-Twin/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
     },
     "e18-6sp-ML-for-Analyzing-Egg-Hatching": {
@@ -11853,16 +12170,16 @@
             }
         },
         "supervisors": {
-            "asithab@eng.pdn.ac.lk": {
-                "name": "Dr. Asitha Bandaranayake",
-                "email": "asithab@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake.jpg",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/asithab",
-                "website": "",
-                "linkedin": "https://www.linkedin.com/in/asithab/",
-                "researchgate": "https://www.researchgate.net/profile/Asitha-Bandaranayake-3",
-                "google_scholar": "https://scholar.google.com/citations?hl=en&user=sf6MaF4AAAAJ"
+            "": {
+                "name": "Dr. Nipuna Perera",
+                "email": "",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
             },
             "nadeeshaa@eng.pdn.ac.lk": {
                 "name": "Mrs. Nadeesha Adikari",
@@ -11881,6 +12198,20 @@
             "Web development",
             "Poultry Industry"
         ]
+    },
+    "e18-6sp-Optical-Character-Recognition-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents": {
+        "title": "Optical Character Recognition and Translation from Sinhala to Tamil for Printed Documents",
+        "description": "Developing software to recognize printed Sinhala text, convert it to editable text, and translate it to Tamil. ",
+        "category": {
+            "title": "Sixth Semester Projects",
+            "code": "6sp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Optical-Character-Recognition-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/",
+        "repo_url": "https://github.com/cepdnaclk/e18-6sp-Optical-Character-Recognition-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Optical-Character-Recognition-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
     },
     "e18-6sp-Realtime-Flood-Forecast-System": {
         "title": "Realtime Flood Forecast System",
