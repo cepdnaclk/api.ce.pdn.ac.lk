@@ -10,5 +10,57 @@
     "repo_url": "https://github.com/cepdnaclk/e17-6sp-Visualization-of-Teacher-Student-Activities",
     "page_url": "https://cepdnaclk.github.io/e17-6sp-Visualization-of-Teacher-Student-Activities",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Visualization-of-Teacher-Student-Activities/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+    "team": {
+        "E/17/352": {
+            "name": "Tillekeratne L.J.I",
+            "email": "e17352@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/IsaraTillekeratne",
+            "linkedin": "https://www.linkedin.com/in/isara-tillekeratne-12a301212/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/352",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17352.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/352/"
+        },
+        "E/17/398": {
+            "name": "Wijerathne I.D.H.S.D",
+            "email": "e17398@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/398",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17398.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/398/"
+        },
+        "E/17/201": {
+            "name": "Madushani W.T",
+            "email": "e17201@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/201",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17201.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/201/"
+        }
+    },
+    "supervisors": {
+        "sampath@eng.pdn.ac.lk": {
+            "name": "Mr. Sampath Deegalla",
+            "email": "sampath@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/sampath-deegalla/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/sampath-deegalla.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/sampath",
+            "website": "https://www.sites.google.com/site/dsdeegalla/",
+            "linkedin": "https://www.linkedin.com/in/dsdeegalla",
+            "researchgate": "https://www.researchgate.net/profile/Sampath-Deegalla-2",
+            "google_scholar": "https://scholar.google.com/citations?user=QDoeGtYAAAAJ&hl=en"
+        }
+    },
+    "tags": [
+        "Web",
+        "Machine Learning"
+    ]
 }

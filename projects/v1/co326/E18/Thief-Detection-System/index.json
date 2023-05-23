@@ -1,0 +1,14 @@
+{
+    "title": "Thief Detection System",
+    "description": "The Thief Detection System is a security solution designed to detect intrusions using a PIR (Passive Infrared) sensor and an ESP32-CAM module. The system captures images and sends them to subscribed users and a database using MQTT (Message Queuing Telemetry Transport) protocol with a Mosquitto broker",
+    "category": {
+        "title": "Industrial Automation Projects (CO326)",
+        "code": "co326",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Thief-Detection-System/",
+    "repo_url": "https://github.com/cepdnaclk/e18-co326-Thief-Detection-System",
+    "page_url": "#",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Thief-Detection-System/",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
+}

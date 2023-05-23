@@ -10,5 +10,70 @@
     "repo_url": "https://github.com/cepdnaclk/e17-6sp-Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data",
     "page_url": "https://cepdnaclk.github.io/e17-6sp-Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+    "team": {
+        "E/17/065": {
+            "name": "Kanishka Dilhan",
+            "email": "e17065@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/065",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17065.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/065/"
+        },
+        "E/17/312": {
+            "name": "Ishini Udara",
+            "email": "e17312@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/312",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17312.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/312/"
+        },
+        "E/17/240": {
+            "name": "Nadeesha Diwakara",
+            "email": "e17240@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/240",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17240.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/240/"
+        }
+    },
+    "supervisors": {
+        "asithab@eng.pdn.ac.lk": {
+            "name": "Dr. Asitha Bandaranayake",
+            "email": "asithab@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/asithab",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/asithab/",
+            "researchgate": "https://www.researchgate.net/profile/Asitha-Bandaranayake-3",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=sf6MaF4AAAAJ"
+        },
+        "nuwanjaliyagoda@eng.pdn.ac.lk": {
+            "name": "Nuwan Jaliyagoda",
+            "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk//students/e15/140",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/nuwan.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/nuwanjaliyagoda",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Web",
+        "Embedded Systems",
+        "ML",
+        "Smart Agriculture"
+    ]
 }
