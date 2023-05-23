@@ -11,8 +11,12 @@ import json
 import os
 import shutil
 from notifications import Notifications
+import datetime
 
 notify = Notifications("api.ce.pdn.ac.lk", "Daily")
+
+notifyWarninig = Notifications("api.ce.pdn.ac.lk", "Weekly")
+WARNING_NOTIFICATION_DATE = "Wednesday"
 
 # Where the API is available
 apiBase = "https://api.ce.pdn.ac.lk"
@@ -35,16 +39,21 @@ enable_deep_scan = True
 
 DEFAULT_PROFILE_IMAGE = "https://people.ce.pdn.ac.lk/images/students/default.jpg"
 
+# Generate Discord error logs for JSON Syntax Errors 
+def warn_syntax_errors(proj_url, msg='Invalid JSON syntax'):
+    current_date = datetime.datetime.now()
+    weekday = current_date.strftime('%A')
+    if weekday == WARNING_NOTIFICATION_DATE:
+        notifyWarninig.warning(msg, proj_url)
+
+
 # Delete the existing files first
-
-
 def del_old_files():
     dir_path = "../projects/v1/"
     try:
         shutil.rmtree(dir_path)
     except:
         print("Error: Folder Not Found!")
-
 
 def project_key(title):
     return title.replace(' ', '-')
@@ -168,8 +177,6 @@ def process_supervisors(data):
     return supervisors
 
 # Pre-process the tag data
-
-
 def process_tags(data):
     # TODO: Process, validate and return
     return data
@@ -230,14 +237,15 @@ def project_details(page_url):
                 # TODO: Add remaining parameters
             except:
                 print('parse failed; ' + url)
+                warn_syntax_errors(url, "JSON Parse failed")
+
     except:
         print('load failed; ' + url)
+        warn_syntax_errors(url, "JSON load failed")
 
     return data
 
 # Write the /projects/v1/all/index.json
-
-
 def write_all(all_projects):
     filename = "../projects/v1/all/index.json"
     os.makedirs(os.path.dirname(filename), exist_ok=True)
@@ -245,8 +253,6 @@ def write_all(all_projects):
         f.write(json.dumps(all_projects, indent=4))
 
 # Write the /projects/v1/index.json
-
-
 def write_index(category_index, categories):
     filename = "../projects/v1/index.json"
     os.makedirs(os.path.dirname(filename), exist_ok=True)
@@ -254,8 +260,6 @@ def write_index(category_index, categories):
         f.write(json.dumps(category_index, indent=4))
 
 # Write the /projects/v1/{category}/index.json files
-
-
 def write_categories(categories):
     for cat in categories:
         cat_name = title_to_code[cat]
@@ -289,8 +293,6 @@ def write_categories(categories):
             f.write(json.dumps(output, indent=4))
 
 # Write the /projects/v1/{category}/{batch}/index.json files
-
-
 def write_batches(categories):
     # For each category
     for cat in categories:
@@ -338,8 +340,6 @@ def write_batches(categories):
                 f.write(json.dumps(sorted_data, indent=4))
 
 # Write the /projects/v1/{category}/{batch}/{project}/index.json files
-
-
 def write_projects(categories):
     all = {}
     for cat in categories:
