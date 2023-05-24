@@ -16,7 +16,7 @@ import datetime
 notify = Notifications("api.ce.pdn.ac.lk", "Daily")
 
 notifyWarninig = Notifications("api.ce.pdn.ac.lk", "Weekly")
-WARNING_NOTIFICATION_DATE = "Wednesday"
+WARNING_NOTIFICATION_DATE = "Sunday"
 
 # Where the API is available
 apiBase = "https://api.ce.pdn.ac.lk"
