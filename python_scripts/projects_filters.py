@@ -76,6 +76,7 @@ for p_name in projects:
     if 'supervisors' in proj_data:
         print('\tSupervisors: ' + ', '.join(proj_data['supervisors']))
         for supervisor in proj_data['supervisors']:
+            supervisor = supervisor.strip()
             if supervisor!="" and supervisor!="#":
                 if supervisor not in supervisor_dict: supervisor_dict[supervisor] = []
                 supervisor_dict[supervisor].append(proj_info)
