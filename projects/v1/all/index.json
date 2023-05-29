@@ -304,9 +304,61 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Stock-Mentor/",
         "repo_url": "https://github.com/cepdnaclk/e18-6sp-Stock-Mentor",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e18-6sp-Stock-Mentor",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Stock-Mentor/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+        "team": {
+            "E/18/013": {
+                "name": "Abilash R.",
+                "email": "e18013@eng.pdn.ac.lk",
+                "website": "https://ravindranabilash.github.io/",
+                "github": "https://github.com/RavindranAbilash",
+                "linkedin": "https://www.linkedin.com/in/ravindran-abilash/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/013",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18013.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/013/"
+            },
+            "E/18/058": {
+                "name": "De Alwis K.K.M.",
+                "email": "e18058@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/058",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18058.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/058/"
+            },
+            "E/18/115": {
+                "name": "Gowsigan A.",
+                "email": "e18115@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/115",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18115.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/115/"
+            }
+        },
+        "supervisors": {
+            "damayanthiherath@eng.pdn.ac.lk": {
+                "name": "Dr. Damayanthi Herath",
+                "email": "damayanthiherath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/damayanthiherath",
+                "website": "https://damayanthiherath.wordpress.com/",
+                "linkedin": "https://www.linkedin.com/in/damayanthi-herath/",
+                "researchgate": "https://www.researchgate.net/profile/Damayanthi-Herath",
+                "google_scholar": "https://scholar.google.com/citations?user=G2jUV5IAAAAJ&hl=en"
+            }
+        },
+        "tags": [
+            "Computer Systems Engineering",
+            "Industrial Networks"
+        ]
     },
     "e17-6sp-Analysis-Tool-for-Industrial-Images": {
         "title": "Analysis Tool for Industrial Images",
@@ -2044,6 +2096,25 @@
             "Final Year Projects"
         ]
     },
+    "e17-4yp-Human-Emotion-Detection-with-Electrocardiographic--Electroencephelographic-and-Other-Signals": {
+        "title": "Human Emotion Detection with Electrocardiographic  Electroencephelographic and Other Signals",
+        "description": "Human emotion detection with electrocardiographic, electroencephalographic and other signals using machine learning techniques",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Human-Emotion-Detection-with-Electrocardiographic--Electroencephelographic-and-Other-Signals/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-Human-Emotion-Detection-with-Electrocardiographic--Electroencephelographic-and-Other-Signals",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-Human-Emotion-Detection-with-Electrocardiographic--Electroencephelographic-and-Other-Signals",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Human-Emotion-Detection-with-Electrocardiographic--Electroencephelographic-and-Other-Signals/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "team": {},
+        "supervisors": {},
+        "tags": [
+            "Final Year Projects"
+        ]
+    },
     "e17-4yp-Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving": {
         "title": "Improving Trajectory Guided Control Prediction for Autonomous Driving",
         "description": "",
@@ -2209,10 +2280,92 @@
         "page_url": "https://cepdnaclk.github.io/e17-4yp-Large-Language-Models-in-Education",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Large-Language-Models-in-Education/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-        "team": {},
-        "supervisors": {},
+        "team": {
+            "E/17/297": {
+                "name": "Rupasinghe T.T.V.N.",
+                "email": "e17297@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/VishvaNavanjana",
+                "linkedin": "https://www.linkedin.com/in/vishva-navanjana/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/297",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17297.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/297/"
+            },
+            "E/17/206": {
+                "name": "Manohara H.T.",
+                "email": "e17206@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/206",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17206.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/206/"
+            },
+            "E/17/148": {
+                "name": "Kalpana M.W.V.",
+                "email": "e17148@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/VidurangiKalpana",
+                "linkedin": "https://www.linkedin.com/in/vidurangi-kalpana-9079301b7/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/148",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17148.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/148/"
+            }
+        },
+        "supervisors": {
+            "damayanthiherath@eng.pdn.ac.lk": {
+                "name": "Dr. Damayanthi Herath",
+                "email": "damayanthiherath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/damayanthiherath",
+                "website": "https://damayanthiherath.wordpress.com/",
+                "linkedin": "https://www.linkedin.com/in/damayanthi-herath/",
+                "researchgate": "https://www.researchgate.net/profile/Damayanthi-Herath",
+                "google_scholar": "https://scholar.google.com/citations?user=G2jUV5IAAAAJ&hl=en"
+            },
+            "roshanr@eng.pdn.ac.lk": {
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/roshanr",
+                "website": "http://roshan.ragel.net/",
+                "linkedin": "https://www.linkedin.com/in/roshanragel/",
+                "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
+                "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
+            },
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            },
+            "gshasiri@gmail.com": {
+                "name": "Dr Shamane Sri",
+                "email": "gshasiri@gmail.com",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
         "tags": [
-            "Final Year Projects"
+            "Final Year Projects",
+            "Large Language Models",
+            "Natural Language Processing",
+            "Education"
         ]
     },
     "e17-4yp-Low-Complexity-Algorithm-for-Arrhythmia-Detection": {
@@ -13063,9 +13216,61 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Patient-monitoring-system/",
         "repo_url": "https://github.com/cepdnaclk/e18-co326-Patient-monitoring-system",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e18-co326-Patient-monitoring-system",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Patient-monitoring-system/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+        "team": {
+            "E/18/013": {
+                "name": "Abilash R.",
+                "email": "e18013@eng.pdn.ac.lk",
+                "website": "https://ravindranabilash.github.io/",
+                "github": "https://github.com/RavindranAbilash",
+                "linkedin": "https://www.linkedin.com/in/ravindran-abilash/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/013",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18013.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/013/"
+            },
+            "E/18/058": {
+                "name": "De Alwis K.K.M.",
+                "email": "e18058@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/058",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18058.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/058/"
+            },
+            "E/18/115": {
+                "name": "Gowsigan A.",
+                "email": "e18115@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/115",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18115.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/115/"
+            }
+        },
+        "supervisors": {
+            "kamalanath@eng.pdn.ac.lk": {
+                "name": "Dr. Eng. Kamalanath Samarakoon",
+                "email": "kamalanath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/kamalanath-samarakoon/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/kamalanath-samarakoon.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
+                "website": "http://kamalanath.samarakoon.info/",
+                "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
+                "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
+                "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
+            }
+        },
+        "tags": [
+            "Computer Systems Engineering",
+            "Industrial Networks"
+        ]
     },
     "e18-co326-Secured-Vision-Camera-Surveillance-System-with-Automated-Lighting": {
         "title": "Secured Vision Camera Surveillance System with Automated Lighting",
