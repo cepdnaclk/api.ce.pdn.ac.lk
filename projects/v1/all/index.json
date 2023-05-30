@@ -2096,6 +2096,25 @@
             "Final Year Projects"
         ]
     },
+    "e17-4yp-Deep-Learning-for-Side-Channel-Attacks": {
+        "title": "Deep Learning for Side Channel Attacks",
+        "description": "Investigating Machine Learning-based Attacks on Random Frequency Tuning-based Countermeasures",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Deep-Learning-for-Side-Channel-Attacks/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-Deep-Learning-for-Side-Channel-Attacks",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-Deep-Learning-for-Side-Channel-Attacks",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Deep-Learning-for-Side-Channel-Attacks/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "team": {},
+        "supervisors": {},
+        "tags": [
+            "Final Year Projects"
+        ]
+    },
     "e17-4yp-Human-Emotion-Detection-with-Electrocardiographic--Electroencephelographic-and-Other-Signals": {
         "title": "Human Emotion Detection with Electrocardiographic  Electroencephelographic and Other Signals",
         "description": "Human emotion detection with electrocardiographic, electroencephalographic and other signals using machine learning techniques",
@@ -2825,9 +2844,71 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/novel-compression-methods-for-nanopore-raw-signal-data/",
         "repo_url": "https://github.com/cepdnaclk/e17-4yp-novel-compression-methods-for-nanopore-raw-signal-data",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-novel-compression-methods-for-nanopore-raw-signal-data",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/novel-compression-methods-for-nanopore-raw-signal-data/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "team": {
+            "E/17/134": {
+                "name": "Kavindu Jayasooriya",
+                "email": "e17134@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/KavinduJayas",
+                "linkedin": "https://www.linkedin.com/in/kavindu-jayasooriya/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/134",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17134.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/134/"
+            },
+            "E/17/207": {
+                "name": "Pasindu Marasinghe",
+                "email": "e17207@eng.pdn.ac.lk",
+                "website": "https://pasindumarasinghe.live",
+                "github": "https://github.com/pasindumarasinghe",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/207",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17207.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/207/"
+            },
+            "E/17/318": {
+                "name": "Udith Senanayake",
+                "email": "e17318@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/318",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17318.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/318/"
+            }
+        },
+        "supervisors": {
+            "roshanr@eng.pdn.ac.lk": {
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/roshanr",
+                "website": "http://roshan.ragel.net/",
+                "linkedin": "https://www.linkedin.com/in/roshanragel/",
+                "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
+                "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
+            },
+            "hasindu@unsw.edu.au": {
+                "name": "Dr. Hasindu Gamarachchi",
+                "email": "hasindu@unsw.edu.au",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Final Year Projects"
+        ]
     },
     "e17-4yp-os-initiated-cache-switching-to-minimize-performance-loss-in-context-switches": {
         "title": "os initiated cache switching to minimize performance loss in context switches",
@@ -14516,6 +14597,20 @@
         "tags": [
             "Web"
         ]
+    },
+    "e18-co227-Poultry-Feed-Efficiency-Tracking-System-1": {
+        "title": "Poultry Feed Efficiency Tracking System 1",
+        "description": "Poultry industry is one of the fastest growing industries in Sri lanka. Farmers from every side in the country engage with this industry. But we can see they have been faced to a problem when finding a way to feed the animals efficiently. This can happen because of communication problems and lack of knowledge. So  we are trying to develop a mobile ",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Poultry-Feed-Efficiency-Tracking-System-1/",
+        "repo_url": "https://github.com/cepdnaclk/e18-co227-Poultry-Feed-Efficiency-Tracking-System-1",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Poultry-Feed-Efficiency-Tracking-System-1/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
     },
     "e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-12": {
         "title": "Poultry Feed Efficiency Tracking System Group 12",
