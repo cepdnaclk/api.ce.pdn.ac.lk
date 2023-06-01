@@ -13479,6 +13479,22 @@
             "Industrial Networks"
         ]
     },
+    "e18-co326-water-level-monitoring-and-control-system": {
+        "title": "water level monitoring and control system",
+        "description": "",
+        "category": {
+            "title": "Industrial Automation Projects (CO326)",
+            "code": "co326",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/water-level-monitoring-and-control-system/",
+        "repo_url": "https://github.com/cepdnaclk/e18-co326-water-level-monitoring-and-control-system",
+        "page_url": "https://cepdnaclk.github.io/e18-co326-water-level-monitoring-and-control-system",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/water-level-monitoring-and-control-system/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+        "team": {},
+        "supervisors": {}
+    },
     "e15-co326-Remotely-Controlled-CNC-Robot": {
         "title": "Remotely Controlled CNC Robot",
         "description": "In this project, we developed a CNC (Computer Numerical Control) based pick and place arm, which will help to try different wiring arrangements in a PLC rig and try experiments on it remotely.",
