@@ -15,6 +15,20 @@
         "team": {},
         "supervisors": {}
     },
+    "e18-6sp-AI-generated-bug-reports-Group14": {
+        "title": "AI generated bug reports Group14",
+        "description": "This repo contains ML project uses machine learning to automatically generate bug reports for software applications, improving efficiency and accuracy.",
+        "category": {
+            "title": "Sixth Semester Projects",
+            "code": "6sp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/AI-generated-bug-reports-Group14/",
+        "repo_url": "https://github.com/cepdnaclk/e18-6sp-AI-generated-bug-reports-Group14",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/AI-generated-bug-reports-Group14/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
+    },
     "e18-6sp-Analysis-and-visualization-of-complex-software-system-traces": {
         "title": "Analysis and visualization of complex software system traces",
         "description": "",
@@ -222,6 +236,20 @@
             "NLP"
         ]
     },
+    "e18-6sp-ML-For-Structural-Health-Monitoring": {
+        "title": "ML For Structural Health Monitoring",
+        "description": "",
+        "category": {
+            "title": "Sixth Semester Projects",
+            "code": "6sp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/ML-For-Structural-Health-Monitoring/",
+        "repo_url": "https://github.com/cepdnaclk/e18-6sp-ML-For-Structural-Health-Monitoring",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-For-Structural-Health-Monitoring/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
+    },
     "e18-6sp-ML-based-patient-care-diagnostic": {
         "title": "ML based patient care diagnostic",
         "description": "",
@@ -372,6 +400,79 @@
             "Web development",
             "Poultry Industry"
         ]
+    },
+    "e18-6sp-Machine-Learning-for-Weather-Forecasting": {
+        "title": "Machine Learning for Weather Forecasting",
+        "description": "To explore the use of ML over traditional methods for precipitation forecasting",
+        "category": {
+            "title": "Sixth Semester Projects",
+            "code": "6sp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Machine-Learning-for-Weather-Forecasting/",
+        "repo_url": "https://github.com/cepdnaclk/e18-6sp-Machine-Learning-for-Weather-Forecasting",
+        "page_url": "https://cepdnaclk.github.io/e18-6sp-Machine-Learning-for-Weather-Forecasting",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Machine-Learning-for-Weather-Forecasting/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+        "team": {
+            "E/18/242": {
+                "name": "Nimnadi J. A. S.",
+                "email": "e18242@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/242",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18242.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/242/"
+            },
+            "E/18/368": {
+                "name": "Uduwanage H. U.",
+                "email": "e18368@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/368",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18368.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/368/"
+            },
+            "E/18/398": {
+                "name": "Wijerathne R. M. N. S.",
+                "email": "e18398@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/398",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18398.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/398/"
+            }
+        },
+        "supervisors": {
+            "pandukaneluwala@eng.pdn.ac.lk": {
+                "name": "Dr. Panduka Neluwala",
+                "email": "pandukaneluwala@eng.pdn.ac.lk",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            },
+            "damayanthiherath@eng.pdn.ac.lk": {
+                "name": "Dr. Damayanthi Herath",
+                "email": "damayanthiherath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/damayanthiherath",
+                "website": "https://damayanthiherath.wordpress.com/",
+                "linkedin": "https://www.linkedin.com/in/damayanthi-herath/",
+                "researchgate": "https://www.researchgate.net/profile/Damayanthi-Herath",
+                "google_scholar": "https://scholar.google.com/citations?user=G2jUV5IAAAAJ&hl=en"
+            }
+        }
     },
     "e18-6sp-Optical-Character-Recognition-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents": {
         "title": "Optical Character Recognition and Translation from Sinhala to Tamil for Printed Documents",
@@ -10715,9 +10816,9 @@
             "E/18/173": {
                 "name": "Ishan Kasthuripitiya",
                 "email": "e18173@eng.pdn.ac.lk",
-                "website": "",
+                "website": "https://ishanmk.github.io/",
                 "github": "https://github.com/IshanMK",
-                "linkedin": "https://www.linkedin.com/in/ishan-maduranga",
+                "linkedin": "https://www.linkedin.com/in/ishan-maduranga/",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/173",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18173.jpg",
@@ -10728,7 +10829,7 @@
                 "email": "e18285@eng.pdn.ac.lk",
                 "website": "",
                 "github": "https://github.com/TharinduChamod",
-                "linkedin": "",
+                "linkedin": "https://www.linkedin.com/in/tharindu-chamod-49712a1a0/",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/285",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18285.jpg",
@@ -14739,9 +14840,9 @@
             "E/18/173": {
                 "name": "Kasthuripitiya K.A.I.M.",
                 "email": "e18173@eng.pdn.ac.lk",
-                "website": "",
+                "website": "https://ishanmk.github.io/",
                 "github": "https://github.com/IshanMK",
-                "linkedin": "https://www.linkedin.com/in/ishan-maduranga",
+                "linkedin": "https://www.linkedin.com/in/ishan-maduranga/",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/173",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18173.jpg",
@@ -14752,7 +14853,7 @@
                 "email": "e18285@eng.pdn.ac.lk",
                 "website": "",
                 "github": "https://github.com/TharinduChamod",
-                "linkedin": "",
+                "linkedin": "https://www.linkedin.com/in/tharindu-chamod-49712a1a0/",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/285",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18285.jpg",
