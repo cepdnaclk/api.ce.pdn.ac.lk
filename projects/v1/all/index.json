@@ -236,6 +236,20 @@
             "NLP"
         ]
     },
+    "e18-6sp-Handwritten_Essay_Marking_Software": {
+        "title": "Handwritten_Essay_Marking_Software",
+        "description": "Handwritten Essay Marking Software is a powerful Tool to grade students\u2019 handwritten essays by providing more consistent and objective grading. Automates manual grading by using Optical Character Recognition (OCR), Natural Language Processing (NLP), Machine Learning Model.",
+        "category": {
+            "title": "Sixth Semester Projects",
+            "code": "6sp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Handwritten_Essay_Marking_Software/",
+        "repo_url": "https://github.com/cepdnaclk/e18-6sp-Handwritten_Essay_Marking_Software",
+        "page_url": "https://cepdnaclk.github.io/e18-6sp-Handwritten_Essay_Marking_Software",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Handwritten_Essay_Marking_Software/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
+    },
     "e18-6sp-ML-For-Structural-Health-Monitoring": {
         "title": "ML For Structural Health Monitoring",
         "description": "",
@@ -246,9 +260,11 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/ML-For-Structural-Health-Monitoring/",
         "repo_url": "https://github.com/cepdnaclk/e18-6sp-ML-For-Structural-Health-Monitoring",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e18-6sp-ML-For-Structural-Health-Monitoring",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-For-Structural-Health-Monitoring/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+        "team": {},
+        "supervisors": {}
     },
     "e18-6sp-ML-based-patient-care-diagnostic": {
         "title": "ML based patient care diagnostic",
@@ -6614,20 +6630,6 @@
         "repo_url": "https://github.com/cepdnaclk/e14-4yp-Temporal-Attention-Based-MARL",
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E14/Temporal-Attention-Based-MARL/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
-    },
-    "e14-4yp-dark-arts-algorithms-for-low-light-image-enhancement-and-interpretation": {
-        "title": "dark arts algorithms for low light image enhancement and interpretation",
-        "description": "Dark arts: Algorithms for enhancement and interpretation of low light images",
-        "category": {
-            "title": "Undergraduate Research Projects",
-            "code": "4yp",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e14/dark-arts-algorithms-for-low-light-image-enhancement-and-interpretation/",
-        "repo_url": "https://github.com/cepdnaclk/e14-4yp-dark-arts-algorithms-for-low-light-image-enhancement-and-interpretation",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E14/dark-arts-algorithms-for-low-light-image-enhancement-and-interpretation/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
     },
     "e14-4yp-f5n": {
@@ -13657,6 +13659,20 @@
         "team": {},
         "supervisors": {}
     },
+    "e18-co326-Smart-Home-Security-System": {
+        "title": "Smart Home Security System",
+        "description": "",
+        "category": {
+            "title": "Industrial Automation Projects (CO326)",
+            "code": "co326",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Home-Security-System/",
+        "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Home-Security-System",
+        "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Home-Security-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Home-Security-System/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
+    },
     "e18-co326-Thief-Detection-System": {
         "title": "Thief Detection System",
         "description": "The Thief Detection System is a security solution designed to detect intrusions using a PIR (Passive Infrared) sensor and an ESP32-CAM module. The system captures images and sends them to subscribed users and a database using MQTT (Message Queuing Telemetry Transport) protocol with a Mosquitto broker",
@@ -16014,6 +16030,20 @@
         "repo_url": "https://github.com/cepdnaclk/e17-co226-business-to-business-database",
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E17/business-to-business-database/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
+    },
+    "e19-co226-library-management-system": {
+        "title": "library management system",
+        "description": "",
+        "category": {
+            "title": "Database Projects (CO226)",
+            "code": "co226",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/library-management-system/",
+        "repo_url": "https://github.com/cepdnaclk/e19-co226-library-management-system",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/library-management-system/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
     },
     "e16-co502-RISCV-Pipeline-CPU-Implimentation-Group2": {

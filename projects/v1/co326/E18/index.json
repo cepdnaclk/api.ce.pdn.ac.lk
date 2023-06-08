@@ -38,6 +38,19 @@
         "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Cooling-System-for-a-Machinery-Room-Group5/"
     },
+    "e18-co326-Smart-Home-Security-System": {
+        "title": "Smart Home Security System",
+        "description": "",
+        "category": {
+            "title": "Industrial Automation Projects (CO326)",
+            "code": "co326",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Home-Security-System/",
+        "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Home-Security-System",
+        "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Home-Security-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Home-Security-System/"
+    },
     "e18-co326-Thief-Detection-System": {
         "title": "Thief Detection System",
         "description": "The Thief Detection System is a security solution designed to detect intrusions using a PIR (Passive Infrared) sensor and an ESP32-CAM module. The system captures images and sends them to subscribed users and a database using MQTT (Message Queuing Telemetry Transport) protocol with a Mosquitto broker",
