@@ -182,7 +182,7 @@
     },
     "e18-6sp-Handwritten-Essay-Marking-Software": {
         "title": "Handwritten Essay Marking Software",
-        "description": "https://cepdnaclk.github.io/e18-6sp-Handwritten-Essay-Marking-Software/",
+        "description": "",
         "category": {
             "title": "Sixth Semester Projects",
             "code": "6sp",
@@ -215,6 +215,17 @@
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/203",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18203.jpg",
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e18/203/"
+            },
+            "E/18/264": {
+                "name": "Madushan Prasanna",
+                "email": "e18264@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/264",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18264.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/264/"
             }
         },
         "supervisors": {
@@ -416,6 +427,20 @@
             "Web development",
             "Poultry Industry"
         ]
+    },
+    "e18-6sp-ML-for-Structural-Health-Monitoring-Group-05": {
+        "title": "ML for Structural Health Monitoring Group 05",
+        "description": "Prediction of Drag Force Coefficient for Single Column Supported Billboard Structures using ML methods",
+        "category": {
+            "title": "Sixth Semester Projects",
+            "code": "6sp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/ML-for-Structural-Health-Monitoring-Group-05/",
+        "repo_url": "https://github.com/cepdnaclk/e18-6sp-ML-for-Structural-Health-Monitoring-Group-05",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-for-Structural-Health-Monitoring-Group-05/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
     },
     "e18-6sp-Machine-Learning-for-Weather-Forecasting": {
         "title": "Machine Learning for Weather Forecasting",
@@ -13659,6 +13684,20 @@
         "team": {},
         "supervisors": {}
     },
+    "e18-co326-Smart-Energy-Meter": {
+        "title": "Smart Energy Meter",
+        "description": "",
+        "category": {
+            "title": "Industrial Automation Projects (CO326)",
+            "code": "co326",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Energy-Meter/",
+        "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Energy-Meter",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Energy-Meter/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
+    },
     "e18-co326-Smart-Home-Security-System": {
         "title": "Smart Home Security System",
         "description": "",
@@ -13700,8 +13739,58 @@
         "page_url": "https://cepdnaclk.github.io/e18-co326-home-automation-system-group01",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/home-automation-system-group01/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-        "team": {},
-        "supervisors": {}
+        "team": {
+            "E/18/170": {
+                "name": "Kavinda Karunarathna",
+                "email": "e18170@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/170",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18170.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/170/"
+            },
+            "E/18/203": {
+                "name": "Shehan Madhusanka",
+                "email": "e18203@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/sheiiz",
+                "linkedin": "https://www.linkedin.com/in/shehan-madhusanka-b7663b229",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/203",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18203.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/203/"
+            },
+            "E/18/224": {
+                "name": "Ravindu Mihiranga",
+                "email": "e18224@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/224",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18224.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/224/"
+            }
+        },
+        "supervisors": {
+            "kamalanath@eng.pdn.ac.lk": {
+                "name": "Dr. Eng. Kamalanath Samarakoon",
+                "email": "kamalanath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/kamalanath-samarakoon/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/kamalanath-samarakoon.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
+                "website": "http://kamalanath.samarakoon.info/",
+                "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
+                "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
+                "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
+            }
+        },
+        "tags": [
+            "Computer Systems Engineering",
+            "Industrial Networks"
+        ]
     },
     "e18-co326-laboratory-environment-monitoring": {
         "title": "laboratory environment monitoring",
