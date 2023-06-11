@@ -13871,8 +13871,54 @@
         "page_url": "https://cepdnaclk.github.io/e18-co326-water-level-monitoring-and-control-system",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/water-level-monitoring-and-control-system/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-        "team": {},
-        "supervisors": {}
+        "team": {
+            "E/18/030": {
+                "name": "Athathanayake A.M.S.",
+                "email": "e18030@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/030",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18030.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/030/"
+            },
+            "E/18/282": {
+                "name": "Ranasinghe R.A.N.S.",
+                "email": "e18282@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/282",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18282.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/282/"
+            },
+            "E/18/283": {
+                "name": "Ranasinghe R.D.J.M.",
+                "email": "e18283@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/JayathriRanasinghe",
+                "linkedin": "https://www.linkedin.com/in/jayathri-ranasinghe-2171a9204/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/283",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18283.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/283/"
+            }
+        },
+        "supervisors": {
+            "kamalanath@eng.pdn.ac.lk": {
+                "name": "Dr. Eng. Kamalanath Samarakoon",
+                "email": "kamalanath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/kamalanath-samarakoon/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/kamalanath-samarakoon.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
+                "website": "http://kamalanath.samarakoon.info/",
+                "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
+                "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
+                "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
+            }
+        }
     },
     "e15-co326-Remotely-Controlled-CNC-Robot": {
         "title": "Remotely Controlled CNC Robot",
