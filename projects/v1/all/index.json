@@ -108,6 +108,20 @@
             "Log Visualization"
         ]
     },
+    "e18-6sp-Automatically-categorizing-Sinhala-news-items-from-selected-news-sources-group-1": {
+        "title": "Automatically categorizing Sinhala news items from selected news sources group 1",
+        "description": "",
+        "category": {
+            "title": "Sixth Semester Projects",
+            "code": "6sp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Automatically-categorizing-Sinhala-news-items-from-selected-news-sources-group-1/",
+        "repo_url": "https://github.com/cepdnaclk/e18-6sp-Automatically-categorizing-Sinhala-news-items-from-selected-news-sources-group-1",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Automatically-categorizing-Sinhala-news-items-from-selected-news-sources-group-1/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
+    },
     "e18-6sp-Automatically-categorizing-Sinhala-news-items-from-selected-news-sources": {
         "title": "Automatically categorizing Sinhala news items from selected news sources",
         "description": "Automated classification of Sinhala news from chosen sources using ML and NLP techniques.",
@@ -148,9 +162,11 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Digital-Twin/",
         "repo_url": "https://github.com/cepdnaclk/e18-6sp-Digital-Twin",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e18-6sp-Digital-Twin",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Digital-Twin/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+        "team": {},
+        "supervisors": {}
     },
     "e18-6sp-Disease-Monitoring-in-dairy-industry": {
         "title": "Disease Monitoring in dairy industry",
@@ -176,13 +192,77 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Finding-the-Outliers-Group20/",
         "repo_url": "https://github.com/cepdnaclk/e18-6sp-Finding-the-Outliers-Group20",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e18-6sp-Finding-the-Outliers-Group20",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Finding-the-Outliers-Group20/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+        "team": {
+            "E/18/323": {
+                "name": "Seekubadu H.D.",
+                "email": "e18323@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/HirushiDevindi",
+                "linkedin": "http://linkedin.com/in/hirushi-seekkubadu",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/323",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18323.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/323/"
+            },
+            "E/18/330": {
+                "name": "Sewwandi H.R.",
+                "email": "e18330@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/330",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18330.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/330/"
+            },
+            "E/18/375": {
+                "name": "Vindula K.P.A",
+                "email": "e18375@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/375",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18375.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/375/"
+            }
+        },
+        "supervisors": {
+            "damayanthiherath@eng.pdn.ac.lk": {
+                "name": "Dr. Damayanthi Herath",
+                "email": "damayanthiherath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/damayanthiherath",
+                "website": "https://damayanthiherath.wordpress.com/",
+                "linkedin": "https://www.linkedin.com/in/damayanthi-herath/",
+                "researchgate": "https://www.researchgate.net/profile/Damayanthi-Herath",
+                "google_scholar": "https://scholar.google.com/citations?user=G2jUV5IAAAAJ&hl=en"
+            },
+            "": {
+                "name": "Dr. Maged Abidou",
+                "email": "",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Machine Learning",
+            "Software Engineering",
+            "Stock Market"
+        ]
     },
     "e18-6sp-Handwritten-Essay-Marking-Software": {
         "title": "Handwritten Essay Marking Software",
-        "description": "",
+        "description": "Design and develop a web interface to automate the process of grading handwritten essays by leveraging machine learning algorithms while ensuring fairness and consistency in evaluations",
         "category": {
             "title": "Sixth Semester Projects",
             "code": "6sp",
@@ -273,9 +353,7 @@
         "repo_url": "https://github.com/cepdnaclk/e18-6sp-ML-For-Structural-Health-Monitoring",
         "page_url": "https://cepdnaclk.github.io/e18-6sp-ML-For-Structural-Health-Monitoring",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-For-Structural-Health-Monitoring/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-        "team": {},
-        "supervisors": {}
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
     },
     "e18-6sp-ML-based-patient-care-diagnostic": {
         "title": "ML based patient care diagnostic",
@@ -438,9 +516,72 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/ML-for-Structural-Health-Monitoring-Group-05/",
         "repo_url": "https://github.com/cepdnaclk/e18-6sp-ML-for-Structural-Health-Monitoring-Group-05",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e18-6sp-ML-for-Structural-Health-Monitoring-Group-05",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-for-Structural-Health-Monitoring-Group-05/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+        "team": {
+            "E/18/017": {
+                "name": "Aarah J.F.",
+                "email": "e18017@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/017",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18017.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/017/"
+            },
+            "E/18/177": {
+                "name": "Khan A.K.M.S.",
+                "email": "e18177@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/177",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18177.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/177/"
+            },
+            "E/18/304": {
+                "name": "Rishad N.M.",
+                "email": "e18304@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/RishadMohamed",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/304",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18304.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/304/"
+            }
+        },
+        "supervisors": {
+            "samithbuddika@eng.pdn.ac.lk": {
+                "name": "Dr. Samoth Buddika",
+                "email": "samithbuddika@eng.pdn.ac.lk",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            },
+            "nadeeshaa@eng.pdn.ac.lk": {
+                "name": "Mrs. Nadeesha Adikari",
+                "email": "nadeeshaa@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/nadeesha-adikari/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/nadeesha-adikari.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/nadeeshaa",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/nadeesha-adikari-48864961/",
+                "researchgate": "https://www.researchgate.net/profile/Nadeesha-Adikari",
+                "google_scholar": ""
+            }
+        },
+        "tags": [
+            "Machine Learning",
+            "Web application"
+        ]
     },
     "e18-6sp-Machine-Learning-for-Weather-Forecasting": {
         "title": "Machine Learning for Weather Forecasting",
@@ -531,7 +672,7 @@
     },
     "e18-6sp-Price-Prediction-in-Stock-Market": {
         "title": "Price Prediction in Stock Market",
-        "description": "",
+        "description": "The purpose of this project is to develop a machine learning and AI-based solution for predicting the high, low, and close values of stocks or indices in the next trading day. We leverage the power of LSTM (Long Short-Term Memory) models to analyze sequential data and provide accurate predictions. Our application can be applied to various stocks an",
         "category": {
             "title": "Sixth Semester Projects",
             "code": "6sp",
@@ -545,7 +686,7 @@
     },
     "e18-6sp-Realtime-Flood-Forecast-System": {
         "title": "Realtime Flood Forecast System",
-        "description": "",
+        "description": "Realtime Flood Forecast: Real-time Flood Forecast system for early warning and flood management Flood Inundation GIS Map: improve flood modeling and disaster response planning Interactive Website: provide access to flood-related information, resources, and support.",
         "category": {
             "title": "Sixth Semester Projects",
             "code": "6sp",
@@ -10778,8 +10919,8 @@
                 "name": "Hirushi Devindi",
                 "email": "e18323@eng.pdn.ac.lk",
                 "website": "",
-                "github": "",
-                "linkedin": "",
+                "github": "https://github.com/HirushiDevindi",
+                "linkedin": "http://linkedin.com/in/hirushi-seekkubadu",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/323",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18323.jpg",
@@ -13694,9 +13835,61 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Energy-Meter/",
         "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Energy-Meter",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Energy-Meter",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Energy-Meter/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+        "team": {
+            "E/18/017": {
+                "name": "Aarah J.F.",
+                "email": "e18017@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/017",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18017.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/017/"
+            },
+            "E/18/177": {
+                "name": "Khan A.K.M.S.",
+                "email": "e18177@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/177",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18177.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/177/"
+            },
+            "E/18/304": {
+                "name": "Rishad N.M.",
+                "email": "e18304@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/RishadMohamed",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/304",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18304.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/304/"
+            }
+        },
+        "supervisors": {
+            "kamalanath@eng.pdn.ac.lk": {
+                "name": "Dr. Eng. Kamalanath Samarakoon",
+                "email": "kamalanath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/kamalanath-samarakoon/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/kamalanath-samarakoon.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
+                "website": "http://kamalanath.samarakoon.info/",
+                "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
+                "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
+                "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
+            }
+        },
+        "tags": [
+            "Computer Systems Engineering",
+            "Industrial Networks"
+        ]
     },
     "e18-co326-Smart-Home-Security-System": {
         "title": "Smart Home Security System",
@@ -14218,8 +14411,8 @@
                 "name": "Seekubadu H.D.",
                 "email": "e18323@eng.pdn.ac.lk",
                 "website": "",
-                "github": "",
-                "linkedin": "",
+                "github": "https://github.com/HirushiDevindi",
+                "linkedin": "http://linkedin.com/in/hirushi-seekkubadu",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/323",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18323.jpg",
