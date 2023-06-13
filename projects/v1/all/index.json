@@ -148,9 +148,11 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Code-quality-check-with-Semantic-Search/",
         "repo_url": "https://github.com/cepdnaclk/e18-6sp-Code-quality-check-with-Semantic-Search",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e18-6sp-Code-quality-check-with-Semantic-Search",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Code-quality-check-with-Semantic-Search/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+        "team": {},
+        "supervisors": {}
     },
     "e18-6sp-Digital-Twin": {
         "title": "Digital Twin",
@@ -165,12 +167,62 @@
         "page_url": "https://cepdnaclk.github.io/e18-6sp-Digital-Twin",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Digital-Twin/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-        "team": {},
-        "supervisors": {}
+        "team": {
+            "E/18/168": {
+                "name": "Karan Rasathurai",
+                "email": "e18168@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/rasathuraikaran",
+                "linkedin": "https://www.linkedin.com/in/karan1999/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/168",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18168.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/168/"
+            },
+            "E/18/373": {
+                "name": "Vilakshan Vinasirajan",
+                "email": "e18373@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/vilakshan2996",
+                "linkedin": "https://www.linkedin.com/in/vilakshan-vinasirajan/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/373",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18373.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/373/"
+            }
+        },
+        "supervisors": {
+            "asithab@eng.pdn.ac.lk": {
+                "name": "Dr. Asitha Bandaranayake",
+                "email": "asithab@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/asithab",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/asithab/",
+                "researchgate": "https://www.researchgate.net/profile/Asitha-Bandaranayake-3",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=sf6MaF4AAAAJ"
+            },
+            "nadeeshaa@eng.pdn.ac.lk": {
+                "name": "Mrs. Nadeesha Adikari",
+                "email": "nadeeshaa@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/nadeesha-adikari/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/nadeesha-adikari.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/nadeeshaa",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/nadeesha-adikari-48864961/",
+                "researchgate": "https://www.researchgate.net/profile/Nadeesha-Adikari",
+                "google_scholar": ""
+            }
+        },
+        "tags": [
+            "Unsupervised Learning",
+            "Green House Automation"
+        ]
     },
     "e18-6sp-Disease-Monitoring-in-dairy-industry": {
         "title": "Disease Monitoring in dairy industry",
-        "description": "",
+        "description": "Automated Dairy Disease Monitoring using machine learning to predict Subclinical Mastitis (SCM) positivity based on milk quality data. Web application for easy data input and analysis. Improve herd management and cow health.",
         "category": {
             "title": "Sixth Semester Projects",
             "code": "6sp",
@@ -178,9 +230,62 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Disease-Monitoring-in-dairy-industry/",
         "repo_url": "https://github.com/cepdnaclk/e18-6sp-Disease-Monitoring-in-dairy-industry",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e18-6sp-Disease-Monitoring-in-dairy-industry",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Disease-Monitoring-in-dairy-industry/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+        "team": {
+            "E/18/154": {
+                "name": "Chamudi Jayasumana",
+                "email": "e18154@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/154",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18154.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/154/"
+            },
+            "E/18/349": {
+                "name": "Anushanga Pavith",
+                "email": "e18349@eng.pdn.ac.lk",
+                "website": "https://anushangapavith.nicepage.io/",
+                "github": "https://github.com/AnushangaPavith",
+                "linkedin": "https://www.linkedin.com/in/anushanga-pavith/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/349",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18349.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/349/"
+            },
+            "E/18/327": {
+                "name": "Chamara Dilshan",
+                "email": "e18327@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/ChamaraDilshan",
+                "linkedin": "https://www.linkedin.com/in/chamara-dilshan-senevirathna-062170216",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/327",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18327.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/327/"
+            }
+        },
+        "supervisors": {
+            "damayanthiherath@eng.pdn.ac.lk": {
+                "name": "Dr. Damayanthi Herath",
+                "email": "damayanthiherath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/damayanthiherath",
+                "website": "https://damayanthiherath.wordpress.com/",
+                "linkedin": "https://www.linkedin.com/in/damayanthi-herath/",
+                "researchgate": "https://www.researchgate.net/profile/Damayanthi-Herath",
+                "google_scholar": "https://scholar.google.com/citations?user=G2jUV5IAAAAJ&hl=en"
+            }
+        },
+        "tags": [
+            "Machine Learning",
+            "Angriculture",
+            "Web app"
+        ]
     },
     "e18-6sp-Finding-the-Outliers-Group20": {
         "title": "Finding the Outliers Group20",
@@ -201,7 +306,7 @@
                 "email": "e18323@eng.pdn.ac.lk",
                 "website": "",
                 "github": "https://github.com/HirushiDevindi",
-                "linkedin": "http://linkedin.com/in/hirushi-seekkubadu",
+                "linkedin": "https://www.linkedin.com/in/hirushi-seekkubadu/",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/323",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18323.jpg",
@@ -211,8 +316,8 @@
                 "name": "Sewwandi H.R.",
                 "email": "e18330@eng.pdn.ac.lk",
                 "website": "",
-                "github": "",
-                "linkedin": "",
+                "github": "https://github.com/RoshilaHatharasinghe",
+                "linkedin": "https://www.linkedin.com/in/roshila-hatharasinghe-978591213/",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/330",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18330.jpg",
@@ -384,8 +489,8 @@
                 "name": "Karunarathna W.K.",
                 "email": "e18170@eng.pdn.ac.lk",
                 "website": "",
-                "github": "",
-                "linkedin": "",
+                "github": "https://github.com/kavindax",
+                "linkedin": "https://www.linkedin.com/in/kavinda-karunarathna-a090b3179/",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/170",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18170.jpg",
@@ -666,9 +771,45 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Optical-Character-Recognition-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/",
         "repo_url": "https://github.com/cepdnaclk/e18-6sp-Optical-Character-Recognition-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e18-6sp-Optical-Character-Recognition-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Optical-Character-Recognition-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+        "team": {
+            "E/18/245": {
+                "name": "Nishani K.",
+                "email": "e18245@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/245",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18245.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/245/"
+            },
+            "E/18/340": {
+                "name": "Subramanieam V.",
+                "email": "e18340@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/vithurshiniS",
+                "linkedin": "https://www.linkedin.com/in/vithurshini-subramanieam-402180219/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/340",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18340.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/340/"
+            },
+            "E/18/366": {
+                "name": "Thulasiyan y.",
+                "email": "e18366@eng.pdn.ac.lk",
+                "website": "https://sythulasi.herokuapp.com/",
+                "github": "https://github.com/SyThulasi",
+                "linkedin": "https://www.linkedin.com/in/thulasiyan-yogeswaran-5ba1221a4/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/366",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18366.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/366/"
+            }
+        },
+        "supervisors": {}
     },
     "e18-6sp-Price-Prediction-in-Stock-Market": {
         "title": "Price Prediction in Stock Market",
@@ -680,7 +821,7 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Price-Prediction-in-Stock-Market/",
         "repo_url": "https://github.com/cepdnaclk/e18-6sp-Price-Prediction-in-Stock-Market",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e18-6sp-Price-Prediction-in-Stock-Market",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Price-Prediction-in-Stock-Market/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
     },
@@ -10047,7 +10188,7 @@
             "E/18/354": {
                 "name": "Ruchira Tharaka",
                 "email": "e18354@eng.pdn.ac.lk",
-                "website": "",
+                "website": "https://dev-ruchira-tharaka.pantheonsite.io/",
                 "github": "https://github.com/RuchiraTharaka",
                 "linkedin": "https://www.linkedin.com/in/ruchira-tharaka-51423b212/",
                 "researchgate": "",
@@ -10286,8 +10427,8 @@
                 "name": "Sewwandi H.R.",
                 "email": "e18330@eng.pdn.ac.lk",
                 "website": "",
-                "github": "",
-                "linkedin": "",
+                "github": "https://github.com/RoshilaHatharasinghe",
+                "linkedin": "https://www.linkedin.com/in/roshila-hatharasinghe-978591213/",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/330",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18330.jpg",
@@ -10665,8 +10806,8 @@
                 "name": "Karunarathna W.K.",
                 "email": "e18170@eng.pdn.ac.lk",
                 "website": "",
-                "github": "",
-                "linkedin": "",
+                "github": "https://github.com/kavindax",
+                "linkedin": "https://www.linkedin.com/in/kavinda-karunarathna-a090b3179/",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/170",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18170.jpg",
@@ -10920,7 +11061,7 @@
                 "email": "e18323@eng.pdn.ac.lk",
                 "website": "",
                 "github": "https://github.com/HirushiDevindi",
-                "linkedin": "http://linkedin.com/in/hirushi-seekkubadu",
+                "linkedin": "https://www.linkedin.com/in/hirushi-seekkubadu/",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/323",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18323.jpg",
@@ -13729,6 +13870,20 @@
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E16/Agriculture-Monitoring-and-Control-System/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
     },
+    "e18-co326-Air-Quality-Monitoring-System": {
+        "title": "Air Quality Monitoring System",
+        "description": "Industrial System for monitoring the air quality",
+        "category": {
+            "title": "Industrial Automation Projects (CO326)",
+            "code": "co326",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Air-Quality-Monitoring-System/",
+        "repo_url": "https://github.com/cepdnaclk/e18-co326-Air-Quality-Monitoring-System",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Air-Quality-Monitoring-System/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
+    },
     "e18-co326-Patient-monitoring-system": {
         "title": "Patient monitoring system",
         "description": "This IoT-based health monitoring system will assist doctors in providing timely medical attention and ensuring that patients' health is taken care of, even when they are not physically present.",
@@ -13937,8 +14092,8 @@
                 "name": "Kavinda Karunarathna",
                 "email": "e18170@eng.pdn.ac.lk",
                 "website": "",
-                "github": "",
-                "linkedin": "",
+                "github": "https://github.com/kavindax",
+                "linkedin": "https://www.linkedin.com/in/kavinda-karunarathna-a090b3179/",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/170",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18170.jpg",
@@ -14412,7 +14567,7 @@
                 "email": "e18323@eng.pdn.ac.lk",
                 "website": "",
                 "github": "https://github.com/HirushiDevindi",
-                "linkedin": "http://linkedin.com/in/hirushi-seekkubadu",
+                "linkedin": "https://www.linkedin.com/in/hirushi-seekkubadu/",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/323",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18323.jpg",
@@ -14422,8 +14577,8 @@
                 "name": "Sewwandi H.R.",
                 "email": "e18330@eng.pdn.ac.lk",
                 "website": "",
-                "github": "",
-                "linkedin": "",
+                "github": "https://github.com/RoshilaHatharasinghe",
+                "linkedin": "https://www.linkedin.com/in/roshila-hatharasinghe-978591213/",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/330",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18330.jpg",
@@ -14785,8 +14940,8 @@
                 "name": "Kavinda Karunarathna",
                 "email": "e18170@eng.pdn.ac.lk",
                 "website": "",
-                "github": "",
-                "linkedin": "",
+                "github": "https://github.com/kavindax",
+                "linkedin": "https://www.linkedin.com/in/kavinda-karunarathna-a090b3179/",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/170",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18170.jpg",
@@ -14940,7 +15095,7 @@
             "E/18/354": {
                 "name": "Ruchira Tharaka",
                 "email": "e18354@eng.pdn.ac.lk",
-                "website": "",
+                "website": "https://dev-ruchira-tharaka.pantheonsite.io/",
                 "github": "https://github.com/RuchiraTharaka",
                 "linkedin": "https://www.linkedin.com/in/ruchira-tharaka-51423b212/",
                 "researchgate": "",
@@ -16788,8 +16943,8 @@
                 "name": "Kavinda Karunarathna",
                 "email": "e18170@eng.pdn.ac.lk",
                 "website": "",
-                "github": "",
-                "linkedin": "",
+                "github": "https://github.com/kavindax",
+                "linkedin": "https://www.linkedin.com/in/kavinda-karunarathna-a090b3179/",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/170",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18170.jpg",
