@@ -1,12 +1,4 @@
 {
-    "4yp": {
-        "code": "4yp",
-        "title": "Undergraduate Research Projects",
-        "description": "Research projects carried out by final year Computer Engineering students as part of coursework",
-        "type": "GENERAL",
-        "page_url": "https://projects.ce.pdn.ac.lk/4yp/",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-    },
     "3yp": {
         "code": "3yp",
         "title": "Cyber-Physical Systems Projects",
@@ -14,6 +6,14 @@
         "type": "GENERAL",
         "page_url": "https://projects.ce.pdn.ac.lk/3yp/",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+    },
+    "4yp": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "description": "Research projects carried out by final year Computer Engineering students as part of coursework",
+        "type": "GENERAL",
+        "page_url": "https://projects.ce.pdn.ac.lk/4yp/",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
     },
     "6sp": {
         "code": "6sp",
@@ -23,14 +23,6 @@
         "page_url": "https://projects.ce.pdn.ac.lk/6sp/",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
     },
-    "co227": {
-        "code": "co227",
-        "title": "Software Systems Projects",
-        "description": "Software systems designed and developed by second year Computer Engineering Students as part of coursework",
-        "type": "COURSE",
-        "page_url": "https://projects.ce.pdn.ac.lk/co227/",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-    },
     "co226": {
         "code": "co226",
         "title": "Database Projects (CO226)",
@@ -38,6 +30,14 @@
         "type": "COURSE",
         "page_url": "https://projects.ce.pdn.ac.lk/co226/",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+    },
+    "co227": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "description": "Software systems designed and developed by second year Computer Engineering Students as part of coursework",
+        "type": "COURSE",
+        "page_url": "https://projects.ce.pdn.ac.lk/co227/",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
     },
     "co326": {
         "code": "co326",
@@ -55,13 +55,13 @@
         "page_url": "https://projects.ce.pdn.ac.lk/co328/",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
     },
-    "co543": {
-        "code": "co543",
-        "title": "Image Processing Projects (CO543)",
-        "description": "This section contains projects conducted as a partial requirement to complete the course CO543 - Image Processing",
+    "co502": {
+        "code": "co502",
+        "title": "Advanced Computer Architecture (CO502)",
+        "description": "This section contains projects conducted as a partial requirement to complete the course CO502 - Advanced Computer Architecture. The scope includes HDL implementations of modern computer processors based on ISAs such as RISC-V, caching, memory and assemblers.",
         "type": "COURSE",
-        "page_url": "https://projects.ce.pdn.ac.lk/co543/",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+        "page_url": "https://projects.ce.pdn.ac.lk/co502/",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
     },
     "co542": {
         "code": "co542",
@@ -71,12 +71,12 @@
         "page_url": "https://projects.ce.pdn.ac.lk/co542/",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
     },
-    "co502": {
-        "code": "co502",
-        "title": "Advanced Computer Architecture (CO502)",
-        "description": "This section contains projects conducted as a partial requirement to complete the course CO502 - Advanced Computer Architecture. The scope includes HDL implementations of modern computer processors based on ISAs such as RISC-V, caching, memory and assemblers.",
+    "co543": {
+        "code": "co543",
+        "title": "Image Processing Projects (CO543)",
+        "description": "This section contains projects conducted as a partial requirement to complete the course CO543 - Image Processing",
         "type": "COURSE",
-        "page_url": "https://projects.ce.pdn.ac.lk/co502/",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+        "page_url": "https://projects.ce.pdn.ac.lk/co543/",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
     }
 }

@@ -8,7 +8,70 @@
     },
     "project_url": "https://projects.ce.pdn.ac.lk/co226/e17/business-to-business-database/",
     "repo_url": "https://github.com/cepdnaclk/e17-co226-business-to-business-database",
-    "page_url": "#",
+    "page_url": "https://cepdnaclk.github.io/e17-co226-business-to-business-database",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E17/business-to-business-database/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+    "team": {
+        "E/17/194": {
+            "name": "Madhushan R.",
+            "email": "e17194@eng.pdn.ac.lk",
+            "website": "https://drmadhushan.github.io",
+            "github": "https://www.github.com/DrMadhushan",
+            "linkedin": "https://www.linkedin.com/in/madhushan-ramalingam",
+            "researchgate": "https://www.researchgate.net/profile/Madhushan-Ramalingam-2",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/194",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17194.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/194/"
+        },
+        "E/17/058": {
+            "name": "Devindi G.A.I",
+            "email": "e17058@eng.pdn.ac.lk",
+            "website": "https://isuridevindi.github.io/",
+            "github": "https://github.com/isuridevindi",
+            "linkedin": "https://linkedin.com/in/isuri-devindi-b8602a206",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/058",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17058.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/058/"
+        },
+        "E/17/134": {
+            "name": "Jayasooriya J.A.K.D",
+            "email": "e17134@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/KavinduJayas",
+            "linkedin": "https://www.linkedin.com/in/kavindu-jayasooriya/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/134",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17134.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/134/"
+        }
+    },
+    "supervisors": {
+        "sampath@eng.pdn.ac.lk": {
+            "name": "Mr. Sampath Deegalla",
+            "email": "sampath@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/sampath-deegalla/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/sampath-deegalla.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/sampath",
+            "website": "https://www.sites.google.com/site/dsdeegalla/",
+            "linkedin": "https://www.linkedin.com/in/dsdeegalla",
+            "researchgate": "https://www.researchgate.net/profile/Sampath-Deegalla-2",
+            "google_scholar": "https://scholar.google.com/citations?user=QDoeGtYAAAAJ&hl=en"
+        },
+        "manjula.sandirigama@eng.pdn.ac.lk": {
+            "name": "Dr. Manjula Sandirigama",
+            "email": "manjula.sandirigama@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/manjula.sandirigama",
+            "website": "",
+            "linkedin": "https://lk.linkedin.com/in/manjula-sandirigama-0622784",
+            "researchgate": "",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=qpmlrL0AAAAJ"
+        }
+    },
+    "tags": [
+        "DBMS",
+        "MySQL"
+    ]
 }

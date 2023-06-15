@@ -150,9 +150,7 @@
         "repo_url": "https://github.com/cepdnaclk/e18-6sp-Code-quality-check-with-Semantic-Search",
         "page_url": "https://cepdnaclk.github.io/e18-6sp-Code-quality-check-with-Semantic-Search",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Code-quality-check-with-Semantic-Search/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-        "team": {},
-        "supervisors": {}
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
     },
     "e18-6sp-Digital-Twin": {
         "title": "Digital Twin",
@@ -827,7 +825,7 @@
     },
     "e18-6sp-Optical-Character-Recognition-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents": {
         "title": "Optical Character Recognition and Translation from Sinhala to Tamil for Printed Documents",
-        "description": "Developing software to recognize printed Sinhala text, convert it to editable text, and translate it to Tamil. ",
+        "description": "Developing software to recognize printed Sinhala text, convert it to editable text, and translate it to Tamil.",
         "category": {
             "title": "Sixth Semester Projects",
             "code": "6sp",
@@ -1023,7 +1021,7 @@
     },
     "e17-6sp-Analysis-Tool-for-Industrial-Images": {
         "title": "Analysis Tool for Industrial Images",
-        "description": "An analysis tool for increasing the performance of an injection mold maintenance device which uses image processing techniques to identify stuck plastic particles on molds. ",
+        "description": "An analysis tool for increasing the performance of an injection mold maintenance device which uses image processing techniques to identify stuck plastic particles on molds.",
         "category": {
             "title": "Sixth Semester Projects",
             "code": "6sp",
@@ -1191,7 +1189,7 @@
     },
     "e17-6sp-Document-Tag-Generator": {
         "title": "Document Tag Generator",
-        "description": "The project website of the Department of Computer Engineering currently has nearly 150 projects. These projects are categorized by only batches and subjectwise. Also, some of the projects have some tags but some of them are not relevant to those projects. Also, some projects do not have any tags. Currently, users can search projects by keywords, but those keywords are derived only from project descriptions.Our goal is to generate relevant tags for each project according to the description of the projects and other valid data available on the project pages. ",
+        "description": "The project website of the Department of Computer Engineering currently has nearly 150 projects. These projects are categorized by only batches and subjectwise. Also, some of the projects have some tags but some of them are not relevant to those projects. Also, some projects do not have any tags. Currently, users can search projects by keywords, but those keywords are derived only from project descriptions.Our goal is to generate relevant tags for each project according to the description of the projects and other valid data available on the project pages.",
         "category": {
             "title": "Sixth Semester Projects",
             "code": "6sp",
@@ -1724,7 +1722,7 @@
     },
     "e17-6sp-Oral-Cavity-Region-Detection": {
         "title": "Oral Cavity Region Detection",
-        "description": "This project contains a web-based application that can be used to upload images of the oral cavity and identify the known regions which are normal. ",
+        "description": "This project contains a web-based application that can be used to upload images of the oral cavity and identify the known regions which are normal.",
         "category": {
             "title": "Sixth Semester Projects",
             "code": "6sp",
@@ -1879,7 +1877,7 @@
     },
     "e17-6sp-Prediction-of-risks-associated-with-mass-corona-vaccination": {
         "title": "Prediction of risks associated with mass corona vaccination",
-        "description": "There is a trend among people not to get Covid 19 vaccinations. Because of the differing viewpoints of the various parties involved, society is skeptical of obtaining it. However, there is no research being done into the vaccination's side effects or the causes of illnesses and deaths. This project will look into the specific criteria or risks that come with vaccinations. So, this will help people to get an idea to check whether to take the vaccines or not. ",
+        "description": "There is a trend among people not to get Covid 19 vaccinations. Because of the differing viewpoints of the various parties involved, society is skeptical of obtaining it. However, there is no research being done into the vaccination's side effects or the causes of illnesses and deaths. This project will look into the specific criteria or risks that come with vaccinations. So, this will help people to get an idea to check whether to take the vaccines or not.",
         "category": {
             "title": "Sixth Semester Projects",
             "code": "6sp",
@@ -2661,7 +2659,7 @@
     },
     "e17-4yp-Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators": {
         "title": "Comprehensive ECG analysis with Deep Learning on GPU accelerators",
-        "description": "Objective: Developing a GPU accelerated Deep Learning algorithm for ECG analysis which works like the MUSE ECG system and optimizing it as an open-source, portable, and low-power GPU alternative, capable of providing comprehensive analysis. ",
+        "description": "Objective: Developing a GPU accelerated Deep Learning algorithm for ECG analysis which works like the MUSE ECG system and optimizing it as an open-source, portable, and low-power GPU alternative, capable of providing comprehensive analysis.",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
@@ -2949,7 +2947,7 @@
     },
     "e17-4yp-Large-Language-Models-in-Education": {
         "title": "Large Language Models in Education",
-        "description": "The project targets to explore the use of Large Language models in education and develop an intelligent tutor. ",
+        "description": "The project targets to explore the use of Large Language models in education and develop an intelligent tutor.",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
@@ -3592,7 +3590,7 @@
     },
     "e17-4yp-using-machine-learning-in-high-stake-settings": {
         "title": "using machine learning in high stake settings",
-        "description": "Explainability becomes crucial in most real-world settings where ML models are used to make decisions. ML models taking decisions in these settings require to have their decisions explained to identify possible existing biases, proof of non-discrimination, to identify counterfactuals, and due to safety concerns. ",
+        "description": "Explainability becomes crucial in most real-world settings where ML models are used to make decisions. ML models taking decisions in these settings require to have their decisions explained to identify possible existing biases, proof of non-discrimination, to identify counterfactuals, and due to safety concerns.",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
@@ -4713,7 +4711,7 @@
     },
     "e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict": {
         "title": "Using Computer Vision and Agent Based Modelling to Explore the Human Elephant Conflict",
-        "description": "The initial stage of this work focuses on creating a segmented image from a given satellite image with different classes. In the second stage, these images should be converted to an ABM-friendly format. At the final stage, they can be used to simulate the real-world environment with related agents using a suitable Agent-based model. ",
+        "description": "The initial stage of this work focuses on creating a segmented image from a given satellite image with different classes. In the second stage, these images should be converted to an ABM-friendly format. At the final stage, they can be used to simulate the real-world environment with related agents using a suitable Agent-based model.",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
@@ -4803,7 +4801,7 @@
     },
     "e16-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry": {
         "title": "Virtual Patient Simulator for Skill Training in Dentistry",
-        "description": "Explore the potential of integrating Virtual Reality (VR) and Artificial Intelligence (AI) techniques to increase the effectiveness of skill training in dentistry by providing personalised instruction, assessment and formative feedback in a form and on a scale not possible in the physical world. ",
+        "description": "Explore the potential of integrating Virtual Reality (VR) and Artificial Intelligence (AI) techniques to increase the effectiveness of skill training in dentistry by providing personalised instruction, assessment and formative feedback in a form and on a scale not possible in the physical world.",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
@@ -5234,7 +5232,7 @@
     },
     "e16-4yp-post-quantum-cryptographic-schemes-based-on-plain-lattices": {
         "title": "post quantum cryptographic schemes based on plain lattices",
-        "description": "This project proposes the use of plain lattices with learning with errors problem to implement a cryptographic scheme which can run on classical computers and provides security against quantum based attacks. We are proposing key sizes for efficient operations and implement a lattice trapdoor function. Also we will improve current random oracle based model in to a standard model. ",
+        "description": "This project proposes the use of plain lattices with learning with errors problem to implement a cryptographic scheme which can run on classical computers and provides security against quantum based attacks. We are proposing key sizes for efficient operations and implement a lattice trapdoor function. Also we will improve current random oracle based model in to a standard model.",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
@@ -5527,7 +5525,7 @@
     },
     "e15-4yp-Adaptive-People-Movement-And-Action-Prediction-Using-CCTV": {
         "title": "Adaptive People Movement And Action Prediction Using CCTV",
-        "description": "In a domestic environment, people's behavior is often routine. They move place to place in a house while activating different domestic appliances and lights. On the other hand, CCTV is becoming a common surveillance system installed in many houses and buildings. A correctly trained adaptive system can predict the behavior and perform control actions automatically. In this research project, it is intended to develop an adaptive training system using CCTV video streams for controlling appliances. ",
+        "description": "In a domestic environment, people's behavior is often routine. They move place to place in a house while activating different domestic appliances and lights. On the other hand, CCTV is becoming a common surveillance system installed in many houses and buildings. A correctly trained adaptive system can predict the behavior and perform control actions automatically. In this research project, it is intended to develop an adaptive training system using CCTV video streams for controlling appliances.",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
@@ -5770,7 +5768,7 @@
     },
     "e15-4yp-Explainable-Machine-Learning-for-Real-World-Resource-Constrained-Problems": {
         "title": "Explainable Machine Learning for Real World Resource Constrained Problems",
-        "description": "Machine Learning (ML) has contributed to many advances in science and technology, recently the applications in high-stake decision-making has been increased. The ability to build statistically complex relationships between data and outcomes, without explicitly programming the rules makes it popular among the computerized decision-making community. The state-of-the-art models which performer well, are more complex and inexplicable. On the contrary, in high-stakes settings as healthcare, finance, and criminal justice, have strict ethical concerns which lead to explain each decision or the model in whole. Moreover, there it is necessary to ensure the fairness of the decisions and the transparency to avoid wrongful rationality. Furthermore the acts like General Data Protection Regulation (GDPR) and Personal Data Protection Act (PDPA) makes it mandatory to explain the decisions made based on statistical relationships and gave a right for users to demand an explanation. ",
+        "description": "Machine Learning (ML) has contributed to many advances in science and technology, recently the applications in high-stake decision-making has been increased. The ability to build statistically complex relationships between data and outcomes, without explicitly programming the rules makes it popular among the computerized decision-making community. The state-of-the-art models which performer well, are more complex and inexplicable. On the contrary, in high-stakes settings as healthcare, finance, and criminal justice, have strict ethical concerns which lead to explain each decision or the model in whole. Moreover, there it is necessary to ensure the fairness of the decisions and the transparency to avoid wrongful rationality. Furthermore the acts like General Data Protection Regulation (GDPR) and Personal Data Protection Act (PDPA) makes it mandatory to explain the decisions made based on statistical relationships and gave a right for users to demand an explanation.",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
@@ -6240,7 +6238,7 @@
     },
     "e15-4yp-Optimizing-chloroplast-genome-assembly-and-annotation-with-skim-sequencing-data": {
         "title": "Optimizing chloroplast genome assembly and annotation with skim sequencing data",
-        "description": "Chloroplast genes and genomes are the most important genomic data for plant phylogeny and species identification. Skim sequencing is obtaining low coverage genome sequencing data that includes, nuclear, chloroplast and mitochondria genome sequences. Since the rapid development of high throughput sequencing technologies, it is cheap to get the low coverage data of whole genome (usually about 20-30GB data), which is enough to assemble a complete chloroplast genome. To date, there are many assembly processes/pipelines described to assemble a complete chloroplast genome. However, how much data is needed or actually used in such analysis is not clear. Having such information will help biologists to design their experiments properly and cost-effectively. Biologists expect a simple, fast and user-friendly procedure to assemble and annotate a circular chloroplast genome using Illumina NGS data.   In this project, we will research the existing procedures for chloroplast genome assembly and annotation, and work on developing the methods to identify and select the optimal set(s) of data and the procedure(s) to assemble a given chloroplast genome as accurately and efficiently as possible, by using computational, statistical & heuristical methods. ",
+        "description": "Chloroplast genes and genomes are the most important genomic data for plant phylogeny and species identification. Skim sequencing is obtaining low coverage genome sequencing data that includes, nuclear, chloroplast and mitochondria genome sequences. Since the rapid development of high throughput sequencing technologies, it is cheap to get the low coverage data of whole genome (usually about 20-30GB data), which is enough to assemble a complete chloroplast genome. To date, there are many assembly processes/pipelines described to assemble a complete chloroplast genome. However, how much data is needed or actually used in such analysis is not clear. Having such information will help biologists to design their experiments properly and cost-effectively. Biologists expect a simple, fast and user-friendly procedure to assemble and annotate a circular chloroplast genome using Illumina NGS data.   In this project, we will research the existing procedures for chloroplast genome assembly and annotation, and work on developing the methods to identify and select the optimal set(s) of data and the procedure(s) to assemble a given chloroplast genome as accurately and efficiently as possible, by using computational, statistical & heuristical methods.",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
@@ -6594,7 +6592,7 @@
     },
     "e15-4yp-anonymous-authentication": {
         "title": "anonymous authentication",
-        "description": "We propose three authentication protocols that allow a user to anonymously authenticate in a P2P environment. ",
+        "description": "We propose three authentication protocols that allow a user to anonymously authenticate in a P2P environment.",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
@@ -6724,7 +6722,7 @@
     },
     "e15-4yp-nearIR-spectroscopy": {
         "title": "nearIR spectroscopy",
-        "description": " Near-Infrared spectroscopy is used for better vein visualization to make the venipuncture process more efficient. It is usually a painful and time-consuming process and its difficulty increases with the dark skin tones, obesity of patients, and several other health and physical conditions.  Although near-IR spectroscopy is identified as a good solution, its usage is limited to availability, high cost, and doubts about accuracy. The cost of each of these products is very high and not affordable especially in countries like ours. We have implemented a mechanism for better accuracy and lower risk, using an illumination system that favors Asian skin types, while reducing the cost of the device so that it is more affordable especially for common clinical use in countries like ours.",
+        "description": "Near-Infrared spectroscopy is used for better vein visualization to make the venipuncture process more efficient. It is usually a painful and time-consuming process and its difficulty increases with the dark skin tones, obesity of patients, and several other health and physical conditions.  Although near-IR spectroscopy is identified as a good solution, its usage is limited to availability, high cost, and doubts about accuracy. The cost of each of these products is very high and not affordable especially in countries like ours. We have implemented a mechanism for better accuracy and lower risk, using an illumination system that favors Asian skin types, while reducing the cost of the device so that it is more affordable especially for common clinical use in countries like ours.",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
@@ -6880,7 +6878,7 @@
     },
     "e15-4yp-sports-action-recognition": {
         "title": "sports action recognition",
-        "description": "This includes a novel method to measure the quality of the actions performed in Olympic weightlifting using human action recognition in videos. Human action recognition is a well-studied problem in computer vision and on the other hand action quality assessment is researched and experimented comparatively low. This is due to the lack of datasets that can be used to assess the quality of actions. In this research, we introduce a method to assess player techniques in weightlifting by using skeleton-based human action recognition. Furthermore, we introduce a new video dataset for action recognition in weightlifting which is annotated to frame level. We intended to develop a viable automated scoring system through action recognition that would be beneficial in the sports industry. ",
+        "description": "This includes a novel method to measure the quality of the actions performed in Olympic weightlifting using human action recognition in videos. Human action recognition is a well-studied problem in computer vision and on the other hand action quality assessment is researched and experimented comparatively low. This is due to the lack of datasets that can be used to assess the quality of actions. In this research, we introduce a method to assess player techniques in weightlifting by using skeleton-based human action recognition. Furthermore, we introduce a new video dataset for action recognition in weightlifting which is annotated to frame level. We intended to develop a viable automated scoring system through action recognition that would be beneficial in the sports industry.",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
@@ -6977,7 +6975,7 @@
     },
     "e11-4yp-HBFT": {
         "title": "HBFT",
-        "description": "A new Bredth First Traversal algorithm for large graphs ",
+        "description": "A new Bredth First Traversal algorithm for large graphs",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
@@ -7179,7 +7177,7 @@
     },
     "e15-3yp-An-Efficient-System-For-Waste-Collection": {
         "title": "An Efficient System For Waste Collection",
-        "description": "This Project aims to implement an Efficient Waste  Collection System in urban areas. Its is a very well known fact to the public that the waste collection in our country is done in a very primitive manner. ",
+        "description": "This Project aims to implement an Efficient Waste  Collection System in urban areas. Its is a very well known fact to the public that the waste collection in our country is done in a very primitive manner.",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
@@ -7552,7 +7550,7 @@
     },
     "e15-3yp-Automated-Water-Quality-Monitoring-System": {
         "title": "Automated Water Quality Monitoring System",
-        "description": " Fresh water is finite resource need for agriculture,industry and human existence. Therefore the quality of water is very important.The objective of this project is to develop automated water quality monitoring system by using continues measurements of pH and turbidity measurement.Normal process is water samples are normally collected at regular period and do the analysis and this ask for larger time consumption.But in this project we hope to offer fast and easy monitoring of pH and turbidity levels with IoT applications for continues maintenance of clean water",
+        "description": "Fresh water is finite resource need for agriculture,industry and human existence. Therefore the quality of water is very important.The objective of this project is to develop automated water quality monitoring system by using continues measurements of pH and turbidity measurement.Normal process is water samples are normally collected at regular period and do the analysis and this ask for larger time consumption.But in this project we hope to offer fast and easy monitoring of pH and turbidity levels with IoT applications for continues maintenance of clean water",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
@@ -7629,7 +7627,7 @@
     },
     "e15-3yp-Automatic-Door-Lock-System": {
         "title": "Automatic Door Lock System",
-        "description": " Today, security has become the most important thing to be considered. People need a security system to prohibit unauthorized access to their property. Our target is to implement an automatic door lock system which allows the access only for authorized people. It helps to safeguard property from unauthorized people. ",
+        "description": "Today, security has become the most important thing to be considered. People need a security system to prohibit unauthorized access to their property. Our target is to implement an automatic door lock system which allows the access only for authorized people. It helps to safeguard property from unauthorized people.",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
@@ -8079,7 +8077,7 @@
     },
     "e15-3yp-Intelligent-Road-Traffic-Control-System": {
         "title": "Intelligent Road Traffic Control System",
-        "description": "Vehicle travel across the world is increasing, especially in larger urban areas. It is a serious problem in traffic congestions in many major cities around the world and in these cities, it has become a nightmare for travelers. Intelligent control of traffic in the future will become a very important issue. Therefore, to better accommodation of this increasing demand, traffic control algorithms need to be simulated and optimized. ",
+        "description": "Vehicle travel across the world is increasing, especially in larger urban areas. It is a serious problem in traffic congestions in many major cities around the world and in these cities, it has become a nightmare for travelers. Intelligent control of traffic in the future will become a very important issue. Therefore, to better accommodation of this increasing demand, traffic control algorithms need to be simulated and optimized.",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
@@ -8525,7 +8523,7 @@
     },
     "e15-3yp-Smart-Monitoring-and-Automated-Controlling-System-for-an-Aquarium": {
         "title": "Smart Monitoring and Automated Controlling System for an Aquarium",
-        "description": " In almost all the aquariums, the filtering of water is done manually by the operating officers. But by using this system, filtering of the aquarium's water can be done automatically which would increase the efficiency of an aquarium's working routine. Filtering of water can be done by measuring and analyzing the oxygen level of water so that there will be a sufficient amount of oxygen for the survival of aquatic animals and plants. Even though the system will be operated automatically, the user or the owner of the aquarium could check the aquarium's filtering process anytime he/she want as there is a web page connected to this system which is updating automatically when all the filtering activities are happening.",
+        "description": "In almost all the aquariums, the filtering of water is done manually by the operating officers. But by using this system, filtering of the aquarium's water can be done automatically which would increase the efficiency of an aquarium's working routine. Filtering of water can be done by measuring and analyzing the oxygen level of water so that there will be a sufficient amount of oxygen for the survival of aquatic animals and plants. Even though the system will be operated automatically, the user or the owner of the aquarium could check the aquarium's filtering process anytime he/she want as there is a web page connected to this system which is updating automatically when all the filtering activities are happening.",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
@@ -8657,7 +8655,7 @@
     },
     "e14-3yp-Automated-Attendance-system": {
         "title": "Automated Attendance system",
-        "description": " This project aims to automate the attendance procedure of an educational System using biometric technology. This replaces the traditional attendance marking methods to a fool Proof method.This will reduce the time spent in a lecture for attendance marking and increases the accuracy of the process.This will be a hand held device which is passed in the class while the lecture is going on. The students can simply place the finger over the sensor to mark the presence in their class.",
+        "description": "This project aims to automate the attendance procedure of an educational System using biometric technology. This replaces the traditional attendance marking methods to a fool Proof method.This will reduce the time spent in a lecture for attendance marking and increases the accuracy of the process.This will be a hand held device which is passed in the class while the lecture is going on. The students can simply place the finger over the sensor to mark the presence in their class.",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
@@ -8785,7 +8783,7 @@
     },
     "e14-3yp-Automated-Electricity-Billing-System": {
         "title": "Automated Electricity Billing System",
-        "description": "    In present world embedded systems have become essential as every electronic and electrical day to day devices use the particular system for it's functionality.     Here our target is to achieve an automated and centralized electricity billing system with more security and efficiency.  Functionalities of the new system          * Accurate meter reading     * Can get update about the connection frequently     * Digital display for customers     * Customer can identify the trend of usage of the electricity",
+        "description": "In present world embedded systems have become essential as every electronic and electrical day to day devices use the particular system for it's functionality.     Here our target is to achieve an automated and centralized electricity billing system with more security and efficiency.  Functionalities of the new system          * Accurate meter reading     * Can get update about the connection frequently     * Digital display for customers     * Customer can identify the trend of usage of the electricity",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
@@ -8851,7 +8849,7 @@
     },
     "e14-3yp-Automated-Fishing-Bot": {
         "title": "Automated Fishing Bot",
-        "description": " Fishery Industry has not always been friendly to fishermen. Identifying high density fishing areas, reaching there and spending hours to find and capture fish is just too much for a human being. Therefore, we are going to introduce a fishing bot. This bot will be able to handle above said difficulties and will help fishermen to expand fishing areas and monitor fishing information gathered which will eventually help the industry. ",
+        "description": "Fishery Industry has not always been friendly to fishermen. Identifying high density fishing areas, reaching there and spending hours to find and capture fish is just too much for a human being. Therefore, we are going to introduce a fishing bot. This bot will be able to handle above said difficulties and will help fishermen to expand fishing areas and monitor fishing information gathered which will eventually help the industry.",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
@@ -8917,7 +8915,7 @@
     },
     "e14-3yp-Automated-Greenhouse-Fertilizing-System": {
         "title": "Automated Greenhouse Fertilizing System",
-        "description": " This project aims to calculate the component(N , K , P) levels which are responsible for the growth of the plant in a real time basis and maintain the component level which is required for the relevant plant. Using this system we can increase the lifetime of a plant and can get the maximum harvest out of the plant.",
+        "description": "This project aims to calculate the component(N , K , P) levels which are responsible for the growth of the plant in a real time basis and maintain the component level which is required for the relevant plant. Using this system we can increase the lifetime of a plant and can get the maximum harvest out of the plant.",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
@@ -8983,7 +8981,7 @@
     },
     "e14-3yp-Automated-Monitoring-of-Hospital-Patients": {
         "title": "Automated Monitoring of Hospital Patients",
-        "description": "This study develops a remote monitoring diagnostic framework to detect condition of patients in real-time which helps avoiding potential diseases.This system will be basically used in hospitals and medical centers. The proposed system has an embedded micro controller connected to a set of medical sensors (the sensors would differ according to the condition of the patient) and a wireless communication module (Bluetooth) . ",
+        "description": "This study develops a remote monitoring diagnostic framework to detect condition of patients in real-time which helps avoiding potential diseases.This system will be basically used in hospitals and medical centers. The proposed system has an embedded micro controller connected to a set of medical sensors (the sensors would differ according to the condition of the patient) and a wireless communication module (Bluetooth) .",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
@@ -9487,7 +9485,7 @@
     },
     "e14-3yp-Smart-Shopping-Cart": {
         "title": "Smart Shopping Cart",
-        "description": "Trolleys are used in supermarket by customers in the modern world. but they remain in the same state without many improvements. Our target is to develop a smart trolley which satisfies all needful of customers.  ",
+        "description": "Trolleys are used in supermarket by customers in the modern world. but they remain in the same state without many improvements. Our target is to develop a smart trolley which satisfies all needful of customers.",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
@@ -10369,7 +10367,7 @@
     },
     "e18-3yp-Road-Traffic-Ecosystem": {
         "title": "Road Traffic Ecosystem",
-        "description": "This is a system which helps to save their lifes before, and after accidents happen. This system alerts the user about upcoming traffic signs which helps the driver to drive carefully following rules. After the accident happens, this system alerts the emergency contacts about the accident. ",
+        "description": "This is a system which helps to save their lifes before, and after accidents happen. This system alerts the user about upcoming traffic signs which helps the driver to drive carefully following rules. After the accident happens, this system alerts the emergency contacts about the accident.",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
@@ -11471,7 +11469,7 @@
     },
     "e17-3yp-Milk-Testing-and-Collecting-System": {
         "title": "Milk Testing and Collecting System",
-        "description": "This is a cyber physical system which was designed to enhance traditional milk testing and collecting processes. The main idea was to design a system which can be used to test some parameters and then according to the grade generated by the system after analyzing, the milk collector has the option to buy or reject the milk. ",
+        "description": "This is a cyber physical system which was designed to enhance traditional milk testing and collecting processes. The main idea was to design a system which can be used to test some parameters and then according to the grade generated by the system after analyzing, the milk collector has the option to buy or reject the milk.",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
@@ -11700,20 +11698,6 @@
             "Embedded Systems"
         ]
     },
-    "e17-3yp-Smart-Cradle-1": {
-        "title": "Smart Cradle 1",
-        "description": "An automated cradle which is controlled by a mobile application.",
-        "category": {
-            "title": "Cyber-Physical Systems Projects",
-            "code": "3yp",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/Smart-Cradle-1/",
-        "repo_url": "https://github.com/cepdnaclk/e17-3yp-Smart-Cradle-1",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Smart-Cradle-1/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg"
-    },
     "e17-3yp-Smart-Cradle": {
         "title": "Smart Cradle",
         "description": "An automated cradle which is controlled by a mobile application.",
@@ -11938,7 +11922,7 @@
     },
     "e17-3yp-Wild-Life-Tracker": {
         "title": "Wild Life Tracker",
-        "description": "Wild life tracking system specially designed for researchers to study behaviors of wild animals remotely. ",
+        "description": "Wild life tracking system specially designed for researchers to study behaviors of wild animals remotely.",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
@@ -12415,7 +12399,7 @@
     },
     "e17-3yp-smart-garbage-collection": {
         "title": "smart garbage collection",
-        "description": "Smart garbage collection system provides a platform to manage garbage collecting in a large area with proper coordination between the responsible authorities and the workers assigned to collect garbage while utilizing the available resources effectively. And also general public who are in need of a proper system to dispose garbage will be benefited by the system. The system can be implemented in cities, and any large public areas and it will make a high positive impact on public health & environment as well. ",
+        "description": "Smart garbage collection system provides a platform to manage garbage collecting in a large area with proper coordination between the responsible authorities and the workers assigned to collect garbage while utilizing the available resources effectively. And also general public who are in need of a proper system to dispose garbage will be benefited by the system. The system can be implemented in cities, and any large public areas and it will make a high positive impact on public health & environment as well.",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
@@ -12650,7 +12634,7 @@
     },
     "e16-3yp-automated-railway-ticketing-system": {
         "title": "automated railway ticketing system",
-        "description": "The project is to replace currently available manual methods by an 'Automated Method'. To check the entrance & exit, an automatic gate & a swipe card has introduced. Class will be updated using introduced 'Handheld Device'. In this project we have introduced online banking facilities as well. we hope to develop this project further. To see all the activities, the 'User Portal' has introduced.    ",
+        "description": "The project is to replace currently available manual methods by an 'Automated Method'. To check the entrance & exit, an automatic gate & a swipe card has introduced. Class will be updated using introduced 'Handheld Device'. In this project we have introduced online banking facilities as well. we hope to develop this project further. To see all the activities, the 'User Portal' has introduced.",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
@@ -13281,7 +13265,7 @@
     },
     "e16-3yp-qurantine-tracker": {
         "title": "qurantine tracker",
-        "description": "The idea is about to provide a comfortable and easy tracking option for a user to track a person under home quarantine due to the current pandemic situation by tracking their location. The user will be marking a geo fence when they register a new person under quarantine so the user will be notified if the fencing rules are violated. Apart from this the device will be measuring the body temperature of the person, so if he start showing symptoms(fever) of Covid 19, then the user can take necessary actions regarding the person's health. ",
+        "description": "The idea is about to provide a comfortable and easy tracking option for a user to track a person under home quarantine due to the current pandemic situation by tracking their location. The user will be marking a geo fence when they register a new person under quarantine so the user will be notified if the fencing rules are violated. Apart from this the device will be measuring the body temperature of the person, so if he start showing symptoms(fever) of Covid 19, then the user can take necessary actions regarding the person's health.",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
@@ -13632,7 +13616,7 @@
     },
     "e16-3yp-smart-pill-manager": {
         "title": "smart pill manager",
-        "description": "This project is about a device which we called a smart pill manager to help patients to get their medicine according to the given routine. ",
+        "description": "This project is about a device which we called a smart pill manager to help patients to get their medicine according to the given routine.",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
@@ -13888,7 +13872,7 @@
     },
     "e16-3yp-water-quality-monitoring-and-usage-monitoring-system": {
         "title": "water quality monitoring and usage monitoring system",
-        "description": "In this project, we are developing a water tank monitoring system for providing clean water and reduce the water wastage. Also users will get notifications about related news like water cuts. Mainly our project focused to monitor those factors in very user friendly way. By using a simple mobile app or using a web site it can be done. This will initiate a different way of water monitoring instead of using traditional methods. ",
+        "description": "In this project, we are developing a water tank monitoring system for providing clean water and reduce the water wastage. Also users will get notifications about related news like water cuts. Mainly our project focused to monitor those factors in very user friendly way. By using a simple mobile app or using a web site it can be done. This will initiate a different way of water monitoring instead of using traditional methods.",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
@@ -13997,16 +13981,16 @@
             }
         },
         "supervisors": {
-            "": {
-                "name": "",
-                "email": "",
-                "profile_url": "#",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
-                "api_url": "#",
-                "website": "#",
-                "linkedin": "#",
-                "researchgate": "#",
-                "google_scholar": "#"
+            "kamalanath@eng.pdn.ac.lk": {
+                "name": "Dr. Eng. Kamalanath Samarakoon",
+                "email": "kamalanath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/kamalanath-samarakoon/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/kamalanath-samarakoon.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
+                "website": "http://kamalanath.samarakoon.info/",
+                "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
+                "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
+                "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
             }
         },
         "tags": [
@@ -14113,6 +14097,20 @@
         "team": {},
         "supervisors": {}
     },
+    "e18-CO326-Smart-Energy-Management-System": {
+        "title": "Smart Energy Management System",
+        "description": "",
+        "category": {
+            "title": "Industrial Automation Projects (CO326)",
+            "code": "co326",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Energy-Management-System/",
+        "repo_url": "https://github.com/cepdnaclk/e18-CO326-Smart-Energy-Management-System",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Energy-Management-System/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
+    },
     "e18-co326-Smart-Energy-Meter": {
         "title": "Smart Energy Meter",
         "description": "",
@@ -14191,6 +14189,20 @@
         "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Home-Security-System",
         "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Home-Security-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Home-Security-System/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
+    },
+    "e18-CO326-Smart-Soil-Moisture-Controlling-System": {
+        "title": "Smart Soil Moisture Controlling System",
+        "description": "This is an IoT-based Irrigation System using ESP8266 NodeMCU Module, Soil moisture sensor, and DHT11 Sensor. The System will consist of a water pump which will be used to sprinkle water on the land depending upon the land's environmental conditions such as Moisture, Temperature, and Humidity.",
+        "category": {
+            "title": "Industrial Automation Projects (CO326)",
+            "code": "co326",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Soil-Moisture-Controlling-System/",
+        "repo_url": "https://github.com/cepdnaclk/e18-CO326-Smart-Soil-Moisture-Controlling-System",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Soil-Moisture-Controlling-System/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
     },
     "e18-co326-Thief-Detection-System": {
@@ -14468,34 +14480,6 @@
             "CNC"
         ]
     },
-    "e17-co326-Smart-Building-1": {
-        "title": "Smart Building 1",
-        "description": "Smart Building Project For Systems Engineering ",
-        "category": {
-            "title": "Industrial Automation Projects (CO326)",
-            "code": "co326",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co326/e17/Smart-Building-1/",
-        "repo_url": "https://github.com/cepdnaclk/e17-co326-Smart-Building-1",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E17/Smart-Building-1/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
-    },
-    "e17-co326-Smart-Building-2": {
-        "title": "Smart Building 2",
-        "description": "",
-        "category": {
-            "title": "Industrial Automation Projects (CO326)",
-            "code": "co326",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co326/e17/Smart-Building-2/",
-        "repo_url": "https://github.com/cepdnaclk/e17-co326-Smart-Building-2",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E17/Smart-Building-2/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
-    },
     "e17-co326-Smart-Building": {
         "title": "Smart Building",
         "description": "",
@@ -14525,6 +14509,354 @@
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E17/car-rental-system/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
+    },
+    "e16-CO328-Appointment-Scheduling-Software": {
+        "title": "Appointment Scheduling Software",
+        "description": "CO328 Software Engineering Project By Group 3",
+        "category": {
+            "title": "Software Engineering Projects (CO328)",
+            "code": "co328",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co328/e16/Appointment-Scheduling-Software/",
+        "repo_url": "https://github.com/cepdnaclk/e16-CO328-Appointment-Scheduling-Software",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E16/Appointment-Scheduling-Software/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
+    },
+    "e16-co328-Footwear-Shop-System": {
+        "title": "Footwear Shop System",
+        "description": "E16_3rd year - Software Engineering Project (CO328)",
+        "category": {
+            "title": "Software Engineering Projects (CO328)",
+            "code": "co328",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co328/e16/Footwear-Shop-System/",
+        "repo_url": "https://github.com/cepdnaclk/e16-co328-Footwear-Shop-System",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E16/Footwear-Shop-System/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
+    },
+    "e16-co328-Learning-Management-Systerm": {
+        "title": "Learning Management Systerm",
+        "description": "CO328 Software Engineering Group Project.",
+        "category": {
+            "title": "Software Engineering Projects (CO328)",
+            "code": "co328",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co328/e16/Learning-Management-Systerm/",
+        "repo_url": "https://github.com/cepdnaclk/e16-co328-Learning-Management-Systerm",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E16/Learning-Management-Systerm/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
+    },
+    "e16-co328-Movie-Review-System": {
+        "title": "Movie Review System",
+        "description": "",
+        "category": {
+            "title": "Software Engineering Projects (CO328)",
+            "code": "co328",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co328/e16/Movie-Review-System/",
+        "repo_url": "https://github.com/cepdnaclk/e16-co328-Movie-Review-System",
+        "page_url": "https://cepdnaclk.github.io/e16-co328-Movie-Review-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E16/Movie-Review-System/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+        "team": {},
+        "supervisors": {},
+        "tags": [
+            "Web",
+            "Embedded Systems"
+        ]
+    },
+    "e16-co328-Pharmacy-Management-System": {
+        "title": "Pharmacy Management System",
+        "description": "",
+        "category": {
+            "title": "Software Engineering Projects (CO328)",
+            "code": "co328",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co328/e16/Pharmacy-Management-System/",
+        "repo_url": "https://github.com/cepdnaclk/e16-co328-Pharmacy-Management-System",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E16/Pharmacy-Management-System/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
+    },
+    "e16-co328-Project-Publication-Platform": {
+        "title": "Project Publication Platform",
+        "description": "Website based platform for inventors and students to publish their projects and attract investment to continue their projects to the production stage.",
+        "category": {
+            "title": "Software Engineering Projects (CO328)",
+            "code": "co328",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co328/e16/Project-Publication-Platform/",
+        "repo_url": "https://github.com/cepdnaclk/e16-co328-Project-Publication-Platform",
+        "page_url": "https://cepdnaclk.github.io/e16-co328-Project-Publication-Platform",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E16/Project-Publication-Platform/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+        "team": {
+            "E/16/078": {
+                "name": "Thilini Deshika",
+                "email": "e16078@eng.pdn.ac.lk",
+                "website": "https://thilinideshika.me/",
+                "github": "https://github.com/Thilini-Deshika",
+                "linkedin": "https://www.linkedin.com/in/thilini-deshika/",
+                "researchgate": "https://www.researchgate.net/profile/Thilini-Deshika",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E16/078",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16078.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e16/078/"
+            },
+            "E/16/168": {
+                "name": "Sudam Kalpage",
+                "email": "e16168@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E16/168",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16168.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e16/168/"
+            },
+            "E/16/275": {
+                "name": "Hashan Eranga",
+                "email": "e16275@eng.pdn.ac.lk",
+                "website": "https://hashaneranga.github.io/#/",
+                "github": "https://github.com/HashanEranga",
+                "linkedin": "https://www.linkedin.com/in/hashan-eranga-57584b136/",
+                "researchgate": "https://www.researchgate.net/profile/Hashan-Perera-4",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E16/275",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16275.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e16/275/"
+            }
+        },
+        "supervisors": {
+            "alawatugoda@eng.pdn.ac.lk": {
+                "name": "Dr. Janaka Alawatugoda",
+                "email": "alawatugoda@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/alawatugoda",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/janaka-alawatugoda-53294034/",
+                "researchgate": "https://www.researchgate.net/profile/Janaka-Alawatugoda-2",
+                "google_scholar": "https://scholar.google.com/citations?user=TJWRzj4AAAAJ&hl=en"
+            }
+        },
+        "tags": [
+            "Web",
+            "Embedded Systems"
+        ]
+    },
+    "e16-co328-Student-Management-System": {
+        "title": "Student Management System",
+        "description": "",
+        "category": {
+            "title": "Software Engineering Projects (CO328)",
+            "code": "co328",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co328/e16/Student-Management-System/",
+        "repo_url": "https://github.com/cepdnaclk/e16-co328-Student-Management-System",
+        "page_url": "https://cepdnaclk.github.io/e16-co328-Student-Management-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E16/Student-Management-System/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
+    },
+    "e16-CO328-bodim-management-system": {
+        "title": "bodim management system",
+        "description": "Co328 software engineering project",
+        "category": {
+            "title": "Software Engineering Projects (CO328)",
+            "code": "co328",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co328/e16/bodim-management-system/",
+        "repo_url": "https://github.com/cepdnaclk/e16-CO328-bodim-management-system",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E16/bodim-management-system/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
+    },
+    "e16-CO328-e-chanelling-System": {
+        "title": "e chanelling System",
+        "description": "CO 328 Third Year Software Engineering Project",
+        "category": {
+            "title": "Software Engineering Projects (CO328)",
+            "code": "co328",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co328/e16/e-chanelling-System/",
+        "repo_url": "https://github.com/cepdnaclk/e16-CO328-e-chanelling-System",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E16/e-chanelling-System/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
+    },
+    "e16-co328-mystore": {
+        "title": "mystore",
+        "description": "",
+        "category": {
+            "title": "Software Engineering Projects (CO328)",
+            "code": "co328",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co328/e16/mystore/",
+        "repo_url": "https://github.com/cepdnaclk/e16-co328-mystore",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E16/mystore/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
+    },
+    "e16-CO328-online-selling-platform": {
+        "title": "online selling platform",
+        "description": "CO328-2021: Software Engineering Project by Group 2",
+        "category": {
+            "title": "Software Engineering Projects (CO328)",
+            "code": "co328",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co328/e16/online-selling-platform/",
+        "repo_url": "https://github.com/cepdnaclk/e16-CO328-online-selling-platform",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E16/online-selling-platform/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
+    },
+    "e15-co328-Banking-Management-System": {
+        "title": "Banking Management System",
+        "description": "Banking management system customized for 'Sanasa Society Bank'",
+        "category": {
+            "title": "Software Engineering Projects (CO328)",
+            "code": "co328",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co328/e15/Banking-Management-System/",
+        "repo_url": "https://github.com/cepdnaclk/e15-co328-Banking-Management-System",
+        "page_url": "https://cepdnaclk.github.io/e15-co328-Banking-Management-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E15/Banking-Management-System/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+        "team": {
+            "E/15/265": {
+                "name": "U.L.R.R. Perera",
+                "email": "risithperera@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/RisithPerera",
+                "linkedin": "https://www.linkedin.com/in/risith/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E15/265",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15265.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/265/"
+            },
+            "E/15/347": {
+                "name": "I.U. Sudasinghe",
+                "email": "isuru.sudasinghe@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/IsuruSudasinghe",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E15/347",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15347.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/347/"
+            },
+            "E/15/010": {
+                "name": "K.A.R.L. Alwis",
+                "email": "e15010@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/RuchikaAlwis",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E15/010",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15010.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/010/"
+            }
+        },
+        "supervisors": {
+            "alawatugoda@eng.pdn.ac.lk": {
+                "name": "Dr. Janaka Alawatugoda",
+                "email": "alawatugoda@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/alawatugoda",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/janaka-alawatugoda-53294034/",
+                "researchgate": "https://www.researchgate.net/profile/Janaka-Alawatugoda-2",
+                "google_scholar": "https://scholar.google.com/citations?user=TJWRzj4AAAAJ&hl=en"
+            }
+        },
+        "tags": [
+            "Java",
+            "MySQL",
+            "JavaFX",
+            "FXML",
+            "CSS"
+        ]
+    },
+    "e15-co328-Zero-Trash": {
+        "title": "Zero Trash",
+        "description": "Zero Trash provides a communication platform between its users and garbage collectors which did not exist (at least not successfully) in Sri Lanka. This could have huge implications for both lessening the cost of collecting garbage and aiding in the recycling process, as well as ensuring that materials that would otherwise end up in a landfill are transported to the appropriate recycling centers. This will increase the income for garbage collectors while providing householders with an additional income.",
+        "category": {
+            "title": "Software Engineering Projects (CO328)",
+            "code": "co328",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co328/e15/Zero-Trash/",
+        "repo_url": "https://github.com/cepdnaclk/e15-co328-Zero-Trash",
+        "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+        "team": {
+            "E/15/140": {
+                "name": "Jaliyagoda A.J.N.M.",
+                "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
+                "website": "https://nuwanjaliyagoda.com/",
+                "github": "https://github.com/NuwanJ",
+                "linkedin": "https://www.linkedin.com/in/nuwan-jaliyagoda/",
+                "researchgate": "https://www.researchgate.net/profile/Nuwan-Jaliyagoda",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E15/140",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15140.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/140/"
+            },
+            "E/15/173": {
+                "name": "Karunarathna S.D.D.D.",
+                "email": "dilshanik@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/DDilshani",
+                "linkedin": "https://www.linkedin.com/in/dilshanikarunarathna/",
+                "researchgate": "https://www.researchgate.net/profile/Dilshani-Karunrathna",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E15/173",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15173.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/173/"
+            },
+            "E/15/350": {
+                "name": "Pasan Tennakoon",
+                "email": "e15350@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/PasanT9",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E15/350",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15350.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/350/"
+            }
+        },
+        "supervisors": {},
+        "tags": [
+            "Web"
+        ]
+    },
+    "e14-co328-GPSARSA-gaussian-process-state-action-reward-state-actios-based-SITNSHOP": {
+        "title": "GPSARSA gaussian process state action reward state actios based SITNSHOP",
+        "description": "An web application(+mobile application) to advertise any kinds of shops and more additional features",
+        "category": {
+            "title": "Software Engineering Projects (CO328)",
+            "code": "co328",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co328/e14/GPSARSA-gaussian-process-state-action-reward-state-actios-based-SITNSHOP/",
+        "repo_url": "https://github.com/cepdnaclk/e14-co328-GPSARSA-gaussian-process-state-action-reward-state-actios-based-SITNSHOP",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E14/GPSARSA-gaussian-process-state-action-reward-state-actios-based-SITNSHOP/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
     },
     "e18-co227-Augmented-Reality-Guidance-System": {
         "title": "Augmented Reality Guidance System",
@@ -15057,7 +15389,7 @@
     },
     "e18-co227-Image-Data-Handling-System-for-Research-Group-A": {
         "title": "Image Data Handling System for Research Group A",
-        "description": "This project contains a web-based application that can be used to upload, annotate and store images with annotation data. Any 3rd party may access this annotation data through the API. ",
+        "description": "This project contains a web-based application that can be used to upload, annotate and store images with annotation data. Any 3rd party may access this annotation data through the API.",
         "category": {
             "title": "Software Systems Projects",
             "code": "co227",
@@ -15520,20 +15852,6 @@
             "Web"
         ]
     },
-    "e18-co227-Poultry-Feed-Efficiency-Tracking-System-1": {
-        "title": "Poultry Feed Efficiency Tracking System 1",
-        "description": "Poultry industry is one of the fastest growing industries in Sri lanka. Farmers from every side in the country engage with this industry. But we can see they have been faced to a problem when finding a way to feed the animals efficiently. This can happen because of communication problems and lack of knowledge. So  we are trying to develop a mobile ",
-        "category": {
-            "title": "Software Systems Projects",
-            "code": "co227",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Poultry-Feed-Efficiency-Tracking-System-1/",
-        "repo_url": "https://github.com/cepdnaclk/e18-co227-Poultry-Feed-Efficiency-Tracking-System-1",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Poultry-Feed-Efficiency-Tracking-System-1/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
-    },
     "e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-12": {
         "title": "Poultry Feed Efficiency Tracking System Group 12",
         "description": "Poultry Feed Efficiency Tracking System",
@@ -15680,7 +15998,7 @@
     },
     "e18-co227-Poultry-Feed-Efficiency-Tracking-System": {
         "title": "Poultry Feed Efficiency Tracking System",
-        "description": "Poultry industry is one of the fastest growing industries in Sri lanka. Farmers from every side in the country engage with this industry. But we can see they have been faced to a problem when finding a way to feed the animals efficiently. This can happen because of communication problems and lack of knowledge. So  we are trying to develop a mobile application to avoid that problem. This application will include the main three languages which are used in Sri lanka. Through this application we hope give good guidance and needed details to the farmers. ",
+        "description": "Poultry industry is one of the fastest growing industries in Sri lanka. Farmers from every side in the country engage with this industry. But we can see they have been faced to a problem when finding a way to feed the animals efficiently. This can happen because of communication problems and lack of knowledge. So  we are trying to develop a mobile application to avoid that problem. This application will include the main three languages which are used in Sri lanka. Through this application we hope give good guidance and needed details to the farmers.",
         "category": {
             "title": "Software Systems Projects",
             "code": "co227",
@@ -15694,7 +16012,7 @@
     },
     "e18-co227-Smart-Inventory-Management-System-Group-A": {
         "title": "Smart Inventory Management System Group A",
-        "description": "CO227 : Computer Engineering Project - Group 13 ",
+        "description": "CO227 : Computer Engineering Project - Group 13",
         "category": {
             "title": "Software Systems Projects",
             "code": "co227",
@@ -16204,298 +16522,6 @@
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E14/packet-forwarding-simulator/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
     },
-    "e15-co328-Banking-Management-System": {
-        "title": "Banking Management System",
-        "description": "Banking management system customized for 'Sanasa Society Bank'",
-        "category": {
-            "title": "Software Engineering Projects (CO328)",
-            "code": "co328",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co328/e15/Banking-Management-System/",
-        "repo_url": "https://github.com/cepdnaclk/e15-co328-Banking-Management-System",
-        "page_url": "https://cepdnaclk.github.io/e15-co328-Banking-Management-System",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E15/Banking-Management-System/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-        "team": {
-            "E/15/265": {
-                "name": "U.L.R.R. Perera",
-                "email": "risithperera@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/RisithPerera",
-                "linkedin": "https://www.linkedin.com/in/risith/",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E15/265",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15265.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/265/"
-            },
-            "E/15/347": {
-                "name": "I.U. Sudasinghe",
-                "email": "isuru.sudasinghe@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/IsuruSudasinghe",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E15/347",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15347.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/347/"
-            },
-            "E/15/010": {
-                "name": "K.A.R.L. Alwis",
-                "email": "e15010@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/RuchikaAlwis",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E15/010",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15010.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/010/"
-            }
-        },
-        "supervisors": {
-            "alawatugoda@eng.pdn.ac.lk": {
-                "name": "Dr. Janaka Alawatugoda",
-                "email": "alawatugoda@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/alawatugoda",
-                "website": "",
-                "linkedin": "https://www.linkedin.com/in/janaka-alawatugoda-53294034/",
-                "researchgate": "https://www.researchgate.net/profile/Janaka-Alawatugoda-2",
-                "google_scholar": "https://scholar.google.com/citations?user=TJWRzj4AAAAJ&hl=en"
-            }
-        },
-        "tags": [
-            "Java",
-            "MySQL",
-            "JavaFX",
-            "FXML",
-            "CSS"
-        ]
-    },
-    "e15-co328-Zero-Trash": {
-        "title": "Zero Trash",
-        "description": "Zero Trash provides a communication platform between its users and garbage collectors which did not exist (at least not successfully) in Sri Lanka. This could have huge implications for both lessening the cost of collecting garbage and aiding in the recycling process, as well as ensuring that materials that would otherwise end up in a landfill are transported to the appropriate recycling centers. This will increase the income for garbage collectors while providing householders with an additional income.",
-        "category": {
-            "title": "Software Engineering Projects (CO328)",
-            "code": "co328",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co328/e15/Zero-Trash/",
-        "repo_url": "https://github.com/cepdnaclk/e15-co328-Zero-Trash",
-        "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-        "team": {
-            "E/15/140": {
-                "name": "Jaliyagoda A.J.N.M.",
-                "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
-                "website": "https://nuwanjaliyagoda.com/",
-                "github": "https://github.com/NuwanJ",
-                "linkedin": "https://www.linkedin.com/in/nuwan-jaliyagoda/",
-                "researchgate": "https://www.researchgate.net/profile/Nuwan-Jaliyagoda",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E15/140",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15140.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/140/"
-            },
-            "E/15/173": {
-                "name": "Karunarathna S.D.D.D.",
-                "email": "dilshanik@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/DDilshani",
-                "linkedin": "https://www.linkedin.com/in/dilshanikarunarathna/",
-                "researchgate": "https://www.researchgate.net/profile/Dilshani-Karunrathna",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E15/173",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15173.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/173/"
-            },
-            "E/15/350": {
-                "name": "Pasan Tennakoon",
-                "email": "e15350@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/PasanT9",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E15/350",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15350.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/350/"
-            }
-        },
-        "supervisors": {},
-        "tags": [
-            "Web"
-        ]
-    },
-    "e16-co328-Footwear-Shop-System": {
-        "title": "Footwear Shop System",
-        "description": "E16_3rd year - Software Engineering Project (CO328)",
-        "category": {
-            "title": "Software Engineering Projects (CO328)",
-            "code": "co328",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co328/e16/Footwear-Shop-System/",
-        "repo_url": "https://github.com/cepdnaclk/e16-co328-Footwear-Shop-System",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E16/Footwear-Shop-System/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
-    },
-    "e16-co328-Learning-Management-Systerm": {
-        "title": "Learning Management Systerm",
-        "description": "CO328 Software Engineering Group Project. ",
-        "category": {
-            "title": "Software Engineering Projects (CO328)",
-            "code": "co328",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co328/e16/Learning-Management-Systerm/",
-        "repo_url": "https://github.com/cepdnaclk/e16-co328-Learning-Management-Systerm",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E16/Learning-Management-Systerm/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
-    },
-    "e16-co328-Movie-Review-System": {
-        "title": "Movie Review System",
-        "description": "",
-        "category": {
-            "title": "Software Engineering Projects (CO328)",
-            "code": "co328",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co328/e16/Movie-Review-System/",
-        "repo_url": "https://github.com/cepdnaclk/e16-co328-Movie-Review-System",
-        "page_url": "https://cepdnaclk.github.io/e16-co328-Movie-Review-System",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E16/Movie-Review-System/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-        "team": {},
-        "supervisors": {},
-        "tags": [
-            "Web",
-            "Embedded Systems"
-        ]
-    },
-    "e16-co328-Pharmacy-Management-System": {
-        "title": "Pharmacy Management System",
-        "description": "",
-        "category": {
-            "title": "Software Engineering Projects (CO328)",
-            "code": "co328",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co328/e16/Pharmacy-Management-System/",
-        "repo_url": "https://github.com/cepdnaclk/e16-co328-Pharmacy-Management-System",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E16/Pharmacy-Management-System/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
-    },
-    "e16-co328-Project-Publication-Platform": {
-        "title": "Project Publication Platform",
-        "description": "Website based platform for inventors and students to publish their projects and attract investment to continue their projects to the production stage.",
-        "category": {
-            "title": "Software Engineering Projects (CO328)",
-            "code": "co328",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co328/e16/Project-Publication-Platform/",
-        "repo_url": "https://github.com/cepdnaclk/e16-co328-Project-Publication-Platform",
-        "page_url": "https://cepdnaclk.github.io/e16-co328-Project-Publication-Platform",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E16/Project-Publication-Platform/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-        "team": {
-            "E/16/078": {
-                "name": "Thilini Deshika",
-                "email": "e16078@eng.pdn.ac.lk",
-                "website": "https://thilinideshika.me/",
-                "github": "https://github.com/Thilini-Deshika",
-                "linkedin": "https://www.linkedin.com/in/thilini-deshika/",
-                "researchgate": "https://www.researchgate.net/profile/Thilini-Deshika",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E16/078",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16078.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e16/078/"
-            },
-            "E/16/168": {
-                "name": "Sudam Kalpage",
-                "email": "e16168@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E16/168",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16168.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e16/168/"
-            },
-            "E/16/275": {
-                "name": "Hashan Eranga",
-                "email": "e16275@eng.pdn.ac.lk",
-                "website": "https://hashaneranga.github.io/#/",
-                "github": "https://github.com/HashanEranga",
-                "linkedin": "https://www.linkedin.com/in/hashan-eranga-57584b136/",
-                "researchgate": "https://www.researchgate.net/profile/Hashan-Perera-4",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E16/275",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16275.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e16/275/"
-            }
-        },
-        "supervisors": {
-            "alawatugoda@eng.pdn.ac.lk": {
-                "name": "Dr. Janaka Alawatugoda",
-                "email": "alawatugoda@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/alawatugoda",
-                "website": "",
-                "linkedin": "https://www.linkedin.com/in/janaka-alawatugoda-53294034/",
-                "researchgate": "https://www.researchgate.net/profile/Janaka-Alawatugoda-2",
-                "google_scholar": "https://scholar.google.com/citations?user=TJWRzj4AAAAJ&hl=en"
-            }
-        },
-        "tags": [
-            "Web",
-            "Embedded Systems"
-        ]
-    },
-    "e16-co328-Student-Management-System": {
-        "title": "Student Management System",
-        "description": "",
-        "category": {
-            "title": "Software Engineering Projects (CO328)",
-            "code": "co328",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co328/e16/Student-Management-System/",
-        "repo_url": "https://github.com/cepdnaclk/e16-co328-Student-Management-System",
-        "page_url": "https://cepdnaclk.github.io/e16-co328-Student-Management-System",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E16/Student-Management-System/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
-    },
-    "e16-co328-mystore": {
-        "title": "mystore",
-        "description": "",
-        "category": {
-            "title": "Software Engineering Projects (CO328)",
-            "code": "co328",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co328/e16/mystore/",
-        "repo_url": "https://github.com/cepdnaclk/e16-co328-mystore",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E16/mystore/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
-    },
-    "e14-co328-GPSARSA-gaussian-process-state-action-reward-state-actios-based-SITNSHOP": {
-        "title": "GPSARSA gaussian process state action reward state actios based SITNSHOP",
-        "description": "An web application(+mobile application) to advertise any kinds of shops and more additional features",
-        "category": {
-            "title": "Software Engineering Projects (CO328)",
-            "code": "co328",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co328/e14/GPSARSA-gaussian-process-state-action-reward-state-actios-based-SITNSHOP/",
-        "repo_url": "https://github.com/cepdnaclk/e14-co328-GPSARSA-gaussian-process-state-action-reward-state-actios-based-SITNSHOP",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E14/GPSARSA-gaussian-process-state-action-reward-state-actios-based-SITNSHOP/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
-    },
     "e15-co543-Brain-Tumor-Detection": {
         "title": "Brain Tumor Detection",
         "description": "",
@@ -16644,9 +16670,72 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co226/e17/business-to-business-database/",
         "repo_url": "https://github.com/cepdnaclk/e17-co226-business-to-business-database",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e17-co226-business-to-business-database",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E17/business-to-business-database/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+        "team": {
+            "E/17/194": {
+                "name": "Madhushan R.",
+                "email": "e17194@eng.pdn.ac.lk",
+                "website": "https://drmadhushan.github.io",
+                "github": "https://www.github.com/DrMadhushan",
+                "linkedin": "https://www.linkedin.com/in/madhushan-ramalingam",
+                "researchgate": "https://www.researchgate.net/profile/Madhushan-Ramalingam-2",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/194",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17194.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/194/"
+            },
+            "E/17/058": {
+                "name": "Devindi G.A.I",
+                "email": "e17058@eng.pdn.ac.lk",
+                "website": "https://isuridevindi.github.io/",
+                "github": "https://github.com/isuridevindi",
+                "linkedin": "https://linkedin.com/in/isuri-devindi-b8602a206",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/058",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17058.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/058/"
+            },
+            "E/17/134": {
+                "name": "Jayasooriya J.A.K.D",
+                "email": "e17134@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/KavinduJayas",
+                "linkedin": "https://www.linkedin.com/in/kavindu-jayasooriya/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/134",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17134.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/134/"
+            }
+        },
+        "supervisors": {
+            "sampath@eng.pdn.ac.lk": {
+                "name": "Mr. Sampath Deegalla",
+                "email": "sampath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/sampath-deegalla/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/sampath-deegalla.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/sampath",
+                "website": "https://www.sites.google.com/site/dsdeegalla/",
+                "linkedin": "https://www.linkedin.com/in/dsdeegalla",
+                "researchgate": "https://www.researchgate.net/profile/Sampath-Deegalla-2",
+                "google_scholar": "https://scholar.google.com/citations?user=QDoeGtYAAAAJ&hl=en"
+            },
+            "manjula.sandirigama@eng.pdn.ac.lk": {
+                "name": "Dr. Manjula Sandirigama",
+                "email": "manjula.sandirigama@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/manjula.sandirigama",
+                "website": "",
+                "linkedin": "https://lk.linkedin.com/in/manjula-sandirigama-0622784",
+                "researchgate": "",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=qpmlrL0AAAAJ"
+            }
+        },
+        "tags": [
+            "DBMS",
+            "MySQL"
+        ]
     },
     "e19-co226-library-management-system": {
         "title": "library management system",
@@ -16953,8 +17042,22 @@
             "Computer Architecture"
         ]
     },
+    "e16-Co502-SuperScalar-CPU-With-Dynamic-Sheduling": {
+        "title": "SuperScalar CPU With Dynamic Sheduling",
+        "description": "Implementation of a Superscalar CPU with Dynamic Scheduling which support RISC-V standard ISA with standard 'M' Extention",
+        "category": {
+            "title": "Advanced Computer Architecture (CO502)",
+            "code": "co502",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co502/e16/SuperScalar-CPU-With-Dynamic-Sheduling/",
+        "repo_url": "https://github.com/cepdnaclk/e16-Co502-SuperScalar-CPU-With-Dynamic-Sheduling",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E16/SuperScalar-CPU-With-Dynamic-Sheduling/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg"
+    },
     "e18-co502-RV32IM-Pipeline-Implementation-Group-06-": {
-        "title": "RV32IM Pipeline Implementation Group 06",
+        "title": "RV32IM Pipeline Implementation Group 06 ",
         "description": "",
         "category": {
             "title": "Advanced Computer Architecture (CO502)",
@@ -16964,7 +17067,7 @@
         "project_url": "https://projects.ce.pdn.ac.lk/co502/e18/RV32IM-Pipeline-Implementation-Group-06-/",
         "repo_url": "https://github.com/cepdnaclk/e18-co502-RV32IM-Pipeline-Implementation-Group-06-",
         "page_url": "https://cepdnaclk.github.io/e18-co502-RV32IM-Pipeline-Implementation-Group-06-",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E18/RV32IM-Pipeline-Implementation-Group-06/",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E18/RV32IM-Pipeline-Implementation-Group-06-/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
         "team": {},
         "supervisors": {}

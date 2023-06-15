@@ -1,4 +1,17 @@
 {
+    "e16-Co502-SuperScalar-CPU-With-Dynamic-Sheduling": {
+        "title": "SuperScalar CPU With Dynamic Sheduling",
+        "description": "Implementation of a Superscalar CPU with Dynamic Scheduling which support RISC-V standard ISA with standard 'M' Extention",
+        "category": {
+            "title": "Advanced Computer Architecture (CO502)",
+            "code": "co502",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co502/e16/SuperScalar-CPU-With-Dynamic-Sheduling/",
+        "repo_url": "https://github.com/cepdnaclk/e16-Co502-SuperScalar-CPU-With-Dynamic-Sheduling",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E16/SuperScalar-CPU-With-Dynamic-Sheduling/"
+    },
     "e16-co502-RISCV-Pipeline-CPU-Implimentation-Group2": {
         "title": "RISCV Pipeline CPU Implimentation Group2",
         "description": "This is the RISC-V ISA implementation by Group 2",

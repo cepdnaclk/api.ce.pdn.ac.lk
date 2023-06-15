@@ -1,4 +1,30 @@
 {
+    "e18-CO326-Smart-Energy-Management-System": {
+        "title": "Smart Energy Management System",
+        "description": "",
+        "category": {
+            "title": "Industrial Automation Projects (CO326)",
+            "code": "co326",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Energy-Management-System/",
+        "repo_url": "https://github.com/cepdnaclk/e18-CO326-Smart-Energy-Management-System",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Energy-Management-System/"
+    },
+    "e18-CO326-Smart-Soil-Moisture-Controlling-System": {
+        "title": "Smart Soil Moisture Controlling System",
+        "description": "This is an IoT-based Irrigation System using ESP8266 NodeMCU Module, Soil moisture sensor, and DHT11 Sensor. The System will consist of a water pump which will be used to sprinkle water on the land depending upon the land's environmental conditions such as Moisture, Temperature, and Humidity.",
+        "category": {
+            "title": "Industrial Automation Projects (CO326)",
+            "code": "co326",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Soil-Moisture-Controlling-System/",
+        "repo_url": "https://github.com/cepdnaclk/e18-CO326-Smart-Soil-Moisture-Controlling-System",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Soil-Moisture-Controlling-System/"
+    },
     "e18-co326-Air-Quality-Monitoring-System": {
         "title": "Air Quality Monitoring System",
         "description": "Industrial System for monitoring the air quality",
