@@ -1,0 +1,14 @@
+{
+    "title": "Water Quality Monitoring System",
+    "description": "A water quality monitoring system using an ESP8266 microcontroller, which will continuously monitor the temperature and TDS level of the water. The system will then process this data and compare it with predetermined acceptable limits. After comparing the values, our system will indicate whether the quality of water is good or bad using LEDs.",
+    "category": {
+        "title": "Industrial Automation Projects (CO326)",
+        "code": "co326",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Water-Quality-Monitoring-System/",
+    "repo_url": "https://github.com/cepdnaclk/e18-co326-Water-Quality-Monitoring-System",
+    "page_url": "#",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Water-Quality-Monitoring-System/",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
+}
