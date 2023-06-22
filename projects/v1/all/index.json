@@ -150,7 +150,9 @@
         "repo_url": "https://github.com/cepdnaclk/e18-6sp-Code-quality-check-with-Semantic-Search",
         "page_url": "https://cepdnaclk.github.io/e18-6sp-Code-quality-check-with-Semantic-Search",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Code-quality-check-with-Semantic-Search/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+        "team": {},
+        "supervisors": {}
     },
     "e18-6sp-Digital-Twin": {
         "title": "Digital Twin",
@@ -2795,7 +2797,7 @@
     },
     "e17-4yp-Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving": {
         "title": "Improving Trajectory Guided Control Prediction for Autonomous Driving",
-        "description": "",
+        "description": "In this project we first are trying to identify the issues in the TCP architecture and to improve its accuracy. Carla Simulator will be used to test the accuracy of our models.",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
@@ -3078,8 +3080,65 @@
         "page_url": "https://cepdnaclk.github.io/e17-4yp-Music-Emotion-Recognition",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Music-Emotion-Recognition/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-        "team": {},
-        "supervisors": {},
+        "team": {
+            "E/17/040": {
+                "name": "Madush Chandrasena",
+                "email": "e17040@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/040",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17040.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/040/"
+            },
+            "E/17/356": {
+                "name": "Shashini Upekha",
+                "email": "e17356@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/ShashiniUpekha/",
+                "linkedin": "https://www.linkedin.com/in/shashini-upekha-46209a219",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/356",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17356.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/356/"
+            },
+            "E/17/407": {
+                "name": "Hasara Wijesooriya",
+                "email": "e17407@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/WijesooriyaHD",
+                "linkedin": "https://www.linkedin.com/in/hasara-wijesooriya-129880218",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/407",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17407.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/407/"
+            }
+        },
+        "supervisors": {
+            "roshanr@eng.pdn.ac.lk": {
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/roshanr",
+                "website": "http://roshan.ragel.net/",
+                "linkedin": "https://www.linkedin.com/in/roshanragel/",
+                "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
+                "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
+            },
+            "dhanumapitigama@eng.pdn.ac.lk": {
+                "name": "Mrs. Dhanushki Mapitigama",
+                "email": "dhanumapitigama@eng.pdn.ac.lk",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
         "tags": [
             "Final Year Projects"
         ]
@@ -14189,20 +14248,6 @@
         "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Home-Security-System",
         "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Home-Security-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Home-Security-System/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
-    },
-    "e18-co326-Smart-Lighting-System": {
-        "title": "Smart Lighting System",
-        "description": "",
-        "category": {
-            "title": "Industrial Automation Projects (CO326)",
-            "code": "co326",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Lighting-System/",
-        "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Lighting-System",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Lighting-System/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
     },
     "e18-CO326-Smart-Safety-Helmet-using-ESP": {
