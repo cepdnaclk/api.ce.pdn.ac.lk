@@ -150,7 +150,9 @@
         "repo_url": "https://github.com/cepdnaclk/e18-6sp-Code-quality-check-with-Semantic-Search",
         "page_url": "https://cepdnaclk.github.io/e18-6sp-Code-quality-check-with-Semantic-Search",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Code-quality-check-with-Semantic-Search/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+        "team": {},
+        "supervisors": {}
     },
     "e18-6sp-Digital-Twin": {
         "title": "Digital Twin",
@@ -2471,31 +2473,35 @@
                 "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
                 "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
             },
-            "damayanthi@eng.pdn.ac.lk": {
+            "damayanthiherath@eng.pdn.ac.lk": {
                 "name": "Dr. Damayanthi Herath",
-                "email": "damayanthi@eng.pdn.ac.lk",
-                "profile_url": "#",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
-                "api_url": "#",
-                "website": "#",
-                "linkedin": "#",
-                "researchgate": "#",
-                "google_scholar": "#"
+                "email": "damayanthiherath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/damayanthiherath",
+                "website": "https://damayanthiherath.wordpress.com/",
+                "linkedin": "https://www.linkedin.com/in/damayanthi-herath/",
+                "researchgate": "https://www.researchgate.net/profile/Damayanthi-Herath",
+                "google_scholar": "https://scholar.google.com/citations?user=G2jUV5IAAAAJ&hl=en"
             },
-            "": {
-                "name": "Dr. Hasindu Gamarachchi",
-                "email": "",
-                "profile_url": "#",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "h.gamaarachchi@garvan.org.au": {
+                "name": "Dr. Hasindu Gamaarachchi",
+                "email": "h.gamaarachchi@garvan.org.au",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/visiting-research-fellows/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/fellows/hasindu-gamaarachchi.jpg",
                 "api_url": "#",
-                "website": "#",
-                "linkedin": "#",
-                "researchgate": "#",
-                "google_scholar": "#"
+                "website": "https://www.garvan.org.au/about-us/people/hasgam",
+                "linkedin": "https://au.linkedin.com/in/hasindugamaarachchi",
+                "researchgate": "https://www.researchgate.net/profile/Hasindu-Gamaarachchi-2",
+                "google_scholar": "https://scholar.google.com.au/citations?user=XVAjC6cAAAAJ&hl=en"
             }
         },
         "tags": [
-            "Final Year Projects"
+            "Final Year Projects",
+            "DNA sequencing",
+            "Super accuracy basecalling",
+            "Accelerated Computing",
+            "Oxford Nanopore"
         ]
     },
     "e17-4yp-Applying-deep-learning-on-histological-images-of-lymph-tissues": {
@@ -14164,9 +14170,68 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Energy-Management-System/",
         "repo_url": "https://github.com/cepdnaclk/e18-CO326-Smart-Energy-Management-System",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e18-CO326-Smart-Energy-Management-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Energy-Management-System/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+        "team": {
+            "E/18/180": {
+                "name": "M. K. N. M. Kodituwakku",
+                "email": "e18180@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/180",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18180.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/180/"
+            },
+            "E/18/227": {
+                "name": "D. H. Mudalige",
+                "email": "e18227@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/227",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/227/"
+            },
+            "E/18/266": {
+                "name": "K. N. I. Premathilaka",
+                "email": "e18266@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/266",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18266.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/266/"
+            }
+        },
+        "supervisors": {
+            "kamalanath@eng.pdn.ac.lk": {
+                "name": "Dr. Eng. Kamalanath Samarakoon",
+                "email": "kamalanath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/kamalanath-samarakoon/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/kamalanath-samarakoon.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
+                "website": "http://kamalanath.samarakoon.info/",
+                "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
+                "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
+                "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
+            },
+            "sithuminie@eng.pdn.ac.lk": {
+                "name": "Dr. Sithumini Ekanayake",
+                "email": "sithuminie@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/sithumini-ekanayake/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/sithumini-ekanayake.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/sithuminie",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/sithumini/",
+                "researchgate": "https://www.researchgate.net/profile/Sithumini-Ekanayake-2",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=mRlKPGsAAAAJ"
+            }
+        }
     },
     "e18-co326-Smart-Energy-Meter": {
         "title": "Smart Energy Meter",
