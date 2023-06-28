@@ -12,52 +12,41 @@
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
     "team": {
-        "E/16/086": {
-            "name": "Dharmathilaka A.L.V.H.",
-            "email": "e16086@eng.pdn.ac.lk",
+        "E/17/005": {
+            "name": "M.I.Rishard",
+            "email": "e17005@eng.pdn.ac.lk",
             "website": "",
-            "github": "",
-            "linkedin": "",
+            "github": "https://github.com/RishardAhamed",
+            "linkedin": "https://www.linkedin.com/in/m-i-rishard-192247231/",
             "researchgate": "",
-            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E16/086",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16086.jpg",
-            "profile_url": "https://people.ce.pdn.ac.lk/students/e16/086/"
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/005",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17005.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/005/"
         },
-        "E/16/156": {
-            "name": "Jaythilaka H.A.D.T.T.",
-            "email": "e16156@eng.pdn.ac.lk",
+        "E/17/327": {
+            "name": "A.M.F.Shalha",
+            "email": "e17327@eng.pdn.ac.lk",
             "website": "",
-            "github": "",
-            "linkedin": "",
+            "github": "https://github.com/fshalha?tab=repositories",
+            "linkedin": "https://www.linkedin.com/in/fathima-shalha-1a4442207/",
             "researchgate": "",
-            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E16/156",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16156.jpg",
-            "profile_url": "https://people.ce.pdn.ac.lk/students/e16/156/"
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/327",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17327.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/327/"
         },
-        "E/16/223": {
-            "name": "Madushanki K.H.H.C.",
-            "email": "e16223@eng.pdn.ac.lk",
+        "E/17/379": {
+            "name": "S.P.D.D.S.Weerasinghe",
+            "email": "e17379@eng.pdn.ac.lk",
             "website": "",
             "github": "",
             "linkedin": "",
             "researchgate": "",
-            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E16/223",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16223.jpg",
-            "profile_url": "https://people.ce.pdn.ac.lk/students/e16/223/"
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/379",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17379.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/379/"
         }
     },
     "supervisors": {
-        "roshanr@eng.pdn.ac.lk": {
-            "name": "Prof. Roshan G. Ragel",
-            "email": "roshanr@eng.pdn.ac.lk",
-            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/roshanr",
-            "website": "http://roshan.ragel.net/",
-            "linkedin": "https://www.linkedin.com/in/roshanragel/",
-            "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
-            "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
-        },
         "upuljm@eng.pdn.ac.lk": {
             "name": "Dr. Upul Jayasinghe",
             "email": "upuljm@eng.pdn.ac.lk",
@@ -69,9 +58,31 @@
             "researchgate": "https://www.researchgate.net/profile/Upul-Jayasinghe",
             "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
         },
+        "roshanr@eng.pdn.ac.lk": {
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/roshanr",
+            "website": "http://roshan.ragel.net/",
+            "linkedin": "https://www.linkedin.com/in/roshanragel/",
+            "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
+            "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
+        },
         "dhanulb@dental.pdn.ac.lk": {
             "name": "Dr. D Leuke Bandara",
             "email": "dhanulb@dental.pdn.ac.lk",
+            "profile_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "api_url": "#",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        },
+        "titus@eng.pdn.ac.lk": {
+            "name": "Dr. Titus",
+            "email": "titus@eng.pdn.ac.lk",
             "profile_url": "#",
             "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
             "api_url": "#",

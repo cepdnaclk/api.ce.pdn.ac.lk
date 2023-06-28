@@ -444,7 +444,61 @@
         "repo_url": "https://github.com/cepdnaclk/e18-6sp-Handwritten_Essay_Marking_Software",
         "page_url": "https://cepdnaclk.github.io/e18-6sp-Handwritten_Essay_Marking_Software",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Handwritten_Essay_Marking_Software/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+        "team": {
+            "E/18/010": {
+                "name": "Avishka Abeywickrama",
+                "email": "e18010@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/avishka4444",
+                "linkedin": "https://www.linkedin.com/in/avishka-abeywickrama-97413a21a",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/010",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18010.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/010/"
+            },
+            "E/18/156": {
+                "name": "Thakshila Jayathilake",
+                "email": "e18156@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/ThakshilaJayathilake",
+                "linkedin": "https://www.linkedin.com/in/thakshila-jayathilake-5919b5213/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/156",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18156.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/156/"
+            },
+            "E/18/329": {
+                "name": "Nirasha Sewwandi",
+                "email": "e18329@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/329",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18329.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/329/"
+            }
+        },
+        "supervisors": {
+            "sampath@eng.pdn.ac.lkk": {
+                "name": "Mr. Sampath Deegalla",
+                "email": "sampath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/sampath-deegalla/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/sampath-deegalla.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/sampath",
+                "website": "https://www.sites.google.com/site/dsdeegalla/",
+                "linkedin": "https://www.linkedin.com/in/dsdeegalla",
+                "researchgate": "https://www.researchgate.net/profile/Sampath-Deegalla-2",
+                "google_scholar": "https://scholar.google.com/citations?user=QDoeGtYAAAAJ&hl=en"
+            }
+        },
+        "tags": [
+            "MachineLearning",
+            "Web Development",
+            "NLP",
+            "OCR"
+        ]
     },
     "e18-6sp-ML-For-Structural-Health-Monitoring": {
         "title": "ML For Structural Health Monitoring",
@@ -3335,52 +3389,41 @@
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
         "team": {
-            "E/16/086": {
-                "name": "Dharmathilaka A.L.V.H.",
-                "email": "e16086@eng.pdn.ac.lk",
+            "E/17/005": {
+                "name": "M.I.Rishard",
+                "email": "e17005@eng.pdn.ac.lk",
                 "website": "",
-                "github": "",
-                "linkedin": "",
+                "github": "https://github.com/RishardAhamed",
+                "linkedin": "https://www.linkedin.com/in/m-i-rishard-192247231/",
                 "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E16/086",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16086.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e16/086/"
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/005",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17005.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/005/"
             },
-            "E/16/156": {
-                "name": "Jaythilaka H.A.D.T.T.",
-                "email": "e16156@eng.pdn.ac.lk",
+            "E/17/327": {
+                "name": "A.M.F.Shalha",
+                "email": "e17327@eng.pdn.ac.lk",
                 "website": "",
-                "github": "",
-                "linkedin": "",
+                "github": "https://github.com/fshalha?tab=repositories",
+                "linkedin": "https://www.linkedin.com/in/fathima-shalha-1a4442207/",
                 "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E16/156",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16156.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e16/156/"
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/327",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17327.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/327/"
             },
-            "E/16/223": {
-                "name": "Madushanki K.H.H.C.",
-                "email": "e16223@eng.pdn.ac.lk",
+            "E/17/379": {
+                "name": "S.P.D.D.S.Weerasinghe",
+                "email": "e17379@eng.pdn.ac.lk",
                 "website": "",
                 "github": "",
                 "linkedin": "",
                 "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E16/223",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16223.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e16/223/"
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/379",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17379.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/379/"
             }
         },
         "supervisors": {
-            "roshanr@eng.pdn.ac.lk": {
-                "name": "Prof. Roshan G. Ragel",
-                "email": "roshanr@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/roshanr",
-                "website": "http://roshan.ragel.net/",
-                "linkedin": "https://www.linkedin.com/in/roshanragel/",
-                "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
-                "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
-            },
             "upuljm@eng.pdn.ac.lk": {
                 "name": "Dr. Upul Jayasinghe",
                 "email": "upuljm@eng.pdn.ac.lk",
@@ -3392,9 +3435,31 @@
                 "researchgate": "https://www.researchgate.net/profile/Upul-Jayasinghe",
                 "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
             },
+            "roshanr@eng.pdn.ac.lk": {
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/roshanr",
+                "website": "http://roshan.ragel.net/",
+                "linkedin": "https://www.linkedin.com/in/roshanragel/",
+                "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
+                "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
+            },
             "dhanulb@dental.pdn.ac.lk": {
                 "name": "Dr. D Leuke Bandara",
                 "email": "dhanulb@dental.pdn.ac.lk",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            },
+            "titus@eng.pdn.ac.lk": {
+                "name": "Dr. Titus",
+                "email": "titus@eng.pdn.ac.lk",
                 "profile_url": "#",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
                 "api_url": "#",
@@ -14300,7 +14365,59 @@
         "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Home-Security-System",
         "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Home-Security-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Home-Security-System/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+        "team": {
+            "E/18/010": {
+                "name": "Avishka Abeywickrama",
+                "email": "e18010@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/avishka4444",
+                "linkedin": "https://www.linkedin.com/in/avishka-abeywickrama-97413a21a",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/010",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18010.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/010/"
+            },
+            "E/18/149": {
+                "name": "Ishta Jayakody",
+                "email": "e18149@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/149",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18149.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/149/"
+            },
+            "E/18/156": {
+                "name": "Thakshila Jayathilake",
+                "email": "e18156@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/ThakshilaJayathilake",
+                "linkedin": "https://www.linkedin.com/in/thakshila-jayathilake-5919b5213/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/156",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18156.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/156/"
+            }
+        },
+        "supervisors": {
+            "kamalanath@eng.pdn.ac.lk": {
+                "name": "Dr. Eng. Kamalanath Samarakoon",
+                "email": "kamalanath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/kamalanath-samarakoon/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/kamalanath-samarakoon.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
+                "website": "http://kamalanath.samarakoon.info/",
+                "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
+                "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
+                "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
+            }
+        },
+        "tags": [
+            "Computer Systems Engineering",
+            "Industrial Networks"
+        ]
     },
     "e18-CO326-Smart-Safety-Helmet-using-ESP": {
         "title": "Smart Safety Helmet using ESP",
@@ -14489,6 +14606,20 @@
             "Computer Systems Engineering",
             "Industrial Networks"
         ]
+    },
+    "e18-co326-stock-tank-smart-valve-controller": {
+        "title": "stock tank smart valve controller",
+        "description": "",
+        "category": {
+            "title": "Industrial Automation Projects (CO326)",
+            "code": "co326",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/stock-tank-smart-valve-controller/",
+        "repo_url": "https://github.com/cepdnaclk/e18-co326-stock-tank-smart-valve-controller",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/stock-tank-smart-valve-controller/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
     },
     "e18-co326-water-level-monitoring-and-control-system": {
         "title": "water level monitoring and control system",
@@ -16799,6 +16930,34 @@
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E18/Database-for-the-University-Gym/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
     },
+    "e19-co226-Online-Shopping": {
+        "title": "Online Shopping",
+        "description": "CO226 Database Project",
+        "category": {
+            "title": "Database Projects (CO226)",
+            "code": "co226",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Shopping/",
+        "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Shopping",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Shopping/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
+    },
+    "e19-co226-library-management-system": {
+        "title": "library management system",
+        "description": "",
+        "category": {
+            "title": "Database Projects (CO226)",
+            "code": "co226",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/library-management-system/",
+        "repo_url": "https://github.com/cepdnaclk/e19-co226-library-management-system",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/library-management-system/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
+    },
     "e17-co226-business-to-business-database": {
         "title": "business to business database",
         "description": "CO226 Project - Relational Database for B2B Online Trade Community - by: @Isuri-Devindi, @KavinduJayas, @Dr-Madhushan",
@@ -16875,20 +17034,6 @@
             "DBMS",
             "MySQL"
         ]
-    },
-    "e19-co226-library-management-system": {
-        "title": "library management system",
-        "description": "",
-        "category": {
-            "title": "Database Projects (CO226)",
-            "code": "co226",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/library-management-system/",
-        "repo_url": "https://github.com/cepdnaclk/e19-co226-library-management-system",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/library-management-system/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
     },
     "e16-co502-RISCV-Pipeline-CPU-Implimentation-Group2": {
         "title": "RISCV Pipeline CPU Implimentation Group2",

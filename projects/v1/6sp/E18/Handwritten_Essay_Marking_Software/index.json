@@ -10,5 +10,59 @@
     "repo_url": "https://github.com/cepdnaclk/e18-6sp-Handwritten_Essay_Marking_Software",
     "page_url": "https://cepdnaclk.github.io/e18-6sp-Handwritten_Essay_Marking_Software",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Handwritten_Essay_Marking_Software/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+    "team": {
+        "E/18/010": {
+            "name": "Avishka Abeywickrama",
+            "email": "e18010@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/avishka4444",
+            "linkedin": "https://www.linkedin.com/in/avishka-abeywickrama-97413a21a",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/010",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18010.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/010/"
+        },
+        "E/18/156": {
+            "name": "Thakshila Jayathilake",
+            "email": "e18156@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/ThakshilaJayathilake",
+            "linkedin": "https://www.linkedin.com/in/thakshila-jayathilake-5919b5213/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/156",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18156.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/156/"
+        },
+        "E/18/329": {
+            "name": "Nirasha Sewwandi",
+            "email": "e18329@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/329",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18329.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/329/"
+        }
+    },
+    "supervisors": {
+        "sampath@eng.pdn.ac.lkk": {
+            "name": "Mr. Sampath Deegalla",
+            "email": "sampath@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/sampath-deegalla/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/sampath-deegalla.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/sampath",
+            "website": "https://www.sites.google.com/site/dsdeegalla/",
+            "linkedin": "https://www.linkedin.com/in/dsdeegalla",
+            "researchgate": "https://www.researchgate.net/profile/Sampath-Deegalla-2",
+            "google_scholar": "https://scholar.google.com/citations?user=QDoeGtYAAAAJ&hl=en"
+        }
+    },
+    "tags": [
+        "MachineLearning",
+        "Web Development",
+        "NLP",
+        "OCR"
+    ]
 }
