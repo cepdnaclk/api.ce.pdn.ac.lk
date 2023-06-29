@@ -1,0 +1,66 @@
+{
+    "title": "Smart Traffic Light System",
+    "description": "",
+    "category": {
+        "title": "Industrial Automation Projects (CO326)",
+        "code": "co326",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Traffic-Light-System/",
+    "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Traffic-Light-System",
+    "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Traffic-Light-System",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Traffic-Light-System/",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+    "team": {
+        "E/18/098": {
+            "name": "Ishan Fernando",
+            "email": "e18098@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/ishanfdo18098",
+            "linkedin": "https://www.linkedin.com/in/ishanfdo/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/098",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18098.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/098/"
+        },
+        "E/18/100": {
+            "name": "Adeepa Fernando",
+            "email": "e18100@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/NipunFernando",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/100",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18100.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/100/"
+        },
+        "E/18/155": {
+            "name": "Ridma Jayasundara",
+            "email": "e18155@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/ridmajayasundara",
+            "linkedin": "https://www.linkedin.com/in/ridma-jayasundara-9471b8213",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/155",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18155.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/155/"
+        }
+    },
+    "supervisors": {
+        "kamalanath@eng.pdn.ac.lk": {
+            "name": "Dr. Eng. Kamalanath Samarakoon",
+            "email": "kamalanath@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/kamalanath-samarakoon/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/kamalanath-samarakoon.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
+            "website": "http://kamalanath.samarakoon.info/",
+            "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
+            "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
+            "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
+        }
+    },
+    "tags": [
+        "Embedded Systems",
+        "ESP32"
+    ]
+}

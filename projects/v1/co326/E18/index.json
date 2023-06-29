@@ -12,18 +12,18 @@
         "page_url": "https://cepdnaclk.github.io/e18-CO326-Smart-Energy-Management-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Energy-Management-System/"
     },
-    "e18-CO326-Smart-Safety-Helmet-using-ESP": {
-        "title": "Smart Safety Helmet using ESP",
+    "e18-CO326-Smart-Safety-Helmet-using-NodeMCU": {
+        "title": "Smart Safety Helmet using NodeMCU",
         "description": "This helmet device is with sensors that has MQ9 gas sensor, thermistor, and KY-037 sound detection sensor.  LED and Piezo Buzzer are used as actuators. If there is any harmful noise or harmful temperature, these actuators notify that to the user.  Sensors and actuators are controlled by ESP32 module. This is connected to server through MQTT broker.",
         "category": {
             "title": "Industrial Automation Projects (CO326)",
             "code": "co326",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Safety-Helmet-using-ESP/",
-        "repo_url": "https://github.com/cepdnaclk/e18-CO326-Smart-Safety-Helmet-using-ESP",
+        "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Safety-Helmet-using-NodeMCU/",
+        "repo_url": "https://github.com/cepdnaclk/e18-CO326-Smart-Safety-Helmet-using-NodeMCU",
         "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Safety-Helmet-using-ESP/"
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Safety-Helmet-using-NodeMCU/"
     },
     "e18-CO326-Smart-Soil-Moisture-Controlling-System": {
         "title": "Smart Soil Moisture Controlling System",
@@ -90,6 +90,19 @@
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Secured-Vision-Camera-Surveillance-System-with-Automated-Lighting/"
     },
+    "e18-co326-Smart-Alcohol-Detection-System": {
+        "title": "Smart Alcohol Detection System",
+        "description": "",
+        "category": {
+            "title": "Industrial Automation Projects (CO326)",
+            "code": "co326",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Alcohol-Detection-System/",
+        "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Alcohol-Detection-System",
+        "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Alcohol-Detection-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Alcohol-Detection-System/"
+    },
     "e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5": {
         "title": "Smart Cooling System for a Machinery Room Group5",
         "description": "The aim of this project is to design a cooling system which is automatically controlled according to the temperature of a particular room. It also includes an alert system to notify if the temperature exceeds safe limits",
@@ -129,6 +142,19 @@
         "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Home-Security-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Home-Security-System/"
     },
+    "e18-co326-Smart-Traffic-Light-System": {
+        "title": "Smart Traffic Light System",
+        "description": "",
+        "category": {
+            "title": "Industrial Automation Projects (CO326)",
+            "code": "co326",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Traffic-Light-System/",
+        "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Traffic-Light-System",
+        "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Traffic-Light-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Traffic-Light-System/"
+    },
     "e18-co326-Thief-Detection-System": {
         "title": "Thief Detection System",
         "description": "The Thief Detection System is a security solution designed to detect intrusions using a PIR (Passive Infrared) sensor and an ESP32-CAM module. The system captures images and sends them to subscribed users and a database using MQTT (Message Queuing Telemetry Transport) protocol with a Mosquitto broker",
@@ -144,7 +170,7 @@
     },
     "e18-co326-Water-Quality-Monitoring-System": {
         "title": "Water Quality Monitoring System",
-        "description": "A water quality monitoring system using an ESP8266 microcontroller, which will continuously monitor the temperature and TDS level of the water. The system will then process this data and compare it with predetermined acceptable limits. After comparing the values, our system will indicate whether the quality of water is good or bad using LEDs.",
+        "description": "A water quality monitoring system using an ESP8266 microcontroller, which will continuously monitor the temperature and turbidity of the water. The system will then process this data and compare it with predetermined acceptable limits. After comparing the values, our system will indicate whether the quality of water is good or bad using LEDs.",
         "category": {
             "title": "Industrial Automation Projects (CO326)",
             "code": "co326",
