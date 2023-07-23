@@ -1,4 +1,17 @@
 {
+    "e19-co226-Online-Learning-Platform": {
+        "title": "Online Learning Platform",
+        "description": "",
+        "category": {
+            "title": "Database Projects (CO226)",
+            "code": "co226",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Learning-Platform/",
+        "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Learning-Platform",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Learning-Platform/"
+    },
     "e19-co226-Online-Shopping": {
         "title": "Online Shopping",
         "description": "CO226 Database Project",
@@ -11,6 +24,19 @@
         "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Shopping",
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Shopping/"
+    },
+    "e19-co226-database-management-system-for-a-restaurant": {
+        "title": "database management system for a restaurant",
+        "description": "A restaurant database system to simplify customer data management, enhancing service and personalization. It tracks menu inventory, staff schedules, and reservations seamlessly, revolutionizing restaurant operations. Elevate the customer experience with our comprehensive solution.",
+        "category": {
+            "title": "Database Projects (CO226)",
+            "code": "co226",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/database-management-system-for-a-restaurant/",
+        "repo_url": "https://github.com/cepdnaclk/e19-co226-database-management-system-for-a-restaurant",
+        "page_url": "https://cepdnaclk.github.io/e19-co226-database-management-system-for-a-restaurant",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/database-management-system-for-a-restaurant/"
     },
     "e19-co226-library-management-system": {
         "title": "library management system",
