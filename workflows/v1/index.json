@@ -12,18 +12,6 @@
         "status": "PASS"
     },
     {
-        "id": 26025486,
-        "repository": "api.ce.pdn.ac.lk",
-        "name": "Publications API",
-        "state": "active",
-        "urls": {
-            "api": "https://api.github.com/repos/cepdnaclk/api.ce.pdn.ac.lk/actions/workflows/26025486",
-            "html": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/.github/workflows/publications_api.yml",
-            "badge": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/workflows/Publications%20API/badge.svg"
-        },
-        "status": "PASS"
-    },
-    {
         "id": 27031725,
         "repository": "api.ce.pdn.ac.lk",
         "name": "Daily Build",
@@ -45,7 +33,19 @@
             "html": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/.github/workflows/workflow_check.yml",
             "badge": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/workflows/Workflow%20Check/badge.svg"
         },
-        "status": "NO STATUS"
+        "status": "PASS"
+    },
+    {
+        "id": 64413112,
+        "repository": "api.ce.pdn.ac.lk",
+        "name": "Publications API",
+        "state": "active",
+        "urls": {
+            "api": "https://api.github.com/repos/cepdnaclk/api.ce.pdn.ac.lk/actions/workflows/64413112",
+            "html": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/.github/workflows/publications_api.yml",
+            "badge": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/workflows/Publications%20API/badge.svg"
+        },
+        "status": "PASS"
     },
     {
         "id": 19899275,
