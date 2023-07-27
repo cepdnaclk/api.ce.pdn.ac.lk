@@ -36,6 +36,18 @@
         "status": "PASS"
     },
     {
+        "id": 64410778,
+        "repository": "api.ce.pdn.ac.lk",
+        "name": "Workflow Check",
+        "state": "active",
+        "urls": {
+            "api": "https://api.github.com/repos/cepdnaclk/api.ce.pdn.ac.lk/actions/workflows/64410778",
+            "html": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/.github/workflows/workflow_check.yml",
+            "badge": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/workflows/Workflow%20Check/badge.svg"
+        },
+        "status": "NO STATUS"
+    },
+    {
         "id": 19899275,
         "repository": "projects.ce.pdn.ac.lk",
         "name": "Collect Dynamic Data",
