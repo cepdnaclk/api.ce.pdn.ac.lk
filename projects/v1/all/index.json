@@ -2661,7 +2661,7 @@
                 "name": "Dr. Swarnalatha Radhakrishnan",
                 "email": "swarnar@eng.pdn.ac.lk",
                 "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/swarnalatha-radhakrishnan/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/swarnalatha-radhakrishnan.png",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/swarnalatha-radhakrishnan.jpg",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/swarnar",
                 "website": "",
                 "linkedin": "https://lk.linkedin.com/in/swarnalatha-radhakrishnan-b4557636",
@@ -2878,8 +2878,54 @@
         "page_url": "https://cepdnaclk.github.io/e17-4yp-Deep-Learning-for-Side-Channel-Attacks",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Deep-Learning-for-Side-Channel-Attacks/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-        "team": {},
-        "supervisors": {},
+        "team": {
+            "E/17/101": {
+                "name": "Gunathilaka S.P.A.U",
+                "email": "e17101@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/101",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17101.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/101/"
+            }
+        },
+        "supervisors": {
+            "damayanthiherath@eng.pdn.ac.lk": {
+                "name": "Dr. Damayanthi Herath",
+                "email": "damayanthiherath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/damayanthiherath",
+                "website": "https://damayanthiherath.wordpress.com/",
+                "linkedin": "https://www.linkedin.com/in/damayanthi-herath/",
+                "researchgate": "https://www.researchgate.net/profile/Damayanthi-Herath",
+                "google_scholar": "https://scholar.google.com/citations?user=G2jUV5IAAAAJ&hl=en"
+            },
+            "manjula.sandirigama@eng.pdn.ac.lk": {
+                "name": "Dr. Manjula Sandirigama",
+                "email": "manjula.sandirigama@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/manjula.sandirigama",
+                "website": "",
+                "linkedin": "https://lk.linkedin.com/in/manjula-sandirigama-0622784",
+                "researchgate": "",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=qpmlrL0AAAAJ"
+            },
+            "darshana.jayasinghe@gmail.com": {
+                "name": "Dr.Darshana Jayasinghe",
+                "email": "darshana.jayasinghe@gmail.com",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
         "tags": [
             "Final Year Projects"
         ]
