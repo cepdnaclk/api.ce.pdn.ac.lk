@@ -15476,6 +15476,364 @@
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E14/GPSARSA-gaussian-process-state-action-reward-state-actios-based-SITNSHOP/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg"
     },
+    "e19-co226-Auction-Website": {
+        "title": "Auction Website",
+        "description": "",
+        "category": {
+            "title": "Database Projects (CO226)",
+            "code": "co226",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Auction-Website/",
+        "repo_url": "https://github.com/cepdnaclk/e19-co226-Auction-Website",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Auction-Website/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
+    },
+    "e19-co226-Medical-Clinic-Manager": {
+        "title": "Medical Clinic Manager",
+        "description": "Lifecare WebApp is an intuitive and user-friendly medical clinic management application designed to streamline administrative tasks and enhance patient care. With Lifecare, medical professionals and staff can efficiently manage patient appointments, securely store medical records.",
+        "category": {
+            "title": "Database Projects (CO226)",
+            "code": "co226",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Medical-Clinic-Manager/",
+        "repo_url": "https://github.com/cepdnaclk/e19-co226-Medical-Clinic-Manager",
+        "page_url": "https://cepdnaclk.github.io/e19-co226-Medical-Clinic-Manager",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Medical-Clinic-Manager/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+        "team": {
+            "E/19/017": {
+                "name": "Amanda W.S.",
+                "email": "e19017@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/017",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19017.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/017/"
+            },
+            "E/19/028": {
+                "name": "Atugedara A.N.I.",
+                "email": "e19028@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/NilakshiInduwara",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/028",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19028.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/028/"
+            },
+            "E/19/163": {
+                "name": "Jayasundara J.M.E.G.",
+                "email": "e19163@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/EshanJayasundara",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/163",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19163.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/163/"
+            }
+        },
+        "supervisors": {
+            "kamalanath@eng.pdn.ac.lk": {
+                "name": "Dr. Eng. Kamalanath Samarakoon",
+                "email": "kamalanath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/kamalanath-samarakoon/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/kamalanath-samarakoon.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
+                "website": "http://kamalanath.samarakoon.info/",
+                "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
+                "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
+                "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
+            },
+            "manjula.sandirigama@eng.pdn.ac.lk": {
+                "name": "Dr. Manjula Sandirigama",
+                "email": "manjula.sandirigama@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/manjula.sandirigama",
+                "website": "",
+                "linkedin": "https://lk.linkedin.com/in/manjula-sandirigama-0622784",
+                "researchgate": "",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=qpmlrL0AAAAJ"
+            }
+        }
+    },
+    "e19-co226-Online-Learning-Platform": {
+        "title": "Online Learning Platform",
+        "description": "",
+        "category": {
+            "title": "Database Projects (CO226)",
+            "code": "co226",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Learning-Platform/",
+        "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Learning-Platform",
+        "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Learning-Platform",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Learning-Platform/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+        "team": {
+            "E/19/095": {
+                "name": "E.M.L.K. Edirisinghe",
+                "email": "e19095@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/lakshithaKaveen",
+                "linkedin": "https://www.linkedin.com/in/lakshitha-edirisinghe-128633244/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/095",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19095.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/095/"
+            },
+            "E/19/253": {
+                "name": "Narasinghe N.K.B.I.U.",
+                "email": "e19253@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/253",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19253.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/253/"
+            },
+            "E/19/306": {
+                "name": "Rajakaruna M.M.P.N.",
+                "email": "e19306@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/306",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19306.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/306/"
+            }
+        },
+        "supervisors": {
+            "kamalanath@eng.pdn.ac.lk": {
+                "name": "Dr. Eng. Kamalanath Samarakoon",
+                "email": "kamalanath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/kamalanath-samarakoon/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/kamalanath-samarakoon.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
+                "website": "http://kamalanath.samarakoon.info/",
+                "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
+                "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
+                "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
+            },
+            "manjula.sandirigama@eng.pdn.ac.lk": {
+                "name": "Dr. Manjula Sandirigama",
+                "email": "manjula.sandirigama@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/manjula.sandirigama",
+                "website": "",
+                "linkedin": "https://lk.linkedin.com/in/manjula-sandirigama-0622784",
+                "researchgate": "",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=qpmlrL0AAAAJ"
+            }
+        },
+        "tags": [
+            "DBMS"
+        ]
+    },
+    "e19-co226-Online-Shopping": {
+        "title": "Online Shopping",
+        "description": "CO226 Database Project",
+        "category": {
+            "title": "Database Projects (CO226)",
+            "code": "co226",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Shopping/",
+        "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Shopping",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Shopping/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
+    },
+    "e19-co226-database-management-system-for-a-restaurant": {
+        "title": "database management system for a restaurant",
+        "description": "A restaurant database system to simplify customer data management, enhancing service and personalization. It tracks menu inventory, staff schedules, and reservations seamlessly, revolutionizing restaurant operations. Elevate the customer experience with our comprehensive solution.",
+        "category": {
+            "title": "Database Projects (CO226)",
+            "code": "co226",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/database-management-system-for-a-restaurant/",
+        "repo_url": "https://github.com/cepdnaclk/e19-co226-database-management-system-for-a-restaurant",
+        "page_url": "https://cepdnaclk.github.io/e19-co226-database-management-system-for-a-restaurant",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/database-management-system-for-a-restaurant/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+        "team": {
+            "E/19/008": {
+                "name": "Adhikari R.A.J.C.",
+                "email": "e19008@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/chandula00",
+                "linkedin": "https://www.linkedin.com/in/janith-chandula-adhikari-5543a5223",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/008",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19008.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/008/"
+            },
+            "E/19/009": {
+                "name": "Adikari A.M.K.M.",
+                "email": "e19009@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/009",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19009.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/009/"
+            },
+            "E/19/063": {
+                "name": "Dassanayake D.M.G.S.",
+                "email": "e19063@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/063",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19063.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/063/"
+            }
+        },
+        "supervisors": {
+            "manjula.sandirigama@eng.pdn.ac.lk": {
+                "name": "Dr. Manjula Sandirigama",
+                "email": "manjula.sandirigama@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/manjula.sandirigama",
+                "website": "",
+                "linkedin": "https://lk.linkedin.com/in/manjula-sandirigama-0622784",
+                "researchgate": "",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=qpmlrL0AAAAJ"
+            }
+        }
+    },
+    "e19-co226-library-management-system": {
+        "title": "library management system",
+        "description": "",
+        "category": {
+            "title": "Database Projects (CO226)",
+            "code": "co226",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/library-management-system/",
+        "repo_url": "https://github.com/cepdnaclk/e19-co226-library-management-system",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/library-management-system/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
+    },
+    "e18-co226-Database-for-e-commerce-site": {
+        "title": "Database for e commerce site",
+        "description": "",
+        "category": {
+            "title": "Database Projects (CO226)",
+            "code": "co226",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co226/e18/Database-for-e-commerce-site/",
+        "repo_url": "https://github.com/cepdnaclk/e18-co226-Database-for-e-commerce-site",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E18/Database-for-e-commerce-site/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
+    },
+    "e18-co226-Database-for-the-University-Gym": {
+        "title": "Database for the University Gym",
+        "description": "",
+        "category": {
+            "title": "Database Projects (CO226)",
+            "code": "co226",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co226/e18/Database-for-the-University-Gym/",
+        "repo_url": "https://github.com/cepdnaclk/e18-co226-Database-for-the-University-Gym",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E18/Database-for-the-University-Gym/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
+    },
+    "e17-co226-business-to-business-database": {
+        "title": "business to business database",
+        "description": "CO226 Project - Relational Database for B2B Online Trade Community - by: @Isuri-Devindi, @KavinduJayas, @Dr-Madhushan",
+        "category": {
+            "title": "Database Projects (CO226)",
+            "code": "co226",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co226/e17/business-to-business-database/",
+        "repo_url": "https://github.com/cepdnaclk/e17-co226-business-to-business-database",
+        "page_url": "https://cepdnaclk.github.io/e17-co226-business-to-business-database",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E17/business-to-business-database/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+        "team": {
+            "E/17/194": {
+                "name": "Madhushan R.",
+                "email": "e17194@eng.pdn.ac.lk",
+                "website": "https://drmadhushan.github.io",
+                "github": "https://www.github.com/DrMadhushan",
+                "linkedin": "https://www.linkedin.com/in/madhushan-ramalingam",
+                "researchgate": "https://www.researchgate.net/profile/Madhushan-Ramalingam-2",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/194",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17194.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/194/"
+            },
+            "E/17/058": {
+                "name": "Devindi G.A.I",
+                "email": "e17058@eng.pdn.ac.lk",
+                "website": "https://isuridevindi.github.io/",
+                "github": "https://github.com/isuridevindi",
+                "linkedin": "https://linkedin.com/in/isuri-devindi-b8602a206",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/058",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17058.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/058/"
+            },
+            "E/17/134": {
+                "name": "Jayasooriya J.A.K.D",
+                "email": "e17134@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/KavinduJayas",
+                "linkedin": "https://www.linkedin.com/in/kavindu-jayasooriya/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/134",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17134.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/134/"
+            }
+        },
+        "supervisors": {
+            "sampath@eng.pdn.ac.lk": {
+                "name": "Mr. Sampath Deegalla",
+                "email": "sampath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/sampath-deegalla/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/sampath-deegalla.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/sampath",
+                "website": "https://www.sites.google.com/site/dsdeegalla/",
+                "linkedin": "https://www.linkedin.com/in/dsdeegalla",
+                "researchgate": "https://www.researchgate.net/profile/Sampath-Deegalla-2",
+                "google_scholar": "https://scholar.google.com/citations?user=QDoeGtYAAAAJ&hl=en"
+            },
+            "manjula.sandirigama@eng.pdn.ac.lk": {
+                "name": "Dr. Manjula Sandirigama",
+                "email": "manjula.sandirigama@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/manjula.sandirigama",
+                "website": "",
+                "linkedin": "https://lk.linkedin.com/in/manjula-sandirigama-0622784",
+                "researchgate": "",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=qpmlrL0AAAAJ"
+            }
+        },
+        "tags": [
+            "DBMS",
+            "MySQL"
+        ]
+    },
     "e18-co227-Augmented-Reality-Guidance-System": {
         "title": "Augmented Reality Guidance System",
         "description": "A web based Augmented Reality Guidance system for Department of Computer Engineering",
@@ -17248,288 +17606,6 @@
         "tags": [
             "Web",
             "Embedded Systems"
-        ]
-    },
-    "e18-co226-Database-for-e-commerce-site": {
-        "title": "Database for e commerce site",
-        "description": "",
-        "category": {
-            "title": "Database Projects (CO226)",
-            "code": "co226",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co226/e18/Database-for-e-commerce-site/",
-        "repo_url": "https://github.com/cepdnaclk/e18-co226-Database-for-e-commerce-site",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E18/Database-for-e-commerce-site/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
-    },
-    "e18-co226-Database-for-the-University-Gym": {
-        "title": "Database for the University Gym",
-        "description": "",
-        "category": {
-            "title": "Database Projects (CO226)",
-            "code": "co226",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co226/e18/Database-for-the-University-Gym/",
-        "repo_url": "https://github.com/cepdnaclk/e18-co226-Database-for-the-University-Gym",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E18/Database-for-the-University-Gym/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
-    },
-    "e19-co226-Medical-Clinic-Manager": {
-        "title": "Medical Clinic Manager",
-        "description": "Lifecare WebApp is an intuitive and user-friendly medical clinic management application designed to streamline administrative tasks and enhance patient care. With Lifecare, medical professionals and staff can efficiently manage patient appointments, securely store medical records.",
-        "category": {
-            "title": "Database Projects (CO226)",
-            "code": "co226",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Medical-Clinic-Manager/",
-        "repo_url": "https://github.com/cepdnaclk/e19-co226-Medical-Clinic-Manager",
-        "page_url": "https://cepdnaclk.github.io/e19-co226-Medical-Clinic-Manager",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Medical-Clinic-Manager/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-        "team": {
-            "E/19/017": {
-                "name": "Amanda W.S.",
-                "email": "e19017@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/017",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19017.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/017/"
-            },
-            "E/19/028": {
-                "name": "Atugedara A.N.I.",
-                "email": "e19028@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/NilakshiInduwara",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/028",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19028.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/028/"
-            },
-            "E/19/163": {
-                "name": "Jayasundara J.M.E.G.",
-                "email": "e19163@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/EshanJayasundara",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/163",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19163.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/163/"
-            }
-        },
-        "supervisors": {
-            "kamalanath@eng.pdn.ac.lk": {
-                "name": "Dr. Eng. Kamalanath Samarakoon",
-                "email": "kamalanath@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/kamalanath-samarakoon/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/kamalanath-samarakoon.png",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
-                "website": "http://kamalanath.samarakoon.info/",
-                "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
-                "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
-                "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
-            },
-            "manjula.sandirigama@eng.pdn.ac.lk": {
-                "name": "Dr. Manjula Sandirigama",
-                "email": "manjula.sandirigama@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/manjula.sandirigama",
-                "website": "",
-                "linkedin": "https://lk.linkedin.com/in/manjula-sandirigama-0622784",
-                "researchgate": "",
-                "google_scholar": "https://scholar.google.com/citations?hl=en&user=qpmlrL0AAAAJ"
-            }
-        }
-    },
-    "e19-co226-Online-Learning-Platform": {
-        "title": "Online Learning Platform",
-        "description": "",
-        "category": {
-            "title": "Database Projects (CO226)",
-            "code": "co226",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Learning-Platform/",
-        "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Learning-Platform",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Learning-Platform/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
-    },
-    "e19-co226-Online-Shopping": {
-        "title": "Online Shopping",
-        "description": "CO226 Database Project",
-        "category": {
-            "title": "Database Projects (CO226)",
-            "code": "co226",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Shopping/",
-        "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Shopping",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Shopping/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
-    },
-    "e19-co226-database-management-system-for-a-restaurant": {
-        "title": "database management system for a restaurant",
-        "description": "A restaurant database system to simplify customer data management, enhancing service and personalization. It tracks menu inventory, staff schedules, and reservations seamlessly, revolutionizing restaurant operations. Elevate the customer experience with our comprehensive solution.",
-        "category": {
-            "title": "Database Projects (CO226)",
-            "code": "co226",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/database-management-system-for-a-restaurant/",
-        "repo_url": "https://github.com/cepdnaclk/e19-co226-database-management-system-for-a-restaurant",
-        "page_url": "https://cepdnaclk.github.io/e19-co226-database-management-system-for-a-restaurant",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/database-management-system-for-a-restaurant/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-        "team": {
-            "E/19/008": {
-                "name": "Adhikari R.A.J.C.",
-                "email": "e19008@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/chandula00",
-                "linkedin": "https://www.linkedin.com/in/janith-chandula-adhikari-5543a5223",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/008",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19008.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/008/"
-            },
-            "E/19/009": {
-                "name": "Adikari A.M.K.M.",
-                "email": "e19009@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/009",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19009.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/009/"
-            },
-            "E/19/063": {
-                "name": "Dassanayake D.M.G.S.",
-                "email": "e19063@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/063",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19063.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/063/"
-            }
-        },
-        "supervisors": {
-            "manjula.sandirigama@eng.pdn.ac.lk": {
-                "name": "Dr. Manjula Sandirigama",
-                "email": "manjula.sandirigama@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/manjula.sandirigama",
-                "website": "",
-                "linkedin": "https://lk.linkedin.com/in/manjula-sandirigama-0622784",
-                "researchgate": "",
-                "google_scholar": "https://scholar.google.com/citations?hl=en&user=qpmlrL0AAAAJ"
-            }
-        }
-    },
-    "e19-co226-library-management-system": {
-        "title": "library management system",
-        "description": "",
-        "category": {
-            "title": "Database Projects (CO226)",
-            "code": "co226",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/library-management-system/",
-        "repo_url": "https://github.com/cepdnaclk/e19-co226-library-management-system",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/library-management-system/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
-    },
-    "e17-co226-business-to-business-database": {
-        "title": "business to business database",
-        "description": "CO226 Project - Relational Database for B2B Online Trade Community - by: @Isuri-Devindi, @KavinduJayas, @Dr-Madhushan",
-        "category": {
-            "title": "Database Projects (CO226)",
-            "code": "co226",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co226/e17/business-to-business-database/",
-        "repo_url": "https://github.com/cepdnaclk/e17-co226-business-to-business-database",
-        "page_url": "https://cepdnaclk.github.io/e17-co226-business-to-business-database",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E17/business-to-business-database/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-        "team": {
-            "E/17/194": {
-                "name": "Madhushan R.",
-                "email": "e17194@eng.pdn.ac.lk",
-                "website": "https://drmadhushan.github.io",
-                "github": "https://www.github.com/DrMadhushan",
-                "linkedin": "https://www.linkedin.com/in/madhushan-ramalingam",
-                "researchgate": "https://www.researchgate.net/profile/Madhushan-Ramalingam-2",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/194",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17194.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/194/"
-            },
-            "E/17/058": {
-                "name": "Devindi G.A.I",
-                "email": "e17058@eng.pdn.ac.lk",
-                "website": "https://isuridevindi.github.io/",
-                "github": "https://github.com/isuridevindi",
-                "linkedin": "https://linkedin.com/in/isuri-devindi-b8602a206",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/058",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17058.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/058/"
-            },
-            "E/17/134": {
-                "name": "Jayasooriya J.A.K.D",
-                "email": "e17134@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/KavinduJayas",
-                "linkedin": "https://www.linkedin.com/in/kavindu-jayasooriya/",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/134",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17134.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/134/"
-            }
-        },
-        "supervisors": {
-            "sampath@eng.pdn.ac.lk": {
-                "name": "Mr. Sampath Deegalla",
-                "email": "sampath@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/sampath-deegalla/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/sampath-deegalla.jpg",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/sampath",
-                "website": "https://www.sites.google.com/site/dsdeegalla/",
-                "linkedin": "https://www.linkedin.com/in/dsdeegalla",
-                "researchgate": "https://www.researchgate.net/profile/Sampath-Deegalla-2",
-                "google_scholar": "https://scholar.google.com/citations?user=QDoeGtYAAAAJ&hl=en"
-            },
-            "manjula.sandirigama@eng.pdn.ac.lk": {
-                "name": "Dr. Manjula Sandirigama",
-                "email": "manjula.sandirigama@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/manjula.sandirigama",
-                "website": "",
-                "linkedin": "https://lk.linkedin.com/in/manjula-sandirigama-0622784",
-                "researchgate": "",
-                "google_scholar": "https://scholar.google.com/citations?hl=en&user=qpmlrL0AAAAJ"
-            }
-        },
-        "tags": [
-            "DBMS",
-            "MySQL"
         ]
     },
     "e16-co502-RISCV-Pipeline-CPU-Implimentation-Group2": {
