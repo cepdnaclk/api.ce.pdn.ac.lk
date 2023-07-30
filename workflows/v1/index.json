@@ -84,6 +84,18 @@
         "status": "PASS"
     },
     {
+        "id": 16425390,
+        "repository": "people.ce.pdn.ac.lk",
+        "name": "pages-build-deployment",
+        "state": "active",
+        "urls": {
+            "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/16425390",
+            "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/dynamic/pages/pages-build-deployment",
+            "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/pages/pages-build-deployment/badge.svg"
+        },
+        "status": "PASS"
+    },
+    {
         "id": 26613810,
         "repository": "people.ce.pdn.ac.lk",
         "name": "Update Profile Details",
@@ -92,54 +104,6 @@
             "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/26613810",
             "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/.github/workflows/daily.yml",
             "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/workflows/Update%20Profile%20Details/badge.svg"
-        },
-        "status": "PASS"
-    },
-    {
-        "id": 30402070,
-        "repository": "people.ce.pdn.ac.lk",
-        "name": "Resize images",
-        "state": "active",
-        "urls": {
-            "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/30402070",
-            "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/.github/workflows/image_resize.yml",
-            "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/workflows/Resize%20images/badge.svg"
-        },
-        "status": "PASS"
-    },
-    {
-        "id": 35371764,
-        "repository": "people.ce.pdn.ac.lk",
-        "name": "Deploy Jekyll site to Pages",
-        "state": "active",
-        "urls": {
-            "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/35371764",
-            "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/.github/workflows/pages.yml",
-            "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/workflows/Deploy%20Jekyll%20site%20to%20Pages/badge.svg"
-        },
-        "status": "PASS"
-    },
-    {
-        "id": 32060994,
-        "repository": "people.ce.pdn.ac.lk",
-        "name": "Set Student page titles",
-        "state": "active",
-        "urls": {
-            "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/32060994",
-            "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/.github/workflows/set_student_page_titles.yml",
-            "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/workflows/Set%20Student%20page%20titles/badge.svg"
-        },
-        "status": "NO STATUS"
-    },
-    {
-        "id": 32238210,
-        "repository": "people.ce.pdn.ac.lk",
-        "name": "Python Tests",
-        "state": "active",
-        "urls": {
-            "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/32238210",
-            "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/.github/workflows/test.yml",
-            "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/workflows/Python%20Tests/badge.svg"
         },
         "status": "PASS"
     },
@@ -156,6 +120,42 @@
         "status": "PASS"
     },
     {
+        "id": 30402070,
+        "repository": "people.ce.pdn.ac.lk",
+        "name": "Resize images",
+        "state": "active",
+        "urls": {
+            "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/30402070",
+            "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/.github/workflows/image_resize.yml",
+            "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/workflows/Resize%20images/badge.svg"
+        },
+        "status": "PASS"
+    },
+    {
+        "id": 32238210,
+        "repository": "people.ce.pdn.ac.lk",
+        "name": "Python Tests",
+        "state": "active",
+        "urls": {
+            "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/32238210",
+            "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/.github/workflows/test.yml",
+            "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/workflows/Python%20Tests/badge.svg"
+        },
+        "status": "PASS"
+    },
+    {
+        "id": 35371764,
+        "repository": "people.ce.pdn.ac.lk",
+        "name": "Deploy Jekyll site to Pages",
+        "state": "active",
+        "urls": {
+            "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/35371764",
+            "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/.github/workflows/pages.yml",
+            "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/workflows/Deploy%20Jekyll%20site%20to%20Pages/badge.svg"
+        },
+        "status": "PASS"
+    },
+    {
         "id": 64395976,
         "repository": "people.ce.pdn.ac.lk",
         "name": "Weekly Updates",
@@ -164,18 +164,6 @@
             "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/64395976",
             "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/.github/workflows/weekly.yml",
             "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/workflows/Weekly%20Updates/badge.svg"
-        },
-        "status": "PASS"
-    },
-    {
-        "id": 16425390,
-        "repository": "people.ce.pdn.ac.lk",
-        "name": "pages-build-deployment",
-        "state": "active",
-        "urls": {
-            "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/16425390",
-            "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/dynamic/pages/pages-build-deployment",
-            "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/pages/pages-build-deployment/badge.svg"
         },
         "status": "PASS"
     },
