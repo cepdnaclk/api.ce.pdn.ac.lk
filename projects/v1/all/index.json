@@ -15715,6 +15715,22 @@
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Shopping/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
     },
+    "e19-co226-Warehouse-Management-System": {
+        "title": "Warehouse Management System",
+        "description": "A Database System to manage a warehouse/inventory.",
+        "category": {
+            "title": "Database Projects (CO226)",
+            "code": "co226",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Warehouse-Management-System/",
+        "repo_url": "https://github.com/cepdnaclk/e19-co226-Warehouse-Management-System",
+        "page_url": "https://cepdnaclk.github.io/e19-co226-Warehouse-Management-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Warehouse-Management-System/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+        "team": {},
+        "supervisors": {}
+    },
     "e19-co226-database-for-a-social-media-site": {
         "title": "database for a social media site",
         "description": "CO226 project 2023",
@@ -17858,18 +17874,25 @@
                 "researchgate": "https://www.researchgate.net/profile/Mahanama-Wickramsinghe",
                 "google_scholar": "https://scholar.google.com/citations?hl=en&user=kuoZpZEAAAAJ"
             },
-            "adikari.nadeesha@gmail.com": {
-                "name": "Ms. Nadeesha Adikari",
-                "email": "adikari.nadeesha@gmail.com",
-                "profile_url": "#",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
-                "api_url": "#",
-                "website": "#",
-                "linkedin": "#",
-                "researchgate": "#",
-                "google_scholar": "#"
+            "nadeeshaa@eng.pdn.ac.lk": {
+                "name": "Mrs. Nadeesha Adikari",
+                "email": "nadeeshaa@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/nadeesha-adikari/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/nadeesha-adikari.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/nadeeshaa",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/nadeesha-adikari-48864961/",
+                "researchgate": "https://www.researchgate.net/profile/Nadeesha-Adikari",
+                "google_scholar": ""
             }
-        }
+        },
+        "tags": [
+            "SpringBoot",
+            "React",
+            "MySQL",
+            "JWT",
+            "Swagger"
+        ]
     },
     "e19-co225-Department-Space-Management-System-Mobile-App": {
         "title": "Department Space Management System Mobile App",
@@ -17958,6 +17981,90 @@
             "co225",
             "mobile"
         ]
+    },
+    "e19-co225-Department-Space-Management-System-Web-Application": {
+        "title": "Department Space Management System Web Application",
+        "description": "Efficiently manage reservations in shared spaces such as labs, lecture rooms, conference rooms, etc. Unorganized reservations result in conflicts, multiple bookings, and difficulty tracking reservations. The unavailability of a responsible person to have administrative privileges over the booking may result in unauthorized changes and cancellations",
+        "category": {
+            "title": "Software Constructions Projects (CO225)",
+            "code": "co225",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Department-Space-Management-System-Web-Application/",
+        "repo_url": "https://github.com/cepdnaclk/e19-co225-Department-Space-Management-System-Web-Application",
+        "page_url": "https://cepdnaclk.github.io/e19-co225-Department-Space-Management-System-Web-Application",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Department-Space-Management-System-Web-Application/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+        "team": {
+            "E/19/094": {
+                "name": "Mansitha Eashwara",
+                "email": "e19094@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/094",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19094.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/094/"
+            },
+            "E/19/129": {
+                "name": "Kanishka Gunawardana",
+                "email": "e19129@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/129",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19129.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/129/"
+            },
+            "E/19/372": {
+                "name": "Kaushitha Silva",
+                "email": "e19372@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "https://www.linkedin.com/in/kaushitha-silva/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/372",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19372.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/372/"
+            },
+            "E/19/408": {
+                "name": "Sanduni Ubayasiri",
+                "email": "e19408@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/408",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19408.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/408/"
+            }
+        },
+        "supervisors": {
+            "mahanamaw@eng.pdn.ac.lk": {
+                "name": "Dr. Mahanama Wickramasinghe",
+                "email": "mahanamaw@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/mahanama-wickramasinghe/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/mahanama-wickramasinghe.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/mahanamaw",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/mahanama",
+                "researchgate": "https://www.researchgate.net/profile/Mahanama-Wickramsinghe",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=kuoZpZEAAAAJ"
+            },
+            "adikari.nadeesha@gmail.com": {
+                "name": "Ms. Nadeesha Adikari",
+                "email": "adikari.nadeesha@gmail.com",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        }
     },
     "e19-co225-In-Patient-Management-System-For-a-Hospital": {
         "title": "In Patient Management System For a Hospital",
@@ -18213,7 +18320,114 @@
         "repo_url": "https://github.com/cepdnaclk/e19-co225-Library-Management-System",
         "page_url": "https://cepdnaclk.github.io/e19-co225-Library-Management-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+        "team": {
+            "E/19/413": {
+                "name": "Viduranga G.G.N.",
+                "email": "e19413@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/413",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19413.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/413/"
+            },
+            "E/19/170": {
+                "name": "Jayawardhana K.N.N.",
+                "email": "e19170@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/170",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19170.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/170/"
+            },
+            "E/19/349": {
+                "name": "Sandaruwan K.G.S.T.",
+                "email": "e19349@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/349",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19349.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/349/"
+            },
+            "E/19/100": {
+                "name": "Ellewela E.P.S.G.",
+                "email": "e19100@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/100",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19100.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/100/"
+            },
+            "E/19/133": {
+                "name": "Harishanth A.",
+                "email": "e19133@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/Arul-Hari",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/133",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19133.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/133/"
+            },
+            "E/19/137": {
+                "name": "Hayanan T.",
+                "email": "e19137@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/137",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19137.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/137/"
+            },
+            "E/19/371": {
+                "name": "Shantosh M.",
+                "email": "e19371@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/shantosh-m",
+                "linkedin": "https://w",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/371",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19371.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/371/"
+            },
+            "E/19/091": {
+                "name": "Dissanayake P.A.M.",
+                "email": "e19091@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/091",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19091.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/091/"
+            }
+        },
+        "supervisors": {
+            "nadeeshaa@eng.pdn.ac.lk": {
+                "name": "Mrs. Nadeesha Adikari",
+                "email": "nadeeshaa@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/nadeesha-adikari/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/nadeesha-adikari.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/nadeeshaa",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/nadeesha-adikari-48864961/",
+                "researchgate": "https://www.researchgate.net/profile/Nadeesha-Adikari",
+                "google_scholar": ""
+            }
+        },
+        "tags": [
+            "co225",
+            "mobile"
+        ]
     },
     "e19-co225-Mobile-app-for-Inpatient-Management-System": {
         "title": "Mobile app for Inpatient Management System",
@@ -18388,90 +18602,6 @@
         "page_url": "https://cepdnaclk.github.io/e19-co225-school-attendance-management-system",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/school-attendance-management-system/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg"
-    },
-    "e19-co225-sharedspaces": {
-        "title": "sharedspaces",
-        "description": "Efficiently manage reservations in shared spaces such as labs, lecture rooms, conference rooms, etc. Unorganized reservations result in conflicts, multiple bookings, and difficulty tracking reservations. The unavailability of a responsible person to have administrative privileges over the booking may result in unauthorized changes and cancellations",
-        "category": {
-            "title": "Software Constructions Projects (CO225)",
-            "code": "co225",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/sharedspaces/",
-        "repo_url": "https://github.com/cepdnaclk/e19-co225-sharedspaces",
-        "page_url": "https://cepdnaclk.github.io/e19-co225-sharedspaces",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/sharedspaces/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
-        "team": {
-            "E/19/094": {
-                "name": "Mansitha Eashwara",
-                "email": "e19094@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/094",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19094.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/094/"
-            },
-            "E/19/129": {
-                "name": "Kanishka Gunawardana",
-                "email": "e19129@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/129",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19129.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/129/"
-            },
-            "E/19/372": {
-                "name": "Kaushitha Silva",
-                "email": "e19372@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "https://www.linkedin.com/in/kaushitha-silva/",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/372",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19372.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/372/"
-            },
-            "E/19/408": {
-                "name": "Sanduni Ubayasiri",
-                "email": "e19408@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/408",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19408.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/408/"
-            }
-        },
-        "supervisors": {
-            "mahanamaw@eng.pdn.ac.lk": {
-                "name": "Dr. Mahanama Wickramasinghe",
-                "email": "mahanamaw@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/mahanama-wickramasinghe/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/mahanama-wickramasinghe.jpg",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/mahanamaw",
-                "website": "",
-                "linkedin": "https://www.linkedin.com/in/mahanama",
-                "researchgate": "https://www.researchgate.net/profile/Mahanama-Wickramsinghe",
-                "google_scholar": "https://scholar.google.com/citations?hl=en&user=kuoZpZEAAAAJ"
-            },
-            "adikari.nadeesha@gmail.com": {
-                "name": "Ms. Nadeesha Adikari",
-                "email": "adikari.nadeesha@gmail.com",
-                "profile_url": "#",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
-                "api_url": "#",
-                "website": "#",
-                "linkedin": "#",
-                "researchgate": "#",
-                "google_scholar": "#"
-            }
-        }
     },
     "e19-co225-student-results-management-system-webapp": {
         "title": "student results management system webapp",
