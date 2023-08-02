@@ -15490,9 +15490,23 @@
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Auction-Website/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
     },
+    "e19-co226-Database-Management-System-for-a-Library": {
+        "title": "Database Management System for a Library",
+        "description": "",
+        "category": {
+            "title": "Database Projects (CO226)",
+            "code": "co226",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Database-Management-System-for-a-Library/",
+        "repo_url": "https://github.com/cepdnaclk/e19-co226-Database-Management-System-for-a-Library",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-Management-System-for-a-Library/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
+    },
     "e19-co226-Database-for-Cricket-Statistics": {
         "title": "Database for Cricket Statistics",
-        "description": "CO226 Project - Database for Cricket Statistics",
+        "description": "The purpose of this database is to store, manage and retrieve information about cricket matches, players, and stats. This can be useful for cricket enthusiasts, fans, coaches, and analysts who want to study and analyze the sport in greater depth.",
         "category": {
             "title": "Database Projects (CO226)",
             "code": "co226",
@@ -15627,7 +15641,7 @@
     },
     "e19-co226-Online-Learning-Platform": {
         "title": "Online Learning Platform",
-        "description": "",
+        "description": "LearnEdge is an innovative Online Learning Platform, empowering learners worldwide and connecting educational institutions globally.",
         "category": {
             "title": "Database Projects (CO226)",
             "code": "co226",
@@ -15733,7 +15747,7 @@
     },
     "e19-co226-database-for-a-social-media-site": {
         "title": "database for a social media site",
-        "description": "CO226 project 2023",
+        "description": "A social media site that aims to connect people and foster meaningful connections in the digital world. #CO226project #2023",
         "category": {
             "title": "Database Projects (CO226)",
             "code": "co226",
@@ -18439,9 +18453,116 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Mobile-app-for-Inpatient-Management-System/",
         "repo_url": "https://github.com/cepdnaclk/e19-co225-Mobile-app-for-Inpatient-Management-System",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e19-co225-Mobile-app-for-Inpatient-Management-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Mobile-app-for-Inpatient-Management-System/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+        "team": {
+            "E/19/034": {
+                "name": "Kavindu Bambaragama",
+                "email": "e19034@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/034",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19034.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/034/"
+            },
+            "E/19/226": {
+                "name": "Mahesha Madhushanka",
+                "email": "e19226@eng.pdn.ac.lk",
+                "website": "https://www.fiverr.com/share/z3WXDz",
+                "github": "https://github.com/Madhushanka00",
+                "linkedin": "https://www.linkedin.com/in/mahesha-madhushanka-5a96b61a1/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/226",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19226.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/226/"
+            },
+            "E/19/426": {
+                "name": "Pubudu Weerasinghe",
+                "email": "e19426@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/426",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19426.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/426/"
+            },
+            "E/19/310": {
+                "name": "Pasindu Ranage",
+                "email": "e19310@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/310",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19310.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/310/"
+            },
+            "E/19/432": {
+                "name": "Uthsara Wickramaarachchi",
+                "email": "e19432@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/432",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19432.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/432/"
+            },
+            "E/19/167": {
+                "name": "Sathya Jayawardena",
+                "email": "e19167@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/167",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19167.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/167/"
+            },
+            "E/19/006": {
+                "name": "Dhinushika Abrew",
+                "email": "e19006@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/DhinushikaAbrew",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/006",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19006.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/006/"
+            },
+            "E/19/028": {
+                "name": "Nilakshi Atugedara",
+                "email": "e19028@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/NilakshiInduwara",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/028",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19028.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/028/"
+            }
+        },
+        "supervisors": {
+            "nadeeshaa@eng.pdn.ac.lk": {
+                "name": "Mrs. Nadeesha Adikari",
+                "email": "nadeeshaa@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/nadeesha-adikari/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/nadeesha-adikari.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/nadeeshaa",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/nadeesha-adikari-48864961/",
+                "researchgate": "https://www.researchgate.net/profile/Nadeesha-Adikari",
+                "google_scholar": ""
+            }
+        },
+        "tags": [
+            "co225",
+            "mobile"
+        ]
     },
     "e19-co225-School-Attendance-Management-System-Mobile-Application": {
         "title": "School Attendance Management System Mobile Application",
@@ -18605,7 +18726,7 @@
     },
     "e19-co225-student-results-management-system-webapp": {
         "title": "student results management system webapp",
-        "description": "Project 01 & Project 02 : Web Application",
+        "description": "Academetrix is a powerful web application designed to manage and analyze undergraduate students' marks. It provides a comprehensive set of features to streamline the result management process and empower students and administrators.",
         "category": {
             "title": "Software Constructions Projects (CO225)",
             "code": "co225",
