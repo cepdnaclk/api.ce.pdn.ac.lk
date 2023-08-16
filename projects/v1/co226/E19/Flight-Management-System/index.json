@@ -8,7 +8,73 @@
     },
     "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Flight-Management-System/",
     "repo_url": "https://github.com/cepdnaclk/e19-co226-Flight-Management-System",
-    "page_url": "#",
+    "page_url": "https://cepdnaclk.github.io/e19-co226-Flight-Management-System",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Flight-Management-System/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+    "team": {
+        "E/19/426": {
+            "name": "Weerasinghe P.M.",
+            "email": "e19426@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/426",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19426.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/426/"
+        },
+        "E/19/310": {
+            "name": "Ranage R.D.P.R.",
+            "email": "e19310@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/310",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19310.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/310/"
+        },
+        "E/19/453": {
+            "name": "Withanaarachchi W.A.A.M.T.",
+            "email": "e19453@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/AkashMuthumal",
+            "linkedin": "https://www.linkedin.com/in/akash-withanaarachchi-185006245",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/453",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19453.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/453/"
+        }
+    },
+    "supervisors": {
+        "manjula.sandirigama@eng.pdn.ac.lk": {
+            "name": "Dr. Manjula Sandirigama",
+            "email": "manjula.sandirigama@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/manjula.sandirigama",
+            "website": "",
+            "linkedin": "https://lk.linkedin.com/in/manjula-sandirigama-0622784",
+            "researchgate": "",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=qpmlrL0AAAAJ"
+        },
+        "kamalanath@eng.pdn.ac.lk": {
+            "name": "Dr. Eng. Kamalanath Samarakoon",
+            "email": "kamalanath@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/kamalanath-samarakoon/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/kamalanath-samarakoon.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
+            "website": "http://kamalanath.samarakoon.info/",
+            "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
+            "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
+            "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
+        }
+    },
+    "tags": [
+        "Web",
+        "HTML",
+        "CSS",
+        "PHP",
+        "Flight Management"
+    ]
 }

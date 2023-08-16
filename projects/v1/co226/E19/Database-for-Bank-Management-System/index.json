@@ -24,7 +24,7 @@
             "profile_url": "https://people.ce.pdn.ac.lk/students/e19/366/"
         },
         "E/18/059": {
-            "name": "De Silva D.M>",
+            "name": "De Silva D.M",
             "email": "e18059@eng.pdn.ac.lk",
             "website": "",
             "github": "",
@@ -33,7 +33,35 @@
             "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/059",
             "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18059.jpg",
             "profile_url": "https://people.ce.pdn.ac.lk/students/e18/059/"
+        },
+        "E/19/074": {
+            "name": "Dharmarathne B.A.M.I.E.",
+            "email": "e19074@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/074",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19074.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/074/"
         }
     },
-    "supervisors": {}
+    "supervisors": {
+        "manjula.sandirigama@eng.pdn.ac.lk": {
+            "name": "Dr. Manjula Sandirigama",
+            "email": "manjula.sandirigama@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/manjula.sandirigama",
+            "website": "",
+            "linkedin": "https://lk.linkedin.com/in/manjula-sandirigama-0622784",
+            "researchgate": "",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=qpmlrL0AAAAJ"
+        }
+    },
+    "tags": [
+        "DBMS",
+        "MySQL",
+        "E19"
+    ]
 }
