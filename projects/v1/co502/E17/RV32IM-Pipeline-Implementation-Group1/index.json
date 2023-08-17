@@ -1,0 +1,77 @@
+{
+    "title": "RV32IM Pipeline Implementation Group1",
+    "description": "An in-order 5-stage pipelined RISC-V CPU implementation consisting of the RV32I base ISA and the M-extension for multiplication/division operations.",
+    "category": {
+        "title": "Advanced Computer Architecture (CO502)",
+        "code": "co502",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/co502/e17/RV32IM-Pipeline-Implementation-Group1/",
+    "repo_url": "https://github.com/cepdnaclk/e17-co502-RV32IM-Pipeline-Implementation-Group1",
+    "page_url": "https://cepdnaclk.github.io/e17-co502-RV32IM-Pipeline-Implementation-Group1",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E17/RV32IM-Pipeline-Implementation-Group1/",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+    "team": {
+        "E/17/018": {
+            "name": "Imesh Balasuriya",
+            "email": "e17018@eng.pdn.ac.lk",
+            "website": "https://www.imesh.tech",
+            "github": "https://github.com/ImeshBalasuriya/",
+            "linkedin": "https://www.linkedin.com/in/imesh-balasuriya/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/018",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17018.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/018/"
+        },
+        "E/17/091": {
+            "name": "Adithya Gallage",
+            "email": "e17091@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/091",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17091.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/091/"
+        },
+        "E/17/296": {
+            "name": "Ravisha Rupasinghe",
+            "email": "e17296@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/296",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17296.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/296/"
+        },
+        "E/17/342": {
+            "name": "Tharmapalan Thanujan",
+            "email": "e17342@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/342",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17342.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/342/"
+        }
+    },
+    "supervisors": {
+        "isurunawinne@eng.pdn.ac.lk": {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+            "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+        }
+    },
+    "tags": [
+        "RISC-V",
+        "Computer Architecture"
+    ]
+}
