@@ -8,7 +8,66 @@
     },
     "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/digital-signage-content-management-system/",
     "repo_url": "https://github.com/cepdnaclk/e19-co227-digital-signage-content-management-system",
-    "page_url": "#",
+    "page_url": "https://cepdnaclk.github.io/e19-co227-digital-signage-content-management-system",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/digital-signage-content-management-system/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+    "team": {
+        "E/19/090": {
+            "name": "Dissanayake D.M.I.G.",
+            "email": "e19090@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/090",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19090.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/090/"
+        },
+        "E/19/309": {
+            "name": "Rambukwella H.M.W.K.G.",
+            "email": "e19309@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Kavishkagaya",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/309",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19309.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/309/"
+        },
+        "E/19/436": {
+            "name": "Wickramasingha G.T.G.",
+            "email": "e19436@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/436",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19436.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/436/"
+        },
+        "E/19/446": {
+            "name": "Wijerathna I.M.K.D.I.",
+            "email": "e19446@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/446",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19446.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/446/"
+        }
+    },
+    "supervisors": {
+        "upuljm@eng.pdn.ac.lk": {
+            "name": "Dr. Upul Jayasinghe",
+            "email": "upuljm@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/upuljm",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/upuljm/",
+            "researchgate": "https://www.researchgate.net/profile/Upul-Jayasinghe",
+            "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
+        }
+    }
 }

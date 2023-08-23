@@ -8,7 +8,55 @@
     },
     "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Faculty-Management-System/",
     "repo_url": "https://github.com/cepdnaclk/e19-co226-Faculty-Management-System",
-    "page_url": "#",
+    "page_url": "https://cepdnaclk.github.io/e19-co226-Faculty-Management-System",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Faculty-Management-System/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+    "team": {
+        "E/19/492": {
+            "name": "Somawansha M.V.N.L.",
+            "email": "e19492@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Nuwantha919",
+            "linkedin": "https://www.linkedin.com/in/nuwantha-lakshan-132153212/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/492",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19492.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/492/"
+        },
+        "E/19/452": {
+            "name": "Wimalasiri P.M.A.C.",
+            "email": "e19452@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Ashan-Wimalasiri",
+            "linkedin": "https://www.linkedin.com/in/ashan-wimalasiri-23ba0024a/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/452",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19452.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/452/"
+        },
+        "E/19/278": {
+            "name": "Perera A.P.T.T.",
+            "email": "e19278@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Tharudi-Perera",
+            "linkedin": "https://www.linkedin.com/in/tharudi-perera-90a79527a",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/278",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19278.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/278/"
+        }
+    },
+    "supervisors": {
+        "manjula.sandirigama@eng.pdn.ac.lk": {
+            "name": "Dr. Manjula Sandirigama",
+            "email": "manjula.sandirigama@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/manjula.sandirigama",
+            "website": "",
+            "linkedin": "https://lk.linkedin.com/in/manjula-sandirigama-0622784",
+            "researchgate": "",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=qpmlrL0AAAAJ"
+        }
+    }
 }

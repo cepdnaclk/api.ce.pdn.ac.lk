@@ -220,6 +220,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/online-proctoring-system/"
         }
     ],
+    "Arduino": [
+        {
+            "title": "Remote Controlled PLC Training Kit",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Remote-Controlled-PLC-Training-Kit/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Remote-Controlled-PLC-Training-Kit",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Remote-Controlled-PLC-Training-Kit",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Remote-Controlled-PLC-Training-Kit/"
+        }
+    ],
     "Artificial Intelligence": [
         {
             "title": "using machine learning in high stake settings",
@@ -1015,6 +1030,21 @@
             "page_url": "https://cepdnaclk.github.io/e17-6sp-NGS-Data-AnalysingToolkit",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/NGS-Data-AnalysingToolkit/"
+        }
+    ],
+    "Database Design": [
+        {
+            "title": "agriculture management system",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/agriculture-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-agriculture-management-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-agriculture-management-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/agriculture-management-system/"
         }
     ],
     "Deep learning": [
@@ -2321,6 +2351,19 @@
             "page_url": "https://cepdnaclk.github.io/e16-4yp-neuromorphic-architecture",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/neuromorphic-architecture/"
+        },
+        {
+            "title": "Developing image capturing and analysing system using FPGA",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Developing-image-capturing-and-analysing-system-using-FPGA/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Developing-image-capturing-and-analysing-system-using-FPGA",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Developing-image-capturing-and-analysing-system-using-FPGA",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Developing-image-capturing-and-analysing-system-using-FPGA/"
         }
     ],
     "FXML": [
@@ -3114,21 +3157,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E14/ipb/"
         }
     ],
-    "Github": [
-        {
-            "title": "practice",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/practice/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co227-practice",
-            "page_url": "https://cepdnaclk.github.io/e19-co227-practice",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/practice/"
-        }
-    ],
     "Green House Automation": [
         {
             "title": "Digital Twin",
@@ -3290,6 +3318,19 @@
             "page_url": "https://cepdnaclk.github.io/e16-3yp-obstacle-bots-for-swarm-robots",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/obstacle-bots-for-swarm-robots/"
+        },
+        {
+            "title": "Developing image capturing and analysing system using FPGA",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Developing-image-capturing-and-analysing-system-using-FPGA/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Developing-image-capturing-and-analysing-system-using-FPGA",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Developing-image-capturing-and-analysing-system-using-FPGA",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Developing-image-capturing-and-analysing-system-using-FPGA/"
         }
     ],
     "Industrial Networks": [
@@ -4739,6 +4780,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/online-proctoring-system/"
         }
     ],
+    "Online Retail System": [
+        {
+            "title": "Online Retail System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Online-Retail-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Online-Retail-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Online-Retail-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Online-Retail-System/"
+        }
+    ],
     "Online Store": [
         {
             "title": "E Commerce Website",
@@ -4913,6 +4969,21 @@
             "page_url": "https://cepdnaclk.github.io/e19-co226-Flight-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Flight-Management-System/"
+        }
+    ],
+    "PLC": [
+        {
+            "title": "Remote Controlled PLC Training Kit",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Remote-Controlled-PLC-Training-Kit/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Remote-Controlled-PLC-Training-Kit",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Remote-Controlled-PLC-Training-Kit",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Remote-Controlled-PLC-Training-Kit/"
         }
     ],
     "Payment System": [
@@ -5665,21 +5736,6 @@
             "page_url": "https://cepdnaclk.github.io/e18-6sp-ML-For-Structural-Health-Monitoring",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-For-Structural-Health-Monitoring/"
-        }
-    ],
-    "Test": [
-        {
-            "title": "practice",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/practice/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co227-practice",
-            "page_url": "https://cepdnaclk.github.io/e19-co227-practice",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/practice/"
         }
     ],
     "Text Mining": [
@@ -7591,6 +7647,36 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-In-Patient-Management-System-For-a-Hospital",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/In-Patient-Management-System-For-a-Hospital/"
+        }
+    ],
+    "co226": [
+        {
+            "title": "agriculture management system",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/agriculture-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-agriculture-management-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-agriculture-management-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/agriculture-management-system/"
+        }
+    ],
+    "co227": [
+        {
+            "title": "Developing image capturing and analysing system using FPGA",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Developing-image-capturing-and-analysing-system-using-FPGA/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Developing-image-capturing-and-analysing-system-using-FPGA",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Developing-image-capturing-and-analysing-system-using-FPGA",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Developing-image-capturing-and-analysing-system-using-FPGA/"
         }
     ],
     "compilers": [

@@ -8,7 +8,66 @@
     },
     "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/aiesec-local-committee-manangement-system/",
     "repo_url": "https://github.com/cepdnaclk/e19-co226-aiesec-local-committee-manangement-system",
-    "page_url": "#",
+    "page_url": "https://cepdnaclk.github.io/e19-co226-aiesec-local-committee-manangement-system",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/aiesec-local-committee-manangement-system/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+    "team": {
+        "E/19/275": {
+            "name": "Peeris M.S.",
+            "email": "e19275@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/sanka-p",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/275",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19275.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/275/"
+        },
+        "E/18/059": {
+            "name": "De Silva D.M.",
+            "email": "e18059@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/059",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18059.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/059/"
+        },
+        "E/19/366": {
+            "name": "Senevirathne W.A.M.P.",
+            "email": "e19366@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/366",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19366.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/366/"
+        },
+        "E/19/029": {
+            "name": "Avinash K.T.D.",
+            "email": "e19029@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/dinuka-avinash",
+            "linkedin": "https://www.linkedin.com/in/dinuka-avinash-228626202/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/029",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19029.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/029/"
+        }
+    },
+    "supervisors": {
+        "roshanr@eng.pdn.ac.lk": {
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/roshanr",
+            "website": "http://roshan.ragel.net/",
+            "linkedin": "https://www.linkedin.com/in/roshanragel/",
+            "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
+            "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
+        }
+    }
 }
