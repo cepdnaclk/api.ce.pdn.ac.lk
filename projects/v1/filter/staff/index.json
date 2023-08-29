@@ -2548,6 +2548,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/waiterbot-system/"
         },
         {
+            "title": "ESCAL Reservations and Borrowing",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/ESCAL-Reservations-and-Borrowing/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-ESCAL-Reservations-and-Borrowing",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-ESCAL-Reservations-and-Borrowing",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ESCAL-Reservations-and-Borrowing/"
+        },
+        {
             "title": "digital reporting of technical visits",
             "category": {
                 "code": "co227",
@@ -2754,6 +2767,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-co502-RV32IM-Pipeline-Implementation-Group1",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E17/RV32IM-Pipeline-Implementation-Group1/"
+        },
+        {
+            "title": "RV32IM Pipeline Implementation_Group2",
+            "category": {
+                "code": "co502",
+                "title": "Advanced Computer Architecture (CO502)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co502/e17/RV32IM-Pipeline-Implementation_Group2/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co502-RV32IM-Pipeline-Implementation_Group2",
+            "page_url": "https://cepdnaclk.github.io/e17-co502-RV32IM-Pipeline-Implementation_Group2",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E17/RV32IM-Pipeline-Implementation_Group2/"
         }
     ],
     "kalaniu@eng.pdn.ac.lk": [
@@ -4559,17 +4585,17 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/swarm-intelligence-programming-framework/"
         },
         {
-            "title": "Dental faculty management system",
+            "title": "Dental patient management system",
             "category": {
                 "code": "co227",
                 "title": "Software Systems Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Dental-faculty-management-system/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co227-Dental-faculty-management-system",
-            "page_url": "https://cepdnaclk.github.io/e19-co227-Dental-faculty-management-system",
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Dental-patient-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Dental-patient-management-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Dental-patient-management-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Dental-faculty-management-system/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Dental-patient-management-system/"
         },
         {
             "title": "Augmented Reality Guidance System",

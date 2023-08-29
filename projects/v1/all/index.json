@@ -14544,22 +14544,22 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Crop-Modelling-Tool-For-SriLanka/",
         "repo_url": "https://github.com/cepdnaclk/e19-co227-Crop-Modelling-Tool-For-SriLanka",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e19-co227-Crop-Modelling-Tool-For-SriLanka",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Crop-Modelling-Tool-For-SriLanka/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
     },
-    "e19-co227-Dental-faculty-management-system": {
-        "title": "Dental faculty management system",
+    "e19-co227-Dental-patient-management-system": {
+        "title": "Dental patient management system",
         "description": "This is a dental faculty patient management system.",
         "category": {
             "title": "Software Systems Projects",
             "code": "co227",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Dental-faculty-management-system/",
-        "repo_url": "https://github.com/cepdnaclk/e19-co227-Dental-faculty-management-system",
-        "page_url": "https://cepdnaclk.github.io/e19-co227-Dental-faculty-management-system",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Dental-faculty-management-system/",
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Dental-patient-management-system/",
+        "repo_url": "https://github.com/cepdnaclk/e19-co227-Dental-patient-management-system",
+        "page_url": "https://cepdnaclk.github.io/e19-co227-Dental-patient-management-system",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Dental-patient-management-system/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
         "team": {
             "E/19/304": {
@@ -14690,9 +14690,72 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/ESCAL-Reservations-and-Borrowing/",
         "repo_url": "https://github.com/cepdnaclk/e19-co227-ESCAL-Reservations-and-Borrowing",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e19-co227-ESCAL-Reservations-and-Borrowing",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ESCAL-Reservations-and-Borrowing/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+        "team": {
+            "E/19/240": {
+                "name": "Mendis B.M.S.",
+                "email": "e19240@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/Shenal-M",
+                "linkedin": "https://www.linkedin.com/in/shenal-mendis-bb30201a2/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/240",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19240.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/240/"
+            },
+            "E/19/278": {
+                "name": "Perera A.P.T.T.",
+                "email": "e19278@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/Tharudi-Perera",
+                "linkedin": "https://www.linkedin.com/in/tharudi-perera-90a79527a",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/278",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19278.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/278/"
+            },
+            "E/19/426": {
+                "name": "Weerasinghe P.M.",
+                "email": "e19426@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/426",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19426.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/426/"
+            },
+            "E/19/453": {
+                "name": "Withanaarachchi W.A.A.M.T.",
+                "email": "e19453@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/AkashMuthumal",
+                "linkedin": "https://www.linkedin.com/in/akash-withanaarachchi-185006245",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/453",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19453.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/453/"
+            }
+        },
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            }
+        },
+        "tags": [
+            "ESCAL",
+            "Web"
+        ]
     },
     "e19-co227-Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App": {
         "title": "Empowering Counselors and Students through Interactive Web and Mobile App",
@@ -21593,6 +21656,68 @@
             "RISC-V",
             "Computer Architecture"
         ]
+    },
+    "e17-co502-RV32IM-Pipeline-Implementation_Group2": {
+        "title": "RV32IM Pipeline Implementation_Group2",
+        "description": "",
+        "category": {
+            "title": "Advanced Computer Architecture (CO502)",
+            "code": "co502",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co502/e17/RV32IM-Pipeline-Implementation_Group2/",
+        "repo_url": "https://github.com/cepdnaclk/e17-co502-RV32IM-Pipeline-Implementation_Group2",
+        "page_url": "https://cepdnaclk.github.io/e17-co502-RV32IM-Pipeline-Implementation_Group2",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E17/RV32IM-Pipeline-Implementation_Group2/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+        "team": {
+            "E/17/284": {
+                "name": "Achintha Sandakalum",
+                "email": "e17284@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/284",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17284.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/284/"
+            },
+            "E/17/012": {
+                "name": "Aminda Amarasinghe",
+                "email": "e17012@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://www.github.com/AmindaAmarasinghe/",
+                "linkedin": "http://www.linkedin.com/in/aminda-amarasinghe-30b4591a8/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/012",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17012.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/012/"
+            },
+            "E/17/242": {
+                "name": "Ruchika Perera",
+                "email": "e17242@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/242",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17242.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/242/"
+            }
+        },
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            }
+        }
     },
     "e17-co502-RV32IM-and-PipelineProcessor-and-Extention-Group_3": {
         "title": "RV32IM and PipelineProcessor and Extention Group_3",

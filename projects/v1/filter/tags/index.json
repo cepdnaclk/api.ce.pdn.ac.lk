@@ -1167,6 +1167,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Enhancing-Video-Game-Experience-With-Brain-Computer-Interface/"
         }
     ],
+    "ESCAL": [
+        {
+            "title": "ESCAL Reservations and Borrowing",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/ESCAL-Reservations-and-Borrowing/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-ESCAL-Reservations-and-Borrowing",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-ESCAL-Reservations-and-Borrowing",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ESCAL-Reservations-and-Borrowing/"
+        }
+    ],
     "ESP32": [
         {
             "title": "Smart Traffic Light System",
@@ -7090,6 +7105,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/water-quality-monitoring-and-usage-monitoring-system/"
         },
         {
+            "title": "ESCAL Reservations and Borrowing",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/ESCAL-Reservations-and-Borrowing/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-ESCAL-Reservations-and-Borrowing",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-ESCAL-Reservations-and-Borrowing",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ESCAL-Reservations-and-Borrowing/"
+        },
+        {
             "title": "Augmented Reality Guidance System",
             "category": {
                 "code": "co227",
@@ -7739,17 +7767,17 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Automatic-IC-Testing-Application/"
         },
         {
-            "title": "Dental faculty management system",
+            "title": "Dental patient management system",
             "category": {
                 "code": "co227",
                 "title": "Software Systems Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Dental-faculty-management-system/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co227-Dental-faculty-management-system",
-            "page_url": "https://cepdnaclk.github.io/e19-co227-Dental-faculty-management-system",
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Dental-patient-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Dental-patient-management-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Dental-patient-management-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Dental-faculty-management-system/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Dental-patient-management-system/"
         },
         {
             "title": "Developing image capturing and analysing system using FPGA",
