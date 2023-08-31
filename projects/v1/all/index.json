@@ -14520,20 +14520,6 @@
             "co227"
         ]
     },
-    "e19-co227-Commissioning-PLC-Controlled-Object-Sorting-Conveyor": {
-        "title": "Commissioning PLC Controlled Object Sorting Conveyor",
-        "description": "CO227 Project",
-        "category": {
-            "title": "Software Systems Projects",
-            "code": "co227",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Commissioning-PLC-Controlled-Object-Sorting-Conveyor/",
-        "repo_url": "https://github.com/cepdnaclk/e19-co227-Commissioning-PLC-Controlled-Object-Sorting-Conveyor",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Commissioning-PLC-Controlled-Object-Sorting-Conveyor/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
-    },
     "e19-co227-Crop-Modelling-Tool-For-SriLanka": {
         "title": "Crop Modelling Tool For SriLanka",
         "description": "A tool to facilitate crop modelling, for plants of importance in SriLankan agriculture.",
@@ -14799,6 +14785,79 @@
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Inventory-Management-System-of-Agricultural-Biotechnology-Centre/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
     },
+    "e19-co227-Keyboard-for-Visually-Impaired": {
+        "title": "Keyboard for Visually Impaired",
+        "description": "An innovative keyboard for the visually impaired: generates characters with accurate key combos, accompanied by auditory cues for an empowering typing experience.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Keyboard-for-Visually-Impaired/",
+        "repo_url": "https://github.com/cepdnaclk/e19-co227-Keyboard-for-Visually-Impaired",
+        "page_url": "https://cepdnaclk.github.io/e19-co227-Keyboard-for-Visually-Impaired",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Keyboard-for-Visually-Impaired/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+        "team": {
+            "E/19/003": {
+                "name": "Abeysinghe A.M.H.P.",
+                "email": "e19003@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/harith-abeysinghe",
+                "linkedin": "http://www.linkedin.com/in/harith-abeysinghe-0605651b1/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/003",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19003.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/003/"
+            },
+            "E/19/004": {
+                "name": "Abeysinghe R.B.",
+                "email": "e19004@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/RavinduBA",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/004",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19004.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/004/"
+            },
+            "E/19/236": {
+                "name": "Manikdiwela W.L.",
+                "email": "e19236@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/236",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19236.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/236/"
+            },
+            "E/19/443": {
+                "name": "Wijayawardana K.G.D.T.",
+                "email": "e19443@eng.pdn.ac.lk",
+                "website": "https://dasuntheekshanagit.github.io/eportfolio/",
+                "github": "https://github.com/dasuntheekshanagit",
+                "linkedin": "https://www.linkedin.com/in/dasun-theekshana-806643156/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/443",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19443.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/443/"
+            }
+        },
+        "supervisors": {
+            "kamalanath@eng.pdn.ac.lk": {
+                "name": "Dr. Eng. Kamalanath Samarakoon",
+                "email": "kamalanath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/kamalanath-samarakoon/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/kamalanath-samarakoon.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
+                "website": "http://kamalanath.samarakoon.info/",
+                "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
+                "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
+                "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
+            }
+        }
+    },
     "e19-co227-Leaf-Colour-Quantifier": {
         "title": "Leaf Colour Quantifier",
         "description": "A simple field technique to detect/quantify the colour of a plant leaf.",
@@ -14882,6 +14941,84 @@
                 "google_scholar": "#"
             }
         }
+    },
+    "e19-co227-Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit": {
+        "title": "Mobile app to measure the area of a leaf flower or fruit",
+        "description": "",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit/",
+        "repo_url": "https://github.com/cepdnaclk/e19-co227-Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit",
+        "page_url": "https://cepdnaclk.github.io/e19-co227-Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+        "team": {
+            "E/19/034": {
+                "name": "BAMBARAGAMA H.M.K.D.",
+                "email": "e19034@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/034",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19034.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/034/"
+            },
+            "E/19/226": {
+                "name": "MADHUSHANKA K.G.M.",
+                "email": "e19226@eng.pdn.ac.lk",
+                "website": "https://www.fiverr.com/share/z3WXDz",
+                "github": "https://github.com/Madhushanka00",
+                "linkedin": "https://www.linkedin.com/in/mahesha-madhushanka-5a96b61a1/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/226",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19226.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/226/"
+            },
+            "E/19/006": {
+                "name": "ABREW S.T.D.",
+                "email": "e19006@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/DhinushikaAbrew",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/006",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19006.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/006/"
+            },
+            "E/19/432": {
+                "name": "WICKRAMAARACHCHI U.I.",
+                "email": "e19432@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/432",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19432.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/432/"
+            }
+        },
+        "supervisors": {
+            "asithab@eng.pdn.ac.lk": {
+                "name": "Dr. Asitha Bandaranayake",
+                "email": "asithab@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/asithab",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/asithab/",
+                "researchgate": "https://www.researchgate.net/profile/Asitha-Bandaranayake-3",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=sf6MaF4AAAAJ"
+            }
+        },
+        "tags": [
+            "Mobile app",
+            "AgroCam",
+            "Area of a leaf"
+        ]
     },
     "e19-co227-Online-Retail-System": {
         "title": "Online Retail System",
@@ -15422,6 +15559,83 @@
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
         "team": {},
         "supervisors": {}
+    },
+    "e19-co227-voice-based-attendance-management-system": {
+        "title": "voice based attendance management system",
+        "description": "A voice base attendance management system",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/voice-based-attendance-management-system/",
+        "repo_url": "https://github.com/cepdnaclk/e19-co227-voice-based-attendance-management-system",
+        "page_url": "https://cepdnaclk.github.io/e19-co227-voice-based-attendance-management-system",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/voice-based-attendance-management-system/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+        "team": {
+            "E/19/375": {
+                "name": "Silva N.H.D.U.",
+                "email": "e19375@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/375",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19375.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/375/"
+            },
+            "E/19/142": {
+                "name": "Illangarathne Y.M.H.V.",
+                "email": "e19142@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/hashinivish",
+                "linkedin": "http://linkedin.com/in/hashini-illangarathne",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/142",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19142.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/142/"
+            },
+            "E/19/363": {
+                "name": "Senevirathna T.N.",
+                "email": "#",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/363",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19363.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/363/"
+            },
+            "E/19/505": {
+                "name": "Witharana S.P.M.",
+                "email": "e19505@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/505",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19505.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/505/"
+            }
+        },
+        "supervisors": {
+            "damayanthiherath@eng.pdn.ac.lk": {
+                "name": "Dr. Damayanthi Herath",
+                "email": "damayanthiherath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/damayanthiherath",
+                "website": "https://damayanthiherath.wordpress.com/",
+                "linkedin": "https://www.linkedin.com/in/damayanthi-herath/",
+                "researchgate": "https://www.researchgate.net/profile/Damayanthi-Herath",
+                "google_scholar": "https://scholar.google.com/citations?user=G2jUV5IAAAAJ&hl=en"
+            }
+        },
+        "tags": [
+            "Voice",
+            "Attendance"
+        ]
     },
     "e18-co227-Augmented-Reality-Guidance-System": {
         "title": "Augmented Reality Guidance System",
