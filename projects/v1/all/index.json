@@ -200,7 +200,9 @@
         "repo_url": "https://github.com/cepdnaclk/e18-6sp-Code-quality-check-with-Semantic-Search",
         "page_url": "https://cepdnaclk.github.io/e18-6sp-Code-quality-check-with-Semantic-Search",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Code-quality-check-with-Semantic-Search/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+        "team": {},
+        "supervisors": {}
     },
     "e18-6sp-Digital-Twin": {
         "title": "Digital Twin",
@@ -14751,9 +14753,68 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App/",
         "repo_url": "https://github.com/cepdnaclk/e19-co227-Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e19-co227-Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+        "team": {
+            "E/19/087": {
+                "name": "Dissanayaka M.A.S.R.",
+                "email": "e19087@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/087",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19087.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/087/"
+            },
+            "E/19/017": {
+                "name": "Amanda W. S.",
+                "email": "e19017@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/017",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19017.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/017/"
+            },
+            "E/19/260": {
+                "name": "Neranji W.K.G.A.G.",
+                "email": "e19260@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/260",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19260.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/260/"
+            },
+            "E/19/465 ": {
+                "name": "Dilshan R.M.S.",
+                "email": "e19465@eng.pdn.ac.lk",
+                "website": "#",
+                "github": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "api_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "profile_url": "#"
+            }
+        },
+        "supervisors": {
+            "upuljm@eng.pdn.ac.lk": {
+                "name": "Dr. Upul Jayasinghe",
+                "email": "upuljm@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/upuljm",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/upuljm/",
+                "researchgate": "https://www.researchgate.net/profile/Upul-Jayasinghe",
+                "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
+            }
+        }
     },
     "e19-co227-Engineering-Education-Unit": {
         "title": "Engineering Education Unit",
