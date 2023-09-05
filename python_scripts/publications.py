@@ -61,14 +61,12 @@ def write_publication(data):
 
     if doi_id != "#":
         filename = "../publications/v1/{0}/index.json".format(doi_id)
-        # print(filename)
         os.makedirs(os.path.dirname(filename), exist_ok=True)
         with open(filename, "w") as f:
             f.write(json.dumps(data, indent=4))
 
         # Debug:
-        print(data["title"])
-        print("  > ", data["venue"], ",", data["year"], "\n")
+        print("{}\n  > {}, {}\n".format(data["title"], data["venue"], data["year"]))
 
 
 # ------------------------------------------------------------------------------
@@ -156,7 +154,6 @@ for line in pub_raw[1:]:
                     }
                 )
 
-        #
         author_cards = []
         if len(authors) != len(author_info):
             for aIdx in range(len(authors)):
