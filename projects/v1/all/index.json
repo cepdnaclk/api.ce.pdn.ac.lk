@@ -14444,18 +14444,18 @@
         },
         "supervisors": {}
     },
-    "e19-co227-Automatic-IC-Testing-Application": {
-        "title": "Automatic IC Testing Application",
+    "e19-co227-Automatic-IC-Testing-Application-Using-FPGA": {
+        "title": "Automatic IC Testing Application Using FPGA",
         "description": "Welcome to the Automated IC Testing Application repository! This project aims to provide a comprehensive solution for automated testing of integrated circuits (ICs) using Field-Programmable Gate Arrays (FPGAs).",
         "category": {
             "title": "Software Systems Projects",
             "code": "co227",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Automatic-IC-Testing-Application/",
-        "repo_url": "https://github.com/cepdnaclk/e19-co227-Automatic-IC-Testing-Application",
-        "page_url": "https://cepdnaclk.github.io/e19-co227-Automatic-IC-Testing-Application",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Automatic-IC-Testing-Application/",
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Automatic-IC-Testing-Application-Using-FPGA/",
+        "repo_url": "https://github.com/cepdnaclk/e19-co227-Automatic-IC-Testing-Application-Using-FPGA",
+        "page_url": "https://cepdnaclk.github.io/e19-co227-Automatic-IC-Testing-Application-Using-FPGA",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Automatic-IC-Testing-Application-Using-FPGA/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
         "team": {
             "E/19/300": {
@@ -14517,7 +14517,10 @@
             }
         },
         "tags": [
-            "co227"
+            "co227",
+            "FPGA",
+            "IC Testing",
+            "Automatic IC Testing"
         ]
     },
     "e19-co227-Crop-Modelling-Tool-For-SriLanka": {
