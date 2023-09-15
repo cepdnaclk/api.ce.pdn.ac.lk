@@ -14829,9 +14829,71 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Engineering-Education-Unit/",
         "repo_url": "https://github.com/cepdnaclk/e19-co227-Engineering-Education-Unit",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e19-co227-Engineering-Education-Unit",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Engineering-Education-Unit/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+        "team": {
+            "E/19/060": {
+                "name": "Danujan",
+                "email": "e19060@eng.pdn.ac.lk",
+                "website": "#",
+                "github": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "api_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "profile_url": "#"
+            },
+            "E/19/100": {
+                "name": "Sahira",
+                "email": "e19100@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/100",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19100.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/100/"
+            },
+            "E/19/131": {
+                "name": "Kasuni",
+                "email": "e19131@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/131",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19131.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/131/"
+            },
+            "E/19/266": {
+                "name": "Nithusikan",
+                "email": "e19266@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/266",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19266.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/266/"
+            }
+        },
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            }
+        },
+        "tags": [
+            "CO227"
+        ]
     },
     "e19-co227-Inventory-Management-System-of-Agricultural-Biotechnology-Centre": {
         "title": "Inventory Management System of Agricultural Biotechnology Centre",
@@ -19733,9 +19795,60 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/library-management-system/",
         "repo_url": "https://github.com/cepdnaclk/e19-co226-library-management-system",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e19-co226-library-management-system",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/library-management-system/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+        "team": {
+            "E/19/060": {
+                "name": "Danujan",
+                "email": "e19060@eng.pdn.ac.lk",
+                "website": "#",
+                "github": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "api_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "profile_url": "#"
+            },
+            "E/19/069": {
+                "name": "Delini",
+                "email": "e19069@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/069",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19069.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/069/"
+            },
+            "E/19/494": {
+                "name": "Thevambikai",
+                "email": "e19494@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/494",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19494.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/494/"
+            }
+        },
+        "supervisors": {
+            "manjula.sandirigama@eng.pdn.ac.lk": {
+                "name": "Dr. Manjula Sandirigama",
+                "email": "manjula.sandirigama@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/manjula.sandirigama",
+                "website": "",
+                "linkedin": "https://lk.linkedin.com/in/manjula-sandirigama-0622784",
+                "researchgate": "",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=qpmlrL0AAAAJ"
+            }
+        },
+        "tags": [
+            "CO227"
+        ]
     },
     "e19-co226-store-management-system": {
         "title": "store management system",
@@ -21100,13 +21213,13 @@
             "E/19/060": {
                 "name": "Danujan",
                 "email": "e19060@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/060",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19060.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/060/"
+                "website": "#",
+                "github": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "api_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "profile_url": "#"
             },
             "E/19/069": {
                 "name": "Delini",
