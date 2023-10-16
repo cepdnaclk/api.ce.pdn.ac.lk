@@ -15835,8 +15835,32 @@
         "page_url": "https://cepdnaclk.github.io/e19-co227-subclinical-mastitis-prediction-gui",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/subclinical-mastitis-prediction-gui/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-        "team": {},
-        "supervisors": {}
+        "team": {
+            "E/19/057": {
+                "name": "C.O. Colombage",
+                "email": "e19057@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/CColombus",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/057",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19057.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/057/"
+            }
+        },
+        "supervisors": {
+            "damayanthiherath@eng.pdn.ac.lk": {
+                "name": "Dr. Damayanthi Herath",
+                "email": "damayanthiherath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/damayanthiherath",
+                "website": "https://damayanthiherath.wordpress.com/",
+                "linkedin": "https://www.linkedin.com/in/damayanthi-herath/",
+                "researchgate": "https://www.researchgate.net/profile/Damayanthi-Herath",
+                "google_scholar": "https://scholar.google.com/citations?user=G2jUV5IAAAAJ&hl=en"
+            }
+        }
     },
     "e19-co227-voice-based-attendance-management-system": {
         "title": "voice based attendance management system",
