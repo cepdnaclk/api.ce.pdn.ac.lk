@@ -14441,7 +14441,75 @@
         "repo_url": "https://github.com/cepdnaclk/e19-co227-ACES-Project-Fund-Requests",
         "page_url": "https://cepdnaclk.github.io/e19-co227-ACES-Project-Fund-Requests",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ACES-Project-Fund-Requests/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+        "team": {
+            "E/19/111": {
+                "name": "Mewan Dimalsha",
+                "email": "e19111@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/mewanDimalsha",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/111",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19111.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/111/"
+            },
+            "E/19/210": {
+                "name": "Jaliya Kumarasiri",
+                "email": "e19210@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/jali-k",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/210",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19210.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/210/"
+            },
+            "E/19/224": {
+                "name": "Sandamini Madhurasinghe",
+                "email": "e19224@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/224",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19224.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/224/"
+            },
+            "E/19/249": {
+                "name": "Sayumi Muthukumarana",
+                "email": "e19249@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/249",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19249.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/249/"
+            }
+        },
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            }
+        },
+        "tags": [
+            "19",
+            "CO227",
+            "227",
+            "software systems",
+            "Fund requests",
+            "MERN",
+            "web development"
+        ]
     },
     "e19-co227-Automatic-IC-Testing-Application-Using-FPGA": {
         "title": "Automatic IC Testing Application Using FPGA",
