@@ -889,19 +889,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Energy-Meter/"
         },
         {
-            "title": "Smart Home Security System",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Home-Security-System/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Home-Security-System",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Home-Security-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Home-Security-System/"
-        },
-        {
             "title": "home automation system group01",
             "category": {
                 "code": "co326",
@@ -1268,21 +1255,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-for-Bank-Management-System/"
         }
     ],
-    "ECG": [
-        {
-            "title": "Human Animal Emotion Detection Using ECG and ML Techniques",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/"
-        }
-    ],
     "ECU Emulator": [
         {
             "title": "Configurable ECU Emulator",
@@ -1386,21 +1358,6 @@
             "page_url": "https://cepdnaclk.github.io/e17-4yp-Large-Language-Models-in-Education",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Large-Language-Models-in-Education/"
-        }
-    ],
-    "Electrocardiogram": [
-        {
-            "title": "Human Animal Emotion Detection Using ECG and ML Techniques",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/"
         }
     ],
     "Email": [
@@ -1717,6 +1674,58 @@
             "page_url": "https://cepdnaclk.github.io/e14-3yp-Telepresence-Robot",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Telepresence-Robot/"
+        },
+        {
+            "title": "Automated Hydroponic System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Automated-Hydroponic-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Automated-Hydroponic-System",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Automated-Hydroponic-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Automated-Hydroponic-System/"
+        },
+        {
+            "title": "Event Attendance Management System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Event-Attendance-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Event-Attendance-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Event-Attendance-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Event-Attendance-Management-System/"
+        },
+        {
+            "title": "Project Smart Water Tank",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Project-Smart-Water-Tank/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Project-Smart-Water-Tank",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Project-Smart-Water-Tank",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Project-Smart-Water-Tank/"
+        },
+        {
+            "title": "Smart Billing System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Smart-Billing-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Smart-Billing-System",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Smart-Billing-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Billing-System/"
         },
         {
             "title": "Automated Mini Greenhouse Monitoring And Control System",
@@ -2185,32 +2194,6 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-smart-shopping-cart",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/smart-shopping-cart/"
-        },
-        {
-            "title": "Event Attendance Management System",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Event-Attendance-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Event-Attendance-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e19-3yp-Event-Attendance-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Event-Attendance-Management-System/"
-        },
-        {
-            "title": "Project Smart Water Tank",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Project-Smart-Water-Tank/",
-            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Project-Smart-Water-Tank",
-            "page_url": "https://cepdnaclk.github.io/e19-3yp-Project-Smart-Water-Tank",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Project-Smart-Water-Tank/"
         },
         {
             "title": "automatic fish tank control system",
@@ -2743,19 +2726,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Large-Language-Models-in-Education/"
         },
         {
-            "title": "Low Complexity Algorithm for Arrhythmia Detection",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Low-Complexity-Algorithm-for-Arrhythmia-Detection/",
-            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Low-Complexity-Algorithm-for-Arrhythmia-Detection",
-            "page_url": "https://cepdnaclk.github.io/e17-4yp-Low-Complexity-Algorithm-for-Arrhythmia-Detection",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Low-Complexity-Algorithm-for-Arrhythmia-Detection/"
-        },
-        {
             "title": "Music Emotion Recognition",
             "category": {
                 "code": "4yp",
@@ -2910,19 +2880,6 @@
             "page_url": "https://cepdnaclk.github.io/e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients/"
-        },
-        {
-            "title": "Human Animal Emotion Detection Using ECG and ML Techniques",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/"
         },
         {
             "title": "Smart Agriculture Use of Computer Vision ML and IoT to Improve Crop Productivity",
@@ -3634,19 +3591,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Energy-Meter/"
         },
         {
-            "title": "Smart Home Security System",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Home-Security-System/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Home-Security-System",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Home-Security-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Home-Security-System/"
-        },
-        {
             "title": "home automation system group01",
             "category": {
                 "code": "co326",
@@ -4137,19 +4081,6 @@
             "page_url": "https://cepdnaclk.github.io/e17-6sp-Prediction-of-risks-associated-with-mass-corona-vaccination",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Prediction-of-risks-associated-with-mass-corona-vaccination/"
-        },
-        {
-            "title": "Human Animal Emotion Detection Using ECG and ML Techniques",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/"
         }
     ],
     "MQTT": [
@@ -4455,19 +4386,6 @@
             "page_url": "https://cepdnaclk.github.io/e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients/"
-        },
-        {
-            "title": "Human Animal Emotion Detection Using ECG and ML Techniques",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/"
         },
         {
             "title": "Machine Learning based Atmospheric Duct Interference cancellation in TD LTE networks",
@@ -5476,6 +5394,21 @@
             "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-payment-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-payment-system/"
+        }
+    ],
+    "Product Development": [
+        {
+            "title": "Smart Billing System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Smart-Billing-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Smart-Billing-System",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Smart-Billing-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Billing-System/"
         }
     ],
     "Programming languages": [
@@ -6810,6 +6743,58 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Telepresence-Robot/"
         },
         {
+            "title": "Automated Hydroponic System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Automated-Hydroponic-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Automated-Hydroponic-System",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Automated-Hydroponic-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Automated-Hydroponic-System/"
+        },
+        {
+            "title": "Event Attendance Management System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Event-Attendance-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Event-Attendance-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Event-Attendance-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Event-Attendance-Management-System/"
+        },
+        {
+            "title": "Project Smart Water Tank",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Project-Smart-Water-Tank/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Project-Smart-Water-Tank",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Project-Smart-Water-Tank",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Project-Smart-Water-Tank/"
+        },
+        {
+            "title": "Smart Billing System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Smart-Billing-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Smart-Billing-System",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Smart-Billing-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Billing-System/"
+        },
+        {
             "title": "Automated Mini Greenhouse Monitoring And Control System",
             "category": {
                 "code": "3yp",
@@ -7263,32 +7248,6 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-smart-shopping-cart",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/smart-shopping-cart/"
-        },
-        {
-            "title": "Event Attendance Management System",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Event-Attendance-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Event-Attendance-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e19-3yp-Event-Attendance-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Event-Attendance-Management-System/"
-        },
-        {
-            "title": "Project Smart Water Tank",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Project-Smart-Water-Tank/",
-            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Project-Smart-Water-Tank",
-            "page_url": "https://cepdnaclk.github.io/e19-3yp-Project-Smart-Water-Tank",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Project-Smart-Water-Tank/"
         },
         {
             "title": "automatic fish tank control system",
