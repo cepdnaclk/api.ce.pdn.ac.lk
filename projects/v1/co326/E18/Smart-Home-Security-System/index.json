@@ -10,5 +10,57 @@
     "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Home-Security-System",
     "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Home-Security-System",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Home-Security-System/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+    "team": {
+        "E/18/010": {
+            "name": "Avishka Abeywickrama",
+            "email": "e18010@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/avishka4444",
+            "linkedin": "https://www.linkedin.com/in/avishka-abeywickrama-97413a21a",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/010",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18010.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/010/"
+        },
+        "E/18/149": {
+            "name": "Ishta Jayakody",
+            "email": "e18149@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/149",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18149.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/149/"
+        },
+        "E/18/156": {
+            "name": "Thakshila Jayathilake",
+            "email": "e18156@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/ThakshilaJayathilake",
+            "linkedin": "https://www.linkedin.com/in/thakshila-jayathilake-5919b5213/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/156",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18156.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/156/"
+        }
+    },
+    "supervisors": {
+        "kamalanath@eng.pdn.ac.lk": {
+            "name": "Dr. Eng. Kamalanath Samarakoon",
+            "email": "kamalanath@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/kamalanath-samarakoon/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/kamalanath-samarakoon.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
+            "website": "http://kamalanath.samarakoon.info/",
+            "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
+            "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
+            "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
+        }
+    },
+    "tags": [
+        "Computer Systems Engineering",
+        "Industrial Networks"
+    ]
 }
