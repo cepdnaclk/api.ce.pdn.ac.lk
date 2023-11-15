@@ -1784,17 +1784,30 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Billing-System/"
         },
         {
-            "title": "sun tracking and energy monitoring for solar panels",
+            "title": "Smart Waste Management System",
             "category": {
                 "code": "3yp",
                 "title": "Cyber-Physical Systems Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/sun-tracking-and-energy-monitoring-for-solar-panels/",
-            "repo_url": "https://github.com/cepdnaclk/e19-3yp-sun-tracking-and-energy-monitoring-for-solar-panels",
-            "page_url": "https://cepdnaclk.github.io/e19-3yp-sun-tracking-and-energy-monitoring-for-solar-panels",
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Smart-Waste-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Smart-Waste-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Smart-Waste-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/sun-tracking-and-energy-monitoring-for-solar-panels/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Waste-Management-System/"
+        },
+        {
+            "title": "automated sun tracking solar pv power plant monitoring",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/automated-sun-tracking-solar-pv-power-plant-monitoring/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-automated-sun-tracking-solar-pv-power-plant-monitoring",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-automated-sun-tracking-solar-pv-power-plant-monitoring",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/automated-sun-tracking-solar-pv-power-plant-monitoring/"
         },
         {
             "title": "Automated Mini Greenhouse Monitoring And Control System",
@@ -3871,6 +3884,19 @@
     ],
     "JWT": [
         {
+            "title": "Smart Waste Management System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Smart-Waste-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Smart-Waste-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Smart-Waste-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Waste-Management-System/"
+        },
+        {
             "title": "Baby Developing Tracking System Web Application",
             "category": {
                 "code": "co225",
@@ -3925,6 +3951,21 @@
             "page_url": "https://cepdnaclk.github.io/e15-co328-Banking-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E15/Banking-Management-System/"
+        }
+    ],
+    "JavaScript": [
+        {
+            "title": "Smart Waste Management System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Smart-Waste-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Smart-Waste-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Smart-Waste-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Waste-Management-System/"
         }
     ],
     "Kubernetes": [
@@ -4847,6 +4888,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Enhancement-of-Efficiency-of-Vehicular-Communication-using-SDN/"
         }
     ],
+    "MongoDB": [
+        {
+            "title": "Smart Waste Management System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Smart-Waste-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Smart-Waste-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Smart-Waste-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Waste-Management-System/"
+        }
+    ],
     "Music": [
         {
             "title": "History of Music",
@@ -5000,6 +5056,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Large-Language-Models-in-Education/"
         }
     ],
+    "Network Security": [
+        {
+            "title": "Smart Waste Management System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Smart-Waste-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Smart-Waste-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Smart-Waste-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Waste-Management-System/"
+        }
+    ],
     "Networking": [
         {
             "title": "Enhancement of Efficiency of Vehicular Communication using SDN",
@@ -5043,6 +5114,21 @@
             "page_url": "https://cepdnaclk.github.io/e16-4yp-neuromorphic-architecture",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/neuromorphic-architecture/"
+        }
+    ],
+    "Node js": [
+        {
+            "title": "Smart Waste Management System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Smart-Waste-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Smart-Waste-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Smart-Waste-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Waste-Management-System/"
         }
     ],
     "NodeRED": [
@@ -5700,6 +5786,19 @@
     ],
     "React": [
         {
+            "title": "Smart Waste Management System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Smart-Waste-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Smart-Waste-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Smart-Waste-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Waste-Management-System/"
+        },
+        {
             "title": "Baby Developing Tracking System Web Application",
             "category": {
                 "code": "co225",
@@ -5724,6 +5823,21 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Library-Management-System-Web-App",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System-Web-App/"
+        }
+    ],
+    "React Native": [
+        {
+            "title": "Smart Waste Management System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Smart-Waste-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Smart-Waste-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Smart-Waste-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Waste-Management-System/"
         }
     ],
     "React.js": [
@@ -6942,17 +7056,30 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Billing-System/"
         },
         {
-            "title": "sun tracking and energy monitoring for solar panels",
+            "title": "Smart Waste Management System",
             "category": {
                 "code": "3yp",
                 "title": "Cyber-Physical Systems Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/sun-tracking-and-energy-monitoring-for-solar-panels/",
-            "repo_url": "https://github.com/cepdnaclk/e19-3yp-sun-tracking-and-energy-monitoring-for-solar-panels",
-            "page_url": "https://cepdnaclk.github.io/e19-3yp-sun-tracking-and-energy-monitoring-for-solar-panels",
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Smart-Waste-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Smart-Waste-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Smart-Waste-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/sun-tracking-and-energy-monitoring-for-solar-panels/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Waste-Management-System/"
+        },
+        {
+            "title": "automated sun tracking solar pv power plant monitoring",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/automated-sun-tracking-solar-pv-power-plant-monitoring/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-automated-sun-tracking-solar-pv-power-plant-monitoring",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-automated-sun-tracking-solar-pv-power-plant-monitoring",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/automated-sun-tracking-solar-pv-power-plant-monitoring/"
         },
         {
             "title": "Automated Mini Greenhouse Monitoring And Control System",

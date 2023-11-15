@@ -1,4 +1,17 @@
 {
+    "e19-3yp-Attendance-Monitoringand-Access-Authentication-with-Face-Recognition": {
+        "title": "Attendance Monitoringand Access Authentication with Face Recognition",
+        "description": "Automate attendance and enhance security with Face Recognition. Streamline monitoring, strengthen access control for a precise and secure solution.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Attendance-Monitoringand-Access-Authentication-with-Face-Recognition/",
+        "repo_url": "https://github.com/cepdnaclk/e19-3yp-Attendance-Monitoringand-Access-Authentication-with-Face-Recognition",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Attendance-Monitoringand-Access-Authentication-with-Face-Recognition/"
+    },
     "e19-3yp-Automated-Hydroponic-System": {
         "title": "Automated Hydroponic System",
         "description": "",
@@ -77,17 +90,30 @@
         "page_url": "https://cepdnaclk.github.io/e19-3yp-Smart-Billing-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Billing-System/"
     },
-    "e19-3yp-sun-tracking-and-energy-monitoring-for-solar-panels": {
-        "title": "sun tracking and energy monitoring for solar panels",
+    "e19-3yp-Smart-Waste-Management-System": {
+        "title": "Smart Waste Management System",
+        "description": "Third year Cyber-Physical Systems Project",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Smart-Waste-Management-System/",
+        "repo_url": "https://github.com/cepdnaclk/e19-3yp-Smart-Waste-Management-System",
+        "page_url": "https://cepdnaclk.github.io/e19-3yp-Smart-Waste-Management-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Waste-Management-System/"
+    },
+    "e19-3yp-automated-sun-tracking-solar-pv-power-plant-monitoring": {
+        "title": "automated sun tracking solar pv power plant monitoring",
         "description": "A solar panel utility for tracking sun placement and get optimum power and analyse power gain.",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/sun-tracking-and-energy-monitoring-for-solar-panels/",
-        "repo_url": "https://github.com/cepdnaclk/e19-3yp-sun-tracking-and-energy-monitoring-for-solar-panels",
-        "page_url": "https://cepdnaclk.github.io/e19-3yp-sun-tracking-and-energy-monitoring-for-solar-panels",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/sun-tracking-and-energy-monitoring-for-solar-panels/"
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/automated-sun-tracking-solar-pv-power-plant-monitoring/",
+        "repo_url": "https://github.com/cepdnaclk/e19-3yp-automated-sun-tracking-solar-pv-power-plant-monitoring",
+        "page_url": "https://cepdnaclk.github.io/e19-3yp-automated-sun-tracking-solar-pv-power-plant-monitoring",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/automated-sun-tracking-solar-pv-power-plant-monitoring/"
     }
 }
