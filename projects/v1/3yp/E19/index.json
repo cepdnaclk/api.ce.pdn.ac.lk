@@ -1,4 +1,17 @@
 {
+    "e19-3yp-3d-led-cube": {
+        "title": "3d led cube",
+        "description": "This is test for 3D cube project repository.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/3d-led-cube/",
+        "repo_url": "https://github.com/cepdnaclk/e19-3yp-3d-led-cube",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/3d-led-cube/"
+    },
     "e19-3yp-Attendance-Monitoringand-Access-Authentication-with-Face-Recognition": {
         "title": "Attendance Monitoringand Access Authentication with Face Recognition",
         "description": "Automate attendance and enhance security with Face Recognition. Streamline monitoring, strengthen access control for a precise and secure solution.",
@@ -9,12 +22,12 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Attendance-Monitoringand-Access-Authentication-with-Face-Recognition/",
         "repo_url": "https://github.com/cepdnaclk/e19-3yp-Attendance-Monitoringand-Access-Authentication-with-Face-Recognition",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e19-3yp-Attendance-Monitoringand-Access-Authentication-with-Face-Recognition",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Attendance-Monitoringand-Access-Authentication-with-Face-Recognition/"
     },
     "e19-3yp-Automated-Hydroponic-System": {
         "title": "Automated Hydroponic System",
-        "description": "",
+        "description": "The project 'IoT-Based Automated Hydroponic System' aims to develop a modern and sustainable approach to hydroponic farming that maximizes efficiency by using technology to monitor and control growth conditions, reducing resource consumption, and enabling users to make data-driven decisions for better crop management.",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
@@ -24,6 +37,19 @@
         "repo_url": "https://github.com/cepdnaclk/e19-3yp-Automated-Hydroponic-System",
         "page_url": "https://cepdnaclk.github.io/e19-3yp-Automated-Hydroponic-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Automated-Hydroponic-System/"
+    },
+    "e19-3yp-Automated-grass-cutter": {
+        "title": "Automated grass cutter",
+        "description": "In a world where automation is becoming increasingly prevalent, our project introduces a cutting-edge solution for maintaining lush and well-manicured lawns. The Automated Grass Cutter combines innovative technology with the age-old task of grass cutting, bringing forth a new era in lawn maintenance.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Automated-grass-cutter/",
+        "repo_url": "https://github.com/cepdnaclk/e19-3yp-Automated-grass-cutter",
+        "page_url": "https://cepdnaclk.github.io/e19-3yp-Automated-grass-cutter",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Automated-grass-cutter/"
     },
     "e19-3yp-Event-Attendance-Management-System": {
         "title": "Event Attendance Management System",
@@ -77,6 +103,32 @@
         "page_url": "https://cepdnaclk.github.io/e19-3yp-Project-Smart-Water-Tank",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Project-Smart-Water-Tank/"
     },
+    "e19-3yp-School-Van-Tracking-And-Monitoring-System": {
+        "title": "School Van Tracking And Monitoring System",
+        "description": "Introducing our School Van Monitoring System: real-time tracking, accident monitoring, and alerts for violations like smoking and overspeeding, ensuring child safety and parental peace of mind in every commute",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/School-Van-Tracking-And-Monitoring-System/",
+        "repo_url": "https://github.com/cepdnaclk/e19-3yp-School-Van-Tracking-And-Monitoring-System",
+        "page_url": "https://cepdnaclk.github.io/e19-3yp-School-Van-Tracking-And-Monitoring-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/School-Van-Tracking-And-Monitoring-System/"
+    },
+    "e19-3yp-School-Van-Tracking-System": {
+        "title": "School Van Tracking System",
+        "description": "",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/School-Van-Tracking-System/",
+        "repo_url": "https://github.com/cepdnaclk/e19-3yp-School-Van-Tracking-System",
+        "page_url": "https://cepdnaclk.github.io/e19-3yp-School-Van-Tracking-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/School-Van-Tracking-System/"
+    },
     "e19-3yp-Smart-Billing-System": {
         "title": "Smart Billing System",
         "description": "3rd year project Repository",
@@ -89,6 +141,19 @@
         "repo_url": "https://github.com/cepdnaclk/e19-3yp-Smart-Billing-System",
         "page_url": "https://cepdnaclk.github.io/e19-3yp-Smart-Billing-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Billing-System/"
+    },
+    "e19-3yp-Smart-Keyboard": {
+        "title": "Smart Keyboard",
+        "description": "",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Smart-Keyboard/",
+        "repo_url": "https://github.com/cepdnaclk/e19-3yp-Smart-Keyboard",
+        "page_url": "https://cepdnaclk.github.io/e19-3yp-Smart-Keyboard",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Keyboard/"
     },
     "e19-3yp-Smart-Waste-Management-System": {
         "title": "Smart Waste Management System",
@@ -116,6 +181,19 @@
         "page_url": "https://cepdnaclk.github.io/e19-3yp-automated-sun-tracking-solar-pv-power-plant-monitoring",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/automated-sun-tracking-solar-pv-power-plant-monitoring/"
     },
+    "e19-3yp-automated-warehouse-management-and-monitoring-system": {
+        "title": "automated warehouse management and monitoring system",
+        "description": "",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/automated-warehouse-management-and-monitoring-system/",
+        "repo_url": "https://github.com/cepdnaclk/e19-3yp-automated-warehouse-management-and-monitoring-system",
+        "page_url": "https://cepdnaclk.github.io/e19-3yp-automated-warehouse-management-and-monitoring-system",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/automated-warehouse-management-and-monitoring-system/"
+    },
     "e19-3yp-beehive-monitoring-system": {
         "title": "beehive monitoring system",
         "description": "A beehive monitoring system using high quality camera and some sensors to detect bee absconding.",
@@ -129,6 +207,19 @@
         "page_url": "https://cepdnaclk.github.io/e19-3yp-beehive-monitoring-system",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/beehive-monitoring-system/"
     },
+    "e19-3yp-impact-tracker": {
+        "title": "impact tracker",
+        "description": "Explore our repository for an innovative impact response system designed to enhance athlete safety and performance. Our technology utilizes advanced sensors and algorithms to measure and analyze impact forces in real time, revolutionizing athlete safety across various sports.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/impact-tracker/",
+        "repo_url": "https://github.com/cepdnaclk/e19-3yp-impact-tracker",
+        "page_url": "https://cepdnaclk.github.io/e19-3yp-impact-tracker",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/impact-tracker/"
+    },
     "e19-3yp-smart-supermarket-navigation-system": {
         "title": "smart supermarket navigation system",
         "description": "Development of an indoor navigation system for supermarkets aimed at enhancing the shopping experience",
@@ -139,7 +230,7 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/smart-supermarket-navigation-system/",
         "repo_url": "https://github.com/cepdnaclk/e19-3yp-smart-supermarket-navigation-system",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e19-3yp-smart-supermarket-navigation-system",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/smart-supermarket-navigation-system/"
     }
 }

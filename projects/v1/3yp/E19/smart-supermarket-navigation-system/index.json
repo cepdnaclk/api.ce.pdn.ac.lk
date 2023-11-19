@@ -8,7 +8,83 @@
     },
     "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/smart-supermarket-navigation-system/",
     "repo_url": "https://github.com/cepdnaclk/e19-3yp-smart-supermarket-navigation-system",
-    "page_url": "#",
+    "page_url": "https://cepdnaclk.github.io/e19-3yp-smart-supermarket-navigation-system",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/smart-supermarket-navigation-system/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+    "team": {
+        "E/19/017": {
+            "name": "W.A.S. Amanda",
+            "email": "e19017@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/017",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19017.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/017/"
+        },
+        "E/19/057": {
+            "name": "C.O. Colombage",
+            "email": "e19057@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/CColombus",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/057",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19057.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/057/"
+        },
+        "E/19/210": {
+            "name": "R.P.J.R. Kumarasiri",
+            "email": "e19210@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/jali-k",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/210",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19210.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/210/"
+        },
+        "E/19/409": {
+            "name": "D.P. Udugamsooriya",
+            "email": "e19409@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/409",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19409.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/409/"
+        },
+        "E/19/413": {
+            "name": "G.G.N. Viduranga",
+            "email": "e19413@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/413",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19413.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/413/"
+        }
+    },
+    "supervisors": {
+        "isurunawinne@eng.pdn.ac.lk": {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+            "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+        }
+    },
+    "tags": [
+        "Web",
+        "Embedded Systems",
+        "IoT",
+        "Indoor Navigation"
+    ]
 }
