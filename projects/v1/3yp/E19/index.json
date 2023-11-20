@@ -1,16 +1,16 @@
 {
-    "e19-3yp-3d-led-cube": {
-        "title": "3d led cube",
-        "description": "This is test for 3D cube project repository.",
+    "e19-3yp-3d-led-cube-holographical-display": {
+        "title": "3d led cube holographical display",
+        "description": "e19-3yp-3d-led-cube-holographical-display",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/3d-led-cube/",
-        "repo_url": "https://github.com/cepdnaclk/e19-3yp-3d-led-cube",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/3d-led-cube/"
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/3d-led-cube-holographical-display/",
+        "repo_url": "https://github.com/cepdnaclk/e19-3yp-3d-led-cube-holographical-display",
+        "page_url": "https://cepdnaclk.github.io/e19-3yp-3d-led-cube-holographical-display",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/3d-led-cube-holographical-display/"
     },
     "e19-3yp-Attendance-Monitoringand-Access-Authentication-with-Face-Recognition": {
         "title": "Attendance Monitoringand Access Authentication with Face Recognition",
@@ -64,6 +64,19 @@
         "page_url": "https://cepdnaclk.github.io/e19-3yp-Event-Attendance-Management-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Event-Attendance-Management-System/"
     },
+    "e19-3yp-First-Person-AR-Game-with-Localization": {
+        "title": "First Person AR Game with Localization",
+        "description": "",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/First-Person-AR-Game-with-Localization/",
+        "repo_url": "https://github.com/cepdnaclk/e19-3yp-First-Person-AR-Game-with-Localization",
+        "page_url": "https://cepdnaclk.github.io/e19-3yp-First-Person-AR-Game-with-Localization",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/First-Person-AR-Game-with-Localization/"
+    },
     "e19-3yp-Pera-Ride": {
         "title": "Pera Ride",
         "description": "3YP",
@@ -102,19 +115,6 @@
         "repo_url": "https://github.com/cepdnaclk/e19-3yp-Project-Smart-Water-Tank",
         "page_url": "https://cepdnaclk.github.io/e19-3yp-Project-Smart-Water-Tank",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Project-Smart-Water-Tank/"
-    },
-    "e19-3yp-School-Van-Tracking-And-Monitoring-System": {
-        "title": "School Van Tracking And Monitoring System",
-        "description": "Introducing our School Van Monitoring System: real-time tracking, accident monitoring, and alerts for violations like smoking and overspeeding, ensuring child safety and parental peace of mind in every commute",
-        "category": {
-            "title": "Cyber-Physical Systems Projects",
-            "code": "3yp",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/School-Van-Tracking-And-Monitoring-System/",
-        "repo_url": "https://github.com/cepdnaclk/e19-3yp-School-Van-Tracking-And-Monitoring-System",
-        "page_url": "https://cepdnaclk.github.io/e19-3yp-School-Van-Tracking-And-Monitoring-System",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/School-Van-Tracking-And-Monitoring-System/"
     },
     "e19-3yp-School-Van-Tracking-System": {
         "title": "School Van Tracking System",
