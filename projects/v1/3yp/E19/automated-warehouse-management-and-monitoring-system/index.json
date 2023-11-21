@@ -11,10 +11,90 @@
     "page_url": "https://cepdnaclk.github.io/e19-3yp-automated-warehouse-management-and-monitoring-system",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/automated-warehouse-management-and-monitoring-system/",
     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-    "team": {},
-    "supervisors": {},
+    "team": {
+        "E/19/142": {
+            "name": "Illangarathne Y.M.H.V.",
+            "email": "e19142@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/hashinivish",
+            "linkedin": "http://linkedin.com/in/hashini-illangarathne",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/142",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19142.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/142/"
+        },
+        "E/19/264": {
+            "name": "Nishantha R.P.T.",
+            "email": "e19264@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/264",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19264.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/264/"
+        },
+        "E/19/304": {
+            "name": "Pushpakumara R.M.S.P.",
+            "email": "e19304@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/304",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19304.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/304/"
+        },
+        "E/19/363": {
+            "name": "Senevirathna T.N.",
+            "email": "#",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/363",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19363.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/363/"
+        },
+        "E/19/375": {
+            "name": "Silva N.H.D.U.",
+            "email": "e19375@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/375",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19375.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/375/"
+        }
+    },
+    "supervisors": {
+        "asithab@eng.pdn.ac.lk": {
+            "name": "Dr. Asitha Bandaranayake",
+            "email": "asithab@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/asithab",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/asithab/",
+            "researchgate": "https://www.researchgate.net/profile/Asitha-Bandaranayake-3",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=sf6MaF4AAAAJ"
+        },
+        "isurunawinne@eng.pdn.ac.lk": {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+            "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+        }
+    },
     "tags": [
-        "Web",
-        "Embedded Systems"
+        "Web Application",
+        "Embedded Systems",
+        "Network Security"
     ]
 }
