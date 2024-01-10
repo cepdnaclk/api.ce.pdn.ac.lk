@@ -19203,9 +19203,72 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Software-Package-To-Support-Agent-Based-Modelling-Based-Decision-Making/",
         "repo_url": "https://github.com/cepdnaclk/e18-4yp-Software-Package-To-Support-Agent-Based-Modelling-Based-Decision-Making",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e18-4yp-Software-Package-To-Support-Agent-Based-Modelling-Based-Decision-Making",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Software-Package-To-Support-Agent-Based-Modelling-Based-Decision-Making/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "team": {
+            "E/18/017": {
+                "name": "Aarah J.F.",
+                "email": "e18017@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/017",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18017.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/017/"
+            },
+            "E/18/177": {
+                "name": "Khan A.K.M.S.",
+                "email": "e18177@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/177",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18177.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/177/"
+            },
+            "E/18/304": {
+                "name": "Rishad N.M.",
+                "email": "e18304@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/RishadMohamed",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/304",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18304.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/304/"
+            }
+        },
+        "supervisors": {
+            "damayanthiherath@eng.pdn.ac.lk": {
+                "name": "Dr. Damayanthi Herath",
+                "email": "damayanthiherath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/damayanthiherath",
+                "website": "https://damayanthiherath.wordpress.com/",
+                "linkedin": "https://www.linkedin.com/in/damayanthi-herath/",
+                "researchgate": "https://www.researchgate.net/profile/Damayanthi-Herath",
+                "google_scholar": "https://scholar.google.com/citations?user=G2jUV5IAAAAJ&hl=en"
+            },
+            "rajith.v@unimelb.edu.au": {
+                "name": "Dr. Rajith Vidanaarachchi",
+                "email": "rajith.v@unimelb.edu.au",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Final Year Projects",
+            "Agent Based Model"
+        ]
     },
     "e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-DPT-to-aid-in-periodontal-diagnosis": {
         "title": "Using AI in determining alveolar bone loss in DPT to aid in periodontal diagnosis",
