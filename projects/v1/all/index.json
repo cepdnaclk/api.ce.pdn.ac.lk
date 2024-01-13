@@ -19128,6 +19128,85 @@
             "Final Year Projects"
         ]
     },
+    "e18-4yp-Multi-Kingdom-Binning-of-Long-Read-Metagenomes": {
+        "title": "Multi Kingdom Binning of Long Read Metagenomes",
+        "description": "",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Multi-Kingdom-Binning-of-Long-Read-Metagenomes/",
+        "repo_url": "https://github.com/cepdnaclk/e18-4yp-Multi-Kingdom-Binning-of-Long-Read-Metagenomes",
+        "page_url": "https://cepdnaclk.github.io/e18-4yp-Multi-Kingdom-Binning-of-Long-Read-Metagenomes",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Multi-Kingdom-Binning-of-Long-Read-Metagenomes/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "team": {
+            "E/18/030": {
+                "name": "A.M.S. Aththanayaka",
+                "email": "e18030@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/030",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18030.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/030/"
+            },
+            "E/18/282": {
+                "name": "R.A.N.S. Ranasinghe",
+                "email": "e18282@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/282",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18282.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/282/"
+            },
+            "E/18/283": {
+                "name": "R.D.J.M. Ranasinghe",
+                "email": "e18283@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/JayathriRanasinghe",
+                "linkedin": "https://www.linkedin.com/in/jayathri-ranasinghe-2171a9204/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/283",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18283.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/283/"
+            }
+        },
+        "supervisors": {
+            "damayanthiherath@eng.pdn.ac.lk": {
+                "name": "Dr. Damayanthi Herath",
+                "email": "damayanthiherath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/damayanthiherath",
+                "website": "https://damayanthiherath.wordpress.com/",
+                "linkedin": "https://www.linkedin.com/in/damayanthi-herath/",
+                "researchgate": "https://www.researchgate.net/profile/Damayanthi-Herath",
+                "google_scholar": "https://scholar.google.com/citations?user=G2jUV5IAAAAJ&hl=en"
+            },
+            "vijini.mallawaarachchi@flinders.edu.au": {
+                "name": "Dr. Vijini Mallawaarachchi",
+                "email": "vijini.mallawaarachchi@flinders.edu.au",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Bioinformatics",
+            "Metagenomics",
+            "Graph theory",
+            "Machine learning"
+        ]
+    },
     "e18-4yp-Neuromorphic-NoC-Architecture-for-SNNs": {
         "title": "Neuromorphic NoC Architecture for SNNs",
         "description": "",
