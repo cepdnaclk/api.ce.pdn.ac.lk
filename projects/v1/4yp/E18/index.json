@@ -1,16 +1,16 @@
 {
-    "e18-4yp-Automated-Medical-Image-Annotation-For-Dataset-Building": {
-        "title": "Automated Medical Image Annotation For Dataset Building",
+    "e18-4yp-Automated-Medical-Image-Annotation-for-Dataset-Building": {
+        "title": "Automated Medical Image Annotation for Dataset Building",
         "description": "",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Automated-Medical-Image-Annotation-For-Dataset-Building/",
-        "repo_url": "https://github.com/cepdnaclk/e18-4yp-Automated-Medical-Image-Annotation-For-Dataset-Building",
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Automated-Medical-Image-Annotation-for-Dataset-Building/",
+        "repo_url": "https://github.com/cepdnaclk/e18-4yp-Automated-Medical-Image-Annotation-for-Dataset-Building",
         "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Automated-Medical-Image-Annotation-For-Dataset-Building/"
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Automated-Medical-Image-Annotation-for-Dataset-Building/"
     },
     "e18-4yp-DL-Based-Stereo-Matching-Estimation": {
         "title": "DL Based Stereo Matching Estimation",
@@ -24,6 +24,19 @@
         "repo_url": "https://github.com/cepdnaclk/e18-4yp-DL-Based-Stereo-Matching-Estimation",
         "page_url": "https://cepdnaclk.github.io/e18-4yp-DL-Based-Stereo-Matching-Estimation",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/DL-Based-Stereo-Matching-Estimation/"
+    },
+    "e18-4yp-Machine-Vision-For-Quality-Inspection": {
+        "title": "Machine Vision For Quality Inspection",
+        "description": "This project pioneers a machine vision solution for automated manufacturing quality control, mitigating human errors and fatigue. Leveraging cameras and algorithms, the system detects defects, boosting productivity and cutting operational costs. Ideal for industries prioritizing efficient and precise defect identification in production.",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Machine-Vision-For-Quality-Inspection/",
+        "repo_url": "https://github.com/cepdnaclk/e18-4yp-Machine-Vision-For-Quality-Inspection",
+        "page_url": "https://cepdnaclk.github.io/e18-4yp-Machine-Vision-For-Quality-Inspection",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Machine-Vision-For-Quality-Inspection/"
     },
     "e18-4yp-Multi-Kingdom-Binning-of-Long-Read-Metagenomes": {
         "title": "Multi Kingdom Binning of Long Read Metagenomes",
@@ -115,18 +128,5 @@
         "repo_url": "https://github.com/cepdnaclk/e18-4yp-collaborative-mapping-with-swarm-robots",
         "page_url": "https://cepdnaclk.github.io/e18-4yp-collaborative-mapping-with-swarm-robots",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/collaborative-mapping-with-swarm-robots/"
-    },
-    "e18-4yp-machine-vision-for-quality-inspection": {
-        "title": "machine vision for quality inspection",
-        "description": "This project pioneers a machine vision solution for automated manufacturing quality control, mitigating human errors and fatigue. Leveraging cameras and algorithms, the system detects defects, boosting productivity and cutting operational costs. Ideal for industries prioritizing efficient and precise defect identification in production.",
-        "category": {
-            "title": "Undergraduate Research Projects",
-            "code": "4yp",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/machine-vision-for-quality-inspection/",
-        "repo_url": "https://github.com/cepdnaclk/e18-4yp-machine-vision-for-quality-inspection",
-        "page_url": "https://cepdnaclk.github.io/e18-4yp-machine-vision-for-quality-inspection",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/machine-vision-for-quality-inspection/"
     }
 }
