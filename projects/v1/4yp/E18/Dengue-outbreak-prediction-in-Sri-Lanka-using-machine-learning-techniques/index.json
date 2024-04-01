@@ -11,8 +11,65 @@
     "page_url": "https://cepdnaclk.github.io/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques/",
     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-    "team": {},
-    "supervisors": {},
+    "team": {
+        "E/18/181": {
+            "name": "K.M.S.L.Konara",
+            "email": "e18181@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/181",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18181.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/181/"
+        },
+        "E/18/224": {
+            "name": "G.D.R.Mihiranga",
+            "email": "e18224@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/224",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18224.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/224/"
+        },
+        "E/18/368": {
+            "name": "H.U.Uduwanage",
+            "email": "e18368@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/368",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18368.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/368/"
+        }
+    },
+    "supervisors": {
+        "namal@eng.pdn.ac.lk": {
+            "name": "Dr. Suneth Namal Karunarathna",
+            "email": "namal@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/suneth-namal-karunarathna/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/suneth-namal-karunarathna.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/namal",
+            "website": "",
+            "linkedin": "https://lk.linkedin.com/in/suneth-namal-b70b8688",
+            "researchgate": "https://www.researchgate.net/profile/Suneth-Namal",
+            "google_scholar": "https://scholar.google.com/citations?user=G39TP7EAAAAJ&hl=en"
+        },
+        "imeshuek@eng.pdn.ac.lk": {
+            "name": "Imesh Ekanayake",
+            "email": "imeshuek@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk//students/e15/092",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/imesh.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/imeshuek",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
     "tags": [
         "Final Year Projects"
     ]
