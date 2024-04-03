@@ -171,7 +171,7 @@
         "id": 30876798,
         "repository": "publications",
         "name": "Daily Build",
-        "state": "disabled_inactivity",
+        "state": "active",
         "urls": {
             "api": "https://api.github.com/repos/cepdnaclk/publications/actions/workflows/30876798",
             "html": "https://github.com/cepdnaclk/publications/blob/main/.github/workflows/daily.yml",
