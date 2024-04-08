@@ -10,5 +10,64 @@
     "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Student-Registration-System",
     "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Student-Registration-System",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Student-Registration-System/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+    "team": {
+        "E/19/096": {
+            "name": "E.M.C.Y.B.Ekanayake",
+            "email": "e19096@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/096",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19096.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/096/"
+        },
+        "E/19/100": {
+            "name": "E.P.S.G.Ellewela",
+            "email": "e19100@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/100",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19100.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/100/"
+        },
+        "E/19/495": {
+            "name": "A.G.D.C.Thilakarathne",
+            "email": "e19495@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Chamue19",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/495",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19495.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/495/"
+        }
+    },
+    "supervisors": {
+        "manjula.sandirigama@eng.pdn.ac.lk": {
+            "name": "Associate Professor Manjula Sandirigama",
+            "email": "manjula.sandirigama@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/manjula.sandirigama",
+            "website": "",
+            "linkedin": "https://lk.linkedin.com/in/manjula-sandirigama-0622784",
+            "researchgate": "",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=qpmlrL0AAAAJ"
+        },
+        "kamalanath@eng.pdn.ac.lk": {
+            "name": "Dr. Eng. Kamalanath Samarakoon",
+            "email": "kamalanath@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/kamalanath-samarakoon/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/kamalanath-samarakoon.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
+            "website": "http://kamalanath.samarakoon.info/",
+            "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
+            "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
+            "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
+        }
+    }
 }

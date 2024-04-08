@@ -10,5 +10,70 @@
     "repo_url": "https://github.com/cepdnaclk/e19-co227-TecHub-help-desk-ticketing-system",
     "page_url": "https://cepdnaclk.github.io/e19-co227-TecHub-help-desk-ticketing-system",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/TecHub-help-desk-ticketing-system/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+    "team": {
+        "E/19/310": {
+            "name": "Ranage R.D.P.R.",
+            "email": "e19310@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/310",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19310.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/310/"
+        },
+        "E/19/167": {
+            "name": "Jayawaradane H.D.N.S.",
+            "email": "e19167@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/167",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19167.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/167/"
+        },
+        "E/19/028": {
+            "name": "Atugedara A.N.I.",
+            "email": "e19028@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/NilakshiInduwara",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/028",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19028.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/028/"
+        },
+        "E/19/431": {
+            "name": "Wickramaarachchi I.W.A.P.D.",
+            "email": "e19431@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Prageeth-Dananjaya",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/431",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19431.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/431/"
+        }
+    },
+    "supervisors": {
+        "upuljm@eng.pdn.ac.lk": {
+            "name": "Dr. Upul Jayasinghe",
+            "email": "upuljm@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/upuljm",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/upuljm/",
+            "researchgate": "https://www.researchgate.net/profile/Upul-Jayasinghe",
+            "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
+        }
+    },
+    "tags": [
+        "Website",
+        "Ticketing System",
+        "Help Desk",
+        "TecHub"
+    ]
 }
