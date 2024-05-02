@@ -10,5 +10,78 @@
     "repo_url": "https://github.com/cepdnaclk/e19-co226-Database-project-Hospital-Management-System",
     "page_url": "https://cepdnaclk.github.io/e19-co226-Database-project-Hospital-Management-System",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-project-Hospital-Management-System/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+    "team": {
+        "E/19/205": {
+            "name": "Kumara I.P.S.N.U.",
+            "email": "e19205@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/SahanNimantha99",
+            "linkedin": "https://www.linkedin.com/in/sahan-nimantha-54424a222/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/205",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19205.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/205/"
+        },
+        "E/19/210": {
+            "name": "Kumarasiri R.P.J.R.",
+            "email": "e19210@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/jali-k",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/210",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19210.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/210/"
+        },
+        "E/19/193": {
+            "name": "Kaushalya N.V.K.",
+            "email": "#",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/193",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19193.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/193/"
+        }
+    },
+    "supervisors": {
+        "damithas@eng.pdn.ac.lk": {
+            "name": "Damitha Senevirathne",
+            "email": "damithas@eng.pdn.ac.lk",
+            "profile_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "api_url": "#",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        },
+        "manjula.sandirigama@eng.pdn.ac.lk": {
+            "name": "Associate Professor Manjula Sandirigama",
+            "email": "manjula.sandirigama@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/manjula.sandirigama",
+            "website": "",
+            "linkedin": "https://lk.linkedin.com/in/manjula-sandirigama-0622784",
+            "researchgate": "",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=qpmlrL0AAAAJ"
+        },
+        "kamalanath@eng.pdn.ac.lk": {
+            "name": "Dr. Eng. Kamalanath Samarakoon",
+            "email": "kamalanath@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/kamalanath-samarakoon/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/kamalanath-samarakoon.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
+            "website": "http://kamalanath.samarakoon.info/",
+            "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
+            "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
+            "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
+        }
+    },
+    "tags": [
+        "Online Hospital Database Managment System"
+    ]
 }
