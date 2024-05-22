@@ -8,7 +8,70 @@
     },
     "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Heart-Disease-Prediction-System/",
     "repo_url": "https://github.com/cepdnaclk/e19-co544-Heart-Disease-Prediction-System",
-    "page_url": "#",
+    "page_url": "https://cepdnaclk.github.io/e19-co544-Heart-Disease-Prediction-System",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Heart-Disease-Prediction-System/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+    "team": {
+        "E/19/310": {
+            "name": "Ranage R.D.P.R.",
+            "email": "e19310@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/310",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19310.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/310/"
+        },
+        "E/19/426": {
+            "name": "Weerasinghe P.M.",
+            "email": "e19426@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/426",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19426.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/426/"
+        },
+        "E/19/431": {
+            "name": "Wickramaarachchi I.W.A.P.D.",
+            "email": "e19431@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Prageeth-Dananjaya",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/431",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19431.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/431/"
+        },
+        "E/19/453": {
+            "name": "W.A.A.M.T. Withanaarachchi",
+            "email": "e19453@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/AkashMuthumal",
+            "linkedin": "https://www.linkedin.com/in/akash-withanaarachchi-185006245",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/453",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19453.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/453/"
+        }
+    },
+    "supervisors": {
+        "dmayanthiherath@eng.pdn.ac.lk": {
+            "name": "Dr. Damayanthi Herath",
+            "email": "dmayanthiherath@eng.pdn.ac.lk",
+            "profile_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "api_url": "#",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Machine Learning",
+        "Data Mining"
+    ]
 }
