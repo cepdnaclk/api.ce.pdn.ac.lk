@@ -25547,9 +25547,68 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/Food-Buddy/",
         "repo_url": "https://github.com/cepdnaclk/e20-co225-Food-Buddy",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e20-co225-Food-Buddy",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Food-Buddy/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+        "team": {
+            "E/20/036": {
+                "name": "K.G.R.I. Bandara",
+                "email": "e20036@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/induwara23630",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/036",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20036.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/036/"
+            },
+            "E/20/037": {
+                "name": "L.R.H.I. Bandara",
+                "email": "e20037@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/haritha037",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/037",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20037.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/037/"
+            },
+            "E/20/350": {
+                "name": "J.P.D.N. Sandamali",
+                "email": "e20350@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/350",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20350.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/350/"
+            },
+            "E/20/377": {
+                "name": "V.P.H. Sidantha",
+                "email": "e20377@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/sidantha0377",
+                "linkedin": "https://www.linkedin.com/in/heshan-sidantha-5b9925296/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/377",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20377.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/377/"
+            }
+        },
+        "supervisors": {
+            "damayanthiherath@eng.pdn.ac.lk": {
+                "name": "Dr. Damayanthi Herath",
+                "email": "damayanthiherath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/damayanthiherath",
+                "website": "https://damayanthiherath.wordpress.com/",
+                "linkedin": "https://www.linkedin.com/in/damayanthi-herath/",
+                "researchgate": "https://www.researchgate.net/profile/Damayanthi-Herath",
+                "google_scholar": "https://scholar.google.com/citations?user=G2jUV5IAAAAJ&hl=en"
+            }
+        }
     },
     "e20-co225-Mentormate": {
         "title": "Mentormate",
