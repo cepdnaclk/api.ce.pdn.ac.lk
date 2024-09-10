@@ -170,7 +170,7 @@
     },
     "e18-4yp-Personalized-Multimodal-Emotion-Prediction": {
         "title": "Personalized Multimodal Emotion Prediction",
-        "description": "Our aim is to build an ensemble model that is  based on reinforcement learning, and capable of capturing the user specific  weight of each modality (visual,audio,text) in the emotional status.",
+        "description": "In this research, we introduce a personalized emotion prediction model that focuses on four key emotions: happy, sad, neutral, and angry. What makes this model special is its ability to adapt to each individual user, learning from how they personally express emotions and adjusting the importance of each modality accordingly.",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
