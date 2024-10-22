@@ -87,6 +87,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/AI-as-a-Microservice-for-Smart-Edge-of-Things/"
         }
     ],
+    "API": [
+        {
+            "title": "Computer Engineering Portal",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/Computer-Engineering-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co225-Computer-Engineering-Portal",
+            "page_url": "https://cepdnaclk.github.io/e20-co225-Computer-Engineering-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Computer-Engineering-Portal/"
+        }
+    ],
     "Accelerated Computing": [
         {
             "title": "Acceleration of DTW algorithm for real time nanopore selective sequencing using GPUs",
@@ -9214,6 +9229,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Library-Management-System-Web-App",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System-Web-App/"
+        },
+        {
+            "title": "Computer Engineering Portal",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/Computer-Engineering-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co225-Computer-Engineering-Portal",
+            "page_url": "https://cepdnaclk.github.io/e20-co225-Computer-Engineering-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Computer-Engineering-Portal/"
         },
         {
             "title": "Number Plate Recognition system",
