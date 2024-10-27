@@ -1,4 +1,17 @@
 {
+    "e20-co227-Computer-Engineering-Portal": {
+        "title": "Computer Engineering Portal",
+        "description": "Internal and Public web service provider of the Department of Computer Engineering",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Computer-Engineering-Portal/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co227-Computer-Engineering-Portal",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Computer-Engineering-Portal/"
+    },
     "e20-co227-Erasmus-plus-Project-Web-and-MIS": {
         "title": "Erasmus plus Project Web and MIS",
         "description": "A comprehensive software solution designed to support the management and coordination of Erasmus+ projects.",
@@ -24,6 +37,19 @@
         "repo_url": "https://github.com/cepdnaclk/e20-co227-FOE-Room-Reservation",
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/FOE-Room-Reservation/"
+    },
+    "e20-co227-Mentormate": {
+        "title": "Mentormate",
+        "description": "Personalized AI Tutor for A/L Students.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Mentormate/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co227-Mentormate",
+        "page_url": "https://cepdnaclk.github.io/e20-co227-Mentormate",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Mentormate/"
     },
     "e20-co227-Postgraduate-Student-Management-System": {
         "title": "Postgraduate Student Management System",
