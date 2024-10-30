@@ -1,4 +1,17 @@
 {
+    "e20-CO227-TourMate": {
+        "title": "TourMate",
+        "description": "This tour guide web app helps tourists plan trips efficiently with personalized routes, hotel recommendations, and scheduling based on preferences. Built with Spring Boot and React, it integrates maps and uses JWT for secure user authentication.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/TourMate/",
+        "repo_url": "https://github.com/cepdnaclk/e20-CO227-TourMate",
+        "page_url": "https://cepdnaclk.github.io/e20-CO227-TourMate",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/TourMate/"
+    },
     "e20-co227-Cardiac-Patient-Data-Management-System": {
         "title": "Cardiac Patient Data Management System",
         "description": "CardioGuard is a cardiac patient management system with machine learning, providing doctors and patients an overview of medical states. Doctors and administrators can access patient data for easier care, while patients can view some of their information from their initial admission into the medical\u00a0facility.",

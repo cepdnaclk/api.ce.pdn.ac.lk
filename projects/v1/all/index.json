@@ -14608,6 +14608,20 @@
         },
         "supervisors": {}
     },
+    "e20-CO227-TourMate": {
+        "title": "TourMate",
+        "description": "This tour guide web app helps tourists plan trips efficiently with personalized routes, hotel recommendations, and scheduling based on preferences. Built with Spring Boot and React, it integrates maps and uses JWT for secure user authentication.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/TourMate/",
+        "repo_url": "https://github.com/cepdnaclk/e20-CO227-TourMate",
+        "page_url": "https://cepdnaclk.github.io/e20-CO227-TourMate",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/TourMate/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
+    },
     "e15-co227-Pera-Knowledge-Portal": {
         "title": "Pera Knowledge Portal",
         "description": "Pera Knowledge Portal is a web site that will allow visitors to do a full-text search on student project reports and thesis, developed using PHP and ElasticSearch",
