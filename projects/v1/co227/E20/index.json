@@ -12,6 +12,19 @@
         "page_url": "https://cepdnaclk.github.io/e20-CO227-TourMate",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/TourMate/"
     },
+    "e20-co227-ACES-fund-and-inventory-management-system": {
+        "title": "ACES fund and inventory management system",
+        "description": "Our system is designed to streamline fund and inventory management for aces, making it easier for students and staff to request resources and for administrators to efficiently manage approvals.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/ACES-fund-and-inventory-management-system/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co227-ACES-fund-and-inventory-management-system",
+        "page_url": "https://cepdnaclk.github.io/e20-co227-ACES-fund-and-inventory-management-system",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/ACES-fund-and-inventory-management-system/"
+    },
     "e20-co227-Cardiac-Patient-Data-Management-System": {
         "title": "Cardiac Patient Data Management System",
         "description": "CardioGuard is a cardiac patient management system with machine learning, providing doctors and patients an overview of medical states. Doctors and administrators can access patient data for easier care, while patients can view some of their information from their initial admission into the medical\u00a0facility.",
@@ -90,6 +103,19 @@
         "page_url": "https://cepdnaclk.github.io/e20-co227-Mentormate",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Mentormate/"
     },
+    "e20-co227-OASIS-Teledentistry-Mobile-Application": {
+        "title": "OASIS Teledentistry Mobile Application",
+        "description": "",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/OASIS-Teledentistry-Mobile-Application/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co227-OASIS-Teledentistry-Mobile-Application",
+        "page_url": "https://cepdnaclk.github.io/e20-co227-OASIS-Teledentistry-Mobile-Application",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/OASIS-Teledentistry-Mobile-Application/"
+    },
     "e20-co227-Postgraduate-Student-Management-System": {
         "title": "Postgraduate Student Management System",
         "description": "The Post Graduate Students management system is an effort to enhance the administrative efficiency and academic tracking within the Department of Computer Engineering at University of Peradeniya.",
@@ -115,5 +141,18 @@
         "repo_url": "https://github.com/cepdnaclk/e20-co227-Student-Academic-Tracker",
         "page_url": "https://cepdnaclk.github.io/e20-co227-Student-Academic-Tracker",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Student-Academic-Tracker/"
+    },
+    "e20-co227-e-Conductor": {
+        "title": "e Conductor",
+        "description": "e-Conductor is an online bus ticketing platform for passengers, bus owners, and transport authorities. It includes a mobile app for ticket booking, schedules, and real-time updates, plus an admin web portal for bus tracking, schedule, and revenue management. e-Conductor streamlines operations, improving convenience and efficiency.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/e-Conductor/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co227-e-Conductor",
+        "page_url": "https://cepdnaclk.github.io/e20-co227-e-Conductor",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/e-Conductor/"
     }
 }
