@@ -1,7 +1,7 @@
 {
     "e20-CO227-TourMate": {
         "title": "TourMate",
-        "description": "This tour guide web app helps tourists plan trips efficiently with personalized routes, hotel recommendations, and scheduling based on preferences. Built with Spring Boot and React, it integrates maps and uses JWT for secure user authentication.",
+        "description": "Tourmate web application to be a e-guide to tourists",
         "category": {
             "title": "Software Systems Projects",
             "code": "co227",
@@ -64,6 +64,19 @@
         "page_url": "https://cepdnaclk.github.io/e20-co227-Cardiac-Patient-Data-Management-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Cardiac-Patient-Data-Management-System/"
     },
+    "e20-co227-CathLab-Management-System": {
+        "title": "CathLab Management System",
+        "description": "The Cathlab Management System modernizes Peradeniya Hospital's catheterization lab by replacing manual processes with a digital platform. It centralizes patient data, automates workflows, and improves efficiency, accuracy, and scalability, enabling better care for cardiovascular patients.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/CathLab-Management-System/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co227-CathLab-Management-System",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/CathLab-Management-System/"
+    },
     "e20-co227-Computer-Engineering-Portal": {
         "title": "Computer Engineering Portal",
         "description": "Internal and Public web service provider of the Department of Computer Engineering",
@@ -79,7 +92,7 @@
     },
     "e20-co227-Denture-Design-Studio": {
         "title": "Denture Design Studio",
-        "description": "A graphical platform that provides an opportunity for real-time denture designing with features for self evaluation for dental students with guidance from assessors",
+        "description": "",
         "category": {
             "title": "Software Systems Projects",
             "code": "co227",
@@ -128,6 +141,45 @@
         "repo_url": "https://github.com/cepdnaclk/e20-co227-Food-Buddy",
         "page_url": "https://cepdnaclk.github.io/e20-co227-Food-Buddy",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Food-Buddy/"
+    },
+    "e20-co227-Job-Magnet": {
+        "title": "Job Magnet",
+        "description": "Job Magnet is an innovative online job portal designed to connect job seekers and employers effortlessly. With a focus on usability, efficiency, and professional networking, Job Magnet streamlines the hiring process and empowers users to achieve their career goals.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Job-Magnet/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co227-Job-Magnet",
+        "page_url": "https://cepdnaclk.github.io/e20-co227-Job-Magnet",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Job-Magnet/"
+    },
+    "e20-co227-Job_Magnet": {
+        "title": "Job_Magnet",
+        "description": "Job Magnet is an innovative online job portal designed to connect job seekers and employers effortlessly. With a focus on usability, efficiency, and professional networking, Job Magnet streamlines the hiring process and empowers users to achieve their career goals.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Job_Magnet/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co227-Job_Magnet",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Job_Magnet/"
+    },
+    "e20-co227-MIS-for-Non-Academic-Establishment-Division": {
+        "title": "MIS for Non Academic Establishment Division",
+        "description": "The Non-Academic Establishment Division is responsible for various tasks related to the management and administration of non-academic staff at the University of Peradeniya. These tasks include maintaining staff records, transfers, leaves and other employee-related processes.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/MIS-for-Non-Academic-Establishment-Division/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co227-MIS-for-Non-Academic-Establishment-Division",
+        "page_url": "https://cepdnaclk.github.io/e20-co227-MIS-for-Non-Academic-Establishment-Division",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/MIS-for-Non-Academic-Establishment-Division/"
     },
     "e20-co227-MLink-A-Pharmacy-Linking-Platform": {
         "title": "MLink A Pharmacy Linking Platform",

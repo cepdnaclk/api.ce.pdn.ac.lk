@@ -12696,6 +12696,20 @@
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Cardiac-Patient-Data-Management-System/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
     },
+    "e20-co227-CathLab-Management-System": {
+        "title": "CathLab Management System",
+        "description": "The Cathlab Management System modernizes Peradeniya Hospital's catheterization lab by replacing manual processes with a digital platform. It centralizes patient data, automates workflows, and improves efficiency, accuracy, and scalability, enabling better care for cardiovascular patients.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/CathLab-Management-System/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co227-CathLab-Management-System",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/CathLab-Management-System/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
+    },
     "e20-co227-Computer-Engineering-Portal": {
         "title": "Computer Engineering Portal",
         "description": "Internal and Public web service provider of the Department of Computer Engineering",
@@ -12786,7 +12800,7 @@
     },
     "e20-co227-Denture-Design-Studio": {
         "title": "Denture Design Studio",
-        "description": "A graphical platform that provides an opportunity for real-time denture designing with features for self evaluation for dental students with guidance from assessors",
+        "description": "",
         "category": {
             "title": "Software Systems Projects",
             "code": "co227",
@@ -12957,6 +12971,107 @@
                 "google_scholar": "https://scholar.google.com/citations?user=G2jUV5IAAAAJ&hl=en"
             }
         }
+    },
+    "e20-co227-Job-Magnet": {
+        "title": "Job Magnet",
+        "description": "Job Magnet is an innovative online job portal designed to connect job seekers and employers effortlessly. With a focus on usability, efficiency, and professional networking, Job Magnet streamlines the hiring process and empowers users to achieve their career goals.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Job-Magnet/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co227-Job-Magnet",
+        "page_url": "https://cepdnaclk.github.io/e20-co227-Job-Magnet",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Job-Magnet/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+        "team": {
+            "E/20/121": {
+                "name": "H.P.M.S.Gunasinha",
+                "email": "e20121@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/121",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20121.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/121/"
+            },
+            "E/20/062": {
+                "name": "K.S.Dhananji",
+                "email": "e20062@gmail.com",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/062",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20062.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/062/"
+            },
+            "E/20/259": {
+                "name": "Munasinghe S.L.",
+                "email": "e20259@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/259",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20259.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/259/"
+            },
+            "E/20/376": {
+                "name": "R.M.M.Shyamantha",
+                "email": "e20376@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/manujashyamantha",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/376",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20376.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/376/"
+            }
+        },
+        "supervisors": {
+            "manjula.sandirigama@eng.pdn.ac.lk": {
+                "name": "Professor Manjula Sandirigama",
+                "email": "manjula.sandirigama@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/manjula.sandirigama",
+                "website": "",
+                "linkedin": "https://lk.linkedin.com/in/manjula-sandirigama-0622784",
+                "researchgate": "",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=qpmlrL0AAAAJ"
+            }
+        }
+    },
+    "e20-co227-Job_Magnet": {
+        "title": "Job_Magnet",
+        "description": "Job Magnet is an innovative online job portal designed to connect job seekers and employers effortlessly. With a focus on usability, efficiency, and professional networking, Job Magnet streamlines the hiring process and empowers users to achieve their career goals.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Job_Magnet/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co227-Job_Magnet",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Job_Magnet/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
+    },
+    "e20-co227-MIS-for-Non-Academic-Establishment-Division": {
+        "title": "MIS for Non Academic Establishment Division",
+        "description": "The Non-Academic Establishment Division is responsible for various tasks related to the management and administration of non-academic staff at the University of Peradeniya. These tasks include maintaining staff records, transfers, leaves and other employee-related processes.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/MIS-for-Non-Academic-Establishment-Division/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co227-MIS-for-Non-Academic-Establishment-Division",
+        "page_url": "https://cepdnaclk.github.io/e20-co227-MIS-for-Non-Academic-Establishment-Division",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/MIS-for-Non-Academic-Establishment-Division/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
     },
     "e20-co227-MLink-A-Pharmacy-Linking-Platform": {
         "title": "MLink A Pharmacy Linking Platform",
@@ -13440,7 +13555,7 @@
     },
     "e20-CO227-TourMate": {
         "title": "TourMate",
-        "description": "This tour guide web app helps tourists plan trips efficiently with personalized routes, hotel recommendations, and scheduling based on preferences. Built with Spring Boot and React, it integrates maps and uses JWT for secure user authentication.",
+        "description": "Tourmate web application to be a e-guide to tourists",
         "category": {
             "title": "Software Systems Projects",
             "code": "co227",
@@ -13450,7 +13565,66 @@
         "repo_url": "https://github.com/cepdnaclk/e20-CO227-TourMate",
         "page_url": "https://cepdnaclk.github.io/e20-CO227-TourMate",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/TourMate/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+        "team": {
+            "E/20/248": {
+                "name": "Tharindu Mapagedara",
+                "email": "e20248@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://www.github.com/Tharindu09",
+                "linkedin": "https://www.linkedin.com/in/tharindu-mapagedara-6119572a0/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/248",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20248.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/248/"
+            },
+            "E/20/453": {
+                "name": "Janith Rathuge",
+                "email": "e20453@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/janithyogesh",
+                "linkedin": "https://www.linkedin.com/in/janith-rathuge-6242a7260",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/453",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20453.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/453/"
+            },
+            "E/20/158": {
+                "name": "Chamuditha Jananga",
+                "email": "e20158@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/tgcjananga",
+                "linkedin": "https://www.linkedin.com/in/Chamuditha Jananga/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/158",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20158.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/158/"
+            },
+            "E/20/300": {
+                "name": "Tharushika Prasadinie",
+                "email": "e20300@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "https://www.linkedin.com/in/h-a-m-t-prasadinie-29a13a261?trk=blended-typeahead",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/300",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20300.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/300/"
+            }
+        },
+        "supervisors": {
+            "namal@eng.pdn.ac.lk": {
+                "name": "Dr. Suneth Namal Karunarathna",
+                "email": "namal@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/suneth-namal-karunarathna/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/suneth-namal-karunarathna.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/namal",
+                "website": "",
+                "linkedin": "https://lk.linkedin.com/in/suneth-namal-b70b8688",
+                "researchgate": "https://www.researchgate.net/profile/Suneth-Namal",
+                "google_scholar": "https://scholar.google.com/citations?user=G39TP7EAAAAJ&hl=en"
+            }
+        }
     },
     "e20-co227-e-Conductor": {
         "title": "e Conductor",
@@ -26683,90 +26857,6 @@
             "Web",
             "API"
         ]
-    },
-    "e20-co225-Denture-Design-Studio": {
-        "title": "Denture Design Studio",
-        "description": "A graphical platform that provides an opportunity for real-time denture designing with features for self evaluation for dental students with guidance from assessors",
-        "category": {
-            "title": "Software Constructions Projects (CO225)",
-            "code": "co225",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/Denture-Design-Studio/",
-        "repo_url": "https://github.com/cepdnaclk/e20-co225-Denture-Design-Studio",
-        "page_url": "https://cepdnaclk.github.io/e20-co225-Denture-Design-Studio",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Denture-Design-Studio/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
-        "team": {
-            "E/20/346": {
-                "name": "Samarakoon S.M.P.H.",
-                "email": "e20346@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/piyusam0133",
-                "linkedin": "https://www.linkedin.com/in/piyumini-samarakoon",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/346",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20346.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/346/"
-            },
-            "E/20/367": {
-                "name": "Senavirathna D.B.C.M.",
-                "email": "e20367@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/367",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20367.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/367/"
-            },
-            "E/20/439": {
-                "name": "Wikkramasinghe J.M.W.G.R.L.",
-                "email": "e20439@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/ravindu439",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/439",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20439.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/439/"
-            },
-            "E/20/419": {
-                "name": "Wakkumbura M.M.S.S.",
-                "email": "e20419@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/samadhisakunika",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/419",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20419.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/419/"
-            }
-        },
-        "supervisors": {
-            "isurunawinne@eng.pdn.ac.lk": {
-                "name": "Dr. Isuru Nawinne",
-                "email": "isurunawinne@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
-                "website": "",
-                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
-                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
-                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
-            },
-            "srasnayaka@dental.pdn.ac.lk": {
-                "name": "Dr. Sumudu Rasanayaka",
-                "email": "srasnayaka@dental.pdn.ac.lk",
-                "profile_url": "#",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
-                "api_url": "#",
-                "website": "#",
-                "linkedin": "#",
-                "researchgate": "#",
-                "google_scholar": "#"
-            }
-        }
     },
     "e20-co225-software-to-analyse-FMD-of-arteries": {
         "title": "software to analyse FMD of arteries",
