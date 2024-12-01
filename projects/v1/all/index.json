@@ -12682,6 +12682,79 @@
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Artery-Resolver/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
     },
+    "e20-co227-BookWallet": {
+        "title": "BookWallet",
+        "description": "The best social-media application for the book Lovers",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/BookWallet/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co227-BookWallet",
+        "page_url": "https://cepdnaclk.github.io/e20-co227-BookWallet",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/BookWallet/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+        "team": {
+            "E/20/100": {
+                "name": "A.I. Fernando",
+                "email": "e20100@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/AIFERNANDOE20100",
+                "linkedin": "https://www.linkedin.com/in/akash-fernandu-06a6281a6",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/100",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20100.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/100/"
+            },
+            "E/20/243": {
+                "name": "K.M.K.Malintha",
+                "email": "e20243@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/kushanmalintha",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/243",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20243.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/243/"
+            },
+            "E/20/280": {
+                "name": "R.S.Pathirage",
+                "email": "e20280@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/RavinduRepo",
+                "linkedin": "https://www.linkedin.com/in/ravindu-pathirage-228b66254/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/280",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20280.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/280/"
+            },
+            "E/20/434": {
+                "name": "Wickramaarachchi P.A.",
+                "email": "e20434@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/434",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20434.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/434/"
+            }
+        },
+        "supervisors": {
+            "yasodhav@eng.pdn.ac.lk": {
+                "name": "Ms. Yasodha Vimukthi",
+                "email": "yasodhav@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/yasodha-vimukthi.jpeg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+                "researchgate": "",
+                "google_scholar": ""
+            }
+        }
+    },
     "e20-co227-Cardiac-Patient-Data-Management-System": {
         "title": "Cardiac Patient Data Management System",
         "description": "CardioGuard is a cardiac patient management system with machine learning, providing doctors and patients an overview of medical states. Doctors and administrators can access patient data for easier care, while patients can view some of their information from their initial admission into the medical\u00a0facility.",
@@ -12800,7 +12873,7 @@
     },
     "e20-co227-Denture-Design-Studio": {
         "title": "Denture Design Studio",
-        "description": "",
+        "description": "A graphical platform that provides facilities for real-time denture designing with features for self evaluation for dental students with guidance from assesors.",
         "category": {
             "title": "Software Systems Projects",
             "code": "co227",
@@ -12884,20 +12957,6 @@
                 "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
             }
         }
-    },
-    "e20-co227-FOE-Room-Reservation": {
-        "title": "FOE Room Reservation",
-        "description": "FOE Room reservation web application.",
-        "category": {
-            "title": "Software Systems Projects",
-            "code": "co227",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/FOE-Room-Reservation/",
-        "repo_url": "https://github.com/cepdnaclk/e20-co227-FOE-Room-Reservation",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/FOE-Room-Reservation/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
     },
     "e20-co227-Food-Buddy": {
         "title": "Food Buddy",
@@ -12984,79 +13043,6 @@
         "repo_url": "https://github.com/cepdnaclk/e20-co227-Job-Magnet",
         "page_url": "https://cepdnaclk.github.io/e20-co227-Job-Magnet",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Job-Magnet/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-        "team": {
-            "E/20/121": {
-                "name": "H.P.M.S.Gunasinha",
-                "email": "e20121@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/121",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20121.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/121/"
-            },
-            "E/20/062": {
-                "name": "K.S.Dhananji",
-                "email": "e20062@gmail.com",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/062",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20062.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/062/"
-            },
-            "E/20/259": {
-                "name": "Munasinghe S.L.",
-                "email": "e20259@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/259",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20259.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/259/"
-            },
-            "E/20/376": {
-                "name": "R.M.M.Shyamantha",
-                "email": "e20376@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/manujashyamantha",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/376",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20376.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/376/"
-            }
-        },
-        "supervisors": {
-            "manjula.sandirigama@eng.pdn.ac.lk": {
-                "name": "Professor Manjula Sandirigama",
-                "email": "manjula.sandirigama@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/manjula.sandirigama",
-                "website": "",
-                "linkedin": "https://lk.linkedin.com/in/manjula-sandirigama-0622784",
-                "researchgate": "",
-                "google_scholar": "https://scholar.google.com/citations?hl=en&user=qpmlrL0AAAAJ"
-            }
-        }
-    },
-    "e20-co227-Job_Magnet": {
-        "title": "Job_Magnet",
-        "description": "Job Magnet is an innovative online job portal designed to connect job seekers and employers effortlessly. With a focus on usability, efficiency, and professional networking, Job Magnet streamlines the hiring process and empowers users to achieve their career goals.",
-        "category": {
-            "title": "Software Systems Projects",
-            "code": "co227",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Job_Magnet/",
-        "repo_url": "https://github.com/cepdnaclk/e20-co227-Job_Magnet",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Job_Magnet/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
     },
     "e20-co227-MIS-for-Non-Academic-Establishment-Division": {
@@ -13555,7 +13541,7 @@
     },
     "e20-CO227-TourMate": {
         "title": "TourMate",
-        "description": "Tourmate web application to be a e-guide to tourists",
+        "description": "TourMate simplifies trip planning by ending the need for endless scrolling. It offers personalized schedules with hotels, attractions, weather updates, and routes for a hassle-free travel experience.",
         "category": {
             "title": "Software Systems Projects",
             "code": "co227",
@@ -28595,6 +28581,20 @@
         "team": {},
         "supervisors": {}
     },
+    "e20-co502-RV32IM-pipeline-implementation-group2": {
+        "title": "RV32IM pipeline implementation group2",
+        "description": "This Git repository contains the implementation of a RISC32IM processor pipeline using Verilog. The pipeline includes stages for instruction fetch, decode, execute, memory access, and write-back. The implementation includes a testbench for verification.",
+        "category": {
+            "title": "Advanced Computer Architecture (CO502)",
+            "code": "co502",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co502/e20/RV32IM-pipeline-implementation-group2/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co502-RV32IM-pipeline-implementation-group2",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E20/RV32IM-pipeline-implementation-group2/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg"
+    },
     "e20-co502-RV32IM_Pipelined_Processor_Group-04": {
         "title": "RV32IM_Pipelined_Processor_Group 04",
         "description": "Design and implementation of a 32-bit RISC-V processor supporting the RV32IM instruction set, developed as part of the Advanced Computer Architecture course (CO502). Webpage: https://cepdnaclk.github.io/e20-co502-RV32IM_Pipelined_Processor",
@@ -28607,7 +28607,61 @@
         "repo_url": "https://github.com/cepdnaclk/e20-co502-RV32IM_Pipelined_Processor_Group-04",
         "page_url": "https://cepdnaclk.github.io/e20-co502-RV32IM_Pipelined_Processor_Group-04",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E20/RV32IM_Pipelined_Processor_Group-04/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+        "team": {
+            "E/20/032": {
+                "name": "A.M.N.C. Bandara",
+                "email": "e20032@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/ChethiyaB",
+                "linkedin": "https://www.linkedin.com/in/chethiyab/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/032",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20032.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/032/"
+            },
+            "E/20/034": {
+                "name": "G.M.M.R.Bandara",
+                "email": "e20034@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/mathisha034",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/034",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20034.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/034/"
+            },
+            "E/20/157": {
+                "name": "S.M.B.G.Janakantha",
+                "email": "e20157@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/Bimsara-Janakantha/",
+                "linkedin": "https://www.linkedin.com/in/Bimsara-Janakantha/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/157",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20157.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/157/"
+            }
+        },
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            }
+        },
+        "tags": [
+            "CO543",
+            "Advanced Computer Architecture",
+            "RISC V",
+            "RV32IM"
+        ]
     },
     "e14-co542-balancing-an-inverted-pendulum-using-a-neural-network": {
         "title": "balancing an inverted pendulum using a neural network",

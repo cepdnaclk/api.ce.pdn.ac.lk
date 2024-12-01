@@ -1,7 +1,7 @@
 {
     "e20-CO227-TourMate": {
         "title": "TourMate",
-        "description": "Tourmate web application to be a e-guide to tourists",
+        "description": "TourMate simplifies trip planning by ending the need for endless scrolling. It offers personalized schedules with hotels, attractions, weather updates, and routes for a hassle-free travel experience.",
         "category": {
             "title": "Software Systems Projects",
             "code": "co227",
@@ -51,6 +51,19 @@
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Artery-Resolver/"
     },
+    "e20-co227-BookWallet": {
+        "title": "BookWallet",
+        "description": "The best social-media application for the book Lovers",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/BookWallet/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co227-BookWallet",
+        "page_url": "https://cepdnaclk.github.io/e20-co227-BookWallet",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/BookWallet/"
+    },
     "e20-co227-Cardiac-Patient-Data-Management-System": {
         "title": "Cardiac Patient Data Management System",
         "description": "CardioGuard is a cardiac patient management system with machine learning, providing doctors and patients an overview of medical states. Doctors and administrators can access patient data for easier care, while patients can view some of their information from their initial admission into the medical\u00a0facility.",
@@ -92,7 +105,7 @@
     },
     "e20-co227-Denture-Design-Studio": {
         "title": "Denture Design Studio",
-        "description": "",
+        "description": "A graphical platform that provides facilities for real-time denture designing with features for self evaluation for dental students with guidance from assesors.",
         "category": {
             "title": "Software Systems Projects",
             "code": "co227",
@@ -115,19 +128,6 @@
         "repo_url": "https://github.com/cepdnaclk/e20-co227-Erasmus-plus-Project-Web-and-MIS",
         "page_url": "https://cepdnaclk.github.io/e20-co227-Erasmus-plus-Project-Web-and-MIS",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Erasmus-plus-Project-Web-and-MIS/"
-    },
-    "e20-co227-FOE-Room-Reservation": {
-        "title": "FOE Room Reservation",
-        "description": "FOE Room reservation web application.",
-        "category": {
-            "title": "Software Systems Projects",
-            "code": "co227",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/FOE-Room-Reservation/",
-        "repo_url": "https://github.com/cepdnaclk/e20-co227-FOE-Room-Reservation",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/FOE-Room-Reservation/"
     },
     "e20-co227-Food-Buddy": {
         "title": "Food Buddy",
@@ -154,19 +154,6 @@
         "repo_url": "https://github.com/cepdnaclk/e20-co227-Job-Magnet",
         "page_url": "https://cepdnaclk.github.io/e20-co227-Job-Magnet",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Job-Magnet/"
-    },
-    "e20-co227-Job_Magnet": {
-        "title": "Job_Magnet",
-        "description": "Job Magnet is an innovative online job portal designed to connect job seekers and employers effortlessly. With a focus on usability, efficiency, and professional networking, Job Magnet streamlines the hiring process and empowers users to achieve their career goals.",
-        "category": {
-            "title": "Software Systems Projects",
-            "code": "co227",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Job_Magnet/",
-        "repo_url": "https://github.com/cepdnaclk/e20-co227-Job_Magnet",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Job_Magnet/"
     },
     "e20-co227-MIS-for-Non-Academic-Establishment-Division": {
         "title": "MIS for Non Academic Establishment Division",
