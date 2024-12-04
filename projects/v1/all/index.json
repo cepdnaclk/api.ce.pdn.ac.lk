@@ -12666,7 +12666,66 @@
         "repo_url": "https://github.com/cepdnaclk/e20-co227-Academic-Staff-Management-Information-System",
         "page_url": "https://cepdnaclk.github.io/e20-co227-Academic-Staff-Management-Information-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Academic-Staff-Management-Information-System/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+        "team": {
+            "E/20/049": {
+                "name": "B.D.K.Chanuka",
+                "email": "e20049@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/chanukabdk",
+                "linkedin": "https://www.linkedin.com/in/chanukabdk/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/049",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20049.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/049/"
+            },
+            "E/20/093": {
+                "name": "D.M.B. Edirisooriya",
+                "email": "e20093@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/madhurab00",
+                "linkedin": "https://www.linkedin.com/in/madhura-edirisooriya-a8037529b/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/093",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20093.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/093/"
+            },
+            "E/20/244": {
+                "name": "P.G.P. Malshan",
+                "email": "e20244@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/244",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20244.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/244/"
+            },
+            "E/20/271": {
+                "name": "K.G.H.Nirmani",
+                "email": "e20271@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/hasini416",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/271",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20271.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/271/"
+            }
+        },
+        "supervisors": {
+            "yasodhav@eng.pdn.ac.lk": {
+                "name": "Ms. Yasodha Vimukthi",
+                "email": "yasodhav@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/yasodha-vimukthi.jpeg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+                "researchgate": "",
+                "google_scholar": ""
+            }
+        }
     },
     "e20-co227-Artery-Resolver": {
         "title": "Artery Resolver",
@@ -12873,7 +12932,7 @@
     },
     "e20-co227-Computer-Engineering-Portal": {
         "title": "Computer Engineering Portal",
-        "description": "Internal and Public web service provider of the Department of Computer Engineering",
+        "description": "Internal and Public web service provider of the Department of Computer Engineering. This project covering the course management and taxonomies",
         "category": {
             "title": "Software Systems Projects",
             "code": "co227",
@@ -13191,7 +13250,12 @@
                 "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
                 "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
             }
-        }
+        },
+        "tags": [
+            "CO227",
+            "FoE Room Reservation",
+            "E20"
+        ]
     },
     "e20-co227-Food-Buddy": {
         "title": "Food Buddy",
@@ -13292,7 +13356,66 @@
         "repo_url": "https://github.com/cepdnaclk/e20-co227-MIS-for-Non-Academic-Establishment-Division",
         "page_url": "https://cepdnaclk.github.io/e20-co227-MIS-for-Non-Academic-Establishment-Division",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/MIS-for-Non-Academic-Establishment-Division/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+        "team": {
+            "E/20/416": {
+                "name": "Vithushan E.T.L.",
+                "email": "e20416@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/Vithustennysan8",
+                "linkedin": "https://www.linkedin.com/in/vithushan-e-t-l-265a072a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/416",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20416.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/416/"
+            },
+            "E/20/099": {
+                "name": "T.Eniyavan",
+                "email": "e20099@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/dranzercruz/dranzercruz.git",
+                "linkedin": "https://www.linkedin.com/in/t-eniyavan-195537291",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/099",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20099.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/099/"
+            },
+            "E/20/371": {
+                "name": "Seyaruban R",
+                "email": "e20371@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/rishopiiis",
+                "linkedin": "https://www.linkedin.com/in/rishopika-seyaruban-66183b27b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/371",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20371.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/371/"
+            },
+            "E/19/174": {
+                "name": "Jegatheesan S.",
+                "email": "e19174@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/174",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19174.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/174/"
+            }
+        },
+        "supervisors": {
+            "upuljm@eng.pdn.ac.lk": {
+                "name": "Dr. Upul Jayasinghe",
+                "email": "upuljm@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/upuljm",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/upuljm/",
+                "researchgate": "https://www.researchgate.net/profile/Upul-Jayasinghe",
+                "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
+            }
+        }
     },
     "e20-co227-MLink-A-Pharmacy-Linking-Platform": {
         "title": "MLink A Pharmacy Linking Platform",
@@ -13846,6 +13969,20 @@
                 "google_scholar": "https://scholar.google.com/citations?user=G39TP7EAAAAJ&hl=en"
             }
         }
+    },
+    "e20-co227-VillageManagementSystem": {
+        "title": "VillageManagementSystem",
+        "description": "A simple Village Management System built with Spring Boot, designed for managing villages in Sri Lanka. Each village has its own database and admin, with a super admin to oversee everything. The system handles lands, persons, and households, supporting Grama Niladhari requirements.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/VillageManagementSystem/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co227-VillageManagementSystem",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/VillageManagementSystem/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
     },
     "e20-co227-e-Conductor": {
         "title": "e Conductor",
