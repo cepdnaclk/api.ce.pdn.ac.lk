@@ -8313,6 +8313,20 @@
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/FlickNest/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg"
     },
+    "e20-3yp-OceanEyes": {
+        "title": "OceanEyes",
+        "description": "OceanEyes is an Autonomous Sea Weather and Pollution Monitoring Buoy.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/OceanEyes/",
+        "repo_url": "https://github.com/cepdnaclk/e20-3yp-OceanEyes",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/OceanEyes/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg"
+    },
     "e20-3yp-SkyT": {
         "title": "SkyT",
         "description": "Drone based smart crop management system",
@@ -8396,6 +8410,26 @@
                 "google_scholar": ""
             }
         },
+        "tags": [
+            "Web",
+            "Embedded Systems"
+        ]
+    },
+    "e20-3yp-Smart-Aquarium": {
+        "title": "Smart Aquarium",
+        "description": "An intelligent aquarium system that automates water quality monitoring, feeding, and environment control. Key features include pH and O\u2082 level measurement, temperature monitoring, automated feeding, plant light control, and fish activity tracking",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Aquarium/",
+        "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Aquarium",
+        "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Aquarium",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Aquarium/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+        "team": {},
+        "supervisors": {},
         "tags": [
             "Web",
             "Embedded Systems"
@@ -8571,12 +8605,65 @@
         "page_url": "https://cepdnaclk.github.io/e20-3yp-VR-Multiplayer-Golf-Game",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/VR-Multiplayer-Golf-Game/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-        "team": {},
-        "supervisors": {},
-        "tags": [
-            "Web",
-            "Embedded Systems"
-        ]
+        "team": {
+            "E/20/254": {
+                "name": "Kavindu Methpura",
+                "email": "e20254@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/KavinduMethpura",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/254",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20254.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/254/"
+            },
+            "E/20/367": {
+                "name": "Binuri Senavirathna",
+                "email": "e20367@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/367",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20367.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/367/"
+            },
+            "E/20/370": {
+                "name": "Rashmika Sewmini",
+                "email": "e20370@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/370",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20370.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/370/"
+            },
+            "E/20/420": {
+                "name": "Janith Wanasinghe",
+                "email": "e20420@eng.pdn.ac.lk",
+                "website": "https://www.thecn.com/EW778",
+                "github": "https://github.com/janithkw",
+                "linkedin": "https://www.linkedin.com/in/janithwanasinghe/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/420",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20420.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/420/"
+            }
+        },
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            }
+        }
     },
     "e17-3yp-Covid-Tracer": {
         "title": "Covid Tracer",
@@ -13713,7 +13800,7 @@
                 "email": "e20350@eng.pdn.ac.lk",
                 "website": "",
                 "github": "",
-                "linkedin": "",
+                "linkedin": "www.linkedin.com/in/dharani-navodya-833641213",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/350",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20350.jpg",
@@ -28433,6 +28520,72 @@
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E15/Swarm-Robot-Monitoring-System-group-C/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg"
     },
+    "e20-co543-Low-Light-Image-Enhancement": {
+        "title": "Low Light Image Enhancement",
+        "description": "Low-light image enhancement focuses on improving the quality of images captured in poorly lit conditions, addressing issues like low visibility, noise, and poor contrast.",
+        "category": {
+            "title": "Image Processing Projects (CO543)",
+            "code": "co543",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/Low-Light-Image-Enhancement/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co543-Low-Light-Image-Enhancement",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/Low-Light-Image-Enhancement/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg"
+    },
+    "e20-co543-SkinVision": {
+        "title": "SkinVision",
+        "description": "The project, 'SkinVision: Skin Tone, Texture and Health Analyzer' aims to develop an advanced system that leverages image processing to analyze skin images.",
+        "category": {
+            "title": "Image Processing Projects (CO543)",
+            "code": "co543",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/SkinVision/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co543-SkinVision",
+        "page_url": "https://cepdnaclk.github.io/e20-co543-SkinVision",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/SkinVision/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+        "team": {
+            "E/20/197": {
+                "name": "A.H.D. Kawya",
+                "email": "e20197@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/dasunikawya2001",
+                "linkedin": "https://www.linkedin.com/in/dasuni-kawya-1a72b72a0/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BmH7G6PCCQlyUYV7wiGhOkg%3D%3D",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/197",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20197.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/197/"
+            },
+            "E/20/211": {
+                "name": "K.W.I.T. Kumarasinghe",
+                "email": "e20211@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/ishann211",
+                "linkedin": "https://www.linkedin.com/in/ishan-kumarasinghe",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/211",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20211.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/211/"
+            },
+            "E/20/242": {
+                "name": "G.A.I. Malinga",
+                "email": "e20242@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/242",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20242.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/242/"
+            }
+        },
+        "tags": [
+            "Image Processing"
+        ]
+    },
     "e17-co543-Mini-Project-Group-H": {
         "title": "Mini Project Group H",
         "description": "A License / Number Plate Recognition (NPR) system using OpenCV and Python.",
@@ -28485,58 +28638,6 @@
         "tags": [
             "Web",
             "Embedded Systems"
-        ]
-    },
-    "e20-co543-SkinVision": {
-        "title": "SkinVision",
-        "description": "The project, 'SkinVision: Skin Tone, Texture and Health Analyzer' aims to develop an advanced system that leverages image processing to analyze skin images.",
-        "category": {
-            "title": "Image Processing Projects (CO543)",
-            "code": "co543",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/SkinVision/",
-        "repo_url": "https://github.com/cepdnaclk/e20-co543-SkinVision",
-        "page_url": "https://cepdnaclk.github.io/e20-co543-SkinVision",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/SkinVision/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
-        "team": {
-            "E/20/197": {
-                "name": "A.H.D. Kawya",
-                "email": "e20197@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/dasunikawya2001",
-                "linkedin": "https://www.linkedin.com/in/dasuni-kawya-1a72b72a0/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BmH7G6PCCQlyUYV7wiGhOkg%3D%3D",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/197",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20197.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/197/"
-            },
-            "E/20/211": {
-                "name": "K.W.I.T. Kumarasinghe",
-                "email": "e20211@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/ishann211",
-                "linkedin": "https://www.linkedin.com/in/ishan-kumarasinghe",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/211",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20211.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/211/"
-            },
-            "E/20/242": {
-                "name": "G.A.I. Malinga",
-                "email": "e20242@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/242",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20242.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/242/"
-            }
-        },
-        "tags": [
-            "Image Processing"
         ]
     },
     "e16-co502-RISCV-Pipeline-CPU-Implimentation-Group2": {
@@ -29558,8 +29659,62 @@
         "page_url": "https://cepdnaclk.github.io/e20-co502-RV32IM_Pipelined_Processor_Group-05",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E20/RV32IM_Pipelined_Processor_Group-05/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
-        "team": {},
-        "supervisors": {}
+        "team": {
+            "E/20/024": {
+                "name": "Buddhika Ariyarathna",
+                "email": "e20024@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/AriyarathnaDBS",
+                "linkedin": "https://www.linkedin.com/in/buddhika-ariyarathna-7b6a86227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/024",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20024.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/024/"
+            },
+            "E/20/366": {
+                "name": "Bhagya Senavirathna",
+                "email": "e20366@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/bhagyaseela",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/366",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20366.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/366/"
+            },
+            "E/20/242": {
+                "name": "Imesha Malinga",
+                "email": "e20242@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/242",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20242.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/242/"
+            }
+        },
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            }
+        },
+        "tags": [
+            "RV32IM",
+            "RISC-V",
+            "CO502",
+            "Advanced Computer Architecture",
+            "Pipelined Processor",
+            "Verilog"
+        ]
     },
     "e14-co542-balancing-an-inverted-pendulum-using-a-neural-network": {
         "title": "balancing an inverted pendulum using a neural network",

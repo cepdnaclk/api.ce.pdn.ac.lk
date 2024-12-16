@@ -25,6 +25,19 @@
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/FlickNest/"
     },
+    "e20-3yp-OceanEyes": {
+        "title": "OceanEyes",
+        "description": "OceanEyes is an Autonomous Sea Weather and Pollution Monitoring Buoy.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/OceanEyes/",
+        "repo_url": "https://github.com/cepdnaclk/e20-3yp-OceanEyes",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/OceanEyes/"
+    },
     "e20-3yp-SkyT": {
         "title": "SkyT",
         "description": "Drone based smart crop management system",
@@ -37,6 +50,19 @@
         "repo_url": "https://github.com/cepdnaclk/e20-3yp-SkyT",
         "page_url": "https://cepdnaclk.github.io/e20-3yp-SkyT",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SkyT/"
+    },
+    "e20-3yp-Smart-Aquarium": {
+        "title": "Smart Aquarium",
+        "description": "An intelligent aquarium system that automates water quality monitoring, feeding, and environment control. Key features include pH and O\u2082 level measurement, temperature monitoring, automated feeding, plant light control, and fish activity tracking",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Aquarium/",
+        "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Aquarium",
+        "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Aquarium",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Aquarium/"
     },
     "e20-3yp-Smart-Canteen-Management-System": {
         "title": "Smart Canteen Management System",
