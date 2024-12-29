@@ -8,7 +8,58 @@
     },
     "project_url": "https://projects.ce.pdn.ac.lk/co502/e20/RV32IM_Pipelined_Processor_Group-06/",
     "repo_url": "https://github.com/cepdnaclk/e20-co502-RV32IM_Pipelined_Processor_Group-06",
-    "page_url": "#",
+    "page_url": "https://cepdnaclk.github.io/e20-co502-RV32IM_Pipelined_Processor_Group-06",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E20/RV32IM_Pipelined_Processor_Group-06/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+    "team": {
+        "E/20/254": {
+            "name": "S.K.P. Methpura",
+            "email": "e20254@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/KavinduMethpura",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/254",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20254.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/254/"
+        },
+        "E/20/279": {
+            "name": "Panawennage L.S.",
+            "email": "e20279@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/279",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20279.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/279/"
+        },
+        "E/20/280": {
+            "name": "R.S.Pathirage",
+            "email": "e20280@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/RavinduRepo",
+            "linkedin": "https://www.linkedin.com/in/ravindu-pathirage-228b66254/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/280",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20280.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/280/"
+        }
+    },
+    "supervisors": {
+        "isurunawinne@eng.pdn.ac.lk": {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+            "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+        }
+    },
+    "tags": [
+        "Advanced Architecture"
+    ]
 }
