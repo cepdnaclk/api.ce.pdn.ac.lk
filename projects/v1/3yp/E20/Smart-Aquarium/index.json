@@ -11,10 +11,63 @@
     "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Aquarium",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Aquarium/",
     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-    "team": {},
-    "supervisors": {},
-    "tags": [
-        "Web",
-        "Embedded Systems"
-    ]
+    "team": {
+        "E/20/016": {
+            "name": "Amarakeerthi H.K.K.G.",
+            "email": "e20016@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/kavindu016",
+            "linkedin": "https://www.linkedin.com/in/Kavindu Gajendra/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/016",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20016.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/016/"
+        },
+        "E/20/055": {
+            "name": "De Silva H.D.S.",
+            "email": "e20055@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/055",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20055.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/055/"
+        },
+        "E/20/231": {
+            "name": "Madhura T.W.K.J.",
+            "email": "e20231@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/JanithMadhura",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/231",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20231.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/231/"
+        },
+        "E/20/404": {
+            "name": "Ukwaththa U.A.N.T.",
+            "email": "e20404@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/NethminE20",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/404",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20404.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/404/"
+        }
+    },
+    "supervisors": {
+        "isurunawinne@eng.pdn.ac.lk": {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+            "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+        }
+    }
 }
