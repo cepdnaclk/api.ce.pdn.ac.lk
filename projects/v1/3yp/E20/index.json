@@ -142,6 +142,19 @@
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-IOT-Indoor-Lighting-System/"
     },
+    "e20-3yp-Smart-Locker-System": {
+        "title": "Smart Locker System",
+        "description": "The SmartSecure Locker System is an IoT-based solution for secure storage in shared spaces like universities, gyms, and offices. It features real-time locker availability, biometric access, and alternative location suggestions when lockers are full. Users can manage lockers via a mobile app, ensuring convenience and security.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Locker-System/",
+        "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Locker-System",
+        "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Locker-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Locker-System/"
+    },
     "e20-3yp-VR-Multiplayer-Golf-Game": {
         "title": "VR Multiplayer Golf Game",
         "description": "VR-Multiplayer-Golf-Game allows multiple users to play golf in VR environment. The game features a virtual environment which allows a user to have an immersive experience.",
