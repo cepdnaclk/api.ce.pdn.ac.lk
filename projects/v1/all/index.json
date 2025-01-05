@@ -8327,6 +8327,26 @@
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Intelligent-Land-Surveying-System/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg"
     },
+    "e20-3yp-Monitoring-and-controlling-soilless-agricultural-plantations": {
+        "title": "Monitoring and controlling soilless agricultural plantations",
+        "description": "",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Monitoring-and-controlling-soilless-agricultural-plantations/",
+        "repo_url": "https://github.com/cepdnaclk/e20-3yp-Monitoring-and-controlling-soilless-agricultural-plantations",
+        "page_url": "https://cepdnaclk.github.io/e20-3yp-Monitoring-and-controlling-soilless-agricultural-plantations",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Monitoring-and-controlling-soilless-agricultural-plantations/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+        "team": {},
+        "supervisors": {},
+        "tags": [
+            "Web",
+            "Embedded Systems"
+        ]
+    },
     "e20-3yp-OceanEyes": {
         "title": "OceanEyes",
         "description": "OceanEyes is an Autonomous Sea Weather and Pollution Monitoring Buoy.",
@@ -8893,7 +8913,7 @@
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
         "team": {
             "E/20/036": {
-                "name": "Kumarasinghe R.M.S.H.",
+                "name": "Bandara K.G.R.I.",
                 "email": "e20036@eng.pdn.ac.lk",
                 "website": "",
                 "github": "https://github.com/induwara23630",
@@ -8902,6 +8922,17 @@
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/036",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20036.jpg",
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e20/036/"
+            },
+            "E/20/212": {
+                "name": "Kumarasinghe R.M.S.H.",
+                "email": "e20212@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/sameera-87",
+                "linkedin": "https://www.linkedin.com/in/sameera-kumarasinghe-98b70526a/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/212",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20212.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/212/"
             },
             "E/20/350": {
                 "name": "Sandamali J.P.D.N.",
@@ -8924,6 +8955,83 @@
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/377",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20377.jpg",
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e20/377/"
+            }
+        },
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            }
+        },
+        "tags": [
+            "Web",
+            "Embedded Systems"
+        ]
+    },
+    "e20-3yp-Smart-Waste-Management-System": {
+        "title": "Smart Waste Management System",
+        "description": "A Smart Garbage Sorting System using IoT to automate waste sorting, monitor bin statuses, and optimize garbage collection routes. The system uses sensors, GPS, and real-time alerts to improve efficiency, reduce costs, and promote sustainable waste management practices.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Waste-Management-System/",
+        "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Waste-Management-System",
+        "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Waste-Management-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Waste-Management-System/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+        "team": {
+            "E/20/049": {
+                "name": "Chanuka B.D.K.",
+                "email": "e20049@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/chanukabdk",
+                "linkedin": "https://www.linkedin.com/in/chanukabdk/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/049",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20049.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/049/"
+            },
+            "E/20/093": {
+                "name": "Edirisooriya D.M.B.",
+                "email": "e20093@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/madhurab00",
+                "linkedin": "https://www.linkedin.com/in/madhura-edirisooriya-a8037529b/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/093",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20093.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/093/"
+            },
+            "E/20/244": {
+                "name": "Malshan P.G.P.",
+                "email": "e20244@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/244",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20244.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/244/"
+            },
+            "E/20/271": {
+                "name": "Nirmani K.G.H.",
+                "email": "e20271@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/hasini416",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/271",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20271.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/271/"
             }
         },
         "supervisors": {
