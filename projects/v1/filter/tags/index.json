@@ -44,6 +44,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/3D-Model-Construction-for-a-target-class-using-XAI-Group16/"
         }
     ],
+    "3yp": [
+        {
+            "title": "SheildV",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SheildV/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-SheildV",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-SheildV",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SheildV/"
+        }
+    ],
     "6yp": [
         {
             "title": "Document Tag Generator",
@@ -637,6 +652,21 @@
             "page_url": "https://cepdnaclk.github.io/e17-4yp-Comparative-Analysis-of-2nd-and-3rd-Generation-Sequencing",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Comparative-Analysis-of-2nd-and-3rd-Generation-Sequencing/"
+        }
+    ],
+    "Biomedical": [
+        {
+            "title": "Vascueye",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Vascueye/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Vascueye",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Vascueye",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Vascueye/"
         }
     ],
     "Blockchain": [
@@ -2710,6 +2740,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Cattle-Management-System/"
         },
         {
+            "title": "MediFlow",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/MediFlow/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-MediFlow",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-MediFlow",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/MediFlow/"
+        },
+        {
             "title": "Monitoring and controlling soilless agricultural plantations",
             "category": {
                 "code": "3yp",
@@ -2814,6 +2857,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Locker-System/"
         },
         {
+            "title": "Smart Shopping Cart",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Shopping-Cart/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Shopping-Cart",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Shopping-Cart",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Shopping-Cart/"
+        },
+        {
             "title": "Smart Waste Management System",
             "category": {
                 "code": "3yp",
@@ -2825,6 +2881,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Waste-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Waste-Management-System/"
+        },
+        {
+            "title": "Vascueye",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Vascueye/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Vascueye",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Vascueye",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Vascueye/"
         },
         {
             "title": "Covid Tracer",
@@ -3371,6 +3440,21 @@
             "page_url": "https://cepdnaclk.github.io/e17-co543-SL-Number-Plate-Detection-Group-A",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E17/SL-Number-Plate-Detection-Group-A/"
+        }
+    ],
+    "Embeded System": [
+        {
+            "title": "SheildV",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SheildV/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-SheildV",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-SheildV",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SheildV/"
         }
     ],
     "Explainable Machine Learning": [
@@ -4632,6 +4716,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Configurable-ECU-Emulator/"
         }
     ],
+    "Hardwere": [
+        {
+            "title": "SheildV",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SheildV/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-SheildV",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-SheildV",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SheildV/"
+        }
+    ],
     "Hash Proof Systems": [
         {
             "title": "constructing quantum safe leakage resilient public key encryption scheme",
@@ -4645,6 +4744,21 @@
             "page_url": "https://cepdnaclk.github.io/e16-4yp-constructing-quantum-safe-leakage-resilient-public-key-encryption-scheme",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/constructing-quantum-safe-leakage-resilient-public-key-encryption-scheme/"
+        }
+    ],
+    "Helmart": [
+        {
+            "title": "SheildV",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SheildV/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-SheildV",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-SheildV",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SheildV/"
         }
     ],
     "Help Desk": [
@@ -4705,6 +4819,21 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-Automatic-IC-Testing-Application-Using-FPGA",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Automatic-IC-Testing-Application-Using-FPGA/"
+        }
+    ],
+    "IOT": [
+        {
+            "title": "Smart Shopping Cart",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Shopping-Cart/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Shopping-Cart",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Shopping-Cart",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Shopping-Cart/"
         }
     ],
     "Image Data Handling": [
@@ -6302,6 +6431,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/SnaT-Meal-Tracking-App-Group-B/"
         }
     ],
+    "MobileApp": [
+        {
+            "title": "SheildV",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SheildV/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-SheildV",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-SheildV",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SheildV/"
+        }
+    ],
     "Mobility": [
         {
             "title": "Enhancement of Efficiency of Vehicular Communication using SDN",
@@ -7680,6 +7824,21 @@
             "page_url": "https://cepdnaclk.github.io/e16-4yp-AI-as-a-Microservice-for-Smart-Edge-of-Things",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/AI-as-a-Microservice-for-Smart-Edge-of-Things/"
+        }
+    ],
+    "Smart Helmart": [
+        {
+            "title": "SheildV",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SheildV/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-SheildV",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-SheildV",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SheildV/"
         }
     ],
     "Smart Inventory": [
@@ -9151,6 +9310,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Cattle-Management-System/"
         },
         {
+            "title": "MediFlow",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/MediFlow/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-MediFlow",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-MediFlow",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/MediFlow/"
+        },
+        {
             "title": "Monitoring and controlling soilless agricultural plantations",
             "category": {
                 "code": "3yp",
@@ -9188,6 +9360,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-3yp-Remote-Gait-Analysis",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Remote-Gait-Analysis/"
+        },
+        {
+            "title": "SheildV",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SheildV/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-SheildV",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-SheildV",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SheildV/"
         },
         {
             "title": "SkyT",
@@ -9255,6 +9440,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Locker-System/"
         },
         {
+            "title": "Smart Shopping Cart",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Shopping-Cart/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Shopping-Cart",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Shopping-Cart",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Shopping-Cart/"
+        },
+        {
             "title": "Smart Waste Management System",
             "category": {
                 "code": "3yp",
@@ -9266,6 +9464,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Waste-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Waste-Management-System/"
+        },
+        {
+            "title": "Vascueye",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Vascueye/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Vascueye",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Vascueye",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Vascueye/"
         },
         {
             "title": "Covid Tracer",
