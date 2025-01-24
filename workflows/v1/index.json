@@ -132,10 +132,22 @@
         "status": "PASS"
     },
     {
+        "id": 64395976,
+        "repository": "people.ce.pdn.ac.lk",
+        "name": "Weekly Updates",
+        "state": "active",
+        "urls": {
+            "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/64395976",
+            "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/.github/workflows/weekly.yml",
+            "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/workflows/Weekly%20Updates/badge.svg"
+        },
+        "status": "FAILLING"
+    },
+    {
         "id": 32238210,
         "repository": "people.ce.pdn.ac.lk",
         "name": "Python Tests",
-        "state": "active",
+        "state": "disabled_manually",
         "urls": {
             "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/32238210",
             "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/.github/workflows/test.yml",
@@ -147,23 +159,11 @@
         "id": 35371764,
         "repository": "people.ce.pdn.ac.lk",
         "name": "Deploy Jekyll site to Pages",
-        "state": "active",
+        "state": "disabled_manually",
         "urls": {
             "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/35371764",
             "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/.github/workflows/pages.yml",
             "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/workflows/Deploy%20Jekyll%20site%20to%20Pages/badge.svg"
-        },
-        "status": "FAILLING"
-    },
-    {
-        "id": 64395976,
-        "repository": "people.ce.pdn.ac.lk",
-        "name": "Weekly Updates",
-        "state": "active",
-        "urls": {
-            "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/64395976",
-            "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/.github/workflows/weekly.yml",
-            "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/workflows/Weekly%20Updates/badge.svg"
         },
         "status": "FAILLING"
     },
