@@ -9415,6 +9415,71 @@
             "Embedded Systems"
         ]
     },
+    "e20-3yp-The_Robot_Waiter": {
+        "title": "The_Robot_Waiter",
+        "description": "",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/The_Robot_Waiter/",
+        "repo_url": "https://github.com/cepdnaclk/e20-3yp-The_Robot_Waiter",
+        "page_url": "https://cepdnaclk.github.io/e20-3yp-The_Robot_Waiter",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/The_Robot_Waiter/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+        "team": {
+            "E/20/100": {
+                "name": "A.I. Fernando",
+                "email": "e20100@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/AIFERNANDOE20100",
+                "linkedin": "https://www.linkedin.com/in/akash-fernandu-06a6281a6",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/100",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20100.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/100/"
+            },
+            "E/20/243": {
+                "name": "K.M.K.Malintha",
+                "email": "e20243@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/kushanmalintha",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/243",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20243.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/243/"
+            },
+            "E/20/280": {
+                "name": "R.S.Pathirage",
+                "email": "e20280@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/RavinduRepo",
+                "linkedin": "https://www.linkedin.com/in/ravindu-pathirage-228b66254/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/280",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20280.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/280/"
+            },
+            "E/20/434": {
+                "name": "Wickramaarachchi P.A.",
+                "email": "e20434@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/434",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20434.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/434/"
+            }
+        },
+        "supervisors": {},
+        "tags": [
+            "Web",
+            "Embedded Systems"
+        ]
+    },
     "e20-3yp-VR-Multiplayer-Golf-Game": {
         "title": "VR Multiplayer Golf Game",
         "description": "VR-Multiplayer-Golf-Game allows multiple users to play golf in VR environment. The game features a virtual environment which allows a user to have an immersive experience.",
@@ -27256,6 +27321,62 @@
             "MySQL"
         ]
     },
+    "e20-co542-Automatic-English-Text-Summarizer": {
+        "title": "Automatic English Text Summarizer",
+        "description": "An automatic English text summarization using Sequence to Sequence model in Neural Networks.",
+        "category": {
+            "title": "Neural Networks Projects (CO542)",
+            "code": "co542",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/Automatic-English-Text-Summarizer/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co542-Automatic-English-Text-Summarizer",
+        "page_url": "https://cepdnaclk.github.io/e20-co542-Automatic-English-Text-Summarizer",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Automatic-English-Text-Summarizer/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg"
+    },
+    "e14-co542-balancing-an-inverted-pendulum-using-a-neural-network": {
+        "title": "balancing an inverted pendulum using a neural network",
+        "description": "CO542 Project",
+        "category": {
+            "title": "Neural Networks Projects (CO542)",
+            "code": "co542",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co542/e14/balancing-an-inverted-pendulum-using-a-neural-network/",
+        "repo_url": "https://github.com/cepdnaclk/e14-co542-balancing-an-inverted-pendulum-using-a-neural-network",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E14/balancing-an-inverted-pendulum-using-a-neural-network/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg"
+    },
+    "e17-co542-facial-emotion-recognition-in-proctored-environment": {
+        "title": "facial emotion recognition in proctored environment",
+        "description": "The project is about implementing a facial emotion recognition (FER) model to reduce the recency bias in feedbacks given by users after a survey, online exam kinda scenarios. We provide a user interface to experiment the functionality.",
+        "category": {
+            "title": "Neural Networks Projects (CO542)",
+            "code": "co542",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co542/e17/facial-emotion-recognition-in-proctored-environment/",
+        "repo_url": "https://github.com/cepdnaclk/e17-co542-facial-emotion-recognition-in-proctored-environment",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E17/facial-emotion-recognition-in-proctored-environment/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg"
+    },
+    "e17-co542-network-malware-analysis": {
+        "title": "network malware analysis",
+        "description": "",
+        "category": {
+            "title": "Neural Networks Projects (CO542)",
+            "code": "co542",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co542/e17/network-malware-analysis/",
+        "repo_url": "https://github.com/cepdnaclk/e17-co542-network-malware-analysis",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E17/network-malware-analysis/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg"
+    },
     "e19-co225-Baby-Developement-Tracking-System-Mobileapplication": {
         "title": "Baby Developement Tracking System Mobileapplication",
         "description": "The Baby Development Tracking System is a mobile application designed to assist parents, guardians, public health midwives (PHMs), and doctors in tracking and managing the development of babies from 0 to 5 years old.",
@@ -31072,47 +31193,5 @@
         "tags": [
             "Advanced Architecture"
         ]
-    },
-    "e14-co542-balancing-an-inverted-pendulum-using-a-neural-network": {
-        "title": "balancing an inverted pendulum using a neural network",
-        "description": "CO542 Project",
-        "category": {
-            "title": "Neural Networks Projects (CO542)",
-            "code": "co542",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co542/e14/balancing-an-inverted-pendulum-using-a-neural-network/",
-        "repo_url": "https://github.com/cepdnaclk/e14-co542-balancing-an-inverted-pendulum-using-a-neural-network",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E14/balancing-an-inverted-pendulum-using-a-neural-network/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg"
-    },
-    "e17-co542-facial-emotion-recognition-in-proctored-environment": {
-        "title": "facial emotion recognition in proctored environment",
-        "description": "The project is about implementing a facial emotion recognition (FER) model to reduce the recency bias in feedbacks given by users after a survey, online exam kinda scenarios. We provide a user interface to experiment the functionality.",
-        "category": {
-            "title": "Neural Networks Projects (CO542)",
-            "code": "co542",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co542/e17/facial-emotion-recognition-in-proctored-environment/",
-        "repo_url": "https://github.com/cepdnaclk/e17-co542-facial-emotion-recognition-in-proctored-environment",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E17/facial-emotion-recognition-in-proctored-environment/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg"
-    },
-    "e17-co542-network-malware-analysis": {
-        "title": "network malware analysis",
-        "description": "",
-        "category": {
-            "title": "Neural Networks Projects (CO542)",
-            "code": "co542",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co542/e17/network-malware-analysis/",
-        "repo_url": "https://github.com/cepdnaclk/e17-co542-network-malware-analysis",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E17/network-malware-analysis/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg"
     }
 }
