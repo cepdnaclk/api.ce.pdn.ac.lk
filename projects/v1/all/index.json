@@ -8311,7 +8311,70 @@
         "repo_url": "https://github.com/cepdnaclk/e20-3yp-FlickNest",
         "page_url": "https://cepdnaclk.github.io/e20-3yp-FlickNest",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/FlickNest/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+        "team": {
+            "E/20/069": {
+                "name": "Dilshan D.M.T.",
+                "email": "e20069@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/tharakadilshandmt",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/069",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20069.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/069/"
+            },
+            "E/20/455": {
+                "name": "Nuwan Dilshan",
+                "email": "e20455@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/nuwan455",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/455",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20455.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/455/"
+            },
+            "E/20/328": {
+                "name": "Vikum Chamida",
+                "email": "e20328@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/328",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20328.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/328/"
+            },
+            "E/20/189": {
+                "name": "Karunarathne K.N.P.",
+                "email": "e20189@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/KasunikaKarunarathne",
+                "linkedin": "https://www.linkedin.com/in/nethmini-karunarathne-b20460206/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/189",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20189.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/189/"
+            }
+        },
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            }
+        },
+        "tags": [
+            "Web",
+            "Embedded Systems"
+        ]
     },
     "e20-3yp-Green-House-Automation": {
         "title": "Green House Automation",
@@ -8489,13 +8552,7 @@
         "repo_url": "https://github.com/cepdnaclk/e20-3yp-Monitoring-and-controlling-soilless-agricultural-plantations",
         "page_url": "https://cepdnaclk.github.io/e20-3yp-Monitoring-and-controlling-soilless-agricultural-plantations",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Monitoring-and-controlling-soilless-agricultural-plantations/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-        "team": {},
-        "supervisors": {},
-        "tags": [
-            "Web",
-            "Embedded Systems"
-        ]
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg"
     },
     "e20-3yp-OceanEyes": {
         "title": "OceanEyes",
@@ -27321,19 +27378,66 @@
             "MySQL"
         ]
     },
-    "e20-co542-Automatic-English-Text-Summarizer": {
-        "title": "Automatic English Text Summarizer",
-        "description": "An automatic English text summarization using Sequence to Sequence model in Neural Networks.",
+    "e20-co542-Automatic-English-Text-Summarization": {
+        "title": "Automatic English Text Summarization",
+        "description": "Neural Network based Automatic English text summarization system.",
         "category": {
             "title": "Neural Networks Projects (CO542)",
             "code": "co542",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/Automatic-English-Text-Summarizer/",
-        "repo_url": "https://github.com/cepdnaclk/e20-co542-Automatic-English-Text-Summarizer",
-        "page_url": "https://cepdnaclk.github.io/e20-co542-Automatic-English-Text-Summarizer",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Automatic-English-Text-Summarizer/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg"
+        "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/Automatic-English-Text-Summarization/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co542-Automatic-English-Text-Summarization",
+        "page_url": "https://cepdnaclk.github.io/e20-co542-Automatic-English-Text-Summarization",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Automatic-English-Text-Summarization/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+        "team": {
+            "E/20/148": {
+                "name": "Kasundie Hewawasam",
+                "email": "e20148@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/kasundie",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/148",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20148.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/148/"
+            },
+            "E/20/316": {
+                "name": "Wethmi Ranasinghe",
+                "email": "e20316@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/wethmiranasinghe",
+                "linkedin": "https://www.linkedin.com/in/rawl-ranasinghe/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/316",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20316.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/316/"
+            },
+            "E/20/122": {
+                "name": "Rashmi Gunathilake",
+                "email": "e20122@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/rash0621",
+                "linkedin": "https://lk.linkedin.com/in/rashmi-gunathilake-1330b7219",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/122",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20122.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/122/"
+            },
+            "E/20/178": {
+                "name": "Dulanga Jayawardena",
+                "email": "e20178@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/e20178dulanga",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/178",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20178.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/178/"
+            }
+        },
+        "supervisors": {}
     },
     "e14-co542-balancing-an-inverted-pendulum-using-a-neural-network": {
         "title": "balancing an inverted pendulum using a neural network",
