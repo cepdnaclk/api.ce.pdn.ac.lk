@@ -25,6 +25,19 @@
         "page_url": "https://cepdnaclk.github.io/e20-co543-Low-Light-Image-Enhancement",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/Low-Light-Image-Enhancement/"
     },
+    "e20-co543-ProVision": {
+        "title": "ProVision",
+        "description": "ProVision is a project under the module of CO543 which concentrates on removing weather effects from images.",
+        "category": {
+            "title": "Image Processing Projects (CO543)",
+            "code": "co543",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/ProVision/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co543-ProVision",
+        "page_url": "https://cepdnaclk.github.io/e20-co543-ProVision",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/ProVision/"
+    },
     "e20-co543-SkinVision": {
         "title": "SkinVision",
         "description": "The project, 'SkinVision: Skin Tone, Texture and Health Analyzer' aims to develop an advanced system that leverages image processing to analyze skin images.",
