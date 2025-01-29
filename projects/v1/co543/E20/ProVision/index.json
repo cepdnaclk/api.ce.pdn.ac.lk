@@ -11,6 +11,67 @@
     "page_url": "https://cepdnaclk.github.io/e20-co543-ProVision",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/ProVision/",
     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
-    "team": {},
-    "supervisors": {}
+    "team": {
+        "E/20/084": {
+            "name": "Dissanayake P.D.",
+            "email": "e20084@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/PathumDilharaDissanayake",
+            "linkedin": "https://www.linkedin.com/in/pathum-dissanayaka-60364817a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/084",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20084.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/084/"
+        },
+        "E/20/032": {
+            "name": "Bandara A.M.N.C.",
+            "email": "e20032@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/ChethiyaB",
+            "linkedin": "https://www.linkedin.com/in/chethiyab/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/032",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20032.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/032/"
+        },
+        "E/20/034": {
+            "name": "Bandara G.M.M.R.",
+            "email": "e20034@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/mathisha034",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/034",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20034.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/034/"
+        },
+        "E/20/157": {
+            "name": "Janakantha S.M.B.G.",
+            "email": "e20157@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Bimsara-Janakantha/",
+            "linkedin": "https://www.linkedin.com/in/Bimsara-Janakantha/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/157",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20157.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/157/"
+        }
+    },
+    "supervisors": {
+        "upuljm@eng.pdn.ac.lk": {
+            "name": "Dr. Upul Jayasinghe",
+            "email": "upuljm@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/upuljm",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/upuljm/",
+            "researchgate": "https://www.researchgate.net/profile/Upul-Jayasinghe",
+            "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
+        }
+    },
+    "tags": [
+        "Image Processing",
+        "Neural Networks"
+    ]
 }

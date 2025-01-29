@@ -1,6 +1,6 @@
 {
     "title": "Smart Site Printing Rover",
-    "description": "A Smart Land Surveying Device integrates GPS, sensors and wireless communication to transform traditional surveying. It simplifies tasks like boundary mapping and terrain analysis by providing accurate, real-time data, improving efficiency and usability.",
+    "description": "A Smart Land Surveying Device to transform traditional surveying. The Site Printing Rover is designed to automate the stakeout process in land surveying.",
     "category": {
         "title": "Cyber-Physical Systems Projects",
         "code": "3yp",
@@ -10,5 +10,68 @@
     "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Site-Printing-Rover",
     "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Site-Printing-Rover",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Site-Printing-Rover/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+    "team": {
+        "E/20/168": {
+            "name": "B.V.R.R.Jaysinghe",
+            "email": "e20168@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/168",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20168.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/168/"
+        },
+        "E/20/242": {
+            "name": "G.A.I.Malinga",
+            "email": "e20242@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/242",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20242.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/242/"
+        },
+        "E/20/276": {
+            "name": "S.M.N.N.Padeniya",
+            "email": "e20276@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/276",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20276.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/276/"
+        },
+        "E/20/369": {
+            "name": "G.S. Seneviratne",
+            "email": "e20369@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/gssamuditha",
+            "linkedin": "https://www.linkedin.com/in/samuditha-seneviratne-bb65a1254",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/369",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20369.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/369/"
+        }
+    },
+    "supervisors": {
+        "isurunawinne@eng.pdn.ac.lk": {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+            "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+        }
+    },
+    "tags": [
+        "Web",
+        "Embedded Systems"
+    ]
 }
