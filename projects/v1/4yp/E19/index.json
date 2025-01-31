@@ -1,4 +1,43 @@
 {
+    "e19-4yp-Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications": {
+        "title": "Classification of Motor Imagery EEG based Tasks for Brain Computer Interfacing Applications",
+        "description": "This project focuses on classifying single-joint motor imagery (MI) EEG signals for applications in Brain-Computer-Interfacing(BCI). By leveraging deep learning models\u2014including CNNs, Transformers, and hybrid architectures\u2014we aim to improve the usability of MI-based single-joint classification.",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications/",
+        "repo_url": "https://github.com/cepdnaclk/e19-4yp-Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications",
+        "page_url": "https://cepdnaclk.github.io/e19-4yp-Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications/"
+    },
+    "e19-4yp-Dynamic-Multi-Dimensional-Resource-Orchestration-in-Kubernetes": {
+        "title": "Dynamic Multi Dimensional Resource Orchestration in Kubernetes",
+        "description": "This repo focuses on latency-aware resource optimization for Kubernetes",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Dynamic-Multi-Dimensional-Resource-Orchestration-in-Kubernetes/",
+        "repo_url": "https://github.com/cepdnaclk/e19-4yp-Dynamic-Multi-Dimensional-Resource-Orchestration-in-Kubernetes",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Dynamic-Multi-Dimensional-Resource-Orchestration-in-Kubernetes/"
+    },
+    "e19-4yp-Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling": {
+        "title": "Extending the Growing Self Organizing Map for Unsupervised Learning Based Modelling",
+        "description": "This research aims to expand the capabilities of the Growing Self-Organizing Map (GSOM) by focusing on its applications in data analytics and knowledge discovery",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling/",
+        "repo_url": "https://github.com/cepdnaclk/e19-4yp-Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling",
+        "page_url": "https://cepdnaclk.github.io/e19-4yp-Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling/"
+    },
     "e19-4yp-Multi-Modal-Data-Fusion-for-Trading-Market-Price-Forecasting": {
         "title": "Multi Modal Data Fusion for Trading Market Price Forecasting",
         "description": "",
@@ -12,6 +51,19 @@
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Multi-Modal-Data-Fusion-for-Trading-Market-Price-Forecasting/"
     },
+    "e19-4yp-Putting-Privacy-into-Practice": {
+        "title": "Putting Privacy into Practice",
+        "description": "This is a research project that suggests a serious game design framework for software developers to embed privacy practices when developing software applications",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Putting-Privacy-into-Practice/",
+        "repo_url": "https://github.com/cepdnaclk/e19-4yp-Putting-Privacy-into-Practice",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Putting-Privacy-into-Practice/"
+    },
     "e19-4yp-Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs": {
         "title": "Quality Assessment of Final Root Canal Treatment Using Intra Oral Periapical Radiographs",
         "description": "This study addresses dental practice's challenge of evaluating root canal treatment quality. Current evaluation depends on subjective dentist judgment, lacking standardized criteria. here we developing an AI-based method using deep learning to automate and standardize the evaluation process.",
@@ -24,5 +76,18 @@
         "repo_url": "https://github.com/cepdnaclk/e19-4yp-Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs",
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs/"
+    },
+    "e19-4yp-Using-LMs-to-Write-Patient-Clinical-Letters": {
+        "title": "Using LMs to Write Patient Clinical Letters",
+        "description": "This research project aims to explore the potential of language models (LMs) in automating the writing of patient clinical letters.",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Using-LMs-to-Write-Patient-Clinical-Letters/",
+        "repo_url": "https://github.com/cepdnaclk/e19-4yp-Using-LMs-to-Write-Patient-Clinical-Letters",
+        "page_url": "https://cepdnaclk.github.io/e19-4yp-Using-LMs-to-Write-Patient-Clinical-Letters",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Using-LMs-to-Write-Patient-Clinical-Letters/"
     }
 }

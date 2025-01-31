@@ -1526,8 +1526,8 @@
                 "name": "SRIMAL R.M.L.C",
                 "email": "e17338@eng.pdn.ac.lk",
                 "website": "",
-                "github": "",
-                "linkedin": "",
+                "github": "https://github.com/LakshithaCS",
+                "linkedin": "https://www.linkedin.com/in/lakshithacs/",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/338",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17338.jpg",
@@ -10526,8 +10526,8 @@
                 "name": "Srimal R.M.L.C",
                 "email": "e17338@eng.pdn.ac.lk",
                 "website": "",
-                "github": "",
-                "linkedin": "",
+                "github": "https://github.com/LakshithaCS",
+                "linkedin": "https://www.linkedin.com/in/lakshithacs/",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/338",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17338.jpg",
@@ -21050,8 +21050,8 @@
                 "name": "Srimal R.M.L.C",
                 "email": "e17338@eng.pdn.ac.lk",
                 "website": "",
-                "github": "",
-                "linkedin": "",
+                "github": "https://github.com/LakshithaCS",
+                "linkedin": "https://www.linkedin.com/in/lakshithacs/",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/338",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17338.jpg",
@@ -24073,19 +24073,171 @@
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E10/building-a-testbed-for-power-analysis-attacks/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
     },
-    "e11-4yp-HBFT": {
-        "title": "HBFT",
-        "description": "A new Bredth First Traversal algorithm for large graphs",
+    "e19-4yp-Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications": {
+        "title": "Classification of Motor Imagery EEG based Tasks for Brain Computer Interfacing Applications",
+        "description": "This project focuses on classifying single-joint motor imagery (MI) EEG signals for applications in Brain-Computer-Interfacing(BCI). By leveraging deep learning models\u2014including CNNs, Transformers, and hybrid architectures\u2014we aim to improve the usability of MI-based single-joint classification.",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e11/HBFT/",
-        "repo_url": "https://github.com/cepdnaclk/e11-4yp-HBFT",
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications/",
+        "repo_url": "https://github.com/cepdnaclk/e19-4yp-Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications",
+        "page_url": "https://cepdnaclk.github.io/e19-4yp-Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "team": {
+            "E/19/142": {
+                "name": "Hashini Illangarathne",
+                "email": "e19142@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/hashinivish",
+                "linkedin": "http://linkedin.com/in/hashini-illangarathne",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/142",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19142.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/142/"
+            },
+            "E/19/249": {
+                "name": "Sayumi Muthukumarana",
+                "email": "e19249@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/249",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19249.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/249/"
+            },
+            "E/19/452": {
+                "name": "Ashan Wimalasiri",
+                "email": "e19452@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/Ashan-Wimalasiri",
+                "linkedin": "https://www.linkedin.com/in/ashan-wimalasiri-23ba0024a/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/452",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19452.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/452/"
+            }
+        },
+        "supervisors": {
+            "ruwan@eng.pdn.ac.lk": {
+                "name": "Dr. Ruwan Ranaweera",
+                "email": "ruwan@eng.pdn.ac.lk",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            },
+            "roshanr@eng.pdn.ac.lk": {
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/roshanr",
+                "website": "http://roshan.ragel.net/",
+                "linkedin": "https://www.linkedin.com/in/roshanragel/",
+                "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
+                "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
+            },
+            "sam.john@unimelb.edu.au": {
+                "name": "A/Prof. Sam John",
+                "email": "sam.john@unimelb.edu.au",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Final Year Projects"
+        ]
+    },
+    "e19-4yp-Dynamic-Multi-Dimensional-Resource-Orchestration-in-Kubernetes": {
+        "title": "Dynamic Multi Dimensional Resource Orchestration in Kubernetes",
+        "description": "This repo focuses on latency-aware resource optimization for Kubernetes",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Dynamic-Multi-Dimensional-Resource-Orchestration-in-Kubernetes/",
+        "repo_url": "https://github.com/cepdnaclk/e19-4yp-Dynamic-Multi-Dimensional-Resource-Orchestration-in-Kubernetes",
         "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E11/HBFT/",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Dynamic-Multi-Dimensional-Resource-Orchestration-in-Kubernetes/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
+    },
+    "e19-4yp-Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling": {
+        "title": "Extending the Growing Self Organizing Map for Unsupervised Learning Based Modelling",
+        "description": "This research aims to expand the capabilities of the Growing Self-Organizing Map (GSOM) by focusing on its applications in data analytics and knowledge discovery",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling/",
+        "repo_url": "https://github.com/cepdnaclk/e19-4yp-Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling",
+        "page_url": "https://cepdnaclk.github.io/e19-4yp-Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "team": {
+            "E/19/324": {
+                "name": "Bimbara rathnayake",
+                "email": "e19324@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/Bimbara28",
+                "linkedin": "https://www.linkedin.com/in/bimbara-ratnayake-1ab0771b5/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/324",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19324.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/324/"
+            },
+            "E/19/124": {
+                "name": "Hirushi Gunasekara",
+                "email": "e19124@eng.pdn.ac.lk",
+                "website": "https://www.thecn.com/HG439",
+                "github": "https://github.com/hirushig",
+                "linkedin": "https://www.linkedin.com/in/hirushi-gunasekara",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/124",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19124.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/124/"
+            }
+        },
+        "supervisors": {
+            "damayanthiherath@eng.pdn.ac.lk": {
+                "name": "Dr. Damayanthi Herath",
+                "email": "damayanthiherath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/damayanthiherath",
+                "website": "https://damayanthiherath.wordpress.com/",
+                "linkedin": "https://www.linkedin.com/in/damayanthi-herath/",
+                "researchgate": "https://www.researchgate.net/profile/Damayanthi-Herath",
+                "google_scholar": "https://scholar.google.com/citations?user=G2jUV5IAAAAJ&hl=en"
+            },
+            "D.Alahakoon@latrobe.edu.au": {
+                "name": "Prof. Damminda Alahakoon",
+                "email": "D.Alahakoon@latrobe.edu.au",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Final Year Projects"
+        ]
     },
     "e19-4yp-Multi-Modal-Data-Fusion-for-Trading-Market-Price-Forecasting": {
         "title": "Multi Modal Data Fusion for Trading Market Price Forecasting",
@@ -24101,6 +24253,20 @@
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Multi-Modal-Data-Fusion-for-Trading-Market-Price-Forecasting/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
     },
+    "e19-4yp-Putting-Privacy-into-Practice": {
+        "title": "Putting Privacy into Practice",
+        "description": "This is a research project that suggests a serious game design framework for software developers to embed privacy practices when developing software applications",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Putting-Privacy-into-Practice/",
+        "repo_url": "https://github.com/cepdnaclk/e19-4yp-Putting-Privacy-into-Practice",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Putting-Privacy-into-Practice/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
+    },
     "e19-4yp-Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs": {
         "title": "Quality Assessment of Final Root Canal Treatment Using Intra Oral Periapical Radiographs",
         "description": "This study addresses dental practice's challenge of evaluating root canal treatment quality. Current evaluation depends on subjective dentist judgment, lacking standardized criteria. here we developing an AI-based method using deep learning to automate and standardize the evaluation process.",
@@ -24113,6 +24279,34 @@
         "repo_url": "https://github.com/cepdnaclk/e19-4yp-Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs",
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
+    },
+    "e19-4yp-Using-LMs-to-Write-Patient-Clinical-Letters": {
+        "title": "Using LMs to Write Patient Clinical Letters",
+        "description": "This research project aims to explore the potential of language models (LMs) in automating the writing of patient clinical letters.",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Using-LMs-to-Write-Patient-Clinical-Letters/",
+        "repo_url": "https://github.com/cepdnaclk/e19-4yp-Using-LMs-to-Write-Patient-Clinical-Letters",
+        "page_url": "https://cepdnaclk.github.io/e19-4yp-Using-LMs-to-Write-Patient-Clinical-Letters",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Using-LMs-to-Write-Patient-Clinical-Letters/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
+    },
+    "e11-4yp-HBFT": {
+        "title": "HBFT",
+        "description": "A new Bredth First Traversal algorithm for large graphs",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e11/HBFT/",
+        "repo_url": "https://github.com/cepdnaclk/e11-4yp-HBFT",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E11/HBFT/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
     },
     "e14-4yp-Temporal-Attention-Based-MARL": {
@@ -27579,7 +27773,94 @@
         "repo_url": "https://github.com/cepdnaclk/e20-co542-NeuronGlow",
         "page_url": "https://cepdnaclk.github.io/e20-co542-NeuronGlow",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/NeuronGlow/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+        "team": {
+            "E/19/393": {
+                "name": "S.A.R.R. Suraweeraarachchi",
+                "email": "e19393@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "https://www.linkedin.com/in/ravindu-suraweeraarachchi-88a3251b7/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/393",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19393.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/393/"
+            },
+            "E/19/407": {
+                "name": "M.H.P. Thiwanka",
+                "email": "e19407@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/407",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/407/"
+            },
+            "E/19/365": {
+                "name": "L.M.L.M. Senevirathne",
+                "email": "e19365@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/365",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/365/"
+            },
+            "E/19/159": {
+                "name": "R.A.R.S Jayasekara",
+                "email": "e19159@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/159",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/159/"
+            },
+            "E/20/420": {
+                "name": "J.K. Wanasinghe",
+                "email": "e20420@eng.pdn.ac.lk",
+                "website": "https://www.thecn.com/EW778",
+                "github": "https://github.com/janithkw",
+                "linkedin": "https://www.linkedin.com/in/janithwanasinghe/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/420",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20420.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/420/"
+            }
+        },
+        "supervisors": {
+            "mmathusha@eng.pdn.ac.lk": {
+                "name": "Ms. Mathiyalagan Mathusha",
+                "email": "mmathusha@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/mathiyalagan-mathusha/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/mathiyalagan-mathusha.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/mmathusha",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/mathusha-mathiyalagan-58b08b207/",
+                "researchgate": "",
+                "google_scholar": ""
+            },
+            "yasodhav@eng.pdn.ac.lk": {
+                "name": "Ms. Yasodha Vimukthi",
+                "email": "yasodhav@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/yasodha-vimukthi.jpeg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+                "researchgate": "",
+                "google_scholar": ""
+            }
+        },
+        "tags": [
+            "Neural Networks",
+            "Fuzzy Systems",
+            "Hardware",
+            "Learning Tool"
+        ]
     },
     "e14-co542-balancing-an-inverted-pendulum-using-a-neural-network": {
         "title": "balancing an inverted pendulum using a neural network",

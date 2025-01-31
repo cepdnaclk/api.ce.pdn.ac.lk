@@ -10,5 +10,92 @@
     "repo_url": "https://github.com/cepdnaclk/e20-co542-NeuronGlow",
     "page_url": "https://cepdnaclk.github.io/e20-co542-NeuronGlow",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/NeuronGlow/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+    "team": {
+        "E/19/393": {
+            "name": "S.A.R.R. Suraweeraarachchi",
+            "email": "e19393@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "https://www.linkedin.com/in/ravindu-suraweeraarachchi-88a3251b7/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/393",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19393.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/393/"
+        },
+        "E/19/407": {
+            "name": "M.H.P. Thiwanka",
+            "email": "e19407@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/407",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/407/"
+        },
+        "E/19/365": {
+            "name": "L.M.L.M. Senevirathne",
+            "email": "e19365@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/365",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/365/"
+        },
+        "E/19/159": {
+            "name": "R.A.R.S Jayasekara",
+            "email": "e19159@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/159",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/159/"
+        },
+        "E/20/420": {
+            "name": "J.K. Wanasinghe",
+            "email": "e20420@eng.pdn.ac.lk",
+            "website": "https://www.thecn.com/EW778",
+            "github": "https://github.com/janithkw",
+            "linkedin": "https://www.linkedin.com/in/janithwanasinghe/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/420",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20420.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/420/"
+        }
+    },
+    "supervisors": {
+        "mmathusha@eng.pdn.ac.lk": {
+            "name": "Ms. Mathiyalagan Mathusha",
+            "email": "mmathusha@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/mathiyalagan-mathusha/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/mathiyalagan-mathusha.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/mmathusha",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/mathusha-mathiyalagan-58b08b207/",
+            "researchgate": "",
+            "google_scholar": ""
+        },
+        "yasodhav@eng.pdn.ac.lk": {
+            "name": "Ms. Yasodha Vimukthi",
+            "email": "yasodhav@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/yasodha-vimukthi.jpeg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+            "researchgate": "",
+            "google_scholar": ""
+        }
+    },
+    "tags": [
+        "Neural Networks",
+        "Fuzzy Systems",
+        "Hardware",
+        "Learning Tool"
+    ]
 }
