@@ -1,4 +1,17 @@
 {
+    "e20-co543-ColorNet-Grayscale-image-colorization-project-using-AI-and-image-processing": {
+        "title": "ColorNet Grayscale image colorization project using AI and image processing",
+        "description": "This image colorizer is spesifically design to colourze ww2 images using convolutional nural networks. this software use same method as Zhang AI cnn base aproach.  it can predict and restore realistic coloures to historical ww2 images.",
+        "category": {
+            "title": "Image Processing Projects (CO543)",
+            "code": "co543",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/ColorNet-Grayscale-image-colorization-project-using-AI-and-image-processing/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co543-ColorNet-Grayscale-image-colorization-project-using-AI-and-image-processing",
+        "page_url": "https://cepdnaclk.github.io/e20-co543-ColorNet-Grayscale-image-colorization-project-using-AI-and-image-processing",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/ColorNet-Grayscale-image-colorization-project-using-AI-and-image-processing/"
+    },
     "e20-co543-Colorization-of-Grayscale-Images-Using-Image-Processing-Techniques": {
         "title": "Colorization of Grayscale Images Using Image Processing Techniques",
         "description": "This repository implements grayscale-to-color conversion using classical image processing techniques. It explores spatial and frequency domain methods for colorization, ideal for restoring historical photos and enhancing medical images.",

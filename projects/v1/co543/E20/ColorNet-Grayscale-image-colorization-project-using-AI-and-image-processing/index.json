@@ -1,0 +1,78 @@
+{
+    "title": "ColorNet Grayscale image colorization project using AI and image processing",
+    "description": "This image colorizer is spesifically design to colourze ww2 images using convolutional nural networks. this software use same method as Zhang AI cnn base aproach.  it can predict and restore realistic coloures to historical ww2 images.",
+    "category": {
+        "title": "Image Processing Projects (CO543)",
+        "code": "co543",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/ColorNet-Grayscale-image-colorization-project-using-AI-and-image-processing/",
+    "repo_url": "https://github.com/cepdnaclk/e20-co543-ColorNet-Grayscale-image-colorization-project-using-AI-and-image-processing",
+    "page_url": "https://cepdnaclk.github.io/e20-co543-ColorNet-Grayscale-image-colorization-project-using-AI-and-image-processing",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/ColorNet-Grayscale-image-colorization-project-using-AI-and-image-processing/",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+    "team": {
+        "E/20/286": {
+            "name": "Milinda Sachinthaka",
+            "email": "e20286@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/286",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20286.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/286/"
+        },
+        "E/20/284": {
+            "name": "Sandalu Umayanga",
+            "email": "e20284@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/sandalu284",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/284",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20284.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/284/"
+        },
+        "E/20/078": {
+            "name": "Nadeeka Disanayaka",
+            "email": "e20078@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/078",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20078.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/078/"
+        },
+        "E/20/279": {
+            "name": "Lashan Panawenna",
+            "email": "e20279@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/279",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20279.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/279/"
+        }
+    },
+    "supervisors": {
+        "upuljm@eng.pdn.ac.lk": {
+            "name": "Dr. Upul Jayasinghe",
+            "email": "upuljm@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/upuljm",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/upuljm/",
+            "researchgate": "https://www.researchgate.net/profile/Upul-Jayasinghe",
+            "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
+        }
+    },
+    "tags": [
+        "Image Processing",
+        "Colorization",
+        "Zhang AI"
+    ]
+}
