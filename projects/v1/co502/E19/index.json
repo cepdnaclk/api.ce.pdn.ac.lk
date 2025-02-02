@@ -1,0 +1,15 @@
+{
+    "e19-co502-RV32IM-Pipeline-Implementation-Group1": {
+        "title": "RV32IM Pipeline Implementation Group1",
+        "description": "This repository contains an implementation of a RISC-V RV32IM processor with a 6-stage pipeline architecture. The design includes instruction fetch, decode, execute, memory access, write-back, and an additional stage for improved performance. It supports integer operations, multiplication, and memory access as defined in the RV32IM instruction set.",
+        "category": {
+            "title": "Advanced Computer Architecture (CO502)",
+            "code": "co502",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co502/e19/RV32IM-Pipeline-Implementation-Group1/",
+        "repo_url": "https://github.com/cepdnaclk/e19-co502-RV32IM-Pipeline-Implementation-Group1",
+        "page_url": "https://cepdnaclk.github.io/e19-co502-RV32IM-Pipeline-Implementation-Group1",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E19/RV32IM-Pipeline-Implementation-Group1/"
+    }
+}

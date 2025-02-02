@@ -1,6 +1,6 @@
 {
     "title": "Machine Learning Based Automated PAR Index Calculation for Orthodontic Treatment",
-    "description": "",
+    "description": "This research is about developing an automated software tool that calculates the Peer Assessment Rating (PAR) Index to evaluate orthodontic treatment success. This project leverages 3D orthodontic study models (.stl files) and machine learning algorithms to create a cost-effective, accurate, and accessible evaluation system.",
     "category": {
         "title": "Undergraduate Research Projects",
         "code": "4yp",
@@ -8,7 +8,58 @@
     },
     "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Machine-Learning-Based-Automated-PAR-Index-Calculation-for-Orthodontic-Treatment/",
     "repo_url": "https://github.com/cepdnaclk/e19-4yp-Machine-Learning-Based-Automated-PAR-Index-Calculation-for-Orthodontic-Treatment",
-    "page_url": "#",
+    "page_url": "https://cepdnaclk.github.io/e19-4yp-Machine-Learning-Based-Automated-PAR-Index-Calculation-for-Orthodontic-Treatment",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Machine-Learning-Based-Automated-PAR-Index-Calculation-for-Orthodontic-Treatment/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+    "team": {
+        "E/19/006": {
+            "name": "S.T.D. Abrew",
+            "email": "e19006@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/DhinushikaAbrew",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/006",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19006.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/006/"
+        },
+        "E/19/017": {
+            "name": "W.S. Amanda",
+            "email": "e19017@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/017",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19017.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/017/"
+        },
+        "E/19/240": {
+            "name": "B.M.S. Mendis",
+            "email": "e19240@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Shenal-M",
+            "linkedin": "https://www.linkedin.com/in/shenal-mendis-bb30201a2/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/240",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19240.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/240/"
+        }
+    },
+    "supervisors": {
+        "asithab@eng.pdn.ac.lk": {
+            "name": "Dr. Asitha Bandaranayake",
+            "email": "asithab@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/asithab",
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/asithab/",
+            "researchgate": "https://www.researchgate.net/profile/Asitha-Bandaranayake-3",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=sf6MaF4AAAAJ"
+        }
+    },
+    "tags": [
+        "Final Year Projects"
+    ]
 }

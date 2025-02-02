@@ -87,6 +87,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Research-profiles-of-academic-staff/"
         }
     ],
+    "AI": [
+        {
+            "title": "AI System for Lung nodule follow up using plain chest X Ray",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/AI-System-for-Lung-nodule-follow-up-using-plain-chest-X-Ray/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-AI-System-for-Lung-nodule-follow-up-using-plain-chest-X-Ray",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-AI-System-for-Lung-nodule-follow-up-using-plain-chest-X-Ray",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-System-for-Lung-nodule-follow-up-using-plain-chest-X-Ray/"
+        }
+    ],
     "AIMS-AI-as-Microservice": [
         {
             "title": "AI as a Microservice for Smart Edge of Things",
@@ -128,6 +143,21 @@
             "page_url": "https://cepdnaclk.github.io/e20-co225-Computer-Engineering-Portal",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Computer-Engineering-Portal/"
+        }
+    ],
+    "ASIP": [
+        {
+            "title": "RISC V Based ASIP for Accelerating DNA Sequence Alignment on Embedded Systems",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/"
         }
     ],
     "Accelerated Computing": [
@@ -600,19 +630,6 @@
     ],
     "Bioinformatics": [
         {
-            "title": "Skim Sequencing Analysis",
-            "category": {
-                "code": "6sp",
-                "title": "Sixth Semester Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Skim-Sequencing-Analysis/",
-            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Skim-Sequencing-Analysis",
-            "page_url": "https://cepdnaclk.github.io/e17-6sp-Skim-Sequencing-Analysis",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Skim-Sequencing-Analysis/"
-        },
-        {
             "title": "Comparative Analysis of 2nd and 3rd Generation Sequencing",
             "category": {
                 "code": "4yp",
@@ -637,6 +654,34 @@
             "page_url": "https://cepdnaclk.github.io/e18-4yp-Multi-Kingdom-Binning-of-Long-Read-Metagenomes",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Multi-Kingdom-Binning-of-Long-Read-Metagenomes/"
+        },
+        {
+            "title": "Skim Sequencing Analysis",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Skim-Sequencing-Analysis/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Skim-Sequencing-Analysis",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Skim-Sequencing-Analysis",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Skim-Sequencing-Analysis/"
+        }
+    ],
+    "Bioinformatics Acceleration": [
+        {
+            "title": "RISC V Based ASIP for Accelerating DNA Sequence Alignment on Embedded Systems",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/"
         }
     ],
     "Biology": [
@@ -1445,6 +1490,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/post-quantum-cryptographic-schemes-based-on-plain-lattices/"
         }
     ],
+    "Custom Co-Processor": [
+        {
+            "title": "RISC V Based ASIP for Accelerating DNA Sequence Alignment on Embedded Systems",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/"
+        }
+    ],
     "Cyber Security": [
         {
             "title": "Automated Hydroponic System",
@@ -1527,6 +1587,21 @@
             "page_url": "https://cepdnaclk.github.io/e17-4yp-Comparative-Analysis-of-2nd-and-3rd-Generation-Sequencing",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Comparative-Analysis-of-2nd-and-3rd-Generation-Sequencing/"
+        }
+    ],
+    "DNA Sequence Alignment": [
+        {
+            "title": "RISC V Based ASIP for Accelerating DNA Sequence Alignment on Embedded Systems",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/"
         }
     ],
     "DNA sequencing": [
@@ -1972,6 +2047,19 @@
         }
     ],
     "Embedded Systems": [
+        {
+            "title": "RISC V Based ASIP for Accelerating DNA Sequence Alignment on Embedded Systems",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/"
+        },
         {
             "title": "ContactTracingApp",
             "category": {
@@ -3539,6 +3627,32 @@
     ],
     "FPGA": [
         {
+            "title": "RISC V Based ASIP for Accelerating DNA Sequence Alignment on Embedded Systems",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/"
+        },
+        {
+            "title": "neuromorphic architecture",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/neuromorphic-architecture/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-neuromorphic-architecture",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-neuromorphic-architecture",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/neuromorphic-architecture/"
+        },
+        {
             "title": "Automatic IC Testing Application Using FPGA",
             "category": {
                 "code": "co227",
@@ -3563,19 +3677,6 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-Developing-image-capturing-and-analysing-system-using-FPGA",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Developing-image-capturing-and-analysing-system-using-FPGA/"
-        },
-        {
-            "title": "neuromorphic architecture",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/neuromorphic-architecture/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-neuromorphic-architecture",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-neuromorphic-architecture",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/neuromorphic-architecture/"
         }
     ],
     "FXML": [
@@ -3637,6 +3738,214 @@
         }
     ],
     "Final Year Projects": [
+        {
+            "title": "AI Driven Decision Making Models for Corporate Applications",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/AI-Driven-Decision-Making-Models-for-Corporate-Applications/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-AI-Driven-Decision-Making-Models-for-Corporate-Applications",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-AI-Driven-Decision-Making-Models-for-Corporate-Applications",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-Driven-Decision-Making-Models-for-Corporate-Applications/"
+        },
+        {
+            "title": "AI System for Lung nodule follow up using plain chest X Ray",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/AI-System-for-Lung-nodule-follow-up-using-plain-chest-X-Ray/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-AI-System-for-Lung-nodule-follow-up-using-plain-chest-X-Ray",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-AI-System-for-Lung-nodule-follow-up-using-plain-chest-X-Ray",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-System-for-Lung-nodule-follow-up-using-plain-chest-X-Ray/"
+        },
+        {
+            "title": "Classification of Motor Imagery EEG based Tasks for Brain Computer Interfacing Applications",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications/"
+        },
+        {
+            "title": "Detection of Biological Degradation on Concrete Structures Using Computer Vision",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Detection-of-Biological-Degradation-on-Concrete-Structures-Using-Computer-Vision/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Detection-of-Biological-Degradation-on-Concrete-Structures-Using-Computer-Vision",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-Detection-of-Biological-Degradation-on-Concrete-Structures-Using-Computer-Vision",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Detection-of-Biological-Degradation-on-Concrete-Structures-Using-Computer-Vision/"
+        },
+        {
+            "title": "Extending the Growing Self Organizing Map for Unsupervised Learning Based Modelling",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling/"
+        },
+        {
+            "title": "HDL Code Generation LLMs",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/HDL-Code-Generation-LLMs/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-HDL-Code-Generation-LLMs",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-HDL-Code-Generation-LLMs",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/HDL-Code-Generation-LLMs/"
+        },
+        {
+            "title": "LowComplexity Algorithms For EnergyEfficient Arrhythmia Classification In Wearable Devices",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/LowComplexity-Algorithms-For-EnergyEfficient-Arrhythmia-Classification-In-Wearable-Devices/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-LowComplexity-Algorithms-For-EnergyEfficient-Arrhythmia-Classification-In-Wearable-Devices",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-LowComplexity-Algorithms-For-EnergyEfficient-Arrhythmia-Classification-In-Wearable-Devices",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/LowComplexity-Algorithms-For-EnergyEfficient-Arrhythmia-Classification-In-Wearable-Devices/"
+        },
+        {
+            "title": "Machine Learning Based Automated PAR Index Calculation for Orthodontic Treatment",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Machine-Learning-Based-Automated-PAR-Index-Calculation-for-Orthodontic-Treatment/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Machine-Learning-Based-Automated-PAR-Index-Calculation-for-Orthodontic-Treatment",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-Machine-Learning-Based-Automated-PAR-Index-Calculation-for-Orthodontic-Treatment",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Machine-Learning-Based-Automated-PAR-Index-Calculation-for-Orthodontic-Treatment/"
+        },
+        {
+            "title": "NLP Driven IBN Layered Architecture for SDNs",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/NLP-Driven-IBN-Layered-Architecture-for-SDNs/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-NLP-Driven-IBN-Layered-Architecture-for-SDNs",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-NLP-Driven-IBN-Layered-Architecture-for-SDNs",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/NLP-Driven-IBN-Layered-Architecture-for-SDNs/"
+        },
+        {
+            "title": "Putting Privacy into Practice A serious game teaches software developers secure coding",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Putting-Privacy-into-Practice-A-serious-game-teaches-software-developers-secure-coding/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Putting-Privacy-into-Practice-A-serious-game-teaches-software-developers-secure-coding",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-Putting-Privacy-into-Practice-A-serious-game-teaches-software-developers-secure-coding",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Putting-Privacy-into-Practice-A-serious-game-teaches-software-developers-secure-coding/"
+        },
+        {
+            "title": "Quality Assessment of Final Root Canal Treatment Using Intra Oral Periapical Radiographs",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs/"
+        },
+        {
+            "title": "RISC V Based ASIP for Accelerating DNA Sequence Alignment on Embedded Systems",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/"
+        },
+        {
+            "title": "RISC V SoC With Neuromorphic Accelerator for SNNs",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/RISC-V-SoC-With-Neuromorphic-Accelerator-for-SNNs/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-RISC-V-SoC-With-Neuromorphic-Accelerator-for-SNNs",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-RISC-V-SoC-With-Neuromorphic-Accelerator-for-SNNs",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/RISC-V-SoC-With-Neuromorphic-Accelerator-for-SNNs/"
+        },
+        {
+            "title": "The Compound Prediction Analysis of Cybersecurity",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/The-Compound-Prediction-Analysis-of-Cybersecurity/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-The-Compound-Prediction-Analysis-of-Cybersecurity",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-The-Compound-Prediction-Analysis-of-Cybersecurity",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/The-Compound-Prediction-Analysis-of-Cybersecurity/"
+        },
+        {
+            "title": "Using LMs to Write Patient Clinical Letters",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Using-LMs-to-Write-Patient-Clinical-Letters/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Using-LMs-to-Write-Patient-Clinical-Letters",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-Using-LMs-to-Write-Patient-Clinical-Letters",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Using-LMs-to-Write-Patient-Clinical-Letters/"
+        },
+        {
+            "title": "blockchain based e voting system",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/blockchain-based-e-voting-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-blockchain-based-e-voting-system",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-blockchain-based-e-voting-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/blockchain-based-e-voting-system/"
+        },
         {
             "title": "Acceleration of DTW algorithm for real time nanopore selective sequencing using GPUs",
             "category": {
@@ -3753,58 +4062,6 @@
             "page_url": "https://cepdnaclk.github.io/e16-4yp-swarm-intelligence-programming-framework",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/swarm-intelligence-programming-framework/"
-        },
-        {
-            "title": "Classification of Motor Imagery EEG based Tasks for Brain Computer Interfacing Applications",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications/",
-            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications",
-            "page_url": "https://cepdnaclk.github.io/e19-4yp-Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications/"
-        },
-        {
-            "title": "Extending the Growing Self Organizing Map for Unsupervised Learning Based Modelling",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling/",
-            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling",
-            "page_url": "https://cepdnaclk.github.io/e19-4yp-Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling/"
-        },
-        {
-            "title": "Putting Privacy into Practice A serious game teaches software developers secure coding",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Putting-Privacy-into-Practice-A-serious-game-teaches-software-developers-secure-coding/",
-            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Putting-Privacy-into-Practice-A-serious-game-teaches-software-developers-secure-coding",
-            "page_url": "https://cepdnaclk.github.io/e19-4yp-Putting-Privacy-into-Practice-A-serious-game-teaches-software-developers-secure-coding",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Putting-Privacy-into-Practice-A-serious-game-teaches-software-developers-secure-coding/"
-        },
-        {
-            "title": "Quality Assessment of Final Root Canal Treatment Using Intra Oral Periapical Radiographs",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs/",
-            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs",
-            "page_url": "https://cepdnaclk.github.io/e19-4yp-Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs/"
         },
         {
             "title": "Accelerating Adaptive Banded Event Alignment Algorithm with OpenCL on FPGA",
@@ -4743,6 +5000,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Comparative-Analysis-of-2nd-and-3rd-Generation-Sequencing/"
         }
     ],
+    "Genomic Computing": [
+        {
+            "title": "RISC V Based ASIP for Accelerating DNA Sequence Alignment on Embedded Systems",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/"
+        }
+    ],
     "Geographic": [
         {
             "title": "ipb",
@@ -4876,6 +5148,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/NeuronGlow/"
         }
     ],
+    "Hardware Acceleration": [
+        {
+            "title": "RISC V Based ASIP for Accelerating DNA Sequence Alignment on Embedded Systems",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/"
+        }
+    ],
     "Hardware Virtualization": [
         {
             "title": "Configurable ECU Emulator",
@@ -4998,6 +5285,19 @@
     ],
     "Image Processing": [
         {
+            "title": "nearIR spectroscopy",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/nearIR-spectroscopy/",
+            "repo_url": "https://github.com/cepdnaclk/e15-4yp-nearIR-spectroscopy",
+            "page_url": "https://cepdnaclk.github.io/e15-4yp-nearIR-spectroscopy",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/nearIR-spectroscopy/"
+        },
+        {
             "title": "obstacle bots for swarm robots",
             "category": {
                 "code": "3yp",
@@ -5022,19 +5322,6 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-Developing-image-capturing-and-analysing-system-using-FPGA",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Developing-image-capturing-and-analysing-system-using-FPGA/"
-        },
-        {
-            "title": "nearIR spectroscopy",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/nearIR-spectroscopy/",
-            "repo_url": "https://github.com/cepdnaclk/e15-4yp-nearIR-spectroscopy",
-            "page_url": "https://cepdnaclk.github.io/e15-4yp-nearIR-spectroscopy",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/nearIR-spectroscopy/"
         },
         {
             "title": "ColorNet Grayscale image colorization project using AI and image processing",
@@ -5289,6 +5576,19 @@
     ],
     "IoT": [
         {
+            "title": "AI as a Microservice for Smart Edge of Things",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/AI-as-a-Microservice-for-Smart-Edge-of-Things/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-AI-as-a-Microservice-for-Smart-Edge-of-Things",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-AI-as-a-Microservice-for-Smart-Edge-of-Things",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/AI-as-a-Microservice-for-Smart-Edge-of-Things/"
+        },
+        {
             "title": "smart supermarket navigation system",
             "category": {
                 "code": "3yp",
@@ -5352,19 +5652,6 @@
             "page_url": "https://cepdnaclk.github.io/e16-3yp-water-quality-monitoring-and-usage-monitoring-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/water-quality-monitoring-and-usage-monitoring-system/"
-        },
-        {
-            "title": "AI as a Microservice for Smart Edge of Things",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/AI-as-a-Microservice-for-Smart-Edge-of-Things/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-AI-as-a-Microservice-for-Smart-Edge-of-Things",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-AI-as-a-Microservice-for-Smart-Edge-of-Things",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/AI-as-a-Microservice-for-Smart-Edge-of-Things/"
         }
     ],
     "JWT": [
@@ -5762,6 +6049,19 @@
     ],
     "ML": [
         {
+            "title": "Human Animal Emotion Detection Using ECG and ML Techniques",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/"
+        },
+        {
             "title": "Analysis Tool for Industrial Images",
             "category": {
                 "code": "6sp",
@@ -5799,19 +6099,6 @@
             "page_url": "https://cepdnaclk.github.io/e17-6sp-Prediction-of-risks-associated-with-mass-corona-vaccination",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Prediction-of-risks-associated-with-mass-corona-vaccination/"
-        },
-        {
-            "title": "Human Animal Emotion Detection Using ECG and ML Techniques",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/"
         }
     ],
     "MLOPS": [
@@ -5886,6 +6173,71 @@
         }
     ],
     "Machine Learning": [
+        {
+            "title": "Food Recommendation System Using Machine Learning for Diabetic Patients",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients/"
+        },
+        {
+            "title": "Human Animal Emotion Detection Using ECG and ML Techniques",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/"
+        },
+        {
+            "title": "Machine Learning based Atmospheric Duct Interference cancellation in TD LTE networks",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Machine-Learning-based-Atmospheric-Duct-Interference-cancellation-in-TD-LTE-networks/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Machine-Learning-based-Atmospheric-Duct-Interference-cancellation-in-TD-LTE-networks",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Machine-Learning-based-Atmospheric-Duct-Interference-cancellation-in-TD-LTE-networks",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Machine-Learning-based-Atmospheric-Duct-Interference-cancellation-in-TD-LTE-networks/"
+        },
+        {
+            "title": "an artificial intelligence inspired zero trust model in decentralized edge environment",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment/"
+        },
+        {
+            "title": "Predicting Forex Currency Exchange Rate using Machine Learning",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning/"
+        },
         {
             "title": "Analysis and visualization of complex software system traces",
             "category": {
@@ -6160,71 +6512,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Cardiac-Patient-Data-Management-System/"
         },
         {
-            "title": "Food Recommendation System Using Machine Learning for Diabetic Patients",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients/"
-        },
-        {
-            "title": "Human Animal Emotion Detection Using ECG and ML Techniques",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/"
-        },
-        {
-            "title": "Machine Learning based Atmospheric Duct Interference cancellation in TD LTE networks",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Machine-Learning-based-Atmospheric-Duct-Interference-cancellation-in-TD-LTE-networks/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Machine-Learning-based-Atmospheric-Duct-Interference-cancellation-in-TD-LTE-networks",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-Machine-Learning-based-Atmospheric-Duct-Interference-cancellation-in-TD-LTE-networks",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Machine-Learning-based-Atmospheric-Duct-Interference-cancellation-in-TD-LTE-networks/"
-        },
-        {
-            "title": "an artificial intelligence inspired zero trust model in decentralized edge environment",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment/"
-        },
-        {
-            "title": "Predicting Forex Currency Exchange Rate using Machine Learning",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning/",
-            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning",
-            "page_url": "https://cepdnaclk.github.io/e18-4yp-Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning/"
-        },
-        {
             "title": "Bitcoin Cost Forecast System",
             "category": {
                 "code": "co544",
@@ -6292,19 +6579,6 @@
     ],
     "Machine learning": [
         {
-            "title": "Host Pathogen Interaction",
-            "category": {
-                "code": "6sp",
-                "title": "Sixth Semester Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Host-Pathogen-Interaction/",
-            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Host-Pathogen-Interaction",
-            "page_url": "https://cepdnaclk.github.io/e17-6sp-Host-Pathogen-Interaction",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Host-Pathogen-Interaction/"
-        },
-        {
             "title": "Multi Kingdom Binning of Long Read Metagenomes",
             "category": {
                 "code": "4yp",
@@ -6316,22 +6590,22 @@
             "page_url": "https://cepdnaclk.github.io/e18-4yp-Multi-Kingdom-Binning-of-Long-Read-Metagenomes",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Multi-Kingdom-Binning-of-Long-Read-Metagenomes/"
-        }
-    ],
-    "Machine-Learning": [
+        },
         {
-            "title": "Oral Cavity Region Detection",
+            "title": "Host Pathogen Interaction",
             "category": {
                 "code": "6sp",
                 "title": "Sixth Semester Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Oral-Cavity-Region-Detection/",
-            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Oral-Cavity-Region-Detection",
-            "page_url": "https://cepdnaclk.github.io/e17-6sp-Oral-Cavity-Region-Detection",
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Host-Pathogen-Interaction/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Host-Pathogen-Interaction",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Host-Pathogen-Interaction",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Oral-Cavity-Region-Detection/"
-        },
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Host-Pathogen-Interaction/"
+        }
+    ],
+    "Machine-Learning": [
         {
             "title": "AI as a Microservice for Smart Edge of Things",
             "category": {
@@ -6344,6 +6618,19 @@
             "page_url": "https://cepdnaclk.github.io/e16-4yp-AI-as-a-Microservice-for-Smart-Edge-of-Things",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/AI-as-a-Microservice-for-Smart-Edge-of-Things/"
+        },
+        {
+            "title": "Oral Cavity Region Detection",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Oral-Cavity-Region-Detection/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Oral-Cavity-Region-Detection",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Oral-Cavity-Region-Detection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Oral-Cavity-Region-Detection/"
         }
     ],
     "MachineLearning": [
@@ -6462,6 +6749,21 @@
             "page_url": "https://cepdnaclk.github.io/e14-4yp-ipb",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E14/ipb/"
+        }
+    ],
+    "Minimap2": [
+        {
+            "title": "RISC V Based ASIP for Accelerating DNA Sequence Alignment on Embedded Systems",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/"
         }
     ],
     "Mixed Reality": [
@@ -7079,19 +7381,6 @@
     ],
     "Object Detection": [
         {
-            "title": "Road Traffic Ecosystem",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Road-Traffic-Ecosystem/",
-            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Road-Traffic-Ecosystem",
-            "page_url": "https://cepdnaclk.github.io/e18-3yp-Road-Traffic-Ecosystem",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Road-Traffic-Ecosystem/"
-        },
-        {
             "title": "open world object detection and discovery",
             "category": {
                 "code": "4yp",
@@ -7103,6 +7392,19 @@
             "page_url": "https://cepdnaclk.github.io/e16-4yp-open-world-object-detection-and-discovery",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/open-world-object-detection-and-discovery/"
+        },
+        {
+            "title": "Road Traffic Ecosystem",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Road-Traffic-Ecosystem/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Road-Traffic-Ecosystem",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Road-Traffic-Ecosystem",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Road-Traffic-Ecosystem/"
         }
     ],
     "Online Hospital Database Managment System": [
@@ -7592,6 +7894,19 @@
     ],
     "RISC-V": [
         {
+            "title": "RISC V Based ASIP for Accelerating DNA Sequence Alignment on Embedded Systems",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/"
+        },
+        {
             "title": "RV32IM pipeline implementation group1",
             "category": {
                 "code": "co502",
@@ -7642,6 +7957,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co502-RV32IM-pipeline-implementation-group7",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E18/RV32IM-pipeline-implementation-group7/"
+        },
+        {
+            "title": "RV32IM Pipeline Implementation Group1",
+            "category": {
+                "code": "co502",
+                "title": "Advanced Computer Architecture (CO502)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co502/e19/RV32IM-Pipeline-Implementation-Group1/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co502-RV32IM-Pipeline-Implementation-Group1",
+            "page_url": "https://cepdnaclk.github.io/e19-co502-RV32IM-Pipeline-Implementation-Group1",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E19/RV32IM-Pipeline-Implementation-Group1/"
         },
         {
             "title": "RV32IM Pipeline Implementation Group1",
@@ -7737,6 +8065,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co502-RV32IM-pipeline-implementation-group7",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E18/RV32IM-pipeline-implementation-group7/"
+        },
+        {
+            "title": "RV32IM Pipeline Implementation Group1",
+            "category": {
+                "code": "co502",
+                "title": "Advanced Computer Architecture (CO502)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co502/e19/RV32IM-Pipeline-Implementation-Group1/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co502-RV32IM-Pipeline-Implementation-Group1",
+            "page_url": "https://cepdnaclk.github.io/e19-co502-RV32IM-Pipeline-Implementation-Group1",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E19/RV32IM-Pipeline-Implementation-Group1/"
         },
         {
             "title": "RV32IM pipeline implementation group 2",
@@ -7890,6 +8231,36 @@
             "page_url": "https://cepdnaclk.github.io/e15-4yp-Mixed-Reality-based-Simulation-Platform-for-Swarm-Robotics",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Mixed-Reality-based-Simulation-Platform-for-Swarm-Robotics/"
+        }
+    ],
+    "RoCC Interface": [
+        {
+            "title": "RISC V Based ASIP for Accelerating DNA Sequence Alignment on Embedded Systems",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/"
+        }
+    ],
+    "Rocket Chip": [
+        {
+            "title": "RISC V Based ASIP for Accelerating DNA Sequence Alignment on Embedded Systems",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/"
         }
     ],
     "SCADA": [
@@ -8399,6 +8770,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Document-Tag-Generator/"
         }
     ],
+    "Third-Generation Sequencing": [
+        {
+            "title": "RISC V Based ASIP for Accelerating DNA Sequence Alignment on Embedded Systems",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/"
+        }
+    ],
     "Ticketing System": [
         {
             "title": "TecHub help desk ticketing system",
@@ -8431,19 +8817,6 @@
     ],
     "Unsupervised Learning": [
         {
-            "title": "Digital Twin",
-            "category": {
-                "code": "6sp",
-                "title": "Sixth Semester Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Digital-Twin/",
-            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Digital-Twin",
-            "page_url": "https://cepdnaclk.github.io/e18-6sp-Digital-Twin",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Digital-Twin/"
-        },
-        {
             "title": "online proctoring system",
             "category": {
                 "code": "4yp",
@@ -8455,6 +8828,19 @@
             "page_url": "https://cepdnaclk.github.io/e15-4yp-online-proctoring-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/online-proctoring-system/"
+        },
+        {
+            "title": "Digital Twin",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Digital-Twin/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Digital-Twin",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Digital-Twin",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Digital-Twin/"
         }
     ],
     "VANET": [
@@ -8680,6 +9066,32 @@
         }
     ],
     "Web": [
+        {
+            "title": "online proctoring system",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/online-proctoring-system/",
+            "repo_url": "https://github.com/cepdnaclk/e15-4yp-online-proctoring-system",
+            "page_url": "https://cepdnaclk.github.io/e15-4yp-online-proctoring-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/online-proctoring-system/"
+        },
+        {
+            "title": "ipb",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e14/ipb/",
+            "repo_url": "https://github.com/cepdnaclk/e14-4yp-ipb",
+            "page_url": "https://cepdnaclk.github.io/e14-4yp-ipb",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E14/ipb/"
+        },
         {
             "title": "Handwritten Essay Marking Software",
             "category": {
@@ -10447,32 +10859,6 @@
             "page_url": "https://cepdnaclk.github.io/e15-co227-Pera-Knowledge-Portal",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E15/Pera-Knowledge-Portal/"
-        },
-        {
-            "title": "online proctoring system",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/online-proctoring-system/",
-            "repo_url": "https://github.com/cepdnaclk/e15-4yp-online-proctoring-system",
-            "page_url": "https://cepdnaclk.github.io/e15-4yp-online-proctoring-system",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/online-proctoring-system/"
-        },
-        {
-            "title": "ipb",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e14/ipb/",
-            "repo_url": "https://github.com/cepdnaclk/e14-4yp-ipb",
-            "page_url": "https://cepdnaclk.github.io/e14-4yp-ipb",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E14/ipb/"
         },
         {
             "title": "Movie Review System",
