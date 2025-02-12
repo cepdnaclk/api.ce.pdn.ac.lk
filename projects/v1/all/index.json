@@ -12956,18 +12956,18 @@
             "Final Year Projects"
         ]
     },
-    "e19-4yp-Detection-of-Biological-Degradation-on-Concrete-Structures-Using-Computer-Vision": {
-        "title": "Detection of Biological Degradation on Concrete Structures Using Computer Vision",
+    "e19-4yp-Detection-of-Biological-Chemical-Degradation-on-Concrete-Structures-Using-Computer-Vision": {
+        "title": "Detection of Biological Chemical Degradation on Concrete Structures Using Computer Vision",
         "description": "",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Detection-of-Biological-Degradation-on-Concrete-Structures-Using-Computer-Vision/",
-        "repo_url": "https://github.com/cepdnaclk/e19-4yp-Detection-of-Biological-Degradation-on-Concrete-Structures-Using-Computer-Vision",
-        "page_url": "https://cepdnaclk.github.io/e19-4yp-Detection-of-Biological-Degradation-on-Concrete-Structures-Using-Computer-Vision",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Detection-of-Biological-Degradation-on-Concrete-Structures-Using-Computer-Vision/",
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Detection-of-Biological-Chemical-Degradation-on-Concrete-Structures-Using-Computer-Vision/",
+        "repo_url": "https://github.com/cepdnaclk/e19-4yp-Detection-of-Biological-Chemical-Degradation-on-Concrete-Structures-Using-Computer-Vision",
+        "page_url": "https://cepdnaclk.github.io/e19-4yp-Detection-of-Biological-Chemical-Degradation-on-Concrete-Structures-Using-Computer-Vision",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Detection-of-Biological-Chemical-Degradation-on-Concrete-Structures-Using-Computer-Vision/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
         "team": {},
         "supervisors": {},
@@ -13449,8 +13449,54 @@
         "page_url": "https://cepdnaclk.github.io/e19-4yp-NLP-Driven-IBN-Layered-Architecture-for-SDNs",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/NLP-Driven-IBN-Layered-Architecture-for-SDNs/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-        "team": {},
-        "supervisors": {},
+        "team": {
+            "E/19/409": {
+                "name": "Dineth Udugamasooriya",
+                "email": "e19409@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/409",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19409.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/409/"
+            },
+            "E/19/413": {
+                "name": "Nipul Viduranga",
+                "email": "e19413@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/413",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19413.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/413/"
+            },
+            "E/19/446": {
+                "name": "Kalindu Wijerathna",
+                "email": "e19446@eng.pdn.ac.lk",
+                "website": "https://kalinduwijerathna.github.io/",
+                "github": "https://github.com/KalinduWijerathna/",
+                "linkedin": "https://www.linkedin.com/in/kalindu-wijerathna/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/446",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19446.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/446/"
+            }
+        },
+        "supervisors": {
+            "namal@eng.pdn.ac.lk": {
+                "name": "Dr. Suneth Namal Karunarathna",
+                "email": "namal@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/suneth-namal-karunarathna/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/suneth-namal-karunarathna.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/namal",
+                "website": "",
+                "linkedin": "https://lk.linkedin.com/in/suneth-namal-b70b8688",
+                "researchgate": "https://www.researchgate.net/profile/Suneth-Namal",
+                "google_scholar": "https://scholar.google.com/citations?user=G39TP7EAAAAJ&hl=en"
+            }
+        },
         "tags": [
             "Final Year Projects"
         ]
@@ -29239,6 +29285,78 @@
             "Learning Tool"
         ]
     },
+    "e20-co542-Panic-Attack-Prediction": {
+        "title": "Panic Attack Prediction",
+        "description": "Mental health disorders, including panic attacks, are rising globally. Traditional diagnosis relies on self-reports, which can be subjective. Using machine learning and neural networks, our project analyzes physiological and lifestyle data to predict panic attacks, enabling proactive management and intervention to improve mental well-being.",
+        "category": {
+            "title": "Neural Networks Projects (CO542)",
+            "code": "co542",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/Panic-Attack-Prediction/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co542-Panic-Attack-Prediction",
+        "page_url": "https://cepdnaclk.github.io/e20-co542-Panic-Attack-Prediction",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Panic-Attack-Prediction/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+        "team": {
+            "E/20/054": {
+                "name": "M.L De Croos Rubin",
+                "email": "e20054@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/Mineth054",
+                "linkedin": "https://www.linkedin.com/in/mineth-de-croos-baa285219/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/054",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20054.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/054/"
+            },
+            "E/20/276": {
+                "name": "S.M.N.N.Padeniya",
+                "email": "e20276@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/276",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20276.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/276/"
+            },
+            "E/20/305": {
+                "name": "L.R.S.R. Premasiri",
+                "email": "e20305@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/sachindu01",
+                "linkedin": "https://www.linkedin.com/in/L.R.S.R.PREMASIRI/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/305",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20305.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/305/"
+            },
+            "E/20/342": {
+                "name": "C.A. Rupasinghe",
+                "email": "e20342@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/Chama28228",
+                "linkedin": "https://www.linkedin.com/in/chamath-rupasinghe-760632224/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/342",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20342.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/342/"
+            },
+            "E/20/447": {
+                "name": "M.L. Wijesooriya",
+                "email": "e20447@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/madawa2491",
+                "linkedin": "https://www.linkedin.com/in/madawa-wijesooriya-b52222296",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/447",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20447.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/447/"
+            }
+        },
+        "supervisors": {}
+    },
     "e14-co542-balancing-an-inverted-pendulum-using-a-neural-network": {
         "title": "balancing an inverted pendulum using a neural network",
         "description": "CO542 Project",
@@ -32819,72 +32937,6 @@
             "Verilog"
         ]
     },
-    "e19-co502-RV32IM-Pipeline-Implementation-Group1": {
-        "title": "RV32IM Pipeline Implementation Group1",
-        "description": "This repository contains an implementation of a RISC-V RV32IM processor with a 6-stage pipeline architecture. The design includes instruction fetch, decode, execute, memory access, write-back, and an additional stage for improved performance. It supports integer operations, multiplication, and memory access as defined in the RV32IM instruction set.",
-        "category": {
-            "title": "Advanced Computer Architecture (CO502)",
-            "code": "co502",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co502/e19/RV32IM-Pipeline-Implementation-Group1/",
-        "repo_url": "https://github.com/cepdnaclk/e19-co502-RV32IM-Pipeline-Implementation-Group1",
-        "page_url": "https://cepdnaclk.github.io/e19-co502-RV32IM-Pipeline-Implementation-Group1",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E19/RV32IM-Pipeline-Implementation-Group1/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
-        "team": {
-            "E/19/129": {
-                "name": "Gunawardana K.H.",
-                "email": "e19129@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/KATTA-00",
-                "linkedin": "https://www.linkedin.com/in/kanishka-gunawardana-285aa4201",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/129",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19129.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/129/"
-            },
-            "E/19/275": {
-                "name": "Peeris M.S.",
-                "email": "e19275@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/sanka-p",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/275",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19275.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/275/"
-            },
-            "E/19/309": {
-                "name": "Rambukwella H.M.W.K.G.",
-                "email": "e19309@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/Kavishkagaya",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/309",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19309.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/309/"
-            }
-        },
-        "supervisors": {
-            "isurunawinne@eng.pdn.ac.lk": {
-                "name": "Dr. Isuru Nawinne",
-                "email": "isurunawinne@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
-                "website": "",
-                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
-                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
-                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
-            }
-        },
-        "tags": [
-            "RISC-V",
-            "RV32IM"
-        ]
-    },
     "e17-co502-RV32IM-Pipeline-Implementation-Group1": {
         "title": "RV32IM Pipeline Implementation Group1",
         "description": "An in-order 5-stage pipelined RISC-V CPU implementation consisting of the RV32I base ISA and the M-extension for multiplication/division operations.",
@@ -33069,6 +33121,72 @@
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
         "team": {},
         "supervisors": {}
+    },
+    "e19-co502-RV32IM-Pipeline-Implementation-Group1": {
+        "title": "RV32IM Pipeline Implementation Group1",
+        "description": "This repository contains an implementation of a RISC-V RV32IM processor with a 6-stage pipeline architecture. The design includes instruction fetch, decode, execute, memory access, write-back, and an additional stage for improved performance. It supports integer operations, multiplication, and memory access as defined in the RV32IM instruction set.",
+        "category": {
+            "title": "Advanced Computer Architecture (CO502)",
+            "code": "co502",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co502/e19/RV32IM-Pipeline-Implementation-Group1/",
+        "repo_url": "https://github.com/cepdnaclk/e19-co502-RV32IM-Pipeline-Implementation-Group1",
+        "page_url": "https://cepdnaclk.github.io/e19-co502-RV32IM-Pipeline-Implementation-Group1",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E19/RV32IM-Pipeline-Implementation-Group1/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+        "team": {
+            "E/19/129": {
+                "name": "Gunawardana K.H.",
+                "email": "e19129@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/KATTA-00",
+                "linkedin": "https://www.linkedin.com/in/kanishka-gunawardana-285aa4201",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/129",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19129.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/129/"
+            },
+            "E/19/275": {
+                "name": "Peeris M.S.",
+                "email": "e19275@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/sanka-p",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/275",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19275.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/275/"
+            },
+            "E/19/309": {
+                "name": "Rambukwella H.M.W.K.G.",
+                "email": "e19309@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/Kavishkagaya",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/309",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19309.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/309/"
+            }
+        },
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            }
+        },
+        "tags": [
+            "RISC-V",
+            "RV32IM"
+        ]
     },
     "e20-co502-RV32IM-pipeline-implementation-group-2": {
         "title": "RV32IM pipeline implementation group 2",
