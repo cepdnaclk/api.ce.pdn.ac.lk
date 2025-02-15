@@ -13045,17 +13045,6 @@
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
         "team": {
-            "E/19/324": {
-                "name": "Bimbara Rathnayake",
-                "email": "e19324@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/Bimbara28",
-                "linkedin": "https://www.linkedin.com/in/bimbara-ratnayake-1ab0771b5/",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/324",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19324.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/324/"
-            },
             "E/19/124": {
                 "name": "Hirushi Gunasekara",
                 "email": "e19124@eng.pdn.ac.lk",
@@ -13066,6 +13055,17 @@
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/124",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19124.jpg",
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e19/124/"
+            },
+            "E/19/324": {
+                "name": "Bimbara Rathnayake",
+                "email": "e19324@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/Bimbara28",
+                "linkedin": "https://www.linkedin.com/in/bimbara-ratnayake-1ab0771b5/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/324",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19324.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/324/"
             }
         },
         "supervisors": {
@@ -13560,6 +13560,17 @@
                 "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
                 "researchgate": "",
                 "google_scholar": ""
+            },
+            "upuljm@eng.pdn.ac.lk": {
+                "name": "Dr. Upul Jayasinghe",
+                "email": "upuljm@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/upul-jayasinghe.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/upuljm",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/upuljm/",
+                "researchgate": "https://www.researchgate.net/profile/Upul-Jayasinghe",
+                "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
             }
         },
         "tags": [
@@ -32232,6 +32243,20 @@
         "tags": [
             "Image Processing"
         ]
+    },
+    "e20-co543-low-light-enhancement": {
+        "title": "low light enhancement",
+        "description": "",
+        "category": {
+            "title": "Image Processing Projects (CO543)",
+            "code": "co543",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/low-light-enhancement/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co543-low-light-enhancement",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/low-light-enhancement/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg"
     },
     "e20-co543-real-time-shadow-removal-from-images": {
         "title": "real time shadow removal from images",
