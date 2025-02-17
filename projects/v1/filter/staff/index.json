@@ -2888,6 +2888,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/FlickNest/"
         },
         {
+            "title": "GEOnex",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/GEOnex/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-GEOnex",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-GEOnex",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/GEOnex/"
+        },
+        {
             "title": "Green House Automation",
             "category": {
                 "code": "3yp",
@@ -3029,19 +3042,6 @@
             "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Shopping-Cart",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Shopping-Cart/"
-        },
-        {
-            "title": "Smart Site Printing Rover",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Site-Printing-Rover/",
-            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Site-Printing-Rover",
-            "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Site-Printing-Rover",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Site-Printing-Rover/"
         },
         {
             "title": "Smart Vehicle Tracking and Management System",
@@ -8107,6 +8107,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/network-anomaly-detection/"
         }
     ],
+    "supunj@eng.pdn.ac.lk": [
+        {
+            "title": "Detection of Biological Chemical Degradation on Concrete Structures Using Computer Vision",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Detection-of-Biological-Chemical-Degradation-on-Concrete-Structures-Using-Computer-Vision/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Detection-of-Biological-Chemical-Degradation-on-Concrete-Structures-Using-Computer-Vision",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-Detection-of-Biological-Chemical-Degradation-on-Concrete-Structures-Using-Computer-Vision",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Detection-of-Biological-Chemical-Degradation-on-Concrete-Structures-Using-Computer-Vision/"
+        }
+    ],
     "suranjisk@gmail.com": [
         {
             "title": "Human Animal Emotion Detection Using ECG and ML Techniques",
@@ -8886,6 +8901,19 @@
         }
     ],
     "yasodhav@eng.pdn.ac.lk": [
+        {
+            "title": "Detection of Biological Chemical Degradation on Concrete Structures Using Computer Vision",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Detection-of-Biological-Chemical-Degradation-on-Concrete-Structures-Using-Computer-Vision/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Detection-of-Biological-Chemical-Degradation-on-Concrete-Structures-Using-Computer-Vision",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-Detection-of-Biological-Chemical-Degradation-on-Concrete-Structures-Using-Computer-Vision",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Detection-of-Biological-Chemical-Degradation-on-Concrete-Structures-Using-Computer-Vision/"
+        },
         {
             "title": "NursingVR WoundCareAI",
             "category": {
