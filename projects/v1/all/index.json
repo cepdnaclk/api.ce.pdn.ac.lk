@@ -9291,6 +9291,19 @@
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e20/285/"
             }
         },
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            }
+        },
         "tags": [
             "Web",
             "Embedded Systems",
@@ -9519,7 +9532,7 @@
     },
     "e20-3yp-Smart-Vehicle-Tracking-and-Management-System": {
         "title": "Smart Vehicle Tracking and Management System",
-        "description": "",
+        "description": "e20-3yp-Smart-Vehicle-Tracking-and-Management-System",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
@@ -13764,18 +13777,18 @@
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Peraswarm-Active-Localization-and-Navigation/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
     },
-    "e19-4yp-Putting-Privacy-into-Practice-A-serious-game-teaches-software-developers-secure-coding": {
-        "title": "Putting Privacy into Practice A serious game teaches software developers secure coding",
-        "description": "This is a research project that suggests a serious game design framework for software developers to embed privacy practices when developing software applications",
+    "e19-4yp-Putting-Privacy-into-Practice": {
+        "title": "Putting Privacy into Practice",
+        "description": "This is a research project that develops and investigates an AI-based serious game design framework for software developers to embed privacy practices when developing software applications",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Putting-Privacy-into-Practice-A-serious-game-teaches-software-developers-secure-coding/",
-        "repo_url": "https://github.com/cepdnaclk/e19-4yp-Putting-Privacy-into-Practice-A-serious-game-teaches-software-developers-secure-coding",
-        "page_url": "https://cepdnaclk.github.io/e19-4yp-Putting-Privacy-into-Practice-A-serious-game-teaches-software-developers-secure-coding",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Putting-Privacy-into-Practice-A-serious-game-teaches-software-developers-secure-coding/",
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Putting-Privacy-into-Practice/",
+        "repo_url": "https://github.com/cepdnaclk/e19-4yp-Putting-Privacy-into-Practice",
+        "page_url": "https://cepdnaclk.github.io/e19-4yp-Putting-Privacy-into-Practice",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Putting-Privacy-into-Practice/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
         "team": {
             "E/19/105": {
