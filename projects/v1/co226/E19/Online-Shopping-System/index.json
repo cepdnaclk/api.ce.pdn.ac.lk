@@ -10,5 +10,56 @@
     "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Shopping-System",
     "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Shopping-System",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Shopping-System/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+    "team": {
+        "E/19/166": {
+            "name": "Jayathunga W.W.K.",
+            "email": "e19166@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/e19166",
+            "linkedin": "https://www.linkedin.com/in/wishula-jayathunga/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/166",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19166.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/166/"
+        },
+        "E/19/324": {
+            "name": "Rathnayake R.M.B.D.K.",
+            "email": "e19324@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Bimbara28",
+            "linkedin": "https://www.linkedin.com/in/bimbara-ratnayake-1ab0771b5/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/324",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19324.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/324/"
+        }
+    },
+    "supervisors": {
+        "kamalanath@eng.pdn.ac.lk": {
+            "name": "Dr. Eng. Kamalanath Samarakoon",
+            "email": "kamalanath@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/kamalanath-samarakoon/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/kamalanath-samarakoon.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
+            "website": "http://kamalanath.samarakoon.info/",
+            "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
+            "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
+            "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
+        },
+        "manjula.sandirigama@eng.pdn.ac.lk": {
+            "name": "Professor Manjula Sandirigama",
+            "email": "manjula.sandirigama@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/manjula-sandirigama/",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/manjula-sandirigama.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/manjula.sandirigama",
+            "website": "",
+            "linkedin": "https://lk.linkedin.com/in/manjula-sandirigama-0622784",
+            "researchgate": "",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=qpmlrL0AAAAJ"
+        }
+    },
+    "tags": [
+        "DBMS"
+    ]
 }
