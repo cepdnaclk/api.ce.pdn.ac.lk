@@ -12725,6 +12725,20 @@
             "Final Year Projects"
         ]
     },
+    "e19-4yp-AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes": {
+        "title": "AI Dirven Latency Constrained Resource Management In Kubernetes",
+        "description": "This repo focuses on latency-aware resource optimization for Kubernetes",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes/",
+        "repo_url": "https://github.com/cepdnaclk/e19-4yp-AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
+    },
     "e19-4yp-AI-Driven-Decision-Making-Models-for-Corporate-Applications": {
         "title": "AI Driven Decision Making Models for Corporate Applications",
         "description": "This project explores the development of AI-powered decision-making models to optimize corporate workflows, enhance strategic planning, and improve operational efficiency. By leveraging machine learning and natural language processing, the system will analyze corporate data including HR, finance, and operations to generate data-driven insights",
@@ -13147,20 +13161,6 @@
         "repo_url": "https://github.com/cepdnaclk/e19-4yp-Distributed-Operating-System-for-P2P-Resource-Sharing",
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Distributed-Operating-System-for-P2P-Resource-Sharing/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
-    },
-    "e19-4yp-Dynamic-Multi-Dimensional-Resource-Orchestration-in-Kubernetes": {
-        "title": "Dynamic Multi Dimensional Resource Orchestration in Kubernetes",
-        "description": "This repo focuses on latency-aware resource optimization for Kubernetes",
-        "category": {
-            "title": "Undergraduate Research Projects",
-            "code": "4yp",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Dynamic-Multi-Dimensional-Resource-Orchestration-in-Kubernetes/",
-        "repo_url": "https://github.com/cepdnaclk/e19-4yp-Dynamic-Multi-Dimensional-Resource-Orchestration-in-Kubernetes",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Dynamic-Multi-Dimensional-Resource-Orchestration-in-Kubernetes/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
     },
     "e19-4yp-Enhancing-Multimodal-Fusion-Techniques-for-Depression-Detection": {
@@ -33513,6 +33513,114 @@
             "Verilog"
         ]
     },
+    "e19-co502-RV32IM-Pipeline-Implementation-Group-2": {
+        "title": "RV32IM Pipeline Implementation Group 2",
+        "description": "",
+        "category": {
+            "title": "Advanced Computer Architecture (CO502)",
+            "code": "co502",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co502/e19/RV32IM-Pipeline-Implementation-Group-2/",
+        "repo_url": "https://github.com/cepdnaclk/e19-co502-RV32IM-Pipeline-Implementation-Group-2",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E19/RV32IM-Pipeline-Implementation-Group-2/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg"
+    },
+    "e19-co502-RV32IM-Pipeline-Implementation-Group1": {
+        "title": "RV32IM Pipeline Implementation Group1",
+        "description": "This repository contains an implementation of a RISC-V RV32IM processor with a 6-stage pipeline architecture. The design includes instruction fetch, decode, execute, memory access, write-back, and an additional stage for improved performance. It supports integer operations, multiplication, and memory access as defined in the RV32IM instruction set.",
+        "category": {
+            "title": "Advanced Computer Architecture (CO502)",
+            "code": "co502",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co502/e19/RV32IM-Pipeline-Implementation-Group1/",
+        "repo_url": "https://github.com/cepdnaclk/e19-co502-RV32IM-Pipeline-Implementation-Group1",
+        "page_url": "https://cepdnaclk.github.io/e19-co502-RV32IM-Pipeline-Implementation-Group1",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E19/RV32IM-Pipeline-Implementation-Group1/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+        "team": {
+            "E/19/129": {
+                "name": "Gunawardana K.H.",
+                "email": "e19129@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/KATTA-00",
+                "linkedin": "https://www.linkedin.com/in/kanishka-gunawardana-285aa4201",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/129",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19129.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/129/"
+            },
+            "E/19/275": {
+                "name": "Peeris M.S.",
+                "email": "e19275@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/sanka-p",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/275",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19275.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/275/"
+            },
+            "E/19/309": {
+                "name": "Rambukwella H.M.W.K.G.",
+                "email": "e19309@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/Kavishkagaya",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/309",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19309.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/309/"
+            }
+        },
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            }
+        },
+        "tags": [
+            "RISC-V",
+            "RV32IM"
+        ]
+    },
+    "e19-co502-RV32IM_Pipelined_Processor_Group-03": {
+        "title": "RV32IM_Pipelined_Processor_Group 03",
+        "description": "This Git repository contains the implementation of a RISC32IM processor pipeline using Verilog. The pipeline includes stages for instruction fetch, decode, execute, memory access, and write-back. The implementation includes a testbench for verification.",
+        "category": {
+            "title": "Advanced Computer Architecture (CO502)",
+            "code": "co502",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co502/e19/RV32IM_Pipelined_Processor_Group-03/",
+        "repo_url": "https://github.com/cepdnaclk/e19-co502-RV32IM_Pipelined_Processor_Group-03",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E19/RV32IM_Pipelined_Processor_Group-03/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg"
+    },
+    "e19-co502-RV32IM_Pipelined_Processor_Group-06": {
+        "title": "RV32IM_Pipelined_Processor_Group 06",
+        "description": "",
+        "category": {
+            "title": "Advanced Computer Architecture (CO502)",
+            "code": "co502",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co502/e19/RV32IM_Pipelined_Processor_Group-06/",
+        "repo_url": "https://github.com/cepdnaclk/e19-co502-RV32IM_Pipelined_Processor_Group-06",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E19/RV32IM_Pipelined_Processor_Group-06/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg"
+    },
     "e17-co502-RV32IM-Pipeline-Implementation-Group1": {
         "title": "RV32IM Pipeline Implementation Group1",
         "description": "An in-order 5-stage pipelined RISC-V CPU implementation consisting of the RV32I base ISA and the M-extension for multiplication/division operations.",
@@ -33697,72 +33805,6 @@
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
         "team": {},
         "supervisors": {}
-    },
-    "e19-co502-RV32IM-Pipeline-Implementation-Group1": {
-        "title": "RV32IM Pipeline Implementation Group1",
-        "description": "This repository contains an implementation of a RISC-V RV32IM processor with a 6-stage pipeline architecture. The design includes instruction fetch, decode, execute, memory access, write-back, and an additional stage for improved performance. It supports integer operations, multiplication, and memory access as defined in the RV32IM instruction set.",
-        "category": {
-            "title": "Advanced Computer Architecture (CO502)",
-            "code": "co502",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co502/e19/RV32IM-Pipeline-Implementation-Group1/",
-        "repo_url": "https://github.com/cepdnaclk/e19-co502-RV32IM-Pipeline-Implementation-Group1",
-        "page_url": "https://cepdnaclk.github.io/e19-co502-RV32IM-Pipeline-Implementation-Group1",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E19/RV32IM-Pipeline-Implementation-Group1/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
-        "team": {
-            "E/19/129": {
-                "name": "Gunawardana K.H.",
-                "email": "e19129@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/KATTA-00",
-                "linkedin": "https://www.linkedin.com/in/kanishka-gunawardana-285aa4201",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/129",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19129.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/129/"
-            },
-            "E/19/275": {
-                "name": "Peeris M.S.",
-                "email": "e19275@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/sanka-p",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/275",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19275.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/275/"
-            },
-            "E/19/309": {
-                "name": "Rambukwella H.M.W.K.G.",
-                "email": "e19309@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/Kavishkagaya",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/309",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19309.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/309/"
-            }
-        },
-        "supervisors": {
-            "isurunawinne@eng.pdn.ac.lk": {
-                "name": "Dr. Isuru Nawinne",
-                "email": "isurunawinne@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
-                "website": "",
-                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
-                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
-                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
-            }
-        },
-        "tags": [
-            "RISC-V",
-            "RV32IM"
-        ]
     },
     "e20-co502-RV32IM-pipeline-implementation-group-2": {
         "title": "RV32IM pipeline implementation group 2",
