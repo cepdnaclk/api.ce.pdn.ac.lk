@@ -1,6 +1,6 @@
 {
     "title": "RV32IM Pipeline Implementation Group1",
-    "description": "This repository contains an implementation of a RISC-V RV32IM processor with a 6-stage pipeline architecture. The design includes instruction fetch, decode, execute, memory access, write-back, and an additional stage for improved performance. It supports integer operations, multiplication, and memory access as defined in the RV32IM instruction set.",
+    "description": "This repository contains an implementation of a RISC-V RV32IM processor with a 5-stage pipeline architecture. The design includes instruction fetch, decode, execute, memory access, and write-back. It supports integer operations, multiplication, and memory access as defined in the RV32IM instruction set.",
     "category": {
         "title": "Advanced Computer Architecture (CO502)",
         "code": "co502",
