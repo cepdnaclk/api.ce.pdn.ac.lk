@@ -1,7 +1,7 @@
 {
     "e19-co502-RV32IM-Pipeline-Implementation-Group-2": {
         "title": "RV32IM Pipeline Implementation Group 2",
-        "description": "",
+        "description": "This repository holds a 5-stage pipeline build of a RISC-V RV32IM processor. The system encompasses Instruction Fetch, Decode, Execute, Memory Access, and Write-back. It features support for integer math, multiplication tasks, and memory access operations as dictated by the RV32IM instruction set.",
         "category": {
             "title": "Advanced Computer Architecture (CO502)",
             "code": "co502",
@@ -9,7 +9,7 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co502/e19/RV32IM-Pipeline-Implementation-Group-2/",
         "repo_url": "https://github.com/cepdnaclk/e19-co502-RV32IM-Pipeline-Implementation-Group-2",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e19-co502-RV32IM-Pipeline-Implementation-Group-2",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E19/RV32IM-Pipeline-Implementation-Group-2/"
     },
     "e19-co502-RV32IM-Pipeline-Implementation-Group1": {
@@ -37,6 +37,19 @@
         "repo_url": "https://github.com/cepdnaclk/e19-co502-RV32IM_Pipelined_Processor_Group-03",
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E19/RV32IM_Pipelined_Processor_Group-03/"
+    },
+    "e19-co502-RV32IM_Pipelined_Processor_Group-05": {
+        "title": "RV32IM_Pipelined_Processor_Group 05",
+        "description": "",
+        "category": {
+            "title": "Advanced Computer Architecture (CO502)",
+            "code": "co502",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co502/e19/RV32IM_Pipelined_Processor_Group-05/",
+        "repo_url": "https://github.com/cepdnaclk/e19-co502-RV32IM_Pipelined_Processor_Group-05",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E19/RV32IM_Pipelined_Processor_Group-05/"
     },
     "e19-co502-RV32IM_Pipelined_Processor_Group-06": {
         "title": "RV32IM_Pipelined_Processor_Group 06",
