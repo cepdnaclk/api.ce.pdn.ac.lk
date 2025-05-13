@@ -2251,7 +2251,72 @@
         "repo_url": "https://github.com/cepdnaclk/e17-6sp-Skim-Sequencing-Analysis",
         "page_url": "https://cepdnaclk.github.io/e17-6sp-Skim-Sequencing-Analysis",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Skim-Sequencing-Analysis/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+        "team": {
+            "E/17/018": {
+                "name": "Imesh Balasuriya",
+                "email": "e17018@eng.pdn.ac.lk",
+                "website": "https://www.imesh.tech",
+                "github": "https://github.com/ImeshBalasuriya/",
+                "linkedin": "https://www.linkedin.com/in/imesh-balasuriya/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/018",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17018.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/018/"
+            },
+            "E/17/194": {
+                "name": "Madhushan Ramalingam",
+                "email": "e17194@eng.pdn.ac.lk",
+                "website": "https://drmadhushan.github.io",
+                "github": "https://www.github.com/DrMadhushan",
+                "linkedin": "https://www.linkedin.com/in/madhushan-ramalingam",
+                "researchgate": "https://www.researchgate.net/profile/Madhushan-Ramalingam-2",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/194",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17194.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/194/"
+            },
+            "E/17/296": {
+                "name": "Ravisha Rupasinghe",
+                "email": "e17296@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/296",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17296.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/296/"
+            }
+        },
+        "supervisors": {
+            "asithab@pdn.ac.lk": {
+                "name": "Dr. Asitha Bandaranayake",
+                "email": "asithab@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake-sq.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/asithab",
+                "website": "",
+                "linkedin": "https://www.linkedin.com/in/asithab/",
+                "researchgate": "https://www.researchgate.net/profile/Asitha-Bandaranayake-3",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=sf6MaF4AAAAJ"
+            },
+            "contact@shyaman.me": {
+                "name": "Shyaman Jayasundara",
+                "email": "contact@shyaman.me",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "NGS",
+            "Skim Sequencing",
+            "Bioinformatics",
+            "Machine Learning"
+        ]
     },
     "e17-6sp-Sobriety-Detection-Using-Mobile-Phone-Gyroscope-Data": {
         "title": "Sobriety Detection Using Mobile Phone Gyroscope Data",
@@ -14129,8 +14194,65 @@
         "page_url": "https://cepdnaclk.github.io/e19-4yp-Solve-Issues-In-Large-Code-Repositories",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Solve-Issues-In-Large-Code-Repositories/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-        "team": {},
-        "supervisors": {},
+        "team": {
+            "E/19/007": {
+                "name": "T. Atchusathan",
+                "email": "e19007@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/007",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19007.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/007/"
+            },
+            "E/19/163": {
+                "name": "Eshan Jayasundara",
+                "email": "e19163@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/EshanJayasundara",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/163",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19163.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/163/"
+            },
+            "E/19/236": {
+                "name": "Lahiru Menikdiwela",
+                "email": "e19236@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/236",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19236.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/236/"
+            }
+        },
+        "supervisors": {
+            "roshanr@eng.pdn.ac.lk": {
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/roshanr",
+                "website": "http://roshan.ragel.net/",
+                "linkedin": "https://www.linkedin.com/in/roshanragel/",
+                "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
+                "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
+            },
+            "damayanthiherath@eng.pdn.ac.lk": {
+                "name": "Dr. Damayanthi Herath",
+                "email": "damayanthiherath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/damayanthiherath",
+                "website": "https://damayanthiherath.wordpress.com/",
+                "linkedin": "https://www.linkedin.com/in/damayanthi-herath/",
+                "researchgate": "https://www.researchgate.net/profile/Damayanthi-Herath",
+                "google_scholar": "https://scholar.google.com/citations?user=G2jUV5IAAAAJ&hl=en"
+            }
+        },
         "tags": [
             "Final Year Projects"
         ]
