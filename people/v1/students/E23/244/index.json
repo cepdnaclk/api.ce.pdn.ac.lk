@@ -2,30 +2,34 @@
     "eNumber": "E/23/244",
     "batch": "E23",
     "department": "Computer Engineering",
-    "current_affiliation": "Department of Computer Engineering, University of Peradeniya",
-    "honorific": "",
-    "full_name": "Newanma M. T. C",
-    "name_with_initials": "Newanma M. T. C",
-    "preferred_short_name": "Newanma M. T. C",
-    "preferred_long_name": "",
+    "current_affiliation": "Department of Computer Engineering",
+    "honorific": "Miss.",
+    "full_name": "Malawwe Thanthirige Chemini Newanma",
+    "name_with_initials": "M.T.C. Newanma",
+    "preferred_short_name": "Chemini",
+    "preferred_long_name": "Chemini Newanma",
     "emails": {
         "personal": {
-            "name": "",
-            "domain": ""
+            "name": "chemininewanma",
+            "domain": "gmail.com"
         },
         "faculty": {
             "name": "e23244",
             "domain": "eng.pdn.ac.lk"
         }
     },
-    "location": "",
-    "interests": [],
+    "location": "Galle",
+    "interests": [
+        "computer architecture",
+        "game development",
+        "software engineering"
+    ],
     "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23244.jpg",
     "urls": {
         "cv": "",
         "website": "",
         "linkedin": "",
-        "github": "",
+        "github": "https://github.com/chemini244",
         "facebook": "",
         "researchgate": "",
         "twitter": ""
