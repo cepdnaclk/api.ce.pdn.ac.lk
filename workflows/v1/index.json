@@ -132,6 +132,18 @@
         "status": "PASS"
     },
     {
+        "id": 32238210,
+        "repository": "people.ce.pdn.ac.lk",
+        "name": "Python Tests",
+        "state": "active",
+        "urls": {
+            "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/32238210",
+            "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/.github/workflows/test.yml",
+            "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/workflows/Python%20Tests/badge.svg"
+        },
+        "status": "PASS"
+    },
+    {
         "id": 64395976,
         "repository": "people.ce.pdn.ac.lk",
         "name": "Weekly Updates",
@@ -140,18 +152,6 @@
             "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/64395976",
             "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/.github/workflows/weekly.yml",
             "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/workflows/Weekly%20Updates/badge.svg"
-        },
-        "status": "PASS"
-    },
-    {
-        "id": 32238210,
-        "repository": "people.ce.pdn.ac.lk",
-        "name": "Python Tests",
-        "state": "disabled_manually",
-        "urls": {
-            "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/32238210",
-            "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/.github/workflows/test.yml",
-            "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/workflows/Python%20Tests/badge.svg"
         },
         "status": "PASS"
     },
