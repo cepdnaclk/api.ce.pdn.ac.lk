@@ -6921,5 +6921,671 @@
         "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ACCESS.2023.3317434/",
         "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ACCESS.2023.3317434/index.json",
         "submitted": "2023/10/04 14:30:26"
+    },
+    {
+        "title": "Genetic features of Sri Lankan elephant, Elephas maximus maximus Linnaeus revealed by high throughput sequencing of mitogenome and ddRAD-seq",
+        "venue": "PLOS One",
+        "year": "2023",
+        "abstract": "Elephas maximus maximus Linnaeus, the Sri Lankan subspecies is the largest and the darkest among Asian elephants. Patches of depigmented areas with no skin color on the ears, face, trunk, and belly morphologically differentiate it from the others. The elephant population in Sri Lanka is now limited to smaller areas and protected under Sri Lankan law. Despite its ecological and evolutionary importance, the relationship between Sri Lankan elephants and their phylogenetic position among Asian elephants remains controversial. While identifying genetic diversity is the key to any conservation and management strategies, limited data is currently available. To address such issues, we analyzed 24 elephants with known parental lineages with high throughput ddRAD-seq. The mitogenome suggested the coalescence time of the Sri Lankan elephant at ~0.2 million years, and sister to Myanmar elephants supporting the hypothesis of the movement of elephants in Eurasia. The ddRAD-seq approach identified 50,490 genome-wide SNPs among Sri Lankan elephants. The genetic diversity within Sri Lankan elephants assessed with identified SNPs suggests a geographical differentiation resulting in three main clusters; north-eastern, mid-latitude, and southern regions. Interestingly, though it was believed that elephants from the Sinharaja rainforest are of an isolated population, the ddRAD-based genetic analysis clustered it with the north-eastern elephants. The effect of habitat fragmentation on genetic diversity could be further assessed with more samples with specific SNPs identified in the current study.",
+        "authors": [
+            "MGC Sooriyabandara",
+            "JMSM Jayasundara",
+            "MSLRP Marasinghe",
+            "HABM Hathurusinghe",
+            "AU Bandaranayake",
+            "KANC Jayawardane",
+            "RMR Nilanthi",
+            "RC Rajapakse",
+            "PCG Bandaranayake"
+        ],
+        "author_info": [
+            {
+                "name": "MGC Sooriyabandara",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
+                "name": "JMSM Jayasundara",
+                "profile": "https://people.ce.pdn.ac.lk/students/e14/154/",
+                "type": "STUDENT",
+                "id": "E/14/154",
+                "email": "jmshyaman@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14154.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e14/154/"
+            },
+            {
+                "name": "MSLRP Marasinghe",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
+                "name": "HABM Hathurusinghe",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
+                "name": "AU Bandaranayake",
+                "profile": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/",
+                "type": "STAFF",
+                "id": "asithab",
+                "email": "asithab@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake-sq.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/"
+            },
+            {
+                "name": "KANC Jayawardane",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
+                "name": "RMR Nilanthi",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
+                "name": "RC Rajapakse",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
+                "name": "PCG Bandaranayake",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            }
+        ],
+        "doi": "https://doi.org/10.1371/journal.pone.0285572",
+        "is_dept_affiliated": true,
+        "preprint_url": "#",
+        "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0285572&type=printable",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [],
+        "tags": [],
+        "funding": "Eco-System Conservation Management Project (ESCAMP) of the World Bank [through Department of Wildlife Conservation (DWC)]",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1371/journal.pone.0285572/",
+        "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1371/journal.pone.0285572/index.json",
+        "submitted": "2025/06/15 09:51:25"
+    },
+    {
+        "title": "Semantic segmentation using Vision Transformers: A survey",
+        "venue": "Engineering Applications of Artificial Intelligence",
+        "year": "2023",
+        "abstract": "Semantic segmentation has a broad range of applications in a variety of domains including land coverage analysis, autonomous driving, and medical image analysis. Convolutional neural networks (CNN) and Vision Transformers (ViTs) provide the architecture models for semantic segmentation. Even though ViTs have proven success in image classification, they cannot be directly applied to dense prediction tasks such as image segmentation and object detection since ViT is not a general purpose backbone due to its patch partitioning scheme. In this survey, we discuss some of the different ViT architectures that can be used for semantic segmentation and how their evolution managed the above-stated challenge. The rise of ViT and its performance with a high success rate motivated the community to slowly replace the traditional convolutional neural networks in various computer vision tasks. This survey aims to review and compare the performances of ViT architectures designed for semantic segmentation using benchmarking datasets. This will be worthwhile for the community to yield knowledge regarding the implementations carried out in semantic segmentation and to discover more efficient methodologies using ViTs.",
+        "authors": [
+            "Hans Thisanke",
+            "Chamli Deshan",
+            "Kavindu Chamith",
+            "Sachith Seneviratne",
+            "Rajith Vidanaarachchi",
+            "Damayanthi Herath"
+        ],
+        "author_info": [
+            {
+                "name": "Hans Thisanke",
+                "profile": "https://people.ce.pdn.ac.lk/students/e16/368/",
+                "type": "STUDENT",
+                "id": "E/16/368",
+                "email": "e16368@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16368.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e16/368/"
+            },
+            {
+                "name": "Chamli Deshan",
+                "profile": "https://people.ce.pdn.ac.lk/students/e16/076/",
+                "type": "STUDENT",
+                "id": "E/16/076",
+                "email": "e16076@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16076.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e16/076/"
+            },
+            {
+                "name": "Kavindu Chamith",
+                "profile": "https://people.ce.pdn.ac.lk/students/e16/057/",
+                "type": "STUDENT",
+                "id": "E/16/057",
+                "email": "e16057@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16057.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e16/057/"
+            },
+            {
+                "name": "Sachith Seneviratne",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
+                "name": "Rajith Vidanaarachchi",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
+                "name": "Damayanthi Herath",
+                "profile": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
+                "type": "STAFF",
+                "id": "damayanthiherath",
+                "email": "damayanthiherath@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/"
+            }
+        ],
+        "doi": "https://doi.org/10.1016/j.engappai.2023.106669",
+        "is_dept_affiliated": true,
+        "preprint_url": "https://arxiv.org/pdf/2305.03273",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict/",
+        "codebase": "https://github.com/cepdnaclk/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict",
+        "research_groups": [
+            "Computer Vision"
+        ],
+        "tags": [
+            "vision transformer",
+            "semantic segmentation",
+            "review",
+            "survey",
+            "convolution neural networks",
+            "self-supervised learning",
+            "deep learning"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1016/j.engappai.2023.106669/",
+        "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1016/j.engappai.2023.106669/index.json",
+        "submitted": "2025/06/15 13:21:43"
+    },
+    {
+        "title": "ViT-RoT: Vision Transformer-Based Robust Framework for Tomato Leaf Disease Recognition",
+        "venue": "AgriEngineering (MDPI) Journal",
+        "year": "2025",
+        "abstract": "Vision transformers (ViTs) have recently gained traction in plant disease classification due to their strong performance in visual recognition tasks. However, their application to tomato leaf disease recognition remains challenged by two factors, namely the need for models that can generalise across diverse disease conditions and the absence of a unified framework for systematic comparison. Existing ViT-based approaches often yield inconsistent results across datasets and disease types, limiting their reliability and practical deployment. To address these limitations, this study proposes the ViT-Based Robust Framework (ViT-RoT), a novel benchmarking framework designed to systematically evaluate the performance of various ViT architectures in tomato leaf disease classification. The framework facilitates the systematic classification of state-of-the-art ViT variants into high-, moderate-, and low-performing groups for tomato leaf disease recognition. A thorough empirical analysis is conducted using one publicly available benchmark dataset, assessed through standard evaluation metrics. Results demonstrate that the ConvNeXt-Small and Swin-Small models consistently achieve superior accuracy and robustness across all datasets. Beyond identifying the most effective ViT variant, the study highlights critical considerations for designing ViT-based models that are not only accurate but also efficient and adaptable to real-world agricultural applications. This study contributes a structured foundation for future research and development in vision-based plant disease diagnosis.",
+        "authors": [
+            "Sathiyamohan Nishankar",
+            "Velalagan Pavindran",
+            "Thurairatnam Mithuran",
+            "Sivaraj Nimishan",
+            "Selvarajah Thuseethan",
+            "Yakub Sebastian"
+        ],
+        "author_info": [
+            {
+                "name": "Sathiyamohan Nishankar",
+                "profile": "https://people.ce.pdn.ac.lk/students/e17/230/",
+                "type": "STUDENT",
+                "id": "E/17/230",
+                "email": "e17230@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17230.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/230/"
+            },
+            {
+                "name": "Velalagan Pavindran",
+                "profile": "https://people.ce.pdn.ac.lk/students/e21/283/",
+                "type": "STUDENT",
+                "id": "E/21/283",
+                "email": "e21283@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21283.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/283/"
+            },
+            {
+                "name": "Thurairatnam Mithuran",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
+                "name": "Sivaraj Nimishan",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
+                "name": "Selvarajah Thuseethan",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
+                "name": "Yakub Sebastian",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            }
+        ],
+        "doi": "https://doi.org/10.3390/agriengineering7060185",
+        "is_dept_affiliated": true,
+        "preprint_url": "#",
+        "pdf_url": "#",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [],
+        "tags": [
+            "Vision Transformer (ViT)",
+            "Plant Disease Detection",
+            "Deep Learning",
+            "ViT-RoT Framework",
+            "Precision Agriculture"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/agriengineering7060185/",
+        "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/agriengineering7060185/index.json",
+        "submitted": "2025/06/15 15:14:22"
+    },
+    {
+        "title": "A unique single nucleotide polymorphism in Agouti Signalling Protein (ASIP) gene changes coat colour of Sri Lankan leopard (Panthera pardus kotiya) to dark black",
+        "venue": "PLOS One",
+        "year": "2023",
+        "abstract": "The Sri Lankan leopard (Panthera pardus kotiya) is an endangered subspecies restricted to isolated and fragmented populations in Sri Lanka. Among them, melanistic leopards have been recorded on a few occasions. Literature suggests the evolution of melanism several times in the Felidae family, with three species having distinct mutations. Nevertheless, the mutations or other variations in the remaining species, including Sri Lankan melanistic leopard, are unknown. We used reference-based assembled nuclear genomes of Sri Lankan wild type and melanistic leopards and de novo assembled mitogenomes of the same to investigate the genetic basis, adaptive significance, and evolutionary history of the Sri Lankan melanistic leopard. Interestingly, we identified a single nucleotide polymorphism in exon-4 Sri Lankan melanistic leopard, which may completely ablate Agouti Signalling Protein (ASIP) function. The wild type leopards in Sri Lanka did not carry this mutation, suggesting the cause for the occurrence of melanistic leopords in the population. Comparative analysis of existing genomic data in the literature suggests it as a P. p. kotiya specific mutation and a novel mutation in the ASIP-gene of the Felidae family, contributing to naturally occurring colour polymorphism. Our data suggested the coalescence time of Sri Lankan leopards at ~0.5 million years, sisters to the Panthera pardus lineage. The genetic diversity was low in Sri Lankan leopards. Further, the P. p. kotiya melanistic leopard is a different morphotype of the P. p. kotiya wildtype leopard resulting from the mutation in the ASIP-gene. The ability of black leopards to camouflage, along with the likelihood of recurrence and transfer to future generations, suggests that this rare mutation could be environment-adaptable.",
+        "authors": [
+            "M. G. C. Sooriyabandara",
+            "A. U. Bandaranayake",
+            "H. A. B. M. Hathurusinghe",
+            "S. M. Jayasundara",
+            "M. S. R. R. P. Marasinghe",
+            "G. A. T. Prasad",
+            "V. P. M. K. Abeywardana",
+            "M. A. Pinidiya",
+            "R. M. R. Nilanthi",
+            "P. C. G. Bandaranayake"
+        ],
+        "author_info": [
+            {
+                "name": "M. G. C. Sooriyabandara",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
+                "name": "A. U. Bandaranayake",
+                "profile": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/",
+                "type": "STAFF",
+                "id": "asithab",
+                "email": "asithab@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake-sq.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/"
+            },
+            {
+                "name": "H. A. B. M. Hathurusinghe",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
+                "name": "S. M. Jayasundara",
+                "profile": "https://people.ce.pdn.ac.lk/students/e14/154/",
+                "type": "STUDENT",
+                "id": "E/14/154",
+                "email": "jmshyaman@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14154.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e14/154/"
+            },
+            {
+                "name": "M. S. R. R. P. Marasinghe",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
+                "name": "G. A. T. Prasad",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
+                "name": "V. P. M. K. Abeywardana",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
+                "name": "M. A. Pinidiya",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
+                "name": "R. M. R. Nilanthi",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
+                "name": "P. C. G. Bandaranayake",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            }
+        ],
+        "doi": "https://doi.org/10.1371/journal.pone.0269967",
+        "is_dept_affiliated": true,
+        "preprint_url": "#",
+        "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0269967&type=printable",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [],
+        "tags": [],
+        "funding": "Eco-System Conservation Management Project (ESCAMP) of the World Bank through the Department of Wildlife Conservation (DWC)",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1371/journal.pone.0269967/",
+        "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1371/journal.pone.0269967/index.json",
+        "submitted": "2025/06/15 16:48:25"
+    },
+    {
+        "title": "Chloroplast genome, nuclear ITS regions, mitogenome regions, and Skmer analysis resolved the genetic relationship among Cinnamomum species in Sri Lanka",
+        "venue": "PLOS One",
+        "year": "2023",
+        "abstract": "Cinnamomum species have gained worldwide attention because of their economic benefits. Among them, C. verum (synonymous with C. zeylanicum Blume), commonly known as Ceylon Cinnamon or True Cinnamon is mainly produced in Sri Lanka. In addition, Sri Lanka is home to seven endemic wild cinnamon species, C. capparu-coronde, C. citriodorum, C. dubium, C. litseifolium, C. ovalifolium, C. rivulorum and C. sinharajaense. Proper identification and genetic characterization are fundamental for the conservation and commercialization of these species. While some species can be identified based on distinct morphological or chemical traits, others cannot be identified easily morphologically or chemically. The DNA barcoding using rbcL, matK, and trnH-psbA regions could not also resolve the identification of Cinnamomum species in Sri Lanka. Therefore, we generated Illumina Hiseq data of about 20x coverage for each identified species and a C. verum sample (India) and assembled the chloroplast genome, nuclear ITS regions, and several mitochondrial genes, and conducted Skmer analysis. Chloroplast genomes of all eight species were assembled using a seed-based method.According to the Bayesian phylogenomic tree constructed with the complete chloroplast genomes, the C. verum (Sri Lanka) is sister to previously sequenced C. verum (NC_035236.1, KY635878.1), C. dubium and C. rivulorum. The C. verum sample from India is sister to C. litseifolium and C. ovalifolium. According to the ITS regions studied, C. verum (Sri Lanka) is sister to C. verum (NC_035236.1), C. dubium and C. rivulorum. Cinnamomum verum (India) shares an identical ITS region with C. ovalifolium, C. litseifolium, C. citriodorum, and C. capparu-coronde. According to the Skmer analysis C. verum (Sri Lanka) is sister to C. dubium and C. rivulorum, whereas C. verum (India) is sister to C. ovalifolium, and C. litseifolium. The chloroplast gene ycf1 was identified as a chloroplast barcode for the identification of Cinnamomum species. We identified an 18 bp indel region in the ycf1 gene, that could differentiate C. verum (India) and C. verum (Sri Lanka) samples tested.",
+        "authors": [
+            "Pradeepa CG Bandaranayake",
+            "Nathasha Naranpanawa",
+            "CHWMR Bhagya Chandrasekara",
+            "Hiruna Samarakoon",
+            "S Lokuge",
+            "S Jayasundara",
+            "Asitha U Bandaranayake",
+            "DKNG Pushpakumara",
+            "D Siril A Wijesundara"
+        ],
+        "author_info": [
+            {
+                "name": "Pradeepa CG Bandaranayake",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
+                "name": "Nathasha Naranpanawa",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
+                "name": "CHWMR Bhagya Chandrasekara",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
+                "name": "Hiruna Samarakoon",
+                "profile": "https://people.ce.pdn.ac.lk/students/e14/302/",
+                "type": "STUDENT",
+                "id": "E/14/302",
+                "email": "e14302@ce.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14302.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e14/302/"
+            },
+            {
+                "name": "S Lokuge",
+                "profile": "https://people.ce.pdn.ac.lk/students/e14/194/",
+                "type": "STUDENT",
+                "id": "E/14/194",
+                "email": "e14194@ce.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14194.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e14/194/"
+            },
+            {
+                "name": "S Jayasundara",
+                "profile": "https://people.ce.pdn.ac.lk/students/e14/154/",
+                "type": "STUDENT",
+                "id": "E/14/154",
+                "email": "jmshyaman@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14154.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e14/154/"
+            },
+            {
+                "name": "Asitha U Bandaranayake",
+                "profile": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/",
+                "type": "STAFF",
+                "id": "asithab",
+                "email": "asithab@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake-sq.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/"
+            },
+            {
+                "name": "DKNG Pushpakumara",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
+                "name": "D Siril A Wijesundara",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            }
+        ],
+        "doi": "https://doi.org/10.1371/journal.pone.0291763",
+        "is_dept_affiliated": true,
+        "preprint_url": "#",
+        "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0291763&type=printable",
+        "presentation_url": "#",
+        "project_url": "#",
+        "codebase": "#",
+        "research_groups": [],
+        "tags": [],
+        "funding": "National Science Foundation (NSF SP/CIN/2016/01)",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1371/journal.pone.0291763/",
+        "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1371/journal.pone.0291763/index.json",
+        "submitted": "2025/06/15 17:03:37"
+    },
+    {
+        "title": "Prediction of Dengue Outbreaks in Sri Lanka Using Machine Learning Techniques",
+        "venue": "Sri Lanka Journal of Medicine",
+        "year": "2025",
+        "abstract": "Dengue outbreaks pose a significant public health challenge in tropical and subtropical regions globally, necessitating effective predictive models for early detection and intervention. This study examines the complex nature of the disease by analyzing weather parameters such as temperature, wind speed, precipitation, and humidity. Through machine learning techniques, we successfully forecasted dengue outbreaks in nine districts in Sri Lanka and identified similar weather and dengue patterns in districts such as Gampaha, Colombo, Kandy and Kurunegala. These findings are important for developing an early warning system, optimizing public health measures, and efficiently allocating resources to minimize the negative impact on communities. Furthermore, the model offers valuable insights for epidemiological research on dengue spread and control.",
+        "authors": [
+            "HU Uduwanage",
+            "KMSL Konara",
+            "GDR Mihiranga",
+            "SN Karunarathna",
+            "F Noordeen",
+            "I Ekanayake"
+        ],
+        "author_info": [
+            {
+                "name": "HU Uduwanage",
+                "profile": "https://people.ce.pdn.ac.lk/students/e18/368/",
+                "type": "STUDENT",
+                "id": "E/18/368",
+                "email": "e18368@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18368.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/368/"
+            },
+            {
+                "name": "KMSL Konara",
+                "profile": "https://people.ce.pdn.ac.lk/students/e18/181/",
+                "type": "STUDENT",
+                "id": "E/18/181",
+                "email": "e18181@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18181.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/181/"
+            },
+            {
+                "name": "GDR Mihiranga",
+                "profile": "https://people.ce.pdn.ac.lk/students/e18/224/",
+                "type": "STUDENT",
+                "id": "E/18/224",
+                "email": "e18224@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18224.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/224/"
+            },
+            {
+                "name": "SN Karunarathna",
+                "profile": "https://people.ce.pdn.ac.lk/staff/academic/suneth-namal-karunarathna/",
+                "type": "STAFF",
+                "id": "namal",
+                "email": "namal@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/suneth-namal-karunarathna.png",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/suneth-namal-karunarathna/"
+            },
+            {
+                "name": "F Noordeen",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
+                "name": "I Ekanayake",
+                "profile": "https://people.ce.pdn.ac.lk//students/e15/092",
+                "type": "STAFF",
+                "id": "imeshuek",
+                "email": "imeshuek@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/imesh.png",
+                "profile_url": "https://people.ce.pdn.ac.lk//students/e15/092"
+            }
+        ],
+        "doi": "https://sljm.sljol.info/articles/10.4038/sljm.v34i1.568",
+        "is_dept_affiliated": true,
+        "preprint_url": "#",
+        "pdf_url": "https://sljm.sljol.info/articles/568/files/68060c4a7bc38.pdf",
+        "presentation_url": "https://gamma.app/docs/FYP-Forecasting-Dengue-Outbreaks-in-Sri-Lanka-q0tby8ocrsu3brh?mode=doc",
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques/",
+        "codebase": "https://github.com/cepdnaclk/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques",
+        "research_groups": [
+            "Computational BioEngineering",
+            "Machine Learning and Data Mining"
+        ],
+        "tags": [
+            "Dengue",
+            "Dengue outbreak prediction",
+            "Machine learning",
+            "Early warning system",
+            "Time series forecasting"
+        ],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/sljm.sljol.info/articles/10.4038/sljm.v34i1.568/",
+        "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/sljm.sljol.info/articles/10.4038/sljm.v34i1.568/index.json",
+        "submitted": "2025/06/15 21:57:06"
+    },
+    {
+        "title": "Analyzing and Predicting the Volatile Market Patterns for Trading in International Markets Using a Digital Twin",
+        "venue": "Asia Pacific Advanced Network Conference (APANConf 2024)",
+        "year": "2025",
+        "abstract": "This paper investigates the use of DRL-driven digital twins in digit trading. The proposed system used a Deep Q-Network (DQN) agent to predict market digit values. The simulated digital twin optimized the trading strategies using loss filtering algorithms. The DQN agent demonstrated effective prediction results, closely tracking market dynamics and outperforming the random prediction baseline for trading operations. This system\u00e2\u0080\u0099s critical features were dynamic position sizing and rebalancing mechanisms designed for digit trading. The research highlighted the potential of DRL-driven digital twins in enhancing trading performance by mitigating risks and increasing the rate of return with risk tolerance through loss-filtering operations. Future directions involve developing specialized agents for specific prediction tasks and exploring multi-agent RL digit trading systems. The findings emphasized the advancements that DRL-driven digital twins can bring to financial market strategies, positioning them as valuable tools for achieving consistent and optimized trading performance.",
+        "authors": [
+            "Ishta H. Jayakody",
+            "Mahela Bandara & Asitha U. Bandaranayake"
+        ],
+        "author_info": [
+            {
+                "name": "Ishta H. Jayakody",
+                "type": "UNDETERMINED",
+                "id": "asithab",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
+                "name": "Mahela Bandara & Asitha U. Bandaranayake",
+                "type": "UNDETERMINED",
+                "id": "asithab",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            }
+        ],
+        "doi": "https://doi.org/10.1007/978-3-031-89813-6_9",
+        "is_dept_affiliated": true,
+        "preprint_url": "#",
+        "pdf_url": "https://link.springer.com/chapter/10.1007/978-3-031-89813-6_9#citeas",
+        "presentation_url": "#",
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin/",
+        "codebase": "https://github.com/cepdnaclk/e18-4yp-Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin",
+        "research_groups": [
+            "Smart and Intelligent Systems (IoT / AI / Wearable Computing)"
+        ],
+        "tags": [],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1007/978-3-031-89813-6_9/",
+        "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1007/978-3-031-89813-6_9/index.json",
+        "submitted": "2025/06/15 22:55:33"
     }
 ]

@@ -1,0 +1,89 @@
+{
+    "title": "ViT-RoT: Vision Transformer-Based Robust Framework for Tomato Leaf Disease Recognition",
+    "venue": "AgriEngineering (MDPI) Journal",
+    "year": "2025",
+    "abstract": "Vision transformers (ViTs) have recently gained traction in plant disease classification due to their strong performance in visual recognition tasks. However, their application to tomato leaf disease recognition remains challenged by two factors, namely the need for models that can generalise across diverse disease conditions and the absence of a unified framework for systematic comparison. Existing ViT-based approaches often yield inconsistent results across datasets and disease types, limiting their reliability and practical deployment. To address these limitations, this study proposes the ViT-Based Robust Framework (ViT-RoT), a novel benchmarking framework designed to systematically evaluate the performance of various ViT architectures in tomato leaf disease classification. The framework facilitates the systematic classification of state-of-the-art ViT variants into high-, moderate-, and low-performing groups for tomato leaf disease recognition. A thorough empirical analysis is conducted using one publicly available benchmark dataset, assessed through standard evaluation metrics. Results demonstrate that the ConvNeXt-Small and Swin-Small models consistently achieve superior accuracy and robustness across all datasets. Beyond identifying the most effective ViT variant, the study highlights critical considerations for designing ViT-based models that are not only accurate but also efficient and adaptable to real-world agricultural applications. This study contributes a structured foundation for future research and development in vision-based plant disease diagnosis.",
+    "authors": [
+        "Sathiyamohan Nishankar",
+        "Velalagan Pavindran",
+        "Thurairatnam Mithuran",
+        "Sivaraj Nimishan",
+        "Selvarajah Thuseethan",
+        "Yakub Sebastian"
+    ],
+    "author_info": [
+        {
+            "name": "Sathiyamohan Nishankar",
+            "profile": "https://people.ce.pdn.ac.lk/students/e17/230/",
+            "type": "STUDENT",
+            "id": "E/17/230",
+            "email": "e17230@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17230.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/230/"
+        },
+        {
+            "name": "Velalagan Pavindran",
+            "profile": "https://people.ce.pdn.ac.lk/students/e21/283/",
+            "type": "STUDENT",
+            "id": "E/21/283",
+            "email": "e21283@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21283.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/283/"
+        },
+        {
+            "name": "Thurairatnam Mithuran",
+            "profile": "#",
+            "type": "OUTSIDER",
+            "id": "",
+            "email": "",
+            "profile_image": "#",
+            "profile_url": "#"
+        },
+        {
+            "name": "Sivaraj Nimishan",
+            "profile": "#",
+            "type": "OUTSIDER",
+            "id": "",
+            "email": "",
+            "profile_image": "#",
+            "profile_url": "#"
+        },
+        {
+            "name": "Selvarajah Thuseethan",
+            "profile": "#",
+            "type": "OUTSIDER",
+            "id": "",
+            "email": "",
+            "profile_image": "#",
+            "profile_url": "#"
+        },
+        {
+            "name": "Yakub Sebastian",
+            "profile": "#",
+            "type": "OUTSIDER",
+            "id": "",
+            "email": "",
+            "profile_image": "#",
+            "profile_url": "#"
+        }
+    ],
+    "doi": "https://doi.org/10.3390/agriengineering7060185",
+    "is_dept_affiliated": true,
+    "preprint_url": "#",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "#",
+    "codebase": "#",
+    "research_groups": [],
+    "tags": [
+        "Vision Transformer (ViT)",
+        "Plant Disease Detection",
+        "Deep Learning",
+        "ViT-RoT Framework",
+        "Precision Agriculture"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/agriengineering7060185/",
+    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/agriengineering7060185/index.json",
+    "submitted": "2025/06/15 15:14:22"
+}

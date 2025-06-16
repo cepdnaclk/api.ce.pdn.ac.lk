@@ -1,0 +1,93 @@
+{
+    "title": "Semantic segmentation using Vision Transformers: A survey",
+    "venue": "Engineering Applications of Artificial Intelligence",
+    "year": "2023",
+    "abstract": "Semantic segmentation has a broad range of applications in a variety of domains including land coverage analysis, autonomous driving, and medical image analysis. Convolutional neural networks (CNN) and Vision Transformers (ViTs) provide the architecture models for semantic segmentation. Even though ViTs have proven success in image classification, they cannot be directly applied to dense prediction tasks such as image segmentation and object detection since ViT is not a general purpose backbone due to its patch partitioning scheme. In this survey, we discuss some of the different ViT architectures that can be used for semantic segmentation and how their evolution managed the above-stated challenge. The rise of ViT and its performance with a high success rate motivated the community to slowly replace the traditional convolutional neural networks in various computer vision tasks. This survey aims to review and compare the performances of ViT architectures designed for semantic segmentation using benchmarking datasets. This will be worthwhile for the community to yield knowledge regarding the implementations carried out in semantic segmentation and to discover more efficient methodologies using ViTs.",
+    "authors": [
+        "Hans Thisanke",
+        "Chamli Deshan",
+        "Kavindu Chamith",
+        "Sachith Seneviratne",
+        "Rajith Vidanaarachchi",
+        "Damayanthi Herath"
+    ],
+    "author_info": [
+        {
+            "name": "Hans Thisanke",
+            "profile": "https://people.ce.pdn.ac.lk/students/e16/368/",
+            "type": "STUDENT",
+            "id": "E/16/368",
+            "email": "e16368@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16368.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e16/368/"
+        },
+        {
+            "name": "Chamli Deshan",
+            "profile": "https://people.ce.pdn.ac.lk/students/e16/076/",
+            "type": "STUDENT",
+            "id": "E/16/076",
+            "email": "e16076@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16076.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e16/076/"
+        },
+        {
+            "name": "Kavindu Chamith",
+            "profile": "https://people.ce.pdn.ac.lk/students/e16/057/",
+            "type": "STUDENT",
+            "id": "E/16/057",
+            "email": "e16057@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16057.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e16/057/"
+        },
+        {
+            "name": "Sachith Seneviratne",
+            "profile": "#",
+            "type": "OUTSIDER",
+            "id": "",
+            "email": "",
+            "profile_image": "#",
+            "profile_url": "#"
+        },
+        {
+            "name": "Rajith Vidanaarachchi",
+            "profile": "#",
+            "type": "OUTSIDER",
+            "id": "",
+            "email": "",
+            "profile_image": "#",
+            "profile_url": "#"
+        },
+        {
+            "name": "Damayanthi Herath",
+            "profile": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
+            "type": "STAFF",
+            "id": "damayanthiherath",
+            "email": "damayanthiherath@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/"
+        }
+    ],
+    "doi": "https://doi.org/10.1016/j.engappai.2023.106669",
+    "is_dept_affiliated": true,
+    "preprint_url": "https://arxiv.org/pdf/2305.03273",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict/",
+    "codebase": "https://github.com/cepdnaclk/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict",
+    "research_groups": [
+        "Computer Vision"
+    ],
+    "tags": [
+        "vision transformer",
+        "semantic segmentation",
+        "review",
+        "survey",
+        "convolution neural networks",
+        "self-supervised learning",
+        "deep learning"
+    ],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1016/j.engappai.2023.106669/",
+    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1016/j.engappai.2023.106669/index.json",
+    "submitted": "2025/06/15 13:21:43"
+}
