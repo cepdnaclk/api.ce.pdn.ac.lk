@@ -4823,6 +4823,69 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185266/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185266/index.json"
+        },
+        {
+            "title": "Optimized Multi-Processor System-on-Chip (MPSoC) Design for Low-Resource JPEG Encoding",
+            "venue": "2024 6th International Conference on Advancements in Computing (ICAC)",
+            "year": "2024",
+            "abstract": "This paper presents the design and optimization of a Multiprocessor System-on-Chip (MPSoC) architecture for low-resource JPEG encoding. The initial design employs six Central Processing Units (CPUs) to implement a pipelined JPEG encoder, divided into stages: color space conversion, level shifting, discrete cosine transform (DCT), quantization, Huffman encoding, and output buffering. The pipeline is then optimized using custom hardware components, including First-In-First-Out (FIFO) queues, custom instruction blocks, and superscalar pipelines to improve performance and efficiency. The paper details the design process, various optimization strategies, implementation challenges, and the resulting performance improvements. The system is implemented and evaluated using the Cyclone IV E Field Programmable Gate Array (FPGA) platform with Nios II/e processors, and the design was developed using the Quartus II software, demonstrating significant gains in throughput and resource efficiency.",
+            "authors": [
+                "Kanishka Gunawardana",
+                "Chandula Adhikari",
+                "Isuru Nawinne"
+            ],
+            "author_info": [
+                {
+                    "name": "Kanishka Gunawardana",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e19/129/",
+                    "type": "STUDENT",
+                    "id": "E/19/129",
+                    "email": "e19129@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19129.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e19/129/"
+                },
+                {
+                    "name": "Chandula Adhikari",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e19/008/",
+                    "type": "STUDENT",
+                    "id": "E/19/008",
+                    "email": "e19008@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19008.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e19/008/"
+                },
+                {
+                    "name": "Isuru Nawinne",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                    "type": "STAFF",
+                    "id": "isurunawinne",
+                    "email": "isurunawinne@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+                }
+            ],
+            "doi": "https://doi.org/10.1109/ICAC64487.2024.10851123",
+            "is_dept_affiliated": true,
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "https://docs.google.com/presentation/d/1HL9plLBTpVUnhCRvR60QFavVoz-p8put/edit?usp=sharing&ouid=102981076134475622858&rtpof=true&sd=true",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [],
+            "funding": "",
+            "tags": [
+                "Image coding",
+                "Quantization (signal)",
+                "Pipelines",
+                "Transform coding",
+                "Computer architecture",
+                "Throughput",
+                "Hardware",
+                "System-on-chip",
+                "Discrete cosine transforms",
+                "Optimization"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICAC64487.2024.10851123/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICAC64487.2024.10851123/index.json"
         }
     ],
     "Computer bugs": [
@@ -8610,6 +8673,71 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300359/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300359/index.json"
+        }
+    ],
+    "Discrete cosine transforms": [
+        {
+            "title": "Optimized Multi-Processor System-on-Chip (MPSoC) Design for Low-Resource JPEG Encoding",
+            "venue": "2024 6th International Conference on Advancements in Computing (ICAC)",
+            "year": "2024",
+            "abstract": "This paper presents the design and optimization of a Multiprocessor System-on-Chip (MPSoC) architecture for low-resource JPEG encoding. The initial design employs six Central Processing Units (CPUs) to implement a pipelined JPEG encoder, divided into stages: color space conversion, level shifting, discrete cosine transform (DCT), quantization, Huffman encoding, and output buffering. The pipeline is then optimized using custom hardware components, including First-In-First-Out (FIFO) queues, custom instruction blocks, and superscalar pipelines to improve performance and efficiency. The paper details the design process, various optimization strategies, implementation challenges, and the resulting performance improvements. The system is implemented and evaluated using the Cyclone IV E Field Programmable Gate Array (FPGA) platform with Nios II/e processors, and the design was developed using the Quartus II software, demonstrating significant gains in throughput and resource efficiency.",
+            "authors": [
+                "Kanishka Gunawardana",
+                "Chandula Adhikari",
+                "Isuru Nawinne"
+            ],
+            "author_info": [
+                {
+                    "name": "Kanishka Gunawardana",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e19/129/",
+                    "type": "STUDENT",
+                    "id": "E/19/129",
+                    "email": "e19129@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19129.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e19/129/"
+                },
+                {
+                    "name": "Chandula Adhikari",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e19/008/",
+                    "type": "STUDENT",
+                    "id": "E/19/008",
+                    "email": "e19008@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19008.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e19/008/"
+                },
+                {
+                    "name": "Isuru Nawinne",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                    "type": "STAFF",
+                    "id": "isurunawinne",
+                    "email": "isurunawinne@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+                }
+            ],
+            "doi": "https://doi.org/10.1109/ICAC64487.2024.10851123",
+            "is_dept_affiliated": true,
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "https://docs.google.com/presentation/d/1HL9plLBTpVUnhCRvR60QFavVoz-p8put/edit?usp=sharing&ouid=102981076134475622858&rtpof=true&sd=true",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [],
+            "funding": "",
+            "tags": [
+                "Image coding",
+                "Quantization (signal)",
+                "Pipelines",
+                "Transform coding",
+                "Computer architecture",
+                "Throughput",
+                "Hardware",
+                "System-on-chip",
+                "Discrete cosine transforms",
+                "Optimization"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICAC64487.2024.10851123/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICAC64487.2024.10851123/index.json"
         }
     ],
     "Diseases": [
@@ -13759,6 +13887,69 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1145/1146909.1147041/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1145/1146909.1147041/index.json"
+        },
+        {
+            "title": "Optimized Multi-Processor System-on-Chip (MPSoC) Design for Low-Resource JPEG Encoding",
+            "venue": "2024 6th International Conference on Advancements in Computing (ICAC)",
+            "year": "2024",
+            "abstract": "This paper presents the design and optimization of a Multiprocessor System-on-Chip (MPSoC) architecture for low-resource JPEG encoding. The initial design employs six Central Processing Units (CPUs) to implement a pipelined JPEG encoder, divided into stages: color space conversion, level shifting, discrete cosine transform (DCT), quantization, Huffman encoding, and output buffering. The pipeline is then optimized using custom hardware components, including First-In-First-Out (FIFO) queues, custom instruction blocks, and superscalar pipelines to improve performance and efficiency. The paper details the design process, various optimization strategies, implementation challenges, and the resulting performance improvements. The system is implemented and evaluated using the Cyclone IV E Field Programmable Gate Array (FPGA) platform with Nios II/e processors, and the design was developed using the Quartus II software, demonstrating significant gains in throughput and resource efficiency.",
+            "authors": [
+                "Kanishka Gunawardana",
+                "Chandula Adhikari",
+                "Isuru Nawinne"
+            ],
+            "author_info": [
+                {
+                    "name": "Kanishka Gunawardana",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e19/129/",
+                    "type": "STUDENT",
+                    "id": "E/19/129",
+                    "email": "e19129@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19129.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e19/129/"
+                },
+                {
+                    "name": "Chandula Adhikari",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e19/008/",
+                    "type": "STUDENT",
+                    "id": "E/19/008",
+                    "email": "e19008@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19008.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e19/008/"
+                },
+                {
+                    "name": "Isuru Nawinne",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                    "type": "STAFF",
+                    "id": "isurunawinne",
+                    "email": "isurunawinne@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+                }
+            ],
+            "doi": "https://doi.org/10.1109/ICAC64487.2024.10851123",
+            "is_dept_affiliated": true,
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "https://docs.google.com/presentation/d/1HL9plLBTpVUnhCRvR60QFavVoz-p8put/edit?usp=sharing&ouid=102981076134475622858&rtpof=true&sd=true",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [],
+            "funding": "",
+            "tags": [
+                "Image coding",
+                "Quantization (signal)",
+                "Pipelines",
+                "Transform coding",
+                "Computer architecture",
+                "Throughput",
+                "Hardware",
+                "System-on-chip",
+                "Discrete cosine transforms",
+                "Optimization"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICAC64487.2024.10851123/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICAC64487.2024.10851123/index.json"
         }
     ],
     "Hardware design languages": [
@@ -14390,6 +14581,71 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2009.5429845/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2009.5429845/index.json"
+        }
+    ],
+    "Image coding": [
+        {
+            "title": "Optimized Multi-Processor System-on-Chip (MPSoC) Design for Low-Resource JPEG Encoding",
+            "venue": "2024 6th International Conference on Advancements in Computing (ICAC)",
+            "year": "2024",
+            "abstract": "This paper presents the design and optimization of a Multiprocessor System-on-Chip (MPSoC) architecture for low-resource JPEG encoding. The initial design employs six Central Processing Units (CPUs) to implement a pipelined JPEG encoder, divided into stages: color space conversion, level shifting, discrete cosine transform (DCT), quantization, Huffman encoding, and output buffering. The pipeline is then optimized using custom hardware components, including First-In-First-Out (FIFO) queues, custom instruction blocks, and superscalar pipelines to improve performance and efficiency. The paper details the design process, various optimization strategies, implementation challenges, and the resulting performance improvements. The system is implemented and evaluated using the Cyclone IV E Field Programmable Gate Array (FPGA) platform with Nios II/e processors, and the design was developed using the Quartus II software, demonstrating significant gains in throughput and resource efficiency.",
+            "authors": [
+                "Kanishka Gunawardana",
+                "Chandula Adhikari",
+                "Isuru Nawinne"
+            ],
+            "author_info": [
+                {
+                    "name": "Kanishka Gunawardana",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e19/129/",
+                    "type": "STUDENT",
+                    "id": "E/19/129",
+                    "email": "e19129@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19129.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e19/129/"
+                },
+                {
+                    "name": "Chandula Adhikari",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e19/008/",
+                    "type": "STUDENT",
+                    "id": "E/19/008",
+                    "email": "e19008@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19008.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e19/008/"
+                },
+                {
+                    "name": "Isuru Nawinne",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                    "type": "STAFF",
+                    "id": "isurunawinne",
+                    "email": "isurunawinne@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+                }
+            ],
+            "doi": "https://doi.org/10.1109/ICAC64487.2024.10851123",
+            "is_dept_affiliated": true,
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "https://docs.google.com/presentation/d/1HL9plLBTpVUnhCRvR60QFavVoz-p8put/edit?usp=sharing&ouid=102981076134475622858&rtpof=true&sd=true",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [],
+            "funding": "",
+            "tags": [
+                "Image coding",
+                "Quantization (signal)",
+                "Pipelines",
+                "Transform coding",
+                "Computer architecture",
+                "Throughput",
+                "Hardware",
+                "System-on-chip",
+                "Discrete cosine transforms",
+                "Optimization"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICAC64487.2024.10851123/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICAC64487.2024.10851123/index.json"
         }
     ],
     "Image decomposition": [
@@ -21430,6 +21686,69 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon.2019.8818883/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon.2019.8818883/index.json"
+        },
+        {
+            "title": "Optimized Multi-Processor System-on-Chip (MPSoC) Design for Low-Resource JPEG Encoding",
+            "venue": "2024 6th International Conference on Advancements in Computing (ICAC)",
+            "year": "2024",
+            "abstract": "This paper presents the design and optimization of a Multiprocessor System-on-Chip (MPSoC) architecture for low-resource JPEG encoding. The initial design employs six Central Processing Units (CPUs) to implement a pipelined JPEG encoder, divided into stages: color space conversion, level shifting, discrete cosine transform (DCT), quantization, Huffman encoding, and output buffering. The pipeline is then optimized using custom hardware components, including First-In-First-Out (FIFO) queues, custom instruction blocks, and superscalar pipelines to improve performance and efficiency. The paper details the design process, various optimization strategies, implementation challenges, and the resulting performance improvements. The system is implemented and evaluated using the Cyclone IV E Field Programmable Gate Array (FPGA) platform with Nios II/e processors, and the design was developed using the Quartus II software, demonstrating significant gains in throughput and resource efficiency.",
+            "authors": [
+                "Kanishka Gunawardana",
+                "Chandula Adhikari",
+                "Isuru Nawinne"
+            ],
+            "author_info": [
+                {
+                    "name": "Kanishka Gunawardana",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e19/129/",
+                    "type": "STUDENT",
+                    "id": "E/19/129",
+                    "email": "e19129@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19129.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e19/129/"
+                },
+                {
+                    "name": "Chandula Adhikari",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e19/008/",
+                    "type": "STUDENT",
+                    "id": "E/19/008",
+                    "email": "e19008@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19008.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e19/008/"
+                },
+                {
+                    "name": "Isuru Nawinne",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                    "type": "STAFF",
+                    "id": "isurunawinne",
+                    "email": "isurunawinne@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+                }
+            ],
+            "doi": "https://doi.org/10.1109/ICAC64487.2024.10851123",
+            "is_dept_affiliated": true,
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "https://docs.google.com/presentation/d/1HL9plLBTpVUnhCRvR60QFavVoz-p8put/edit?usp=sharing&ouid=102981076134475622858&rtpof=true&sd=true",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [],
+            "funding": "",
+            "tags": [
+                "Image coding",
+                "Quantization (signal)",
+                "Pipelines",
+                "Transform coding",
+                "Computer architecture",
+                "Throughput",
+                "Hardware",
+                "System-on-chip",
+                "Discrete cosine transforms",
+                "Optimization"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICAC64487.2024.10851123/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICAC64487.2024.10851123/index.json"
         }
     ],
     "Packaging": [
@@ -22684,6 +23003,69 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2011.6038036/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2011.6038036/index.json"
+        },
+        {
+            "title": "Optimized Multi-Processor System-on-Chip (MPSoC) Design for Low-Resource JPEG Encoding",
+            "venue": "2024 6th International Conference on Advancements in Computing (ICAC)",
+            "year": "2024",
+            "abstract": "This paper presents the design and optimization of a Multiprocessor System-on-Chip (MPSoC) architecture for low-resource JPEG encoding. The initial design employs six Central Processing Units (CPUs) to implement a pipelined JPEG encoder, divided into stages: color space conversion, level shifting, discrete cosine transform (DCT), quantization, Huffman encoding, and output buffering. The pipeline is then optimized using custom hardware components, including First-In-First-Out (FIFO) queues, custom instruction blocks, and superscalar pipelines to improve performance and efficiency. The paper details the design process, various optimization strategies, implementation challenges, and the resulting performance improvements. The system is implemented and evaluated using the Cyclone IV E Field Programmable Gate Array (FPGA) platform with Nios II/e processors, and the design was developed using the Quartus II software, demonstrating significant gains in throughput and resource efficiency.",
+            "authors": [
+                "Kanishka Gunawardana",
+                "Chandula Adhikari",
+                "Isuru Nawinne"
+            ],
+            "author_info": [
+                {
+                    "name": "Kanishka Gunawardana",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e19/129/",
+                    "type": "STUDENT",
+                    "id": "E/19/129",
+                    "email": "e19129@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19129.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e19/129/"
+                },
+                {
+                    "name": "Chandula Adhikari",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e19/008/",
+                    "type": "STUDENT",
+                    "id": "E/19/008",
+                    "email": "e19008@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19008.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e19/008/"
+                },
+                {
+                    "name": "Isuru Nawinne",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                    "type": "STAFF",
+                    "id": "isurunawinne",
+                    "email": "isurunawinne@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+                }
+            ],
+            "doi": "https://doi.org/10.1109/ICAC64487.2024.10851123",
+            "is_dept_affiliated": true,
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "https://docs.google.com/presentation/d/1HL9plLBTpVUnhCRvR60QFavVoz-p8put/edit?usp=sharing&ouid=102981076134475622858&rtpof=true&sd=true",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [],
+            "funding": "",
+            "tags": [
+                "Image coding",
+                "Quantization (signal)",
+                "Pipelines",
+                "Transform coding",
+                "Computer architecture",
+                "Throughput",
+                "Hardware",
+                "System-on-chip",
+                "Discrete cosine transforms",
+                "Optimization"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICAC64487.2024.10851123/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICAC64487.2024.10851123/index.json"
         }
     ],
     "Plagiarism": [
@@ -24993,6 +25375,71 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1007/s10207-016-0346-9/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1007/s10207-016-0346-9/index.json"
+        }
+    ],
+    "Quantization (signal)": [
+        {
+            "title": "Optimized Multi-Processor System-on-Chip (MPSoC) Design for Low-Resource JPEG Encoding",
+            "venue": "2024 6th International Conference on Advancements in Computing (ICAC)",
+            "year": "2024",
+            "abstract": "This paper presents the design and optimization of a Multiprocessor System-on-Chip (MPSoC) architecture for low-resource JPEG encoding. The initial design employs six Central Processing Units (CPUs) to implement a pipelined JPEG encoder, divided into stages: color space conversion, level shifting, discrete cosine transform (DCT), quantization, Huffman encoding, and output buffering. The pipeline is then optimized using custom hardware components, including First-In-First-Out (FIFO) queues, custom instruction blocks, and superscalar pipelines to improve performance and efficiency. The paper details the design process, various optimization strategies, implementation challenges, and the resulting performance improvements. The system is implemented and evaluated using the Cyclone IV E Field Programmable Gate Array (FPGA) platform with Nios II/e processors, and the design was developed using the Quartus II software, demonstrating significant gains in throughput and resource efficiency.",
+            "authors": [
+                "Kanishka Gunawardana",
+                "Chandula Adhikari",
+                "Isuru Nawinne"
+            ],
+            "author_info": [
+                {
+                    "name": "Kanishka Gunawardana",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e19/129/",
+                    "type": "STUDENT",
+                    "id": "E/19/129",
+                    "email": "e19129@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19129.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e19/129/"
+                },
+                {
+                    "name": "Chandula Adhikari",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e19/008/",
+                    "type": "STUDENT",
+                    "id": "E/19/008",
+                    "email": "e19008@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19008.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e19/008/"
+                },
+                {
+                    "name": "Isuru Nawinne",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                    "type": "STAFF",
+                    "id": "isurunawinne",
+                    "email": "isurunawinne@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+                }
+            ],
+            "doi": "https://doi.org/10.1109/ICAC64487.2024.10851123",
+            "is_dept_affiliated": true,
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "https://docs.google.com/presentation/d/1HL9plLBTpVUnhCRvR60QFavVoz-p8put/edit?usp=sharing&ouid=102981076134475622858&rtpof=true&sd=true",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [],
+            "funding": "",
+            "tags": [
+                "Image coding",
+                "Quantization (signal)",
+                "Pipelines",
+                "Transform coding",
+                "Computer architecture",
+                "Throughput",
+                "Hardware",
+                "System-on-chip",
+                "Discrete cosine transforms",
+                "Optimization"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICAC64487.2024.10851123/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICAC64487.2024.10851123/index.json"
         }
     ],
     "RNA": [
@@ -31518,6 +31965,71 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2007.4579145/index.json"
         }
     ],
+    "System-on-chip": [
+        {
+            "title": "Optimized Multi-Processor System-on-Chip (MPSoC) Design for Low-Resource JPEG Encoding",
+            "venue": "2024 6th International Conference on Advancements in Computing (ICAC)",
+            "year": "2024",
+            "abstract": "This paper presents the design and optimization of a Multiprocessor System-on-Chip (MPSoC) architecture for low-resource JPEG encoding. The initial design employs six Central Processing Units (CPUs) to implement a pipelined JPEG encoder, divided into stages: color space conversion, level shifting, discrete cosine transform (DCT), quantization, Huffman encoding, and output buffering. The pipeline is then optimized using custom hardware components, including First-In-First-Out (FIFO) queues, custom instruction blocks, and superscalar pipelines to improve performance and efficiency. The paper details the design process, various optimization strategies, implementation challenges, and the resulting performance improvements. The system is implemented and evaluated using the Cyclone IV E Field Programmable Gate Array (FPGA) platform with Nios II/e processors, and the design was developed using the Quartus II software, demonstrating significant gains in throughput and resource efficiency.",
+            "authors": [
+                "Kanishka Gunawardana",
+                "Chandula Adhikari",
+                "Isuru Nawinne"
+            ],
+            "author_info": [
+                {
+                    "name": "Kanishka Gunawardana",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e19/129/",
+                    "type": "STUDENT",
+                    "id": "E/19/129",
+                    "email": "e19129@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19129.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e19/129/"
+                },
+                {
+                    "name": "Chandula Adhikari",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e19/008/",
+                    "type": "STUDENT",
+                    "id": "E/19/008",
+                    "email": "e19008@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19008.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e19/008/"
+                },
+                {
+                    "name": "Isuru Nawinne",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                    "type": "STAFF",
+                    "id": "isurunawinne",
+                    "email": "isurunawinne@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+                }
+            ],
+            "doi": "https://doi.org/10.1109/ICAC64487.2024.10851123",
+            "is_dept_affiliated": true,
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "https://docs.google.com/presentation/d/1HL9plLBTpVUnhCRvR60QFavVoz-p8put/edit?usp=sharing&ouid=102981076134475622858&rtpof=true&sd=true",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [],
+            "funding": "",
+            "tags": [
+                "Image coding",
+                "Quantization (signal)",
+                "Pipelines",
+                "Transform coding",
+                "Computer architecture",
+                "Throughput",
+                "Hardware",
+                "System-on-chip",
+                "Discrete cosine transforms",
+                "Optimization"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICAC64487.2024.10851123/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICAC64487.2024.10851123/index.json"
+        }
+    ],
     "Taxonomy": [
         {
             "title": "A Data Driven Binning Method to Recover More Nucleotide Sequences of Species in a Metagenome",
@@ -32007,6 +32519,69 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2012.6304784/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIInfS.2012.6304784/index.json"
+        },
+        {
+            "title": "Optimized Multi-Processor System-on-Chip (MPSoC) Design for Low-Resource JPEG Encoding",
+            "venue": "2024 6th International Conference on Advancements in Computing (ICAC)",
+            "year": "2024",
+            "abstract": "This paper presents the design and optimization of a Multiprocessor System-on-Chip (MPSoC) architecture for low-resource JPEG encoding. The initial design employs six Central Processing Units (CPUs) to implement a pipelined JPEG encoder, divided into stages: color space conversion, level shifting, discrete cosine transform (DCT), quantization, Huffman encoding, and output buffering. The pipeline is then optimized using custom hardware components, including First-In-First-Out (FIFO) queues, custom instruction blocks, and superscalar pipelines to improve performance and efficiency. The paper details the design process, various optimization strategies, implementation challenges, and the resulting performance improvements. The system is implemented and evaluated using the Cyclone IV E Field Programmable Gate Array (FPGA) platform with Nios II/e processors, and the design was developed using the Quartus II software, demonstrating significant gains in throughput and resource efficiency.",
+            "authors": [
+                "Kanishka Gunawardana",
+                "Chandula Adhikari",
+                "Isuru Nawinne"
+            ],
+            "author_info": [
+                {
+                    "name": "Kanishka Gunawardana",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e19/129/",
+                    "type": "STUDENT",
+                    "id": "E/19/129",
+                    "email": "e19129@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19129.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e19/129/"
+                },
+                {
+                    "name": "Chandula Adhikari",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e19/008/",
+                    "type": "STUDENT",
+                    "id": "E/19/008",
+                    "email": "e19008@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19008.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e19/008/"
+                },
+                {
+                    "name": "Isuru Nawinne",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                    "type": "STAFF",
+                    "id": "isurunawinne",
+                    "email": "isurunawinne@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+                }
+            ],
+            "doi": "https://doi.org/10.1109/ICAC64487.2024.10851123",
+            "is_dept_affiliated": true,
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "https://docs.google.com/presentation/d/1HL9plLBTpVUnhCRvR60QFavVoz-p8put/edit?usp=sharing&ouid=102981076134475622858&rtpof=true&sd=true",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [],
+            "funding": "",
+            "tags": [
+                "Image coding",
+                "Quantization (signal)",
+                "Pipelines",
+                "Transform coding",
+                "Computer architecture",
+                "Throughput",
+                "Hardware",
+                "System-on-chip",
+                "Discrete cosine transforms",
+                "Optimization"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICAC64487.2024.10851123/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICAC64487.2024.10851123/index.json"
         }
     ],
     "Thumb": [
@@ -32888,6 +33463,69 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2012.6419895/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2012.6419895/index.json"
+        },
+        {
+            "title": "Optimized Multi-Processor System-on-Chip (MPSoC) Design for Low-Resource JPEG Encoding",
+            "venue": "2024 6th International Conference on Advancements in Computing (ICAC)",
+            "year": "2024",
+            "abstract": "This paper presents the design and optimization of a Multiprocessor System-on-Chip (MPSoC) architecture for low-resource JPEG encoding. The initial design employs six Central Processing Units (CPUs) to implement a pipelined JPEG encoder, divided into stages: color space conversion, level shifting, discrete cosine transform (DCT), quantization, Huffman encoding, and output buffering. The pipeline is then optimized using custom hardware components, including First-In-First-Out (FIFO) queues, custom instruction blocks, and superscalar pipelines to improve performance and efficiency. The paper details the design process, various optimization strategies, implementation challenges, and the resulting performance improvements. The system is implemented and evaluated using the Cyclone IV E Field Programmable Gate Array (FPGA) platform with Nios II/e processors, and the design was developed using the Quartus II software, demonstrating significant gains in throughput and resource efficiency.",
+            "authors": [
+                "Kanishka Gunawardana",
+                "Chandula Adhikari",
+                "Isuru Nawinne"
+            ],
+            "author_info": [
+                {
+                    "name": "Kanishka Gunawardana",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e19/129/",
+                    "type": "STUDENT",
+                    "id": "E/19/129",
+                    "email": "e19129@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19129.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e19/129/"
+                },
+                {
+                    "name": "Chandula Adhikari",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e19/008/",
+                    "type": "STUDENT",
+                    "id": "E/19/008",
+                    "email": "e19008@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19008.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e19/008/"
+                },
+                {
+                    "name": "Isuru Nawinne",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                    "type": "STAFF",
+                    "id": "isurunawinne",
+                    "email": "isurunawinne@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+                }
+            ],
+            "doi": "https://doi.org/10.1109/ICAC64487.2024.10851123",
+            "is_dept_affiliated": true,
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "https://docs.google.com/presentation/d/1HL9plLBTpVUnhCRvR60QFavVoz-p8put/edit?usp=sharing&ouid=102981076134475622858&rtpof=true&sd=true",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [],
+            "funding": "",
+            "tags": [
+                "Image coding",
+                "Quantization (signal)",
+                "Pipelines",
+                "Transform coding",
+                "Computer architecture",
+                "Throughput",
+                "Hardware",
+                "System-on-chip",
+                "Discrete cosine transforms",
+                "Optimization"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICAC64487.2024.10851123/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICAC64487.2024.10851123/index.json"
         }
     ],
     "Trivium": [

@@ -1,0 +1,103 @@
+{
+    "title": "A Comparative Study on Generalized Automated Medical Image Segmentation for Dataset Building",
+    "venue": "2025 5th International Conference on Advanced Research in Computing (ICARC)",
+    "year": "2025",
+    "abstract": "Medical image annotation is an essential process specifically for computer-aided systems, playing a key role in building robust datasets for various clinical applications, such as diagnosis and treatment planning. Manual annotation, while accurate, is labor-intensive and time-consuming, necessitating the development of automated solutions to enhance efficiency and scalability. In terms of automated solutions, given a novel annotation task, clinical annotators may face challenges in retraining or fine-tuning existing state-of-the-art deep learning models for medical images, which is time-consuming and requires expert knowledge. Few-shot learning approaches are gaining popularity for their capability of generalizing to unseen annotation tasks involving new anatomies and image modalities with a limited number of example sets of image-label pairs without the need of additional re-training and fine-tuning. In this work, we conduct a comprehensive study of the generalizability of state-of-the-art segmentation models for medical images, addressing their performance on diverse medical datasets and their limitations to identify an effective model for generalized automated medical image segmentation. The experimental results demonstrate the effectiveness of these approaches, highlighting their potential to significantly improve the efficiency of medical image annotation and thereby support various clinical applications more effectively.",
+    "authors": [
+        "Nishani Kasineshan",
+        "Vithurshini Subramanieam",
+        "Thulasiyan Yogeswaran",
+        "Sashini Liyanage",
+        "Isuri Devindi",
+        "Roshan G. Ragel",
+        "Vajira Thambawita",
+        "Isuru Nawinne"
+    ],
+    "author_info": [
+        {
+            "name": "Nishani Kasineshan",
+            "profile": "https://people.ce.pdn.ac.lk/students/e18/245/",
+            "type": "STUDENT",
+            "id": "E/18/245",
+            "email": "e18245@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18245.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/245/"
+        },
+        {
+            "name": "Vithurshini Subramanieam",
+            "profile": "https://people.ce.pdn.ac.lk/students/e18/340/",
+            "type": "STUDENT",
+            "id": "E/18/340",
+            "email": "e18340@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18340.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/340/"
+        },
+        {
+            "name": "Thulasiyan Yogeswaran",
+            "profile": "https://people.ce.pdn.ac.lk/students/e18/366/",
+            "type": "STUDENT",
+            "id": "E/18/366",
+            "email": "e18366@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18366.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/366/"
+        },
+        {
+            "name": "Sashini Liyanage",
+            "profile": "https://people.ce.pdn.ac.lk//students/e17/190",
+            "type": "STAFF",
+            "id": "e17190",
+            "email": "e17190@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/sashini.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk//students/e17/190"
+        },
+        {
+            "name": "Isuri Devindi",
+            "profile": "https://people.ce.pdn.ac.lk//students/e17/058",
+            "type": "STAFF",
+            "id": "isurid",
+            "email": "isurid@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/isuri.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk//students/e17/058"
+        },
+        {
+            "name": "Roshan G. Ragel",
+            "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+            "type": "STAFF",
+            "id": "roshanr",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+        },
+        {
+            "name": "Vajira Thambawita",
+            "profile": "#",
+            "type": "OUTSIDER",
+            "id": "",
+            "email": "",
+            "profile_image": "#",
+            "profile_url": "#"
+        },
+        {
+            "name": "Isuru Nawinne",
+            "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+            "type": "STAFF",
+            "id": "isurunawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/ICARC64760.2025.10963209",
+    "is_dept_affiliated": true,
+    "preprint_url": "#",
+    "pdf_url": "#",
+    "presentation_url": "https://docs.google.com/presentation/d/1DkLqAkhmkS3W8LeAGbo-FGcpYn9kMrSI/edit?usp=sharing&ouid=114988696377185749026&rtpof=true&sd=true",
+    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Automated-Medical-Image-Annotation-for-Dataset-Building/",
+    "codebase": "https://github.com/cepdnaclk/e18-4yp-Automated-Medical-Image-Annotation-for-Dataset-Building",
+    "research_groups": [],
+    "tags": [],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC64760.2025.10963209/",
+    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC64760.2025.10963209/index.json",
+    "submitted": "2025/06/17 21:21:55"
+}
