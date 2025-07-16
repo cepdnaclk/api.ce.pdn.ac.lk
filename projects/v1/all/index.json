@@ -9581,17 +9581,6 @@
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20272.jpg",
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e20/272/"
             },
-            "E/20/447": {
-                "name": "M.L. Wijesooriya",
-                "email": "e20447@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/madawa2491",
-                "linkedin": "https://www.linkedin.com/in/madawa-wijesooriya-b52222296",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/447",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20447.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/447/"
-            },
             "E/20/456": {
                 "name": "U.P.S.D. Dulaj",
                 "email": "e20456@eng.pdn.ac.lk",
@@ -9619,7 +9608,9 @@
         },
         "tags": [
             "Web",
-            "Embedded Systems"
+            "Embedded Systems",
+            "Computer and Network Security",
+            "Software Engineering"
         ]
     },
     "e20-3yp-Smart-Waste-Management-System": {
@@ -9758,7 +9749,19 @@
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e20/434/"
             }
         },
-        "supervisors": {},
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "https://docs.google.com/document/d/1pRfjzSI_ETSkAGm6bX7Qubv0Zkjz1YD8OJ8fvdqSsys/edit?usp=sharing",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            }
+        },
         "tags": [
             "Web",
             "Embedded Systems"
