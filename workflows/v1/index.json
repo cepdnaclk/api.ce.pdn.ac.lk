@@ -98,36 +98,12 @@
     {
         "id": 26613810,
         "repository": "people.ce.pdn.ac.lk",
-        "name": "Update Profile Details",
+        "name": "Daily Updates",
         "state": "active",
         "urls": {
             "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/26613810",
             "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/.github/workflows/daily.yml",
-            "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/workflows/Update%20Profile%20Details/badge.svg"
-        },
-        "status": "PASS"
-    },
-    {
-        "id": 27364441,
-        "repository": "people.ce.pdn.ac.lk",
-        "name": "Update Project and Publication Details",
-        "state": "active",
-        "urls": {
-            "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/27364441",
-            "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/.github/workflows/update_projects_n_publications.yml",
-            "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/workflows/Update%20Project%20and%20Publication%20Details/badge.svg"
-        },
-        "status": "PASS"
-    },
-    {
-        "id": 30402070,
-        "repository": "people.ce.pdn.ac.lk",
-        "name": "Resize images",
-        "state": "active",
-        "urls": {
-            "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/30402070",
-            "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/.github/workflows/image_resize.yml",
-            "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/workflows/Resize%20images/badge.svg"
+            "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/workflows/Daily%20Updates/badge.svg"
         },
         "status": "PASS"
     },
