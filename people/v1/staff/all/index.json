@@ -1,4 +1,13 @@
 {
+    "": {
+        "name": "",
+        "designation": "",
+        "email": "",
+        "profile_url": "https://people.ce.pdn.ac.lk/",
+        "profile_image": "https://people.ce.pdn.ac.lk/",
+        "urls": {},
+        "research_interests": []
+    },
     "Titus.Jayarathna": {
         "name": "Dr. Titus Jayarathna",
         "designation": "Visiting Research Fellow",
@@ -51,24 +60,6 @@
             "Mathematics"
         ]
     },
-    "anj.wanigarathne": {
-        "name": "Anjalee Wanigarathne",
-        "designation": "Temporary Instructor",
-        "email": "anj.wanigarathne@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk/staff/temporary-academic-staff",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/anjalee.jpg",
-        "urls": {},
-        "research_interests": []
-    },
-    "arjunat": {
-        "name": "Arjuna Thennakoon",
-        "designation": "Temporary Instructor",
-        "email": "arjunat@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk/staff/temporary-academic-staff",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/arjuna.jpg",
-        "urls": {},
-        "research_interests": []
-    },
     "asithab": {
         "name": "Dr. Asitha Bandaranayake",
         "designation": "Senior Lecturer",
@@ -118,15 +109,6 @@
             "Optical Communication",
             "Neural Networks"
         ]
-    },
-    "chathurimalee": {
-        "name": "Chathuri Aththanayake",
-        "designation": "Temporary Instructor",
-        "email": "chathurimalee@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk/staff/temporary-academic-staff",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/chathuri.jpg",
-        "urls": {},
-        "research_interests": []
     },
     "damayanthiherath": {
         "name": "Dr. Damayanthi Herath",
@@ -194,132 +176,6 @@
             "Formal Verification",
             "GPU programming"
         ]
-    },
-    "dilshanik": {
-        "name": "Dilshani Karunarathna",
-        "designation": "Temporary Instructor",
-        "email": "dilshanik@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk/students/e15/173",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/dilshani.jpg",
-        "urls": {},
-        "research_interests": []
-    },
-    "dininduwm": {
-        "name": "Dinindu Thilakarathna",
-        "designation": "Temporary Instructor",
-        "email": "dininduwm@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk//students/e16/366/",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/dinind.jpg",
-        "urls": {},
-        "research_interests": []
-    },
-    "e17075": {
-        "name": "Nethmi Dissanayake",
-        "designation": "Temporary Instructor",
-        "email": "e17075@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk/",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/nethmi.jpg",
-        "urls": {},
-        "research_interests": []
-    },
-    "e17154": {
-        "name": "Akila Karunanayake",
-        "designation": "Temporary Instructor",
-        "email": "e17154@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk//students/e17/154",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17154.jpg",
-        "urls": {},
-        "research_interests": []
-    },
-    "e17190": {
-        "name": "Sashini Liyanage",
-        "designation": "Temporary Instructor",
-        "email": "e17190@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk//students/e17/190",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/sashini.jpg",
-        "urls": {},
-        "research_interests": []
-    },
-    "e17230": {
-        "name": "Nishankar Sathiyamohan",
-        "designation": "Temporary Instructor",
-        "email": "e17230@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk//students/e17/230",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/Nishankar.jpg",
-        "urls": {},
-        "research_interests": []
-    },
-    "e17245": {
-        "name": "Shakthi Perera",
-        "designation": "Temporary Instructor",
-        "email": "e17245@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk/staff/temporary-academic-staff",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/shakthi.jpg",
-        "urls": {},
-        "research_interests": []
-    },
-    "e17290": {
-        "name": "Keshawa Ratnayake",
-        "designation": "Temporary Instructor",
-        "email": "e17290@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk/staff/temporary-academic-staff",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/keshawa.jpg",
-        "urls": {},
-        "research_interests": []
-    },
-    "e17296": {
-        "name": "Ravisha Rupasinghe",
-        "designation": "Temporary Instructor",
-        "email": "e17296@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk//students/e17/296",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/ravisha.jpg",
-        "urls": {},
-        "research_interests": []
-    },
-    "e17369": {
-        "name": "Savindu Wannigama",
-        "designation": "Temporary Instructor",
-        "email": "e17369@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk//students/e17/369",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/savindu_wannigama.jpg",
-        "urls": {},
-        "research_interests": []
-    },
-    "e18147": {
-        "name": "Saadia Jameel",
-        "designation": "Temporary Instructor",
-        "email": "e18147@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk//students/e18/147",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/saadia.png",
-        "urls": {},
-        "research_interests": []
-    },
-    "e18149": {
-        "name": "Ishta Jayakody",
-        "designation": "Temporary Instructor",
-        "email": "e18149@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk//students/e18/149",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18149.jpg",
-        "urls": {},
-        "research_interests": []
-    },
-    "e18379": {
-        "name": "Thamish Wanduragala",
-        "designation": "Temporary Instructor",
-        "email": "e18379@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk//students/e18/379",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/thamish.jpg",
-        "urls": {},
-        "research_interests": []
-    },
-    "e18402": {
-        "name": "Chathura Wimalasiri",
-        "designation": "Temporary Instructor",
-        "email": "e18402@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk//students/e18/402",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/E18402.jpg",
-        "urls": {},
-        "research_interests": []
     },
     "g.m.lee": {
         "name": "Prof. Gyu Myoung Lee",
@@ -406,33 +262,6 @@
         },
         "research_interests": []
     },
-    "imeshuek": {
-        "name": "Imesh Ekanayake",
-        "designation": "Temporary Instructor",
-        "email": "imeshuek@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk//students/e15/092",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/imesh.png",
-        "urls": {},
-        "research_interests": []
-    },
-    "isurid": {
-        "name": "Isuri Devindi",
-        "designation": "Temporary Lecturer",
-        "email": "isurid@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk//students/e17/058",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/isuri.jpg",
-        "urls": {},
-        "research_interests": []
-    },
-    "isurumadugalla": {
-        "name": "Isuru Madugalla",
-        "designation": "Temporary Lecturer",
-        "email": "isurumadugalla@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk/staff/temporary-academic-staff",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/isuru.png",
-        "urls": {},
-        "research_interests": []
-    },
     "isurunawinne": {
         "name": "Dr. Isuru Nawinne",
         "designation": "Senior Lecturer",
@@ -456,33 +285,6 @@
             "Computer Systems Engineering"
         ]
     },
-    "isurupt": {
-        "name": "Isuru Pamuditha Thilakasiri",
-        "designation": "Temporary Instructor",
-        "email": "isurupt@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk/staff/temporary-academic-staff",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/isuru_pamuditha.jpeg",
-        "urls": {},
-        "research_interests": []
-    },
-    "jayaminij": {
-        "name": "Jayamini Jayasundara",
-        "designation": "Temporary Instructor",
-        "email": "jayaminij@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk/staff/temporary-academic-staff",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/jayamini.jpg",
-        "urls": {},
-        "research_interests": []
-    },
-    "kalaniu": {
-        "name": "Kalani Hansima",
-        "designation": "Temporary Lecturer",
-        "email": "kalaniu@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk/staff/temporary-academic-staff",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/kalani.jpeg",
-        "urls": {},
-        "research_interests": []
-    },
     "kamalanath": {
         "name": "Dr. Eng. Kamalanath Samarakoon",
         "designation": "Senior Lecturer",
@@ -504,51 +306,6 @@
             "Image Processing",
             "Data Mining in Power System Operation"
         ]
-    },
-    "kavindu": {
-        "name": "Kavindu Herath",
-        "designation": "Temporary Instructor",
-        "email": "kavindu@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk/staff/temporary-academic-staff",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/kavindu.jpg",
-        "urls": {},
-        "research_interests": []
-    },
-    "kavishan": {
-        "name": "Sachintha Kavishan",
-        "designation": "Temporary Instructor",
-        "email": "kavishan@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk/staff/temporary-academic-staff",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/sachintha.jpg",
-        "urls": {},
-        "research_interests": []
-    },
-    "kc43224jayasinghe": {
-        "name": "Kanchana Jayasinghe",
-        "designation": "Temporary Instructor",
-        "email": "kc43224jayasinghe@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk/staff/temporary-academic-staff",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/kanchana.jpg",
-        "urls": {},
-        "research_interests": []
-    },
-    "kesharaw": {
-        "name": "Keshara Weerasinghe",
-        "designation": "Temporary Instructor",
-        "email": "kesharaw@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk//students/e15/383",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/keshara.jpg",
-        "urls": {},
-        "research_interests": []
-    },
-    "lankaniperera": {
-        "name": "Poornima Lankani",
-        "designation": "Temporary Instructor",
-        "email": "lankaniperera@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk/staff/temporary-academic-staff",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/poornima.jpg",
-        "urls": {},
-        "research_interests": []
     },
     "mahanamaw": {
         "name": "Dr. Mahanama Wickramasinghe",
@@ -666,24 +423,6 @@
         },
         "research_interests": []
     },
-    "nuwanjaliyagoda": {
-        "name": "Nuwan Jaliyagoda",
-        "designation": "Temporary Instructor",
-        "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk//students/e15/140",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/nuwan.jpg",
-        "urls": {},
-        "research_interests": []
-    },
-    "oshadhi": {
-        "name": "Oshadhi Rajapakshe",
-        "designation": "Temporary Instructor",
-        "email": "oshadhi@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk/staff/temporary-academic-staff",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/oshadi.jpg",
-        "urls": {},
-        "research_interests": []
-    },
     "rajithan": {
         "name": "Dr. Rajitha Navarathna",
         "designation": "Visiting Research Fellow",
@@ -696,15 +435,6 @@
             "researchgate": "https://www.researchgate.net/scientific-contributions/Rajitha-Navarathna-71094384",
             "website": "#"
         },
-        "research_interests": []
-    },
-    "ridmajayasundara": {
-        "name": "Ridma Jayasundara",
-        "designation": "Temporary Instructor",
-        "email": "ridmajayasundara@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk//students/e18/155",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18155.jpg",
-        "urls": {},
         "research_interests": []
     },
     "roshanr": {
@@ -731,15 +461,6 @@
             "Application-Specific Processor Design",
             "Hardware/Software Acceleration of Bioinformatics Algorithms"
         ]
-    },
-    "rwimansa": {
-        "name": "Rashmi Wimansa Neelawathura",
-        "designation": "Temporary Instructor",
-        "email": "rwimansa@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk/staff/temporary-academic-staff",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/rashmi.JPEG",
-        "urls": {},
-        "research_interests": []
     },
     "sampath": {
         "name": "Dr. Eng. Sampath Deegalla",
@@ -820,24 +541,6 @@
             "Artificial Intelligence",
             "IoT"
         ]
-    },
-    "thilinald": {
-        "name": "Thilina Dissanayake",
-        "designation": "Temporary Lecturer",
-        "email": "thilinald@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk/staff/temporary-academic-staff",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/thilina-dissanayake.jpg",
-        "urls": {},
-        "research_interests": []
-    },
-    "thusharab": {
-        "name": "Thushara Bandara",
-        "designation": "Temporary Instructor",
-        "email": "thusharab@eng.pdn.ac.lk",
-        "profile_url": "https://people.ce.pdn.ac.lk/staff/temporary-academic-staff",
-        "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/thushara.jpeg",
-        "urls": {},
-        "research_interests": []
     },
     "upuljm": {
         "name": "Dr. Upul Jayasinghe",
