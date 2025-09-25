@@ -2,7 +2,7 @@
     "title": "Accelerating k-nn classification algorithm using graphics processing units",
     "venue": "2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)",
     "year": "2016",
-    "abstract": "k-Nearest Neighbor (k-NN) is a well-known classification algorithm used in many machine learning applications. When the input data size of k-NN algorithm increases, the execution time of the algorithm increases significantly. Therefore, this becomes a bottleneck for practical usage. Since k-NN algorithm is using searching, sorting and other parallelly executable tasks, we have implemented the k-NN algorithm on a GPU using CUDA utilizing the parallel tasks. The results were promising as expected and for 43,500 training records and 14,500 testing records with nine attributes, the GPU execution showed about a 100\u00d7 faster execution time compared to a CPU version.",
+    "abstract": "k-Nearest Neighbor (k-NN) is a well-known classification algorithm used in many machine learning applications. When the input data size of k-NN algorithm increases, the execution time of the algorithm increases significantly. Therefore, this becomes a bottleneck for practical usage. Since k-NN algorithm is using searching, sorting and other parallelly executable tasks, we have implemented the k-NN algorithm on a GPU using CUDA utilizing the parallel tasks. The results were promising as expected and for 43,500 training records and 14,500 testing records with nine attributes, the GPU execution showed about a 100\u00c3\u0097 faster execution time compared to a CPU version.",
     "authors": [
         "S Selvaluxmiy",
         "TN Kumara",
