@@ -1,0 +1,86 @@
+{
+    "title": "PeraMorphiq",
+    "description": "Neuromophic research management web site",
+    "category": {
+        "title": "Software Systems Projects",
+        "code": "co227",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraMorphiq/",
+    "repo_url": "https://github.com/cepdnaclk/e21-CO227-PeraMorphiq",
+    "page_url": "https://cepdnaclk.github.io/e21-CO227-PeraMorphiq",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraMorphiq/",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+    "team": {
+        "E/21/087": {
+            "name": "D.M.E.S.DEWAGEDARA",
+            "email": "e21087@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Shihara1020",
+            "linkedin": "https://www.linkedin.com/in/shihara-dewagedara-23109a275/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/087",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21087.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/087/"
+        },
+        "E/21/302": {
+            "name": "W.S.S.PERERA",
+            "email": "e21302@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Sahandiperera",
+            "linkedin": "https://www.linkedin.com/in/sahandi-perera-73aa39274/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/302",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21302.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/302/"
+        },
+        "E/21/198": {
+            "name": "J.M.S.D.B.JAYASUNDARA",
+            "email": "e21198@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/198",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21198.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/198/"
+        },
+        "E/21/353": {
+            "name": "Y.P.SANDEEP",
+            "email": "e21353@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/353",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21353.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/353/"
+        }
+    },
+    "supervisors": {
+        "yasodhav@eng.pdn.ac.lk": {
+            "name": "",
+            "email": "yasodhav@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Web Development",
+        "Full-Stack",
+        "Node.js",
+        "MongoDB",
+        "Express.js",
+        "Research Platform",
+        "Content Management",
+        "RESTful API",
+        "JWT Authentication",
+        "Admin Dashboard",
+        "Responsive Design"
+    ]
+}

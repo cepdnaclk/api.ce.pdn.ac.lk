@@ -11,5 +11,31 @@
         "repo_url": "https://github.com/cepdnaclk/e21-CO227-Neuromorphic-Web-Site",
         "page_url": "https://cepdnaclk.github.io/e21-CO227-Neuromorphic-Web-Site",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Neuromorphic-Web-Site/"
+    },
+    "e21-CO227-PeraMorphiq": {
+        "title": "PeraMorphiq",
+        "description": "Neuromophic research management web site",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraMorphiq/",
+        "repo_url": "https://github.com/cepdnaclk/e21-CO227-PeraMorphiq",
+        "page_url": "https://cepdnaclk.github.io/e21-CO227-PeraMorphiq",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraMorphiq/"
+    },
+    "e21-co227-QR-AI-Entry-Exit-Tracking-System": {
+        "title": "QR AI Entry Exit Tracking System",
+        "description": "Smart Occupancy Management System \u2014 a cloud-based platform for real-time building occupancy tracking. It evolved from a QR-based app to an automated system using Supabase for data updates and monitoring.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/QR-AI-Entry-Exit-Tracking-System/",
+        "repo_url": "https://github.com/cepdnaclk/e21-co227-QR-AI-Entry-Exit-Tracking-System",
+        "page_url": "https://cepdnaclk.github.io/e21-co227-QR-AI-Entry-Exit-Tracking-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/QR-AI-Entry-Exit-Tracking-System/"
     }
 }
