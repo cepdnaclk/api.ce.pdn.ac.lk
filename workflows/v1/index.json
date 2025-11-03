@@ -110,12 +110,12 @@
     {
         "id": 32238210,
         "repository": "people.ce.pdn.ac.lk",
-        "name": "Python Tests",
+        "name": ".github/workflows/test.yml",
         "state": "active",
         "urls": {
             "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/32238210",
             "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/.github/workflows/test.yml",
-            "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/workflows/Python%20Tests/badge.svg"
+            "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/workflows/.github/workflows/test.yml/badge.svg"
         },
         "status": "FAILLING"
     },
