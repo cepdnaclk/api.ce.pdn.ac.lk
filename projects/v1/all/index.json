@@ -19513,7 +19513,80 @@
         "repo_url": "https://github.com/cepdnaclk/e17-4yp-network-anomaly-detection",
         "page_url": "https://cepdnaclk.github.io/e17-4yp-network-anomaly-detection",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/network-anomaly-detection/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "team": {
+            "E/17/044": {
+                "name": "Deanna Coralage",
+                "email": "e17044@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/044",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17044.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/044/"
+            },
+            "E/17/251": {
+                "name": "Sandun Perera",
+                "email": "e17251@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/251",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17251.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/251/"
+            },
+            "E/17/252": {
+                "name": "Kenath Perera",
+                "email": "e17252@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E17/252",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17252.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/252/"
+            }
+        },
+        "supervisors": {
+            "roshanr@eng.pdn.ac.lk": {
+                "name": "",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/roshan-ragel.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/roshanr",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/roshanragel/",
+                "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
+                "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
+            },
+            "sunethn@pdn.ac.lk": {
+                "name": "Dr. Suneth Namal Karunarathna",
+                "email": "sunethn@pdn.ac.lk",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            },
+            "": {
+                "name": "Mr. Tharindu Sankalpa",
+                "email": "",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Final Year Project"
+        ]
     },
     "e17-4yp-novel-compression-methods-for-nanopore-raw-signal-data": {
         "title": "novel compression methods for nanopore raw signal data",
