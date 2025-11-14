@@ -26752,72 +26752,21 @@
             "Firebase"
         ]
     },
-    "e15-co227-Pera-Knowledge-Portal": {
-        "title": "Pera Knowledge Portal",
-        "description": "Pera Knowledge Portal is a web site that will allow visitors to do a full-text search on student project reports and thesis, developed using PHP and ElasticSearch",
+    "e21-co227-Event-Management-System": {
+        "title": "Event Management System",
+        "description": "Users browse event listings and receive personalized recommendations based on saved interests. They can manage interests to refine suggestions. Admins authenticate to an admin dashboard to review and control which events appear to users. It can serve as a starter for community calendars, campus activities, or internal company events.",
         "category": {
             "title": "Software Systems Projects",
             "code": "co227",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/co227/e15/Pera-Knowledge-Portal/",
-        "repo_url": "https://github.com/cepdnaclk/e15-co227-Pera-Knowledge-Portal",
-        "page_url": "https://cepdnaclk.github.io/e15-co227-Pera-Knowledge-Portal",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E15/Pera-Knowledge-Portal/",
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Event-Management-System/",
+        "repo_url": "https://github.com/cepdnaclk/e21-co227-Event-Management-System",
+        "page_url": "https://cepdnaclk.github.io/e21-co227-Event-Management-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Event-Management-System/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-        "team": {
-            "E/15/140": {
-                "name": "Jaliyagoda A.J.N.M.",
-                "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
-                "website": "https://nuwanjaliyagoda.com/",
-                "github": "https://github.com/NuwanJ",
-                "linkedin": "https://www.linkedin.com/in/nuwan-jaliyagoda/",
-                "researchgate": "https://www.researchgate.net/profile/Nuwan-Jaliyagoda",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E15/140",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15140.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/140/"
-            },
-            "E/15/173": {
-                "name": "Karunarathna S.D.D.D.",
-                "email": "dilshanik@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/DDilshani",
-                "linkedin": "https://www.linkedin.com/in/dilshanikarunarathna/",
-                "researchgate": "https://www.researchgate.net/profile/Dilshani-Karunrathna",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E15/173",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15173.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/173/"
-            },
-            "E/15/350": {
-                "name": "Pasan Tennakoon",
-                "email": "e15350@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/PasanT9",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E15/350",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15350.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/350/"
-            }
-        },
-        "supervisors": {},
-        "tags": [
-            "Web"
-        ]
-    },
-    "e15-co227-finite-element-based-structural-non-linear-analysis": {
-        "title": "finite element based structural non linear analysis",
-        "description": "",
-        "category": {
-            "title": "Software Systems Projects",
-            "code": "co227",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co227/e15/finite-element-based-structural-non-linear-analysis/",
-        "repo_url": "https://github.com/cepdnaclk/e15-co227-finite-element-based-structural-non-linear-analysis",
-        "page_url": "https://cepdnaclk.github.io/e15-co227-finite-element-based-structural-non-linear-analysis",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E15/finite-element-based-structural-non-linear-analysis/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
+        "team": {},
+        "supervisors": {}
     },
     "e21-CO227-PeraMorphiq": {
         "title": "PeraMorphiq",
@@ -26917,6 +26866,164 @@
         "repo_url": "https://github.com/cepdnaclk/e21-co227-QR-AI-Entry-Exit-Tracking-System",
         "page_url": "https://cepdnaclk.github.io/e21-co227-QR-AI-Entry-Exit-Tracking-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/QR-AI-Entry-Exit-Tracking-System/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+        "team": {
+            "E/21/350": {
+                "name": "Samarawickrama G.B.B.P.",
+                "email": "e21350@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/350",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21350.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/350/"
+            },
+            "E/21/428": {
+                "name": "Weerasooriya S.C.",
+                "email": "e21428@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/428",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21428.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/428/"
+            },
+            "E/21/229": {
+                "name": "Kurera P.A.T.",
+                "email": "e21229@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/229",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21229.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/229/"
+            },
+            "E/21/287": {
+                "name": "Perera G.S.H.",
+                "email": "e21287@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/287",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21287.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/287/"
+            }
+        },
+        "supervisors": {
+            "yasodhav@eng.pdn.ac.lk": {
+                "name": "",
+                "email": "yasodhav@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+                "researchgate": "#",
+                "google_scholar": "#"
+            },
+            "roshanr@eng.pdn.ac.lk": {
+                "name": "",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/roshan-ragel.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/roshanr",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/roshanragel/",
+                "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
+                "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
+            }
+        },
+        "tags": [
+            "AI Vision",
+            "Computer Vision",
+            "QR Scanning",
+            "MIT App Inventor",
+            "Supabase",
+            "PostgreSQL",
+            "RESTful API",
+            "Node.js",
+            "Express.js",
+            "Flask",
+            "YOLOv8",
+            "Smart Building",
+            "Occupancy Management",
+            "Real-Time Data",
+            "Cloud Integration",
+            "Automation",
+            "People Counting",
+            "Cross-Platform",
+            "Research Project"
+        ]
+    },
+    "e15-co227-Pera-Knowledge-Portal": {
+        "title": "Pera Knowledge Portal",
+        "description": "Pera Knowledge Portal is a web site that will allow visitors to do a full-text search on student project reports and thesis, developed using PHP and ElasticSearch",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e15/Pera-Knowledge-Portal/",
+        "repo_url": "https://github.com/cepdnaclk/e15-co227-Pera-Knowledge-Portal",
+        "page_url": "https://cepdnaclk.github.io/e15-co227-Pera-Knowledge-Portal",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E15/Pera-Knowledge-Portal/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+        "team": {
+            "E/15/140": {
+                "name": "Jaliyagoda A.J.N.M.",
+                "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
+                "website": "https://nuwanjaliyagoda.com/",
+                "github": "https://github.com/NuwanJ",
+                "linkedin": "https://www.linkedin.com/in/nuwan-jaliyagoda/",
+                "researchgate": "https://www.researchgate.net/profile/Nuwan-Jaliyagoda",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E15/140",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15140.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/140/"
+            },
+            "E/15/173": {
+                "name": "Karunarathna S.D.D.D.",
+                "email": "dilshanik@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/DDilshani",
+                "linkedin": "https://www.linkedin.com/in/dilshanikarunarathna/",
+                "researchgate": "https://www.researchgate.net/profile/Dilshani-Karunrathna",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E15/173",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15173.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/173/"
+            },
+            "E/15/350": {
+                "name": "Pasan Tennakoon",
+                "email": "e15350@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/PasanT9",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E15/350",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15350.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/350/"
+            }
+        },
+        "supervisors": {},
+        "tags": [
+            "Web"
+        ]
+    },
+    "e15-co227-finite-element-based-structural-non-linear-analysis": {
+        "title": "finite element based structural non linear analysis",
+        "description": "",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e15/finite-element-based-structural-non-linear-analysis/",
+        "repo_url": "https://github.com/cepdnaclk/e15-co227-finite-element-based-structural-non-linear-analysis",
+        "page_url": "https://cepdnaclk.github.io/e15-co227-finite-element-based-structural-non-linear-analysis",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E15/finite-element-based-structural-non-linear-analysis/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
     },
     "e14-co227-dynamic-background-cancellation-in-videos": {

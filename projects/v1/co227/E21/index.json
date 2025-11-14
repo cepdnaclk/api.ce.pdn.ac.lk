@@ -12,6 +12,19 @@
         "page_url": "https://cepdnaclk.github.io/e21-CO227-PeraMorphiq",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraMorphiq/"
     },
+    "e21-co227-Event-Management-System": {
+        "title": "Event Management System",
+        "description": "Users browse event listings and receive personalized recommendations based on saved interests. They can manage interests to refine suggestions. Admins authenticate to an admin dashboard to review and control which events appear to users. It can serve as a starter for community calendars, campus activities, or internal company events.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Event-Management-System/",
+        "repo_url": "https://github.com/cepdnaclk/e21-co227-Event-Management-System",
+        "page_url": "https://cepdnaclk.github.io/e21-co227-Event-Management-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Event-Management-System/"
+    },
     "e21-co227-QR-AI-Entry-Exit-Tracking-System": {
         "title": "QR AI Entry Exit Tracking System",
         "description": "Smart Occupancy Management System \u2014 a cloud-based platform for real-time building occupancy tracking. It evolved from a QR-based app to an automated system using Supabase for data updates and monitoring.",
