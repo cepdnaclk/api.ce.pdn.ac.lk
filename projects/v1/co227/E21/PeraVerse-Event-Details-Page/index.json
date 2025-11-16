@@ -1,0 +1,84 @@
+{
+    "title": "PeraVerse Event Details Page",
+    "description": "Single Event Details page of the PeraVerse Exhibition Management System",
+    "category": {
+        "title": "Software Systems Projects",
+        "code": "co227",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Event-Details-Page/",
+    "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Event-Details-Page",
+    "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Event-Details-Page",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Event-Details-Page/",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+    "team": {
+        "E/21/050": {
+            "name": "H.B.C.T. BANDARA",
+            "email": "e21050@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/its-thakshila",
+            "linkedin": "https://www.linkedin.com/in/its-thakshila",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/050",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21050.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/050/"
+        },
+        "E/21/226": {
+            "name": "N.S. KOTHALAWALA",
+            "email": "e21226@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/226",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21226.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/226/"
+        },
+        "E/21/019": {
+            "name": "A.M.H.S. ADIKARI",
+            "email": "e21019@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/cielo019",
+            "linkedin": "https://www.linkedin.com/in/hirushi-adikari/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/019",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21019.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/019/"
+        },
+        "E/21/052": {
+            "name": "H.M.P.D. BANDARA",
+            "email": "e21052@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/052",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21052.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/052/"
+        }
+    },
+    "supervisors": {
+        "yasodhav@eng.pdn.ac.lk": {
+            "name": "",
+            "email": "yasodhav@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Web Development",
+        "Full-Stack",
+        "Node.js",
+        "Express.js",
+        "Event Management",
+        "RESTful API",
+        "JWT Authentication",
+        "Event Details",
+        "Responsive Design"
+    ]
+}

@@ -25,6 +25,19 @@
         "page_url": "https://cepdnaclk.github.io/e21-co227-Event-Management-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Event-Management-System/"
     },
+    "e21-co227-PeraVerse-Event-Details-Page": {
+        "title": "PeraVerse Event Details Page",
+        "description": "Single Event Details page of the PeraVerse Exhibition Management System",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Event-Details-Page/",
+        "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Event-Details-Page",
+        "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Event-Details-Page",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Event-Details-Page/"
+    },
     "e21-co227-QR-AI-Entry-Exit-Tracking-System": {
         "title": "QR AI Entry Exit Tracking System",
         "description": "Smart Occupancy Management System \u2014 a cloud-based platform for real-time building occupancy tracking. It evolved from a QR-based app to an automated system using Supabase for data updates and monitoring.",
