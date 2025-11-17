@@ -1,7 +1,7 @@
 {
     "e21-CO227-PeraMorphiq": {
         "title": "PeraMorphiq",
-        "description": "Neuromophic research management web site",
+        "description": "Full-stack web platform for neuromorphic research management with Node.js, MongoDB, JWT auth, and admin dashboard at University of Peradeniya.",
         "category": {
             "title": "Software Systems Projects",
             "code": "co227",
@@ -37,6 +37,19 @@
         "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Event-Details-Page",
         "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Event-Details-Page",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Event-Details-Page/"
+    },
+    "e21-co227-PeraVerse-Organizer-Dashboard-Team2": {
+        "title": "PeraVerse Organizer Dashboard Team2",
+        "description": "",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Team2/",
+        "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Team2",
+        "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Team2",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Team2/"
     },
     "e21-co227-QR-AI-Entry-Exit-Tracking-System": {
         "title": "QR AI Entry Exit Tracking System",
