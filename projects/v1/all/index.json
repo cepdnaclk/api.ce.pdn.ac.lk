@@ -26768,6 +26768,86 @@
         "team": {},
         "supervisors": {}
     },
+    "e21-co227-Online-doctor-appointment-website-2yp": {
+        "title": "Online doctor appointment website 2yp",
+        "description": "",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Online-doctor-appointment-website-2yp/",
+        "repo_url": "https://github.com/cepdnaclk/e21-co227-Online-doctor-appointment-website-2yp",
+        "page_url": "https://cepdnaclk.github.io/e21-co227-Online-doctor-appointment-website-2yp",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Online-doctor-appointment-website-2yp/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+        "team": {
+            "E/21/245": {
+                "name": "MADHUSHAN S.K.A.K.",
+                "email": "e21245@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/Kaveesha-Madhushan17",
+                "linkedin": "https://www.linkedin.com/in/kaveesha-madhushan-99490a2a5",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/245",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21245.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/245/"
+            },
+            "E/21/140": {
+                "name": "FONSEKA H.F.S.R.",
+                "email": "e21140@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/140",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21140.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/140/"
+            },
+            "E/21/036": {
+                "name": "ARNIKAN U.",
+                "email": "e21036@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/036",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21036.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/036/"
+            },
+            " E/21/077": {
+                "name": "DARSHANA K.M.S.",
+                "email": "e21077@eng.pdn.ac.lk",
+                "website": "#",
+                "github": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "api_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "profile_url": "#"
+            }
+        },
+        "supervisors": {
+            "yasodhav@eng.pdn.ac.lk": {
+                "name": "",
+                "email": "yasodhav@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Web",
+            "MERN",
+            "Healthcare",
+            "CO227",
+            "E21"
+        ]
+    },
     "e21-CO227-PeraMorphiq": {
         "title": "PeraMorphiq",
         "description": "Full-stack web platform for neuromorphic research management with Node.js, MongoDB, JWT auth, and admin dashboard at University of Peradeniya.",
@@ -26938,18 +27018,18 @@
             "Responsive Design"
         ]
     },
-    "e21-co227-PeraVerse-Organizer-Dashboard-Team2": {
-        "title": "PeraVerse Organizer Dashboard Team2",
-        "description": "",
+    "e21-co227-PeraVerse-Organizer-Dashboard": {
+        "title": "PeraVerse Organizer Dashboard",
+        "description": "Full-stack Organizer Dashboard for the 75Exhibition system, combining a modern web UI with microservices for Auth, Event, Alert, Building, and Organizer\u00a0Management",
         "category": {
             "title": "Software Systems Projects",
             "code": "co227",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Team2/",
-        "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Team2",
-        "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Team2",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Team2/",
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard/",
+        "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard",
+        "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
         "team": {
             "E/21/137": {
@@ -27009,7 +27089,125 @@
                 "researchgate": "#",
                 "google_scholar": "#"
             }
-        }
+        },
+        "tags": [
+            "Full-Stack",
+            "Microservices",
+            "Web Development",
+            "Node.js",
+            "Express.js",
+            "React",
+            "RESTful API",
+            "JWT Authentication",
+            "Event Management",
+            "Alert System",
+            "Building Management",
+            "Organizer Management",
+            "Dashboard",
+            "Crowd Management",
+            "75Exhibition"
+        ]
+    },
+    "e21-CO227-Peraverse-integration": {
+        "title": "Peraverse integration",
+        "description": "Integration, Testing and Deployment of the Peraverse crowd management system which was developed to manage the crowd during the Engex 2025",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Peraverse-integration/",
+        "repo_url": "https://github.com/cepdnaclk/e21-CO227-Peraverse-integration",
+        "page_url": "https://cepdnaclk.github.io/e21-CO227-Peraverse-integration",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Peraverse-integration/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+        "team": {
+            "E/21/138": {
+                "name": "Fikry Nuhuman",
+                "email": "e21138@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/fikrynuhuman183",
+                "linkedin": "https://www.linkedin.com/in/fikry-nuhuman/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/138",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21138.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/138/"
+            },
+            "E/21/415": {
+                "name": "Chamika Uduwaka",
+                "email": "e21415@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/Chamika-Uduwaka",
+                "linkedin": "https://www.linkedin.com/in/chamika-uduwaka-b62324331/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/415",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21415.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/415/"
+            },
+            "E/21/039": {
+                "name": "Ravindu Ashan",
+                "email": "e21039@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/AshanENG",
+                "linkedin": "https://www.linkedin.com/in/ravindu-ashan-31934a297",
+                "researchgate": "https://www.researchgate.net/profile/Ravindu-Ashan?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/039",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21039.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/039/"
+            },
+            "E/21/231": {
+                "name": "Thisen Lakdinu",
+                "email": "e21231@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/231",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21231.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/231/"
+            }
+        },
+        "supervisors": {
+            "yasodhav@eng.pdn.ac.lk": {
+                "name": "",
+                "email": "yasodhav@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Web Development",
+            "Full-Stack",
+            "Node.js",
+            "Supabase",
+            "Express.js",
+            "Research Platform",
+            "Content Management",
+            "RESTful API",
+            "Admin Dashboard",
+            "Responsive Design"
+        ]
+    },
+    "e21-co227-Peraverse": {
+        "title": "Peraverse",
+        "description": "Integration, Testing and Deployment of the Peraverse crowd management system which was developed to manage the crowd during the Engex 2025 URL-",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Peraverse/",
+        "repo_url": "https://github.com/cepdnaclk/e21-co227-Peraverse",
+        "page_url": "https://cepdnaclk.github.io/e21-co227-Peraverse",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Peraverse/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+        "team": {},
+        "supervisors": {}
     },
     "e21-co227-QR-AI-Entry-Exit-Tracking-System": {
         "title": "QR AI Entry Exit Tracking System",
@@ -27177,6 +27375,20 @@
                 "google_scholar": "#"
             }
         }
+    },
+    "e21-co227-Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort": {
+        "title": "Smart Crowd Monitoring System Using Yolo And Deepsort",
+        "description": "This system counts people across multiple cameras using YOLOv8 and DeepSort, saves the data to PostgreSQL, and offers live monitoring through a FastAPI backend and React frontend.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort/",
+        "repo_url": "https://github.com/cepdnaclk/e21-co227-Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
     },
     "e15-co227-Pera-Knowledge-Portal": {
         "title": "Pera Knowledge Portal",
