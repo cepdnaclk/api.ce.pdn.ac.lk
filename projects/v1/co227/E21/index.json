@@ -1,7 +1,7 @@
 {
     "e21-CO227-PeraMorphiq": {
         "title": "PeraMorphiq",
-        "description": "Full-stack web platform for neuromorphic research management with Node.js, MongoDB, JWT auth, and admin dashboard at University of Peradeniya.",
+        "description": "Group 17 - Full-stack web platform for neuromorphic research management with Node.js, MongoDB, JWT auth, and admin dashboard at University of Peradeniya.",
         "category": {
             "title": "Software Systems Projects",
             "code": "co227",
@@ -64,18 +64,18 @@
         "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Event-Details-Page",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Event-Details-Page/"
     },
-    "e21-co227-PeraVerse-Organizer-Dashboard": {
-        "title": "PeraVerse Organizer Dashboard",
-        "description": "Full-stack Organizer Dashboard for the 75Exhibition system, combining a modern web UI with microservices for Auth, Event, Alert, Building, and Organizer\u00a0Management",
+    "e21-co227-PeraVerse-Organizer-Dashboard-Core-Backend": {
+        "title": "PeraVerse Organizer Dashboard Core Backend",
+        "description": "Full-stack Organizer Dashboard ( Core Backend ) for the 75Exhibition system, combining a modern web UI with microservices for Auth, Event, Alert, Building, and Organizer\u00a0Management",
         "category": {
             "title": "Software Systems Projects",
             "code": "co227",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard/",
-        "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard",
-        "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard/"
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Core-Backend/",
+        "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Core-Backend",
+        "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Core-Backend",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Core-Backend/"
     },
     "e21-co227-Peraverse": {
         "title": "Peraverse",
