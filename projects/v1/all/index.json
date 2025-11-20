@@ -26752,6 +26752,89 @@
             "Firebase"
         ]
     },
+    "e21-co227-Crowd-Balance-Mobile-App": {
+        "title": "Crowd Balance Mobile App",
+        "description": "Smart exhibition management mobile app for EngEx 2025 offering real-time crowd balancing, missing person notifications, car park tracking, and AI chatbot support. Powered by React Native, MongoDB, Express.js and Node.js for optimal performance.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Crowd-Balance-Mobile-App/",
+        "repo_url": "https://github.com/cepdnaclk/e21-co227-Crowd-Balance-Mobile-App",
+        "page_url": "https://cepdnaclk.github.io/e21-co227-Crowd-Balance-Mobile-App",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Crowd-Balance-Mobile-App/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+        "team": {
+            "E/21/444": {
+                "name": "Deeshan Wijesinghe",
+                "email": "e21444@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/Deeshannn",
+                "linkedin": "https://www.linkedin.com/in/deeshan-wijesinghe-491312373",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/444",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21444.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/444/"
+            },
+            "E/YY/045": {
+                "name": "Shane Baines",
+                "email": "e21045@eng.pdn.ac.lk",
+                "website": "#",
+                "github": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "api_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "profile_url": "#"
+            },
+            "E/21/065": {
+                "name": "Ridmal Chamod",
+                "email": "e21065@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/RidmalChamod",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/065",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21065.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/065/"
+            },
+            "E/21/277": {
+                "name": "Venuka Kalana",
+                "email": "e21277@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/277",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21277.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/277/"
+            }
+        },
+        "supervisors": {
+            "yasodhav@eng.pdn.ac.lk": {
+                "name": "",
+                "email": "yasodhav@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Crowd Management",
+            "Mobile App Development",
+            "MongoDB",
+            "Express.js",
+            "React Native",
+            "Node.js",
+            "Expo",
+            "Restful API"
+        ]
+    },
     "e21-co227-Event-Management-System": {
         "title": "Event Management System",
         "description": "Users browse event listings and receive personalized recommendations based on saved interests. They can manage interests to refine suggestions. Admins authenticate to an admin dashboard to review and control which events appear to users. It can serve as a starter for community calendars, campus activities, or internal company events.",
@@ -26767,6 +26850,34 @@
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
         "team": {},
         "supervisors": {}
+    },
+    "e21-co227-EventStack-Event-Management-System": {
+        "title": "EventStack Event Management System",
+        "description": "A complete event management platform with event discovery, organizer tools, expense dashboards, and admin controls - powered by React, Node.js, and PostgreSQL.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/EventStack-Event-Management-System/",
+        "repo_url": "https://github.com/cepdnaclk/e21-co227-EventStack-Event-Management-System",
+        "page_url": "https://cepdnaclk.github.io/e21-co227-EventStack-Event-Management-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/EventStack-Event-Management-System/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
+    },
+    "e21-co227-ExpoEvent-Task1-C-Bookmark-and-Notification-System": {
+        "title": "ExpoEvent Task1 C Bookmark and Notification System",
+        "description": "A web application enabling users to bookmark events at exhibitions and receive timely notifications about their saved events. Users can easily manage their interests by selecting specific exhibitions or activities, ensuring they never miss important happenings through automated reminders and personalized alerts.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/ExpoEvent-Task1-C-Bookmark-and-Notification-System/",
+        "repo_url": "https://github.com/cepdnaclk/e21-co227-ExpoEvent-Task1-C-Bookmark-and-Notification-System",
+        "page_url": "https://cepdnaclk.github.io/e21-co227-ExpoEvent-Task1-C-Bookmark-and-Notification-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/ExpoEvent-Task1-C-Bookmark-and-Notification-System/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
     },
     "e21-co227-Online-doctor-appointment-website-2yp": {
         "title": "Online doctor appointment website 2yp",
@@ -27018,6 +27129,77 @@
             "Responsive Design"
         ]
     },
+    "e21-co227-PeraVerse-Event-List-Page": {
+        "title": "PeraVerse Event List Page",
+        "description": "A full-stack Event Management Dashboard where users can browse events, filter by category,  mark attendance, rate events, and leave comments.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Event-List-Page/",
+        "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Event-List-Page",
+        "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Event-List-Page",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Event-List-Page/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+        "team": {
+            "E/21/442": {
+                "name": "Wijenayaka D.L.P.A.",
+                "email": "e21442@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/Pushpika101",
+                "linkedin": "https://www.linkedin.com/in/pushpika-anuradha-29a272311/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/442",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21442.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/442/"
+            },
+            "E/21/289": {
+                "name": "Perera I.S.A",
+                "email": "e21289@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/289",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21289.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/289/"
+            },
+            "E/21/068": {
+                "name": "Chandrasiri E.M.D.D.V.",
+                "email": "e21068@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/068",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21068.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/068/"
+            },
+            "E/21/328": {
+                "name": "Rathnayaka R.M.P.M.",
+                "email": "e21328@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/328",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21328.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/328/"
+            }
+        },
+        "tags": [
+            "Web Development",
+            "Full-Stack",
+            "Node.js",
+            "Express.js",
+            "Event Management",
+            "RESTful API",
+            "JWT Authentication",
+            "Event List",
+            "Responsive Design"
+        ]
+    },
     "e21-co227-PeraVerse-Organizer-Dashboard-Core-Backend": {
         "title": "PeraVerse Organizer Dashboard Core Backend",
         "description": "Full-stack Organizer Dashboard ( Core Backend ) for the 75Exhibition system, combining a modern web UI with microservices for Auth, Event, Alert, Building, and Organizer\u00a0Management",
@@ -27104,6 +27286,71 @@
             "Building Management",
             "Organizer Management",
             "Dashboard",
+            "75Exhibition"
+        ]
+    },
+    "e21-co227-PeraVerse-Organizer-Dashboard-Core-Frontend": {
+        "title": "PeraVerse Organizer Dashboard Core Frontend",
+        "description": "",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Core-Frontend/",
+        "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Core-Frontend",
+        "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Core-Frontend",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Core-Frontend/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+        "team": {
+            "E/21/007": {
+                "name": "A.G.C.D. Abeynayake",
+                "email": "e21007@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/Chanuth412-pixel",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/007",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21007.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/007/"
+            },
+            "E/21/006": {
+                "name": "A.M.U.I.B Abeykoon",
+                "email": "e21006@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/006",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21006.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/006/"
+            }
+        },
+        "supervisors": {
+            "yasodhav@eng.pdn.ac.lk": {
+                "name": "",
+                "email": "yasodhav@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Frontend",
+            "React",
+            "TypeScript",
+            "Tailwind CSS",
+            "WebSockets",
+            "Microservices",
+            "Web Development",
+            "Dashboard",
+            "JWT Authentication",
+            "Data Visualization",
+            "Crowd Management",
             "75Exhibition"
         ]
     },

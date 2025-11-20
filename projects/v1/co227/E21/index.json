@@ -25,6 +25,19 @@
         "page_url": "https://cepdnaclk.github.io/e21-CO227-Peraverse-integration",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Peraverse-integration/"
     },
+    "e21-co227-Crowd-Balance-Mobile-App": {
+        "title": "Crowd Balance Mobile App",
+        "description": "Smart exhibition management mobile app for EngEx 2025 offering real-time crowd balancing, missing person notifications, car park tracking, and AI chatbot support. Powered by React Native, MongoDB, Express.js and Node.js for optimal performance.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Crowd-Balance-Mobile-App/",
+        "repo_url": "https://github.com/cepdnaclk/e21-co227-Crowd-Balance-Mobile-App",
+        "page_url": "https://cepdnaclk.github.io/e21-co227-Crowd-Balance-Mobile-App",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Crowd-Balance-Mobile-App/"
+    },
     "e21-co227-Event-Management-System": {
         "title": "Event Management System",
         "description": "Users browse event listings and receive personalized recommendations based on saved interests. They can manage interests to refine suggestions. Admins authenticate to an admin dashboard to review and control which events appear to users. It can serve as a starter for community calendars, campus activities, or internal company events.",
@@ -37,6 +50,32 @@
         "repo_url": "https://github.com/cepdnaclk/e21-co227-Event-Management-System",
         "page_url": "https://cepdnaclk.github.io/e21-co227-Event-Management-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Event-Management-System/"
+    },
+    "e21-co227-EventStack-Event-Management-System": {
+        "title": "EventStack Event Management System",
+        "description": "A complete event management platform with event discovery, organizer tools, expense dashboards, and admin controls - powered by React, Node.js, and PostgreSQL.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/EventStack-Event-Management-System/",
+        "repo_url": "https://github.com/cepdnaclk/e21-co227-EventStack-Event-Management-System",
+        "page_url": "https://cepdnaclk.github.io/e21-co227-EventStack-Event-Management-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/EventStack-Event-Management-System/"
+    },
+    "e21-co227-ExpoEvent-Task1-C-Bookmark-and-Notification-System": {
+        "title": "ExpoEvent Task1 C Bookmark and Notification System",
+        "description": "A web application enabling users to bookmark events at exhibitions and receive timely notifications about their saved events. Users can easily manage their interests by selecting specific exhibitions or activities, ensuring they never miss important happenings through automated reminders and personalized alerts.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/ExpoEvent-Task1-C-Bookmark-and-Notification-System/",
+        "repo_url": "https://github.com/cepdnaclk/e21-co227-ExpoEvent-Task1-C-Bookmark-and-Notification-System",
+        "page_url": "https://cepdnaclk.github.io/e21-co227-ExpoEvent-Task1-C-Bookmark-and-Notification-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/ExpoEvent-Task1-C-Bookmark-and-Notification-System/"
     },
     "e21-co227-Online-doctor-appointment-website-2yp": {
         "title": "Online doctor appointment website 2yp",
@@ -64,6 +103,19 @@
         "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Event-Details-Page",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Event-Details-Page/"
     },
+    "e21-co227-PeraVerse-Event-List-Page": {
+        "title": "PeraVerse Event List Page",
+        "description": "A full-stack Event Management Dashboard where users can browse events, filter by category,  mark attendance, rate events, and leave comments.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Event-List-Page/",
+        "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Event-List-Page",
+        "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Event-List-Page",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Event-List-Page/"
+    },
     "e21-co227-PeraVerse-Organizer-Dashboard-Core-Backend": {
         "title": "PeraVerse Organizer Dashboard Core Backend",
         "description": "Full-stack Organizer Dashboard ( Core Backend ) for the 75Exhibition system, combining a modern web UI with microservices for Auth, Event, Alert, Building, and Organizer\u00a0Management",
@@ -76,6 +128,19 @@
         "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Core-Backend",
         "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Core-Backend",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Core-Backend/"
+    },
+    "e21-co227-PeraVerse-Organizer-Dashboard-Core-Frontend": {
+        "title": "PeraVerse Organizer Dashboard Core Frontend",
+        "description": "",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Core-Frontend/",
+        "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Core-Frontend",
+        "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Core-Frontend",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Core-Frontend/"
     },
     "e21-co227-Peraverse": {
         "title": "Peraverse",

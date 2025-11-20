@@ -1,0 +1,71 @@
+{
+    "title": "PeraVerse Event List Page",
+    "description": "A full-stack Event Management Dashboard where users can browse events, filter by category,  mark attendance, rate events, and leave comments.",
+    "category": {
+        "title": "Software Systems Projects",
+        "code": "co227",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Event-List-Page/",
+    "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Event-List-Page",
+    "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Event-List-Page",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Event-List-Page/",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+    "team": {
+        "E/21/442": {
+            "name": "Wijenayaka D.L.P.A.",
+            "email": "e21442@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Pushpika101",
+            "linkedin": "https://www.linkedin.com/in/pushpika-anuradha-29a272311/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/442",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21442.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/442/"
+        },
+        "E/21/289": {
+            "name": "Perera I.S.A",
+            "email": "e21289@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/289",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21289.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/289/"
+        },
+        "E/21/068": {
+            "name": "Chandrasiri E.M.D.D.V.",
+            "email": "e21068@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/068",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21068.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/068/"
+        },
+        "E/21/328": {
+            "name": "Rathnayaka R.M.P.M.",
+            "email": "e21328@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/328",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21328.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/328/"
+        }
+    },
+    "tags": [
+        "Web Development",
+        "Full-Stack",
+        "Node.js",
+        "Express.js",
+        "Event Management",
+        "RESTful API",
+        "JWT Authentication",
+        "Event List",
+        "Responsive Design"
+    ]
+}
