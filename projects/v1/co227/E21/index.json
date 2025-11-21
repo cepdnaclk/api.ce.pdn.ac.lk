@@ -77,6 +77,32 @@
         "page_url": "https://cepdnaclk.github.io/e21-co227-ExpoEvent-Task1-C-Bookmark-and-Notification-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/ExpoEvent-Task1-C-Bookmark-and-Notification-System/"
     },
+    "e21-co227-Heat_map": {
+        "title": "Heat_map",
+        "description": "Heap map system for peraverse site(CO227)",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Heat_map/",
+        "repo_url": "https://github.com/cepdnaclk/e21-co227-Heat_map",
+        "page_url": "https://cepdnaclk.github.io/e21-co227-Heat_map",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Heat_map/"
+    },
+    "e21-co227-Interactive-Exhibition-Map-Peraverse": {
+        "title": "Interactive Exhibition Map Peraverse",
+        "description": "",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Interactive-Exhibition-Map-Peraverse/",
+        "repo_url": "https://github.com/cepdnaclk/e21-co227-Interactive-Exhibition-Map-Peraverse",
+        "page_url": "https://cepdnaclk.github.io/e21-co227-Interactive-Exhibition-Map-Peraverse",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Interactive-Exhibition-Map-Peraverse/"
+    },
     "e21-co227-Online-doctor-appointment-website-2yp": {
         "title": "Online doctor appointment website 2yp",
         "description": "",
@@ -115,6 +141,45 @@
         "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Event-List-Page",
         "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Event-List-Page",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Event-List-Page/"
+    },
+    "e21-co227-PeraVerse-Heatmap-Predictive-Analysis": {
+        "title": "PeraVerse Heatmap Predictive Analysis",
+        "description": "PeraVerse Crowd Management is a smart real-time visitor tracking system that shows crowd density with heatmaps and uses predictive analysis to forecast movement trends. It helps organizers plan resources, enhance safety, and improve the overall exhibition experience.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Heatmap-Predictive-Analysis/",
+        "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+        "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Heatmap-Predictive-Analysis/"
+    },
+    "e21-co227-PeraVerse-Kiosk-System": {
+        "title": "PeraVerse Kiosk System",
+        "description": "The Interactive Kiosk System designed for EngEx 2025 provides real-time notifications, event and exhibit information, exhibit navigation, digital maps, chatbot assistance, and feedback collection. Its user-friendly interface enhances visitor engagement, simplifies information access, and makes the exhibition experience seamless and enjoyable.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Kiosk-System/",
+        "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Kiosk-System",
+        "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Kiosk-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Kiosk-System/"
+    },
+    "e21-co227-PeraVerse-Organizer-Dashboard-Analytics-Backend": {
+        "title": "PeraVerse Organizer Dashboard Analytics Backend",
+        "description": "Includes modules for overview analytics, heatmap analytics, feedback insights, and export analytics for the EngEX 2025.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Analytics-Backend/",
+        "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Analytics-Backend",
+        "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Analytics-Backend",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Analytics-Backend/"
     },
     "e21-co227-PeraVerse-Organizer-Dashboard-Core-Backend": {
         "title": "PeraVerse Organizer Dashboard Core Backend",
@@ -181,6 +246,19 @@
         "page_url": "https://cepdnaclk.github.io/e21-co227-RFID-Hardware-and-Tag-Lifecycle",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/RFID-Hardware-and-Tag-Lifecycle/"
     },
+    "e21-co227-Registration-Portal": {
+        "title": "Registration Portal",
+        "description": "RFID-based visitor registration system using React, Node.js, and PostgreSQL. Supports secure login, portal selection, individual & batch registration, real-time tag linking, automated EXITOUT release, and an admin dashboard with analytics. Built for fast, reliable event management.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Registration-Portal/",
+        "repo_url": "https://github.com/cepdnaclk/e21-co227-Registration-Portal",
+        "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
+    },
     "e21-co227-Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort": {
         "title": "Smart Crowd Monitoring System Using Yolo And Deepsort",
         "description": "This system counts people across multiple cameras using YOLOv8 and DeepSort, saves the data to PostgreSQL, and offers live monitoring through a FastAPI backend and React frontend.",
@@ -193,5 +271,18 @@
         "repo_url": "https://github.com/cepdnaclk/e21-co227-Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort",
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort/"
+    },
+    "e21-co227-SmartCityHeatMapGroup22": {
+        "title": "SmartCityHeatMapGroup22",
+        "description": "The 75Exhibition Heatmap Dashboard is a full-stack web app that visualizes real-time crowd density in the Computer Department exhibition hall. It updates every 10 seconds and also helps visitors find exhibits by clicking on any zone for detailed information.",
+        "category": {
+            "title": "Software Systems Projects",
+            "code": "co227",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/SmartCityHeatMapGroup22/",
+        "repo_url": "https://github.com/cepdnaclk/e21-co227-SmartCityHeatMapGroup22",
+        "page_url": "https://cepdnaclk.github.io/e21-co227-SmartCityHeatMapGroup22",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/SmartCityHeatMapGroup22/"
     }
 }

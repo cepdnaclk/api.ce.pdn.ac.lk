@@ -1,0 +1,79 @@
+{
+    "title": "PeraVerse Organizer Dashboard Analytics Backend",
+    "description": "Includes modules for overview analytics, heatmap analytics, feedback insights, and export analytics for the EngEX 2025.",
+    "category": {
+        "title": "Software Systems Projects",
+        "code": "co227",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Analytics-Backend/",
+    "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Analytics-Backend",
+    "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Analytics-Backend",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Analytics-Backend/",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+    "team": {
+        "E/21/126": {
+            "name": "Epitakaduwa E.K.G.D.",
+            "email": "e21126@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/dinithiepi",
+            "linkedin": "https://www.linkedin.com/in/dinithi-epitakaduwa-6866a1336/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/126",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21126.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/126/"
+        },
+        "E/21/253": {
+            "name": "Manabandu J.P.G.T.R.",
+            "email": "e21253@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/253",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21253.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/253/"
+        },
+        "E/21/055": {
+            "name": "Bandara K.N.K.L.N.",
+            "email": "e21055@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/055",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21055.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/055/"
+        },
+        "E/21/410": {
+            "name": "Thilakarathne L.R.O.S.",
+            "email": "e21410@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/410",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21410.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/410/"
+        }
+    },
+    "supervisors": {
+        "yasodhav@eng.pdn.ac.lk": {
+            "name": "",
+            "email": "yasodhav@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Web",
+        "Analytics",
+        "Node.js",
+        "Supabase"
+    ]
+}

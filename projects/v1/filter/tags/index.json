@@ -89,6 +89,19 @@
     ],
     "75Exhibition": [
         {
+            "title": "Heat_map",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Heat_map/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Heat_map",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Heat_map",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Heat_map/"
+        },
+        {
             "title": "PeraVerse Organizer Dashboard Core Backend",
             "category": {
                 "code": "co227",
@@ -287,6 +300,19 @@
             "page_url": "https://cepdnaclk.github.io/e21-CO227-Peraverse-integration",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Peraverse-integration/"
+        },
+        {
+            "title": "Registration Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Registration-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Registration-Portal",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
         }
     ],
     "Advanced Architecture": [
@@ -418,6 +444,34 @@
             "page_url": "https://cepdnaclk.github.io/e14-4yp-ipb",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E14/ipb/"
+        }
+    ],
+    "Analytics": [
+        {
+            "title": "PeraVerse Organizer Dashboard Analytics Backend",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Analytics-Backend/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Analytics-Backend",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Analytics-Backend",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Analytics-Backend/"
+        },
+        {
+            "title": "Registration Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Registration-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Registration-Portal",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
         }
     ],
     "Android": [
@@ -611,6 +665,21 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Augmented-Reality-Guidance-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Augmented-Reality-Guidance-System/"
+        }
+    ],
+    "Authentication": [
+        {
+            "title": "Registration Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Registration-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Registration-Portal",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
         }
     ],
     "Automated Tools": [
@@ -1183,6 +1252,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Road-Traffic-Ecosystem/"
         }
     ],
+    "Cloud Deployment": [
+        {
+            "title": "Registration Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Registration-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Registration-Portal",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
+        }
+    ],
     "Cloud Integration": [
         {
             "title": "QR AI Entry Exit Tracking System",
@@ -1727,6 +1811,19 @@
             "page_url": "https://cepdnaclk.github.io/e21-co227-Crowd-Balance-Mobile-App",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Crowd-Balance-Mobile-App/"
+        },
+        {
+            "title": "PeraVerse Heatmap Predictive Analysis",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Heatmap-Predictive-Analysis/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Heatmap-Predictive-Analysis/"
         },
         {
             "title": "PeraVerse Organizer Dashboard Core Frontend",
@@ -4041,6 +4138,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/P-E-BO-Desk-Companion/"
         }
     ],
+    "EngEx2025": [
+        {
+            "title": "Heat_map",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Heat_map/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Heat_map",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Heat_map",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Heat_map/"
+        }
+    ],
     "Entertainment": [
         {
             "title": "P E BO Desk Companion",
@@ -4088,6 +4200,19 @@
     ],
     "Event Management": [
         {
+            "title": "Heat_map",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Heat_map/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Heat_map",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Heat_map",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Heat_map/"
+        },
+        {
             "title": "PeraVerse Event Details Page",
             "category": {
                 "code": "co227",
@@ -4125,6 +4250,19 @@
             "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Core-Backend",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Core-Backend/"
+        },
+        {
+            "title": "Registration Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Registration-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Registration-Portal",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
         }
     ],
     "Explainable Machine Learning": [
@@ -4172,6 +4310,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Crowd-Balance-Mobile-App/"
         },
         {
+            "title": "Heat_map",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Heat_map/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Heat_map",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Heat_map",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Heat_map/"
+        },
+        {
             "title": "PeraMorphiq",
             "category": {
                 "code": "co227",
@@ -4211,6 +4362,32 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Event-List-Page/"
         },
         {
+            "title": "PeraVerse Heatmap Predictive Analysis",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Heatmap-Predictive-Analysis/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Heatmap-Predictive-Analysis/"
+        },
+        {
+            "title": "PeraVerse Kiosk System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Kiosk-System/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Kiosk-System",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Kiosk-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Kiosk-System/"
+        },
+        {
             "title": "PeraVerse Organizer Dashboard Core Backend",
             "category": {
                 "code": "co227",
@@ -4248,6 +4425,19 @@
             "page_url": "https://cepdnaclk.github.io/e21-co227-QR-AI-Entry-Exit-Tracking-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/QR-AI-Entry-Exit-Tracking-System/"
+        },
+        {
+            "title": "Registration Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Registration-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Registration-Portal",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
         }
     ],
     "FPGA": [
@@ -5792,6 +5982,19 @@
     ],
     "Full-Stack": [
         {
+            "title": "Heat_map",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Heat_map/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Heat_map",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Heat_map",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Heat_map/"
+        },
+        {
             "title": "PeraMorphiq",
             "category": {
                 "code": "co227",
@@ -5831,6 +6034,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Event-List-Page/"
         },
         {
+            "title": "PeraVerse Kiosk System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Kiosk-System/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Kiosk-System",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Kiosk-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Kiosk-System/"
+        },
+        {
             "title": "PeraVerse Organizer Dashboard Core Backend",
             "category": {
                 "code": "co227",
@@ -5855,6 +6071,19 @@
             "page_url": "https://cepdnaclk.github.io/e21-CO227-Peraverse-integration",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Peraverse-integration/"
+        },
+        {
+            "title": "Registration Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Registration-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Registration-Portal",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
         }
     ],
     "Fund requests": [
@@ -6164,6 +6393,36 @@
             "page_url": "https://cepdnaclk.github.io/e21-co227-Online-doctor-appointment-website-2yp",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Online-doctor-appointment-website-2yp/"
+        }
+    ],
+    "Heat map": [
+        {
+            "title": "Heat_map",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Heat_map/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Heat_map",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Heat_map",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Heat_map/"
+        }
+    ],
+    "Heatmap Visualization": [
+        {
+            "title": "PeraVerse Heatmap Predictive Analysis",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Heatmap-Predictive-Analysis/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Heatmap-Predictive-Analysis/"
         }
     ],
     "Help Desk": [
@@ -6655,6 +6914,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Waste-Management-System/"
         },
         {
+            "title": "Registration Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Registration-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Registration-Portal",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
+        },
+        {
             "title": "Baby Developing Tracking System Web Application",
             "category": {
                 "code": "co225",
@@ -6845,6 +7117,21 @@
             "page_url": "https://cepdnaclk.github.io/e19-3yp-Smart-Waste-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Waste-Management-System/"
+        }
+    ],
+    "Kiosk": [
+        {
+            "title": "PeraVerse Kiosk System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Kiosk-System/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Kiosk-System",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Kiosk-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Kiosk-System/"
         }
     ],
     "Kubernetes": [
@@ -7832,6 +8119,19 @@
     ],
     "Microservices": [
         {
+            "title": "Heat_map",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Heat_map/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Heat_map",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Heat_map",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Heat_map/"
+        },
+        {
             "title": "PeraVerse Organizer Dashboard Core Backend",
             "category": {
                 "code": "co227",
@@ -8338,6 +8638,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Large-Language-Models-in-Education/"
         }
     ],
+    "Neon": [
+        {
+            "title": "Registration Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Registration-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Registration-Portal",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
+        }
+    ],
     "Network Security": [
         {
             "title": "Smart Waste Management System",
@@ -8577,6 +8892,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Crowd-Balance-Mobile-App/"
         },
         {
+            "title": "Heat_map",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Heat_map/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Heat_map",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Heat_map",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Heat_map/"
+        },
+        {
             "title": "PeraMorphiq",
             "category": {
                 "code": "co227",
@@ -8616,6 +8944,45 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Event-List-Page/"
         },
         {
+            "title": "PeraVerse Heatmap Predictive Analysis",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Heatmap-Predictive-Analysis/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Heatmap-Predictive-Analysis/"
+        },
+        {
+            "title": "PeraVerse Kiosk System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Kiosk-System/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Kiosk-System",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Kiosk-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Kiosk-System/"
+        },
+        {
+            "title": "PeraVerse Organizer Dashboard Analytics Backend",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Analytics-Backend/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Analytics-Backend",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Analytics-Backend",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Analytics-Backend/"
+        },
+        {
             "title": "PeraVerse Organizer Dashboard Core Backend",
             "category": {
                 "code": "co227",
@@ -8653,6 +9020,19 @@
             "page_url": "https://cepdnaclk.github.io/e21-co227-QR-AI-Entry-Exit-Tracking-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/QR-AI-Entry-Exit-Tracking-System/"
+        },
+        {
+            "title": "Registration Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Registration-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Registration-Portal",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
         }
     ],
     "NodeRED": [
@@ -9202,6 +9582,45 @@
     ],
     "PostgreSQL": [
         {
+            "title": "PeraVerse Heatmap Predictive Analysis",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Heatmap-Predictive-Analysis/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Heatmap-Predictive-Analysis/"
+        },
+        {
+            "title": "PeraVerse Heatmap Predictive Analysis",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Heatmap-Predictive-Analysis/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Heatmap-Predictive-Analysis/"
+        },
+        {
+            "title": "PeraVerse Kiosk System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Kiosk-System/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Kiosk-System",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Kiosk-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Kiosk-System/"
+        },
+        {
             "title": "QR AI Entry Exit Tracking System",
             "category": {
                 "code": "co227",
@@ -9213,6 +9632,19 @@
             "page_url": "https://cepdnaclk.github.io/e21-co227-QR-AI-Entry-Exit-Tracking-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/QR-AI-Entry-Exit-Tracking-System/"
+        },
+        {
+            "title": "Registration Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Registration-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Registration-Portal",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
         }
     ],
     "Poultry Industry": [
@@ -9228,6 +9660,21 @@
             "page_url": "https://cepdnaclk.github.io/e18-6sp-ML-for-Analyzing-Egg-Hatching",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-for-Analyzing-Egg-Hatching/"
+        }
+    ],
+    "Predictive Analysis": [
+        {
+            "title": "PeraVerse Heatmap Predictive Analysis",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Heatmap-Predictive-Analysis/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Heatmap-Predictive-Analysis/"
         }
     ],
     "Problem Solving": [
@@ -9307,6 +9754,19 @@
     ],
     "RESTful API": [
         {
+            "title": "Heat_map",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Heat_map/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Heat_map",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Heat_map",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Heat_map/"
+        },
+        {
             "title": "PeraMorphiq",
             "category": {
                 "code": "co227",
@@ -9346,6 +9806,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Event-List-Page/"
         },
         {
+            "title": "PeraVerse Heatmap Predictive Analysis",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Heatmap-Predictive-Analysis/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Heatmap-Predictive-Analysis/"
+        },
+        {
             "title": "PeraVerse Organizer Dashboard Core Backend",
             "category": {
                 "code": "co227",
@@ -9383,6 +9856,34 @@
             "page_url": "https://cepdnaclk.github.io/e21-co227-QR-AI-Entry-Exit-Tracking-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/QR-AI-Entry-Exit-Tracking-System/"
+        },
+        {
+            "title": "Registration Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Registration-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Registration-Portal",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
+        }
+    ],
+    "RFID": [
+        {
+            "title": "Registration Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Registration-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Registration-Portal",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
         }
     ],
     "RISC V": [
@@ -9709,6 +10210,45 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/MONA-Dashboard/"
         },
         {
+            "title": "Heat_map",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Heat_map/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Heat_map",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Heat_map",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Heat_map/"
+        },
+        {
+            "title": "PeraVerse Heatmap Predictive Analysis",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Heatmap-Predictive-Analysis/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Heatmap-Predictive-Analysis/"
+        },
+        {
+            "title": "PeraVerse Kiosk System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Kiosk-System/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Kiosk-System",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Kiosk-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Kiosk-System/"
+        },
+        {
             "title": "PeraVerse Organizer Dashboard Core Backend",
             "category": {
                 "code": "co227",
@@ -9733,6 +10273,19 @@
             "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Core-Frontend",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Core-Frontend/"
+        },
+        {
+            "title": "Registration Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Registration-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Registration-Portal",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
         },
         {
             "title": "Baby Developing Tracking System Web Application",
@@ -9817,6 +10370,51 @@
             "page_url": "https://cepdnaclk.github.io/e21-co227-QR-AI-Entry-Exit-Tracking-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/QR-AI-Entry-Exit-Tracking-System/"
+        }
+    ],
+    "Real-Time Systems": [
+        {
+            "title": "Registration Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Registration-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Registration-Portal",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
+        }
+    ],
+    "Real-time Analytics": [
+        {
+            "title": "PeraVerse Heatmap Predictive Analysis",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Heatmap-Predictive-Analysis/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Heatmap-Predictive-Analysis/"
+        }
+    ],
+    "Render": [
+        {
+            "title": "Registration Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Registration-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Registration-Portal",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
         }
     ],
     "Research": [
@@ -9929,6 +10527,19 @@
             "page_url": "https://cepdnaclk.github.io/e21-CO227-Peraverse-integration",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Peraverse-integration/"
+        },
+        {
+            "title": "Registration Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Registration-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Registration-Portal",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
         }
     ],
     "Restful API": [
@@ -10421,6 +11032,19 @@
     ],
     "Supabase": [
         {
+            "title": "PeraVerse Organizer Dashboard Analytics Backend",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Analytics-Backend/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Analytics-Backend",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Analytics-Backend",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Analytics-Backend/"
+        },
+        {
             "title": "Peraverse integration",
             "category": {
                 "code": "co227",
@@ -10613,6 +11237,19 @@
         }
     ],
     "TypeScript": [
+        {
+            "title": "PeraVerse Heatmap Predictive Analysis",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Heatmap-Predictive-Analysis/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Heatmap-Predictive-Analysis/"
+        },
         {
             "title": "PeraVerse Organizer Dashboard Core Frontend",
             "category": {
@@ -10871,6 +11508,62 @@
             "page_url": "https://cepdnaclk.github.io/e16-4yp-open-world-object-detection-and-discovery",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/open-world-object-detection-and-discovery/"
+        }
+    ],
+    "Visitor Management": [
+        {
+            "title": "Registration Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Registration-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Registration-Portal",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
+        }
+    ],
+    "Vite": [
+        {
+            "title": "PeraVerse Heatmap Predictive Analysis",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Heatmap-Predictive-Analysis/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Heatmap-Predictive-Analysis/"
+        },
+        {
+            "title": "PeraVerse Kiosk System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Kiosk-System/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Kiosk-System",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Kiosk-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Kiosk-System/"
+        },
+        {
+            "title": "Registration Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Registration-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Registration-Portal",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
         }
     ],
     "Voice": [
@@ -12753,6 +13446,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Online-doctor-appointment-website-2yp/"
         },
         {
+            "title": "PeraVerse Organizer Dashboard Analytics Backend",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Analytics-Backend/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Analytics-Backend",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Analytics-Backend",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Analytics-Backend/"
+        },
+        {
             "title": "Pera Knowledge Portal",
             "category": {
                 "code": "co227",
@@ -13043,6 +13749,19 @@
             "page_url": "https://cepdnaclk.github.io/e21-CO227-Peraverse-integration",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Peraverse-integration/"
+        },
+        {
+            "title": "Registration Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Registration-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e21-co227-Registration-Portal",
+            "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
         }
     ],
     "Web Security": [

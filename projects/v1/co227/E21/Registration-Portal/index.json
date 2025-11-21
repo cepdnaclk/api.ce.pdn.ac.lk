@@ -1,0 +1,95 @@
+{
+    "title": "Registration Portal",
+    "description": "RFID-based visitor registration system using React, Node.js, and PostgreSQL. Supports secure login, portal selection, individual & batch registration, real-time tag linking, automated EXITOUT release, and an admin dashboard with analytics. Built for fast, reliable event management.",
+    "category": {
+        "title": "Software Systems Projects",
+        "code": "co227",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Registration-Portal/",
+    "repo_url": "https://github.com/cepdnaclk/e21-co227-Registration-Portal",
+    "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+    "team": {
+        "E/21/206": {
+            "name": "Paarkavi Jeyatheeswaran",
+            "email": "e21206@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Paarkavi29",
+            "linkedin": "https://www.linkedin.com/in/paarkavi-jeyatheeswaran-ab8541321/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/206",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21206.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/206/"
+        },
+        "E/21/342": {
+            "name": "Saabith A.M.M",
+            "email": "e21342@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/342",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21342.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/342/"
+        },
+        "E/21/375": {
+            "name": "Shagiththiah Kirupakaran",
+            "email": "e21375@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Shagiththiah",
+            "linkedin": "www.linkedin.com/in/shagiththiah-kirupakaran-608457254",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/375",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21375.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/375/"
+        },
+        "E/21/386": {
+            "name": "Sivasuthan Jeganathan",
+            "email": "e21386@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/386",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21386.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/386/"
+        }
+    },
+    "supervisors": {
+        "yasodhav@eng.pdn.ac.lk": {
+            "name": "",
+            "email": "yasodhav@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Web Development",
+        "Full-Stack",
+        "React",
+        "Vite",
+        "Node.js",
+        "Express.js",
+        "PostgreSQL",
+        "RFID",
+        "Visitor Management",
+        "Authentication",
+        "JWT",
+        "RESTful API",
+        "Admin Dashboard",
+        "Event Management",
+        "Real-Time Systems",
+        "Cloud Deployment",
+        "Neon",
+        "Render",
+        "Analytics",
+        "Responsive Design"
+    ]
+}
