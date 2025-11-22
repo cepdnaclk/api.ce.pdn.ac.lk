@@ -9866,76 +9866,7 @@
         "repo_url": "https://github.com/cepdnaclk/e20-3yp-VR-Multiplayer-Golf-Game",
         "page_url": "https://cepdnaclk.github.io/e20-3yp-VR-Multiplayer-Golf-Game",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/VR-Multiplayer-Golf-Game/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-        "team": {
-            "E/20/254": {
-                "name": "Kavindu Methpura",
-                "email": "e20254@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/KavinduMethpura",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/254",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20254.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/254/"
-            },
-            "E/20/367": {
-                "name": "Binuri Senavirathna",
-                "email": "e20367@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/367",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20367.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/367/"
-            },
-            "E/20/370": {
-                "name": "Rashmika Sewmini",
-                "email": "e20370@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/370",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20370.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/370/"
-            },
-            "E/20/420": {
-                "name": "Janith Wanasinghe",
-                "email": "e20420@eng.pdn.ac.lk",
-                "website": "https://janithkw.github.io/",
-                "github": "https://github.com/janithkw",
-                "linkedin": "https://www.linkedin.com/in/janithwanasinghe/",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/420",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20420.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/420/"
-            }
-        },
-        "supervisors": {
-            "isurunawinne@eng.pdn.ac.lk": {
-                "name": "",
-                "email": "isurunawinne@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
-                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/isuru-nawinne.png",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
-                "website": "#",
-                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
-                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
-                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
-            }
-        },
-        "tags": [
-            "Embedded Systems",
-            "Software Engineering",
-            "Computer and Network Security",
-            "VR",
-            "Unity",
-            "Multiplayer",
-            "GOLF",
-            "ESP32"
-        ]
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg"
     },
     "e20-3yp-Vescueye": {
         "title": "Vescueye",
@@ -26962,7 +26893,7 @@
     },
     "e21-co227-Heat_map": {
         "title": "Heat_map",
-        "description": "Heap map system for peraverse site(CO227)",
+        "description": "Heap map system for peraverse site(CO227)\nOur micro-service delivers  real-time crowd density data  to campus kiosks. It fetches live counts, computes capacity ratios, assigns intuitive traffic-light colors, and caches results. A single REST endpoint, /map-data, provides JSON for interactive heatmap rendering.",
         "category": {
             "title": "Software Systems Projects",
             "code": "co227",
@@ -27713,7 +27644,7 @@
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
         "team": {
             "E/21/126": {
-                "name": "Epitakaduwa E.K.G.D.",
+                "name": "E.K.G.D. EPITAKADUWA",
                 "email": "e21126@eng.pdn.ac.lk",
                 "website": "",
                 "github": "https://github.com/dinithiepi",
@@ -27724,7 +27655,7 @@
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e21/126/"
             },
             "E/21/253": {
-                "name": "Manabandu J.P.G.T.R.",
+                "name": "J.P.G.T.R. MANABANDU",
                 "email": "e21253@eng.pdn.ac.lk",
                 "website": "",
                 "github": "",
@@ -27735,7 +27666,7 @@
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e21/253/"
             },
             "E/21/055": {
-                "name": "Bandara K.N.K.L.N.",
+                "name": "K.N.K.L.N. BANDARA",
                 "email": "e21055@eng.pdn.ac.lk",
                 "website": "",
                 "github": "",
@@ -27746,7 +27677,7 @@
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e21/055/"
             },
             "E/21/410": {
-                "name": "Thilakarathne L.R.O.S.",
+                "name": "L.R.O.S. THILAKARATHNE",
                 "email": "e21410@eng.pdn.ac.lk",
                 "website": "",
                 "github": "",
@@ -28304,9 +28235,78 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort/",
         "repo_url": "https://github.com/cepdnaclk/e21-co227-Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e21-co227-Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+        "team": {
+            "E/21/124": {
+                "name": "E.M.D.A. EKANAYAKE",
+                "email": "e21124@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/Anji-001",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/124",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21124.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/124/"
+            },
+            "E/21/361": {
+                "name": "K.T. SASINDU",
+                "email": "e21361@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/KTSasindu",
+                "linkedin": "https://www.linkedin.com/in/ktsasindu",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/361",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21361.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/361/"
+            },
+            "E/21/371": {
+                "name": "D.M.W.J.I. SENAWIRATHNE",
+                "email": "e21371@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/371",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21371.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/371/"
+            },
+            "E/21/433": {
+                "name": "N.S. WICKRAMANAYAKA",
+                "email": "e21433@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/433",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21433.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/433/"
+            }
+        },
+        "supervisors": {
+            "yasodhav@eng.pdn.ac.lk": {
+                "name": "",
+                "email": "yasodhav@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Computer Vision",
+            "Deep Learning",
+            "Object Detection",
+            "Object Tracking",
+            "YOLO",
+            "DeepSORT",
+            "Crowd Monitoring",
+            "Real-time"
+        ]
     },
     "e21-co227-SmartCityHeatMapGroup22": {
         "title": "SmartCityHeatMapGroup22",

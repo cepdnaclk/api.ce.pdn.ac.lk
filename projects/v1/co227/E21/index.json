@@ -79,7 +79,7 @@
     },
     "e21-co227-Heat_map": {
         "title": "Heat_map",
-        "description": "Heap map system for peraverse site(CO227)",
+        "description": "Heap map system for peraverse site(CO227)\nOur micro-service delivers  real-time crowd density data  to campus kiosks. It fetches live counts, computes capacity ratios, assigns intuitive traffic-light colors, and caches results. A single REST endpoint, /map-data, provides JSON for interactive heatmap rendering.",
         "category": {
             "title": "Software Systems Projects",
             "code": "co227",
@@ -269,7 +269,7 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort/",
         "repo_url": "https://github.com/cepdnaclk/e21-co227-Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e21-co227-Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort/"
     },
     "e21-co227-SmartCityHeatMapGroup22": {

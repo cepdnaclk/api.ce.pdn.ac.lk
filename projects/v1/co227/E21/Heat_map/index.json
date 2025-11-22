@@ -1,6 +1,6 @@
 {
     "title": "Heat_map",
-    "description": "Heap map system for peraverse site(CO227)",
+    "description": "Heap map system for peraverse site(CO227)\nOur micro-service delivers  real-time crowd density data  to campus kiosks. It fetches live counts, computes capacity ratios, assigns intuitive traffic-light colors, and caches results. A single REST endpoint, /map-data, provides JSON for interactive heatmap rendering.",
     "category": {
         "title": "Software Systems Projects",
         "code": "co227",

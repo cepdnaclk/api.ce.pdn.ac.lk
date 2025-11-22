@@ -8,7 +8,76 @@
     },
     "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort/",
     "repo_url": "https://github.com/cepdnaclk/e21-co227-Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort",
-    "page_url": "#",
+    "page_url": "https://cepdnaclk.github.io/e21-co227-Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+    "team": {
+        "E/21/124": {
+            "name": "E.M.D.A. EKANAYAKE",
+            "email": "e21124@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Anji-001",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/124",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21124.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/124/"
+        },
+        "E/21/361": {
+            "name": "K.T. SASINDU",
+            "email": "e21361@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/KTSasindu",
+            "linkedin": "https://www.linkedin.com/in/ktsasindu",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/361",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21361.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/361/"
+        },
+        "E/21/371": {
+            "name": "D.M.W.J.I. SENAWIRATHNE",
+            "email": "e21371@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/371",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21371.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/371/"
+        },
+        "E/21/433": {
+            "name": "N.S. WICKRAMANAYAKA",
+            "email": "e21433@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/433",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21433.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/433/"
+        }
+    },
+    "supervisors": {
+        "yasodhav@eng.pdn.ac.lk": {
+            "name": "",
+            "email": "yasodhav@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Computer Vision",
+        "Deep Learning",
+        "Object Detection",
+        "Object Tracking",
+        "YOLO",
+        "DeepSORT",
+        "Crowd Monitoring",
+        "Real-time"
+    ]
 }
