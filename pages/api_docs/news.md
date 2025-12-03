@@ -3,5 +3,6 @@ layout: swagger
 permalink: '/docs/news/'
 title: 'News API'
 
-swagger_file: "/swagger/news.json"
+is_remote: true
+swagger_file: "https://cepdnaclk.github.io/portal.ce.pdn.ac.lk/api/news.json"
 ---

@@ -3,5 +3,6 @@ layout: swagger
 permalink: '/docs/taxonomy/'
 title: 'Taxonomy API'
 
-swagger_file: "/swagger/taxonomy.json"
+is_remote: true
+swagger_file: "https://cepdnaclk.github.io/portal.ce.pdn.ac.lk/api/taxonomy.json"
 ---

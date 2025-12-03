@@ -39,7 +39,9 @@
     <script>
     window.onload = function() {
         // Begin Swagger UI call region
-        {% if site.url %}
+        {% if page.is_remote %}
+        const url =  document.getElementById("swagger-section").getAttribute("data-url");
+        {% else if site.url %}
         const url = "{{ site.url }}{{ site.baseurl }}" + document.getElementById("swagger-section").getAttribute("data-url");
         {% else %}
         const url = "http://localhost:4000/" + document.getElementById("swagger-section").getAttribute("data-url");
