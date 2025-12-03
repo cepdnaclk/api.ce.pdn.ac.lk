@@ -1,10 +1,8 @@
-# frozen_string_literal: true
-
 Gem::Specification.new do |spec|
   spec.name     = "minima-bootstrap-5"
   spec.version  = "1.0.0"
-  spec.authors  = ["Nuwan Jaliyagoda"]
-  spec.email    = ["nuwanjaliyagoda@gmail.com"]
+  spec.authors  = ["Department of Computer Engineering, UoP"]
+  spec.email    = ["webmaster.github.ce@eng.pdn.ac.lk"]
 
   spec.summary  = "A beautiful, minimal theme for Jekyll with Bootstrap5 setup"
   spec.homepage = "https://github.com/NuwanK/jekyll-minima-bootstrap-5"
