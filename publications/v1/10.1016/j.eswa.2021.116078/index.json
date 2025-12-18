@@ -2,12 +2,12 @@
     "title": "Random subspace and random projection nearest neighbor ensembles for high dimensional data",
     "venue": "Elsevier Expert systems with applications",
     "year": "2022",
-    "abstract": "The random subspace and the random projection methods are investigated and compared as techniques for forming ensembles of nearest neighbor classifiers in high dimensional feature spaces. The two methods have been empirically evaluated on three types of high-dimensional datasets: microarrays, chemoinformatics, and images. Experimental results on 34 datasets show that both the random subspace and the random projection method lead to improvements in predictive performance compared to using the standard nearest neighbor classifier, while the best method to use depends on the type of data considered; for the microarray and chemoinformatics datasets, random projection outperforms the random subspace method, while the opposite holds for the image datasets. An analysis using data complexity measures, such as attribute to instance ratio and Fisher\u2019s discriminant ratio, provide some more detailed indications on what relative performance can be expected for specific datasets. The results also indicate that the resulting ensembles may be competitive with state-of-the-art ensemble classifiers; the nearest neighbor ensembles using random projection perform on par with random forests for the microarray and chemoinformatics datasets.",
+    "abstract": "The random subspace and the random projection methods are investigated and compared as techniques for forming ensembles of nearest neighbor classifiers in high dimensional feature spaces. The two methods have been empirically evaluated on three types of high-dimensional datasets: microarrays, chemoinformatics, and images. Experimental results on 34 datasets show that both the random subspace and the random projection method lead to improvements in predictive performance compared to using the standard nearest neighbor classifier, while the best method to use depends on the type of data considered; for the microarray and chemoinformatics datasets, random projection outperforms the random subspace method, while the opposite holds for the image datasets. An analysis using data complexity measures, such as attribute to instance ratio and Fisher\u00e2\u0080\u0099s discriminant ratio, provide some more detailed indications on what relative performance can be expected for specific datasets. The results also indicate that the resulting ensembles may be competitive with state-of-the-art ensemble classifiers; the nearest neighbor ensembles using random projection perform on par with random forests for the microarray and chemoinformatics datasets.",
     "authors": [
         "Sampath Deegalla",
         "Keerthi Walgama",
         "Panagiotis Papapetrou",
-        "Henrik Bostr\u00f6m"
+        "Henrik Bostr\u00c3\u00b6m"
     ],
     "author_info": [
         {
@@ -38,7 +38,7 @@
             "profile_url": "#"
         },
         {
-            "name": "Henrik Bostr\u00f6m",
+            "name": "Henrik Bostr\u00c3\u00b6m",
             "profile": "#",
             "type": "OUTSIDER",
             "id": "",
