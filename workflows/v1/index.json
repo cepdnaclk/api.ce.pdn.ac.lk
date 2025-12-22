@@ -130,17 +130,5 @@
             "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/workflows/Weekly%20Updates/badge.svg"
         },
         "status": "PASS"
-    },
-    {
-        "id": 30876798,
-        "repository": "publications",
-        "name": "Daily Build",
-        "state": "active",
-        "urls": {
-            "api": "https://api.github.com/repos/cepdnaclk/publications/actions/workflows/30876798",
-            "html": "https://github.com/cepdnaclk/publications/blob/main/.github/workflows/daily.yml",
-            "badge": "https://github.com/cepdnaclk/publications/workflows/Daily%20Build/badge.svg"
-        },
-        "status": "NO STATUS"
     }
 ]
