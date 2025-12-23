@@ -1,0 +1,67 @@
+{
+    "e20-co502-RV32IM-pipeline-implementation-group-2": {
+        "title": "RV32IM pipeline implementation group 2",
+        "description": "This Git repository contains the implementation of a RISC32IM processor pipeline using Verilog. The pipeline includes stages for instruction fetch, decode, execute, memory access, and write-back. The implementation includes a testbench for verification.",
+        "category": {
+            "title": "Advanced Computer Architecture (CO502)",
+            "code": "co502",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co502/e20/RV32IM-pipeline-implementation-group-2/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co502-RV32IM-pipeline-implementation-group-2",
+        "page_url": "https://cepdnaclk.github.io/e20-co502-RV32IM-pipeline-implementation-group-2",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E20/RV32IM-pipeline-implementation-group-2/"
+    },
+    "e20-co502-RV32IM_Pipelined_Processor_Group-03": {
+        "title": "RV32IM_Pipelined_Processor_Group 03",
+        "description": "",
+        "category": {
+            "title": "Advanced Computer Architecture (CO502)",
+            "code": "co502",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co502/e20/RV32IM_Pipelined_Processor_Group-03/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co502-RV32IM_Pipelined_Processor_Group-03",
+        "page_url": "https://cepdnaclk.github.io/e20-co502-RV32IM_Pipelined_Processor_Group-03",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E20/RV32IM_Pipelined_Processor_Group-03/"
+    },
+    "e20-co502-RV32IM_Pipelined_Processor_Group-04": {
+        "title": "RV32IM_Pipelined_Processor_Group 04",
+        "description": "Design and implementation of a 32-bit RISC-V processor supporting the RV32IM instruction set, developed as part of the Advanced Computer Architecture course (CO502)",
+        "category": {
+            "title": "Advanced Computer Architecture (CO502)",
+            "code": "co502",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co502/e20/RV32IM_Pipelined_Processor_Group-04/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co502-RV32IM_Pipelined_Processor_Group-04",
+        "page_url": "https://cepdnaclk.github.io/e20-co502-RV32IM_Pipelined_Processor_Group-04",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E20/RV32IM_Pipelined_Processor_Group-04/"
+    },
+    "e20-co502-RV32IM_Pipelined_Processor_Group-05": {
+        "title": "RV32IM_Pipelined_Processor_Group 05",
+        "description": "The RV32IM pipeline processor project designs a 32-bit RISC-V processor with 5 stages: IF, ID, EX, MEM, WB. It supports RV32I base and M-extension (MUL/DIV), using forwarding, stalling, and branch prediction to manage hazards. Implemented in Verilog, it is simulated, tested with RISC-V tools, and optimized for performance.",
+        "category": {
+            "title": "Advanced Computer Architecture (CO502)",
+            "code": "co502",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co502/e20/RV32IM_Pipelined_Processor_Group-05/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co502-RV32IM_Pipelined_Processor_Group-05",
+        "page_url": "https://cepdnaclk.github.io/e20-co502-RV32IM_Pipelined_Processor_Group-05",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E20/RV32IM_Pipelined_Processor_Group-05/"
+    },
+    "e20-co502-RV32IM_Pipelined_Processor_Group-06": {
+        "title": "RV32IM_Pipelined_Processor_Group 06",
+        "description": "RISC-V pipeline processor: A high-performance, open-source CPU design implementing RISC-V architecture with efficient instruction pipeline execution.",
+        "category": {
+            "title": "Advanced Computer Architecture (CO502)",
+            "code": "co502",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co502/e20/RV32IM_Pipelined_Processor_Group-06/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co502-RV32IM_Pipelined_Processor_Group-06",
+        "page_url": "https://cepdnaclk.github.io/e20-co502-RV32IM_Pipelined_Processor_Group-06",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E20/RV32IM_Pipelined_Processor_Group-06/"
+    }
+}

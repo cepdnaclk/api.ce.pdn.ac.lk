@@ -1,0 +1,14 @@
+{
+    "title": "Smart Safety Helmet using NodeMCU",
+    "description": "This helmet device is with sensors that has MQ9 gas sensor, thermistor, and KY-037 sound detection sensor.  LED and Piezo Buzzer are used as actuators. If there is any harmful noise or harmful temperature, these actuators notify that to the user.  Sensors and actuators are controlled by ESP32 module. This is connected to server through MQTT broker.",
+    "category": {
+        "title": "Industrial Automation Projects (CO326)",
+        "code": "co326",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Safety-Helmet-using-NodeMCU/",
+    "repo_url": "https://github.com/cepdnaclk/e18-CO326-Smart-Safety-Helmet-using-NodeMCU",
+    "page_url": "#",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Safety-Helmet-using-NodeMCU/",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
+}

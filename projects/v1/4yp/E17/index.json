@@ -1,15 +1,275 @@
 {
-    "e17-4yp-develop-a-programming-and-compiler-toolchain-for-multi-agent-systems-1": {
-        "title": "develop a programming and compiler toolchain for multi agent systems 1",
+    "e17-4yp-Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling": {
+        "title": "Acceleration of deep neural network based nanopore super accuracy basecalling",
+        "description": "Implementing suitable acceleration to speed up nanopore super accuracy basecalling process.",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling/"
+    },
+    "e17-4yp-Applying-deep-learning-on-histological-images-of-lymph-tissues": {
+        "title": "Applying deep learning on histological images of lymph tissues",
+        "description": "Automated LN image analysis project aims to alleviate the demand on histologists, leading to earlier cancer detection and saving lives.",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Applying-deep-learning-on-histological-images-of-lymph-tissues/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-Applying-deep-learning-on-histological-images-of-lymph-tissues",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-Applying-deep-learning-on-histological-images-of-lymph-tissues",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Applying-deep-learning-on-histological-images-of-lymph-tissues/"
+    },
+    "e17-4yp-Comparative-Analysis-of-2nd-and-3rd-Generation-Sequencing": {
+        "title": "Comparative Analysis of 2nd and 3rd Generation Sequencing",
+        "description": "The main objective of this project is to do a comparative analysis of the 2nd and 3rd generation sequencing methods to optimize the cost and efficiency.",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Comparative-Analysis-of-2nd-and-3rd-Generation-Sequencing/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-Comparative-Analysis-of-2nd-and-3rd-Generation-Sequencing",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-Comparative-Analysis-of-2nd-and-3rd-Generation-Sequencing",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Comparative-Analysis-of-2nd-and-3rd-Generation-Sequencing/"
+    },
+    "e17-4yp-Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators": {
+        "title": "Comprehensive ECG analysis with Deep Learning on GPU accelerators",
+        "description": "Objective: Developing a GPU accelerated Deep Learning algorithm for ECG analysis which works like the MUSE ECG system and optimizing it as an open-source, portable, and low-power GPU alternative, capable of providing comprehensive analysis.",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators/"
+    },
+    "e17-4yp-Deep-Learning-for-Side-Channel-Attacks": {
+        "title": "Deep Learning for Side Channel Attacks",
+        "description": "Investigating Machine Learning-based Attacks on Random Frequency Tuning-based Countermeasures",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Deep-Learning-for-Side-Channel-Attacks/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-Deep-Learning-for-Side-Channel-Attacks",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-Deep-Learning-for-Side-Channel-Attacks",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Deep-Learning-for-Side-Channel-Attacks/"
+    },
+    "e17-4yp-Human-Emotion-Detection-with-Electrocardiographic--Electroencephelographic-and-Other-Signals": {
+        "title": "Human Emotion Detection with Electrocardiographic  Electroencephelographic and Other Signals",
+        "description": "Human emotion detection with electrocardiographic, electroencephalographic and other signals using machine learning techniques",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Human-Emotion-Detection-with-Electrocardiographic--Electroencephelographic-and-Other-Signals/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-Human-Emotion-Detection-with-Electrocardiographic--Electroencephelographic-and-Other-Signals",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-Human-Emotion-Detection-with-Electrocardiographic--Electroencephelographic-and-Other-Signals",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Human-Emotion-Detection-with-Electrocardiographic--Electroencephelographic-and-Other-Signals/"
+    },
+    "e17-4yp-Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving": {
+        "title": "Improving Trajectory Guided Control Prediction for Autonomous Driving",
+        "description": "In this project we first are trying to identify the issues in the TCP architecture and to improve its accuracy. Carla Simulator will be used to test the accuracy of our models.",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving/"
+    },
+    "e17-4yp-Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers": {
+        "title": "Investigating Onchip Sensor Based RPA Attack Vulnerabilities of Light Weight Ciphers",
+        "description": "At the moment there are some proven Correlation Power Analysis attacks against AES cipher with help of on-chip sensors and machine learning techniques. The aim of this research project is to investigate other ciphers for Remote Power Analysis Attacks and propose countermeasures to prevent RPA attacks on those ciphers.",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers/"
+    },
+    "e17-4yp-Large-Language-Models-in-Education": {
+        "title": "Large Language Models in Education",
+        "description": "The project targets to explore the use of Large Language models in education and develop an intelligent tutor.",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Large-Language-Models-in-Education/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-Large-Language-Models-in-Education",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-Large-Language-Models-in-Education",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Large-Language-Models-in-Education/"
+    },
+    "e17-4yp-Low-Complexity-Algorithm-for-Arrhythmia-Detection": {
+        "title": "Low Complexity Algorithm for Arrhythmia Detection",
+        "description": "",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Low-Complexity-Algorithm-for-Arrhythmia-Detection/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-Low-Complexity-Algorithm-for-Arrhythmia-Detection",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-Low-Complexity-Algorithm-for-Arrhythmia-Detection",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Low-Complexity-Algorithm-for-Arrhythmia-Detection/"
+    },
+    "e17-4yp-Music-Emotion-Recognition": {
+        "title": "Music Emotion Recognition",
+        "description": "Music plays a major role in our day-to-day life, as it can ease our tense life. In modern society, people can have access to music via networks and electronic products. Emotion is one of the most crucial components of music and it has an enormous significance in real-world applications that include massive music data management, personalized music",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Music-Emotion-Recognition/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-Music-Emotion-Recognition",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-Music-Emotion-Recognition",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Music-Emotion-Recognition/"
+    },
+    "e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs": {
+        "title": "Neuromorphic NoC Architecture for SNNs",
+        "description": "This project aims to develop a novel neuromorphic NoC architecture based on RISC-V ISA to support spiking neural network applications, and test it on FPGA.",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Neuromorphic-NoC-Architecture-for-SNNs/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Neuromorphic-NoC-Architecture-for-SNNs/"
+    },
+    "e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents": {
+        "title": "OCR and Translation from Sinhala to Tamil for Printed Documents",
+        "description": "The project aims to create an OCR-based software that recognizes printed Sinhala text, converts it to editable format, and then translates it to Tamil. This application utilizes OCR technology for text conversion and employs machine translation algorithms for Sinhala-to-Tamil translation.",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/"
+    },
+    "e17-4yp-S2TPVFormer": {
+        "title": "S2TPVFormer",
+        "description": "[AAAI Workshop 2025] Official repository of the paper titled 'S2TPVFormer: Improving 3D Semantic Occupancy Prediction using Spatiotemporal Transformers'",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/S2TPVFormer/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-S2TPVFormer",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-S2TPVFormer",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/S2TPVFormer/"
+    },
+    "e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry": {
+        "title": "Virtual Patient Simulator for Skill Training in Dentistry",
+        "description": "",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
+    },
+    "e17-4yp-develop-a-programming-and-compiler-toolchain-for-multi-agent-systems": {
+        "title": "develop a programming and compiler toolchain for multi agent systems",
         "description": "The aim is to design an Integrated Development Environment to build software for multi-agent systems. The IDE shall provide facilities to compose algorithms at a high-level (ideally in a visual manner), and compile them over multiple stages into binaries and program the hardware over-the-air (OTA).",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/develop-a-programming-and-compiler-toolchain-for-multi-agent-systems-1/",
-        "repo_url": "https://github.com/cepdnaclk/e17-4yp-develop-a-programming-and-compiler-toolchain-for-multi-agent-systems-1",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/develop-a-programming-and-compiler-toolchain-for-multi-agent-systems-1/"
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/develop-a-programming-and-compiler-toolchain-for-multi-agent-systems/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-develop-a-programming-and-compiler-toolchain-for-multi-agent-systems",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-develop-a-programming-and-compiler-toolchain-for-multi-agent-systems",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/develop-a-programming-and-compiler-toolchain-for-multi-agent-systems/"
+    },
+    "e17-4yp-flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements": {
+        "title": "flexible glove for real time tracking and analysis of hand and finger movements",
+        "description": "This research proposes a flexible glove embedded with 9-axis IMUs for real-time tracking and analysis of hand movements, revolutionizing remote training in various fields.",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements/"
+    },
+    "e17-4yp-network-anomaly-detection": {
+        "title": "network anomaly detection",
+        "description": "",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/network-anomaly-detection/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-network-anomaly-detection",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-network-anomaly-detection",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/network-anomaly-detection/"
+    },
+    "e17-4yp-novel-compression-methods-for-nanopore-raw-signal-data": {
+        "title": "novel compression methods for nanopore raw signal data",
+        "description": "Novel Compression Methods for Nanopore Raw Compression Data",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/novel-compression-methods-for-nanopore-raw-signal-data/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-novel-compression-methods-for-nanopore-raw-signal-data",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-novel-compression-methods-for-nanopore-raw-signal-data",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/novel-compression-methods-for-nanopore-raw-signal-data/"
+    },
+    "e17-4yp-os-initiated-cache-switching-to-minimize-performance-loss-in-context-switches": {
+        "title": "os initiated cache switching to minimize performance loss in context switches",
+        "description": "OS-initiated cache switching to minimize performance loss in context switches",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/os-initiated-cache-switching-to-minimize-performance-loss-in-context-switches/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-os-initiated-cache-switching-to-minimize-performance-loss-in-context-switches",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-os-initiated-cache-switching-to-minimize-performance-loss-in-context-switches",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/os-initiated-cache-switching-to-minimize-performance-loss-in-context-switches/"
+    },
+    "e17-4yp-using-machine-learning-in-high-stake-settings": {
+        "title": "using machine learning in high stake settings",
+        "description": "Explainability becomes crucial in most real-world settings where ML models are used to make decisions. ML models taking decisions in these settings require to have their decisions explained to identify possible existing biases, proof of non-discrimination, to identify counterfactuals, and due to safety concerns.",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/using-machine-learning-in-high-stake-settings/",
+        "repo_url": "https://github.com/cepdnaclk/e17-4yp-using-machine-learning-in-high-stake-settings",
+        "page_url": "https://cepdnaclk.github.io/e17-4yp-using-machine-learning-in-high-stake-settings",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/using-machine-learning-in-high-stake-settings/"
     }
 }
