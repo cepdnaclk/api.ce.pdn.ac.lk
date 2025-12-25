@@ -8465,7 +8465,7 @@
         "repo_url": "https://github.com/cepdnaclk/e20-3yp-Green-House-Automation",
         "page_url": "https://cepdnaclk.github.io/e20-3yp-Green-House-Automation",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Green-House-Automation/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Green-House-Automation/data/thumbnail.jpg",
         "team": {
             "E/20/416": {
                 "name": "Vithushan E.T.L.",
@@ -8524,7 +8524,11 @@
                 "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
                 "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
             }
-        }
+        },
+        "tags": [
+            "IOT",
+            "Cloud"
+        ]
     },
     "e20-3yp-MediFlow": {
         "title": "MediFlow",
@@ -21354,7 +21358,7 @@
     },
     "e20-4yp-Optimizing-Communication-Efficiency-and-Latency-in-Blockchain-Enabled-FL-Systems": {
         "title": "Optimizing Communication Efficiency and Latency in Blockchain Enabled FL Systems",
-        "description": "An advanced cybersecurity framework where explainable AI (XAI) models are trained via federated learning across distributed nodes to detect threats in Wi-Fi 7 and 6G networks. Blockchain ensures secure, transparent sharing of threat intelligence and model updates, enhancing trust and integrity.",
+        "description": "A blockchain-enabled federated learning framework that enhances the original LiteChain architecture by minimizing communication overhead and reducing end-to-end latency.",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
