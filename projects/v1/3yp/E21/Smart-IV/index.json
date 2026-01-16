@@ -1,0 +1,88 @@
+{
+    "title": "Smart IV",
+    "description": "Automates standard gravity IVs with precise closed-loop stepper motor control. Features real-time drop counting, predictive volume estimation, and IoT connectivity for affordable, high-safety infusion monitoring.",
+    "category": {
+        "title": "Cyber-Physical Systems Projects",
+        "code": "3yp",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Smart-IV/",
+    "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-IV",
+    "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-IV",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-IV/",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+    "team": {
+        "E/21/206": {
+            "name": "Paarkavi Jeyatheeswaran",
+            "email": "e21206@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Paarkavi29",
+            "linkedin": "https://www.linkedin.com/in/paarkavi-jeyatheeswaran-ab8541321/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/206",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21206.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/206/"
+        },
+        "E/21/283": {
+            "name": "Pavindran Velalagan",
+            "email": "e21283@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/pavindranvelalagan",
+            "linkedin": "https://www.linkedin.com/in/pavindran-velalagan-404646214",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/283",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21283.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/283/"
+        },
+        "E/21/375": {
+            "name": "Shagiththiah Kirupakaran",
+            "email": "e21375@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Shagiththiah",
+            "linkedin": "www.linkedin.com/in/shagiththiah-kirupakaran-608457254",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/375",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21375.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/375/"
+        },
+        "E/21/395": {
+            "name": "Suthail A.L.M.",
+            "email": "e21395@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/395",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21395.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/395/"
+        }
+    },
+    "supervisors": {
+        "yasodhav@eng.pdn.ac.lk": {
+            "name": "Ms. Yasodha Vimukthi",
+            "email": "yasodhav@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+            "researchgate": "#",
+            "google_scholar": "#"
+        },
+        "isurunawinne@eng.pdn.ac.lk": {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/isuru-nawinne.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+            "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+        }
+    },
+    "tags": [
+        "Web",
+        "Embedded Systems"
+    ]
+}
