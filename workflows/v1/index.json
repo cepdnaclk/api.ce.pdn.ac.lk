@@ -57,7 +57,7 @@
             "html": "https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/blob/main/.github/workflows/dynamic-data.yml",
             "badge": "https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/workflows/Collect%20Dynamic%20Data/badge.svg"
         },
-        "status": "FAILLING"
+        "status": "PASS"
     },
     {
         "id": 5667817,
@@ -69,7 +69,7 @@
             "html": "https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/blob/main/.github/workflows/scheduled-deploy.yml",
             "badge": "https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/workflows/Build%20and%20Deploy/badge.svg"
         },
-        "status": "FAILLING"
+        "status": "PASS"
     },
     {
         "id": 16453017,
@@ -108,18 +108,6 @@
         "status": "PASS"
     },
     {
-        "id": 32238210,
-        "repository": "people.ce.pdn.ac.lk",
-        "name": ".github/workflows/test.yml",
-        "state": "active",
-        "urls": {
-            "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/32238210",
-            "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/.github/workflows/test.yml",
-            "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/workflows/.github/workflows/test.yml/badge.svg"
-        },
-        "status": "FAILLING"
-    },
-    {
         "id": 64395976,
         "repository": "people.ce.pdn.ac.lk",
         "name": "Weekly Updates",
@@ -130,6 +118,18 @@
             "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/workflows/Weekly%20Updates/badge.svg"
         },
         "status": "PASS"
+    },
+    {
+        "id": 32238210,
+        "repository": "people.ce.pdn.ac.lk",
+        "name": ".github/workflows/test.yml",
+        "state": "disabled_manually",
+        "urls": {
+            "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/32238210",
+            "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/.github/workflows/test.yml",
+            "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/workflows/.github/workflows/test.yml/badge.svg"
+        },
+        "status": "FAILLING"
     },
     {
         "id": 30876798,
