@@ -3621,7 +3621,7 @@
                 "email": "e19205@eng.pdn.ac.lk",
                 "website": "",
                 "github": "https://github.com/SahanNimantha99",
-                "linkedin": "https://www.linkedin.com/in/sahan-nimantha-54424a222/",
+                "linkedin": "https://www.linkedin.com/in/sahan-nimantha-1523622a7/",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/205",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19205.jpg",
@@ -14651,7 +14651,7 @@
                 "email": "e19205@eng.pdn.ac.lk",
                 "website": "",
                 "github": "https://github.com/SahanNimantha99",
-                "linkedin": "https://www.linkedin.com/in/sahan-nimantha-54424a222/",
+                "linkedin": "https://www.linkedin.com/in/sahan-nimantha-1523622a7/",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/205",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19205.jpg",
@@ -15449,6 +15449,93 @@
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/eHealth-Application-to-Detect-IHD-Using-ECG/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
     },
+    "e20-4yp-metagenomics": {
+        "title": "metagenomics",
+        "description": "Comparative evaluation of 8 DR methods (PCA, PCoA, MDS, t-SNE, UMAP, PaCMAP, PHATE, SONG) and graph neural network clustering across human, soil, and marine metagenomic datasets. Addresses key challenges: 90-99% sparsity, compositionality, phylogenetic structure preservation.",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/metagenomics/",
+        "repo_url": "https://github.com/cepdnaclk/e20-4yp-metagenomics",
+        "page_url": "https://cepdnaclk.github.io/e20-4yp-metagenomics",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/metagenomics/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "team": {
+            "E/20/158": {
+                "name": "Jananga T.G.C.",
+                "email": "e20158@eng.pdn.ac.lk",
+                "website": "https://www.thecn.com/EJ456",
+                "github": "https://github.com/tgcjananga",
+                "linkedin": "https://www.linkedin.com/in/chamuditha-jananga-18bb2a277",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/158",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20158.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/158/"
+            },
+            "E/20/300": {
+                "name": "Prasadinie H.A.M.T",
+                "email": "e20300@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "https://www.linkedin.com/in/h-a-m-t-prasadinie-29a13a261?trk=blended-typeahead",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/300",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20300.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/300/"
+            },
+            "E/20/244": {
+                "name": "Malshan P.G.P.",
+                "email": "e20244@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/244",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20244.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/244/"
+            }
+        },
+        "supervisors": {
+            "damayanthiherath@eng.pdn.ac.lk": {
+                "name": "Dr. Damayanthi Herath",
+                "email": "damayanthiherath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/damayanthi-herath.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/damayanthiherath",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/damayanthi-herath/",
+                "researchgate": "https://www.researchgate.net/profile/Damayanthi-Herath",
+                "google_scholar": "https://scholar.google.com/citations?user=G2jUV5IAAAAJ&hl=en"
+            },
+            "rajith.v@unimelb.edu.au": {
+                "name": "Dr. Rajith Vidanaarachchi",
+                "email": "rajith.v@unimelb.edu.au",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            },
+            "vijini.mallawaarachchi@flinders.edu.au": {
+                "name": "Dr. Vijini Mallawaarachchi",
+                "email": "vijini.mallawaarachchi@flinders.edu.au",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Final Year Projects"
+        ]
+    },
     "e20-4yp-symbolic-music-generation-with-xLSTM": {
         "title": "symbolic music generation with xLSTM",
         "description": "",
@@ -15467,6 +15554,20 @@
         "tags": [
             "Final Year Projects"
         ]
+    },
+    "e20-4yp-syn-car-mri-gen": {
+        "title": "syn car mri gen",
+        "description": "Synthetic Cardiac MRI Image Generation using Deep Generative Models",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/syn-car-mri-gen/",
+        "repo_url": "https://github.com/cepdnaclk/e20-4yp-syn-car-mri-gen",
+        "page_url": "https://cepdnaclk.github.io/e20-4yp-syn-car-mri-gen",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/syn-car-mri-gen/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
     },
     "e20-4yp-voice-enabled-llm-agentic-construction-scheduler": {
         "title": "voice enabled llm agentic construction scheduler",
@@ -23857,7 +23958,7 @@
                 "email": "e19205@eng.pdn.ac.lk",
                 "website": "",
                 "github": "https://github.com/SahanNimantha99",
-                "linkedin": "https://www.linkedin.com/in/sahan-nimantha-54424a222/",
+                "linkedin": "https://www.linkedin.com/in/sahan-nimantha-1523622a7/",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/205",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19205.jpg",
@@ -31912,7 +32013,7 @@
                 "email": "e19205@eng.pdn.ac.lk",
                 "website": "",
                 "github": "https://github.com/SahanNimantha99",
-                "linkedin": "https://www.linkedin.com/in/sahan-nimantha-54424a222/",
+                "linkedin": "https://www.linkedin.com/in/sahan-nimantha-1523622a7/",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/205",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19205.jpg",
@@ -33124,7 +33225,7 @@
                 "email": "e19205@eng.pdn.ac.lk",
                 "website": "",
                 "github": "https://github.com/SahanNimantha99",
-                "linkedin": "https://www.linkedin.com/in/sahan-nimantha-54424a222/",
+                "linkedin": "https://www.linkedin.com/in/sahan-nimantha-1523622a7/",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/205",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19205.jpg",
