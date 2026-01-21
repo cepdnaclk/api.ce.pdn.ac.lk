@@ -7552,24 +7552,36 @@
         "abstract": "This paper investigates the use of DRL-driven digital twins in digit trading. The proposed system used a Deep Q-Network (DQN) agent to predict market digit values. The simulated digital twin optimized the trading strategies using loss filtering algorithms. The DQN agent demonstrated effective prediction results, closely tracking market dynamics and outperforming the random prediction baseline for trading operations. This system\u00e2\u0080\u0099s critical features were dynamic position sizing and rebalancing mechanisms designed for digit trading. The research highlighted the potential of DRL-driven digital twins in enhancing trading performance by mitigating risks and increasing the rate of return with risk tolerance through loss-filtering operations. Future directions involve developing specialized agents for specific prediction tasks and exploring multi-agent RL digit trading systems. The findings emphasized the advancements that DRL-driven digital twins can bring to financial market strategies, positioning them as valuable tools for achieving consistent and optimized trading performance.",
         "authors": [
             "Ishta H. Jayakody",
-            "Mahela Bandara & Asitha U. Bandaranayake"
+            "Mahela Bandara",
+            "Asitha U. Bandaranayake"
         ],
         "author_info": [
             {
                 "name": "Ishta H. Jayakody",
-                "type": "UNDETERMINED",
-                "id": "asithab",
-                "email": "",
-                "profile_image": "#",
-                "profile_url": "#"
+                "profile": "https://people.ce.pdn.ac.lk/students/e18/149/",
+                "type": "STUDENT",
+                "id": "E/18/149",
+                "email": "e18149@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18149.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/149/"
             },
             {
-                "name": "Mahela Bandara & Asitha U. Bandaranayake",
-                "type": "UNDETERMINED",
+                "name": "Mahela Bandara",
+                "profile": "https://people.ce.pdn.ac.lk/students/e18/036/",
+                "type": "STUDENT",
+                "id": "E/18/036",
+                "email": "e18036@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18036.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/036/"
+            },
+            {
+                "name": "Asitha U. Bandaranayake",
+                "profile": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/",
+                "type": "STAFF",
                 "id": "asithab",
-                "email": "",
-                "profile_image": "#",
-                "profile_url": "#"
+                "email": "asithab@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/asitha-bandaranayake.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/"
             }
         ],
         "doi": "https://doi.org/10.1007/978-3-031-89813-6_9",
