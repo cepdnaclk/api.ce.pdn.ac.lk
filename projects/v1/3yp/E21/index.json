@@ -12,17 +12,30 @@
         "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-IV",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-IV/"
     },
-    "e21-3yp-manikin-auscultation-overlay": {
-        "title": "manikin auscultation overlay",
+    "e21-3yp-Smart-Laser-Distance-Meter": {
+        "title": "Smart Laser Distance Meter",
+        "description": "A smart laser distance meter that combines LiDAR and IMU sensing to provide high-accuracy measurements, automatic area and volume calculations, and real-time 2D floor plan generation. The system uses an ESP32 and a mobile app for visualization, storage, and export.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Smart-Laser-Distance-Meter/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-Laser-Distance-Meter",
+        "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Laser-Distance-Meter",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-Laser-Distance-Meter/"
+    },
+    "e21-3yp-manikin-auscultation": {
+        "title": "manikin auscultation",
         "description": "",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/manikin-auscultation-overlay/",
-        "repo_url": "https://github.com/cepdnaclk/e21-3yp-manikin-auscultation-overlay",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/manikin-auscultation-overlay/"
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/manikin-auscultation/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-manikin-auscultation",
+        "page_url": "https://cepdnaclk.github.io/e21-3yp-manikin-auscultation",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/manikin-auscultation/"
     }
 }
