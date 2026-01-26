@@ -1,4 +1,30 @@
 {
+    "e21-3yp-RAID": {
+        "title": "RAID",
+        "description": "This autonomous IoT robot modernizes railway safety by detecting track cracks in real-time. Equipped with IR and ultrasonic sensors, it identifies defects and captures GPS-tagged images via an onboard camera. Alerts are instantly sent to a cloud dashboard, enabling proactive, risk-free maintenance.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RAID/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-RAID",
+        "page_url": "https://cepdnaclk.github.io/e21-3yp-RAID",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RAID/"
+    },
+    "e21-3yp-RouteLK": {
+        "title": "RouteLK",
+        "description": "Smart Bus Tracking & Passenger Assistance App. https://cepdnaclk.github.io/e21-3yp-RouteLK",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RouteLK/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-RouteLK",
+        "page_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RouteLK/"
+    },
     "e21-3yp-Smart-IV": {
         "title": "Smart IV",
         "description": "Automates standard gravity IVs with precise closed-loop stepper motor control. Features real-time drop counting, predictive volume estimation, and IoT connectivity for affordable, high-safety infusion monitoring.",
@@ -37,5 +63,18 @@
         "repo_url": "https://github.com/cepdnaclk/e21-3yp-manikin-auscultation",
         "page_url": "https://cepdnaclk.github.io/e21-3yp-manikin-auscultation",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/manikin-auscultation/"
+    },
+    "e21-3yp-smart-traffic-control-system": {
+        "title": "smart traffic control system",
+        "description": "HYDRA- Smart Traffic Light Control System",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/smart-traffic-control-system/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-smart-traffic-control-system",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/smart-traffic-control-system/"
     }
 }

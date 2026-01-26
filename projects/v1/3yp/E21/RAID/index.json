@@ -1,0 +1,77 @@
+{
+    "title": "RAID",
+    "description": "This autonomous IoT robot modernizes railway safety by detecting track cracks in real-time. Equipped with IR and ultrasonic sensors, it identifies defects and captures GPS-tagged images via an onboard camera. Alerts are instantly sent to a cloud dashboard, enabling proactive, risk-free maintenance.",
+    "category": {
+        "title": "Cyber-Physical Systems Projects",
+        "code": "3yp",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RAID/",
+    "repo_url": "https://github.com/cepdnaclk/e21-3yp-RAID",
+    "page_url": "https://cepdnaclk.github.io/e21-3yp-RAID",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RAID/",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+    "team": {
+        "E/21/096": {
+            "name": "Chamodi Dikela",
+            "email": "e21096@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Chamodi485",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/096",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21096.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/096/"
+        },
+        "E/21/127": {
+            "name": "Navoda Erandi",
+            "email": "e21127@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/127",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21127.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/127/"
+        },
+        "E/21/140": {
+            "name": "Suvini Fonseka",
+            "email": "e21140@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/140",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21140.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/140/"
+        },
+        "E/21/363": {
+            "name": "Tharushi Savindi",
+            "email": "e21363@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Tharushi-02",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/363",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21363.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/363/"
+        }
+    },
+    "supervisors": {
+        "yasodhav@eng.pdn.ac.lk": {
+            "name": "Ms. Yasodha Vimukthi",
+            "email": "yasodhav@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Web",
+        "Embedded Systems"
+    ]
+}
