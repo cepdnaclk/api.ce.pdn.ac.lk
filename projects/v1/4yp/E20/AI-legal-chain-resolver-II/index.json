@@ -1,0 +1,67 @@
+{
+    "title": "AI legal chain resolver II",
+    "description": "This project is an AI based legal reasoning system specifically designed for Sri Lankan law in the Sinhala language. It integrates Sinhala focused Retrieval-Augmented Generation (RAG), a Knowledge Graph , and a Multi Agent System to process laws, court judgments, and legal documents written in Sinhala.",
+    "category": {
+        "title": "Undergraduate Research Projects",
+        "code": "4yp",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/AI-legal-chain-resolver-II/",
+    "repo_url": "https://github.com/cepdnaclk/e20-4yp-AI-legal-chain-resolver-II",
+    "page_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/AI-legal-chain-resolver-II/",
+    "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II/data/thumbnail.jpg",
+    "team": {
+        "E/20/248": {
+            "name": "Mapagedara T.L.B",
+            "email": "e20248@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Tharindu09",
+            "linkedin": "https://www.linkedin.com/in/tharindu-mapagedara-6119572a0/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/248",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20248.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/248/"
+        },
+        "E/20/453": {
+            "name": "Yogesh R.J",
+            "email": "e20453@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/janithyogesh",
+            "linkedin": "https://www.linkedin.com/in/janith-rathuge-6242a7260",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/453",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20453.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/453/"
+        }
+    },
+    "supervisors": {
+        "damayanthiherath@eng.pdn.ac.lk": {
+            "name": "Dr. Damayanthi Herath",
+            "email": "damayanthiherath@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/damayanthi-herath.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/damayanthiherath",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/damayanthi-herath/",
+            "researchgate": "https://www.researchgate.net/profile/Damayanthi-Herath",
+            "google_scholar": "https://scholar.google.com/citations?user=G2jUV5IAAAAJ&hl=en"
+        },
+        "yasodhav@eng.pdn.ac.lk": {
+            "name": "Ms. Yasodha Vimukthi",
+            "email": "yasodhav@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Final Year Projects",
+        "MultiAgentSystem",
+        "AI"
+    ]
+}
