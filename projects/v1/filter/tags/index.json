@@ -3951,6 +3951,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RouteLK/"
         },
         {
+            "title": "SlideSense Project",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SlideSense-Project/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-SlideSense-Project",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-SlideSense-Project",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SlideSense-Project/"
+        },
+        {
             "title": "Smart IV",
             "category": {
                 "code": "3yp",
@@ -6153,19 +6166,6 @@
     ],
     "Flutter": [
         {
-            "title": "ML For Structural Health Monitoring",
-            "category": {
-                "code": "6sp",
-                "title": "Sixth Semester Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/ML-For-Structural-Health-Monitoring/",
-            "repo_url": "https://github.com/cepdnaclk/e18-6sp-ML-For-Structural-Health-Monitoring",
-            "page_url": "https://cepdnaclk.github.io/e18-6sp-ML-For-Structural-Health-Monitoring",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-For-Structural-Health-Monitoring/"
-        },
-        {
             "title": "Poultry Feed Efficiency Tracking System Group 17",
             "category": {
                 "code": "co227",
@@ -8078,19 +8078,6 @@
             "page_url": "https://cepdnaclk.github.io/e18-6sp-Handwritten-Essay-Marking-Software",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Handwritten-Essay-Marking-Software/"
-        },
-        {
-            "title": "ML For Structural Health Monitoring",
-            "category": {
-                "code": "6sp",
-                "title": "Sixth Semester Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/ML-For-Structural-Health-Monitoring/",
-            "repo_url": "https://github.com/cepdnaclk/e18-6sp-ML-For-Structural-Health-Monitoring",
-            "page_url": "https://cepdnaclk.github.io/e18-6sp-ML-For-Structural-Health-Monitoring",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-For-Structural-Health-Monitoring/"
         },
         {
             "title": "ML for Analyzing Egg Hatching",
@@ -11683,21 +11670,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/TecHub-help-desk-ticketing-system/"
         }
     ],
-    "TensorFlow": [
-        {
-            "title": "ML For Structural Health Monitoring",
-            "category": {
-                "code": "6sp",
-                "title": "Sixth Semester Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/ML-For-Structural-Health-Monitoring/",
-            "repo_url": "https://github.com/cepdnaclk/e18-6sp-ML-For-Structural-Health-Monitoring",
-            "page_url": "https://cepdnaclk.github.io/e18-6sp-ML-For-Structural-Health-Monitoring",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-For-Structural-Health-Monitoring/"
-        }
-    ],
     "Text Mining": [
         {
             "title": "Document Tag Generator",
@@ -13526,6 +13498,19 @@
             "page_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RouteLK/"
+        },
+        {
+            "title": "SlideSense Project",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SlideSense-Project/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-SlideSense-Project",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-SlideSense-Project",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SlideSense-Project/"
         },
         {
             "title": "Smart IV",
