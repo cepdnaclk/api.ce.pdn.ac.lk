@@ -1,0 +1,17 @@
+{
+    "code": "co2060",
+    "title": "Software Systems Design Project (CO2060)",
+    "description": "Software Systems Design Project is a structured project experience that enables students to design and develop a complete software system. It emphasizes applying fundamental software engineering principles through hands-on work.",
+    "thumb": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+    "type": "COURSE",
+    "batches": {
+        "E22": {
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/",
+            "project_count": 2
+        },
+        "E23": {
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/",
+            "project_count": 2
+        }
+    }
+}

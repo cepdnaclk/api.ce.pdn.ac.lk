@@ -1,0 +1,89 @@
+{
+    "title": "MPhil PhD Lifecycle Management System",
+    "description": "The MPhil & PhD Lifecycle Management System is a centralized web platform to track postgraduate students from registration to thesis submission. It supports supervision, progress reviews, ethics approvals, document management, dashboards, and automated reminders, improving transparency, compliance, and administrative efficiency at faculty level.",
+    "category": {
+        "title": "Software Systems Design Project (CO2060)",
+        "code": "co2060",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/MPhil-PhD-Lifecycle-Management-System/",
+    "repo_url": "https://github.com/cepdnaclk/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
+    "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+    "team": {
+        "E/23/442": {
+            "name": "D.K.G.P.C.B. Wijerathne",
+            "email": "e23442@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/pasan3251",
+            "linkedin": "https://www.linkedin.com/in/pasan-wijerathne-857442371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/442",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23442.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e23/442/"
+        },
+        "E/23/178": {
+            "name": "S.N.R. Kodituwakku",
+            "email": "e23178@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/sandun-kodi",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/178",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23178.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e23/178/"
+        },
+        "E/23/118": {
+            "name": "D.A.A. Gunawardana",
+            "email": "e23118@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Aravinda-04",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/118",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23118.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e23/118/"
+        },
+        "E/23/023": {
+            "name": "M.N.P.V. Aththanayake",
+            "email": "e23023@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Prabhasara-Vidulanka",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/023",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23023.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e23/023/"
+        }
+    },
+    "supervisors": {
+        "upuljm@eng.pdn.ac.lk": {
+            "name": "Dr. Upul Jayasinghe",
+            "email": "upuljm@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul-jayasinghe/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/upul-jayasinghe.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/upuljm",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/upuljm/",
+            "researchgate": "https://www.researchgate.net/profile/Upul-Jayasinghe",
+            "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
+        },
+        "e21005@eng.pdn.ac.lk": {
+            "name": "Shehan Dewnith",
+            "email": "e21005@eng.pdn.ac.lk",
+            "profile_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "api_url": "#",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Web",
+        "Software Systems",
+        "CO2060"
+    ]
+}

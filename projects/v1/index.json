@@ -15,6 +15,14 @@
         "page_url": "https://projects.ce.pdn.ac.lk/4yp/",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
     },
+    "co542": {
+        "code": "co542",
+        "title": "Neural Networks Projects (CO542)",
+        "description": "This section contains projects conducted as a partial requirement to complete the course CO542 - Neural Networks and Fuzzy Systems",
+        "type": "COURSE",
+        "page_url": "https://projects.ce.pdn.ac.lk/co542/",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+    },
     "co543": {
         "code": "co543",
         "title": "Image Processing Projects (CO543)",
@@ -38,6 +46,14 @@
         "type": "GENERAL",
         "page_url": "https://projects.ce.pdn.ac.lk/6sp/",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+    },
+    "co2060": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "description": "Software Systems Design Project is a structured project experience that enables students to design and develop a complete software system. It emphasizes applying fundamental software engineering principles through hands-on work.",
+        "type": "COURSE",
+        "page_url": "https://projects.ce.pdn.ac.lk/co2060/",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
     },
     "co225": {
         "code": "co225",
@@ -86,13 +102,5 @@
         "type": "COURSE",
         "page_url": "https://projects.ce.pdn.ac.lk/co502/",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
-    },
-    "co542": {
-        "code": "co542",
-        "title": "Neural Networks Projects (CO542)",
-        "description": "This section contains projects conducted as a partial requirement to complete the course CO542 - Neural Networks and Fuzzy Systems",
-        "type": "COURSE",
-        "page_url": "https://projects.ce.pdn.ac.lk/co542/",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
     }
 }
