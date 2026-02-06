@@ -1,4 +1,17 @@
 {
+    "e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis": {
+        "title": "Crop Yield Optimization and Intelligent Plant Disease Analysis",
+        "description": "This project is an integrated agricultural solution and platform consisting of an agricultural subsidy management system based on crop yield and an AI-driven plant disease scanner.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis",
+        "page_url": "https://cepdnaclk.github.io/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/"
+    },
     "e22-co2060-MediTriage": {
         "title": "MediTriage",
         "description": "",
@@ -12,6 +25,19 @@
         "page_url": "https://cepdnaclk.github.io/e22-co2060-MediTriage",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MediTriage/"
     },
+    "e22-co2060-MyStay-Boarding-Platform": {
+        "title": "MyStay Boarding Platform",
+        "description": "MyStay is a responsive boarding place finder system developed as a web application to connect landlords and tenants. The system supports listing management, location-based search, and secure user authentication while following modern UI/UX and software engineering best practices.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/MyStay-Boarding-Platform/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co2060-MyStay-Boarding-Platform",
+        "page_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MyStay-Boarding-Platform/"
+    },
     "e22-co2060-NagroMS": {
         "title": "NagroMS",
         "description": "NagroMS is a vendor-free digital platform connecting Sri Lankan farmers with consumers, experts, and services, providing trading, guidance, and weather insights to improve profits and support sustainable agriculture.",
@@ -24,5 +50,44 @@
         "repo_url": "https://github.com/cepdnaclk/e22-co2060-NagroMS",
         "page_url": "https://cepdnaclk.github.io/e22-co2060-NagroMS",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/NagroMS/"
+    },
+    "e22-co2060-OrthoPAR-Web-Platform": {
+        "title": "OrthoPAR Web Platform",
+        "description": "A clinician friendly web system for automated PAR Index calculation with integrated MLOps and secure patient data handling",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/OrthoPAR-Web-Platform/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co2060-OrthoPAR-Web-Platform",
+        "page_url": "https://cepdnaclk.github.io/e22-co2060-OrthoPAR-Web-Platform",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/OrthoPAR-Web-Platform/"
+    },
+    "e22-co2060-PearlPath": {
+        "title": "PearlPath",
+        "description": "A centralized platform connecting hotels across Sri Lanka. Users can search hotels, view locations on interactive maps, explore nearby attractions, book stays, and hire local tour guides. Built using React.js, Node.js/Django, MySQL/MongoDB, and Google Maps API.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/PearlPath/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co2060-PearlPath",
+        "page_url": "https://cepdnaclk.github.io/e22-co2060-PearlPath",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PearlPath/"
+    },
+    "e22-co2060-Web_Based_PAR_Index_System": {
+        "title": "Web_Based_PAR_Index_System",
+        "description": "The Peer Assessment Rating (PAR) Index quantifies malocclusion severity in orthodontics. This project develops a web-based software system that integrates machine-learning-based orthodontic landmark detection on 3D dental models to automate PAR Index computation, focusing on scalability, reliability, and clinical usability.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Web_Based_PAR_Index_System/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co2060-Web_Based_PAR_Index_System",
+        "page_url": "https://cepdnaclk.github.io/e22-co2060-Web_Based_PAR_Index_System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Web_Based_PAR_Index_System/"
     }
 }

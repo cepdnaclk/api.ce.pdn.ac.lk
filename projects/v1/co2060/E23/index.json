@@ -1,4 +1,17 @@
 {
+    "e23-co2060-Alumnet": {
+        "title": "Alumnet",
+        "description": "Alumnet is a university-focused alumni\u2013student engagement platform.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Alumnet/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co2060-Alumnet",
+        "page_url": "https://cepdnaclk.github.io/e23-co2060-Alumnet",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Alumnet/"
+    },
     "e23-co2060-Computer-vision-and-AI-lab-system": {
         "title": "Computer vision and AI lab system",
         "description": "A unified web platform designed for the Computer Vision & AI Lab, integrating a public research portfolio with a robust internal management system for streamlining equipment bookings and GPU resource scheduling.",
@@ -12,6 +25,19 @@
         "page_url": "https://cepdnaclk.github.io/e23-co2060-Computer-vision-and-AI-lab-system",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Computer-vision-and-AI-lab-system/"
     },
+    "e23-co2060-FindIT": {
+        "title": "FindIT",
+        "description": "Losing valuables like keys, wallets, or laptops is stressful on a busy campus. The Lost and Found Information System is a smart, privacy-first platform that connects people who\u2019ve lost items with those who\u2019ve found them using structured reports, intelligent matching, and secure gradual disclosure to prevent fraud and protect privacy.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/FindIT/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co2060-FindIT",
+        "page_url": "https://cepdnaclk.github.io/e23-co2060-FindIT",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/FindIT/"
+    },
     "e23-co2060-MPhil-PhD-Lifecycle-Management-System": {
         "title": "MPhil PhD Lifecycle Management System",
         "description": "The MPhil & PhD Lifecycle Management System is a centralized web platform to track postgraduate students from registration to thesis submission. It supports supervision, progress reviews, ethics approvals, document management, dashboards, and automated reminders, improving transparency, compliance, and administrative efficiency at faculty level.",
@@ -24,5 +50,31 @@
         "repo_url": "https://github.com/cepdnaclk/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
         "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
+    },
+    "e23-co2060-TransitPro": {
+        "title": "TransitPro",
+        "description": "TransitPro is a web-based transport and rental vehicle management system that improves travel planning and booking convenience. Users can view daily schedules, check routes, and book or rent vehicles based on real-time availability, seating capacity, and comfort options. An admin panel manages vehicles, routes, schedules, and bookings efficiently.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/TransitPro/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co2060-TransitPro",
+        "page_url": "https://cepdnaclk.github.io/e23-co2060-TransitPro",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/TransitPro/"
+    },
+    "e23-co2060-smart-tourism": {
+        "title": "smart tourism",
+        "description": "The Smart Tourism Management System reduces information fragmentation and trust issues in Sri Lanka\u2019s tourism industry through a centralized, user-controlled platform. Using a Human-in-the-Loop design with itinerary planning, verified guides, and community reviews, it ensures reliable and transparent travel planning.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/smart-tourism/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co2060-smart-tourism",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/smart-tourism/"
     }
 }
