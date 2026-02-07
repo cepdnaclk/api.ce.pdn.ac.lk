@@ -1,15 +1,15 @@
 {
-    "title": "SlideSense Project",
+    "title": "SlideSense",
     "description": "",
     "category": {
         "title": "Cyber-Physical Systems Projects",
         "code": "3yp",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
     },
-    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SlideSense-Project/",
-    "repo_url": "https://github.com/cepdnaclk/e21-3yp-SlideSense-Project",
-    "page_url": "https://cepdnaclk.github.io/e21-3yp-SlideSense-Project",
-    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SlideSense-Project/",
+    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SlideSense/",
+    "repo_url": "https://github.com/cepdnaclk/e21-3yp-SlideSense",
+    "page_url": "https://cepdnaclk.github.io/e21-3yp-SlideSense",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SlideSense/",
     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
     "team": {
         "E/21/087": {
@@ -57,9 +57,22 @@
             "profile_url": "https://people.ce.pdn.ac.lk/students/e21/452/"
         }
     },
-    "supervisors": {},
+    "supervisors": {
+        "yasodhav@eng.pdn.ac.lk": {
+            "name": "Ms. Yasodha Vimukthi",
+            "email": "yasodhav@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
     "tags": [
         "Web",
-        "Embedded Systems"
+        "Embedded Systems",
+        "IoT"
     ]
 }

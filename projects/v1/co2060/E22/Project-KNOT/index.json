@@ -1,0 +1,78 @@
+{
+    "title": "Project KNOT",
+    "description": "Project KNOT is a university resource and maintenance management system focused on lecture hall and lab booking. It helps manage club events, shared facilities, and campus issue reporting while improving scheduling, approvals, and maintenance tracking through a centralized platform.",
+    "category": {
+        "title": "Software Systems Design Project (CO2060)",
+        "code": "co2060",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Project-KNOT/",
+    "repo_url": "https://github.com/cepdnaclk/e22-co2060-Project-KNOT",
+    "page_url": "https://cepdnaclk.github.io/e22-co2060-Project-KNOT",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Project-KNOT/",
+    "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-Project-KNOT/data/thumbnail.jpg",
+    "team": {
+        "E/22/237": {
+            "name": "M. F. M. Minhaj Ali",
+            "email": "e22237@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/237",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22237.JPG",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/237/"
+        },
+        "E/22/366": {
+            "name": "M. D. S. Senanayake",
+            "email": "e22366@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/366",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22366.JPG",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/366/"
+        },
+        "E/22/280": {
+            "name": "H. C. V. Perera",
+            "email": "e22280@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/280",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22280.JPG",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/280/"
+        },
+        "E/22/443": {
+            "name": "W. M. E. N. Wijesinghe",
+            "email": "e22443@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/443",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22443.JPG",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/443/"
+        }
+    },
+    "supervisors": {
+        "roshanr@eng.pdn.ac.lk": {
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/roshan-ragel.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/roshanr",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/roshanragel/",
+            "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
+            "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
+        }
+    },
+    "tags": [
+        "Web",
+        "Software Systems",
+        "CO2060"
+    ]
+}

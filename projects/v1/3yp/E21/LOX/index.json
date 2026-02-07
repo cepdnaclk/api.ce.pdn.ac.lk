@@ -1,0 +1,88 @@
+{
+    "title": "LOX",
+    "description": "This project proposes a Smart Locker System integrated with a Mobile Application, allowing users to reserve, access, and manage lockers remotely.",
+    "category": {
+        "title": "Cyber-Physical Systems Projects",
+        "code": "3yp",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/LOX/",
+    "repo_url": "https://github.com/cepdnaclk/e21-3yp-LOX",
+    "page_url": "https://cepdnaclk.github.io/e21-3yp-LOX",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/LOX/",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+    "team": {
+        "E/21/005": {
+            "name": "Shehan Dewnith",
+            "email": "e21005@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/005",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21005.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/005/"
+        },
+        "E/21/045": {
+            "name": "Shane Baines",
+            "email": "e21045@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/045",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21045.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/045/"
+        },
+        "E/21/415": {
+            "name": "Chamika Uduwaka",
+            "email": "e21415@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Chamika-Uduwaka",
+            "linkedin": "https://www.linkedin.com/in/chamika-uduwaka-b62324331/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/415",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21415.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/415/"
+        },
+        "E/21/444": {
+            "name": "Deeshan Wijesinghe",
+            "email": "e21444@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Deeshannn",
+            "linkedin": "https://www.linkedin.com/in/deeshan-wijesinghe-491312373",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/444",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21444.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/444/"
+        }
+    },
+    "supervisors": {
+        "isurunawinne@eng.pdn.ac.lk": {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/isuru-nawinne.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+            "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+        },
+        "yasodhav@eng.pdn.ac.lk": {
+            "name": "Ms. Yasodha Vimukthi",
+            "email": "yasodhav@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Web",
+        "Embedded Systems"
+    ]
+}

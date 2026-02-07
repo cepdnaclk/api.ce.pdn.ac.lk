@@ -1,4 +1,17 @@
 {
+    "e22-co2060-AI-Smart-Assistant": {
+        "title": "AI Smart Assistant",
+        "description": "AI-based Smart Assistant for screen reading, automation, and AI guidance | Team: SENTINALS | University of Peradeniya | 2YP Project",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/AI-Smart-Assistant/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co2060-AI-Smart-Assistant",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/AI-Smart-Assistant/"
+    },
     "e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis": {
         "title": "Crop Yield Optimization and Intelligent Plant Disease Analysis",
         "description": "This project is an integrated agricultural solution and platform consisting of an agricultural subsidy management system based on crop yield and an AI-driven plant disease scanner.",
@@ -11,6 +24,19 @@
         "repo_url": "https://github.com/cepdnaclk/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis",
         "page_url": "https://cepdnaclk.github.io/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/"
+    },
+    "e22-co2060-DMS": {
+        "title": "DMS",
+        "description": "A comprehensive Debate Management System (DMS) designed to streamline competition organization, scoring, and team management.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/DMS/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co2060-DMS",
+        "page_url": "https://cepdnaclk.github.io/e22-co2060-DMS",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/DMS/"
     },
     "e22-co2060-MediTriage": {
         "title": "MediTriage",
@@ -64,6 +90,19 @@
         "page_url": "https://cepdnaclk.github.io/e22-co2060-OrthoPAR-Web-Platform",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/OrthoPAR-Web-Platform/"
     },
+    "e22-co2060-PERA-SAM": {
+        "title": "PERA SAM",
+        "description": "A ML-powered Sound Analysis Manger platform | Team: Invictus | Dept. of Computer Engineering, University of Peradeniya | (2Y) CO2060: Software System Project",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/PERA-SAM/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co2060-PERA-SAM",
+        "page_url": "https://cepdnaclk.github.io/e22-co2060-PERA-SAM",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PERA-SAM/"
+    },
     "e22-co2060-PearlPath": {
         "title": "PearlPath",
         "description": "A centralized platform connecting hotels across Sri Lanka. Users can search hotels, view locations on interactive maps, explore nearby attractions, book stays, and hire local tour guides. Built using React.js, Node.js/Django, MySQL/MongoDB, and Google Maps API.",
@@ -77,6 +116,58 @@
         "page_url": "https://cepdnaclk.github.io/e22-co2060-PearlPath",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PearlPath/"
     },
+    "e22-co2060-Project-KNOT": {
+        "title": "Project KNOT",
+        "description": "Project KNOT is a university resource and maintenance management system focused on lecture hall and lab booking. It helps manage club events, shared facilities, and campus issue reporting while improving scheduling, approvals, and maintenance tracking through a centralized platform.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Project-KNOT/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co2060-Project-KNOT",
+        "page_url": "https://cepdnaclk.github.io/e22-co2060-Project-KNOT",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Project-KNOT/"
+    },
+    "e22-co2060-Real-Time-Public-Bus-Tracking-System": {
+        "title": "Real Time Public Bus Tracking System",
+        "description": "A mobile-based system that displays real-time public bus locations on a map. Users can search buses by route number to check whether a bus is near or far. The project aims to improve transparency and reduce uncertainty in public transportation.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Real-Time-Public-Bus-Tracking-System/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co2060-Real-Time-Public-Bus-Tracking-System",
+        "page_url": "https://cepdnaclk.github.io/e22-co2060-Real-Time-Public-Bus-Tracking-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Real-Time-Public-Bus-Tracking-System/"
+    },
+    "e22-co2060-School-Van-Management-System": {
+        "title": "School Van Management System",
+        "description": "The School Van Management System is a management platform developed to streamline and organize school transportation services. It helps schools manage vans, drivers, routes, pickup/drop schedules, and student details in a structured and efficient way. The system reduces manual work, improves safety, and ensures reliable transportation for students.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/School-Van-Management-System/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co2060-School-Van-Management-System",
+        "page_url": "https://cepdnaclk.github.io/e22-co2060-School-Van-Management-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/School-Van-Management-System/"
+    },
+    "e22-co2060-Syncro": {
+        "title": "Syncro",
+        "description": "Syncro is a universal reverse-auction marketplace that connects buyers and sellers efficiently. Clients post structured requests, and verified sellers compete with transparent bids in real time. The platform supports dual-role users and focuses on smart matching, reduced search effort, and fair pricing.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Syncro/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co2060-Syncro",
+        "page_url": "https://cepdnaclk.github.io/e22-co2060-Syncro",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Syncro/"
+    },
     "e22-co2060-Web_Based_PAR_Index_System": {
         "title": "Web_Based_PAR_Index_System",
         "description": "The Peer Assessment Rating (PAR) Index quantifies malocclusion severity in orthodontics. This project develops a web-based software system that integrates machine-learning-based orthodontic landmark detection on 3D dental models to automate PAR Index computation, focusing on scalability, reliability, and clinical usability.",
@@ -89,5 +180,44 @@
         "repo_url": "https://github.com/cepdnaclk/e22-co2060-Web_Based_PAR_Index_System",
         "page_url": "https://cepdnaclk.github.io/e22-co2060-Web_Based_PAR_Index_System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Web_Based_PAR_Index_System/"
+    },
+    "e22-co2060-floodguard": {
+        "title": "floodguard",
+        "description": "Flood Early Warning System",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/floodguard/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co2060-floodguard",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/floodguard/"
+    },
+    "e22-co2060-hydro-risk-management": {
+        "title": "hydro risk management",
+        "description": "Integrated Hydrology Risk-Management System for the Mahaweli River basin. Features secure MQTT/HTTPS sensor ingestion, time-series storage, and a decision support dashboard. Includes APIs for AI water-level forecasting, real-time flood alerts, and automated reporting for disaster management.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/hydro-risk-management/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co2060-hydro-risk-management",
+        "page_url": "https://cepdnaclk.github.io/e22-co2060-hydro-risk-management",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/hydro-risk-management/"
+    },
+    "e22-co2060-travel-plan-assistant": {
+        "title": "travel plan assistant",
+        "description": "The Travel Assistant is an all-in-one digital companion designed to streamline trip planning. Developed as a Software Systems Design Project, it integrates itinerary management, real-time budget tracking, and route optimization into a single interface to eliminate the need for multiple apps.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/travel-plan-assistant/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co2060-travel-plan-assistant",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/travel-plan-assistant/"
     }
 }

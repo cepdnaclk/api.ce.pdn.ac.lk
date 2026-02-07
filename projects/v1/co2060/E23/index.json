@@ -1,7 +1,20 @@
 {
+    "e23-CO2060-Smart_Travel_Companion": {
+        "title": "Smart_Travel_Companion",
+        "description": "A mobile app that helps tourists plan trips in Sri Lanka with itineraries, attractions, transport, and accommodation guidance.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Smart_Travel_Companion/",
+        "repo_url": "https://github.com/cepdnaclk/e23-CO2060-Smart_Travel_Companion",
+        "page_url": "https://cepdnaclk.github.io/e23-CO2060-Smart_Travel_Companion",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Smart_Travel_Companion/"
+    },
     "e23-co2060-Alumnet": {
         "title": "Alumnet",
-        "description": "Alumnet is a university-focused alumni\u2013student engagement platform.",
+        "description": "A scalable, role-based platform for streamlining alumni-student mentorship and university event management. Built with React, Node.js and PostgreSQL for the CO2060 Software System Design Project.",
         "category": {
             "title": "Software Systems Design Project (CO2060)",
             "code": "co2060",
@@ -11,6 +24,19 @@
         "repo_url": "https://github.com/cepdnaclk/e23-co2060-Alumnet",
         "page_url": "https://cepdnaclk.github.io/e23-co2060-Alumnet",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Alumnet/"
+    },
+    "e23-co2060-Blood-Banking-Management-System": {
+        "title": "Blood Banking Management System",
+        "description": "",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Blood-Banking-Management-System/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co2060-Blood-Banking-Management-System",
+        "page_url": "https://cepdnaclk.github.io/e23-co2060-Blood-Banking-Management-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Blood-Banking-Management-System/"
     },
     "e23-co2060-Computer-vision-and-AI-lab-system": {
         "title": "Computer vision and AI lab system",
@@ -38,6 +64,32 @@
         "page_url": "https://cepdnaclk.github.io/e23-co2060-FindIT",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/FindIT/"
     },
+    "e23-co2060-Hotel-Management-System": {
+        "title": "Hotel Management System",
+        "description": "A MERN-stack Hotel Management System by NeonWizards designed to modernize Sri Lankan SMEs. It replaces manual processes with digital room service, smart food ordering, and guest reviews. Features include an interactive tourist guide for nearby shops and a social feed for guest engagement to improve service quality and customer trust.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Hotel-Management-System/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co2060-Hotel-Management-System",
+        "page_url": "https://cepdnaclk.github.io/e23-co2060-Hotel-Management-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Hotel-Management-System/"
+    },
+    "e23-co2060-Kitchen-Foods-Platform": {
+        "title": "Kitchen Foods Platform",
+        "description": "Kitchen Foods is a hyper-local digital food platform designed to connect verified home chefs with customers such as tourists, office workers, and nearby residents. The system aims to provide access to healthy, affordable, and authentic homemade meals while empowering skilled women by creating income-generating opportunities from their homes.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Kitchen-Foods-Platform/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co2060-Kitchen-Foods-Platform",
+        "page_url": "https://cepdnaclk.github.io/e23-co2060-Kitchen-Foods-Platform",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Kitchen-Foods-Platform/"
+    },
     "e23-co2060-MPhil-PhD-Lifecycle-Management-System": {
         "title": "MPhil PhD Lifecycle Management System",
         "description": "The MPhil & PhD Lifecycle Management System is a centralized web platform to track postgraduate students from registration to thesis submission. It supports supervision, progress reviews, ethics approvals, document management, dashboards, and automated reminders, improving transparency, compliance, and administrative efficiency at faculty level.",
@@ -50,6 +102,71 @@
         "repo_url": "https://github.com/cepdnaclk/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
         "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
+    },
+    "e23-co2060-Maathacare": {
+        "title": "Maathacare",
+        "description": "MaathaCare is a smart digital pregnancy support system designed to enhance Sri Lanka\u2019s public maternal healthcare services through technology. While the existing healthcare framework is strong, many processes remain manual and paper-based. This often results in missed clinic visits, irregular use of supplements and tracking high risk pregnancies.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Maathacare/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co2060-Maathacare",
+        "page_url": "https://cepdnaclk.github.io/e23-co2060-Maathacare",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Maathacare/"
+    },
+    "e23-co2060-NexClinic": {
+        "title": "NexClinic",
+        "description": "An AI based healthcare application that connects patients and doctors allowing secure login appointment management medical reminders and future AI assisted health support",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/NexClinic/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co2060-NexClinic",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/NexClinic/"
+    },
+    "e23-co2060-Orthodontics-Workflow-Automation-System": {
+        "title": "Orthodontics Workflow Automation System",
+        "description": "The Orthodontics Workflow Automation System (OWAS) is a web-based platform that replaces manual dental records with a secure digital hub. By centralizing patient history and images, it enables instant data retrieval and faster care. Its modular, scalable architecture ensures future-readiness for integration across the entire Dental Hospital.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Orthodontics-Workflow-Automation-System/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co2060-Orthodontics-Workflow-Automation-System",
+        "page_url": "https://cepdnaclk.github.io/e23-co2060-Orthodontics-Workflow-Automation-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Orthodontics-Workflow-Automation-System/"
+    },
+    "e23-co2060-PeraWave": {
+        "title": "PeraWave",
+        "description": "PeraWave is a centralized web application for university students to connect, discuss openly or anonymously, explore campus history and stay updated on events.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/PeraWave/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co2060-PeraWave",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/PeraWave/"
+    },
+    "e23-co2060-RoadAid": {
+        "title": "RoadAid",
+        "description": "RoadAid is a smart roadside assistance platform designed to provide fast and reliable help during vehicle-related emergencies. RoadAid supports multiple types of roadside issues, including vehicle breakdowns, tire punchers and out of fuel situations, all through a single unified platform.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/RoadAid/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co2060-RoadAid",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/RoadAid/"
     },
     "e23-co2060-TransitPro": {
         "title": "TransitPro",
@@ -64,6 +181,19 @@
         "page_url": "https://cepdnaclk.github.io/e23-co2060-TransitPro",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/TransitPro/"
     },
+    "e23-co2060-antigravity": {
+        "title": "antigravity",
+        "description": "This project develops a scalable and secure e-commerce web application featuring product browsing, cart management, secure payments, and an admin dashboard. It focuses on performance, usability, and reliability using modern software design principles.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/antigravity/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co2060-antigravity",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/antigravity/"
+    },
     "e23-co2060-smart-tourism": {
         "title": "smart tourism",
         "description": "The Smart Tourism Management System reduces information fragmentation and trust issues in Sri Lanka\u2019s tourism industry through a centralized, user-controlled platform. Using a Human-in-the-Loop design with itinerary planning, verified guides, and community reviews, it ensures reliable and transparent travel planning.",
@@ -76,5 +206,18 @@
         "repo_url": "https://github.com/cepdnaclk/e23-co2060-smart-tourism",
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/smart-tourism/"
+    },
+    "e23-co2060-stress-detection-and-analyzing-system": {
+        "title": "stress detection and analyzing system",
+        "description": "Our app detects and categorizes stress for undergraduates and early workers using the DASS questionnaire. Users are classified as mild, moderate, or severe. Mild users receive tools like music and journaling, while moderate and severe users are guided to professional mental health resources.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/stress-detection-and-analyzing-system/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co2060-stress-detection-and-analyzing-system",
+        "page_url": "https://cepdnaclk.github.io/e23-co2060-stress-detection-and-analyzing-system",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/stress-detection-and-analyzing-system/"
     }
 }

@@ -1,6 +1,6 @@
 {
     "title": "Alumnet",
-    "description": "Alumnet is a university-focused alumni\u2013student engagement platform.",
+    "description": "A scalable, role-based platform for streamlining alumni-student mentorship and university event management. Built with React, Node.js and PostgreSQL for the CO2060 Software System Design Project.",
     "category": {
         "title": "Software Systems Design Project (CO2060)",
         "code": "co2060",
@@ -11,11 +11,69 @@
     "page_url": "https://cepdnaclk.github.io/e23-co2060-Alumnet",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Alumnet/",
     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-    "team": {},
-    "supervisors": {},
+    "team": {
+        "E/23/435": {
+            "name": "E.S Wickramasinghe",
+            "email": "e23435@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/enurisw",
+            "linkedin": "https://www.linkedin.com/in/enuri-wickramasinghe-944129314/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/435",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23435.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e23/435/"
+        },
+        "E/23/362": {
+            "name": "S.N.V.N Senadheera",
+            "email": "e23362@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/362",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23362.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e23/362/"
+        },
+        "E/23/340": {
+            "name": "W.H.C.C Samarasinghe",
+            "email": "e23340@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/ChalindiChethana",
+            "linkedin": "www.linkedin.com/in/chalindisamarasinghe",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/340",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23340.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e23/340/"
+        },
+        "E/23/075": {
+            "name": "K.K Dilshara",
+            "email": "e23075@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/KavindiD",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/075",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23075.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e23/075/"
+        }
+    },
+    "supervisors": {
+        "e21077@eng.pdn.ac.lk": {
+            "name": "K.M.S Darshana",
+            "email": "e21077@eng.pdn.ac.lk",
+            "profile_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "api_url": "#",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
     "tags": [
-        "Web",
-        "Software Systems",
+        "React",
+        "Node.js",
+        "PostgreSQL",
         "CO2060"
     ]
 }

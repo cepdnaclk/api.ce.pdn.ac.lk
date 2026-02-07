@@ -8,7 +8,81 @@
     },
     "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RoadEye/",
     "repo_url": "https://github.com/cepdnaclk/e21-3yp-RoadEye",
-    "page_url": "#",
+    "page_url": "https://cepdnaclk.github.io/e21-3yp-RoadEye",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RoadEye/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+    "team": {
+        "E/21/019": {
+            "name": "Adikari A.M.H.S.",
+            "email": "e21019@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/cielo019",
+            "linkedin": "https://www.linkedin.com/in/hirushi-adikari/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/019",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21019.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/019/"
+        },
+        "E/21/371": {
+            "name": "Senawirathne D.M.W.J.I.",
+            "email": "e21371@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/371",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21371.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/371/"
+        },
+        "E/21/416": {
+            "name": "Uthpala J.A.S.",
+            "email": "e21416@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/416",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21416.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/416/"
+        },
+        "E/21/433": {
+            "name": "Wickramanayake N.S.",
+            "email": "e21433@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/433",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21433.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/433/"
+        }
+    },
+    "supervisors": {
+        "yasodhav@eng.pdn.ac.lk": {
+            "name": "Ms. Yasodha Vimukthi",
+            "email": "yasodhav@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+            "researchgate": "#",
+            "google_scholar": "#"
+        },
+        "isurunawinne@eng.pdn.ac.lk": {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/isuru-nawinne.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+            "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+        }
+    },
+    "tags": [
+        "Web",
+        "Embedded Systems"
+    ]
 }

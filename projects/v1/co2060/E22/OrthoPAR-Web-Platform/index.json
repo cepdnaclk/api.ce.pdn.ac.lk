@@ -10,5 +10,80 @@
     "repo_url": "https://github.com/cepdnaclk/e22-co2060-OrthoPAR-Web-Platform",
     "page_url": "https://cepdnaclk.github.io/e22-co2060-OrthoPAR-Web-Platform",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/OrthoPAR-Web-Platform/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+    "team": {
+        "E/22/151": {
+            "name": "M.I.M. Imaadh",
+            "email": "e22151@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/151",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22151.JPG",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/151/"
+        },
+        "E/22/060": {
+            "name": "R. DAKSHAYANI",
+            "email": "e22060@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/060",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22060.JPG",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/060/"
+        },
+        "E/22/405": {
+            "name": "D.A. Victor",
+            "email": "e22405@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/405",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22405.JPG",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/405/"
+        },
+        "E/22/056": {
+            "name": "P.G.D.D. Chandrawansha",
+            "email": "e22056@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/056",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22056.JPG",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/056/"
+        }
+    },
+    "supervisors": {
+        "asithab@eng.pdn.ac.lk": {
+            "name": "Dr. Asitha Bandaranayake",
+            "email": "asithab@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/asitha-bandaranayake.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/asithab",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/asithab/",
+            "researchgate": "https://www.researchgate.net/profile/Asitha-Bandaranayake-3",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=sf6MaF4AAAAJ"
+        },
+        "e21148@eng.pdn.ac.lk": {
+            "name": "S. Ganathipan",
+            "email": "e21148@eng.pdn.ac.lk",
+            "profile_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "api_url": "#",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Web",
+        "Software Systems",
+        "CO2060"
+    ]
 }

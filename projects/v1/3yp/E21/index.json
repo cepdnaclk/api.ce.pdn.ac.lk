@@ -1,4 +1,56 @@
 {
+    "e21-3yp-Drivora": {
+        "title": "Drivora",
+        "description": "Distributed Universal Advanced Driver Assistant System",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Drivora/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-Drivora",
+        "page_url": "https://cepdnaclk.github.io/e21-3yp-Drivora",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Drivora/"
+    },
+    "e21-3yp-Drone-Swarm-": {
+        "title": "Drone Swarm ",
+        "description": "Programmable indoor drone swarm testbed using low-cost ESP32 mini drones for real-world networking and collision-avoidance research. Drones use UWB for localization, ESP-NOW for peer communication, and decentralized control. A hub handles configuration, safety, and logging for controlled swarm experiments.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Drone-Swarm-/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-Drone-Swarm-",
+        "page_url": "https://cepdnaclk.github.io/e21-3yp-Drone-Swarm-",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Drone-Swarm-/"
+    },
+    "e21-3yp-GloveXcel": {
+        "title": "GloveXcel",
+        "description": "",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/GloveXcel/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-GloveXcel",
+        "page_url": "https://cepdnaclk.github.io/e21-3yp-GloveXcel",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/GloveXcel/"
+    },
+    "e21-3yp-LOX": {
+        "title": "LOX",
+        "description": "This project proposes a Smart Locker System integrated with a Mobile Application, allowing users to reserve, access, and manage lockers remotely.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/LOX/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-LOX",
+        "page_url": "https://cepdnaclk.github.io/e21-3yp-LOX",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/LOX/"
+    },
     "e21-3yp-RAID": {
         "title": "RAID",
         "description": "This autonomous IoT robot modernizes railway safety by detecting track cracks in real-time. Equipped with IR and ultrasonic sensors, it identifies defects and captures GPS-tagged images via an onboard camera. Alerts are instantly sent to a cloud dashboard, enabling proactive, risk-free maintenance.",
@@ -22,7 +74,7 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RoadEye/",
         "repo_url": "https://github.com/cepdnaclk/e21-3yp-RoadEye",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e21-3yp-RoadEye",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RoadEye/"
     },
     "e21-3yp-RouteLK": {
@@ -38,18 +90,18 @@
         "page_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RouteLK/"
     },
-    "e21-3yp-SlideSense-Project": {
-        "title": "SlideSense Project",
+    "e21-3yp-SlideSense": {
+        "title": "SlideSense",
         "description": "",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SlideSense-Project/",
-        "repo_url": "https://github.com/cepdnaclk/e21-3yp-SlideSense-Project",
-        "page_url": "https://cepdnaclk.github.io/e21-3yp-SlideSense-Project",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SlideSense-Project/"
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SlideSense/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-SlideSense",
+        "page_url": "https://cepdnaclk.github.io/e21-3yp-SlideSense",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SlideSense/"
     },
     "e21-3yp-Smart-IV": {
         "title": "Smart IV",
@@ -113,7 +165,7 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/smart-traffic-control-system/",
         "repo_url": "https://github.com/cepdnaclk/e21-3yp-smart-traffic-control-system",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e21-3yp-smart-traffic-control-system",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/smart-traffic-control-system/"
     }
 }
