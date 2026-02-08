@@ -11,11 +11,74 @@
     "page_url": "https://cepdnaclk.github.io/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/",
     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-    "team": {},
-    "supervisors": {},
+    "team": {
+        "E/22/008": {
+            "name": "T. H. Abeywickrama",
+            "email": "e22008@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/008",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22008.JPG",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/008/"
+        },
+        "E/22/126": {
+            "name": "H. P. J. Gunawardhana",
+            "email": "e22126@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/126",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22126.JPG",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/126/"
+        },
+        "E/22/130": {
+            "name": "S. H. S. Hansara",
+            "email": "e22130@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/130",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22130.JPG",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/130/"
+        },
+        "E/22/135": {
+            "name": "H. T. D. Hatharasinghe",
+            "email": "e22135@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/135",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22135.JPG",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/135/"
+        }
+    },
+    "supervisors": {
+        "e21005@eng.pdn.ac.lk": {
+            "name": "Shehan",
+            "email": "e21005@eng.pdn.ac.lk",
+            "profile_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "api_url": "#",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
     "tags": [
         "Web",
         "Software Systems",
-        "CO2060"
+        "CO2060",
+        "AI",
+        "Machine Learning",
+        "Agriculture",
+        "React",
+        "Express",
+        "MongoDB"
     ]
 }
