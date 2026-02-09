@@ -13,6 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       webhook_url: ${{ secrets.NOTIFICATION_WEBHOOK_URL }}
+      webhook_url_google: ${{ secrets.GOOGLE_CHAT_WEBHOOK_URL }}
+
     steps:
       - name: checkout
         uses: actions/checkout@master
@@ -63,7 +65,7 @@ jobs:
           cd ../
 
 # -------------------------------------------------------------------------------------
- 
+
       - name: Commit and push into the main branch
         run: |
           git config user.name github-actions
