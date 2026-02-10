@@ -1,0 +1,80 @@
+{
+    "title": "AURA",
+    "description": "AURA is an IoT-based robotic system developed by Group 17 to modernize the smart caf\u00e9 experience. It addresses common dining pain points\u2014such as ordering delays, language barriers, and staff burnout\u2014by serving as a digital concierge at every table",
+    "category": {
+        "title": "Cyber-Physical Systems Projects",
+        "code": "3yp",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/AURA/",
+    "repo_url": "https://github.com/cepdnaclk/e21-3yp-AURA",
+    "page_url": "https://cepdnaclk.github.io/e21-3yp-AURA",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/AURA/",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+    "team": {
+        "E/21/024": {
+            "name": "AMARANGA S.G.I.",
+            "email": "e21024@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/024",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21024.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/024/"
+        },
+        "E/21/113": {
+            "name": "DISSANAYAKE H.G.K.V.D.C.",
+            "email": "e21113@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/113",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21113.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/113/"
+        },
+        "E/21/245": {
+            "name": "MADHUSHAN S.K.A.K.",
+            "email": "e21245@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Kaveesha-Madhushan17",
+            "linkedin": "https://www.linkedin.com/in/kaveesha-madhushan-99490a2a5",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/245",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21245.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/245/"
+        },
+        "E/21/407": {
+            "name": "THENNAKOON T.M.I.I.C.",
+            "email": "e21407@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/407",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21407.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/407/"
+        }
+    },
+    "supervisors": {
+        "yasodhav@eng.pdn.ac.lk": {
+            "name": "Ms. Yasodha Vimukthi",
+            "email": "yasodhav@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Web",
+        "Embedded Systems",
+        "java",
+        "reactjs",
+        "robot"
+    ]
+}

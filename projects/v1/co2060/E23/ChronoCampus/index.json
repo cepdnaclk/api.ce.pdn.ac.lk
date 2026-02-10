@@ -1,0 +1,66 @@
+{
+    "title": "ChronoCampus",
+    "description": "ChronoCampus is a web-based system for managing academic schedules and campus facilities at universities. It provides real-time lecture, lab, tutorial, and exam timetables, notifications for changes, room and lab availability, and staff location tracking, supporting efficient coordination for students and faculty.",
+    "category": {
+        "title": "Software Systems Design Project (CO2060)",
+        "code": "co2060",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/ChronoCampus/",
+    "repo_url": "https://github.com/cepdnaclk/e23-co2060-ChronoCampus",
+    "page_url": "https://cepdnaclk.github.io/e23-co2060-ChronoCampus",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/ChronoCampus/",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+    "team": {
+        "E/23/392": {
+            "name": "Thanush V.",
+            "email": "e23392@eng.pdn.ac.lk",
+            "website": "https://example.com/",
+            "github": "https://github.com/ShadowMonarch23-dev",
+            "linkedin": "https://www.linkedin.com/in/thanush-vijayakumaran-5938a8368?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/392",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23392.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e23/392/"
+        },
+        "E/23/256": {
+            "name": "Paveenan S.",
+            "email": "e23256@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/256",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23256.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e23/256/"
+        },
+        "E/23/384": {
+            "name": "S.Simasa",
+            "email": "e23384@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/384",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23384.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e23/384/"
+        },
+        "E/23/352": {
+            "name": "N.A.Sara",
+            "email": "e23352@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/sarana023",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/352",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23352.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e23/352/"
+        }
+    },
+    "supervisors": {},
+    "tags": [
+        "Web",
+        "Software Systems Design",
+        "CO2060"
+    ]
+}

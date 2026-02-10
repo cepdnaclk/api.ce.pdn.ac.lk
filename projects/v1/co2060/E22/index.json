@@ -1,4 +1,17 @@
 {
+    "e22-co2060-AI-Integrated-Ecommerce-Platform": {
+        "title": "AI Integrated Ecommerce Platform",
+        "description": "This project proposes an intelligent e-commerce platform that dynamically identifies and promotes trending electronic products by analyzing real-time online data. The system integrates AI-based trend analysis with automated workflows to improve product visibility and reduce manual effort in content management and marketing.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/AI-Integrated-Ecommerce-Platform/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co2060-AI-Integrated-Ecommerce-Platform",
+        "page_url": "https://cepdnaclk.github.io/e22-co2060-AI-Integrated-Ecommerce-Platform",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/AI-Integrated-Ecommerce-Platform/"
+    },
     "e22-co2060-AI-Smart-Assistant": {
         "title": "AI Smart Assistant",
         "description": "AI-based Smart Assistant for screen reading, automation, and AI guidance | Team: SENTINALS | University of Peradeniya | 2YP Project",
@@ -11,6 +24,19 @@
         "repo_url": "https://github.com/cepdnaclk/e22-co2060-AI-Smart-Assistant",
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/AI-Smart-Assistant/"
+    },
+    "e22-co2060-Blood-Bank-management-System-web-app": {
+        "title": "Blood Bank management System web app",
+        "description": "",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Blood-Bank-management-System-web-app/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co2060-Blood-Bank-management-System-web-app",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Blood-Bank-management-System-web-app/"
     },
     "e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis": {
         "title": "Crop Yield Optimization and Intelligent Plant Disease Analysis",
@@ -103,6 +129,19 @@
         "page_url": "https://cepdnaclk.github.io/e22-co2060-PERA-SAM",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PERA-SAM/"
     },
+    "e22-co2060-Patient-Management-System": {
+        "title": "Patient Management System",
+        "description": "A web-based Patient Management System built with React and Spring Boot to manage patient records, medical history, and appointments in a centralized, secure platform for healthcare facilities",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Patient-Management-System/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co2060-Patient-Management-System",
+        "page_url": "https://cepdnaclk.github.io/e22-co2060-Patient-Management-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Patient-Management-System/"
+    },
     "e22-co2060-PearlPath": {
         "title": "PearlPath",
         "description": "A centralized platform connecting hotels across Sri Lanka. Users can search hotels, view locations on interactive maps, explore nearby attractions, book stays, and hire local tour guides. Built using React.js, Node.js/Django, MySQL/MongoDB, and Google Maps API.",
@@ -168,6 +207,19 @@
         "page_url": "https://cepdnaclk.github.io/e22-co2060-Syncro",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Syncro/"
     },
+    "e22-co2060-Tour-guide": {
+        "title": "Tour guide",
+        "description": "The Travel Guide Web Application is a full-stack web platform that helps users discover destinations, attractions, and plan trips in one place. It targets tourists, students, and local travelers, delivering a usable and secure MVP as part of the CO2060 Software Engineering Project.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Tour-guide/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co2060-Tour-guide",
+        "page_url": "https://cepdnaclk.github.io/e22-co2060-Tour-guide",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Tour-guide/"
+    },
     "e22-co2060-Web_Based_PAR_Index_System": {
         "title": "Web_Based_PAR_Index_System",
         "description": "The Peer Assessment Rating (PAR) Index quantifies malocclusion severity in orthodontics. This project develops a web-based software system that integrates machine-learning-based orthodontic landmark detection on 3D dental models to automate PAR Index computation, focusing on scalability, reliability, and clinical usability.",
@@ -191,8 +243,21 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/floodguard/",
         "repo_url": "https://github.com/cepdnaclk/e22-co2060-floodguard",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e22-co2060-floodguard",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/floodguard/"
+    },
+    "e22-co2060-gympappa-spooty-app": {
+        "title": "gympappa spooty app",
+        "description": "GympAPPa Spooty App \u2013 A full-stack web platform for managing sports equipment, court availability, tournaments, and events at the University of Peradeniya.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/gympappa-spooty-app/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co2060-gympappa-spooty-app",
+        "page_url": "https://cepdnaclk.github.io/e22-co2060-gympappa-spooty-app",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/gympappa-spooty-app/"
     },
     "e22-co2060-hydro-risk-management": {
         "title": "hydro risk management",

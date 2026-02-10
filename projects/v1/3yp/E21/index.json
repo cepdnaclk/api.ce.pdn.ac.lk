@@ -1,4 +1,17 @@
 {
+    "e21-3yp-AURA": {
+        "title": "AURA",
+        "description": "AURA is an IoT-based robotic system developed by Group 17 to modernize the smart caf\u00e9 experience. It addresses common dining pain points\u2014such as ordering delays, language barriers, and staff burnout\u2014by serving as a digital concierge at every table",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/AURA/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-AURA",
+        "page_url": "https://cepdnaclk.github.io/e21-3yp-AURA",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/AURA/"
+    },
     "e21-3yp-Drivora": {
         "title": "Drivora",
         "description": "Distributed Universal Advanced Driver Assistant System",
@@ -38,6 +51,19 @@
         "page_url": "https://cepdnaclk.github.io/e21-3yp-GloveXcel",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/GloveXcel/"
     },
+    "e21-3yp-HYDRA": {
+        "title": "HYDRA",
+        "description": "HYDRA- Smart Traffic Light Control System",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/HYDRA/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-HYDRA",
+        "page_url": "https://cepdnaclk.github.io/e21-3yp-HYDRA",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/HYDRA/"
+    },
     "e21-3yp-LOX": {
         "title": "LOX",
         "description": "This project proposes a Smart Locker System integrated with a Mobile Application, allowing users to reserve, access, and manage lockers remotely.",
@@ -51,6 +77,45 @@
         "page_url": "https://cepdnaclk.github.io/e21-3yp-LOX",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/LOX/"
     },
+    "e21-3yp-MirrorX": {
+        "title": "MirrorX",
+        "description": "ReflectOS is a hybrid IoT smart mirror ecosystem for remote caregiving. Built with Flutter, Supabase, and Raspberry Pi, it features remote biometric enrollment, autonomous climate control, and real-time environmental monitoring, bridging the gap between passive displays and active home safety.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/MirrorX/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-MirrorX",
+        "page_url": "https://cepdnaclk.github.io/e21-3yp-MirrorX",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/MirrorX/"
+    },
+    "e21-3yp-Mountain-Climber-Health-and-GPS-Tracker": {
+        "title": "Mountain Climber Health and GPS Tracker",
+        "description": "An IoT safety device for mountaineers that monitors heart rate, temperature, and GPS location in real-time. Powered by an Atmega controller, it utilizes WiFi for live dashboard tracking and GSM for instant SMS alerts during critical health events. This system automates distress signals with precise coordinates to ensure rapid search and rescue.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Mountain-Climber-Health-and-GPS-Tracker/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-Mountain-Climber-Health-and-GPS-Tracker",
+        "page_url": "https://cepdnaclk.github.io/e21-3yp-Mountain-Climber-Health-and-GPS-Tracker",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Mountain-Climber-Health-and-GPS-Tracker/"
+    },
+    "e21-3yp-PathFinder": {
+        "title": "PathFinder",
+        "description": "An intelligent wearable navigation system that provides context-aware audio guidance and emergency assistance for visually impaired users using edge computing and sensor fusion.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/PathFinder/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-PathFinder",
+        "page_url": "https://cepdnaclk.github.io/e21-3yp-PathFinder",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PathFinder/"
+    },
     "e21-3yp-RAID": {
         "title": "RAID",
         "description": "This autonomous IoT robot modernizes railway safety by detecting track cracks in real-time. Equipped with IR and ultrasonic sensors, it identifies defects and captures GPS-tagged images via an onboard camera. Alerts are instantly sent to a cloud dashboard, enabling proactive, risk-free maintenance.",
@@ -63,6 +128,19 @@
         "repo_url": "https://github.com/cepdnaclk/e21-3yp-RAID",
         "page_url": "https://cepdnaclk.github.io/e21-3yp-RAID",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RAID/"
+    },
+    "e21-3yp-ResQ": {
+        "title": "ResQ",
+        "description": "",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/ResQ/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-ResQ",
+        "page_url": "https://cepdnaclk.github.io/e21-3yp-ResQ",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/ResQ/"
     },
     "e21-3yp-RoadEye": {
         "title": "RoadEye",
@@ -90,6 +168,19 @@
         "page_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RouteLK/"
     },
+    "e21-3yp-SPECTRA-LEAF": {
+        "title": "SPECTRA LEAF",
+        "description": "SPECTRA LEAF is an IoT system automating tea fermentation. Using ESP32, gas, and color sensors, it tracks the shift from grassy to floral aromas. By saving digital profiles based on 'Good Leaf %,' it enables factories to replicate premium batches scientifically, replacing subjective smell with data-driven consistency.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SPECTRA-LEAF/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF",
+        "page_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SPECTRA-LEAF/"
+    },
     "e21-3yp-SlideSense": {
         "title": "SlideSense",
         "description": "",
@@ -102,6 +193,19 @@
         "repo_url": "https://github.com/cepdnaclk/e21-3yp-SlideSense",
         "page_url": "https://cepdnaclk.github.io/e21-3yp-SlideSense",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SlideSense/"
+    },
+    "e21-3yp-Smart-Dog-Collar": {
+        "title": "Smart Dog Collar",
+        "description": "Smart pet collar system for real-time tracking, geo-fencing alerts, and health monitoring using IoT, a mobile app, and an AWS-based backend.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Smart-Dog-Collar/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-Dog-Collar",
+        "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Dog-Collar",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-Dog-Collar/"
     },
     "e21-3yp-Smart-IV": {
         "title": "Smart IV",
@@ -129,6 +233,32 @@
         "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Laser-Distance-Meter",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-Laser-Distance-Meter/"
     },
+    "e21-3yp-dia-smart": {
+        "title": "dia smart",
+        "description": "Dia-Smart is an IoT ecosystem automating diabetes compliance. It combines a Smart Cap for precise insulin dosage tracking via inertial sensing, a Gluco-Fetcher to digitize blood sugar readings, and a Smart Vault for inventory safety. This closed-loop system correlates therapy data to prevent dangerous errors for elderly and Type 1 patients.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/dia-smart/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-dia-smart",
+        "page_url": "https://cepdnaclk.github.io/e21-3yp-dia-smart",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/dia-smart/"
+    },
+    "e21-3yp-diasmart": {
+        "title": "diasmart",
+        "description": "",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/diasmart/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-diasmart",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/diasmart/"
+    },
     "e21-3yp-group-16": {
         "title": "group 16",
         "description": "Firmware and hardware design for the Smart-Metrolac, a handheld rubber latex quality profiler. Includes algorithms for static gravimetric density measurement, multi-sensor fraud detection and digitized chart interpolation for lab grade field analysis.",
@@ -142,30 +272,43 @@
         "page_url": "https://cepdnaclk.github.io/e21-3yp-group-16",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/group-16/"
     },
-    "e21-3yp-manikin-auscultation": {
-        "title": "manikin auscultation",
+    "e21-3yp-group-18": {
+        "title": "group 18",
+        "description": "The project aims to create a high-immersion, remote-controlled 4x4 vehicle that mimics a real-life driving experience for a user operating it via a laptop",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/group-18/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-group-18",
+        "page_url": "https://cepdnaclk.github.io/e21-3yp-group-18",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/group-18/"
+    },
+    "e21-3yp-spectron": {
+        "title": "spectron",
         "description": "",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/manikin-auscultation/",
-        "repo_url": "https://github.com/cepdnaclk/e21-3yp-manikin-auscultation",
-        "page_url": "https://cepdnaclk.github.io/e21-3yp-manikin-auscultation",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/manikin-auscultation/"
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/spectron/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-spectron",
+        "page_url": "https://cepdnaclk.github.io/e21-3yp-spectron",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/spectron/"
     },
-    "e21-3yp-smart-traffic-control-system": {
-        "title": "smart traffic control system",
-        "description": "HYDRA- Smart Traffic Light Control System",
+    "e21-3yp-spectron-dashboard": {
+        "title": "spectron dashboard",
+        "description": "Standardized modular IoT adapter kit based...",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/smart-traffic-control-system/",
-        "repo_url": "https://github.com/cepdnaclk/e21-3yp-smart-traffic-control-system",
-        "page_url": "https://cepdnaclk.github.io/e21-3yp-smart-traffic-control-system",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/smart-traffic-control-system/"
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/spectron-dashboard/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-spectron-dashboard",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/spectron-dashboard/"
     }
 }

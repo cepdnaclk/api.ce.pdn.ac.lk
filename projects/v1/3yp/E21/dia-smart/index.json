@@ -1,0 +1,88 @@
+{
+    "title": "dia smart",
+    "description": "Dia-Smart is an IoT ecosystem automating diabetes compliance. It combines a Smart Cap for precise insulin dosage tracking via inertial sensing, a Gluco-Fetcher to digitize blood sugar readings, and a Smart Vault for inventory safety. This closed-loop system correlates therapy data to prevent dangerous errors for elderly and Type 1 patients.",
+    "category": {
+        "title": "Cyber-Physical Systems Projects",
+        "code": "3yp",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/dia-smart/",
+    "repo_url": "https://github.com/cepdnaclk/e21-3yp-dia-smart",
+    "page_url": "https://cepdnaclk.github.io/e21-3yp-dia-smart",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/dia-smart/",
+    "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-dia-smart/data/thumbnail.jpg",
+    "team": {
+        "E/21/031": {
+            "name": "ANANTHASAGARAN N.",
+            "email": "e21031@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/031",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21031.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/031/"
+        },
+        "E/21/036": {
+            "name": "ARNIKAN U.",
+            "email": "e21036@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/036",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21036.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/036/"
+        },
+        "E/21/356": {
+            "name": "SANJEEVAN U.",
+            "email": "e21356@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/356",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21356.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/356/"
+        },
+        "E/21/3866": {
+            "name": "SIVASUTHAN J.",
+            "email": "e21386@eng.pdn.ac.lk",
+            "website": "#",
+            "github": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "api_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "profile_url": "#"
+        }
+    },
+    "supervisors": {
+        "yasodhav@eng.pdn.ac.lk": {
+            "name": "Ms. Yasodha Vimukthi",
+            "email": "yasodhav@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+            "researchgate": "#",
+            "google_scholar": "#"
+        },
+        "isurunawinne@eng.pdn.ac.lk": {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/isuru-nawinne.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+            "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+        }
+    },
+    "tags": [
+        "Web",
+        "Embedded Systems"
+    ]
+}

@@ -12,6 +12,19 @@
         "page_url": "https://cepdnaclk.github.io/e23-CO2060-Smart_Travel_Companion",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Smart_Travel_Companion/"
     },
+    "e23-co2060-2YP-SkillShare": {
+        "title": "2YP SkillShare",
+        "description": "Skill-Share is a platform where the university students can share not only their academic knowledge but maily also their soft skills with their collegues for another skill which they interested in learning in return. This platform match the user interested skills with others' interests and find a common free slot for the meetup.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/2YP-SkillShare/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co2060-2YP-SkillShare",
+        "page_url": "https://cepdnaclk.github.io/e23-co2060-2YP-SkillShare",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/2YP-SkillShare/"
+    },
     "e23-co2060-Alumnet": {
         "title": "Alumnet",
         "description": "A scalable, role-based platform for streamlining alumni-student mentorship and university event management. Built with React, Node.js and PostgreSQL for the CO2060 Software System Design Project.",
@@ -37,6 +50,19 @@
         "repo_url": "https://github.com/cepdnaclk/e23-co2060-Blood-Banking-Management-System",
         "page_url": "https://cepdnaclk.github.io/e23-co2060-Blood-Banking-Management-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Blood-Banking-Management-System/"
+    },
+    "e23-co2060-ChronoCampus": {
+        "title": "ChronoCampus",
+        "description": "ChronoCampus is a web-based system for managing academic schedules and campus facilities at universities. It provides real-time lecture, lab, tutorial, and exam timetables, notifications for changes, room and lab availability, and staff location tracking, supporting efficient coordination for students and faculty.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/ChronoCampus/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co2060-ChronoCampus",
+        "page_url": "https://cepdnaclk.github.io/e23-co2060-ChronoCampus",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/ChronoCampus/"
     },
     "e23-co2060-Computer-vision-and-AI-lab-system": {
         "title": "Computer vision and AI lab system",
@@ -64,9 +90,48 @@
         "page_url": "https://cepdnaclk.github.io/e23-co2060-FindIT",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/FindIT/"
     },
+    "e23-co2060-GiftBox-Customization-Marketplace": {
+        "title": "GiftBox Customization Marketplace",
+        "description": "A scalable multi-vendor marketplace where users mix products from different sellers to create custom gift boxes. Includes personalization, vendor management, and seamless ordering for a flexible gifting experience.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/GiftBox-Customization-Marketplace/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co2060-GiftBox-Customization-Marketplace",
+        "page_url": "https://cepdnaclk.github.io/e23-co2060-GiftBox-Customization-Marketplace",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/GiftBox-Customization-Marketplace/"
+    },
+    "e23-co2060-GoTravel": {
+        "title": "GoTravel",
+        "description": "GoTravel is a web platform to explore destinations, learn history, and book buses, trains, and hotels in one place.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/GoTravel/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co2060-GoTravel",
+        "page_url": "https://cepdnaclk.github.io/e23-co2060-GoTravel",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/GoTravel/"
+    },
+    "e23-co2060-Health-Management-System": {
+        "title": "Health Management System",
+        "description": "A MERN-based Health Management System for managing patients, doctors, labs, and admins. It supports appointments, medical records, and lab results with role-based access control. An AI support feature assists doctors with suggestions while final decisions remain human-made.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Health-Management-System/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co2060-Health-Management-System",
+        "page_url": "https://cepdnaclk.github.io/e23-co2060-Health-Management-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Health-Management-System/"
+    },
     "e23-co2060-Hotel-Management-System": {
         "title": "Hotel Management System",
-        "description": "A MERN-stack Hotel Management System by NeonWizards designed to modernize Sri Lankan SMEs. It replaces manual processes with digital room service, smart food ordering, and guest reviews. Features include an interactive tourist guide for nearby shops and a social feed for guest engagement to improve service quality and customer trust.",
+        "description": "A web-based platform designed to help tourists in Sri Lanka manage their stays efficiently. Built with React, Node.js, and MySQL, the system centralizes room and meal bookings, local event discovery, and transport services. It aims to save time for travelers while supporting local businesses and enhancing the tourism ecosystem.",
         "category": {
             "title": "Software Systems Design Project (CO2060)",
             "code": "co2060",
@@ -129,6 +194,19 @@
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/NexClinic/"
     },
+    "e23-co2060-OrthoFlow": {
+        "title": "OrthoFlow",
+        "description": "Web-based system for digitising orthodontic case records. Supports structured clinical data, media management, timeline-based treatment tracking, and role-based access. Improves diagnostic consistency, reduces errors, and enables longitudinal patient follow-up.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/OrthoFlow/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co2060-OrthoFlow",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/OrthoFlow/"
+    },
     "e23-co2060-Orthodontics-Workflow-Automation-System": {
         "title": "Orthodontics Workflow Automation System",
         "description": "The Orthodontics Workflow Automation System (OWAS) is a web-based platform that replaces manual dental records with a secure digital hub. By centralizing patient history and images, it enables instant data retrieval and faster care. Its modular, scalable architecture ensures future-readiness for integration across the entire Dental Hospital.",
@@ -168,6 +246,19 @@
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/RoadAid/"
     },
+    "e23-co2060-Smart-Tourism": {
+        "title": "Smart Tourism",
+        "description": "The Smart Tourism Management System reduces information fragmentation and trust issues in Sri Lanka\u2019s tourism industry through a centralized, user-controlled platform. Using a Human-in-the-Loop design with itinerary planning, verified guides, and community reviews, it ensures reliable and transparent travel planning.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Smart-Tourism/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co2060-Smart-Tourism",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Smart-Tourism/"
+    },
     "e23-co2060-TransitPro": {
         "title": "TransitPro",
         "description": "TransitPro is a web-based transport and rental vehicle management system that improves travel planning and booking convenience. Users can view daily schedules, check routes, and book or rent vehicles based on real-time availability, seating capacity, and comfort options. An admin panel manages vehicles, routes, schedules, and bookings efficiently.",
@@ -191,21 +282,8 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/antigravity/",
         "repo_url": "https://github.com/cepdnaclk/e23-co2060-antigravity",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e23-co2060-antigravity",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/antigravity/"
-    },
-    "e23-co2060-smart-tourism": {
-        "title": "smart tourism",
-        "description": "The Smart Tourism Management System reduces information fragmentation and trust issues in Sri Lanka\u2019s tourism industry through a centralized, user-controlled platform. Using a Human-in-the-Loop design with itinerary planning, verified guides, and community reviews, it ensures reliable and transparent travel planning.",
-        "category": {
-            "title": "Software Systems Design Project (CO2060)",
-            "code": "co2060",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/smart-tourism/",
-        "repo_url": "https://github.com/cepdnaclk/e23-co2060-smart-tourism",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/smart-tourism/"
     },
     "e23-co2060-stress-detection-and-analyzing-system": {
         "title": "stress detection and analyzing system",

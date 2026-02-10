@@ -1,0 +1,80 @@
+{
+    "title": "Mountain Climber Health and GPS Tracker",
+    "description": "An IoT safety device for mountaineers that monitors heart rate, temperature, and GPS location in real-time. Powered by an Atmega controller, it utilizes WiFi for live dashboard tracking and GSM for instant SMS alerts during critical health events. This system automates distress signals with precise coordinates to ensure rapid search and rescue.",
+    "category": {
+        "title": "Cyber-Physical Systems Projects",
+        "code": "3yp",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Mountain-Climber-Health-and-GPS-Tracker/",
+    "repo_url": "https://github.com/cepdnaclk/e21-3yp-Mountain-Climber-Health-and-GPS-Tracker",
+    "page_url": "https://cepdnaclk.github.io/e21-3yp-Mountain-Climber-Health-and-GPS-Tracker",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Mountain-Climber-Health-and-GPS-Tracker/",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+    "team": {
+        "E/21/198": {
+            "name": "Sahan Jayasundara",
+            "email": "e21198@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/198",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21198.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/198/"
+        },
+        "E/21/328": {
+            "name": "Prabash Rathnayaka",
+            "email": "e21328@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/328",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21328.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/328/"
+        },
+        "E/21/353": {
+            "name": "Pasan Sandeep",
+            "email": "e21353@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/353",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21353.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/353/"
+        }
+    },
+    "supervisors": {
+        "yasodhav@eng.pdn.ac.lk": {
+            "name": "Ms. Yasodha Vimukthi",
+            "email": "yasodhav@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+            "researchgate": "#",
+            "google_scholar": "#"
+        },
+        "e19489@eng.pdn.ac.lk": {
+            "name": "Thiliru Samaradiwakara",
+            "email": "e19489@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/temporary-academic-staff/thiliru-samaradiwakara.jpeg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/e19489",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "IoT",
+        "Embedded Systems",
+        "Health",
+        "Automation",
+        "Cloud Computing"
+    ]
+}
