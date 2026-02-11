@@ -77,19 +77,6 @@
         "page_url": "https://cepdnaclk.github.io/e21-3yp-LOX",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/LOX/"
     },
-    "e21-3yp-MirrorX": {
-        "title": "MirrorX",
-        "description": "ReflectOS is a hybrid IoT smart mirror ecosystem for remote caregiving. Built with Flutter, Supabase, and Raspberry Pi, it features remote biometric enrollment, autonomous climate control, and real-time environmental monitoring, bridging the gap between passive displays and active home safety.",
-        "category": {
-            "title": "Cyber-Physical Systems Projects",
-            "code": "3yp",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/MirrorX/",
-        "repo_url": "https://github.com/cepdnaclk/e21-3yp-MirrorX",
-        "page_url": "https://cepdnaclk.github.io/e21-3yp-MirrorX",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/MirrorX/"
-    },
     "e21-3yp-Mountain-Climber-Health-and-GPS-Tracker": {
         "title": "Mountain Climber Health and GPS Tracker",
         "description": "An IoT safety device for mountaineers that monitors heart rate, temperature, and GPS location in real-time. Powered by an Atmega controller, it utilizes WiFi for live dashboard tracking and GSM for instant SMS alerts during critical health events. This system automates distress signals with precise coordinates to ensure rapid search and rescue.",
@@ -128,6 +115,19 @@
         "repo_url": "https://github.com/cepdnaclk/e21-3yp-RAID",
         "page_url": "https://cepdnaclk.github.io/e21-3yp-RAID",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RAID/"
+    },
+    "e21-3yp-ReflectStudio": {
+        "title": "ReflectStudio",
+        "description": "ReflectOS is a hybrid IoT smart mirror ecosystem for remote caregiving. Built with Flutter, Supabase, and Raspberry Pi, it features remote biometric enrollment, autonomous climate control, and real-time environmental monitoring, bridging the gap between passive displays and active home safety.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/ReflectStudio/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-ReflectStudio",
+        "page_url": "https://cepdnaclk.github.io/e21-3yp-ReflectStudio",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/ReflectStudio/"
     },
     "e21-3yp-ResQ": {
         "title": "ResQ",

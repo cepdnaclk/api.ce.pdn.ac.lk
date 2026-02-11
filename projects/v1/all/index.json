@@ -177,7 +177,7 @@
         "repo_url": "https://github.com/cepdnaclk/e23-co2060-ChronoCampus",
         "page_url": "https://cepdnaclk.github.io/e23-co2060-ChronoCampus",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/ChronoCampus/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+        "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-ChronoCampus/data/thumbnail.jpg",
         "team": {
             "E/23/392": {
                 "name": "Thanush V.",
@@ -1938,8 +1938,20 @@
         "repo_url": "https://github.com/cepdnaclk/e22-co2060-Tour-guide",
         "page_url": "https://cepdnaclk.github.io/e22-co2060-Tour-guide",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Tour-guide/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-        "team": {},
+        "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-Tour-guide/data/thumbnail.jpg",
+        "team": {
+            "E/22/400": {
+                "name": "T.Thivision",
+                "email": "e22400@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/400",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22400.JPG",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/400/"
+            }
+        },
         "supervisors": {},
         "tags": [
             "Web",
@@ -8010,8 +8022,8 @@
                 "name": "Diwyanjali Jayasooriya",
                 "email": "e21196@eng.pdn.ac.lk",
                 "website": "",
-                "github": "",
-                "linkedin": "",
+                "github": "https://github.com/Diwyajayasooriya",
+                "linkedin": "https://www.linkedin.com/in/diwyanjali-jayasooriya-92ba26250",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/196",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21196.jpg",
@@ -8156,20 +8168,6 @@
             "Web",
             "Embedded Systems"
         ]
-    },
-    "e21-3yp-MirrorX": {
-        "title": "MirrorX",
-        "description": "ReflectOS is a hybrid IoT smart mirror ecosystem for remote caregiving. Built with Flutter, Supabase, and Raspberry Pi, it features remote biometric enrollment, autonomous climate control, and real-time environmental monitoring, bridging the gap between passive displays and active home safety.",
-        "category": {
-            "title": "Cyber-Physical Systems Projects",
-            "code": "3yp",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/MirrorX/",
-        "repo_url": "https://github.com/cepdnaclk/e21-3yp-MirrorX",
-        "page_url": "https://cepdnaclk.github.io/e21-3yp-MirrorX",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/MirrorX/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg"
     },
     "e21-3yp-Mountain-Climber-Health-and-GPS-Tracker": {
         "title": "Mountain Climber Health and GPS Tracker",
@@ -8408,6 +8406,20 @@
             "Web",
             "Embedded Systems"
         ]
+    },
+    "e21-3yp-ReflectStudio": {
+        "title": "ReflectStudio",
+        "description": "ReflectOS is a hybrid IoT smart mirror ecosystem for remote caregiving. Built with Flutter, Supabase, and Raspberry Pi, it features remote biometric enrollment, autonomous climate control, and real-time environmental monitoring, bridging the gap between passive displays and active home safety.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/ReflectStudio/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-ReflectStudio",
+        "page_url": "https://cepdnaclk.github.io/e21-3yp-ReflectStudio",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/ReflectStudio/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg"
     },
     "e21-3yp-ResQ": {
         "title": "ResQ",
@@ -9055,16 +9067,16 @@
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21356.jpg",
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e21/356/"
             },
-            "E/21/3866": {
+            "E/21/386": {
                 "name": "SIVASUTHAN J.",
                 "email": "e21386@eng.pdn.ac.lk",
-                "website": "#",
-                "github": "#",
-                "linkedin": "#",
-                "researchgate": "#",
-                "api_url": "#",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
-                "profile_url": "#"
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/386",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21386.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/386/"
             }
         },
         "supervisors": {
@@ -13090,7 +13102,7 @@
     },
     "e20-3yp-Smart-Vehicle-Tracking-and-Management-System": {
         "title": "Smart Vehicle Tracking and Management System",
-        "description": "e20-3yp-Smart-Vehicle-Tracking-and-Management-System",
+        "description": "An end-to-end IoT solution for real-time vehicle and cargo monitoring, featuring a web-based admin dashboard and a driver mobile app, powered by cloud services and sensor-based data collection.",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
@@ -39750,7 +39762,7 @@
     },
     "e20-co543-real-time-shadow-removal-from-images": {
         "title": "real time shadow removal from images",
-        "description": "",
+        "description": "Real-time image processing system for detecting and removing shadow regions under varying illumination, featuring a Flask-based web interface for image upload and visualization.",
         "category": {
             "title": "Image Processing Projects (CO543)",
             "code": "co543",
