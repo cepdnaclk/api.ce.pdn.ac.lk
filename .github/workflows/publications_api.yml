@@ -25,25 +25,19 @@ jobs:
       - name: Install Python Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests pytz
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       - name: Generate Publication files
-        run: |
-          cd ./python_scripts
-          python3 publications.py
-          cd ../
+        working-directory: ./python_scripts
+        run: python3 publications.py
 
       - name: Generate filtered Publication lists
-        run: |
-          cd ./python_scripts
-          python3 publications_filter.py
-          cd ../
+        working-directory: ./python_scripts
+        run: python3 publications_filter.py
 
       - name: Send the notifications to Discord Webhook
-        run: |
-          cd ./python_scripts
-          python3 publication_notifications.py
-          cd ../
+        working-directory: ./python_scripts
+        run: python3 publication_notifications.py
         env:
           discord_webhook: ${{ secrets.PUBLICATIONAPI_WEBHOOK }}
 

@@ -29,14 +29,12 @@ jobs:
       - name: Install Python Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests pytz
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       - name: "Workflows Status Check and update information"
+        working-directory: ./python_scripts
         run: |
-          cd ./python_scripts
           python3 workflows.py
-          cd ../
 
       - name: Commit and push into the main branch
         run: |
