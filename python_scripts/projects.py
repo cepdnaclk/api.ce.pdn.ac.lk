@@ -14,29 +14,28 @@ import shutil
 import requests
 from notifications import Notifications
 
-notify = Notifications("api.ce.pdn.ac.lk", "Daily")
+notifyWeekly = Notifications("api.ce.pdn.ac.lk", "Weekly")
 
-notifyWarninig = Notifications("api.ce.pdn.ac.lk", "Weekly")
-WARNING_NOTIFICATION_DATE = "Wednesday"  # Send warning notifications only on Wednesdays
+# Send warning notifications only on Wednesdays
+WARNING_NOTIFICATION_DATE = "Sunday"
 
 # Where the API is available
-apiBase = "https://api.ce.pdn.ac.lk"
+API_BASE = "https://api.ce.pdn.ac.lk"
 
 # Where the student data available
-studentSource = "../people/v1/students/all/index.json"
+STUDENT_SOURCE = "../people/v1/students/all/index.json"
 
 # Where the staff data available
-staffSource = "../people/v1/staff/all/index.json"
+STAFF_SOURCE = "../people/v1/staff/all/index.json"
 
 # Where the project data available
-apiSource = "https://projects.ce.pdn.ac.lk/api/"
+API_SOURCE = "https://projects.ce.pdn.ac.lk/api/"
 
 # Source addresses for the repositories
-repoSource = "https://github.com/cepdnaclk/"
-pageSource = "https://cepdnaclk.github.io/"
+REPO_SOURCE = "https://github.com/cepdnaclk/"
 
 # If this is enabled, the individual project config files also fetch
-enable_deep_scan = True
+ENABLE_DEEP_SCAN = True
 
 DEFAULT_PROFILE_IMAGE = "https://people.ce.pdn.ac.lk/images/students/default.jpg"
 
@@ -46,7 +45,7 @@ def warn_syntax_errors(proj_url, msg="Invalid JSON syntax"):
     current_date = datetime.datetime.now()
     weekday = current_date.strftime("%A")
     if weekday == WARNING_NOTIFICATION_DATE:
-        notifyWarninig.warning(msg, proj_url)
+        notifyWeekly.warning(msg, proj_url)
 
 
 # Delete the existing files first
@@ -54,8 +53,8 @@ def del_old_files():
     dir_path = "../projects/v1/"
     try:
         shutil.rmtree(dir_path)
-    except:
-        print("Error: Folder Not Found!")
+    except Exception as e:
+        print(f"Error: Folder Not Found! ({e})")
 
 
 def project_key(title):
@@ -80,7 +79,7 @@ def process_team(data):
             person["researchgate_profile"] if "researchgate_profile" in person else "#"
         )
         website = person["website"] if "website" in person else "#"
-        profile_api = apiBase + "/people/v1/students/" + eNumber.replace("E/", "E")
+        profile_api = API_BASE + "/people/v1/students/" + eNumber.replace("E/", "E")
 
         if eNumber in students:
             # Check with the details available in the student API
@@ -175,7 +174,7 @@ def process_supervisors(data):
 
             # TODO: Need a better way than this
             api_url = (
-                apiBase + "/people/v1/staff/" + email_id
+                API_BASE + "/people/v1/staff/" + email_id
                 if details["designation"] != "Visiting Research Fellow"
                 else "#"
             )
@@ -237,7 +236,7 @@ def project_details(page_url):
 
     try:
         url = page_url + "/data/index.json"
-        r = requests.get(url)
+        r = requests.get(url, timeout=30)
 
         if r.status_code == 200:
             # it is available
@@ -275,12 +274,12 @@ def project_details(page_url):
                     print("parse failed, tags; " + url, e)
 
                 # TODO: Add remaining parameters
-            except:
-                print("parse failed; " + url)
+            except Exception as e:
+                print("parse failed; " + url, e)
                 warn_syntax_errors(url, "JSON Parse failed")
 
-    except:
-        print("load failed; " + url)
+    except Exception as e:
+        print("load failed; " + url, e)
         warn_syntax_errors(url, "JSON load failed")
 
     return data
@@ -311,7 +310,7 @@ def write_categories(categories):
 
         # Generate the project list
         for batch in categories[cat]:
-            url = "{0}/projects/v1/{1}/{2}/".format(apiBase, cat_name, batch)
+            url = "{0}/projects/v1/{1}/{2}/".format(API_BASE, cat_name, batch)
             proj_count = len(categories[cat][batch].keys())
             data[batch] = {"api_url": url, "project_count": proj_count}
 
@@ -360,9 +359,9 @@ def write_batches(categories):
                 proj_name = project_key(project["title"])
 
                 api_url = "{0}/projects/v1/{1}/{2}/{3}/".format(
-                    apiBase, cat_name, batch, proj_name
+                    API_BASE, cat_name, batch, proj_name
                 )
-                category_api_url = "{0}/projects/v1/{1}/".format(apiBase, cat_name)
+                category_api_url = "{0}/projects/v1/{1}/".format(API_BASE, cat_name)
 
                 data[proj] = {
                     "title": project["title"],
@@ -406,9 +405,9 @@ def write_projects(categories):
 
                 proj_name = project_key(raw_data["title"])
                 cat_code = title_to_code[raw_data["category"]]
-                cat_api_url = "{0}/projects/v1/{1}/".format(apiBase, cat_code)
+                cat_api_url = "{0}/projects/v1/{1}/".format(API_BASE, cat_code)
                 api_url = "{0}/projects/v1/{1}/{2}/{3}/".format(
-                    apiBase, cat_code, batch, proj_name
+                    API_BASE, cat_code, batch, proj_name
                 )
                 data = {
                     "title": raw_data["title"],
@@ -425,7 +424,7 @@ def write_projects(categories):
                     "thumbnail_url": raw_data["thumbnail_url"],
                 }
 
-                if enable_deep_scan and data["page_url"] != "#":
+                if ENABLE_DEEP_SCAN and data["page_url"] != "#":
                     # Load proj configuration details from the GitHub pages
                     additionalData = project_details(data["page_url"])
                     for details in additionalData:
@@ -459,15 +458,15 @@ title_to_code = {}  # translate title to category code
 students = {}
 
 # Gather Student API data
-student_file = open(studentSource, encoding="utf-8")
+student_file = open(STUDENT_SOURCE)
 students = json.load(student_file)
 
 # Gather Staff API data
-staff_file = open(staffSource, encoding="utf-8")
+staff_file = open(STAFF_SOURCE)
 staff = json.load(staff_file)
 
 # Fetch category data from the projects.ce.pdn.ac.lk
-req_category = requests.get(apiSource + "categories/")
+req_category = requests.get(API_SOURCE + "categories/", timeout=30)
 if req_category.status_code == 200:
     category_data = json.loads(req_category.text)
 
@@ -478,7 +477,7 @@ if req_category.status_code == 200:
         description = category["description"]
 
         page = category["page_url"]
-        api = "{0}/projects/v1/{1}/".format(apiBase, code)
+        api = "{0}/projects/v1/{1}/".format(API_BASE, code)
 
         category_index[code] = {
             "code": code,
@@ -492,14 +491,14 @@ if req_category.status_code == 200:
 
 
 # Fetch project data from the projects.ce.pdn.ac.lk
-req_projects = requests.get(apiSource + "all/")
+req_projects = requests.get(API_SOURCE + "all/", timeout=30)
 if req_projects.status_code == 200:
     data = json.loads(req_projects.text)
 
     for project in data:
         category = project["category"]
         batch = project["batch"]
-        title = project["repo_url"].replace(repoSource, "")
+        title = project["repo_url"].replace(REPO_SOURCE, "")
 
         # Create dictionary keys if not exists
         if category not in categories:
