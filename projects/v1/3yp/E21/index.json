@@ -233,6 +233,19 @@
         "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Laser-Distance-Meter",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-Laser-Distance-Meter/"
     },
+    "e21-3yp-Smart-Metrolac": {
+        "title": "Smart Metrolac",
+        "description": "Firmware and hardware design for the Smart-Metrolac, a handheld rubber latex quality profiler. Includes algorithms for static gravimetric density measurement, multi-sensor fraud detection and digitized chart interpolation for lab grade field analysis.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Smart-Metrolac/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-Metrolac",
+        "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Metrolac",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-Metrolac/"
+    },
     "e21-3yp-dia-smart": {
         "title": "dia smart",
         "description": "Dia-Smart is an IoT ecosystem automating diabetes compliance. It combines a Smart Cap for precise insulin dosage tracking via inertial sensing, a Gluco-Fetcher to digitize blood sugar readings, and a Smart Vault for inventory safety. This closed-loop system correlates therapy data to prevent dangerous errors for elderly and Type 1 patients.",
@@ -258,19 +271,6 @@
         "repo_url": "https://github.com/cepdnaclk/e21-3yp-diasmart",
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/diasmart/"
-    },
-    "e21-3yp-group-16": {
-        "title": "group 16",
-        "description": "Firmware and hardware design for the Smart-Metrolac, a handheld rubber latex quality profiler. Includes algorithms for static gravimetric density measurement, multi-sensor fraud detection and digitized chart interpolation for lab grade field analysis.",
-        "category": {
-            "title": "Cyber-Physical Systems Projects",
-            "code": "3yp",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/group-16/",
-        "repo_url": "https://github.com/cepdnaclk/e21-3yp-group-16",
-        "page_url": "https://cepdnaclk.github.io/e21-3yp-group-16",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/group-16/"
     },
     "e21-3yp-group-18": {
         "title": "group 18",

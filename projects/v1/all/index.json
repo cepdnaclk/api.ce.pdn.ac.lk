@@ -1938,20 +1938,8 @@
         "repo_url": "https://github.com/cepdnaclk/e22-co2060-Tour-guide",
         "page_url": "https://cepdnaclk.github.io/e22-co2060-Tour-guide",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Tour-guide/",
-        "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-Tour-guide/data/thumbnail.jpg",
-        "team": {
-            "E/22/400": {
-                "name": "T.Thivision",
-                "email": "e22400@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/400",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22400.JPG",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/400/"
-            }
-        },
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+        "team": {},
         "supervisors": {},
         "tags": [
             "Web",
@@ -9020,6 +9008,20 @@
             "Embedded Systems"
         ]
     },
+    "e21-3yp-Smart-Metrolac": {
+        "title": "Smart Metrolac",
+        "description": "Firmware and hardware design for the Smart-Metrolac, a handheld rubber latex quality profiler. Includes algorithms for static gravimetric density measurement, multi-sensor fraud detection and digitized chart interpolation for lab grade field analysis.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Smart-Metrolac/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-Metrolac",
+        "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Metrolac",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-Metrolac/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg"
+    },
     "e21-3yp-dia-smart": {
         "title": "dia smart",
         "description": "Dia-Smart is an IoT ecosystem automating diabetes compliance. It combines a Smart Cap for precise insulin dosage tracking via inertial sensing, a Gluco-Fetcher to digitize blood sugar readings, and a Smart Vault for inventory safety. This closed-loop system correlates therapy data to prevent dangerous errors for elderly and Type 1 patients.",
@@ -9120,20 +9122,6 @@
         "repo_url": "https://github.com/cepdnaclk/e21-3yp-diasmart",
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/diasmart/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg"
-    },
-    "e21-3yp-group-16": {
-        "title": "group 16",
-        "description": "Firmware and hardware design for the Smart-Metrolac, a handheld rubber latex quality profiler. Includes algorithms for static gravimetric density measurement, multi-sensor fraud detection and digitized chart interpolation for lab grade field analysis.",
-        "category": {
-            "title": "Cyber-Physical Systems Projects",
-            "code": "3yp",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/group-16/",
-        "repo_url": "https://github.com/cepdnaclk/e21-3yp-group-16",
-        "page_url": "https://cepdnaclk.github.io/e21-3yp-group-16",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/group-16/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg"
     },
     "e21-3yp-group-18": {
@@ -34594,55 +34582,7 @@
         "repo_url": "https://github.com/cepdnaclk/e18-co326-water-level-monitoring-and-control-system",
         "page_url": "https://cepdnaclk.github.io/e18-co326-water-level-monitoring-and-control-system",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/water-level-monitoring-and-control-system/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-        "team": {
-            "E/18/030": {
-                "name": "Athathanayake A.M.S.",
-                "email": "e18030@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/030",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18030.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/030/"
-            },
-            "E/18/282": {
-                "name": "Ranasinghe R.A.N.S.",
-                "email": "e18282@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/282",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18282.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/282/"
-            },
-            "E/18/283": {
-                "name": "Ranasinghe R.D.J.M.",
-                "email": "e18283@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/JayathriRanasinghe",
-                "linkedin": "https://www.linkedin.com/in/jayathri-ranasinghe-2171a9204/",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E18/283",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18283.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e18/283/"
-            }
-        },
-        "supervisors": {
-            "kamalanath@eng.pdn.ac.lk": {
-                "name": "Prof. Kamalanath Samarakoon",
-                "email": "kamalanath@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/kamalanath-samarakoon/",
-                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/kamalanath-samarakoon.png",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
-                "website": "#",
-                "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
-                "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
-                "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
-            }
-        }
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
     },
     "e19-co326-Autonomous-Land-Vehicle-Control-System-for-agriculture": {
         "title": "Autonomous Land Vehicle Control System for agriculture",
@@ -39843,6 +39783,20 @@
                 "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
             }
         }
+    },
+    "e20-co543-water-mark-removal": {
+        "title": "water mark removal",
+        "description": "",
+        "category": {
+            "title": "Image Processing Projects (CO543)",
+            "code": "co543",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/water-mark-removal/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co543-water-mark-removal",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/water-mark-removal/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg"
     },
     "e17-co543-Mini-Project-Group-H": {
         "title": "Mini Project Group H",
