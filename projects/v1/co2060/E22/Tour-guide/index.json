@@ -11,11 +11,77 @@
     "page_url": "https://cepdnaclk.github.io/e22-co2060-Tour-guide",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Tour-guide/",
     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-    "team": {},
-    "supervisors": {},
+    "team": {
+        "E/22/138": {
+            "name": "H.M.C.H.Herath",
+            "email": "e22138@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/138",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22138.JPG",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/138/"
+        },
+        "E/22/084": {
+            "name": "D.M.P.M.Disanayaka",
+            "email": "e22084@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/084",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22084.JPG",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/084/"
+        },
+        "E/22/400": {
+            "name": "T.Thivision",
+            "email": "e22400@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/400",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22400.JPG",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/400/"
+        },
+        "E/22/250": {
+            "name": "I.Neilavan",
+            "email": "e22250@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/250",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22250.JPG",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/250/"
+        }
+    },
+    "supervisors": {
+        "e21415@eng.pdn.ac.lk": {
+            "name": "Chamika",
+            "email": "e21415@eng.pdn.ac.lk",
+            "profile_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "api_url": "#",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "publications": [
+        {
+            "title": "Live Demo",
+            "journal": "Netlify Deployment",
+            "description": "Hosted production version of the Trip Advisor Web-App.",
+            "url": "https://travel-guide-webapp.netlify.app"
+        }
+    ],
     "tags": [
-        "Web",
+        "Trip-Advisor",
         "Software Systems",
-        "CO2060"
+        "CO2060",
+        "Super Four"
     ]
 }
