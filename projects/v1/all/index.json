@@ -1529,9 +1529,9 @@
                 "website": "",
                 "github": "https://github.com/zerokali20",
                 "linkedin": "www.linkedin.com/in/bhagya-karunanayake-b52085270",
-                "researchgate": "",
+                "researchgate": "https://www.researchgate.net/profile/Bhagya-Karunanayake",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/184",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22184.jpeg",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22184.jpg",
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e22/184/"
             },
             "E/22/396": {
@@ -1887,9 +1887,9 @@
                 "name": "K.H.D.M.Bimsara",
                 "email": "e22052@eng.pdn.ac.lk",
                 "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
+                "github": "https://github.com/mbimsara",
+                "linkedin": "www.linkedin.com/in/matheesha-bimsara-38001a34a",
+                "researchgate": "https://www.researchgate.net/profile/Matheesha-Bimsara?ev=hdr_xprf",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/052",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22052.JPG",
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e22/052/"
@@ -2055,7 +2055,7 @@
         "repo_url": "https://github.com/cepdnaclk/e22-co2060-floodguard",
         "page_url": "https://cepdnaclk.github.io/e22-co2060-floodguard",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/floodguard/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+        "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-floodguard/data/thumbnail.jpg",
         "team": {
             "E/22/373": {
                 "name": "L.Sharmilan",
@@ -2104,7 +2104,7 @@
         },
         "supervisors": {
             "e21138@eng.pdn.ac.lk": {
-                "name": "M.N.A. Fikry",
+                "name": "FIKRY M.N.A",
                 "email": "e21138@eng.pdn.ac.lk",
                 "profile_url": "#",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
@@ -8722,7 +8722,19 @@
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e21/391/"
             }
         },
-        "supervisors": {},
+        "supervisors": {
+            "yasodhav@eng.pdn.ac.lk": {
+                "name": "Ms. Yasodha Vimukthi",
+                "email": "yasodhav@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
         "tags": [
             "Web",
             "Embedded Systems"
