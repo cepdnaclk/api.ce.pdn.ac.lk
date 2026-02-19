@@ -1,15 +1,15 @@
 {
-    "title": "Smart Dog Collar",
+    "title": "PetGuard Pro",
     "description": "Smart pet collar system for real-time tracking, geo-fencing alerts, and health monitoring using IoT, a mobile app, and an AWS-based backend.",
     "category": {
         "title": "Cyber-Physical Systems Projects",
         "code": "3yp",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
     },
-    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Smart-Dog-Collar/",
-    "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-Dog-Collar",
-    "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Dog-Collar",
-    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-Dog-Collar/",
+    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/PetGuard-Pro/",
+    "repo_url": "https://github.com/cepdnaclk/e21-3yp-PetGuard-Pro",
+    "page_url": "https://cepdnaclk.github.io/e21-3yp-PetGuard-Pro",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PetGuard-Pro/",
     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
     "team": {
         "E/21/106": {
@@ -69,12 +69,23 @@
             "researchgate": "#",
             "google_scholar": "#"
         },
-        "isurun@eng.pdn.ac.lk": {
+        "isurunawinne@eng.pdn.ac.lk": {
             "name": "Dr. Isuru Nawinne",
-            "email": "isurun@eng.pdn.ac.lk",
-            "profile_url": "#",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
-            "api_url": "#",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/isuru-nawinne.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+            "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+        },
+        "thilinag@eng.pdn.ac.lk": {
+            "name": "Mr. Thilina Gunarathne",
+            "email": "thilinag@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/thilina-gunarathne/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/thilina-gunarathne.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/thilinag",
             "website": "#",
             "linkedin": "#",
             "researchgate": "#",

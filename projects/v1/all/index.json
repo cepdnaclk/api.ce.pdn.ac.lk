@@ -1511,7 +1511,7 @@
     },
     "e22-co2060-PERA-SAM": {
         "title": "PERA SAM",
-        "description": "A ML-powered Sound Analysis Manger platform | Team: Invictus | Dept. of Computer Engineering, University of Peradeniya | (2Y) CO2060: Software System Project",
+        "description": "A ML-powered software solution developed to address societal needs through sound analysis. Developed by Team Invictus as the Second Year Project (2YP) for CO2060: Software System Design (Dept. of Computer Engineering, University of Peradeniya).",
         "category": {
             "title": "Software Systems Design Project (CO2060)",
             "code": "co2060",
@@ -8405,6 +8405,108 @@
             "Responsive Design"
         ]
     },
+    "e21-3yp-PetGuard-Pro": {
+        "title": "PetGuard Pro",
+        "description": "Smart pet collar system for real-time tracking, geo-fencing alerts, and health monitoring using IoT, a mobile app, and an AWS-based backend.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/PetGuard-Pro/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-PetGuard-Pro",
+        "page_url": "https://cepdnaclk.github.io/e21-3yp-PetGuard-Pro",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PetGuard-Pro/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+        "team": {
+            "E/21/106": {
+                "name": "Dissanayaka D.M.M.B.",
+                "email": "e21106@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/106",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21106.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/106/"
+            },
+            "E/21/137": {
+                "name": "Fernando W.W.C.C.J.",
+                "email": "e21137@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/137",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21137.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/137/"
+            },
+            "E/21/350": {
+                "name": "Samarawickrama G.B.B.P.",
+                "email": "e21350@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/350",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21350.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/350/"
+            },
+            "E/21/428": {
+                "name": "Weerasooriya S.C.",
+                "email": "e21428@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/428",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21428.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/428/"
+            }
+        },
+        "supervisors": {
+            "yasodhav@eng.pdn.ac.lk": {
+                "name": "Ms. Yasodha Vimukthi",
+                "email": "yasodhav@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+                "researchgate": "#",
+                "google_scholar": "#"
+            },
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            },
+            "thilinag@eng.pdn.ac.lk": {
+                "name": "Mr. Thilina Gunarathne",
+                "email": "thilinag@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/thilina-gunarathne/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/thilina-gunarathne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/thilinag",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "IoT",
+            "Embedded Systems",
+            "Mobile Application",
+            "Cloud Computing",
+            "AWS"
+        ]
+    },
     "e21-3yp-RAID": {
         "title": "RAID",
         "description": "This autonomous IoT robot modernizes railway safety by detecting track cracks in real-time. Equipped with IR and ultrasonic sensors, it identifies defects and captures GPS-tagged images via an onboard camera. Alerts are instantly sent to a cloud dashboard, enabling proactive, risk-free maintenance.",
@@ -8906,97 +9008,6 @@
             "Web",
             "Embedded Systems",
             "IoT"
-        ]
-    },
-    "e21-3yp-Smart-Dog-Collar": {
-        "title": "Smart Dog Collar",
-        "description": "Smart pet collar system for real-time tracking, geo-fencing alerts, and health monitoring using IoT, a mobile app, and an AWS-based backend.",
-        "category": {
-            "title": "Cyber-Physical Systems Projects",
-            "code": "3yp",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Smart-Dog-Collar/",
-        "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-Dog-Collar",
-        "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Dog-Collar",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-Dog-Collar/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-        "team": {
-            "E/21/106": {
-                "name": "Dissanayaka D.M.M.B.",
-                "email": "e21106@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/106",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21106.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/106/"
-            },
-            "E/21/137": {
-                "name": "Fernando W.W.C.C.J.",
-                "email": "e21137@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/137",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21137.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/137/"
-            },
-            "E/21/350": {
-                "name": "Samarawickrama G.B.B.P.",
-                "email": "e21350@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/350",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21350.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/350/"
-            },
-            "E/21/428": {
-                "name": "Weerasooriya S.C.",
-                "email": "e21428@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/428",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21428.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/428/"
-            }
-        },
-        "supervisors": {
-            "yasodhav@eng.pdn.ac.lk": {
-                "name": "Ms. Yasodha Vimukthi",
-                "email": "yasodhav@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
-                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
-                "website": "#",
-                "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
-                "researchgate": "#",
-                "google_scholar": "#"
-            },
-            "isurun@eng.pdn.ac.lk": {
-                "name": "Dr. Isuru Nawinne",
-                "email": "isurun@eng.pdn.ac.lk",
-                "profile_url": "#",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
-                "api_url": "#",
-                "website": "#",
-                "linkedin": "#",
-                "researchgate": "#",
-                "google_scholar": "#"
-            }
-        },
-        "tags": [
-            "IoT",
-            "Embedded Systems",
-            "Mobile Application",
-            "Cloud Computing",
-            "AWS"
         ]
     },
     "e21-3yp-Smart-IV": {

@@ -103,6 +103,19 @@
         "page_url": "https://cepdnaclk.github.io/e21-3yp-PathFinder",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PathFinder/"
     },
+    "e21-3yp-PetGuard-Pro": {
+        "title": "PetGuard Pro",
+        "description": "Smart pet collar system for real-time tracking, geo-fencing alerts, and health monitoring using IoT, a mobile app, and an AWS-based backend.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/PetGuard-Pro/",
+        "repo_url": "https://github.com/cepdnaclk/e21-3yp-PetGuard-Pro",
+        "page_url": "https://cepdnaclk.github.io/e21-3yp-PetGuard-Pro",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PetGuard-Pro/"
+    },
     "e21-3yp-RAID": {
         "title": "RAID",
         "description": "This autonomous IoT robot modernizes railway safety by detecting track cracks in real-time. Equipped with IR and ultrasonic sensors, it identifies defects and captures GPS-tagged images via an onboard camera. Alerts are instantly sent to a cloud dashboard, enabling proactive, risk-free maintenance.",
@@ -193,19 +206,6 @@
         "repo_url": "https://github.com/cepdnaclk/e21-3yp-SlideSense",
         "page_url": "https://cepdnaclk.github.io/e21-3yp-SlideSense",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SlideSense/"
-    },
-    "e21-3yp-Smart-Dog-Collar": {
-        "title": "Smart Dog Collar",
-        "description": "Smart pet collar system for real-time tracking, geo-fencing alerts, and health monitoring using IoT, a mobile app, and an AWS-based backend.",
-        "category": {
-            "title": "Cyber-Physical Systems Projects",
-            "code": "3yp",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Smart-Dog-Collar/",
-        "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-Dog-Collar",
-        "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Dog-Collar",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-Dog-Collar/"
     },
     "e21-3yp-Smart-IV": {
         "title": "Smart IV",
