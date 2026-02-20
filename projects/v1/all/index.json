@@ -1253,7 +1253,59 @@
         "repo_url": "https://github.com/cepdnaclk/e22-co2060-DMS",
         "page_url": "https://cepdnaclk.github.io/e22-co2060-DMS",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/DMS/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+        "team": {
+            "E/22/271": {
+                "name": "P.Pathimilan",
+                "email": "e22271@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/271",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22271.JPG",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/271/"
+            },
+            "E/22/051": {
+                "name": "K.Bhaveenthan",
+                "email": "e22051@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/051",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22051.JPG",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/051/"
+            },
+            "E/22/176": {
+                "name": "A.L.Jeyanth",
+                "email": "e22176@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/176",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22176.JPG",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/176/"
+            },
+            "E/22/227": {
+                "name": "P.Manojh",
+                "email": "e22227@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/227",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22227.JPG",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/227/"
+            }
+        },
+        "supervisors": {},
+        "tags": [
+            "Web",
+            "Software Systems",
+            "CO2060"
+        ]
     },
     "e22-co2060-MediTriage": {
         "title": "MediTriage",
@@ -8596,7 +8648,58 @@
         "repo_url": "https://github.com/cepdnaclk/e21-3yp-ReflectStudio",
         "page_url": "https://cepdnaclk.github.io/e21-3yp-ReflectStudio",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/ReflectStudio/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+        "team": {
+            "E/21/287": {
+                "name": "Sithum Perera",
+                "email": "e21287@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/287",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21287.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/287/"
+            },
+            "E/21/229": {
+                "name": "Anna kurera",
+                "email": "e21229@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/229",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21229.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/229/"
+            },
+            "E/21/055": {
+                "name": "Kasun Lakshan",
+                "email": "e21055@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/055",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21055.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/055/"
+            },
+            "E/21/253": {
+                "name": "Thenuka Ravindu",
+                "email": "e21253@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/253",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21253.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/253/"
+            }
+        },
+        "supervisors": {},
+        "tags": [
+            "Web",
+            "Embedded Systems"
+        ]
     },
     "e21-3yp-ResQ": {
         "title": "ResQ",
@@ -13118,7 +13221,70 @@
         "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Locker-System",
         "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Locker-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Locker-System/",
-        "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Locker-System/data/thumbnail.jpg"
+        "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Locker-System/data/thumbnail.jpg",
+        "team": {
+            "E/20/036": {
+                "name": "Bandara K.G.R.I.",
+                "email": "e20036@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/induwara23630",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/036",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20036.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/036/"
+            },
+            "E/20/212": {
+                "name": "Kumarasinghe R.M.S.H.",
+                "email": "e20212@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/sameera-87",
+                "linkedin": "https://www.linkedin.com/in/sameera-kumarasinghe-98b70526a/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/212",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20212.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/212/"
+            },
+            "E/20/350": {
+                "name": "Sandamali J.P.D.N.",
+                "email": "e20350@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "https://www.linkedin.com/in/dharani-navodya-833641213",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/350",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20350.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/350/"
+            },
+            "E/20/377": {
+                "name": "Sidantha V.P.H",
+                "email": "e20377@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/sidantha0377",
+                "linkedin": "https://www.linkedin.com/in/heshan-sidantha-5b9925296/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/377",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20377.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/377/"
+            }
+        },
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            }
+        },
+        "tags": [
+            "Web",
+            "Embedded Systems"
+        ]
     },
     "e20-3yp-Smart-Shopping-Cart": {
         "title": "Smart Shopping Cart",
@@ -13267,7 +13433,70 @@
         "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Waste-Management-System",
         "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Waste-Management-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Waste-Management-System/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+        "team": {
+            "E/20/049": {
+                "name": "Chanuka B.D.K.",
+                "email": "e20049@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/chanukabdk",
+                "linkedin": "https://www.linkedin.com/in/chanukabdk/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/049",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20049.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/049/"
+            },
+            "E/20/093": {
+                "name": "Edirisooriya D.M.B.",
+                "email": "e20093@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/madhurab00",
+                "linkedin": "https://www.linkedin.com/in/madhura-edirisooriya-a8037529b/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/093",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20093.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/093/"
+            },
+            "E/20/244": {
+                "name": "Malshan P.G.P.",
+                "email": "e20244@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/244",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20244.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/244/"
+            },
+            "E/20/271": {
+                "name": "Nirmani K.G.H.",
+                "email": "e20271@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/hasini416",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/271",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20271.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/271/"
+            }
+        },
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            }
+        },
+        "tags": [
+            "Web",
+            "Embedded Systems"
+        ]
     },
     "e20-3yp-The_Robot_Waiter": {
         "title": "The_Robot_Waiter",
@@ -31598,7 +31827,47 @@
         "repo_url": "https://github.com/cepdnaclk/e21-co227-ExpoEvent-Task1-C-Bookmark-and-Notification-System",
         "page_url": "https://cepdnaclk.github.io/e21-co227-ExpoEvent-Task1-C-Bookmark-and-Notification-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/ExpoEvent-Task1-C-Bookmark-and-Notification-System/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+        "team": {
+            "E/21/005": {
+                "name": "ABEYKOON A.M.S.D.",
+                "email": "e21005@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/005",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21005.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/005/"
+            },
+            "E/21/196": {
+                "name": "JAYASOORIYA J.A.D.N.",
+                "email": "e21196@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/Diwyajayasooriya",
+                "linkedin": "https://www.linkedin.com/in/diwyanjali-jayasooriya-92ba26250",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/196",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21196.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/196/"
+            }
+        },
+        "supervisors": {
+            "yasodhav@eng.pdn.ac.lk": {
+                "name": "Ms. Yasodha Vimukthi",
+                "email": "yasodhav@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Web"
+        ]
     },
     "e21-co227-Heat_map": {
         "title": "Heat_map",
