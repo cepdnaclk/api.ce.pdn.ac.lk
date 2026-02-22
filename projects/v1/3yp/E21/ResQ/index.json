@@ -58,6 +58,17 @@
         }
     },
     "supervisors": {
+        "isurunawinne@eng.pdn.ac.lk": {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/isuru-nawinne.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+            "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+        },
         "yasodhav@eng.pdn.ac.lk": {
             "name": "Ms. Yasodha Vimukthi",
             "email": "yasodhav@eng.pdn.ac.lk",
@@ -68,12 +79,37 @@
             "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
             "researchgate": "#",
             "google_scholar": "#"
+        },
+        "e19275@eng.pdn.ac.lk": {
+            "name": "Sanka Peeris",
+            "email": "e19275@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/temporary-academic-staff/sanka-p.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/e19275",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        },
+        "e19249@eng.pdn.ac.lk": {
+            "name": "Sayumi Muthukumarana",
+            "email": "e19249@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/temporary-academic-staff/sayumi.jpeg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/e19249",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
         }
     },
     "tags": [
         "Web",
         "Embedded Systems",
         "Healthcare",
-        "Manikin"
+        "Manikin",
+        "CPR",
+        "Medical",
+        "3YP"
     ]
 }
