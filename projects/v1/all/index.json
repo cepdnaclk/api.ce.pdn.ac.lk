@@ -474,7 +474,36 @@
         "repo_url": "https://github.com/cepdnaclk/e23-co2060-Health-Management-System",
         "page_url": "https://cepdnaclk.github.io/e23-co2060-Health-Management-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Health-Management-System/",
-        "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Health-Management-System/data/thumbnail.jpg"
+        "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Health-Management-System/data/thumbnail.jpg",
+        "supervisors": {
+            "asithab@eng.pdn.ac.lk": {
+                "name": "Dr. Asitha Bandaranayake",
+                "email": "asithab@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/asitha-bandaranayake.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/asithab",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/asithab/",
+                "researchgate": "https://www.researchgate.net/profile/Asitha-Bandaranayake-3",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=sf6MaF4AAAAJ"
+            },
+            "e21245@eng.pdn.ac.lk": {
+                "name": "Kaveesha Madhushan",
+                "email": "e21245@eng.pdn.ac.lk",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Web",
+            "Software Systems",
+            "CO2060"
+        ]
     },
     "e23-co2060-Hotel-Management-System": {
         "title": "Hotel Management System",
@@ -2380,9 +2409,61 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/travel-plan-assistant/",
         "repo_url": "https://github.com/cepdnaclk/e22-co2060-travel-plan-assistant",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e22-co2060-travel-plan-assistant",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/travel-plan-assistant/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+        "team": {
+            "E/22/061": {
+                "name": "D.L.S.K. Dasanayaka",
+                "email": "e22061@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/061",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22061.JPG",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/061/"
+            },
+            "E/22/074": {
+                "name": "W.Y.N. Dewshan",
+                "email": "e22074@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/074",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22074.JPG",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/074/"
+            },
+            "E/22/233": {
+                "name": "T.S.P. Matharaarachchi",
+                "email": "e22233@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/233",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22233.JPG",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/233/"
+            },
+            "E/22/253": {
+                "name": "G.T. Nethmina",
+                "email": "e22253@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/253",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22253.JPG",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/253/"
+            }
+        },
+        "supervisors": {},
+        "tags": [
+            "Web",
+            "Software Systems",
+            "CO2060"
+        ]
     },
     "e18-6sp-3D-Model-Construction-for-a-target-class-using-XAI-Group16": {
         "title": "3D Model Construction for a target class using XAI Group16",
@@ -19794,6 +19875,20 @@
         "tags": [
             "Final Year Projects"
         ]
+    },
+    "e20-4yp-onchip-offline-neuromorphic-computing": {
+        "title": "onchip offline neuromorphic computing",
+        "description": "",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/onchip-offline-neuromorphic-computing/",
+        "repo_url": "https://github.com/cepdnaclk/e20-4yp-onchip-offline-neuromorphic-computing",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/onchip-offline-neuromorphic-computing/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
     },
     "e20-4yp-symbolic-music-generation-with-xLSTM": {
         "title": "symbolic music generation with xLSTM",
