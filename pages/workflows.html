@@ -5,64 +5,107 @@ permalink: /workflows/
 ---
 
 <h2>Action Workflows</h2>
+<p>
+  Last verified from GitHub Actions on <strong>2026-02-12 (UTC)</strong>.
+</p>
 
 <!-- projects.ce.pdn.ac.lk -->
 <h3>projects.ce.pdn.ac.lk</h3>
+
 <h5>
-  Build and Deploy
+  Build and Deploy - Daily
   <img
-    src="https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/scheduled-deploy.yml/badge.svg"
-    alt="Build and Deploy"
+    src="https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/daily-build.yml/badge.svg"
+    alt="Build and Deploy - Daily"
   />
 </h5>
 <ul>
-  <li>Build Time: Daily 12.00 Mid Night (+5:30 timezone)</li>
+  <li>Build Time: Daily 12.00 Midnight (+5:30 timezone)</li>
   <li>
     Action Link:
     <a
       target="_blank"
-      href="https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/scheduled-deploy.yml"
-      >https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/scheduled-deploy.yml</a
+      href="https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/daily-build.yml"
+      >https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/daily-build.yml</a
     >
   </li>
-
+  <li>
+    Latest Run: Success at 2026-02-11 18:51:10 UTC
+    (<a
+      target="_blank"
+      href="https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/runs/21918575709"
+      >view run</a
+    >)
+  </li>
   <li>
     Tasks:
     <ul>
-      <li>Obtain the Project information from GitHub</li>
-      <li>Update the "<i>Latest Projects</i>" list</li>
-      <li>Update the "<i>Popular Projects</i>" list</li>
+      <li>Index repositories using the Python workflow script</li>
+      <li>Format repository files</li>
+      <li>Commit and push generated updates</li>
     </ul>
   </li>
 </ul>
 
 <h5>
-  Collect Dynamic Data
+  Build and Deploy - Weekly
   <img
-    src="https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/dynamic-data.yml/badge.svg"
-    alt="Collect Dynamic Data"
+    src="https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/weekly-build.yml/badge.svg"
+    alt="Build and Deploy - Weekly"
   />
 </h5>
 <ul>
-  <li>Build Time: Weekly Every Sunday, 11.50 PM (+5:30 timezone)</li>
+  <li>Build Time: Weekly Every Monday 12.30 AM (+5:30 timezone)</li>
   <li>
     Action Link:
     <a
       target="_blank"
-      href="https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/dynamic-data.yml"
-      >https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/dynamic-data.yml</a
+      href="https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/weekly-build.yml"
+      >https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/weekly-build.yml</a
     >
   </li>
-
+  <li>
+    Latest Run: Success at 2026-02-11 02:07:59 UTC
+    (<a
+      target="_blank"
+      href="https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/runs/21890012262"
+      >view run</a
+    >)
+  </li>
   <li>
     Tasks:
     <ul>
-      <li>
-        Obtain the Project information from Projects API
-        (api.ce.pdn.ac.lk/projects/v1)
-      </li>
-      <li>Update the Project Tag information</li>
+      <li>Collect dynamic project data</li>
+      <li>Update latest and popular project listings</li>
+      <li>Format repository files and push updates</li>
     </ul>
+  </li>
+</ul>
+
+<h5>
+  pages-build-deployment
+  <img
+    src="https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/pages/pages-build-deployment/badge.svg"
+    alt="projects pages-build-deployment"
+  />
+</h5>
+<ul>
+  <li>Build Time: Triggered by GitHub Pages deployment events</li>
+  <li>
+    Action Link:
+    <a
+      target="_blank"
+      href="https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/pages/pages-build-deployment"
+      >https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/pages/pages-build-deployment</a
+    >
+  </li>
+  <li>
+    Latest Run: Success at 2026-02-11 18:54:58 UTC
+    (<a
+      target="_blank"
+      href="https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/runs/21918709168"
+      >view run</a
+    >)
   </li>
 </ul>
 
@@ -70,15 +113,14 @@ permalink: /workflows/
 <h3>people.ce.pdn.ac.lk</h3>
 
 <h5>
-  Update Profile Details - Daily
+  Daily Updates
   <img
     src="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/daily.yml/badge.svg"
-    alt=""
+    alt="Daily Updates"
   />
 </h5>
-
 <ul>
-  <li>Build Time: Daily 12.00 Mid Night (+5:30 timezone)</li>
+  <li>Build Time: Daily 12.00 Midnight (+5:30 timezone)</li>
   <li>
     Action Link:
     <a
@@ -87,13 +129,21 @@ permalink: /workflows/
       >https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/daily.yml</a
     >
   </li>
-
+  <li>
+    Latest Run: Success at 2026-02-11 18:49:08 UTC
+    (<a
+      target="_blank"
+      href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/runs/21918504878"
+      >view run</a
+    >)
+  </li>
   <li>
     Tasks:
     <ul>
-      <li>Update Undergraduate Student Profiles from Google Form</li>
-      <li>Update Postgraduate Student Profiles from Google Form</li>
-      <li>Resize Student Images</li>
+      <li>Update staff pages from the portal</li>
+      <li>Update undergraduate and postgraduate profiles from Google Forms</li>
+      <li>Resize student images</li>
+      <li>Update student project and publication details</li>
     </ul>
   </li>
 </ul>
@@ -102,11 +152,11 @@ permalink: /workflows/
   Weekly Updates
   <img
     src="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/weekly.yml/badge.svg"
-    alt=""
+    alt="Weekly Updates"
   />
 </h5>
 <ul>
-  <li>Build Time: 12.30 AM Monday (+5:30 timezone)</li>
+  <li>Build Time: Weekly Every Monday 12.30 AM (+5:30 timezone)</li>
   <li>
     Action Link:
     <a
@@ -115,43 +165,48 @@ permalink: /workflows/
       >https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/weekly.yml</a
     >
   </li>
-
+  <li>
+    Latest Run: Success at 2026-02-08 19:06:01 UTC
+    (<a
+      target="_blank"
+      href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/runs/21803669275"
+      >view run</a
+    >)
+  </li>
   <li>
     Tasks:
     <ul>
-      <li>Download Academic Staff pages from Google Drive</li>
-      <li>Generate Performance Badges for the students</li>
-      <li>ACES Committee detail update</li>
-      <li>Resize Staff Images</li>
+      <li>Generate performance badges for students</li>
+      <li>Update ACES committee details</li>
+      <li>Format repository files and push updates</li>
     </ul>
   </li>
 </ul>
 
 <h5>
-  Update Project and Publication Details
+  pages-build-deployment
   <img
-    src="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/update_projects_n_publications.yml/badge.svg"
-    alt=""
+    src="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/pages/pages-build-deployment/badge.svg"
+    alt="people pages-build-deployment"
   />
 </h5>
-
 <ul>
-  <li>Build Time: Daily 12.10 AM (+5:30 timezone)</li>
+  <li>Build Time: Triggered by GitHub Pages deployment events</li>
   <li>
     Action Link:
     <a
       target="_blank"
-      href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/update_projects_n_publications.yml"
-      >https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/update_projects_n_publications.yml</a
+      href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/pages/pages-build-deployment"
+      >https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/pages/pages-build-deployment</a
     >
   </li>
-
   <li>
-    Tasks:
-    <ul>
-      <li>Update Student Project Details</li>
-      <li>Update Student/Staff Publication Details</li>
-    </ul>
+    Latest Run: Success at 2026-02-11 18:52:04 UTC
+    (<a
+      target="_blank"
+      href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/runs/21918606087"
+      >view run</a
+    >)
   </li>
 </ul>
 
@@ -162,10 +217,9 @@ permalink: /workflows/
   Daily Build
   <img
     src="https://github.com/cepdnaclk/api.ce.pdn.ac.lk/actions/workflows/daily.yml/badge.svg"
-    alt=""
+    alt="Daily Build"
   />
 </h5>
-
 <ul>
   <li>Build Time: Daily 12.20 AM (+5:30 timezone)</li>
   <li>
@@ -176,12 +230,20 @@ permalink: /workflows/
       >https://github.com/cepdnaclk/api.ce.pdn.ac.lk/actions/workflows/daily.yml</a
     >
   </li>
-
+  <li>
+    Latest Run: Success at 2026-02-11 19:14:22 UTC
+    (<a
+      target="_blank"
+      href="https://github.com/cepdnaclk/api.ce.pdn.ac.lk/actions/runs/21919384102"
+      >view run</a
+    >)
+  </li>
   <li>
     Tasks:
     <ul>
-      <li>Generate Student API files</li>
-      <li>Generate Academic Staff API files</li>
+      <li>Generate Students and Staff API files</li>
+      <li>Generate and filter Projects API files</li>
+      <li>Update location data from Google Sheets</li>
     </ul>
   </li>
 </ul>
@@ -190,10 +252,9 @@ permalink: /workflows/
   Publications API
   <img
     src="https://github.com/cepdnaclk/api.ce.pdn.ac.lk/actions/workflows/publications_api.yml/badge.svg"
-    alt=""
+    alt="Publications API"
   />
 </h5>
-
 <ul>
   <li>Build Time: Daily 6.00 AM (+5:30 timezone)</li>
   <li>
@@ -204,25 +265,30 @@ permalink: /workflows/
       >https://github.com/cepdnaclk/api.ce.pdn.ac.lk/actions/workflows/publications_api.yml</a
     >
   </li>
-
+  <li>
+    Latest Run: Success at 2026-02-12 00:55:12 UTC
+    (<a
+      target="_blank"
+      href="https://github.com/cepdnaclk/api.ce.pdn.ac.lk/actions/runs/21929244386"
+      >view run</a
+    >)
+  </li>
   <li>
     Tasks:
     <ul>
-      <li>Generate Publication files</li>
-      <li>Generate filtered Publication lists</li>
-      <li>Send the notifications to Discord Webhook</li>
+      <li>Generate publication files and filtered lists</li>
+      <li>Send publication notifications to Discord webhook</li>
     </ul>
   </li>
 </ul>
 
 <h5>
-  Workflow Status Check
+  Workflow Check
   <img
     src="https://github.com/cepdnaclk/api.ce.pdn.ac.lk/actions/workflows/workflow_check.yml/badge.svg"
-    alt=""
+    alt="Workflow Check"
   />
 </h5>
-
 <ul>
   <li>Build Time: Daily 1.30 AM (+5:30 timezone)</li>
   <li>
@@ -233,11 +299,45 @@ permalink: /workflows/
       >https://github.com/cepdnaclk/api.ce.pdn.ac.lk/actions/workflows/workflow_check.yml</a
     >
   </li>
-
+  <li>
+    Latest Run: Success at 2026-02-11 20:13:27 UTC
+    (<a
+      target="_blank"
+      href="https://github.com/cepdnaclk/api.ce.pdn.ac.lk/actions/runs/21921392508"
+      >view run</a
+    >)
+  </li>
   <li>
     Tasks:
     <ul>
-      <li>Check the status of the Workflows and update the Workflow API</li>
+      <li>Check workflow statuses and update workflow API data</li>
     </ul>
+  </li>
+</ul>
+
+<h5>
+  pages-build-deployment
+  <img
+    src="https://github.com/cepdnaclk/api.ce.pdn.ac.lk/actions/workflows/pages/pages-build-deployment/badge.svg"
+    alt="api pages-build-deployment"
+  />
+</h5>
+<ul>
+  <li>Build Time: Triggered by GitHub Pages deployment events</li>
+  <li>
+    Action Link:
+    <a
+      target="_blank"
+      href="https://github.com/cepdnaclk/api.ce.pdn.ac.lk/actions/workflows/pages/pages-build-deployment"
+      >https://github.com/cepdnaclk/api.ce.pdn.ac.lk/actions/workflows/pages/pages-build-deployment</a
+    >
+  </li>
+  <li>
+    Latest Run: Success at 2026-02-11 20:13:51 UTC
+    (<a
+      target="_blank"
+      href="https://github.com/cepdnaclk/api.ce.pdn.ac.lk/actions/runs/21921405622"
+      >view run</a
+    >)
   </li>
 </ul>

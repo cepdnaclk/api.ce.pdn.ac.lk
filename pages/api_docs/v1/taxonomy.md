@@ -1,6 +1,6 @@
 ---
 layout: swagger
-permalink: '/docs/taxonomy/'
+permalink: '/docs/v1/taxonomy/'
 title: 'Taxonomy API'
 
 is_remote: true

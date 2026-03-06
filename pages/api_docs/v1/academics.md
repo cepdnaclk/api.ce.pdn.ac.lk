@@ -1,6 +1,6 @@
 ---
 layout: swagger
-permalink: '/docs/academics/'
+permalink: '/docs/v1/academics/'
 title: 'Academics API'
 
 is_remote: true
