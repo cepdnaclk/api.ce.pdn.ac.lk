@@ -25,7 +25,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/MyStay-Boarding-Platform/",
             "repo_url": "https://github.com/cepdnaclk/e22-co2060-MyStay-Boarding-Platform",
             "page_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MyStay-Boarding-Platform/"
         }
     ],
@@ -239,45 +239,6 @@
         }
     ],
     "asithab@eng.pdn.ac.lk": [
-        {
-            "title": "Health Management System",
-            "category": {
-                "code": "co2060",
-                "title": "Software Systems Design Project (CO2060)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Health-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e23-co2060-Health-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e23-co2060-Health-Management-System",
-            "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Health-Management-System/data/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Health-Management-System/"
-        },
-        {
-            "title": "Orthodontics Workflow Automation System",
-            "category": {
-                "code": "co2060",
-                "title": "Software Systems Design Project (CO2060)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Orthodontics-Workflow-Automation-System/",
-            "repo_url": "https://github.com/cepdnaclk/e23-co2060-Orthodontics-Workflow-Automation-System",
-            "page_url": "https://cepdnaclk.github.io/e23-co2060-Orthodontics-Workflow-Automation-System",
-            "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Orthodontics-Workflow-Automation-System/data/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Orthodontics-Workflow-Automation-System/"
-        },
-        {
-            "title": "OrthoPAR Web Platform",
-            "category": {
-                "code": "co2060",
-                "title": "Software Systems Design Project (CO2060)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/OrthoPAR-Web-Platform/",
-            "repo_url": "https://github.com/cepdnaclk/e22-co2060-OrthoPAR-Web-Platform",
-            "page_url": "https://cepdnaclk.github.io/e22-co2060-OrthoPAR-Web-Platform",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/OrthoPAR-Web-Platform/"
-        },
         {
             "title": "Analysis and visualization of complex software system traces",
             "category": {
@@ -654,6 +615,45 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Logging-Microservice-for-IoT-based-Smart-Agriculture-Project",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Logging-Microservice-for-IoT-based-Smart-Agriculture-Project/"
+        },
+        {
+            "title": "OrthoPAR Web Platform",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/OrthoPAR-Web-Platform/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co2060-OrthoPAR-Web-Platform",
+            "page_url": "https://cepdnaclk.github.io/e22-co2060-OrthoPAR-Web-Platform",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/OrthoPAR-Web-Platform/"
+        },
+        {
+            "title": "Health Management System",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Health-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co2060-Health-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e23-co2060-Health-Management-System",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Health-Management-System/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Health-Management-System/"
+        },
+        {
+            "title": "Orthodontics Workflow Automation System",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Orthodontics-Workflow-Automation-System/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co2060-Orthodontics-Workflow-Automation-System",
+            "page_url": "https://cepdnaclk.github.io/e23-co2060-Orthodontics-Workflow-Automation-System",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Orthodontics-Workflow-Automation-System/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Orthodontics-Workflow-Automation-System/"
         }
     ],
     "asithab@pdn.ac.lk": [
@@ -1916,19 +1916,6 @@
     ],
     "e21005@eng.pdn.ac.lk": [
         {
-            "title": "MPhil PhD Lifecycle Management System",
-            "category": {
-                "code": "co2060",
-                "title": "Software Systems Design Project (CO2060)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/MPhil-PhD-Lifecycle-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
-        },
-        {
             "title": "Crop Yield Optimization and Intelligent Plant Disease Analysis",
             "category": {
                 "code": "co2060",
@@ -1940,6 +1927,19 @@
             "page_url": "https://cepdnaclk.github.io/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/"
+        },
+        {
+            "title": "MPhil PhD Lifecycle Management System",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/MPhil-PhD-Lifecycle-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
         }
     ],
     "e21077@eng.pdn.ac.lk": [
@@ -1974,19 +1974,6 @@
     ],
     "e21148@eng.pdn.ac.lk": [
         {
-            "title": "Kitchen Foods Platform",
-            "category": {
-                "code": "co2060",
-                "title": "Software Systems Design Project (CO2060)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Kitchen-Foods-Platform/",
-            "repo_url": "https://github.com/cepdnaclk/e23-co2060-Kitchen-Foods-Platform",
-            "page_url": "https://cepdnaclk.github.io/e23-co2060-Kitchen-Foods-Platform",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Kitchen-Foods-Platform/"
-        },
-        {
             "title": "OrthoPAR Web Platform",
             "category": {
                 "code": "co2060",
@@ -1998,6 +1985,19 @@
             "page_url": "https://cepdnaclk.github.io/e22-co2060-OrthoPAR-Web-Platform",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/OrthoPAR-Web-Platform/"
+        },
+        {
+            "title": "Kitchen Foods Platform",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Kitchen-Foods-Platform/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co2060-Kitchen-Foods-Platform",
+            "page_url": "https://cepdnaclk.github.io/e23-co2060-Kitchen-Foods-Platform",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Kitchen-Foods-Platform/"
         }
     ],
     "e21180@eng.pdn.ac.lk": [
@@ -5363,19 +5363,6 @@
     ],
     "ksandamala2002@dental.pdn.ac.lk": [
         {
-            "title": "Orthodontics Workflow Automation System",
-            "category": {
-                "code": "co2060",
-                "title": "Software Systems Design Project (CO2060)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Orthodontics-Workflow-Automation-System/",
-            "repo_url": "https://github.com/cepdnaclk/e23-co2060-Orthodontics-Workflow-Automation-System",
-            "page_url": "https://cepdnaclk.github.io/e23-co2060-Orthodontics-Workflow-Automation-System",
-            "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Orthodontics-Workflow-Automation-System/data/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Orthodontics-Workflow-Automation-System/"
-        },
-        {
             "title": "Automated PAR Index Calculation on Orthodontic Treatment Using Software and Machine Learning",
             "category": {
                 "code": "4yp",
@@ -5387,6 +5374,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-4yp-Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning/"
+        },
+        {
+            "title": "Orthodontics Workflow Automation System",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Orthodontics-Workflow-Automation-System/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co2060-Orthodontics-Workflow-Automation-System",
+            "page_url": "https://cepdnaclk.github.io/e23-co2060-Orthodontics-Workflow-Automation-System",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Orthodontics-Workflow-Automation-System/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Orthodontics-Workflow-Automation-System/"
         }
     ],
     "lankaniperera@eng.pdn.ac.lk": [
@@ -7603,19 +7603,6 @@
     ],
     "roshanr@eng.pdn.ac.lk": [
         {
-            "title": "Project KNOT",
-            "category": {
-                "code": "co2060",
-                "title": "Software Systems Design Project (CO2060)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Project-KNOT/",
-            "repo_url": "https://github.com/cepdnaclk/e22-co2060-Project-KNOT",
-            "page_url": "https://cepdnaclk.github.io/e22-co2060-Project-KNOT",
-            "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-Project-KNOT/data/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Project-KNOT/"
-        },
-        {
             "title": "Analysis Tool for Industrial Images",
             "category": {
                 "code": "6sp",
@@ -8719,6 +8706,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-OASIS-Teledentistry-Mobile-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/OASIS-Teledentistry-Mobile-Application/"
+        },
+        {
+            "title": "Project KNOT",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Project-KNOT/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co2060-Project-KNOT",
+            "page_url": "https://cepdnaclk.github.io/e22-co2060-Project-KNOT",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-Project-KNOT/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Project-KNOT/"
         }
     ],
     "roshanr@pdn.ac.lk": [
@@ -9395,19 +9395,6 @@
     ],
     "upuljm@eng.pdn.ac.lk": [
         {
-            "title": "MPhil PhD Lifecycle Management System",
-            "category": {
-                "code": "co2060",
-                "title": "Software Systems Design Project (CO2060)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/MPhil-PhD-Lifecycle-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
-        },
-        {
             "title": "Realtime Flood Forecast System",
             "category": {
                 "code": "6sp",
@@ -9902,6 +9889,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Postgraduate-Student-Management-System/"
         },
         {
+            "title": "MPhil PhD Lifecycle Management System",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/MPhil-PhD-Lifecycle-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
+        },
+        {
             "title": "ColorNet Grayscale image colorization project using AI and image processing",
             "category": {
                 "code": "co543",
@@ -10170,6 +10170,19 @@
             "page_url": "https://cepdnaclk.github.io/e21-3yp-Drone-Swarm",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Drone-Swarm/"
+        },
+        {
+            "title": "GUARD",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/GUARD/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-GUARD",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-GUARD",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/GUARD/"
         },
         {
             "title": "GloveXcel",

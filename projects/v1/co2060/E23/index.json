@@ -12,19 +12,6 @@
         "page_url": "https://cepdnaclk.github.io/e23-CO2060-Smart_Travel_Companion",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Smart_Travel_Companion/"
     },
-    "e23-co2060-2YP-SkillShare": {
-        "title": "2YP SkillShare",
-        "description": "Skill-Share is a platform where the university students can share not only their academic knowledge but maily also their soft skills with their collegues for another skill which they interested in learning in return. This platform match the user interested skills with others' interests and find a common free slot for the meetup.",
-        "category": {
-            "title": "Software Systems Design Project (CO2060)",
-            "code": "co2060",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/2YP-SkillShare/",
-        "repo_url": "https://github.com/cepdnaclk/e23-co2060-2YP-SkillShare",
-        "page_url": "https://cepdnaclk.github.io/e23-co2060-2YP-SkillShare",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/2YP-SkillShare/"
-    },
     "e23-co2060-Alumnet": {
         "title": "Alumnet",
         "description": "A scalable, role-based platform for streamlining alumni-student mentorship and university event management. Built with React, Node.js and PostgreSQL for the CO2060 Software System Design Project.",
@@ -181,6 +168,19 @@
         "page_url": "https://cepdnaclk.github.io/e23-co2060-Maathacare",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Maathacare/"
     },
+    "e23-co2060-Merch4Change": {
+        "title": "Merch4Change",
+        "description": "This project develops a scalable and secure e-commerce web application featuring product browsing, cart management, secure payments, and an admin dashboard. It focuses on performance, usability, and reliability using modern software design principles.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Merch4Change/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co2060-Merch4Change",
+        "page_url": "https://cepdnaclk.github.io/e23-co2060-Merch4Change",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Merch4Change/"
+    },
     "e23-co2060-NexClinic": {
         "title": "NexClinic",
         "description": "An AI based healthcare application that connects patients and doctors allowing secure login appointment management medical reminders and future AI assisted health support",
@@ -243,8 +243,21 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/RoadAid/",
         "repo_url": "https://github.com/cepdnaclk/e23-co2060-RoadAid",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e23-co2060-RoadAid",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/RoadAid/"
+    },
+    "e23-co2060-SkillShare": {
+        "title": "SkillShare",
+        "description": "Skill-Share is a platform where the university students can share not only their academic knowledge but maily also their soft skills with their collegues for another skill which they interested in learning in return. This platform match the user interested skills with others' interests and find a common free slot for the meetup.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/SkillShare/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co2060-SkillShare",
+        "page_url": "https://cepdnaclk.github.io/e23-co2060-SkillShare",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/SkillShare/"
     },
     "e23-co2060-Smart-Tourism": {
         "title": "Smart Tourism",
@@ -271,19 +284,6 @@
         "repo_url": "https://github.com/cepdnaclk/e23-co2060-TransitPro",
         "page_url": "https://cepdnaclk.github.io/e23-co2060-TransitPro",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/TransitPro/"
-    },
-    "e23-co2060-antigravity": {
-        "title": "antigravity",
-        "description": "This project develops a scalable and secure e-commerce web application featuring product browsing, cart management, secure payments, and an admin dashboard. It focuses on performance, usability, and reliability using modern software design principles.",
-        "category": {
-            "title": "Software Systems Design Project (CO2060)",
-            "code": "co2060",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/antigravity/",
-        "repo_url": "https://github.com/cepdnaclk/e23-co2060-antigravity",
-        "page_url": "https://cepdnaclk.github.io/e23-co2060-antigravity",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/antigravity/"
     },
     "e23-co2060-stress-detection-and-analyzing-system": {
         "title": "stress detection and analyzing system",
