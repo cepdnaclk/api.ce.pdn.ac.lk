@@ -1,0 +1,44 @@
+<div class="card">
+  <div class="card-header">
+    <h5>
+      {{ include.title }}
+      <span class="badge rounded-pill bg-secondary">{{ include.version }}</span>
+      {% if include.auth %}
+      <span class="badge rounded-pill bg-warning">{{include.auth}}</span>
+      {% endif %}
+    </h5>
+  </div>
+  <div class="card-body">
+    <p class="card-text">{{ include.description }}</p>
+
+    <!-- API Index -->
+    {% if include.api_index_url %}
+    <a
+      href="{{ include.api_index_url }}"
+      class="btn btn-sm mb-1 btn-success"
+      target="_blank"
+      >Index</a
+    >
+    {% endif %}
+
+    <!-- Swagger Documentation -->
+    {% if include.docs_url %}
+    <a
+      href="{{ include.docs_url }}"
+      target="_blank"
+      class="btn btn-sm mb-1 btn-primary"
+      >API Docs</a
+    >
+    {% endif %}
+
+    <!-- Swagger Documentation -->
+    {% if include.details_url %}
+    <a
+      href="{{ include.details_url }}"
+      target="_blank"
+      class="btn btn-sm mb-1 btn-secondary"
+      >Details</a
+    >
+    {% endif %}
+  </div>
+</div>

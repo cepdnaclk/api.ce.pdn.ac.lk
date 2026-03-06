@@ -1,6 +1,6 @@
 ---
 layout: swagger
-permalink: '/docs/staff/'
+permalink: '/docs/v1/staff/'
 title: 'Staff Data API'
 
 swagger_file: "/swagger/staff.json"

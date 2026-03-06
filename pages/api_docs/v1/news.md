@@ -1,6 +1,6 @@
 ---
 layout: swagger
-permalink: '/docs/news/'
+permalink: '/docs/v1/news/'
 title: 'News API'
 
 is_remote: true

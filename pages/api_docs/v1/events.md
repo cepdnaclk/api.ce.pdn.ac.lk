@@ -1,6 +1,6 @@
 ---
 layout: swagger
-permalink: '/docs/events/'
+permalink: '/docs/v1/events/'
 title: 'Events API'
 
 is_remote: true

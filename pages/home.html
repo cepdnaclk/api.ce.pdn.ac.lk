@@ -49,279 +49,151 @@ title: "Home"
         </div>
       </div>
 
-      <!-- <h3 class="pt-3">Available APIs</h3> -->
+      <h3 class="pt-3">Latest Available APIs</h3>
 
       <div class="row pt-3 pb-5">
         <div class="col-sm-12 col-md-6 col-lg-4 pb-5">
-          <div class="card">
-            <div class="card-header">
-              <h5>
-                Students Data API
-                <span class="badge rounded-pill bg-secondary">v1</span>
-              </h5>
-            </div>
-            <div class="card-body">
-              <p class="card-text">
-                Information about the Department Students from the batch,
-                <i>E12</i> onwards can be accessed via this API.
-              </p>
-              <a href="#" class="card-link"></a>
-              <a
-                href="./people/v1/students/"
-                class="btn btn-sm mb-1 btn-success"
-                target="_blank"
-                >API Index</a
-              >
-              <a
-                href="./docs/students/"
-                target="_blank"
-                class="btn btn-sm mb-1 btn-primary"
-                >API Documentation</a
-              >
-            </div>
-          </div>
+          <!-- Student Data API v1 -->
+          {% include card_api.html title="Students Data API" version="v1"
+          description="Access public student records from the Department of
+          Computer Engineering, including batches from <i>E12</i> onward."
+          api_index_url="./people/v1/students/" docs_url="./docs/v1/students/"
+          %}
         </div>
 
         <div class="col-sm-12 col-md-6 col-lg-4 pb-5">
-          <div class="card">
-            <div class="card-header">
-              <h5>
-                Projects Data API
-                <span class="badge rounded-pill bg-secondary">v1</span>
-              </h5>
-            </div>
-            <div class="card-body">
-              <p class="card-text">
-                Information about the student projects under a few different
-                categories can be found from this API.
-              </p>
-              <a
-                href="./projects/v1/"
-                class="btn btn-sm mb-1 btn-success"
-                target="_blank"
-                >API Index</a
-              >
-              <a
-                href="./docs/projects/"
-                target="_blank"
-                class="btn btn-sm mb-1 btn-primary"
-                >API Documentation</a
-              >
-            </div>
-          </div>
+          <!-- Projects Data API v1 -->
+          {% include card_api.html title="Projects Data API" version="v1"
+          description="Browse student projects published by the department
+          across multiple categories and project collections."
+          api_index_url="./projects/v1/" docs_url="./docs/v1/projects/" %}
         </div>
 
         <div class="col-sm-12 col-md-6 col-lg-4 pb-5">
-          <div class="card">
-            <div class="card-header">
-              <h5>
-                Staff Data API
-                <span class="badge rounded-pill bg-secondary">v1</span>
-              </h5>
-            </div>
-            <div class="card-body">
-              <p class="card-text">
-                Public information about the Department Staff, their contact,
-                and research interests can be accessed from this API.
-              </p>
-              <a
-                href="./people/v1/staff/"
-                class="btn btn-sm mb-1 btn-success"
-                target="_blank"
-                >API Index</a
-              >
-              <a
-                href="./docs/staff/"
-                target="_blank"
-                class="btn btn-sm mb-1 btn-primary"
-                >API Documentation</a
-              >
-            </div>
-          </div>
+          <!-- Staff Data API v1 -->
+          {% include card_api.html title="Staff Data API" version="v1"
+          description="Retrieve public staff profiles, including contact
+          details, roles, and research interests."
+          api_index_url="./people/v1/staff/" docs_url="./docs/v1/staff/" %}
         </div>
 
         <div class="col-sm-12 col-md-6 col-lg-4 pb-5">
-          <div class="card">
-            <div class="card-header">
-              <h5>
-                Publication API
-                <span class="badge rounded-pill bg-secondary">v1</span>
-              </h5>
-            </div>
-            <div class="card-body">
-              <p class="card-text">
-                Information about the Research Publications affiliated to the
-                Department of Computer Engineering can be accessed from this
-                API.
-              </p>
-              <a
-                href="./publications/v1/all/"
-                class="btn btn-sm mb-1 btn-success"
-                target="_blank"
-                >API Index</a
-              >
-              <a href="./docs/publications/" class="btn btn-primary btn-sm"
-                >API Documentation</a
-              >
-            </div>
-          </div>
+          <!-- Publication Data API v1 -->
+          {% include card_api.html title="Publication API" version="v1"
+          description="Explore research publications affiliated with the
+          Department of Computer Engineering."
+          api_index_url="./publications/v1/all/"
+          docs_url="./docs/v1/publications/" %}
         </div>
 
         <div class="col-sm-12 col-md-6 col-lg-4 pb-5">
-          <div class="card">
-            <div class="card-header">
-              <h5>
-                Academics API
-                <span class="badge rounded-pill bg-secondary">v1</span>
-              </h5>
-            </div>
-            <div class="card-body">
-              <p class="card-text">
-                Courses and Semesters for different Curriculums offered by the
-                Department of Computer Engineering.
-              </p>
-              <a
-                href="https://portal.ce.pdn.ac.lk/api/academic/v1/undergraduate/courses"
-                class="btn btn-sm mb-1 btn-success"
-                target="_blank"
-                >API Index</a
-              >
-              <a
-                href="./docs/academics/"
-                target="_blank"
-                class="btn btn-sm mb-1 btn-primary"
-                >API Documentation</a
-              >
-            </div>
-          </div>
+          <!-- Academics Data API v1 -->
+          {% include card_api.html title="Academics API" version="v1"
+          description="Get curriculum, semester, and course information for the
+          academic programs offered by the department."
+          api_index_url="https://portal.ce.pdn.ac.lk/api/academic/v1/undergraduate/courses"
+          docs_url="./docs/v1/academics/" %}
         </div>
 
         <div class="col-sm-12 col-md-6 col-lg-4 pb-5">
-          <div class="card">
-            <div class="card-header">
-              <h5>
-                Events API
-                <span class="badge rounded-pill bg-secondary">v1</span>
-              </h5>
-            </div>
-            <div class="card-body">
-              <p class="card-text">
-                Public events with upcoming and past listings and detail pages.
-              </p>
-              <a
-                href="https://portal.ce.pdn.ac.lk/api/events/v1/"
-                class="btn btn-sm mb-1 btn-success"
-                target="_blank"
-                >API Index</a
-              >
-              <a
-                href="./docs/events/"
-                target="_blank"
-                class="btn btn-sm mb-1 btn-primary"
-                >API Documentation</a
-              >
-            </div>
-          </div>
+          <!-- Events Data API v1 -->
+          {% include card_api.html title="Events API" version="v2"
+          description="Access upcoming and archived department events together
+          with their detailed event information."
+          api_index_url="https://portal.ce.pdn.ac.lk/api/events/v2/cepdnaclk"
+          docs_url="./docs/v2/events/" %}
         </div>
 
         <div class="col-sm-12 col-md-6 col-lg-4 pb-5">
-          <div class="card">
-            <div class="card-header">
-              <h5>
-                News API
-                <span class="badge rounded-pill bg-secondary">v1</span>
-              </h5>
-            </div>
-            <div class="card-body">
-              <p class="card-text">
-                Published department news feed with item-level detail endpoints.
-              </p>
-              <a
-                href="https://portal.ce.pdn.ac.lk/api/news/v1/"
-                class="btn btn-sm mb-1 btn-success"
-                target="_blank"
-                >API Index</a
-              >
-              <a
-                href="./docs/news/"
-                target="_blank"
-                class="btn btn-sm mb-1 btn-primary"
-                >API Documentation</a
-              >
-            </div>
-          </div>
+          <!-- News Data API v1 -->
+          {% include card_api.html title="News API" version="v2"
+          description="Read the department news feed with endpoints for
+          published news listings and individual news items."
+          api_index_url="https://portal.ce.pdn.ac.lk/api/news/v2/cepdnaclk"
+          docs_url="./docs/v2/news/" %}
         </div>
 
         <div class="col-sm-12 col-md-6 col-lg-4 pb-5">
-          <div class="card">
-            <div class="card-header">
-              <h5>
-                Taxonomy API
-                <span class="badge rounded-pill bg-secondary">v1</span>
-              </h5>
-            </div>
-            <div class="card-body">
-              <p class="card-text">
-                Taxonomy discovery for categories and terms reused across data.
-              </p>
-              <a
-                href="https://portal.ce.pdn.ac.lk/api/taxonomy/v1/"
-                class="btn btn-sm mb-1 btn-success"
-                target="_blank"
-                >API Index</a
-              >
-              <a
-                href="./docs/taxonomy/"
-                target="_blank"
-                class="btn btn-sm mb-1 btn-primary"
-                >API Documentation</a
-              >
-            </div>
-          </div>
+          <!-- Articles API v1 -->
+          {% include card_api.html title="Articles API" version="v2"
+          description="Consume article listings and detailed article content
+          published through the department portal."
+          api_index_url="https://portal.ce.pdn.ac.lk/api/articles/v2/cepdnaclk"
+          docs_url="./docs/v2/articles/" %}
         </div>
 
         <div class="col-sm-12 col-md-6 col-lg-4 pb-5">
-          <div class="card">
-            <div class="card-header">
-              <h5>Timetable API</h5>
-            </div>
-            <div class="card-body">
-              <p class="card-text">Under Development</p>
-              <a
-                href="#"
-                class="btn btn-sm mb-1 btn-success disabled"
-                target="_blank"
-                >API Index</a
-              >
-              <a href="#" class="btn btn-primary btn-sm disabled"
-                >API Documentation</a
-              >
-            </div>
-          </div>
+          <!-- Taxonomy Data API v1 -->
+          {% include card_api.html title="Taxonomy API" version="v2"
+          description="Retrieve the shared taxonomy of categories, tags, and
+          terms used across portal content and APIs."
+          api_index_url="https://portal.ce.pdn.ac.lk/api/taxonomy/v2/cepdnaclk"
+          docs_url="./docs/v2/taxonomy/" %}
         </div>
 
         <div class="col-sm-12 col-md-6 col-lg-4 pb-5">
-          <div class="card">
-            <div class="card-header">
-              <h5>Location API</h5>
-            </div>
-            <div class="card-body">
-              <p class="card-text">Under Development</p>
-              <a
-                href="./locations/v1/"
-                class="btn btn-sm mb-1 btn-success"
-                target="_blank"
-                >API Index</a
-              >
-
-              <a href="#" class="btn btn-primary btn-sm disabled"
-                >API Documentation</a
-              >
-            </div>
-          </div>
+          <!-- Email API v1 -->
+          {% include card_api.html title="Email API" version="v1"
+          description="Use the CE Portal email service to automate programmatic
+          email notifications and communication workflows."
+          docs_url="./docs/v1/email/" auth="API Key"
+          details_url="https://cepdnaclk.github.io/portal.ce.pdn.ac.lk/features/email-api.html"
+          %}
         </div>
       </div>
 
+      <hr />
+      <h3 class="pt-3">Deprecated APIs</h3>
+
+      <div class="row pt-3 pb-5">
+        <div class="col-sm-12 col-md-6 col-lg-4 pb-5">
+          <!-- Events Data API v1 -->
+          {% include card_api.html title="Events API" version="v1"
+          description="Legacy events API for accessing published department
+          event listings and event details."
+          api_index_url="https://portal.ce.pdn.ac.lk/api/events/v1/"
+          docs_url="./docs/v1/events/" %}
+        </div>
+
+        <div class="col-sm-12 col-md-6 col-lg-4 pb-5">
+          <!-- News Data API v1 -->
+          {% include card_api.html title="News API" version="v1"
+          description="Legacy news API for retrieving published news listings
+          and individual news entries."
+          api_index_url="https://portal.ce.pdn.ac.lk/api/news/v1/"
+          docs_url="./docs/v1/news/" %}
+        </div>
+
+        <div class="col-sm-12 col-md-6 col-lg-4 pb-5">
+          <!-- Taxonomy Data API v1 -->
+          {% include card_api.html title="Taxonomy API" version="v1"
+          description="Legacy taxonomy API for discovering shared categories,
+          tags, and reusable content terms."
+          api_index_url="https://portal.ce.pdn.ac.lk/api/taxonomy/v1/"
+          docs_url="./docs/v1/taxonomy/" %}
+        </div>
+      </div>
+
+      <hr />
+      <h3 class="pt-3">Under Development</h3>
+
+      <div class="row pt-3 pb-5">
+        <div class="col-sm-12 col-md-6 col-lg-4 pb-5">
+          {% include card_api.html title="Timetable API" version="TBD"
+          description="Planned API for publishing timetable and schedule data in
+          a structured format." api_index_url="#" docs_url="#" %}
+        </div>
+
+        <div class="col-sm-12 col-md-6 col-lg-4 pb-5">
+          <!-- Location Data API v1 -->
+          {% include card_api.html title="Location API" version="TBD"
+          description="Planned API for exposing location and venue information
+          related to the department and campus services."
+          api_index_url="./locations/v1/" docs_url="#" %}
+        </div>
+      </div>
+
+      <hr />
       <div class="container pt-5">
         <p>
           This is a static website, which is nightly-build using
