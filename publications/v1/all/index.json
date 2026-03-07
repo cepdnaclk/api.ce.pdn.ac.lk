@@ -7920,5 +7920,80 @@
         "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/SCSE65633.2025.11030968/",
         "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/SCSE65633.2025.11030968/index.json",
         "submitted": "2025/08/07 10:20:44"
+    },
+    {
+        "title": "Unified Spatio-Temporal Tri-Perspective View Representation for 3D Semantic Occupancy Prediction",
+        "venue": "Machine Learning for Autonomous Driving Workshop, The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-W) 2025",
+        "year": "2025",
+        "abstract": "Holistic understanding and reasoning in 3D scenes are crucial for the success of autonomous driving systems. The evolution of 3D semantic occupancy prediction as a pretraining task for autonomous driving and robotic applications captures finer 3D details compared to traditional 3D detection methods. Vision-based 3D semantic occupancy prediction is increasingly overlooked in favor of LiDAR-based approaches, which have shown superior performance in recent years. However, we present compelling evidence that there is still potential for enhancing vision-based methods. Existing approaches predominantly focus on spatial cues such as tri-perspective view (TPV) embeddings, often overlooking temporal cues. This study introduces S2TPVFormer, a spatiotemporal transformer architecture designed to predict temporally coherent 3D semantic occupancy. By introducing temporal cues through a novel Temporal Cross-View Hybrid Attention mechanism (TCVHA), we generate Spatiotemporal TPV (S2TPV) embeddings that enhance the prior process. Experimental evaluations on the nuScenes dataset demonstrate a significant +4.1% of absolute gain in mean Intersection over Union (mIoU) for 3D semantic occupancy compared to baseline TPVFormer, validating the effectiveness of S2TPVFormer in advancing 3D scene perception.",
+        "authors": [
+            "Sathira Silva",
+            "Savindu Wannigama",
+            "Gihan Jayatilaka",
+            "Muhammad Haris Khan",
+            "Roshan Ragel"
+        ],
+        "author_info": [
+            {
+                "name": "Sathira Silva",
+                "profile": "https://people.ce.pdn.ac.lk/students/e17/331/",
+                "type": "STUDENT",
+                "id": "E/17/331",
+                "email": "e17331@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17331.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/331/"
+            },
+            {
+                "name": "Savindu Wannigama",
+                "profile": "https://people.ce.pdn.ac.lk/students/e17/369/",
+                "type": "STUDENT",
+                "id": "E/17/369",
+                "email": "e17369@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17369.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e17/369/"
+            },
+            {
+                "name": "Gihan Jayatilaka",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
+                "name": "Muhammad Haris Khan",
+                "profile": "#",
+                "type": "OUTSIDER",
+                "id": "",
+                "email": "",
+                "profile_image": "#",
+                "profile_url": "#"
+            },
+            {
+                "name": "Roshan Ragel",
+                "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                "type": "STAFF",
+                "id": "roshanr",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/roshan-ragel.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            }
+        ],
+        "doi": "https://doi.org/10.48550/arXiv.2401.13785",
+        "is_dept_affiliated": true,
+        "preprint_url": "https://arxiv.org/pdf/2401.13785",
+        "pdf_url": "https://ml4ad.github.io/files/papers2025/A%20Spatiotemporal%20Approach%20to%20Tri-Perspective%20Representation%20for%203D%20Semantic%20Occupancy%20Prediction.pdf",
+        "presentation_url": "https://www.cs.umd.edu/~gihan/projects/s2tpv/aaai-presentation.pdf",
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/S2TPVFormer/",
+        "codebase": "https://github.com/cepdnaclk/e17-4yp-S2TPVFormer",
+        "research_groups": [
+            "Computer Vision"
+        ],
+        "tags": [],
+        "funding": "",
+        "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.48550/arXiv.2401.13785/",
+        "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.48550/arXiv.2401.13785/index.json",
+        "submitted": "2026/03/06 11:50:25"
     }
 ]
