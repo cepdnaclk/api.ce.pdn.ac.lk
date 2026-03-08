@@ -17231,7 +17231,7 @@
                 "email": "vajira@simula.no",
                 "profile_url": "https://people.ce.pdn.ac.lk/staff/visiting-research-fellows/",
                 "profile_image": "https://people.ce.pdn.ac.lk//images/staff/fellows/vajira-thambawita.jpg",
-                "api_url": "#",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/vajira",
                 "website": "#",
                 "linkedin": "https://lk.linkedin.com/in/vlbthambawita",
                 "researchgate": "https://www.researchgate.net/profile/Vajira-Thambawita-2",
@@ -18352,12 +18352,12 @@
                 "name": "Dr. Haris Javaid",
                 "email": "haris.javaid@amd.com",
                 "profile_url": "https://people.ce.pdn.ac.lk/staff/visiting-research-fellows/",
-                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/fellows/Haris-Javaid.jpeg",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/fellows/haris-javaid.jpeg",
                 "api_url": "#",
                 "website": "#",
                 "linkedin": "https://sg.linkedin.com/in/haris-javaid-30799121",
                 "researchgate": "#",
-                "google_scholar": "https://scholar.google.com/citations?user=ld4MAbgAAAAJ&hl=en"
+                "google_scholar": "https://scholar.google.com/citations?user=ld4MAbgAAAAJ&hl=en&authuser=2"
             }
         },
         "tags": [
@@ -21240,7 +21240,7 @@
                 "email": "vajira@simula.no",
                 "profile_url": "https://people.ce.pdn.ac.lk/staff/visiting-research-fellows/",
                 "profile_image": "https://people.ce.pdn.ac.lk//images/staff/fellows/vajira-thambawita.jpg",
-                "api_url": "#",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/vajira",
                 "website": "#",
                 "linkedin": "https://lk.linkedin.com/in/vlbthambawita",
                 "researchgate": "https://www.researchgate.net/profile/Vajira-Thambawita-2",
@@ -23182,7 +23182,7 @@
                 "email": "vajira@simula.no",
                 "profile_url": "https://people.ce.pdn.ac.lk/staff/visiting-research-fellows/",
                 "profile_image": "https://people.ce.pdn.ac.lk//images/staff/fellows/vajira-thambawita.jpg",
-                "api_url": "#",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/vajira",
                 "website": "#",
                 "linkedin": "https://lk.linkedin.com/in/vlbthambawita",
                 "researchgate": "https://www.researchgate.net/profile/Vajira-Thambawita-2",
@@ -24079,7 +24079,7 @@
                 "email": "vajira@simula.no",
                 "profile_url": "https://people.ce.pdn.ac.lk/staff/visiting-research-fellows/",
                 "profile_image": "https://people.ce.pdn.ac.lk//images/staff/fellows/vajira-thambawita.jpg",
-                "api_url": "#",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/vajira",
                 "website": "#",
                 "linkedin": "https://lk.linkedin.com/in/vlbthambawita",
                 "researchgate": "https://www.researchgate.net/profile/Vajira-Thambawita-2",
@@ -32796,6 +32796,72 @@
             "CO2060"
         ]
     },
+    "e22-co2060-PowerShare-SL": {
+        "title": "PowerShare SL",
+        "description": "PowerShare SL is a peer-to-peer EV charging platform that connects electric vehicle owners with householders who offer home-based charging stations. The app helps EV users find nearby chargers, reserve charging slots, and make secure payments while enabling households to earn income by sharing their charging facilities.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/PowerShare-SL/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co2060-PowerShare-SL",
+        "page_url": "https://cepdnaclk.github.io/e22-co2060-PowerShare-SL",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PowerShare-SL/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+        "team": {
+            "E/22/141": {
+                "name": "H.M.P.D.B.Herath",
+                "email": "e22141@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/141",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22141.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/141/"
+            },
+            "E/22/142": {
+                "name": "H.M.P.M.Herath",
+                "email": "e22142@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/142",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22142.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/142/"
+            },
+            "E/22/248": {
+                "name": "N.W.A.K.B.Neelawathura",
+                "email": "e22248@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/248",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22248.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/248/"
+            },
+            "E/22/362": {
+                "name": "W.A.H.Sathsarani",
+                "email": "e22362@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/362",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22362.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/362/"
+            }
+        },
+        "supervisors": {},
+        "tags": [
+            "Web",
+            "Software Systems",
+            "CO2060"
+        ]
+    },
     "e22-co2060-Project-KNOT": {
         "title": "Project KNOT",
         "description": "Project KNOT is a university resource and maintenance management system focused on lecture hall and lab booking. It helps manage club events, shared facilities, and campus issue reporting while improving scheduling, approvals, and maintenance tracking through a centralized platform.",
@@ -32813,9 +32879,9 @@
             "E/22/237": {
                 "name": "M. F. M. Minhaj Ali",
                 "email": "e22237@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
+                "website": "https://www.thecn.com/MM4918",
+                "github": "https://github.com/Agent-X237",
+                "linkedin": "https://www.linkedin.com/in/minhaj-ali-951945188/",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/237",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22237.jpg",
@@ -36218,9 +36284,70 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/heart-disease-prediction/",
         "repo_url": "https://github.com/cepdnaclk/e20-co542-heart-disease-prediction",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e20-co542-heart-disease-prediction",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/heart-disease-prediction/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+        "team": {
+            "E/20/248": {
+                "name": "Mapagedara T.L.B",
+                "email": "e20248@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/Tharindu09",
+                "linkedin": "https://www.linkedin.com/in/tharindu-mapagedara-6119572a0/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/248",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20248.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/248/"
+            },
+            "E/20/158": {
+                "name": "Jananga T.G.C",
+                "email": "e20158@eng.pdn.ac.lk",
+                "website": "https://www.thecn.com/EJ456",
+                "github": "https://github.com/tgcjananga",
+                "linkedin": "https://www.linkedin.com/in/chamuditha-jananga-18bb2a277",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/158",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20158.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/158/"
+            },
+            "E/20/453": {
+                "name": "Yogesh R.J",
+                "email": "e20453@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/janithyogesh",
+                "linkedin": "https://www.linkedin.com/in/janith-rathuge-6242a7260",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/453",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20453.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/453/"
+            },
+            "E/20/300": {
+                "name": "Prasadinie H.A.M.T",
+                "email": "e20300@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "https://www.linkedin.com/in/h-a-m-t-prasadinie-29a13a261?trk=blended-typeahead",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/300",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20300.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/300/"
+            },
+            "E/20/377": {
+                "name": "Sidantha V.P.H",
+                "email": "e20377@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/sidantha0377",
+                "linkedin": "https://www.linkedin.com/in/heshan-sidantha-5b9925296/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/377",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20377.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/377/"
+            }
+        },
+        "tags": [
+            "ML",
+            "Medical"
+        ]
     },
     "e20-co542-stock-market-price-prediction": {
         "title": "stock market price prediction",

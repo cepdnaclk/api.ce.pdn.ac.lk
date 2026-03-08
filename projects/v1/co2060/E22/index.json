@@ -155,6 +155,19 @@
         "page_url": "https://cepdnaclk.github.io/e22-co2060-PearlPath",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PearlPath/"
     },
+    "e22-co2060-PowerShare-SL": {
+        "title": "PowerShare SL",
+        "description": "PowerShare SL is a peer-to-peer EV charging platform that connects electric vehicle owners with householders who offer home-based charging stations. The app helps EV users find nearby chargers, reserve charging slots, and make secure payments while enabling households to earn income by sharing their charging facilities.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/PowerShare-SL/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co2060-PowerShare-SL",
+        "page_url": "https://cepdnaclk.github.io/e22-co2060-PowerShare-SL",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PowerShare-SL/"
+    },
     "e22-co2060-Project-KNOT": {
         "title": "Project KNOT",
         "description": "Project KNOT is a university resource and maintenance management system focused on lecture hall and lab booking. It helps manage club events, shared facilities, and campus issue reporting while improving scheduling, approvals, and maintenance tracking through a centralized platform.",
