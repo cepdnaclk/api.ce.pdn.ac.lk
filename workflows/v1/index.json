@@ -132,6 +132,18 @@
         "status": "PASS"
     },
     {
+        "id": 243139953,
+        "repository": "people.ce.pdn.ac.lk",
+        "name": "Algolia Search Index",
+        "state": "active",
+        "urls": {
+            "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/243139953",
+            "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/.github/workflows/algolia-index.yml",
+            "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/workflows/Algolia%20Search%20Index/badge.svg"
+        },
+        "status": "PASS"
+    },
+    {
         "id": 30876798,
         "repository": "publications",
         "name": "Daily Build",
