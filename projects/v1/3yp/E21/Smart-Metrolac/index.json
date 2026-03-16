@@ -10,5 +10,68 @@
     "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-Metrolac",
     "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Metrolac",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-Metrolac/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+    "team": {
+        "E/21/254": {
+            "name": "MANILGAMA N.C.",
+            "email": "e21254@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/254",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21254.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/254/"
+        },
+        "E/21/292": {
+            "name": "K.A.P.M.PERERA",
+            "email": "e21292@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/manoputh",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/292",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21292.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/292/"
+        },
+        "E/21/339": {
+            "name": "RUKSHAN A.D.",
+            "email": "e21339@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/339",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21339.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/339/"
+        },
+        "E/21/453": {
+            "name": "SURIYAPPERUMA H.D.",
+            "email": "e21453@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/453",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21453.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/453/"
+        }
+    },
+    "supervisors": {
+        "yasodhav@eng.pdn.ac.lk": {
+            "name": "Ms. Yasodha Vimukthi",
+            "email": "yasodhav@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Web",
+        "Embedded Systems"
+    ]
 }
