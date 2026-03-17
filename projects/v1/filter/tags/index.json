@@ -949,6 +949,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Skim-Sequencing-Analysis/"
         },
         {
+            "title": "metagenomics",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/metagenomics/",
+            "repo_url": "https://github.com/cepdnaclk/e20-4yp-metagenomics",
+            "page_url": "https://cepdnaclk.github.io/e20-4yp-metagenomics",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/metagenomics/"
+        },
+        {
             "title": "Comparative Analysis of 2nd and 3rd Generation Sequencing",
             "category": {
                 "code": "4yp",
@@ -1003,21 +1016,6 @@
             "page_url": "https://cepdnaclk.github.io/e17-4yp-Comparative-Analysis-of-2nd-and-3rd-Generation-Sequencing",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Comparative-Analysis-of-2nd-and-3rd-Generation-Sequencing/"
-        }
-    ],
-    "Biomedical": [
-        {
-            "title": "Vescueye",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Vescueye/",
-            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Vescueye",
-            "page_url": "https://cepdnaclk.github.io/e20-3yp-Vescueye",
-            "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Vescueye/data/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Vescueye/"
         }
     ],
     "Blockchain": [
@@ -3129,6 +3127,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin/"
         }
     ],
+    "Dimensionality Reduction": [
+        {
+            "title": "metagenomics",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/metagenomics/",
+            "repo_url": "https://github.com/cepdnaclk/e20-4yp-metagenomics",
+            "page_url": "https://cepdnaclk.github.io/e20-4yp-metagenomics",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/metagenomics/"
+        }
+    ],
     "Dynamic Time Warping": [
         {
             "title": "Acceleration of DTW algorithm for real time nanopore selective sequencing using GPUs",
@@ -4710,19 +4723,6 @@
             "page_url": "https://cepdnaclk.github.io/e20-3yp-VR-Multiplayer-Golf-Game",
             "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-VR-Multiplayer-Golf-Game/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/VR-Multiplayer-Golf-Game/"
-        },
-        {
-            "title": "Vescueye",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Vescueye/",
-            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Vescueye",
-            "page_url": "https://cepdnaclk.github.io/e20-3yp-Vescueye",
-            "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Vescueye/data/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Vescueye/"
         },
         {
             "title": "Covid Tracer",
@@ -7633,6 +7633,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E14/ipb/"
         }
     ],
+    "Graph Neural Networks": [
+        {
+            "title": "metagenomics",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/metagenomics/",
+            "repo_url": "https://github.com/cepdnaclk/e20-4yp-metagenomics",
+            "page_url": "https://cepdnaclk.github.io/e20-4yp-metagenomics",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/metagenomics/"
+        }
+    ],
     "Graph theory": [
         {
             "title": "Multi Kingdom Binning of Long Read Metagenomes",
@@ -9462,6 +9477,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/A-Hierarchical-Hybrid-Framework-for-Intrusion-Detection-in-Network-and-Application-Layers/"
         },
         {
+            "title": "metagenomics",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/metagenomics/",
+            "repo_url": "https://github.com/cepdnaclk/e20-4yp-metagenomics",
+            "page_url": "https://cepdnaclk.github.io/e20-4yp-metagenomics",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/metagenomics/"
+        },
+        {
             "title": "Food Recommendation System Using Machine Learning for Diabetic Patients",
             "category": {
                 "code": "4yp",
@@ -9761,6 +9789,19 @@
         }
     ],
     "Metagenomics": [
+        {
+            "title": "metagenomics",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/metagenomics/",
+            "repo_url": "https://github.com/cepdnaclk/e20-4yp-metagenomics",
+            "page_url": "https://cepdnaclk.github.io/e20-4yp-metagenomics",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/metagenomics/"
+        },
         {
             "title": "Multi Kingdom Binning of Long Read Metagenomes",
             "category": {
@@ -15513,19 +15554,6 @@
             "page_url": "https://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing",
             "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Train-Tracking-and-Smart-Ticketing/"
-        },
-        {
-            "title": "Vescueye",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Vescueye/",
-            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Vescueye",
-            "page_url": "https://cepdnaclk.github.io/e20-3yp-Vescueye",
-            "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Vescueye/data/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Vescueye/"
         },
         {
             "title": "Covid Tracer",
