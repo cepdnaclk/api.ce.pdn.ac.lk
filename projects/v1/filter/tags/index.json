@@ -1018,6 +1018,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Comparative-Analysis-of-2nd-and-3rd-Generation-Sequencing/"
         }
     ],
+    "Biomedical": [
+        {
+            "title": "Vescueye",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Vescueye/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Vescueye",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Vescueye",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Vescueye/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Vescueye/"
+        }
+    ],
     "Blockchain": [
         {
             "title": "AI as a Microservice for Smart Edge of Things",
@@ -3290,17 +3305,17 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ESCAL-Reservations-and-Borrowing/"
         },
         {
-            "title": "Measuring Light Intensity in a Company Before It Dies",
+            "title": "digital twin led luminaire monitor",
             "category": {
                 "code": "co326",
                 "title": "Industrial Automation Projects (CO326)",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Measuring-Light-Intensity-in-a-Company-Before-It-Dies/",
-            "repo_url": "https://github.com/cepdnaclk/e20-co326-Measuring-Light-Intensity-in-a-Company-Before-It-Dies",
-            "page_url": "https://cepdnaclk.github.io/e20-co326-Measuring-Light-Intensity-in-a-Company-Before-It-Dies",
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/digital-twin-led-luminaire-monitor/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co326-digital-twin-led-luminaire-monitor",
+            "page_url": "https://cepdnaclk.github.io/e20-co326-digital-twin-led-luminaire-monitor",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Measuring-Light-Intensity-in-a-Company-Before-It-Dies/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/digital-twin-led-luminaire-monitor/"
         }
     ],
     "ESP32": [
@@ -4723,6 +4738,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-3yp-VR-Multiplayer-Golf-Game",
             "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-VR-Multiplayer-Golf-Game/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/VR-Multiplayer-Golf-Game/"
+        },
+        {
+            "title": "Vescueye",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Vescueye/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Vescueye",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Vescueye",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Vescueye/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Vescueye/"
         },
         {
             "title": "Covid Tracer",
@@ -8207,17 +8235,17 @@
     ],
     "Industrial network project": [
         {
-            "title": "Measuring Light Intensity in a Company Before It Dies",
+            "title": "digital twin led luminaire monitor",
             "category": {
                 "code": "co326",
                 "title": "Industrial Automation Projects (CO326)",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Measuring-Light-Intensity-in-a-Company-Before-It-Dies/",
-            "repo_url": "https://github.com/cepdnaclk/e20-co326-Measuring-Light-Intensity-in-a-Company-Before-It-Dies",
-            "page_url": "https://cepdnaclk.github.io/e20-co326-Measuring-Light-Intensity-in-a-Company-Before-It-Dies",
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/digital-twin-led-luminaire-monitor/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co326-digital-twin-led-luminaire-monitor",
+            "page_url": "https://cepdnaclk.github.io/e20-co326-digital-twin-led-luminaire-monitor",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Measuring-Light-Intensity-in-a-Company-Before-It-Dies/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/digital-twin-led-luminaire-monitor/"
         }
     ],
     "Infinion Tricore": [
@@ -12620,17 +12648,17 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Water-Quality-Monitoring-System/"
         },
         {
-            "title": "Measuring Light Intensity in a Company Before It Dies",
+            "title": "digital twin led luminaire monitor",
             "category": {
                 "code": "co326",
                 "title": "Industrial Automation Projects (CO326)",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Measuring-Light-Intensity-in-a-Company-Before-It-Dies/",
-            "repo_url": "https://github.com/cepdnaclk/e20-co326-Measuring-Light-Intensity-in-a-Company-Before-It-Dies",
-            "page_url": "https://cepdnaclk.github.io/e20-co326-Measuring-Light-Intensity-in-a-Company-Before-It-Dies",
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/digital-twin-led-luminaire-monitor/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co326-digital-twin-led-luminaire-monitor",
+            "page_url": "https://cepdnaclk.github.io/e20-co326-digital-twin-led-luminaire-monitor",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Measuring-Light-Intensity-in-a-Company-Before-It-Dies/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/digital-twin-led-luminaire-monitor/"
         }
     ],
     "SD19 Dataset": [
@@ -15554,6 +15582,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing",
             "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Train-Tracking-and-Smart-Ticketing/"
+        },
+        {
+            "title": "Vescueye",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Vescueye/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Vescueye",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Vescueye",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Vescueye/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Vescueye/"
         },
         {
             "title": "Covid Tracer",

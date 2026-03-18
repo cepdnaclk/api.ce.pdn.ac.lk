@@ -3650,6 +3650,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/VR-Multiplayer-Golf-Game/"
         },
         {
+            "title": "Vescueye",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Vescueye/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Vescueye",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Vescueye",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Vescueye/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Vescueye/"
+        },
+        {
             "title": "Covid Tracer",
             "category": {
                 "code": "3yp",
@@ -5188,19 +5201,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/water-level-monitoring-and-control-system/"
         },
         {
-            "title": "Measuring Light Intensity in a Company Before It Dies",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Measuring-Light-Intensity-in-a-Company-Before-It-Dies/",
-            "repo_url": "https://github.com/cepdnaclk/e20-co326-Measuring-Light-Intensity-in-a-Company-Before-It-Dies",
-            "page_url": "https://cepdnaclk.github.io/e20-co326-Measuring-Light-Intensity-in-a-Company-Before-It-Dies",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Measuring-Light-Intensity-in-a-Company-Before-It-Dies/"
-        },
-        {
             "title": "Remotely Controlled CNC Robot",
             "category": {
                 "code": "co326",
@@ -5212,6 +5212,19 @@
             "page_url": "https://cepdnaclk.github.io/e15-co326-Remotely-Controlled-CNC-Robot",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/"
+        },
+        {
+            "title": "digital twin led luminaire monitor",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/digital-twin-led-luminaire-monitor/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co326-digital-twin-led-luminaire-monitor",
+            "page_url": "https://cepdnaclk.github.io/e20-co326-digital-twin-led-luminaire-monitor",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/digital-twin-led-luminaire-monitor/"
         },
         {
             "title": "Database project Hospital Management System",
