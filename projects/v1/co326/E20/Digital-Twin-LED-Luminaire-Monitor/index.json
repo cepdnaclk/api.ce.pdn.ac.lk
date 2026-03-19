@@ -1,15 +1,15 @@
 {
-    "title": "digital twin led luminaire monitor",
+    "title": "Digital Twin LED Luminaire Monitor",
     "description": "To measure the intensity of lights in the company and predict the point at which they are about to fail (before they completely go dead).",
     "category": {
         "title": "Industrial Automation Projects (CO326)",
         "code": "co326",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
     },
-    "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/digital-twin-led-luminaire-monitor/",
-    "repo_url": "https://github.com/cepdnaclk/e20-co326-digital-twin-led-luminaire-monitor",
-    "page_url": "https://cepdnaclk.github.io/e20-co326-digital-twin-led-luminaire-monitor",
-    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/digital-twin-led-luminaire-monitor/",
+    "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Digital-Twin-LED-Luminaire-Monitor/",
+    "repo_url": "https://github.com/cepdnaclk/e20-co326-Digital-Twin-LED-Luminaire-Monitor",
+    "page_url": "https://cepdnaclk.github.io/e20-co326-Digital-Twin-LED-Luminaire-Monitor",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Digital-Twin-LED-Luminaire-Monitor/",
     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
     "team": {
         "E/20/032": {
@@ -61,7 +61,8 @@
     },
     "tags": [
         "Industrial network project",
-        "SCADA",
-        "ESCAL"
+        "Digital Twin",
+        "Grafana",
+        "TinyML"
     ]
 }
