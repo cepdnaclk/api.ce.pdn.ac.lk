@@ -17446,19 +17446,19 @@
             "Final Year Projects"
         ]
     },
-    "e20-4yp-Reducing-context-switching-latency-in-RTES": {
-        "title": "Reducing context switching latency in RTES",
+    "e20-4yp-Reducing-Context-Switching-Latency-in-RTES-Using-RFP": {
+        "title": "Reducing Context Switching Latency in RTES Using RFP",
         "description": "FYP - Reducing context switching latency in RTES",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Reducing-context-switching-latency-in-RTES/",
-        "repo_url": "https://github.com/cepdnaclk/e20-4yp-Reducing-context-switching-latency-in-RTES",
-        "page_url": "https://cepdnaclk.github.io/e20-4yp-Reducing-context-switching-latency-in-RTES",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Reducing-context-switching-latency-in-RTES/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Reducing-Context-Switching-Latency-in-RTES-Using-RFP/",
+        "repo_url": "https://github.com/cepdnaclk/e20-4yp-Reducing-Context-Switching-Latency-in-RTES-Using-RFP",
+        "page_url": "https://cepdnaclk.github.io/e20-4yp-Reducing-Context-Switching-Latency-in-RTES-Using-RFP",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Reducing-Context-Switching-Latency-in-RTES-Using-RFP/",
+        "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-Reducing-Context-Switching-Latency-in-RTES-Using-RFP/data/thumbnail.jpg",
         "team": {
             "E/20/032": {
                 "name": "A.M.N.C. Bandara",
@@ -17530,8 +17530,11 @@
             }
         },
         "tags": [
-            "Final Year Projects",
+            "Final Year Reasearch Project",
             "Embedded Systems",
+            "RISCV",
+            "FreeRTOS",
+            "CVA6",
             "ESCAL"
         ]
     },
@@ -32928,9 +32931,9 @@
                 "name": "A.S.V. Gunasiri",
                 "email": "e22120@eng.pdn.ac.lk",
                 "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
+                "github": "https://github.com/sasvi123",
+                "linkedin": "https://www.linkedin.com/in/sasvi-gunasiri-18aa09264/",
+                "researchgate": "https://www.researchgate.net/profile/Sasvi-Gunasiri?ev=hdr_xprf",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/120",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22120.jpg",
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e22/120/"
@@ -35034,6 +35037,39 @@
             "CO2060"
         ]
     },
+    "e23-co2060-University-Digital-ID-sbt": {
+        "title": "University Digital ID sbt",
+        "description": "Blockchain-based University Digital Identity System using Soulbound Tokens",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/University-Digital-ID-sbt/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co2060-University-Digital-ID-sbt",
+        "page_url": "https://cepdnaclk.github.io/e23-co2060-University-Digital-ID-sbt",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/University-Digital-ID-sbt/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+        "team": {
+            "E/23/054": {
+                "name": "M.V.R. Dayananda",
+                "email": "vinushadayananda04@gmail.com",
+                "website": "",
+                "github": "https://github.com/VinushaDayananda",
+                "linkedin": "https://www.linkedin.com/in/vinusha-dayananda-4ba4482a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/054",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23054.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e23/054/"
+            }
+        },
+        "supervisors": {},
+        "tags": [
+            "Web",
+            "Software Systems",
+            "CO2060"
+        ]
+    },
     "e23-co2060-stress-detection-and-analyzing-system": {
         "title": "stress detection and analyzing system",
         "description": "Our app detects and categorizes stress for undergraduates and early workers using the DASS questionnaire. Users are classified as normal, mild, moderate, or severe. Normal users receive an AI based daily routine, mild users receive tools like music and journaling, while moderate and severe users are guided to professional mental health resources.",
@@ -36299,54 +36335,7 @@
         "repo_url": "https://github.com/cepdnaclk/e20-co542-Automatic-English-Text-Summarization",
         "page_url": "https://cepdnaclk.github.io/e20-co542-Automatic-English-Text-Summarization",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Automatic-English-Text-Summarization/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
-        "team": {
-            "E/20/148": {
-                "name": "Kasundie Hewawasam",
-                "email": "e20148@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/kasundie30",
-                "linkedin": "https://www.linkedin.com/in/kasundie-hewawasam-4b39b9229/",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/148",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20148.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/148/"
-            },
-            "E/20/316": {
-                "name": "Wethmi Ranasinghe",
-                "email": "e20316@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/wethmiranasinghe",
-                "linkedin": "https://www.linkedin.com/in/rawl-ranasinghe/",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/316",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20316.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/316/"
-            },
-            "E/20/122": {
-                "name": "Rashmi Gunathilake",
-                "email": "e20122@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/rash0621",
-                "linkedin": "https://lk.linkedin.com/in/rashmi-gunathilake-1330b7219",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/122",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20122.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/122/"
-            },
-            "E/20/178": {
-                "name": "Dulanga Jayawardena",
-                "email": "e20178@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/e20178dulanga",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/178",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20178.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/178/"
-            }
-        },
-        "supervisors": {}
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg"
     },
     "e20-co542-Comment_Toxicity_Analyser": {
         "title": "Comment_Toxicity_Analyser",
