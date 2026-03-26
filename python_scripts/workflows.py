@@ -1,7 +1,8 @@
-import requests
 import json
 import os
 from datetime import date, datetime
+
+import requests
 from notifications import Notifications
 
 notify = Notifications("api.ce.pdn.ac.lk", "Workflow Status")
@@ -11,7 +12,7 @@ repositories = [
     "api.ce.pdn.ac.lk",
     "projects.ce.pdn.ac.lk",
     "people.ce.pdn.ac.lk",
-    "publications",
+    "www.ce.pdn.ac.lk",
 ]
 STATUS_LIST = {"100": "PASS", "010": "NO STATUS", "001": "FAILLING"}
 
