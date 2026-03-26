@@ -144,15 +144,75 @@
         "status": "PASS"
     },
     {
-        "id": 30876798,
-        "repository": "publications",
-        "name": "Daily Build",
+        "id": 152878227,
+        "repository": "www.ce.pdn.ac.lk",
+        "name": "Scheduled Run - Daily",
         "state": "active",
         "urls": {
-            "api": "https://api.github.com/repos/cepdnaclk/publications/actions/workflows/30876798",
-            "html": "https://github.com/cepdnaclk/publications/blob/main/.github/workflows/daily.yml",
-            "badge": "https://github.com/cepdnaclk/publications/workflows/Daily%20Build/badge.svg"
+            "api": "https://api.github.com/repos/cepdnaclk/www.ce.pdn.ac.lk/actions/workflows/152878227",
+            "html": "https://github.com/cepdnaclk/www.ce.pdn.ac.lk/blob/main/.github/workflows/daily.yml",
+            "badge": "https://github.com/cepdnaclk/www.ce.pdn.ac.lk/workflows/Scheduled%20Run%20-%20Daily/badge.svg"
         },
-        "status": "NO STATUS"
+        "status": "PASS"
+    },
+    {
+        "id": 92528573,
+        "repository": "www.ce.pdn.ac.lk",
+        "name": "Scheduled Run - Publications",
+        "state": "active",
+        "urls": {
+            "api": "https://api.github.com/repos/cepdnaclk/www.ce.pdn.ac.lk/actions/workflows/92528573",
+            "html": "https://github.com/cepdnaclk/www.ce.pdn.ac.lk/blob/main/.github/workflows/publications.yml",
+            "badge": "https://github.com/cepdnaclk/www.ce.pdn.ac.lk/workflows/Scheduled%20Run%20-%20Publications/badge.svg"
+        },
+        "status": "PASS"
+    },
+    {
+        "id": 219689866,
+        "repository": "www.ce.pdn.ac.lk",
+        "name": "Copilot code review",
+        "state": "active",
+        "urls": {
+            "api": "https://api.github.com/repos/cepdnaclk/www.ce.pdn.ac.lk/actions/workflows/219689866",
+            "html": "https://github.com/cepdnaclk/www.ce.pdn.ac.lk/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer",
+            "badge": "https://github.com/cepdnaclk/www.ce.pdn.ac.lk/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer/badge.svg"
+        },
+        "status": "PASS"
+    },
+    {
+        "id": 174365971,
+        "repository": "www.ce.pdn.ac.lk",
+        "name": "Automatic Dependency Submission",
+        "state": "active",
+        "urls": {
+            "api": "https://api.github.com/repos/cepdnaclk/www.ce.pdn.ac.lk/actions/workflows/174365971",
+            "html": "https://github.com/cepdnaclk/www.ce.pdn.ac.lk/actions/workflows/dependency-graph/auto-submission",
+            "badge": "https://github.com/cepdnaclk/www.ce.pdn.ac.lk/actions/workflows/dependency-graph/auto-submission/badge.svg"
+        },
+        "status": "PASS"
+    },
+    {
+        "id": 154636198,
+        "repository": "www.ce.pdn.ac.lk",
+        "name": "CodeQL",
+        "state": "active",
+        "urls": {
+            "api": "https://api.github.com/repos/cepdnaclk/www.ce.pdn.ac.lk/actions/workflows/154636198",
+            "html": "https://github.com/cepdnaclk/www.ce.pdn.ac.lk/actions/workflows/github-code-scanning/codeql",
+            "badge": "https://github.com/cepdnaclk/www.ce.pdn.ac.lk/actions/workflows/github-code-scanning/codeql/badge.svg"
+        },
+        "status": "PASS"
+    },
+    {
+        "id": 18548541,
+        "repository": "www.ce.pdn.ac.lk",
+        "name": "pages-build-deployment",
+        "state": "active",
+        "urls": {
+            "api": "https://api.github.com/repos/cepdnaclk/www.ce.pdn.ac.lk/actions/workflows/18548541",
+            "html": "https://github.com/cepdnaclk/www.ce.pdn.ac.lk/actions/workflows/pages/pages-build-deployment",
+            "badge": "https://github.com/cepdnaclk/www.ce.pdn.ac.lk/actions/workflows/pages/pages-build-deployment/badge.svg"
+        },
+        "status": "PASS"
     }
 ]
