@@ -10,5 +10,77 @@
     "repo_url": "https://github.com/cepdnaclk/e20-co326-Motor-Health-Monitoring-Digital-Twin-with-Edge-Anomaly-Detection",
     "page_url": "https://cepdnaclk.github.io/e20-co326-Motor-Health-Monitoring-Digital-Twin-with-Edge-Anomaly-Detection",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Motor-Health-Monitoring-Digital-Twin-with-Edge-Anomaly-Detection/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+    "team": {
+        "E/20/037": {
+            "name": "L.R.H.I. Bandara",
+            "email": "e20037@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/haritha037",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/037",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20037.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/037/"
+        },
+        "E/20/363": {
+            "name": "S.D.Y.V Senanayake",
+            "email": "e20363@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Yohansenanayake",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/363",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20363.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/363/"
+        },
+        "E/20/365": {
+            "name": "C.K. Senaratne",
+            "email": "e20365@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/chamodi27",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/365",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20365.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/365/"
+        },
+        "E/20/420": {
+            "name": "J.K. Wanasinghe",
+            "email": "e20420@eng.pdn.ac.lk",
+            "website": "https://janithkw.github.io/",
+            "github": "https://github.com/janithkw",
+            "linkedin": "https://www.linkedin.com/in/janithwanasinghe/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/420",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20420.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/420/"
+        }
+    },
+    "supervisors": {
+        "kamalanath@eng.pdn.ac.lk": {
+            "name": "Prof. Kamalanath Samarakoon",
+            "email": "kamalanath@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/kamalanath-samarakoon/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/kamalanath-samarakoon.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
+            "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
+            "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
+        }
+    },
+    "tags": [
+        "DigitalTwin",
+        "Grafana",
+        "IIOT",
+        "TinyML",
+        "ESP32",
+        "NodeRed",
+        "InfluxDB",
+        "IndustrialSystems",
+        "Automation",
+        "SCADA",
+        "Monitoring"
+    ]
 }
