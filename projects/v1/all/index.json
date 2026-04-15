@@ -33671,16 +33671,9 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Web_Based_PAR_Index_System/",
         "repo_url": "https://github.com/cepdnaclk/e22-co2060-Web_Based_PAR_Index_System",
-        "page_url": "https://cepdnaclk.github.io/e22-co2060-Web_Based_PAR_Index_System",
+        "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Web_Based_PAR_Index_System/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-        "team": {},
-        "supervisors": {},
-        "tags": [
-            "Web",
-            "Software Systems",
-            "CO2060"
-        ]
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg"
     },
     "e22-co2060-floodguard": {
         "title": "floodguard",
@@ -36018,7 +36011,7 @@
     },
     "e20-co326-Digital-Twin-LED-Luminaire-Monitor": {
         "title": "Digital Twin LED Luminaire Monitor",
-        "description": "To measure the intensity of lights in the company and predict the point at which they are about to fail (before they completely go dead).",
+        "description": "Digital Twin system for industrial LED lamps that monitors luminous flux, color shift, and driver ripple for the prediction of remaining useful life.",
         "category": {
             "title": "Industrial Automation Projects (CO326)",
             "code": "co326",
