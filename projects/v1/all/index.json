@@ -17932,9 +17932,76 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/onchip-offline-neuromorphic-computing/",
         "repo_url": "https://github.com/cepdnaclk/e20-4yp-onchip-offline-neuromorphic-computing",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e20-4yp-onchip-offline-neuromorphic-computing",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/onchip-offline-neuromorphic-computing/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "team": {
+            "E/20/346": {
+                "name": "S.M.P.H. Samarakoon",
+                "email": "e20346@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/piyusam0133",
+                "linkedin": "https://www.linkedin.com/in/piyumini-samarakoon",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/346",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20346.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/346/"
+            },
+            "E/20/419": {
+                "name": "Wakkumbura M.M.S.S.",
+                "email": "e20419@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/samadhisakunika",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/419",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20419.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/419/"
+            },
+            "E/20/439": {
+                "name": "Wickramasinghe J.M.W.G.R.L.",
+                "email": "e20439@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/ravindu439",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/439",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20439.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/439/"
+            }
+        },
+        "supervisors": {
+            "isurun@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurun@eng.pdn.ac.lk",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            },
+            "roshanr@eng.pdn.ac.lk": {
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/roshan-ragel.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/roshanr",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/roshanragel/",
+                "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
+                "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
+            }
+        },
+        "tags": [
+            "Final Year Projects",
+            "Neuromorphic Computing",
+            "FPGA",
+            "Spiking Neural Networks",
+            "RISC-V",
+            "On-Chip Learning"
+        ]
     },
     "e20-4yp-symbolic-music-generation-with-xLSTM": {
         "title": "symbolic music generation with xLSTM",
@@ -25929,70 +25996,7 @@
         "repo_url": "https://github.com/cepdnaclk/e19-co227-Remote-Controlled-PLC-Training-Kit",
         "page_url": "https://cepdnaclk.github.io/e19-co227-Remote-Controlled-PLC-Training-Kit",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Remote-Controlled-PLC-Training-Kit/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-        "team": {
-            "E/19/105": {
-                "name": "M.H.M. Fahman",
-                "email": "e19105@eng.pdn.ac.lk",
-                "website": "https://mohamedfahman.github.io/",
-                "github": "https://github.com/MohamedFahman",
-                "linkedin": "https://www.linkedin.com/in/mhmfahman/",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/105",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19105.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/105/"
-            },
-            "E/19/106": {
-                "name": "M.F.M. Faseeh",
-                "email": "e19106@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/106",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19106.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/106/"
-            },
-            "E/19/244": {
-                "name": "Mohanathas H.Miss",
-                "email": "e19244@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/244",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19244.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/244/"
-            },
-            "E/19/247": {
-                "name": "S.M. Musthak",
-                "email": "e19247@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/musthakk",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/247",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19247.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/247/"
-            }
-        },
-        "supervisors": {
-            "kamalanath@eng.pdn.ac.lk": {
-                "name": "Prof. Kamalanath Samarakoon",
-                "email": "kamalanath@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/kamalanath-samarakoon/",
-                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/kamalanath-samarakoon.png",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
-                "website": "#",
-                "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
-                "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
-                "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
-            }
-        },
-        "tags": [
-            "PLC",
-            "Arduino"
-        ]
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
     },
     "e19-co227-TecHub-help-desk-ticketing-system": {
         "title": "TecHub help desk ticketing system",
@@ -36007,6 +36011,20 @@
         "repo_url": "https://github.com/cepdnaclk/e19-co326-water-quality-management-system",
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E19/water-quality-management-system/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
+    },
+    "e20-co326-Conveyor-Belt-Fault-Detection": {
+        "title": "Conveyor Belt Fault Detection",
+        "description": "Simulate periodic vibration patterns and detect irregularities.",
+        "category": {
+            "title": "Industrial Automation Projects (CO326)",
+            "code": "co326",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Conveyor-Belt-Fault-Detection/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co326-Conveyor-Belt-Fault-Detection",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Conveyor-Belt-Fault-Detection/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
     },
     "e20-co326-Digital-Twin-LED-Luminaire-Monitor": {

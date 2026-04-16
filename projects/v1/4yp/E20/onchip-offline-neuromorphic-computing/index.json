@@ -8,7 +8,74 @@
     },
     "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/onchip-offline-neuromorphic-computing/",
     "repo_url": "https://github.com/cepdnaclk/e20-4yp-onchip-offline-neuromorphic-computing",
-    "page_url": "#",
+    "page_url": "https://cepdnaclk.github.io/e20-4yp-onchip-offline-neuromorphic-computing",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/onchip-offline-neuromorphic-computing/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+    "team": {
+        "E/20/346": {
+            "name": "S.M.P.H. Samarakoon",
+            "email": "e20346@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/piyusam0133",
+            "linkedin": "https://www.linkedin.com/in/piyumini-samarakoon",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/346",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20346.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/346/"
+        },
+        "E/20/419": {
+            "name": "Wakkumbura M.M.S.S.",
+            "email": "e20419@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/samadhisakunika",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/419",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20419.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/419/"
+        },
+        "E/20/439": {
+            "name": "Wickramasinghe J.M.W.G.R.L.",
+            "email": "e20439@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/ravindu439",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/439",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20439.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/439/"
+        }
+    },
+    "supervisors": {
+        "isurun@eng.pdn.ac.lk": {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurun@eng.pdn.ac.lk",
+            "profile_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "api_url": "#",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        },
+        "roshanr@eng.pdn.ac.lk": {
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/roshan-ragel.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/roshanr",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/roshanragel/",
+            "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
+            "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
+        }
+    },
+    "tags": [
+        "Final Year Projects",
+        "Neuromorphic Computing",
+        "FPGA",
+        "Spiking Neural Networks",
+        "RISC-V",
+        "On-Chip Learning"
+    ]
 }
