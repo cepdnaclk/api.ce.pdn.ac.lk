@@ -8,7 +8,80 @@
     },
     "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/VLM-Guided-Phenotyping-of-KOA/",
     "repo_url": "https://github.com/cepdnaclk/e20-4yp-VLM-Guided-Phenotyping-of-KOA",
-    "page_url": "#",
+    "page_url": "https://cepdnaclk.github.io/e20-4yp-VLM-Guided-Phenotyping-of-KOA",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/VLM-Guided-Phenotyping-of-KOA/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+    "team": {
+        "E/20/122": {
+            "name": "Rashmi Gunathilake",
+            "email": "e20122@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/rash0621",
+            "linkedin": "https://lk.linkedin.com/in/rashmi-gunathilake-1330b7219",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/122",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20122.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/122/"
+        },
+        "E/20/271": {
+            "name": "Hasini Nirmani",
+            "email": "e20271@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/hasini416",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/271",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20271.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/271/"
+        },
+        "E/20/378": {
+            "name": "Amanda Siriwardhana",
+            "email": "e20378@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/amandasiriwardane",
+            "linkedin": "https://www.linkedin.com/in/amanda-siriwardane/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/378",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20378.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/378/"
+        }
+    },
+    "supervisors": {
+        "yasodhav@eng.pdn.ac.lk": {
+            "name": "Ms. Yasodha Vimukthi",
+            "email": "yasodhav@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+            "researchgate": "#",
+            "google_scholar": "#"
+        },
+        "damayanthiherath@eng.pdn.ac.lk": {
+            "name": "Dr. Damayanthi Herath",
+            "email": "damayanthiherath@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/damayanthi-herath.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/damayanthiherath",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/damayanthi-herath/",
+            "researchgate": "https://www.researchgate.net/profile/Damayanthi-Herath",
+            "google_scholar": "https://scholar.google.com/citations?user=G2jUV5IAAAAJ&hl=en"
+        },
+        "mailtorikaz.abde@gmail.com": {
+            "name": "Mr. A.M. Mohamed Rikas",
+            "email": "mailtorikaz.abde@gmail.com",
+            "profile_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "api_url": "#",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Final Year Projects"
+    ]
 }
