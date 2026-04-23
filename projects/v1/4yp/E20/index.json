@@ -51,6 +51,19 @@
         "page_url": "https://cepdnaclk.github.io/e20-4yp-Adversarial-and-Noise-Robust-Training-for-Lightweight-Audio-Event-Detection",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Adversarial-and-Noise-Robust-Training-for-Lightweight-Audio-Event-Detection/"
     },
+    "e20-4yp-Automated-Code-Smell-Detection-and-Refactoring-with-LLMs": {
+        "title": "Automated Code Smell Detection and Refactoring with LLMs",
+        "description": "Automated code smell detection, prioritization and refactorization using LLMs",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Automated-Code-Smell-Detection-and-Refactoring-with-LLMs/",
+        "repo_url": "https://github.com/cepdnaclk/e20-4yp-Automated-Code-Smell-Detection-and-Refactoring-with-LLMs",
+        "page_url": "https://cepdnaclk.github.io/e20-4yp-Automated-Code-Smell-Detection-and-Refactoring-with-LLMs",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Automated-Code-Smell-Detection-and-Refactoring-with-LLMs/"
+    },
     "e20-4yp-Context-Aware-Ai-Sybil-Mitigation-WBAN-IOMT": {
         "title": "Context Aware Ai Sybil Mitigation WBAN IOMT",
         "description": "Context-aware, AI-driven self-healing framework for detecting and mitigating Sybil attacks in WBAN-based IoMT networks.",
@@ -131,7 +144,7 @@
     },
     "e20-4yp-Lightweight-Deep-Learning-Models-for-Detection-of-Neurological-Disorders-Using-EEG-Signals": {
         "title": "Lightweight Deep Learning Models for Detection of Neurological Disorders Using EEG Signals",
-        "description": "Development of a lightweight deep learning framework for EEG-based detection of neurological disorders, optimized for edge deployment, focusing on Alzheimer\u2019s disease, Parkinson\u2019s disease, and epilepsy using efficient model architectures and real-time inference constraints.",
+        "description": "This project develops lightweight EEG-based models for detecting Epilepsy, Alzheimer's Disease, and Parkinson's Disease using separate models. Each uses a Base Network with an Error-Correction Network (ECN) to improve accuracy while keeping computation low, ensuring efficient, scalable, and reliable performance across diverse EEG datasets.",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
@@ -139,7 +152,7 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Lightweight-Deep-Learning-Models-for-Detection-of-Neurological-Disorders-Using-EEG-Signals/",
         "repo_url": "https://github.com/cepdnaclk/e20-4yp-Lightweight-Deep-Learning-Models-for-Detection-of-Neurological-Disorders-Using-EEG-Signals",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e20-4yp-Lightweight-Deep-Learning-Models-for-Detection-of-Neurological-Disorders-Using-EEG-Signals",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Lightweight-Deep-Learning-Models-for-Detection-of-Neurological-Disorders-Using-EEG-Signals/"
     },
     "e20-4yp-Multi-Agent-LLM-Framework-for-Automated-Feedback-in-VR-Nursing-Training": {

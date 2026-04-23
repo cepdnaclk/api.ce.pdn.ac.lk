@@ -16613,6 +16613,86 @@
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Adversarial-and-Noise-Robust-Training-for-Lightweight-Audio-Event-Detection/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
     },
+    "e20-4yp-Automated-Code-Smell-Detection-and-Refactoring-with-LLMs": {
+        "title": "Automated Code Smell Detection and Refactoring with LLMs",
+        "description": "Automated code smell detection, prioritization and refactorization using LLMs",
+        "category": {
+            "title": "Undergraduate Research Projects",
+            "code": "4yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Automated-Code-Smell-Detection-and-Refactoring-with-LLMs/",
+        "repo_url": "https://github.com/cepdnaclk/e20-4yp-Automated-Code-Smell-Detection-and-Refactoring-with-LLMs",
+        "page_url": "https://cepdnaclk.github.io/e20-4yp-Automated-Code-Smell-Detection-and-Refactoring-with-LLMs",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Automated-Code-Smell-Detection-and-Refactoring-with-LLMs/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "team": {
+            "E/20/062": {
+                "name": "Dhananji K.S.",
+                "email": "e20062@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/062",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20062.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/062/"
+            },
+            "E/20/350": {
+                "name": "Sandamali J.P.D.N.",
+                "email": "e20350@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "https://www.linkedin.com/in/dharani-navodya-833641213",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/350",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20350.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/350/"
+            },
+            "E/20/367": {
+                "name": "Senavirathna D.B.C.M.",
+                "email": "e20367@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/367",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20367.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/367/"
+            }
+        },
+        "supervisors": {
+            "thilinag@eng.pdn.ac.lk": {
+                "name": "Mr. Thilina Gunarathne",
+                "email": "thilinag@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/thilina-gunarathne/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/thilina-gunarathne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/thilinag",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            },
+            "biswajithd@eng.pdn.ac.lk": {
+                "name": "Mr. Biswajith Dissanayake",
+                "email": "biswajithd@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/biswajith-dissanayake/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/biswajith-dissanayake.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/biswajithd",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/bak-dissanayake94718162555/",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "LLM",
+            "Refactoring",
+            "Code Smells",
+            "Software Metrics",
+            "Static Analysis"
+        ]
+    },
     "e20-4yp-Context-Aware-Ai-Sybil-Mitigation-WBAN-IOMT": {
         "title": "Context Aware Ai Sybil Mitigation WBAN IOMT",
         "description": "Context-aware, AI-driven self-healing framework for detecting and mitigating Sybil attacks in WBAN-based IoMT networks.",
@@ -17040,7 +17120,7 @@
     },
     "e20-4yp-Lightweight-Deep-Learning-Models-for-Detection-of-Neurological-Disorders-Using-EEG-Signals": {
         "title": "Lightweight Deep Learning Models for Detection of Neurological Disorders Using EEG Signals",
-        "description": "Development of a lightweight deep learning framework for EEG-based detection of neurological disorders, optimized for edge deployment, focusing on Alzheimer\u2019s disease, Parkinson\u2019s disease, and epilepsy using efficient model architectures and real-time inference constraints.",
+        "description": "This project develops lightweight EEG-based models for detecting Epilepsy, Alzheimer's Disease, and Parkinson's Disease using separate models. Each uses a Base Network with an Error-Correction Network (ECN) to improve accuracy while keeping computation low, ensuring efficient, scalable, and reliable performance across diverse EEG datasets.",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
@@ -17048,9 +17128,71 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Lightweight-Deep-Learning-Models-for-Detection-of-Neurological-Disorders-Using-EEG-Signals/",
         "repo_url": "https://github.com/cepdnaclk/e20-4yp-Lightweight-Deep-Learning-Models-for-Detection-of-Neurological-Disorders-Using-EEG-Signals",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e20-4yp-Lightweight-Deep-Learning-Models-for-Detection-of-Neurological-Disorders-Using-EEG-Signals",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Lightweight-Deep-Learning-Models-for-Detection-of-Neurological-Disorders-Using-EEG-Signals/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
+        "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-Lightweight-Deep-Learning-Models-for-Detection-of-Neurological-Disorders-Using-EEG-Signals/data/thumbnail.jpg",
+        "team": {
+            "E/20/212": {
+                "name": "R.M.S.H. Kumarasinghe",
+                "email": "e20212@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/sameera-87",
+                "linkedin": "https://www.linkedin.com/in/sameera-kumarasinghe-98b70526a/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/212",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20212.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/212/"
+            },
+            "E/20/455": {
+                "name": "W.M.N. Dilshan",
+                "email": "e20455@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/nuwan455",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/455",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20455.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/455/"
+            },
+            "E/20/456": {
+                "name": "U.P.S.D.Dulaj",
+                "email": "e20456@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/456",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20456.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/456/"
+            }
+        },
+        "supervisors": {
+            "roshanr@eng.pdn.ac.lk": {
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/roshan-ragel.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/roshanr",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/roshanragel/",
+                "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
+                "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
+            },
+            "nimishan@css.sab.ac.lk": {
+                "name": "Mr. Sivaraj Nimishan",
+                "email": "nimishan@css.sab.ac.lk",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Final Year Projects"
+        ]
     },
     "e20-4yp-Multi-Agent-LLM-Framework-for-Automated-Feedback-in-VR-Nursing-Training": {
         "title": "Multi Agent LLM Framework for Automated Feedback in VR Nursing Training",

@@ -1,0 +1,80 @@
+{
+    "title": "Automated Code Smell Detection and Refactoring with LLMs",
+    "description": "Automated code smell detection, prioritization and refactorization using LLMs",
+    "category": {
+        "title": "Undergraduate Research Projects",
+        "code": "4yp",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Automated-Code-Smell-Detection-and-Refactoring-with-LLMs/",
+    "repo_url": "https://github.com/cepdnaclk/e20-4yp-Automated-Code-Smell-Detection-and-Refactoring-with-LLMs",
+    "page_url": "https://cepdnaclk.github.io/e20-4yp-Automated-Code-Smell-Detection-and-Refactoring-with-LLMs",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Automated-Code-Smell-Detection-and-Refactoring-with-LLMs/",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+    "team": {
+        "E/20/062": {
+            "name": "Dhananji K.S.",
+            "email": "e20062@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/062",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20062.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/062/"
+        },
+        "E/20/350": {
+            "name": "Sandamali J.P.D.N.",
+            "email": "e20350@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "https://www.linkedin.com/in/dharani-navodya-833641213",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/350",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20350.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/350/"
+        },
+        "E/20/367": {
+            "name": "Senavirathna D.B.C.M.",
+            "email": "e20367@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/367",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20367.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/367/"
+        }
+    },
+    "supervisors": {
+        "thilinag@eng.pdn.ac.lk": {
+            "name": "Mr. Thilina Gunarathne",
+            "email": "thilinag@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/thilina-gunarathne/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/thilina-gunarathne.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/thilinag",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        },
+        "biswajithd@eng.pdn.ac.lk": {
+            "name": "Mr. Biswajith Dissanayake",
+            "email": "biswajithd@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/biswajith-dissanayake/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/biswajith-dissanayake.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/biswajithd",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/bak-dissanayake94718162555/",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "LLM",
+        "Refactoring",
+        "Code Smells",
+        "Software Metrics",
+        "Static Analysis"
+    ]
+}
