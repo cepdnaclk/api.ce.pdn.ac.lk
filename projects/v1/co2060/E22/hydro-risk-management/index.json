@@ -11,9 +11,67 @@
     "page_url": "https://cepdnaclk.github.io/e22-co2060-hydro-risk-management",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/hydro-risk-management/",
     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-    "team": {},
-    "supervisors": {},
+    "team": {
+        "E/22/182": {
+            "name": "Dinith Kariyawasam",
+            "email": "e22182@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/182",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22182.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/182/"
+        },
+        "E/22/291": {
+            "name": "Rameesha Prathapasinghe",
+            "email": "e22291@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/291",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22291.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/291/"
+        },
+        "E/22//421": {
+            "name": "Tharindu Weerasinghe",
+            "email": "e22421@eng.pdn.ac.lk",
+            "website": "#",
+            "github": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "api_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "profile_url": "#"
+        },
+        "E/22/449": {
+            "name": "Gayumi Wimalaweera",
+            "email": "e22449@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/449",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22449.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/449/"
+        }
+    },
+    "supervisors": {
+        "kamalanath@eng.pdn.ac.lk": {
+            "name": "Prof. Kamalanath Samarakoon",
+            "email": "kamalanath@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/kamalanath-samarakoon/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/kamalanath-samarakoon.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
+            "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
+            "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
+        }
+    },
     "tags": [
+        "Disaster Management",
         "Web",
         "Software Systems",
         "CO2060"
