@@ -1,6 +1,6 @@
 {
     "title": "Drivora",
-    "description": "Distributed Universal Advanced Driver Assistant System",
+    "description": "Drivora is a distributed retrofit Universal Advanced Driver Assistant System designed to modernize legacy passenger vehicles and enhance the safety of heavy commercial transport.",
     "category": {
         "title": "Cyber-Physical Systems Projects",
         "code": "3yp",
@@ -10,9 +10,88 @@
     "repo_url": "https://github.com/cepdnaclk/e21-3yp-Drivora",
     "page_url": "https://cepdnaclk.github.io/e21-3yp-Drivora",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Drivora/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-    "team": {},
-    "supervisors": {},
+    "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-Drivora/data/thumbnail.jpg",
+    "team": {
+        "E/21/050": {
+            "name": "H.B.C.T. BANDARA",
+            "email": "e21050@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/its-thakshila",
+            "linkedin": "https://www.linkedin.com/in/its-thakshila",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/050",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21050.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/050/"
+        },
+        "E/21/052": {
+            "name": "H.M.P.D. BANDARA",
+            "email": "e21052@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/052",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21052.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/052/"
+        },
+        "E/21/077": {
+            "name": "K.M.S. DARSHANA",
+            "email": "e21077@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/ShamiD-1904",
+            "linkedin": "www.linkedin.com/in/shamiska-darshana-384413349",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/077",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21077.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/077/"
+        },
+        "E/21/269": {
+            "name": "A.P.S. NIRMAL",
+            "email": "e21269@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/269",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21269.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e21/269/"
+        }
+    },
+    "supervisors": {
+        "yasodhav@eng.pdn.ac.lk": {
+            "name": "Ms. Yasodha Vimukthi",
+            "email": "yasodhav@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+            "researchgate": "#",
+            "google_scholar": "#"
+        },
+        "isurunawinne@eng.pdn.ac.lk": {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/isuru-nawinne.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+            "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+        },
+        "thilinag@eng.pdn.ac.lk": {
+            "name": "Mr. Thilina Gunarathne",
+            "email": "thilinag@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/thilina-gunarathne/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/thilina-gunarathne.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/thilinag",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
     "tags": [
         "Web",
         "Embedded Systems"

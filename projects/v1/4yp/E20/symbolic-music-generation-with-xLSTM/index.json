@@ -10,5 +10,71 @@
     "repo_url": "https://github.com/cepdnaclk/e20-4yp-symbolic-music-generation-with-xLSTM",
     "page_url": "https://cepdnaclk.github.io/e20-4yp-symbolic-music-generation-with-xLSTM",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/symbolic-music-generation-with-xLSTM/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+    "team": {
+        "E/20/037": {
+            "name": "Bandara L.R.H.I.",
+            "email": "e20037@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/haritha037",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/037",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20037.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/037/"
+        },
+        "E/20/363": {
+            "name": "Senanayake S.D.Y.V.",
+            "email": "e20363@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Yohansenanayake",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/363",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20363.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/363/"
+        },
+        "E/20/365": {
+            "name": "Senaratne C.K.",
+            "email": "e20365@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/chamodi27",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/365",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20365.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/365/"
+        }
+    },
+    "supervisors": {
+        "isurunawinne@eng.pdn.ac.lk": {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/isuru-nawinne.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+            "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+        },
+        "isurid@eng.pdn.ac.lk": {
+            "name": "Isuri Devindi",
+            "email": "isurid@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/temporary-academic-staff/isuri-devindi.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurid",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Final Year Projects",
+        "AI",
+        "Music",
+        "Music generation",
+        "xLSTM"
+    ]
 }

@@ -5766,7 +5766,7 @@
     },
     "e21-3yp-Drivora": {
         "title": "Drivora",
-        "description": "Distributed Universal Advanced Driver Assistant System",
+        "description": "Drivora is a distributed retrofit Universal Advanced Driver Assistant System designed to modernize legacy passenger vehicles and enhance the safety of heavy commercial transport.",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
@@ -5776,9 +5776,88 @@
         "repo_url": "https://github.com/cepdnaclk/e21-3yp-Drivora",
         "page_url": "https://cepdnaclk.github.io/e21-3yp-Drivora",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Drivora/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-        "team": {},
-        "supervisors": {},
+        "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-Drivora/data/thumbnail.jpg",
+        "team": {
+            "E/21/050": {
+                "name": "H.B.C.T. BANDARA",
+                "email": "e21050@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/its-thakshila",
+                "linkedin": "https://www.linkedin.com/in/its-thakshila",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/050",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21050.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/050/"
+            },
+            "E/21/052": {
+                "name": "H.M.P.D. BANDARA",
+                "email": "e21052@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/052",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21052.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/052/"
+            },
+            "E/21/077": {
+                "name": "K.M.S. DARSHANA",
+                "email": "e21077@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/ShamiD-1904",
+                "linkedin": "www.linkedin.com/in/shamiska-darshana-384413349",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/077",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21077.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/077/"
+            },
+            "E/21/269": {
+                "name": "A.P.S. NIRMAL",
+                "email": "e21269@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/269",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21269.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/269/"
+            }
+        },
+        "supervisors": {
+            "yasodhav@eng.pdn.ac.lk": {
+                "name": "Ms. Yasodha Vimukthi",
+                "email": "yasodhav@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+                "researchgate": "#",
+                "google_scholar": "#"
+            },
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            },
+            "thilinag@eng.pdn.ac.lk": {
+                "name": "Mr. Thilina Gunarathne",
+                "email": "thilinag@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/thilina-gunarathne/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/thilina-gunarathne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/thilinag",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
         "tags": [
             "Web",
             "Embedded Systems"
@@ -18164,7 +18243,73 @@
         "repo_url": "https://github.com/cepdnaclk/e20-4yp-symbolic-music-generation-with-xLSTM",
         "page_url": "https://cepdnaclk.github.io/e20-4yp-symbolic-music-generation-with-xLSTM",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/symbolic-music-generation-with-xLSTM/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "team": {
+            "E/20/037": {
+                "name": "Bandara L.R.H.I.",
+                "email": "e20037@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/haritha037",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/037",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20037.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/037/"
+            },
+            "E/20/363": {
+                "name": "Senanayake S.D.Y.V.",
+                "email": "e20363@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/Yohansenanayake",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/363",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20363.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/363/"
+            },
+            "E/20/365": {
+                "name": "Senaratne C.K.",
+                "email": "e20365@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/chamodi27",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/365",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20365.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/365/"
+            }
+        },
+        "supervisors": {
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            },
+            "isurid@eng.pdn.ac.lk": {
+                "name": "Isuri Devindi",
+                "email": "isurid@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/temporary-academic-staff/isuri-devindi.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurid",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Final Year Projects",
+            "AI",
+            "Music",
+            "Music generation",
+            "xLSTM"
+        ]
     },
     "e20-4yp-voice-enabled-llm-agentic-construction-scheduler": {
         "title": "voice enabled llm agentic construction scheduler",
@@ -34052,16 +34197,16 @@
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22291.jpg",
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e22/291/"
             },
-            "E/22//421": {
+            "E/22/421": {
                 "name": "Tharindu Weerasinghe",
                 "email": "e22421@eng.pdn.ac.lk",
-                "website": "#",
-                "github": "#",
-                "linkedin": "#",
-                "researchgate": "#",
-                "api_url": "#",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
-                "profile_url": "#"
+                "website": "",
+                "github": "https://github.com/TharinduHimantha",
+                "linkedin": "https://www.linkedin.com/in/tharindu-weerasinghe-b013a7357/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/421",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22421.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/421/"
             },
             "E/22/449": {
                 "name": "Gayumi Wimalaweera",
