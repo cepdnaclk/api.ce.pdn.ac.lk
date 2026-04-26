@@ -24,7 +24,7 @@
             "profile_url": "https://people.ce.pdn.ac.lk/students/e21/287/"
         },
         "E/21/229": {
-            "name": "Anna kurera",
+            "name": "Anna Kurera",
             "email": "e21229@eng.pdn.ac.lk",
             "website": "",
             "github": "",
@@ -57,7 +57,41 @@
             "profile_url": "https://people.ce.pdn.ac.lk/students/e21/253/"
         }
     },
-    "supervisors": {},
+    "supervisors": {
+        "yasodhav@eng.pdn.ac.lk": {
+            "name": "Ms. Yasodha Vimukthi",
+            "email": "yasodhav@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+            "researchgate": "#",
+            "google_scholar": "#"
+        },
+        "isurunawinne@eng.pdn.ac.lk": {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/isuru-nawinne.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+            "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+        },
+        "thilinag@eng.pdn.ac.lk": {
+            "name": "Mr. Thilina Gunarathne",
+            "email": "thilinag@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/thilina-gunarathne/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/thilina-gunarathne.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/thilinag",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
     "tags": [
         "Web",
         "Embedded Systems"

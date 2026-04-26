@@ -6201,7 +6201,7 @@
         "repo_url": "https://github.com/cepdnaclk/e21-3yp-LOX",
         "page_url": "https://cepdnaclk.github.io/e21-3yp-LOX",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/LOX/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+        "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-LOX/data/thumbnail.jpg",
         "team": {
             "E/21/005": {
                 "name": "Shehan Dewnith",
@@ -6580,7 +6580,7 @@
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e21/287/"
             },
             "E/21/229": {
-                "name": "Anna kurera",
+                "name": "Anna Kurera",
                 "email": "e21229@eng.pdn.ac.lk",
                 "website": "",
                 "github": "",
@@ -6613,7 +6613,41 @@
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e21/253/"
             }
         },
-        "supervisors": {},
+        "supervisors": {
+            "yasodhav@eng.pdn.ac.lk": {
+                "name": "Ms. Yasodha Vimukthi",
+                "email": "yasodhav@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpeg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+                "researchgate": "#",
+                "google_scholar": "#"
+            },
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            },
+            "thilinag@eng.pdn.ac.lk": {
+                "name": "Mr. Thilina Gunarathne",
+                "email": "thilinag@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/thilina-gunarathne/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/thilina-gunarathne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/thilinag",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
         "tags": [
             "Web",
             "Embedded Systems"
@@ -17359,9 +17393,63 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Neuromorphic-Smart-Sensor-for-Autonomous-Underwater-Vehicles/",
         "repo_url": "https://github.com/cepdnaclk/e20-4yp-Neuromorphic-Smart-Sensor-for-Autonomous-Underwater-Vehicles",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e20-4yp-Neuromorphic-Smart-Sensor-for-Autonomous-Underwater-Vehicles",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Neuromorphic-Smart-Sensor-for-Autonomous-Underwater-Vehicles/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg"
+        "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-Neuromorphic-Smart-Sensor-for-Autonomous-Underwater-Vehicles/data/thumbnail.jpg",
+        "team": {
+            "E/20/036": {
+                "name": "Bandara K.G.R.I.",
+                "email": "e20036@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/induwara23630",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/036",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20036.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/036/"
+            },
+            "E/20/328": {
+                "name": "Rathnaweera R.V.C.",
+                "email": "e20328@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/328",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20328.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/328/"
+            },
+            "E/20/377": {
+                "name": "Sidantha V.P.H.",
+                "email": "e20377@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/sidantha0377",
+                "linkedin": "https://www.linkedin.com/in/heshan-sidantha-5b9925296/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/377",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20377.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/377/"
+            }
+        },
+        "supervisors": {
+            "kamalanath@eng.pdn.ac.lk": {
+                "name": "Prof. Kamalanath Samarakoon",
+                "email": "kamalanath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/kamalanath-samarakoon/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/kamalanath-samarakoon.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
+                "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
+                "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
+            }
+        },
+        "tags": [
+            "Final Year Projects",
+            "Research",
+            "AI",
+            "Neuromorphic"
+        ]
     },
     "e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware": {
         "title": "On Chip Online Learning For Neuromorphic Hardware",
