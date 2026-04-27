@@ -7113,7 +7113,7 @@
         "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-IV",
         "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-IV",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-IV/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+        "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-Smart-IV/data/thumbnail.jpg",
         "team": {
             "E/21/206": {
                 "name": "Paarkavi Jeyatheeswaran",
@@ -7211,7 +7211,7 @@
     },
     "e21-3yp-Smart-Metrolac": {
         "title": "Smart Metrolac",
-        "description": "Firmware and hardware design for the Smart-Metrolac, a handheld rubber latex quality profiler. Includes algorithms for static gravimetric density measurement, multi-sensor fraud detection and digitized chart interpolation for lab grade field analysis.",
+        "description": "An IoT-based measurement system designed to replace traditional glass metrolacs with precision gravimetric sensing. By integrating real-time spoilage detection and cloud-based data tracking, we provide a transparent, fraud-resistant solution for the Sri Lankan rubber industry, ensuring fair trade for farmers and accuracy for industrial collectors.",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
@@ -7221,7 +7221,7 @@
         "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-Metrolac",
         "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Metrolac",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-Metrolac/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+        "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Metrolac/data/thumbnail.jpg",
         "team": {
             "E/21/254": {
                 "name": "MANILGAMA N.C.",
@@ -18331,7 +18331,7 @@
         "repo_url": "https://github.com/cepdnaclk/e20-4yp-symbolic-music-generation-with-xLSTM",
         "page_url": "https://cepdnaclk.github.io/e20-4yp-symbolic-music-generation-with-xLSTM",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/symbolic-music-generation-with-xLSTM/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-symbolic-music-generation-with-xLSTM/data/thumbnail.jpg",
         "team": {
             "E/20/037": {
                 "name": "Bandara L.R.H.I.",
@@ -33063,7 +33063,7 @@
         "repo_url": "https://github.com/cepdnaclk/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis",
         "page_url": "https://cepdnaclk.github.io/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+        "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/data/thumbnail.jpg",
         "team": {
             "E/22/008": {
                 "name": "T. H. Abeywickrama",
@@ -36681,6 +36681,22 @@
             "SCADA",
             "Monitoring"
         ]
+    },
+    "e20-co326-Peak-Load-Detection-System": {
+        "title": "Peak Load Detection System",
+        "description": "",
+        "category": {
+            "title": "Industrial Automation Projects (CO326)",
+            "code": "co326",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Peak-Load-Detection-System/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co326-Peak-Load-Detection-System",
+        "page_url": "https://cepdnaclk.github.io/e20-co326-Peak-Load-Detection-System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Peak-Load-Detection-System/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+        "team": {},
+        "supervisors": {}
     },
     "e20-co326-Predictive-Temperature-Model": {
         "title": "Predictive Temperature Model",

@@ -1,6 +1,6 @@
 {
     "title": "Smart Metrolac",
-    "description": "Firmware and hardware design for the Smart-Metrolac, a handheld rubber latex quality profiler. Includes algorithms for static gravimetric density measurement, multi-sensor fraud detection and digitized chart interpolation for lab grade field analysis.",
+    "description": "An IoT-based measurement system designed to replace traditional glass metrolacs with precision gravimetric sensing. By integrating real-time spoilage detection and cloud-based data tracking, we provide a transparent, fraud-resistant solution for the Sri Lankan rubber industry, ensuring fair trade for farmers and accuracy for industrial collectors.",
     "category": {
         "title": "Cyber-Physical Systems Projects",
         "code": "3yp",
@@ -10,7 +10,7 @@
     "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-Metrolac",
     "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Metrolac",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-Metrolac/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+    "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Metrolac/data/thumbnail.jpg",
     "team": {
         "E/21/254": {
             "name": "MANILGAMA N.C.",
