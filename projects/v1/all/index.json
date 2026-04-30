@@ -36483,6 +36483,82 @@
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/HVAC-Blower-Fan-Predictive-Maintenance/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
     },
+    "e20-co326-MQTT-Data-Anomaly-Detection": {
+        "title": "MQTT Data Anomaly Detection",
+        "description": "End-to-end IoT/industrial monitoring system featuring data simulation, MQTT ingestion, ML-based anomaly detection, React dashboard, Grafana visualization, and Dockerized deployment.",
+        "category": {
+            "title": "Industrial Automation Projects (CO326)",
+            "code": "co326",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/MQTT-Data-Anomaly-Detection/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co326-MQTT-Data-Anomaly-Detection",
+        "page_url": "https://cepdnaclk.github.io/e20-co326-MQTT-Data-Anomaly-Detection",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/MQTT-Data-Anomaly-Detection/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+        "team": {
+            "E/20/259": {
+                "name": "Munasinghe S.L.",
+                "email": "e20259@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/259",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20259.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/259/"
+            },
+            "E/20/328": {
+                "name": "R.V.C. Rathnaweera",
+                "email": "e20328@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/328",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20328.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/328/"
+            },
+            "E/20/455": {
+                "name": "W.M.N. Dilshan",
+                "email": "e20455@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/nuwan455",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/455",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20455.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/455/"
+            },
+            "E/20/456": {
+                "name": "U.P.S.D.Dulaj",
+                "email": "e20456@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/456",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20456.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/456/"
+            }
+        },
+        "supervisors": {
+            "kamalanath@eng.pdn.ac.lk": {
+                "name": "Prof. Kamalanath Samarakoon",
+                "email": "kamalanath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/kamalanath-samarakoon/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/kamalanath-samarakoon.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
+                "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
+                "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
+            }
+        },
+        "tags": [
+            "Industrial network project (CO326)"
+        ]
+    },
     "e20-co326-Motor-Thermal-Monitoring-Digital-Twin": {
         "title": "Motor Thermal Monitoring Digital Twin",
         "description": "Detect abnormal motor behavior early and allow safe operator intervention.",
@@ -36611,6 +36687,20 @@
         "repo_url": "https://github.com/cepdnaclk/e20-co326-Room-Temperature-Anomaly-Detection",
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Room-Temperature-Anomaly-Detection/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
+    },
+    "e20-co326-Smart-Lighting-Control": {
+        "title": "Smart Lighting Control",
+        "description": "An Edge AI based smart lighting control system that simulates ambient light levels and automatically adjusts lighting brightness using AI. The system detects anomalies, predicts occupancy, and calculates energy savings in real time.",
+        "category": {
+            "title": "Industrial Automation Projects (CO326)",
+            "code": "co326",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Smart-Lighting-Control/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co326-Smart-Lighting-Control",
+        "page_url": "https://cepdnaclk.github.io/e20-co326-Smart-Lighting-Control",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Smart-Lighting-Control/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
     },
     "e20-co326-accelerometer-based-fan-health-monitoring-and-anomaly-detection-system-group-02": {
@@ -42089,6 +42179,76 @@
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/mini-project-Department-Engagement-and-Career-Platform/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co528/thumbnail.jpg"
+    },
+    "e20-co528-pera-com-decp": {
+        "title": "pera com decp",
+        "description": "Department Engagement & Career Platform (DECP) for CO528 Mini Project",
+        "category": {
+            "title": "Applied Software Architecture Projects (CO528)",
+            "code": "co528",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/pera-com-decp/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co528-pera-com-decp",
+        "page_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/pera-com-decp/",
+        "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp/data/thumbnail.jpg",
+        "team": {
+            "E/20/032": {
+                "name": "Chethiya Bandara",
+                "email": "e20032@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/ChethiyaB",
+                "linkedin": "https://www.linkedin.com/in/chethiyab/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/032",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20032.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/032/"
+            },
+            "E/20/157": {
+                "name": "Bimsara Janakantha",
+                "email": "e20157@eng.pdn.ac.lk",
+                "website": "https://www.thecn.com/BJ448",
+                "github": "https://github.com/Bimsara-Janakantha",
+                "linkedin": "https://www.linkedin.com/in/Bimsara-Janakantha/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/157",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20157.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/157/"
+            },
+            "E/20/254": {
+                "name": "Kavindu Methpura",
+                "email": "e20254@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/KavinduMethpura",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/254",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20254.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/254/"
+            }
+        },
+        "supervisors": {
+            "biswajithd@eng.pdn.ac.lk": {
+                "name": "Mr. Biswajith Dissanayake",
+                "email": "biswajithd@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/biswajith-dissanayake/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/biswajith-dissanayake.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/biswajithd",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/bak-dissanayake94718162555/",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "MicroServices",
+            "Kafka",
+            "Docker",
+            "DECP",
+            "PeraCom",
+            "Applied Software Architecture"
+        ]
     },
     "e20-co528-project-DECP": {
         "title": "project DECP",
