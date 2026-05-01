@@ -1,6 +1,6 @@
 {
     "title": "Predictive Temperature Model",
-    "description": "",
+    "description": "This project implements an Edge AI Predictive Temperature System designed for industrial IoT monitoring. The core objective is to analyze and forecast time-series temperature data to proactively identify potential overheating events.  The system is fully containerized using Docker and follows a decoupled microservices architecture.",
     "category": {
         "title": "Industrial Automation Projects (CO326)",
         "code": "co326",

@@ -79,7 +79,7 @@
     },
     "e20-co326-Predictive-Temperature-Model": {
         "title": "Predictive Temperature Model",
-        "description": "",
+        "description": "This project implements an Edge AI Predictive Temperature System designed for industrial IoT monitoring. The core objective is to analyze and forecast time-series temperature data to proactively identify potential overheating events.  The system is fully containerized using Docker and follows a decoupled microservices architecture.",
         "category": {
             "title": "Industrial Automation Projects (CO326)",
             "code": "co326",
@@ -102,6 +102,19 @@
         "repo_url": "https://github.com/cepdnaclk/e20-co326-Room-Temperature-Anomaly-Detection",
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Room-Temperature-Anomaly-Detection/"
+    },
+    "e20-co326-Smart-Humidity-Monitoring-Digital-Twin": {
+        "title": "Smart Humidity Monitoring Digital Twin",
+        "description": "Mini Project in CO326, where humidity and temperature was measured, predicted the behavior using edge ML and send data to a remote dashboard",
+        "category": {
+            "title": "Industrial Automation Projects (CO326)",
+            "code": "co326",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Smart-Humidity-Monitoring-Digital-Twin/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co326-Smart-Humidity-Monitoring-Digital-Twin",
+        "page_url": "https://cepdnaclk.github.io/e20-co326-Smart-Humidity-Monitoring-Digital-Twin",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Smart-Humidity-Monitoring-Digital-Twin/"
     },
     "e20-co326-Smart-Lighting-Control": {
         "title": "Smart Lighting Control",
@@ -128,6 +141,19 @@
         "repo_url": "https://github.com/cepdnaclk/e20-co326-accelerometer-based-fan-health-monitoring-and-anomaly-detection-system-group-02",
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/accelerometer-based-fan-health-monitoring-and-anomaly-detection-system-group-02/"
+    },
+    "e20-co326-bearing-failure-prediction": {
+        "title": "bearing failure prediction",
+        "description": "",
+        "category": {
+            "title": "Industrial Automation Projects (CO326)",
+            "code": "co326",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/bearing-failure-prediction/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co326-bearing-failure-prediction",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/bearing-failure-prediction/"
     },
     "e20-co326-edge-ai-group15": {
         "title": "edge ai group15",

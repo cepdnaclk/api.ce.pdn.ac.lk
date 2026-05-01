@@ -33054,7 +33054,7 @@
         "repo_url": "https://github.com/cepdnaclk/e22-co2060-MediTriage",
         "page_url": "https://cepdnaclk.github.io/e22-co2060-MediTriage",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MediTriage/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+        "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-MediTriage/data/thumbnail.jpg",
         "team": {
             "E/22/044": {
                 "name": "D.M.N.N. Bandara",
@@ -33101,7 +33101,19 @@
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e22/211/"
             }
         },
-        "supervisors": {},
+        "supervisors": {
+            "asithab@eng.pdn.ac.lk": {
+                "name": "Dr. Asitha Bandaranayake",
+                "email": "asithab@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/asitha-bandaranayake.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/asithab",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/asithab/",
+                "researchgate": "https://www.researchgate.net/profile/Asitha-Bandaranayake-3",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=sf6MaF4AAAAJ"
+            }
+        },
         "tags": [
             "Web",
             "Software Systems",
@@ -33645,8 +33657,8 @@
                 "name": "M. D. S. Senanayake",
                 "email": "e22366@eng.pdn.ac.lk",
                 "website": "",
-                "github": "",
-                "linkedin": "",
+                "github": "https://github.com/senara06",
+                "linkedin": "https://www.linkedin.com/in/senara-senanayake-03b0a2354",
                 "researchgate": "",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/366",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22366.jpg",
@@ -35386,6 +35398,39 @@
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/127",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23127.jpg",
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e23/127/"
+            },
+            "E/23/108": {
+                "name": "W.G.R.P.Gamage",
+                "email": "e23108@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/Rinz-P",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/108",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23108.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e23/108/"
+            },
+            "E/23/188": {
+                "name": "K.M.M.Y.Kumarasinghe",
+                "email": "e23188@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/188",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23188.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e23/188/"
+            },
+            "E/23/117": {
+                "name": "W.R.A.D.N.Gunathilake",
+                "email": "e23117@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/dinithinim",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/117",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23117.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e23/117/"
             }
         },
         "supervisors": {},
@@ -36663,7 +36708,7 @@
     },
     "e20-co326-Predictive-Temperature-Model": {
         "title": "Predictive Temperature Model",
-        "description": "",
+        "description": "This project implements an Edge AI Predictive Temperature System designed for industrial IoT monitoring. The core objective is to analyze and forecast time-series temperature data to proactively identify potential overheating events.  The system is fully containerized using Docker and follows a decoupled microservices architecture.",
         "category": {
             "title": "Industrial Automation Projects (CO326)",
             "code": "co326",
@@ -36688,6 +36733,22 @@
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Room-Temperature-Anomaly-Detection/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
+    },
+    "e20-co326-Smart-Humidity-Monitoring-Digital-Twin": {
+        "title": "Smart Humidity Monitoring Digital Twin",
+        "description": "Mini Project in CO326, where humidity and temperature was measured, predicted the behavior using edge ML and send data to a remote dashboard",
+        "category": {
+            "title": "Industrial Automation Projects (CO326)",
+            "code": "co326",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Smart-Humidity-Monitoring-Digital-Twin/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co326-Smart-Humidity-Monitoring-Digital-Twin",
+        "page_url": "https://cepdnaclk.github.io/e20-co326-Smart-Humidity-Monitoring-Digital-Twin",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Smart-Humidity-Monitoring-Digital-Twin/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+        "team": {},
+        "supervisors": {}
     },
     "e20-co326-Smart-Lighting-Control": {
         "title": "Smart Lighting Control",
@@ -36715,6 +36776,20 @@
         "repo_url": "https://github.com/cepdnaclk/e20-co326-accelerometer-based-fan-health-monitoring-and-anomaly-detection-system-group-02",
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/accelerometer-based-fan-health-monitoring-and-anomaly-detection-system-group-02/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
+    },
+    "e20-co326-bearing-failure-prediction": {
+        "title": "bearing failure prediction",
+        "description": "",
+        "category": {
+            "title": "Industrial Automation Projects (CO326)",
+            "code": "co326",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/bearing-failure-prediction/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co326-bearing-failure-prediction",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/bearing-failure-prediction/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
     },
     "e20-co326-edge-ai-group15": {
