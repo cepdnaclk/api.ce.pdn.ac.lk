@@ -617,19 +617,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Logging-Microservice-for-IoT-based-Smart-Agriculture-Project/"
         },
         {
-            "title": "MediTriage",
-            "category": {
-                "code": "co2060",
-                "title": "Software Systems Design Project (CO2060)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/MediTriage/",
-            "repo_url": "https://github.com/cepdnaclk/e22-co2060-MediTriage",
-            "page_url": "https://cepdnaclk.github.io/e22-co2060-MediTriage",
-            "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-MediTriage/data/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MediTriage/"
-        },
-        {
             "title": "OrthoPAR Web Platform",
             "category": {
                 "code": "co2060",
@@ -779,17 +766,30 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Kiosk-System/"
         },
         {
-            "title": "pera com decp",
+            "title": "Mini C Interpreter",
+            "category": {
+                "code": "co523",
+                "title": "Programming Languages (CO523)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co523/e20/Mini-C-Interpreter/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co523-Mini-C-Interpreter",
+            "page_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/Mini-C-Interpreter/"
+        },
+        {
+            "title": "PeraCom DECP",
             "category": {
                 "code": "co528",
                 "title": "Applied Software Architecture Projects (CO528)",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/pera-com-decp/",
-            "repo_url": "https://github.com/cepdnaclk/e20-co528-pera-com-decp",
-            "page_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp",
-            "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp/data/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/pera-com-decp/"
+            "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/PeraCom-DECP/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co528-PeraCom-DECP",
+            "page_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/PeraCom-DECP/"
         }
     ],
     "cds@eng.pdn.ac.lk": [
@@ -1981,19 +1981,6 @@
             "page_url": "https://cepdnaclk.github.io/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis",
             "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/"
-        },
-        {
-            "title": "MPhil PhD Lifecycle Management System",
-            "category": {
-                "code": "co2060",
-                "title": "Software Systems Design Project (CO2060)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/MPhil-PhD-Lifecycle-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
         }
     ],
     "e21077@eng.pdn.ac.lk": [
@@ -4261,7 +4248,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/",
             "repo_url": "https://github.com/cepdnaclk/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
             "page_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/"
         },
         {
@@ -5162,7 +5149,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/hydro-risk-management/",
             "repo_url": "https://github.com/cepdnaclk/e22-co2060-hydro-risk-management",
             "page_url": "https://cepdnaclk.github.io/e22-co2060-hydro-risk-management",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-hydro-risk-management/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/hydro-risk-management/"
         },
         {
@@ -8335,7 +8322,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/",
             "repo_url": "https://github.com/cepdnaclk/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
             "page_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/"
         },
         {
@@ -10179,19 +10166,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Postgraduate-Student-Management-System/"
         },
         {
-            "title": "MPhil PhD Lifecycle Management System",
-            "category": {
-                "code": "co2060",
-                "title": "Software Systems Design Project (CO2060)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/MPhil-PhD-Lifecycle-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
-        },
-        {
             "title": "ColorNet Grayscale image colorization project using AI and image processing",
             "category": {
                 "code": "co543",
@@ -10296,7 +10270,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/",
             "repo_url": "https://github.com/cepdnaclk/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
             "page_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/"
         },
         {

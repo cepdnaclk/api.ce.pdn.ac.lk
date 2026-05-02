@@ -194,6 +194,19 @@
         "page_url": "https://cepdnaclk.github.io/e22-co2060-School-Van-Management-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/School-Van-Management-System/"
     },
+    "e22-co2060-SmartCare-Healthcare-Management-System": {
+        "title": "SmartCare Healthcare Management System",
+        "description": "SmartCare is a web-based healthcare management system that simplifies hospital operations through online appointment booking, doctor and staff management, and an AI-powered chatbot. It improves patient experience, reduces administrative workload, and ensures secure medical data handling using Spring Boot and MongoDB.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/SmartCare-Healthcare-Management-System/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co2060-SmartCare-Healthcare-Management-System",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/SmartCare-Healthcare-Management-System/"
+    },
     "e22-co2060-Syncro": {
         "title": "Syncro",
         "description": "Syncro is a universal reverse-auction marketplace that connects buyers and sellers efficiently. Clients post structured requests, and verified sellers compete with transparent bids in real time. The platform supports dual-role users and focuses on smart matching, reduced search effort, and fair pricing.",
@@ -230,7 +243,7 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Web_Based_PAR_Index_System/",
         "repo_url": "https://github.com/cepdnaclk/e22-co2060-Web_Based_PAR_Index_System",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e22-co2060-Web_Based_PAR_Index_System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Web_Based_PAR_Index_System/"
     },
     "e22-co2060-floodguard": {

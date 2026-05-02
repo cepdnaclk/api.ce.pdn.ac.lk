@@ -659,17 +659,17 @@
     ],
     "Applied Software Architecture": [
         {
-            "title": "pera com decp",
+            "title": "PeraCom DECP",
             "category": {
                 "code": "co528",
                 "title": "Applied Software Architecture Projects (CO528)",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/pera-com-decp/",
-            "repo_url": "https://github.com/cepdnaclk/e20-co528-pera-com-decp",
-            "page_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp",
-            "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp/data/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/pera-com-decp/"
+            "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/PeraCom-DECP/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co528-PeraCom-DECP",
+            "page_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/PeraCom-DECP/"
         }
     ],
     "Arduino": [
@@ -1377,7 +1377,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/hydro-risk-management/",
             "repo_url": "https://github.com/cepdnaclk/e22-co2060-hydro-risk-management",
             "page_url": "https://cepdnaclk.github.io/e22-co2060-hydro-risk-management",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-hydro-risk-management/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/hydro-risk-management/"
         },
         {
@@ -1509,19 +1509,6 @@
             "page_url": "https://cepdnaclk.github.io/e23-co2060-Kitchen-Foods-Platform",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Kitchen-Foods-Platform/"
-        },
-        {
-            "title": "MPhil PhD Lifecycle Management System",
-            "category": {
-                "code": "co2060",
-                "title": "Software Systems Design Project (CO2060)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/MPhil-PhD-Lifecycle-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
         },
         {
             "title": "Maathacare",
@@ -1826,6 +1813,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E20/RV32IM_Pipelined_Processor_Group-05/"
         }
     ],
+    "CO523": [
+        {
+            "title": "C_LITE Interpreter",
+            "category": {
+                "code": "co523",
+                "title": "Programming Languages (CO523)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co523/e20/C_LITE-Interpreter/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co523-C_LITE-Interpreter",
+            "page_url": "https://cepdnaclk.github.io/e20-co523-C_LITE-Interpreter",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co523/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/C_LITE-Interpreter/"
+        }
+    ],
     "CO542": [
         {
             "title": "handwritten character recognition",
@@ -1940,6 +1942,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Reducing-Context-Switching-Latency-in-RTES-Using-RFP/"
         }
     ],
+    "C_LITE": [
+        {
+            "title": "C_LITE Interpreter",
+            "category": {
+                "code": "co523",
+                "title": "Programming Languages (CO523)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co523/e20/C_LITE-Interpreter/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co523-C_LITE-Interpreter",
+            "page_url": "https://cepdnaclk.github.io/e20-co523-C_LITE-Interpreter",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co523/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/C_LITE-Interpreter/"
+        }
+    ],
     "Cardiac MRI": [
         {
             "title": "Synthetic Cardiac MRI Image Generation using Deep Generative Models",
@@ -1951,7 +1968,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/",
             "repo_url": "https://github.com/cepdnaclk/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
             "page_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/"
         }
     ],
@@ -2170,6 +2187,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co523-C-Lite-Interpreter",
             "thumbnail_url": "https://cepdnaclk.github.io/e20-co523-C-Lite-Interpreter/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/C-Lite-Interpreter/"
+        },
+        {
+            "title": "C_LITE Interpreter",
+            "category": {
+                "code": "co523",
+                "title": "Programming Languages (CO523)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co523/e20/C_LITE-Interpreter/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co523-C_LITE-Interpreter",
+            "page_url": "https://cepdnaclk.github.io/e20-co523-C_LITE-Interpreter",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co523/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/C_LITE-Interpreter/"
         }
     ],
     "Computer Architecture": [
@@ -2871,17 +2901,17 @@
     ],
     "DECP": [
         {
-            "title": "pera com decp",
+            "title": "PeraCom DECP",
             "category": {
                 "code": "co528",
                 "title": "Applied Software Architecture Projects (CO528)",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/pera-com-decp/",
-            "repo_url": "https://github.com/cepdnaclk/e20-co528-pera-com-decp",
-            "page_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp",
-            "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp/data/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/pera-com-decp/"
+            "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/PeraCom-DECP/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co528-PeraCom-DECP",
+            "page_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/PeraCom-DECP/"
         }
     ],
     "DNA": [
@@ -3297,23 +3327,23 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/hydro-risk-management/",
             "repo_url": "https://github.com/cepdnaclk/e22-co2060-hydro-risk-management",
             "page_url": "https://cepdnaclk.github.io/e22-co2060-hydro-risk-management",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-hydro-risk-management/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/hydro-risk-management/"
         }
     ],
     "Docker": [
         {
-            "title": "pera com decp",
+            "title": "PeraCom DECP",
             "category": {
                 "code": "co528",
                 "title": "Applied Software Architecture Projects (CO528)",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/pera-com-decp/",
-            "repo_url": "https://github.com/cepdnaclk/e20-co528-pera-com-decp",
-            "page_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp",
-            "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp/data/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/pera-com-decp/"
+            "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/PeraCom-DECP/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co528-PeraCom-DECP",
+            "page_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/PeraCom-DECP/"
         }
     ],
     "Dynamic Time Warping": [
@@ -3503,6 +3533,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co326-Motor-Thermal-Monitoring-Digital-Twin",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Motor-Thermal-Monitoring-Digital-Twin/"
+        },
+        {
+            "title": "Peak Load Detection System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Peak-Load-Detection-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co326-Peak-Load-Detection-System",
+            "page_url": "https://cepdnaclk.github.io/e20-co326-Peak-Load-Detection-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Peak-Load-Detection-System/"
         }
     ],
     "ESP8266": [
@@ -3518,6 +3561,21 @@
             "page_url": "https://cepdnaclk.github.io/e18-co326-Water-Quality-Monitoring-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Water-Quality-Monitoring-System/"
+        }
+    ],
+    "Edge AI": [
+        {
+            "title": "Peak Load Detection System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Peak-Load-Detection-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co326-Peak-Load-Detection-System",
+            "page_url": "https://cepdnaclk.github.io/e20-co326-Peak-Load-Detection-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Peak-Load-Detection-System/"
         }
     ],
     "Edge Computing": [
@@ -5488,6 +5546,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Heat_map/"
         }
     ],
+    "Ensemble ML": [
+        {
+            "title": "Peak Load Detection System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Peak-Load-Detection-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co326-Peak-Load-Detection-System",
+            "page_url": "https://cepdnaclk.github.io/e20-co326-Peak-Load-Detection-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Peak-Load-Detection-System/"
+        }
+    ],
     "Entertainment": [
         {
             "title": "P E BO Desk Companion",
@@ -6422,7 +6495,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/",
             "repo_url": "https://github.com/cepdnaclk/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
             "page_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/"
         },
         {
@@ -8275,7 +8348,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/",
             "repo_url": "https://github.com/cepdnaclk/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
             "page_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/"
         }
     ],
@@ -8600,6 +8673,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Interactive-Department-Map-GroupA/"
         }
     ],
+    "Interpreter": [
+        {
+            "title": "C_LITE Interpreter",
+            "category": {
+                "code": "co523",
+                "title": "Programming Languages (CO523)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co523/e20/C_LITE-Interpreter/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co523-C_LITE-Interpreter",
+            "page_url": "https://cepdnaclk.github.io/e20-co523-C_LITE-Interpreter",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co523/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/C_LITE-Interpreter/"
+        }
+    ],
     "Inventory Management": [
         {
             "title": "Smart Inventory Management System Group A",
@@ -8799,6 +8887,19 @@
             "page_url": "https://cepdnaclk.github.io/e16-4yp-AI-as-a-Microservice-for-Smart-Edge-of-Things",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/AI-as-a-Microservice-for-Smart-Edge-of-Things/"
+        },
+        {
+            "title": "Peak Load Detection System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Peak-Load-Detection-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co326-Peak-Load-Detection-System",
+            "page_url": "https://cepdnaclk.github.io/e20-co326-Peak-Load-Detection-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Peak-Load-Detection-System/"
         }
     ],
     "JWT": [
@@ -9049,17 +9150,17 @@
     ],
     "Kafka": [
         {
-            "title": "pera com decp",
+            "title": "PeraCom DECP",
             "category": {
                 "code": "co528",
                 "title": "Applied Software Architecture Projects (CO528)",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/pera-com-decp/",
-            "repo_url": "https://github.com/cepdnaclk/e20-co528-pera-com-decp",
-            "page_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp",
-            "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp/data/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/pera-com-decp/"
+            "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/PeraCom-DECP/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co528-PeraCom-DECP",
+            "page_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/PeraCom-DECP/"
         }
     ],
     "Kiosk": [
@@ -9399,6 +9500,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/QR-AI-Entry-Exit-Tracking-System/"
         }
     ],
+    "MIT License": [
+        {
+            "title": "C_LITE Interpreter",
+            "category": {
+                "code": "co523",
+                "title": "Programming Languages (CO523)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co523/e20/C_LITE-Interpreter/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co523-C_LITE-Interpreter",
+            "page_url": "https://cepdnaclk.github.io/e20-co523-C_LITE-Interpreter",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co523/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/C_LITE-Interpreter/"
+        }
+    ],
     "ML": [
         {
             "title": "Analysis Tool for Industrial Images",
@@ -9520,6 +9636,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co326-Water-Quality-Monitoring-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Water-Quality-Monitoring-System/"
+        },
+        {
+            "title": "Peak Load Detection System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Peak-Load-Detection-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co326-Peak-Load-Detection-System",
+            "page_url": "https://cepdnaclk.github.io/e20-co326-Peak-Load-Detection-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Peak-Load-Detection-System/"
         },
         {
             "title": "Remotely Controlled CNC Robot",
@@ -10181,17 +10310,17 @@
     ],
     "MicroServices": [
         {
-            "title": "pera com decp",
+            "title": "PeraCom DECP",
             "category": {
                 "code": "co528",
                 "title": "Applied Software Architecture Projects (CO528)",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/pera-com-decp/",
-            "repo_url": "https://github.com/cepdnaclk/e20-co528-pera-com-decp",
-            "page_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp",
-            "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp/data/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/pera-com-decp/"
+            "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/PeraCom-DECP/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co528-PeraCom-DECP",
+            "page_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/PeraCom-DECP/"
         }
     ],
     "Microservice": [
@@ -11780,6 +11909,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-payment-system/"
         }
     ],
+    "Peak Load Detection": [
+        {
+            "title": "Peak Load Detection System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Peak-Load-Detection-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co326-Peak-Load-Detection-System",
+            "page_url": "https://cepdnaclk.github.io/e20-co326-Peak-Load-Detection-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Peak-Load-Detection-System/"
+        }
+    ],
     "People Counting": [
         {
             "title": "QR AI Entry Exit Tracking System",
@@ -11797,17 +11941,17 @@
     ],
     "PeraCom": [
         {
-            "title": "pera com decp",
+            "title": "PeraCom DECP",
             "category": {
                 "code": "co528",
                 "title": "Applied Software Architecture Projects (CO528)",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/pera-com-decp/",
-            "repo_url": "https://github.com/cepdnaclk/e20-co528-pera-com-decp",
-            "page_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp",
-            "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp/data/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/pera-com-decp/"
+            "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/PeraCom-DECP/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co528-PeraCom-DECP",
+            "page_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/PeraCom-DECP/"
         }
     ],
     "Person Reidentification": [
@@ -12139,6 +12283,45 @@
             "page_url": "https://cepdnaclk.github.io/e22-co2060-AI-Smart-Assistant",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/AI-Smart-Assistant/"
+        },
+        {
+            "title": "Peak Load Detection System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Peak-Load-Detection-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co326-Peak-Load-Detection-System",
+            "page_url": "https://cepdnaclk.github.io/e20-co326-Peak-Load-Detection-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Peak-Load-Detection-System/"
+        },
+        {
+            "title": "C_LITE Interpreter",
+            "category": {
+                "code": "co523",
+                "title": "Programming Languages (CO523)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co523/e20/C_LITE-Interpreter/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co523-C_LITE-Interpreter",
+            "page_url": "https://cepdnaclk.github.io/e20-co523-C_LITE-Interpreter",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co523/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/C_LITE-Interpreter/"
+        },
+        {
+            "title": "Mini C Interpreter",
+            "category": {
+                "code": "co523",
+                "title": "Programming Languages (CO523)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co523/e20/Mini-C-Interpreter/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co523-Mini-C-Interpreter",
+            "page_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/Mini-C-Interpreter/"
         }
     ],
     "QR Scanning": [
@@ -13845,7 +14028,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/hydro-risk-management/",
             "repo_url": "https://github.com/cepdnaclk/e22-co2060-hydro-risk-management",
             "page_url": "https://cepdnaclk.github.io/e22-co2060-hydro-risk-management",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-hydro-risk-management/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/hydro-risk-management/"
         },
         {
@@ -13964,19 +14147,6 @@
             "page_url": "https://cepdnaclk.github.io/e23-co2060-Kitchen-Foods-Platform",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Kitchen-Foods-Platform/"
-        },
-        {
-            "title": "MPhil PhD Lifecycle Management System",
-            "category": {
-                "code": "co2060",
-                "title": "Software Systems Design Project (CO2060)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/MPhil-PhD-Lifecycle-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
         },
         {
             "title": "Maathacare",
@@ -17174,7 +17344,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/hydro-risk-management/",
             "repo_url": "https://github.com/cepdnaclk/e22-co2060-hydro-risk-management",
             "page_url": "https://cepdnaclk.github.io/e22-co2060-hydro-risk-management",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-hydro-risk-management/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/hydro-risk-management/"
         },
         {
@@ -17293,19 +17463,6 @@
             "page_url": "https://cepdnaclk.github.io/e23-co2060-Kitchen-Foods-Platform",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Kitchen-Foods-Platform/"
-        },
-        {
-            "title": "MPhil PhD Lifecycle Management System",
-            "category": {
-                "code": "co2060",
-                "title": "Software Systems Design Project (CO2060)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/MPhil-PhD-Lifecycle-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
         },
         {
             "title": "Maathacare",
@@ -18090,6 +18247,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Developing-image-capturing-and-analysing-system-using-FPGA/"
         }
     ],
+    "compiler": [
+        {
+            "title": "Mini C Interpreter",
+            "category": {
+                "code": "co523",
+                "title": "Programming Languages (CO523)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co523/e20/Mini-C-Interpreter/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co523-Mini-C-Interpreter",
+            "page_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/Mini-C-Interpreter/"
+        }
+    ],
     "compilers": [
         {
             "title": "swarm intelligence programming framework",
@@ -18180,6 +18352,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Image-Data-Handling-System-for-Research-Group-B/"
         }
     ],
+    "interpreter": [
+        {
+            "title": "Mini C Interpreter",
+            "category": {
+                "code": "co523",
+                "title": "Programming Languages (CO523)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co523/e20/Mini-C-Interpreter/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co523-Mini-C-Interpreter",
+            "page_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/Mini-C-Interpreter/"
+        }
+    ],
     "java": [
         {
             "title": "AURA",
@@ -18193,6 +18380,21 @@
             "page_url": "https://cepdnaclk.github.io/e21-3yp-AURA",
             "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-AURA/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/AURA/"
+        }
+    ],
+    "lexical analysis": [
+        {
+            "title": "Mini C Interpreter",
+            "category": {
+                "code": "co523",
+                "title": "Programming Languages (CO523)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co523/e20/Mini-C-Interpreter/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co523-Mini-C-Interpreter",
+            "page_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/Mini-C-Interpreter/"
         }
     ],
     "machine vision": [
@@ -18279,6 +18481,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Mobile-app-for-Inpatient-Management-System/"
         }
     ],
+    "programming language": [
+        {
+            "title": "Mini C Interpreter",
+            "category": {
+                "code": "co523",
+                "title": "Programming Languages (CO523)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co523/e20/Mini-C-Interpreter/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co523-Mini-C-Interpreter",
+            "page_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/Mini-C-Interpreter/"
+        }
+    ],
     "reactjs": [
         {
             "title": "AURA",
@@ -18339,6 +18556,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/swarm-intelligence-programming-framework/"
         }
     ],
+    "semantic analysis": [
+        {
+            "title": "Mini C Interpreter",
+            "category": {
+                "code": "co523",
+                "title": "Programming Languages (CO523)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co523/e20/Mini-C-Interpreter/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co523-Mini-C-Interpreter",
+            "page_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/Mini-C-Interpreter/"
+        }
+    ],
     "software engineering": [
         {
             "title": "Research profiles of academic staff",
@@ -18367,6 +18599,21 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-ACES-Project-Fund-Requests",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ACES-Project-Fund-Requests/"
+        }
+    ],
+    "syntax analysis": [
+        {
+            "title": "Mini C Interpreter",
+            "category": {
+                "code": "co523",
+                "title": "Programming Languages (CO523)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co523/e20/Mini-C-Interpreter/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co523-Mini-C-Interpreter",
+            "page_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter",
+            "thumbnail_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/Mini-C-Interpreter/"
         }
     ],
     "tour guide": [

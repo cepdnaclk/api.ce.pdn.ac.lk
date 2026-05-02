@@ -11,6 +11,48 @@
     "page_url": "https://cepdnaclk.github.io/e20-co326-Peak-Load-Detection-System",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Peak-Load-Detection-System/",
     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-    "team": {},
-    "supervisors": {}
+    "team": {
+        "E/20/439": {
+            "name": "J.M.W.G.R.L. Wickrmasinghe",
+            "email": "e20439@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/ravindu439",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/439",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20439.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/439/"
+        },
+        "E/20/419": {
+            "name": "M.M.S.S. Wakkumbura",
+            "email": "e20419@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/samadhisakunika",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/419",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20419.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/419/"
+        },
+        "E/20/244": {
+            "name": "P. Malshan",
+            "email": "e20244@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/244",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20244.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/244/"
+        }
+    },
+    "tags": [
+        "Edge AI",
+        "IoT",
+        "Peak Load Detection",
+        "MQTT",
+        "Python",
+        "ESP32",
+        "Ensemble ML"
+    ]
 }

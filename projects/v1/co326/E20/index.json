@@ -27,7 +27,7 @@
     },
     "e20-co326-HVAC-Blower-Fan-Predictive-Maintenance": {
         "title": "HVAC Blower Fan Predictive Maintenance",
-        "description": "",
+        "description": "HVAC blower fan predictive maintenance prototype built around an ESP32, vibration/current sensing, lightweight anomaly detection, MQTT telemetry, and a Docker-based IIoT monitoring stack.",
         "category": {
             "title": "Industrial Automation Projects (CO326)",
             "code": "co326",

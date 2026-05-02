@@ -6556,7 +6556,7 @@
     },
     "e21-3yp-ReflectStudio": {
         "title": "ReflectStudio",
-        "description": "ReflectOS is a hybrid IoT smart mirror ecosystem for remote caregiving. Built with Flutter, Supabase, and Raspberry Pi, it features remote biometric enrollment, autonomous climate control, and real-time environmental monitoring, bridging the gap between passive displays and active home safety.",
+        "description": "Reflect Studio is a smart mirror with an AI companion that supports elderly users by providing conversation, reminders, and emotion-aware assistance to reduce loneliness",
         "category": {
             "title": "Cyber-Physical Systems Projects",
             "code": "3yp",
@@ -7067,9 +7067,9 @@
                 "name": "Suthail A.L.M.",
                 "email": "e21395@eng.pdn.ac.lk",
                 "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
+                "github": "https://github.com/EngSuthail",
+                "linkedin": "https://www.linkedin.com/in/suthail-latheef-84a5892b3/",
+                "researchgate": "https://www.researchgate.net/profile/Mohamed-Suthail?ev=hdr_xprf",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/395",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21395.jpg",
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e21/395/"
@@ -17671,7 +17671,7 @@
         "repo_url": "https://github.com/cepdnaclk/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
         "page_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+        "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/data/thumbnail.jpg",
         "team": {
             "E/20/211": {
                 "name": "Kumarasinghe K.W.I.T",
@@ -30288,9 +30288,9 @@
                 "name": "SUTHAIL A.L.M.",
                 "email": "e21395@eng.pdn.ac.lk",
                 "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
+                "github": "https://github.com/EngSuthail",
+                "linkedin": "https://www.linkedin.com/in/suthail-latheef-84a5892b3/",
+                "researchgate": "https://www.researchgate.net/profile/Mohamed-Suthail?ev=hdr_xprf",
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/395",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21395.jpg",
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e21/395/"
@@ -33102,16 +33102,16 @@
             }
         },
         "supervisors": {
-            "asithab@eng.pdn.ac.lk": {
-                "name": "Dr. Asitha Bandaranayake",
-                "email": "asithab@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/",
-                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/asitha-bandaranayake.jpg",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/asithab",
+            "#": {
+                "name": "Chanu Munasinghe (M.D.)",
+                "email": "#",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
                 "website": "#",
-                "linkedin": "https://www.linkedin.com/in/asithab/",
-                "researchgate": "https://www.researchgate.net/profile/Asitha-Bandaranayake-3",
-                "google_scholar": "https://scholar.google.com/citations?hl=en&user=sf6MaF4AAAAJ"
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
             }
         },
         "tags": [
@@ -33791,6 +33791,20 @@
             "CO2060"
         ]
     },
+    "e22-co2060-SmartCare-Healthcare-Management-System": {
+        "title": "SmartCare Healthcare Management System",
+        "description": "SmartCare is a web-based healthcare management system that simplifies hospital operations through online appointment booking, doctor and staff management, and an AI-powered chatbot. It improves patient experience, reduces administrative workload, and ensures secure medical data handling using Spring Boot and MongoDB.",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/SmartCare-Healthcare-Management-System/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co2060-SmartCare-Healthcare-Management-System",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/SmartCare-Healthcare-Management-System/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg"
+    },
     "e22-co2060-Syncro": {
         "title": "Syncro",
         "description": "Syncro is a universal reverse-auction marketplace that connects buyers and sellers efficiently. Clients post structured requests, and verified sellers compete with transparent bids in real time. The platform supports dual-role users and focuses on smart matching, reduced search effort, and fair pricing.",
@@ -33954,7 +33968,7 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Web_Based_PAR_Index_System/",
         "repo_url": "https://github.com/cepdnaclk/e22-co2060-Web_Based_PAR_Index_System",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e22-co2060-Web_Based_PAR_Index_System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Web_Based_PAR_Index_System/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg"
     },
@@ -34114,7 +34128,7 @@
         "repo_url": "https://github.com/cepdnaclk/e22-co2060-hydro-risk-management",
         "page_url": "https://cepdnaclk.github.io/e22-co2060-hydro-risk-management",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/hydro-risk-management/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+        "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-hydro-risk-management/data/thumbnail.jpg",
         "team": {
             "E/22/182": {
                 "name": "Dinith Kariyawasam",
@@ -34854,82 +34868,7 @@
         "repo_url": "https://github.com/cepdnaclk/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
         "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-        "team": {
-            "E/23/442": {
-                "name": "D.K.G.P.C.B. Wijerathne",
-                "email": "e23442@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/pasan3251",
-                "linkedin": "https://www.linkedin.com/in/pasan-wijerathne-857442371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/442",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23442.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e23/442/"
-            },
-            "E/23/178": {
-                "name": "S.N.R. Kodituwakku",
-                "email": "e23178@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/sandun-kodi",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/178",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23178.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e23/178/"
-            },
-            "E/23/118": {
-                "name": "D.A.A. Gunawardana",
-                "email": "e23118@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/Aravinda-04",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/118",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23118.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e23/118/"
-            },
-            "E/23/023": {
-                "name": "M.N.P.V. Aththanayake",
-                "email": "e23023@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/Prabhasara-Vidulanka",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/023",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23023.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e23/023/"
-            }
-        },
-        "supervisors": {
-            "upuljm@eng.pdn.ac.lk": {
-                "name": "Dr. Upul Jayasinghe",
-                "email": "upuljm@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul-jayasinghe/",
-                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/upul-jayasinghe.jpg",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/upuljm",
-                "website": "#",
-                "linkedin": "https://www.linkedin.com/in/upuljm/",
-                "researchgate": "https://www.researchgate.net/profile/Upul-Jayasinghe",
-                "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
-            },
-            "e21005@eng.pdn.ac.lk": {
-                "name": "Shehan Dewnith",
-                "email": "e21005@eng.pdn.ac.lk",
-                "profile_url": "#",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
-                "api_url": "#",
-                "website": "#",
-                "linkedin": "#",
-                "researchgate": "#",
-                "google_scholar": "#"
-            }
-        },
-        "tags": [
-            "Web",
-            "Software Systems",
-            "CO2060"
-        ]
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg"
     },
     "e23-co2060-Maathacare": {
         "title": "Maathacare",
@@ -36516,7 +36455,7 @@
     },
     "e20-co326-HVAC-Blower-Fan-Predictive-Maintenance": {
         "title": "HVAC Blower Fan Predictive Maintenance",
-        "description": "",
+        "description": "HVAC blower fan predictive maintenance prototype built around an ESP32, vibration/current sensing, lightweight anomaly detection, MQTT telemetry, and a Docker-based IIoT monitoring stack.",
         "category": {
             "title": "Industrial Automation Projects (CO326)",
             "code": "co326",
@@ -36703,8 +36642,50 @@
         "page_url": "https://cepdnaclk.github.io/e20-co326-Peak-Load-Detection-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Peak-Load-Detection-System/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-        "team": {},
-        "supervisors": {}
+        "team": {
+            "E/20/439": {
+                "name": "J.M.W.G.R.L. Wickrmasinghe",
+                "email": "e20439@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/ravindu439",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/439",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20439.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/439/"
+            },
+            "E/20/419": {
+                "name": "M.M.S.S. Wakkumbura",
+                "email": "e20419@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/samadhisakunika",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/419",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20419.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/419/"
+            },
+            "E/20/244": {
+                "name": "P. Malshan",
+                "email": "e20244@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/244",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20244.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/244/"
+            }
+        },
+        "tags": [
+            "Edge AI",
+            "IoT",
+            "Peak Load Detection",
+            "MQTT",
+            "Python",
+            "ESP32",
+            "Ensemble ML"
+        ]
     },
     "e20-co326-Predictive-Temperature-Model": {
         "title": "Predictive Temperature Model",
@@ -42124,6 +42105,90 @@
             "Compiler Design"
         ]
     },
+    "e20-co523-C_LITE-Interpreter": {
+        "title": "C_LITE Interpreter",
+        "description": "A Python-based interpreter 'C-Lite' \u2014 a simplified subset of the C programming language \u2014 developed as part of 'CO523 \u2013 Programming Languages' at the University of Peradeniya.",
+        "category": {
+            "title": "Programming Languages (CO523)",
+            "code": "co523",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co523/e20/C_LITE-Interpreter/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co523-C_LITE-Interpreter",
+        "page_url": "https://cepdnaclk.github.io/e20-co523-C_LITE-Interpreter",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/C_LITE-Interpreter/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co523/thumbnail.jpg",
+        "team": {
+            "E/20/157": {
+                "name": "Janakantha S.M.B.G.",
+                "email": "e20157@eng.pdn.ac.lk",
+                "website": "https://www.thecn.com/BJ448",
+                "github": "https://github.com/Bimsara-Janakantha",
+                "linkedin": "https://www.linkedin.com/in/Bimsara-Janakantha/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/157",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20157.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/157/"
+            }
+        },
+        "tags": [
+            "CO523",
+            "Compiler Design",
+            "C_LITE",
+            "Interpreter",
+            "Python",
+            "MIT License"
+        ]
+    },
+    "e20-co523-Mini-C-Interpreter": {
+        "title": "Mini C Interpreter",
+        "description": "A C-Lite interpreter implemented in Python \u2014 featuring a Lexer, Recursive-Descent Parser, and AST-based Evaluator.",
+        "category": {
+            "title": "Programming Languages (CO523)",
+            "code": "co523",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co523/e20/Mini-C-Interpreter/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co523-Mini-C-Interpreter",
+        "page_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/Mini-C-Interpreter/",
+        "thumbnail_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter/data/thumbnail.jpg",
+        "team": {
+            "E/20/254": {
+                "name": "S.K.P. Methpura",
+                "email": "e20254@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/KavinduMethpura",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/254",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20254.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/254/"
+            }
+        },
+        "supervisors": {
+            "biswajithd@eng.pdn.ac.lk": {
+                "name": "Mr. Biswajith Dissanayake",
+                "email": "biswajithd@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/biswajith-dissanayake/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/biswajith-dissanayake.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/biswajithd",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/bak-dissanayake94718162555/",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Python",
+            "compiler",
+            "interpreter",
+            "programming language",
+            "lexical analysis",
+            "syntax analysis",
+            "semantic analysis"
+        ]
+    },
     "e20-co528-Department-Engagement-and-Career-Platform": {
         "title": "Department Engagement and Career Platform",
         "description": "The Department Engagement & Career Platform (DECP) is a comprehensive, web and mobile-enabled social and professional networking platform designed specifically for the Department of Computer Engineering at the University of Peradeniya.",
@@ -42239,35 +42304,7 @@
         "repo_url": "https://github.com/cepdnaclk/e20-co528-PeraCom-DECP",
         "page_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/PeraCom-DECP/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co528/thumbnail.jpg"
-    },
-    "e20-co528-mini-project-Department-Engagement-and-Career-Platform": {
-        "title": "mini project Department Engagement and Career Platform",
-        "description": "",
-        "category": {
-            "title": "Applied Software Architecture Projects (CO528)",
-            "code": "co528",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/mini-project-Department-Engagement-and-Career-Platform/",
-        "repo_url": "https://github.com/cepdnaclk/e20-co528-mini-project-Department-Engagement-and-Career-Platform",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/mini-project-Department-Engagement-and-Career-Platform/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co528/thumbnail.jpg"
-    },
-    "e20-co528-pera-com-decp": {
-        "title": "pera com decp",
-        "description": "Department Engagement & Career Platform (DECP) for CO528 Mini Project",
-        "category": {
-            "title": "Applied Software Architecture Projects (CO528)",
-            "code": "co528",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/pera-com-decp/",
-        "repo_url": "https://github.com/cepdnaclk/e20-co528-pera-com-decp",
-        "page_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/pera-com-decp/",
-        "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp/data/thumbnail.jpg",
+        "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP/data/thumbnail.jpg",
         "team": {
             "E/20/032": {
                 "name": "Chethiya Bandara",
@@ -42324,6 +42361,20 @@
             "PeraCom",
             "Applied Software Architecture"
         ]
+    },
+    "e20-co528-mini-project-Department-Engagement-and-Career-Platform": {
+        "title": "mini project Department Engagement and Career Platform",
+        "description": "",
+        "category": {
+            "title": "Applied Software Architecture Projects (CO528)",
+            "code": "co528",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/mini-project-Department-Engagement-and-Career-Platform/",
+        "repo_url": "https://github.com/cepdnaclk/e20-co528-mini-project-Department-Engagement-and-Career-Platform",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/mini-project-Department-Engagement-and-Career-Platform/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co528/thumbnail.jpg"
     },
     "e20-co528-project-DECP": {
         "title": "project DECP",

@@ -1,0 +1,49 @@
+{
+    "title": "Mini C Interpreter",
+    "description": "A C-Lite interpreter implemented in Python \u2014 featuring a Lexer, Recursive-Descent Parser, and AST-based Evaluator.",
+    "category": {
+        "title": "Programming Languages (CO523)",
+        "code": "co523",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/co523/e20/Mini-C-Interpreter/",
+    "repo_url": "https://github.com/cepdnaclk/e20-co523-Mini-C-Interpreter",
+    "page_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/Mini-C-Interpreter/",
+    "thumbnail_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter/data/thumbnail.jpg",
+    "team": {
+        "E/20/254": {
+            "name": "S.K.P. Methpura",
+            "email": "e20254@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/KavinduMethpura",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/254",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20254.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/254/"
+        }
+    },
+    "supervisors": {
+        "biswajithd@eng.pdn.ac.lk": {
+            "name": "Mr. Biswajith Dissanayake",
+            "email": "biswajithd@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/biswajith-dissanayake/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/biswajith-dissanayake.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/biswajithd",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/bak-dissanayake94718162555/",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Python",
+        "compiler",
+        "interpreter",
+        "programming language",
+        "lexical analysis",
+        "syntax analysis",
+        "semantic analysis"
+    ]
+}
