@@ -1,0 +1,75 @@
+{
+    "title": "Integrated Programming and Compiler Toolchain for Swarm Robotic Systems",
+    "venue": "2025 IEEE 19th International Conference on Industrial and Information Systems (ICIIS)",
+    "year": "2025",
+    "abstract": "Swarm robotics is a field of research inspired by the collective behaviors seen in natural swarms. Most existing swarm programming tools are limited to simulations, a few pre-programmed behaviors, and require expertise in programming. Therefore, such limitations hinder the accessibility of swarm behavioral experimentation and real-world application of swarm robotics. As our main contribution, we introduce a novel programming and compiler toolchain for swarm robots as a unified Integrated Development Environment (IDE) to overcome the existing limitations. Supporting the entire experimentation procedure, the IDE specifically enables high-level algorithm composition through a block-based programming interface and decomposition of complex swarm behaviors. The support for both virtual and physical robots with the over-the-air (OTA) code-uploading enables real-world deployment. Finally, the IDE\u00e2\u0080\u0099s efficacy is validated through swarm behavioral experiments such as dynamic task allocation and object finding. This research aims to advance the field of swarm robotics by increasing its adoption in real-world settings and accessibility to a broader spectrum of users, specifically including non-experts.",
+    "authors": [
+        "Isara Tillekeratne",
+        "Kavinaya Yogendran",
+        "Hashini Wijerathne",
+        "Isuru Nawinne",
+        "Roshan Ragel"
+    ],
+    "author_info": [
+        {
+            "name": "Isara Tillekeratne",
+            "profile": "https://people.ce.pdn.ac.lk/students/e17/352/",
+            "type": "STUDENT",
+            "id": "E/17/352",
+            "email": "e17352@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17352.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/352/"
+        },
+        {
+            "name": "Kavinaya Yogendran",
+            "profile": "https://people.ce.pdn.ac.lk/students/e17/159/",
+            "type": "STUDENT",
+            "id": "E/17/159",
+            "email": "e17159@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17159.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/159/"
+        },
+        {
+            "name": "Hashini Wijerathne",
+            "profile": "https://people.ce.pdn.ac.lk/students/e17/398/",
+            "type": "STUDENT",
+            "id": "E/17/398",
+            "email": "e17398@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17398.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/398/"
+        },
+        {
+            "name": "Isuru Nawinne",
+            "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+            "type": "STAFF",
+            "id": "isurunawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/isuru-nawinne.png",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+        },
+        {
+            "name": "Roshan Ragel",
+            "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+            "type": "STAFF",
+            "id": "roshanr",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/roshan-ragel.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+        }
+    ],
+    "doi": "https://doi.org/10.1109/ICIIS69028.2026.11450833",
+    "is_dept_affiliated": true,
+    "preprint_url": "#",
+    "pdf_url": "#",
+    "presentation_url": "#",
+    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/develop-a-programming-and-compiler-toolchain-for-multi-agent-systems/",
+    "codebase": "https://github.com/cepdnaclk/e17-4yp-develop-a-programming-and-compiler-toolchain-for-multi-agent-systems",
+    "research_groups": [
+        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+    ],
+    "tags": [],
+    "funding": "",
+    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS69028.2026.11450833/",
+    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS69028.2026.11450833/index.json",
+    "submitted": "2026/05/02 11:21:59"
+}
