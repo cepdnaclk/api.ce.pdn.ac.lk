@@ -12,19 +12,8 @@
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PowerShare-SL/",
     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
     "team": {
-        "E/22/141": {
-            "name": "H.M.P.D.B.Herath",
-            "email": "e22141@eng.pdn.ac.lk",
-            "website": "",
-            "github": "",
-            "linkedin": "",
-            "researchgate": "",
-            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/141",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22141.jpg",
-            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/141/"
-        },
         "E/22/142": {
-            "name": "H.M.P.M.Herath",
+            "name": "Pubudu Madusanka Herath",
             "email": "e22142@eng.pdn.ac.lk",
             "website": "",
             "github": "",
@@ -34,19 +23,19 @@
             "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22142.jpg",
             "profile_url": "https://people.ce.pdn.ac.lk/students/e22/142/"
         },
-        "E/22/248": {
-            "name": "N.W.A.K.B.Neelawathura",
-            "email": "e22248@eng.pdn.ac.lk",
+        "E/22/141": {
+            "name": "Dulanjaya Herath",
+            "email": "e22141@eng.pdn.ac.lk",
             "website": "",
             "github": "",
             "linkedin": "",
             "researchgate": "",
-            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/248",
-            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22248.jpg",
-            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/248/"
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/141",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22141.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/141/"
         },
         "E/22/362": {
-            "name": "W.A.H.Sathsarani",
+            "name": "Himasha Sathsarani",
             "email": "e22362@eng.pdn.ac.lk",
             "website": "",
             "github": "",
@@ -55,11 +44,39 @@
             "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/362",
             "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22362.jpg",
             "profile_url": "https://people.ce.pdn.ac.lk/students/e22/362/"
+        },
+        "E/22/248": {
+            "name": "Akash",
+            "email": "e22248@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/248",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22248.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/248/"
         }
     },
-    "supervisors": {},
+    "supervisors": {
+        "supervisor@eng.pdn.ac.lk": {
+            "name": "Supervisor",
+            "email": "supervisor@eng.pdn.ac.lk",
+            "profile_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "api_url": "#",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
     "tags": [
-        "Web",
+        "Mobile",
+        "Flutter",
+        "Node.js",
+        "MongoDB",
+        "EV Charging",
+        "P2P",
         "Software Systems",
         "CO2060"
     ]

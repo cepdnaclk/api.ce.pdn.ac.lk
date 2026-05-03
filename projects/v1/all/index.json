@@ -33576,19 +33576,8 @@
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PowerShare-SL/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
         "team": {
-            "E/22/141": {
-                "name": "H.M.P.D.B.Herath",
-                "email": "e22141@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/141",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22141.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/141/"
-            },
             "E/22/142": {
-                "name": "H.M.P.M.Herath",
+                "name": "Pubudu Madusanka Herath",
                 "email": "e22142@eng.pdn.ac.lk",
                 "website": "",
                 "github": "",
@@ -33598,19 +33587,19 @@
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22142.jpg",
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e22/142/"
             },
-            "E/22/248": {
-                "name": "N.W.A.K.B.Neelawathura",
-                "email": "e22248@eng.pdn.ac.lk",
+            "E/22/141": {
+                "name": "Dulanjaya Herath",
+                "email": "e22141@eng.pdn.ac.lk",
                 "website": "",
                 "github": "",
                 "linkedin": "",
                 "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/248",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22248.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/248/"
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/141",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22141.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/141/"
             },
             "E/22/362": {
-                "name": "W.A.H.Sathsarani",
+                "name": "Himasha Sathsarani",
                 "email": "e22362@eng.pdn.ac.lk",
                 "website": "",
                 "github": "",
@@ -33619,11 +33608,39 @@
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/362",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22362.jpg",
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e22/362/"
+            },
+            "E/22/248": {
+                "name": "Akash",
+                "email": "e22248@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/248",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22248.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/248/"
             }
         },
-        "supervisors": {},
+        "supervisors": {
+            "supervisor@eng.pdn.ac.lk": {
+                "name": "Supervisor",
+                "email": "supervisor@eng.pdn.ac.lk",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
         "tags": [
-            "Web",
+            "Mobile",
+            "Flutter",
+            "Node.js",
+            "MongoDB",
+            "EV Charging",
+            "P2P",
             "Software Systems",
             "CO2060"
         ]
@@ -34882,7 +34899,7 @@
         "repo_url": "https://github.com/cepdnaclk/e23-co2060-Maathacare",
         "page_url": "https://cepdnaclk.github.io/e23-co2060-Maathacare",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Maathacare/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+        "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Maathacare/data/thumbnail.jpg",
         "team": {
             "E/23/211": {
                 "name": "A.M.G.M.Madubhashinie",
@@ -34967,9 +34984,62 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/NexClinic/",
         "repo_url": "https://github.com/cepdnaclk/e23-co2060-NexClinic",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e23-co2060-NexClinic",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/NexClinic/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg"
+        "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-NexClinic/data/thumbnail.jpg",
+        "team": {
+            "E/23/076": {
+                "name": "M.T. Dineth",
+                "email": "e23076@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/tdineth",
+                "linkedin": "https://www.linkedin.com/in/theekshana-dineth-8675b7311/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/076",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23076.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e23/076/"
+            },
+            "E/23/266": {
+                "name": "H.M.U.A. Perera",
+                "email": "e23266@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/abhi-perera",
+                "linkedin": "https://www.linkedin.com/in/uduli-abhimani-b31329355/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/266",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23266.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e23/266/"
+            },
+            "E/23/336": {
+                "name": "S.M.D.S.B. Samarakoon",
+                "email": "e23336@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/DilithSBS",
+                "linkedin": "https://www.linkedin.com/in/dilith-samarakoon-409893220/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/336",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23336.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e23/336/"
+            },
+            "E/23/226": {
+                "name": "J.G.G. Methmaka",
+                "email": "e23226@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/ganindumethmaka",
+                "linkedin": "https://www.linkedin.com/in/ganindu-methmaka-467b63312",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/226",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23226.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e23/226/"
+            }
+        },
+        "tags": [
+            "Web Application",
+            "Software Systems Development",
+            "AI",
+            "Healthcare",
+            "Medical"
+        ]
     },
     "e23-co2060-OrthoFlow": {
         "title": "OrthoFlow",
@@ -35378,6 +35448,20 @@
             "Software Systems",
             "CO2060"
         ]
+    },
+    "e23-co2060-wedaklk": {
+        "title": "wedaklk",
+        "description": "Main app of wedak.lk",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/wedaklk/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co2060-wedaklk",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/wedaklk/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg"
     },
     "e16-co326-Agriculture-Monitoring-and-Control-System": {
         "title": "Agriculture Monitoring and Control System",
@@ -42117,7 +42201,7 @@
         "repo_url": "https://github.com/cepdnaclk/e20-co523-C_LITE-Interpreter",
         "page_url": "https://cepdnaclk.github.io/e20-co523-C_LITE-Interpreter",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/C_LITE-Interpreter/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co523/thumbnail.jpg",
+        "thumbnail_url": "https://cepdnaclk.github.io/e20-co523-C_LITE-Interpreter/data/thumbnail.jpg",
         "team": {
             "E/20/157": {
                 "name": "Janakantha S.M.B.G.",
@@ -42304,63 +42388,7 @@
         "repo_url": "https://github.com/cepdnaclk/e20-co528-PeraCom-DECP",
         "page_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/PeraCom-DECP/",
-        "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP/data/thumbnail.jpg",
-        "team": {
-            "E/20/032": {
-                "name": "Chethiya Bandara",
-                "email": "e20032@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/ChethiyaB",
-                "linkedin": "https://www.linkedin.com/in/chethiyab/",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/032",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20032.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/032/"
-            },
-            "E/20/157": {
-                "name": "Bimsara Janakantha",
-                "email": "e20157@eng.pdn.ac.lk",
-                "website": "https://www.thecn.com/BJ448",
-                "github": "https://github.com/Bimsara-Janakantha",
-                "linkedin": "https://www.linkedin.com/in/Bimsara-Janakantha/",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/157",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20157.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/157/"
-            },
-            "E/20/254": {
-                "name": "Kavindu Methpura",
-                "email": "e20254@eng.pdn.ac.lk",
-                "website": "",
-                "github": "https://github.com/KavinduMethpura",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/254",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20254.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e20/254/"
-            }
-        },
-        "supervisors": {
-            "biswajithd@eng.pdn.ac.lk": {
-                "name": "Mr. Biswajith Dissanayake",
-                "email": "biswajithd@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/biswajith-dissanayake/",
-                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/biswajith-dissanayake.jpg",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/biswajithd",
-                "website": "#",
-                "linkedin": "https://www.linkedin.com/in/bak-dissanayake94718162555/",
-                "researchgate": "#",
-                "google_scholar": "#"
-            }
-        },
-        "tags": [
-            "MicroServices",
-            "Kafka",
-            "Docker",
-            "DECP",
-            "PeraCom",
-            "Applied Software Architecture"
-        ]
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co528/thumbnail.jpg"
     },
     "e20-co528-mini-project-Department-Engagement-and-Career-Platform": {
         "title": "mini project Department Engagement and Career Platform",

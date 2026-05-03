@@ -191,7 +191,7 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/NexClinic/",
         "repo_url": "https://github.com/cepdnaclk/e23-co2060-NexClinic",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e23-co2060-NexClinic",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/NexClinic/"
     },
     "e23-co2060-OrthoFlow": {
@@ -310,5 +310,18 @@
         "repo_url": "https://github.com/cepdnaclk/e23-co2060-stress-detection-and-analyzing-system",
         "page_url": "https://cepdnaclk.github.io/e23-co2060-stress-detection-and-analyzing-system",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/stress-detection-and-analyzing-system/"
+    },
+    "e23-co2060-wedaklk": {
+        "title": "wedaklk",
+        "description": "Main app of wedak.lk",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/wedaklk/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co2060-wedaklk",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/wedaklk/"
     }
 }
