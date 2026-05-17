@@ -72,6 +72,18 @@
         "status": "PASS"
     },
     {
+        "id": 278306156,
+        "repository": "projects.ce.pdn.ac.lk",
+        "name": "Copilot code review",
+        "state": "active",
+        "urls": {
+            "api": "https://api.github.com/repos/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/278306156",
+            "html": "https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer",
+            "badge": "https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer/badge.svg"
+        },
+        "status": "PASS"
+    },
+    {
         "id": 16453017,
         "repository": "projects.ce.pdn.ac.lk",
         "name": "pages-build-deployment",
