@@ -1,0 +1,77 @@
+{
+    "title": "neuromorphic memory optimization",
+    "description": "This project explores memory-efficient neuromorphic accelerator design by analyzing and optimizing synaptic weight storage and access patterns. It includes hardware\u2013software co-design using Verilog and Python, weight quantization (8/16/32-bit), access tracing, visualization, and accuracy\u2013memory trade-off evaluation for spiking neural networks.",
+    "category": {
+        "title": "Undergraduate Research Projects",
+        "code": "4yp",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/neuromorphic-memory-optimization/",
+    "repo_url": "https://github.com/cepdnaclk/e20-4yp-neuromorphic-memory-optimization",
+    "page_url": "https://cepdnaclk.github.io/e20-4yp-neuromorphic-memory-optimization",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/neuromorphic-memory-optimization/",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+    "team": {
+        "E/20/024": {
+            "name": "Ariyarathna D.B.S.",
+            "email": "e20024@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/AriyarathnaDBS",
+            "linkedin": "https://www.linkedin.com/in/buddhika-ariyarathna-7b6a86227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/024",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20024.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/024/"
+        },
+        "E/20/242": {
+            "name": "G.A.I.Malinga",
+            "email": "e20242@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/242",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20242.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/242/"
+        },
+        "E/20/279": {
+            "name": "Panawennage L.S.",
+            "email": "e20279@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/lashanpanawenna",
+            "linkedin": "https://linkedin.com/in/lashan-panawennage",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/279",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20279.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/279/"
+        }
+    },
+    "supervisors": {
+        "roshanr@eng.pdn.ac.lk": {
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/roshan-ragel.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/roshanr",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/roshanragel/",
+            "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
+            "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
+        },
+        "isurunawinne@eng.pdn.ac.lk": {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/isuru-nawinne.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+            "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+            "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+        }
+    },
+    "tags": [
+        "Hardware",
+        "Neuromorphic"
+    ]
+}
