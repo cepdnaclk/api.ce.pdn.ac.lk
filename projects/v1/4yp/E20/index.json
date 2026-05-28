@@ -365,7 +365,7 @@
     },
     "e20-4yp-onchip-offline-neuromorphic-computing": {
         "title": "onchip offline neuromorphic computing",
-        "description": "",
+        "description": "A full Spiking Neural Network (SNN) training and inference pipeline implemented entirely in hardware on an FPGA SoC. The system performs on-chip offline learning \u2014 once deployed, the chip runs inference, computes surrogate gradients, and executes backpropagation weight updates without any host PC.",
         "category": {
             "title": "Undergraduate Research Projects",
             "code": "4yp",
