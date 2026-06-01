@@ -10,5 +10,53 @@
     "repo_url": "https://github.com/cepdnaclk/e20-co326-Smart-Lighting-Control",
     "page_url": "https://cepdnaclk.github.io/e20-co326-Smart-Lighting-Control",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Smart-Lighting-Control/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+    "team": {
+        "E/20/089": {
+            "name": "Edirimanna Y.H.",
+            "email": "e20089@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/YasiruHarinda",
+            "linkedin": "https://www.linkedin.com/in/yasiru-edirimanna-836aa3193?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/089",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20089.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/089/"
+        },
+        "E/20/361": {
+            "name": "Senadheera Y.H.",
+            "email": "e20361@eng.pdn.ac.lk",
+            "website": "yohan-senadheera.pages.dev",
+            "github": "https://github.com/yohan-senadheera",
+            "linkedin": "https://www.linkedin.com/in/yohan-senadheera",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/361",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20361.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/361/"
+        },
+        "E/20/366": {
+            "name": "Senevirathna A.P.B.P.",
+            "email": "e20366@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/bhagyaseela",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E20/366",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e20/e20366.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e20/366/"
+        }
+    },
+    "supervisors": {
+        "kamalanath@eng.pdn.ac.lk": {
+            "name": "Prof. Kamalanath Samarakoon",
+            "email": "kamalanath@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/kamalanath-samarakoon/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/kamalanath-samarakoon.png",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
+            "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
+            "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
+        }
+    }
 }
