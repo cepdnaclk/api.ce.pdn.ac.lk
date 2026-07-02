@@ -350,19 +350,6 @@
         "page_url": "https://cepdnaclk.github.io/e20-4yp-metagenomics",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/metagenomics/"
     },
-    "e20-4yp-neuromorphic-memory-optimization": {
-        "title": "neuromorphic memory optimization",
-        "description": "This project explores memory-efficient neuromorphic accelerator design by analyzing and optimizing synaptic weight storage and access patterns. It includes hardware\u2013software co-design using Verilog and Python, weight quantization (8/16/32-bit), access tracing, visualization, and accuracy\u2013memory trade-off evaluation for spiking neural networks.",
-        "category": {
-            "title": "Undergraduate Research Projects",
-            "code": "4yp",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/neuromorphic-memory-optimization/",
-        "repo_url": "https://github.com/cepdnaclk/e20-4yp-neuromorphic-memory-optimization",
-        "page_url": "https://cepdnaclk.github.io/e20-4yp-neuromorphic-memory-optimization",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/neuromorphic-memory-optimization/"
-    },
     "e20-4yp-onchip-offline-neuromorphic-computing": {
         "title": "onchip offline neuromorphic computing",
         "description": "A full Spiking Neural Network (SNN) training and inference pipeline implemented entirely in hardware on an FPGA SoC. The system performs on-chip offline learning \u2014 once deployed, the chip runs inference, computes surrogate gradients, and executes backpropagation weight updates without any host PC.",
