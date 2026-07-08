@@ -10,5 +10,69 @@
     "repo_url": "https://github.com/cepdnaclk/e23-co2060-RoadAid",
     "page_url": "https://cepdnaclk.github.io/e23-co2060-RoadAid",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/RoadAid/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+    "team": {
+        "E/23/084": {
+            "name": "Chanuka Dissanayake",
+            "email": "e23084@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/chanukx-v",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/084",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23084.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e23/084/"
+        },
+        "E/23/249": {
+            "name": "Athif Nular",
+            "email": "e23249@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/athifnular7",
+            "linkedin": "https://www.linkedin.com/in/athif-nular-182ba02b7/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/249",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23249.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e23/249/"
+        },
+        "E/23/021": {
+            "name": "Shanilka Asen",
+            "email": "e23021@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/asen251",
+            "linkedin": "https://www.linkedin.com/in/shanilka-asen-b7916936a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/021",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23021.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e23/021/"
+        },
+        "E/23/369": {
+            "name": "Anupa Keshan",
+            "email": "e23369@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/369",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23369.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e23/369/"
+        }
+    },
+    "supervisors": {
+        "akilapr@eng.pdn.ac.lk": {
+            "name": "Akila Premathilaka",
+            "email": "akilapr@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/temporary-academic-staff/akila-premathilaka.jpeg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/akilapr",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Web",
+        "Software Systems",
+        "CO2060"
+    ]
 }
