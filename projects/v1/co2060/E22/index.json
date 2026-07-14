@@ -90,6 +90,19 @@
         "page_url": "https://cepdnaclk.github.io/e22-co2060-NagroMS",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/NagroMS/"
     },
+    "e22-co2060-OptiFlow": {
+        "title": "OptiFlow",
+        "description": "",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/OptiFlow/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co2060-OptiFlow",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/OptiFlow/"
+    },
     "e22-co2060-OrthoPAR-Web-Platform": {
         "title": "OrthoPAR Web Platform",
         "description": "A clinician friendly web system for automated PAR Index calculation with integrated MLOps and secure patient data handling",

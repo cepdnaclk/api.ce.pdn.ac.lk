@@ -33153,6 +33153,20 @@
             "CO2060"
         ]
     },
+    "e22-co2060-OptiFlow": {
+        "title": "OptiFlow",
+        "description": "",
+        "category": {
+            "title": "Software Systems Design Project (CO2060)",
+            "code": "co2060",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/OptiFlow/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co2060-OptiFlow",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/OptiFlow/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg"
+    },
     "e22-co2060-OrthoPAR-Web-Platform": {
         "title": "OrthoPAR Web Platform",
         "description": "A clinician friendly web system for automated PAR Index calculation with integrated MLOps and secure patient data handling",
@@ -42227,6 +42241,20 @@
             "Embedded Systems"
         ]
     },
+    "e22-co543-medical-image-abnormality-classification-segmentation": {
+        "title": "medical image abnormality classification segmentation",
+        "description": "",
+        "category": {
+            "title": "Image Processing Projects (CO543)",
+            "code": "co543",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co543/e22/medical-image-abnormality-classification-segmentation/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co543-medical-image-abnormality-classification-segmentation",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E22/medical-image-abnormality-classification-segmentation/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg"
+    },
     "e20-co523-C-Lite-Interpreter": {
         "title": "C Lite Interpreter",
         "description": "An interpreter for C-Lite, a simplified  subset of the C programming language. The primary objective of the project is to demonstrate  a clear understanding of the program translation process from source code to execution.",
@@ -42270,7 +42298,7 @@
         "repo_url": "https://github.com/cepdnaclk/e20-co523-C_LITE-Interpreter",
         "page_url": "https://cepdnaclk.github.io/e20-co523-C_LITE-Interpreter",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/C_LITE-Interpreter/",
-        "thumbnail_url": "https://cepdnaclk.github.io/e20-co523-C_LITE-Interpreter/data/thumbnail.jpg",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co523/thumbnail.jpg",
         "team": {
             "E/20/157": {
                 "name": "Janakantha S.M.B.G.",
