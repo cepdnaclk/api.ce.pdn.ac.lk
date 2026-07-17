@@ -11,6 +11,64 @@
     "page_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/",
     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
-    "team": {},
-    "supervisors": {}
+    "team": {
+        "E/23/076": {
+            "name": "M.T. Dineth",
+            "email": "e23076@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/tdineth",
+            "linkedin": "https://www.linkedin.com/in/theekshana-dineth-8675b7311/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/076",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23076.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e23/076/"
+        },
+        "E/23/266": {
+            "name": "H.M.U.A. Perera",
+            "email": "e23266@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/abhi-perera",
+            "linkedin": "https://www.linkedin.com/in/uduli-abhimani-b31329355/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/266",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23266.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e23/266/"
+        },
+        "E/23/012": {
+            "name": "A.W.K.D.A. Alagiyawanna",
+            "email": "e23012@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/dimal-alagiyawanna",
+            "linkedin": "https://www.linkedin.com/in/dimal-alagiyawanna/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/012",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23012.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e23/012/"
+        }
+    },
+    "supervisors": {
+        "upuljm@eng.pdn.ac.lk": {
+            "name": "Dr. Upul Jayasinghe",
+            "email": "upuljm@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul-jayasinghe/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/upul-jayasinghe.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/upuljm",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/upuljm/",
+            "researchgate": "https://www.researchgate.net/profile/Upul-Jayasinghe",
+            "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
+        }
+    },
+    "tags": [
+        "Computer Vision",
+        "Anomaly Detection",
+        "Deep Learning",
+        "PatchCore",
+        "Autoencoder",
+        "MVTec AD",
+        "Explainability",
+        "Grad-CAM",
+        "Industrial Inspection",
+        "Transfer Learning"
+    ]
 }
