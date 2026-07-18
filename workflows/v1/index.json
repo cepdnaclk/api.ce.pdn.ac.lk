@@ -48,6 +48,18 @@
         "status": "PASS"
     },
     {
+        "id": 315559468,
+        "repository": "api.ce.pdn.ac.lk",
+        "name": "CodeQL",
+        "state": "active",
+        "urls": {
+            "api": "https://api.github.com/repos/cepdnaclk/api.ce.pdn.ac.lk/actions/workflows/315559468",
+            "html": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/actions/workflows/github-code-scanning/codeql",
+            "badge": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/actions/workflows/github-code-scanning/codeql/badge.svg"
+        },
+        "status": "PASS"
+    },
+    {
         "id": 232796536,
         "repository": "projects.ce.pdn.ac.lk",
         "name": "Build and Deploy - Daily",
@@ -80,6 +92,18 @@
             "api": "https://api.github.com/repos/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/278306156",
             "html": "https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer",
             "badge": "https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer/badge.svg"
+        },
+        "status": "PASS"
+    },
+    {
+        "id": 315559349,
+        "repository": "projects.ce.pdn.ac.lk",
+        "name": "CodeQL",
+        "state": "active",
+        "urls": {
+            "api": "https://api.github.com/repos/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/315559349",
+            "html": "https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/github-code-scanning/codeql",
+            "badge": "https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/github-code-scanning/codeql/badge.svg"
         },
         "status": "PASS"
     },
@@ -152,6 +176,18 @@
             "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/243139953",
             "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/.github/workflows/algolia-index.yml",
             "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/workflows/Algolia%20Search%20Index/badge.svg"
+        },
+        "status": "PASS"
+    },
+    {
+        "id": 315559476,
+        "repository": "people.ce.pdn.ac.lk",
+        "name": "CodeQL",
+        "state": "active",
+        "urls": {
+            "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/315559476",
+            "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/github-code-scanning/codeql",
+            "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/github-code-scanning/codeql/badge.svg"
         },
         "status": "PASS"
     },
