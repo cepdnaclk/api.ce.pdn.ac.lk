@@ -1957,6 +1957,19 @@
     ],
     "CSS": [
         {
+            "title": "Flight Management System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Flight-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-Flight-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-Flight-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Flight-Management-System/"
+        },
+        {
             "title": "Cardiac Patient Data Management System",
             "category": {
                 "code": "co227",
@@ -1994,19 +2007,6 @@
             "page_url": "https://cepdnaclk.github.io/e15-co328-Banking-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E15/Banking-Management-System/"
-        },
-        {
-            "title": "Flight Management System",
-            "category": {
-                "code": "co226",
-                "title": "Database Projects (CO226)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Flight-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co226-Flight-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e19-co226-Flight-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Flight-Management-System/"
         }
     ],
     "CVA6": [
@@ -11048,19 +11048,6 @@
     ],
     "MySQL": [
         {
-            "title": "Banking Management System",
-            "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e15/Banking-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e15-co328-Banking-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e15-co328-Banking-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E15/Banking-Management-System/"
-        },
-        {
             "title": "Database for Bank Management System",
             "category": {
                 "code": "co226",
@@ -11085,6 +11072,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-co226-business-to-business-database",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E17/business-to-business-database/"
+        },
+        {
+            "title": "Banking Management System",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e15/Banking-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e15-co328-Banking-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e15-co328-Banking-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E15/Banking-Management-System/"
         },
         {
             "title": "Baby Developing Tracking System Web Application",
@@ -15288,6 +15288,32 @@
     ],
     "Web": [
         {
+            "title": "E Commerce Website",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/E-Commerce-Website/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-E-Commerce-Website",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-E-Commerce-Website",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/E-Commerce-Website/"
+        },
+        {
+            "title": "Flight Management System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Flight-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-Flight-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-Flight-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Flight-Management-System/"
+        },
+        {
             "title": "Handwritten Essay Marking Software",
             "category": {
                 "code": "6sp",
@@ -17834,32 +17860,6 @@
             "page_url": "https://cepdnaclk.github.io/e23-co2060-stress-detection-and-analyzing-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/stress-detection-and-analyzing-system/"
-        },
-        {
-            "title": "E Commerce Website",
-            "category": {
-                "code": "co226",
-                "title": "Database Projects (CO226)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/E-Commerce-Website/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co226-E-Commerce-Website",
-            "page_url": "https://cepdnaclk.github.io/e19-co226-E-Commerce-Website",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/E-Commerce-Website/"
-        },
-        {
-            "title": "Flight Management System",
-            "category": {
-                "code": "co226",
-                "title": "Database Projects (CO226)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Flight-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co226-Flight-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e19-co226-Flight-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Flight-Management-System/"
         },
         {
             "title": "Library Management System Web App",
