@@ -1323,6 +1323,20 @@
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E18/Database-for-the-University-Gym/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
     },
+    "e22-co226-Forensa-Fronsic-Database-Management-System": {
+        "title": "Forensa Fronsic Database Management System",
+        "description": "this is the mini project repository for course co2050",
+        "category": {
+            "title": "Database Projects (CO226)",
+            "code": "co226",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/Forensa-Fronsic-Database-Management-System/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co226-Forensa-Fronsic-Database-Management-System",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/Forensa-Fronsic-Database-Management-System/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
+    },
     "e17-co226-business-to-business-database": {
         "title": "business to business database",
         "description": "CO226 Project - Relational Database for B2B Online Trade Community - by: @Isuri-Devindi, @KavinduJayas, @Dr-Madhushan",
@@ -27045,7 +27059,66 @@
         "repo_url": "https://github.com/cepdnaclk/e19-co227-Keyboard-for-Visually-Impaired",
         "page_url": "https://cepdnaclk.github.io/e19-co227-Keyboard-for-Visually-Impaired",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Keyboard-for-Visually-Impaired/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+        "team": {
+            "E/19/003": {
+                "name": "Abeysinghe A.M.H.P.",
+                "email": "e19003@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/harith-abeysinghe",
+                "linkedin": "http://www.linkedin.com/in/harith-abeysinghe-0605651b1/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/003",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19003.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/003/"
+            },
+            "E/19/004": {
+                "name": "Abeysinghe R.B.",
+                "email": "e19004@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/RavinduBA",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/004",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19004.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/004/"
+            },
+            "E/19/236": {
+                "name": "Manikdiwela W.L.",
+                "email": "e19236@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/236",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19236.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/236/"
+            },
+            "E/19/443": {
+                "name": "Wijayawardana K.G.D.T.",
+                "email": "e19443@eng.pdn.ac.lk",
+                "website": "https://dasuntheekshanagit.github.io/eportfolio/",
+                "github": "https://github.com/dasuntheekshanagit",
+                "linkedin": "https://www.linkedin.com/in/dasun-theekshana-806643156/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E19/443",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19443.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e19/443/"
+            }
+        },
+        "supervisors": {
+            "kamalanath@eng.pdn.ac.lk": {
+                "name": "Prof. Kamalanath Samarakoon",
+                "email": "kamalanath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/kamalanath-samarakoon/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/kamalanath-samarakoon.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/kamalanath",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/kamalanath-samarakoon-7188549/",
+                "researchgate": "https://www.researchgate.net/profile/Kamalanath-Samarakoon",
+                "google_scholar": "https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en"
+            }
+        }
     },
     "e19-co227-Leaf-Colour-Quantifier": {
         "title": "Leaf Colour Quantifier",
@@ -34442,9 +34515,74 @@
         },
         "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/OptiFlow/",
         "repo_url": "https://github.com/cepdnaclk/e22-co2060-OptiFlow",
-        "page_url": "#",
+        "page_url": "https://cepdnaclk.github.io/e22-co2060-OptiFlow",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/OptiFlow/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+        "team": {
+            "E/22/320": {
+                "name": "M.S. Rashad",
+                "email": "e22320@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/320",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22320.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/320/"
+            },
+            "E/22/337": {
+                "name": "K. Sadurshika",
+                "email": "e22337@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/337",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22337.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/337/"
+            },
+            "E/22/409": {
+                "name": "S. Vikashan",
+                "email": "e22409@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/409",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22409.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/409/"
+            },
+            "E/22/385": {
+                "name": "S. Sulakshan",
+                "email": "e22385@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/385",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22385.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/385/"
+            }
+        },
+        "supervisors": {
+            "": {
+                "name": "",
+                "email": "",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Operations Research",
+            "Scheduling",
+            "Flutter",
+            "Python"
+        ]
     },
     "e22-co2060-OrthoPAR-Web-Platform": {
         "title": "OrthoPAR Web Platform",

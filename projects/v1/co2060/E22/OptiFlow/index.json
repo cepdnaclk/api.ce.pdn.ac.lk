@@ -8,7 +8,72 @@
     },
     "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/OptiFlow/",
     "repo_url": "https://github.com/cepdnaclk/e22-co2060-OptiFlow",
-    "page_url": "#",
+    "page_url": "https://cepdnaclk.github.io/e22-co2060-OptiFlow",
     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/OptiFlow/",
-    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg"
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+    "team": {
+        "E/22/320": {
+            "name": "M.S. Rashad",
+            "email": "e22320@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/320",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22320.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/320/"
+        },
+        "E/22/337": {
+            "name": "K. Sadurshika",
+            "email": "e22337@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/337",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22337.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/337/"
+        },
+        "E/22/409": {
+            "name": "S. Vikashan",
+            "email": "e22409@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/409",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22409.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/409/"
+        },
+        "E/22/385": {
+            "name": "S. Sulakshan",
+            "email": "e22385@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/385",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22385.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/385/"
+        }
+    },
+    "supervisors": {
+        "": {
+            "name": "",
+            "email": "",
+            "profile_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "api_url": "#",
+            "website": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Operations Research",
+        "Scheduling",
+        "Flutter",
+        "Python"
+    ]
 }
