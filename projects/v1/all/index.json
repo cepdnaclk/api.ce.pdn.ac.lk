@@ -1323,6 +1323,84 @@
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E18/Database-for-the-University-Gym/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
     },
+    "e22-co226-ForenSys": {
+        "title": "ForenSys",
+        "description": "Complete Database System for a Forensic Medical Department.",
+        "category": {
+            "title": "Database Projects (CO226)",
+            "code": "co226",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/ForenSys/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co226-ForenSys",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/ForenSys/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
+    },
+    "e22-co226-ForenSys_": {
+        "title": "ForenSys_",
+        "description": "Design and developing a complete, secure Database System for a Forensic Medical Department to streamline medico-legal processes",
+        "category": {
+            "title": "Database Projects (CO226)",
+            "code": "co226",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/ForenSys_/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co226-ForenSys_",
+        "page_url": "https://cepdnaclk.github.io/e22-co226-ForenSys_",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/ForenSys_/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+        "team": {
+            "E/22/182": {
+                "name": "Dinith Kariyawasam",
+                "email": "e22182@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/182",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22182.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/182/"
+            },
+            "E/22/291": {
+                "name": "Rameesha Prathapasinghe",
+                "email": "e22291@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/291",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22291.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/291/"
+            },
+            "E/22/421": {
+                "name": "Tharindu Weerasinghe",
+                "email": "e22421@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/TharinduHimantha",
+                "linkedin": "https://www.linkedin.com/in/tharindu-weerasinghe-b013a7357/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/421",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22421.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/421/"
+            },
+            "E/22/449": {
+                "name": "Gayumi Wimalaweera",
+                "email": "e22449@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/449",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22449.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/449/"
+            }
+        },
+        "tags": [
+            "Database Management Systems",
+            "CO2050"
+        ]
+    },
     "e22-co226-Forensa-Fronsic-Database-Management-System": {
         "title": "Forensa Fronsic Database Management System",
         "description": "this is the mini project repository for course co2050",
@@ -1335,6 +1413,20 @@
         "repo_url": "https://github.com/cepdnaclk/e22-co226-Forensa-Fronsic-Database-Management-System",
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/Forensa-Fronsic-Database-Management-System/",
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
+    },
+    "e22-co226-ForensiX-Medico-Forensic-DBMS": {
+        "title": "ForensiX Medico Forensic DBMS",
+        "description": "Forensic Medicine Department Database System \u2014 Django + MySQL",
+        "category": {
+            "title": "Database Projects (CO226)",
+            "code": "co226",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/ForensiX-Medico-Forensic-DBMS/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co226-ForensiX-Medico-Forensic-DBMS",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/ForensiX-Medico-Forensic-DBMS/",
         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
     },
     "e22-co226-RoboZen404-medico-forensic-dbms": {
