@@ -5886,7 +5886,70 @@
         "repo_url": "https://github.com/cepdnaclk/e15-3yp-An-automated-system-for-monitoring-and-controlling-the-water-supply-to-a-large-farmland",
         "page_url": "https://cepdnaclk.github.io/e15-3yp-An-automated-system-for-monitoring-and-controlling-the-water-supply-to-a-large-farmland",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E15/An-automated-system-for-monitoring-and-controlling-the-water-supply-to-a-large-farmland/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+        "team": {
+            "E/15/138": {
+                "name": "M.M.M. Irfan",
+                "email": "e15138@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/irfanm96",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E15/138",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15138.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/138/"
+            },
+            "E/15/209": {
+                "name": "H.K. Madhushani",
+                "email": "e15209@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/kithmaMadhu",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E15/209",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15209.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/209/"
+            },
+            "E/15/307": {
+                "name": "L. Rishikeshan",
+                "email": "work@ris.fi",
+                "website": "",
+                "github": "https://github.com/",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E15/307",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15307.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e15/307/"
+            }
+        },
+        "supervisors": {
+            "roshanr@eng.pdn.ac.lk": {
+                "name": "Prof. Roshan G. Ragel",
+                "email": "roshanr@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/roshan-ragel.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/roshanr",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/roshanragel/",
+                "researchgate": "https://www.researchgate.net/profile/Roshan-Ragel",
+                "google_scholar": "https://scholar.google.com/citations?user=UTYj8usAAAAJ&hl=en"
+            },
+            "isurunawinne@eng.pdn.ac.lk": {
+                "name": "Dr. Isuru Nawinne",
+                "email": "isurunawinne@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/isuru-nawinne.png",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
+                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
+                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
+            }
+        },
+        "tags": [
+            "Web",
+            "Embedded Systems"
+        ]
     },
     "e15-3yp-Automated-Bike-Sharing-System": {
         "title": "Automated Bike Sharing System",
@@ -39622,6 +39685,109 @@
             }
         },
         "supervisors": {}
+    },
+    "e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks": {
+        "title": "Fabric Defect Detection and Localisation Using Deep Neural Networks",
+        "description": "This CO5420 project automates fabric defect detection to replace error-prone manual inspection using the AITEX database. Handling extreme image dimensions via patch-based processing, we benchmark GLCM/SVM models against CNNs for classification. Finally, we contrast supervised U-Net and unsupervised Autoencoders for precise defect localization.",
+        "category": {
+            "title": "Neural Networks Projects (CO542)",
+            "code": "co542",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co542/e23/Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks",
+        "page_url": "https://cepdnaclk.github.io/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E23/Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/",
+        "thumbnail_url": "https://cepdnaclk.github.io/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/data/thumbnail.jpg",
+        "team": {
+            "E/23/076": {
+                "name": "M.T. Dineth",
+                "email": "e23076@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/tdineth",
+                "linkedin": "https://www.linkedin.com/in/theekshana-dineth-8675b7311/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/076",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23076.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e23/076/"
+            },
+            "E/23/266": {
+                "name": "H.M.U.A. Perera",
+                "email": "e23266@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/abhi-perera",
+                "linkedin": "https://www.linkedin.com/in/uduli-abhimani-b31329355/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/266",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23266.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e23/266/"
+            },
+            "E/23/317": {
+                "name": "R.M.S.N. Rathnayake",
+                "email": "e23317@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/317",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23317.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e23/317/"
+            },
+            "E/23/387": {
+                "name": "K. Srikaran",
+                "email": "e23387@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/387",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23387.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e23/387/"
+            },
+            "E/23/430": {
+                "name": "K.W.H.N. Weerasinghe",
+                "email": "e23430@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/430",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23430.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e23/430/"
+            }
+        },
+        "supervisors": {
+            "damayanthiherath@eng.pdn.ac.lk": {
+                "name": "Dr. Damayanthi Herath",
+                "email": "damayanthiherath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/damayanthi-herath.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/damayanthiherath",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/damayanthi-herath/",
+                "researchgate": "https://www.researchgate.net/profile/Damayanthi-Herath",
+                "google_scholar": "https://scholar.google.com/citations?user=G2jUV5IAAAAJ&hl=en"
+            },
+            "sampath@eng.pdn.ac.lk": {
+                "name": "Dr. Sampath Deegalla",
+                "email": "sampath@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/sampath-deegalla/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/sampath-deegalla.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/sampath",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/dsdeegalla",
+                "researchgate": "https://www.researchgate.net/profile/Sampath-Deegalla-2",
+                "google_scholar": "https://scholar.google.com/citations?user=QDoeGtYAAAAJ&hl=en"
+            }
+        },
+        "tags": [
+            "Deep Learning",
+            "Computer Vision",
+            "CNN",
+            "Transfer Learning",
+            "Image Segmentation",
+            "Anomaly Detection"
+        ]
     },
     "e14-co542-balancing-an-inverted-pendulum-using-a-neural-network": {
         "title": "balancing an inverted pendulum using a neural network",
