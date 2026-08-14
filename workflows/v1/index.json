@@ -192,6 +192,18 @@
         "status": "PASS"
     },
     {
+        "id": 334374868,
+        "repository": "people.ce.pdn.ac.lk",
+        "name": "Copilot",
+        "state": "active",
+        "urls": {
+            "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/334374868",
+            "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/agents/copilot-pull-request-reviewer",
+            "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/agents/copilot-pull-request-reviewer/badge.svg"
+        },
+        "status": "PASS"
+    },
+    {
         "id": 152878227,
         "repository": "www.ce.pdn.ac.lk",
         "name": "Scheduled Run - Daily",
