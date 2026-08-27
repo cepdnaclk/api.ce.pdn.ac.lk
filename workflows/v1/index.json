@@ -60,6 +60,18 @@
         "status": "PASS"
     },
     {
+        "id": 344161249,
+        "repository": "api.ce.pdn.ac.lk",
+        "name": "CodeQL",
+        "state": "active",
+        "urls": {
+            "api": "https://api.github.com/repos/cepdnaclk/api.ce.pdn.ac.lk/actions/workflows/344161249",
+            "html": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/actions/workflows/github-code-quality/codeql",
+            "badge": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/actions/workflows/github-code-quality/codeql/badge.svg"
+        },
+        "status": "PASS"
+    },
+    {
         "id": 232796536,
         "repository": "projects.ce.pdn.ac.lk",
         "name": "Build and Deploy - Daily",
