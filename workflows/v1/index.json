@@ -108,6 +108,18 @@
         "status": "PASS"
     },
     {
+        "id": 344957996,
+        "repository": "projects.ce.pdn.ac.lk",
+        "name": "CodeQL",
+        "state": "active",
+        "urls": {
+            "api": "https://api.github.com/repos/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/344957996",
+            "html": "https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/github-code-quality/codeql",
+            "badge": "https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/github-code-quality/codeql/badge.svg"
+        },
+        "status": "PASS"
+    },
+    {
         "id": 315559349,
         "repository": "projects.ce.pdn.ac.lk",
         "name": "CodeQL",
@@ -212,6 +224,18 @@
             "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/334374868",
             "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/agents/copilot-pull-request-reviewer",
             "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/agents/copilot-pull-request-reviewer/badge.svg"
+        },
+        "status": "PASS"
+    },
+    {
+        "id": 344956858,
+        "repository": "people.ce.pdn.ac.lk",
+        "name": "CodeQL",
+        "state": "active",
+        "urls": {
+            "api": "https://api.github.com/repos/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/344956858",
+            "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/github-code-quality/codeql",
+            "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/github-code-quality/codeql/badge.svg"
         },
         "status": "PASS"
     },
