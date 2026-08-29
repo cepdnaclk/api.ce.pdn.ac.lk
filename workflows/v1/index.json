@@ -288,6 +288,18 @@
         "status": "PASS"
     },
     {
+        "id": 345170256,
+        "repository": "www.ce.pdn.ac.lk",
+        "name": "CodeQL",
+        "state": "active",
+        "urls": {
+            "api": "https://api.github.com/repos/cepdnaclk/www.ce.pdn.ac.lk/actions/workflows/345170256",
+            "html": "https://github.com/cepdnaclk/www.ce.pdn.ac.lk/actions/workflows/github-code-quality/codeql",
+            "badge": "https://github.com/cepdnaclk/www.ce.pdn.ac.lk/actions/workflows/github-code-quality/codeql/badge.svg"
+        },
+        "status": "PASS"
+    },
+    {
         "id": 154636198,
         "repository": "www.ce.pdn.ac.lk",
         "name": "CodeQL",
