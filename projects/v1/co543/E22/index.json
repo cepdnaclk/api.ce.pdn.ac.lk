@@ -11,5 +11,18 @@
         "repo_url": "https://github.com/cepdnaclk/e22-co543-Medical-Image-Abnormality-Cassification-Segmentation",
         "page_url": "https://cepdnaclk.github.io/e22-co543-Medical-Image-Abnormality-Cassification-Segmentation",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E22/Medical-Image-Abnormality-Cassification-Segmentation/"
+    },
+    "e22-co543-traffic-sign-detection": {
+        "title": "traffic sign detection",
+        "description": "Real-time traffic sign detection and recognition system on GTSDB benchmark using YOLOv8 deep learning and classical computer vision. CO5430 Image Processing project by Group 17, Department of Computer Engineering, University of Peradeniya.",
+        "category": {
+            "title": "Image Processing Projects (CO543)",
+            "code": "co543",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co543/e22/traffic-sign-detection/",
+        "repo_url": "https://github.com/cepdnaclk/e22-co543-traffic-sign-detection",
+        "page_url": "https://cepdnaclk.github.io/e22-co543-traffic-sign-detection",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E22/traffic-sign-detection/"
     }
 }

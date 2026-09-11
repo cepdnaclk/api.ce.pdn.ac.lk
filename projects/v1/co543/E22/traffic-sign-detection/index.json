@@ -1,0 +1,81 @@
+{
+    "title": "traffic sign detection",
+    "description": "Real-time traffic sign detection and recognition system on GTSDB benchmark using YOLOv8 deep learning and classical computer vision. CO5430 Image Processing project by Group 17, Department of Computer Engineering, University of Peradeniya.",
+    "category": {
+        "title": "Image Processing Projects (CO543)",
+        "code": "co543",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/co543/e22/traffic-sign-detection/",
+    "repo_url": "https://github.com/cepdnaclk/e22-co543-traffic-sign-detection",
+    "page_url": "https://cepdnaclk.github.io/e22-co543-traffic-sign-detection",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E22/traffic-sign-detection/",
+    "thumbnail_url": "https://cepdnaclk.github.io/e22-co543-traffic-sign-detection/data/thumbnail.jpg",
+    "team": {
+        "E/22/203": {
+            "name": "R.M.S.S. Kumara",
+            "email": "e22203@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/203",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22203.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/203/"
+        },
+        "E/22/372": {
+            "name": "K.I. Sewmini",
+            "email": "e22372@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/372",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22372.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/372/"
+        },
+        "E/22/127": {
+            "name": "S.I. Gunawardhana",
+            "email": "e22127@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/127",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22127.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/127/"
+        },
+        "E/22/269": {
+            "name": "A.W.H. Panchani",
+            "email": "e22269@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/269",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22269.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/269/"
+        }
+    },
+    "supervisors": {
+        "upuljm@eng.pdn.ac.lk": {
+            "name": "Dr. Upul Jayasinghe",
+            "email": "upuljm@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/upul-jayasinghe/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/upul-jayasinghe.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/upuljm",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/upuljm/",
+            "researchgate": "https://www.researchgate.net/profile/Upul-Jayasinghe",
+            "google_scholar": "https://scholar.google.ch/citations?user=9nBn4b0AAAAJ"
+        }
+    },
+    "tags": [
+        "Image Processing",
+        "Computer Vision",
+        "Deep Learning",
+        "YOLOv8",
+        "Object Detection",
+        "GTSDB"
+    ]
+}
