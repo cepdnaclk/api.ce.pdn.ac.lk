@@ -72,6 +72,18 @@
         "status": "PASS"
     },
     {
+        "id": 356564863,
+        "repository": "projects.ce.pdn.ac.lk",
+        "name": "Algolia Search Index",
+        "state": "active",
+        "urls": {
+            "api": "https://api.github.com/repos/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/356564863",
+            "html": "https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/blob/main/.github/workflows/algolia-index.yml",
+            "badge": "https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/workflows/Algolia%20Search%20Index/badge.svg"
+        },
+        "status": "PASS"
+    },
+    {
         "id": 232796536,
         "repository": "projects.ce.pdn.ac.lk",
         "name": "Build and Deploy - Daily",
@@ -104,6 +116,30 @@
             "api": "https://api.github.com/repos/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/278306156",
             "html": "https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer",
             "badge": "https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer/badge.svg"
+        },
+        "status": "PASS"
+    },
+    {
+        "id": 356533006,
+        "repository": "projects.ce.pdn.ac.lk",
+        "name": "Dependabot Updates",
+        "state": "active",
+        "urls": {
+            "api": "https://api.github.com/repos/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/356533006",
+            "html": "https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/dependabot/dependabot-updates",
+            "badge": "https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/dependabot/dependabot-updates/badge.svg"
+        },
+        "status": "PASS"
+    },
+    {
+        "id": 356564893,
+        "repository": "projects.ce.pdn.ac.lk",
+        "name": "Dependency Graph",
+        "state": "active",
+        "urls": {
+            "api": "https://api.github.com/repos/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/356564893",
+            "html": "https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/dependabot/update-graph",
+            "badge": "https://github.com/cepdnaclk/projects.ce.pdn.ac.lk/actions/workflows/dependabot/update-graph/badge.svg"
         },
         "status": "PASS"
     },
@@ -249,7 +285,7 @@
             "html": "https://github.com/cepdnaclk/www.ce.pdn.ac.lk/blob/main/.github/workflows/daily.yml",
             "badge": "https://github.com/cepdnaclk/www.ce.pdn.ac.lk/workflows/Scheduled%20Run%20-%20Daily/badge.svg"
         },
-        "status": "PASS"
+        "status": "FAILLING"
     },
     {
         "id": 92528573,
