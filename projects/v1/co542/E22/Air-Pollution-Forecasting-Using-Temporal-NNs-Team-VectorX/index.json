@@ -1,6 +1,6 @@
 {
     "title": "Air Pollution Forecasting Using Temporal NNs Team VectorX",
-    "description": "",
+    "description": "An end-to-end deep learning and machine learning framework for hourly PM2.5 air pollution forecasting across 12 Beijing monitoring stations, leveraging physics-informed atmospheric feature engineering, deep residual temporal neural networks (ResNet-1D BiLSTM), and SLSQP hybrid ensemble blending.",
     "category": {
         "title": "Neural Networks Projects (CO542)",
         "code": "co542",
