@@ -1,0 +1,70 @@
+{
+    "title": "PCB Bare Board Defect Detection",
+    "description": "Computer Vision and Deep Learning Pipeline to identify Bare-Board defects such as Missing holes, Mouse bites, Open Circuits, Short circuits, Spurs, Spurious Copper in Printed Circuit Boards (PCBs)",
+    "category": {
+        "title": "Image Processing Projects (CO543)",
+        "code": "co543",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/PCB-Bare-Board-Defect-Detection/",
+    "repo_url": "https://github.com/cepdnaclk/e23-co543-PCB-Bare-Board-Defect-Detection",
+    "page_url": "https://cepdnaclk.github.io/e23-co543-PCB-Bare-Board-Defect-Detection",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/PCB-Bare-Board-Defect-Detection/",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+    "team": {
+        "E/23/336": {
+            "name": "S.M.D.S.B. Samarakoon",
+            "email": "e23336@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/DilithSBS",
+            "linkedin": "https://www.linkedin.com/in/dilith-samarakoon-409893220/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/336",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23336.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e23/336/"
+        },
+        "E/23/104": {
+            "name": "G.P.M. Gamage",
+            "email": "e23104@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/104",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23104.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e23/104/"
+        },
+        "E/23/035": {
+            "name": "P.I.N. Bandara",
+            "email": "e23035@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Irusha23",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/035",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23035.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e23/035/"
+        },
+        "E/23/117": {
+            "name": "W.R.A.D.N. Gunathilake",
+            "email": "e23117@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/dinithinim",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/117",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23117.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e23/117/"
+        }
+    },
+    "tags": [
+        "Computer Vision",
+        "Deep Learning",
+        "Bare-board PCB Defect Detection",
+        "Defect Detection",
+        "PCB Inspection",
+        "Quality Assurance",
+        "PCB",
+        "CO5430"
+    ]
+}

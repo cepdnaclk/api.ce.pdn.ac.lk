@@ -24,5 +24,18 @@
         "repo_url": "https://github.com/cepdnaclk/e23-co543-Exercise-Posture-Correction-Helper",
         "page_url": "#",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/Exercise-Posture-Correction-Helper/"
+    },
+    "e23-co543-PCB-Bare-Board-Defect-Detection": {
+        "title": "PCB Bare Board Defect Detection",
+        "description": "Computer Vision and Deep Learning Pipeline to identify Bare-Board defects such as Missing holes, Mouse bites, Open Circuits, Short circuits, Spurs, Spurious Copper in Printed Circuit Boards (PCBs)",
+        "category": {
+            "title": "Image Processing Projects (CO543)",
+            "code": "co543",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/PCB-Bare-Board-Defect-Detection/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co543-PCB-Bare-Board-Defect-Detection",
+        "page_url": "https://cepdnaclk.github.io/e23-co543-PCB-Bare-Board-Defect-Detection",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/PCB-Bare-Board-Defect-Detection/"
     }
 }
