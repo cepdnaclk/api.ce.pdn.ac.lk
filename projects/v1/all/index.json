@@ -8312,17 +8312,6 @@
                 "linkedin": "#",
                 "researchgate": "#",
                 "google_scholar": "#"
-            },
-            "e19249@eng.pdn.ac.lk": {
-                "name": "Sayumi Muthukumarana",
-                "email": "e19249@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/",
-                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/temporary-academic-staff/sayumi.jpeg",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/e19249",
-                "website": "#",
-                "linkedin": "#",
-                "researchgate": "#",
-                "google_scholar": "#"
             }
         },
         "tags": [
@@ -36169,7 +36158,7 @@
         "repo_url": "https://github.com/cepdnaclk/e22-co2060-travel-plan-assistant",
         "page_url": "https://cepdnaclk.github.io/e22-co2060-travel-plan-assistant",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/travel-plan-assistant/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+        "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-travel-plan-assistant/data/thumbnail.jpg",
         "team": {
             "E/22/061": {
                 "name": "D.L.S.K. Dasanayaka",
@@ -37335,6 +37324,17 @@
                 "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/202",
                 "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23202.jpg",
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e23/202/"
+            },
+            "E/23/300": {
+                "name": "S.M.R.S. Ranathunga",
+                "email": "e23300@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/300",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23300.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e23/300/"
             }
         },
         "supervisors": {},
@@ -37377,7 +37377,50 @@
         "repo_url": "https://github.com/cepdnaclk/e23-co2060-TransitPro",
         "page_url": "https://cepdnaclk.github.io/e23-co2060-TransitPro",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/TransitPro/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+        "team": {
+            "E/23/017": {
+                "name": "N.A.N.D.N. Arachchi",
+                "email": "e23017@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/017",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23017.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e23/017/"
+            },
+            "E/23/454": {
+                "name": "T.T.R. Yapa",
+                "email": "e23454@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/thisalyapa",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/454",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23454.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e23/454/"
+            },
+            "E/23/455": {
+                "name": "H.P.L.N. Yashassri",
+                "email": "e23455@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/settings/profile",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/455",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23455.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e23/455/"
+            }
+        },
+        "supervisors": {},
+        "tags": [
+            "Web",
+            "Software Systems",
+            "CO2060",
+            "MERN",
+            "Transport"
+        ]
     },
     "e23-co2060-University-Digital-ID-sbt": {
         "title": "University Digital ID sbt",
@@ -37405,7 +37448,19 @@
                 "profile_url": "https://people.ce.pdn.ac.lk/students/e23/054/"
             }
         },
-        "supervisors": {},
+        "supervisors": {
+            "chathuraw@eng.pdn.ac.lk": {
+                "name": "Dr. Chathura Vithanage",
+                "email": "chathuraw@eng.pdn.ac.lk",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
         "tags": [
             "Web",
             "Software Systems",
