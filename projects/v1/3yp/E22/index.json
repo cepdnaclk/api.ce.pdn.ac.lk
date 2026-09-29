@@ -1,0 +1,15 @@
+{
+    "e22-3yp-Syncrobots": {
+        "title": "Syncrobots",
+        "description": "Infrastructure-free formation control for low-cost robot swarms using Ultra-Wideband (UWB) ranging instead of cameras, markers, or GPS. Each follower tracks distances to both the global leader and its immediate predecessor, damping chain oscillations and enabling affordable multi-robot experimentation for student teams.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Syncrobots/",
+        "repo_url": "https://github.com/cepdnaclk/e22-3yp-Syncrobots",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Syncrobots/"
+    }
+}
