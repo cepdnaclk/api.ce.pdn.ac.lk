@@ -1,17 +1,83 @@
 {
-    "e23-co226--co2050--Medico-Legal_Case_Management_System-": {
-        "title": " co2050  Medico Legal_Case_Management_System ",
+    "e23-co226--co2050--Medico-Legal_Case_Management_System": {
+        "title": " co2050  Medico Legal_Case_Management_System",
         "description": "A secure, cloud-native Medico-Legal Database Management System built with Python Flask and PostgreSQL (Supabase). Features strict Role-Based Access Control (RBAC), cryptographic password hashing, and automated forensic audit logging.",
         "category": {
             "title": "Database Projects (CO226)",
             "code": "co226",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
         },
-        "project_url": "https://projects.ce.pdn.ac.lk/co226/e23/-co2050--Medico-Legal_Case_Management_System-/",
-        "repo_url": "https://github.com/cepdnaclk/e23-co226--co2050--Medico-Legal_Case_Management_System-",
-        "page_url": "https://cepdnaclk.github.io/e23-co226--co2050--Medico-Legal_Case_Management_System-",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E23/-co2050--Medico-Legal_Case_Management_System-/",
-        "thumbnail_url": "https://cepdnaclk.github.io/e23-co226--co2050--Medico-Legal_Case_Management_System-/data/thumbnail.jpg"
+        "project_url": "https://projects.ce.pdn.ac.lk/co226/e23/-co2050--Medico-Legal_Case_Management_System/",
+        "repo_url": "https://github.com/cepdnaclk/e23-co226--co2050--Medico-Legal_Case_Management_System",
+        "page_url": "https://cepdnaclk.github.io/e23-co226--co2050--Medico-Legal_Case_Management_System",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E23/-co2050--Medico-Legal_Case_Management_System/",
+        "thumbnail_url": "https://cepdnaclk.github.io/e23-co226--co2050--Medico-Legal_Case_Management_System/data/thumbnail.jpg",
+        "team": {
+            "E/23/076": {
+                "name": "M.T. Dineth",
+                "email": "e23076@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/tdineth",
+                "linkedin": "https://www.linkedin.com/in/theekshana-dineth-8675b7311/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/076",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23076.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e23/076/"
+            },
+            "E/23/122": {
+                "name": "P.H.S. Gunawardhana",
+                "email": "e23122@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/hsg-official",
+                "linkedin": "https://www.linkedin.com/in/sanketh-gunawardhana-a3887a33b",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/122",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23122.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e23/122/"
+            },
+            "E/23/050": {
+                "name": "G.C. Damsiluni",
+                "email": "e23050@eng.ac.lk",
+                "website": "",
+                "github": "https://github.com/Damsiluni",
+                "linkedin": "https://www.linkedin.com/in/charithya-damsiluni-654079370/",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/050",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23050.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e23/050/"
+            },
+            "E/23/089": {
+                "name": "M.A.S. Dulashara",
+                "email": "e23089@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://gist.github.com/Ashinshana1",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E23/089",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e23/e23089.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e23/089/"
+            }
+        },
+        "supervisors": {
+            "biswajithd@eng.pdn.ac.lk": {
+                "name": "Mr. Biswajith Dissanayake",
+                "email": "biswajithd@eng.pdn.ac.lk",
+                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/biswajith-dissanayake/",
+                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/biswajith-dissanayake.jpg",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/biswajithd",
+                "website": "#",
+                "linkedin": "https://www.linkedin.com/in/bak-dissanayake94718162555/",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Web Application",
+            "Software Systems Development",
+            "database-system",
+            "legal-system",
+            "Medical"
+        ]
     },
     "e19-co226-Airline-Booking-System": {
         "title": "Airline Booking System",
@@ -43060,7 +43126,7 @@
         "repo_url": "https://github.com/cepdnaclk/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
         "page_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+        "thumbnail_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/data/thumbnail.jpg",
         "team": {
             "E/23/076": {
                 "name": "M.T. Dineth",
