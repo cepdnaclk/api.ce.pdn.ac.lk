@@ -1,0 +1,67 @@
+{
+    "title": "Ventra",
+    "description": "Ventra is a low-cost, real-time Bag-Valve-Mask (BVM) ventilation feedback and training system using ESP32-S3, airflow and pressure sensors, and an offline dashboard to measure ventilation performance, provide corrective feedback, and support objective manikin-based training and OSCE assessment.",
+    "category": {
+        "title": "Cyber-Physical Systems Projects",
+        "code": "3yp",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Ventra/",
+    "repo_url": "https://github.com/cepdnaclk/e22-3yp-Ventra",
+    "page_url": "https://cepdnaclk.github.io/e22-3yp-Ventra",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Ventra/",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+    "team": {
+        "E/22/397": {
+            "name": "R.Thilakshan",
+            "email": "e22397@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/397",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22397.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/397/"
+        },
+        "E/22/381": {
+            "name": "S.Monisha",
+            "email": "e22381@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/381",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22381.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/381/"
+        },
+        "E/22/337": {
+            "name": "K.Sadurshika",
+            "email": "e22337@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/337",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22337.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/337/"
+        },
+        "E/22/409": {
+            "name": "S.Vikashan",
+            "email": "e22409@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/409",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22409.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/409/"
+        }
+    },
+    "supervisors": {},
+    "tags": [
+        "Cyber-Physical Systems",
+        "Embedded Systems",
+        "Medical IoT",
+        "ESP32"
+    ]
+}
