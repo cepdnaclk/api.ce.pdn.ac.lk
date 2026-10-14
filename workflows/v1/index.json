@@ -72,6 +72,18 @@
         "status": "PASS"
     },
     {
+        "id": 384513723,
+        "repository": "api.ce.pdn.ac.lk",
+        "name": "Weekly Actions",
+        "state": "active",
+        "urls": {
+            "api": "https://api.github.com/repos/cepdnaclk/api.ce.pdn.ac.lk/actions/workflows/384513723",
+            "html": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/.github/workflows/weekly.yml",
+            "badge": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/workflows/Weekly%20Actions/badge.svg"
+        },
+        "status": "FAILLING"
+    },
+    {
         "id": 356564863,
         "repository": "projects.ce.pdn.ac.lk",
         "name": "Algolia Search Index",
@@ -201,7 +213,7 @@
             "html": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/.github/workflows/daily.yml",
             "badge": "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/workflows/Daily%20Updates/badge.svg"
         },
-        "status": "PASS"
+        "status": "FAILLING"
     },
     {
         "id": 64395976,
