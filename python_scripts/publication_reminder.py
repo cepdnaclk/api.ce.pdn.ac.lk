@@ -11,6 +11,7 @@ from typing import Any
 from zoneinfo import ZoneInfo
 
 import requests
+from dotenv import load_dotenv
 from notifications import Notifications
 from utility import (
     env_bool,
@@ -19,6 +20,13 @@ from utility import (
     send_notification,
     validate_email_address,
 )
+
+# Load environment variables from the .env file in the project root directory, if available.
+# This allows for local development and testing without relying on GitHub Actions secrets.
+ENV_FILE = Path(__file__).resolve().parent.parent / ".env"
+if ENV_FILE.is_file():
+    load_dotenv(ENV_FILE, override=False)
+
 
 notify = Notifications("api.ce.pdn.ac.lk", "Reminder Workflow")
 
@@ -39,7 +47,7 @@ EMAIL_API_KEY = os.getenv("EMAIL_API_KEY", "")
 
 EMAIL_TO = "webmaster.github.ce@eng.pdn.ac.lk"
 REPLY_TO = "webmaster.github.ce@eng.pdn.ac.lk"
-EMAIL_SUBJECT = "Monthly publication update reminder"
+EMAIL_SUBJECT = "Monthly Publication Update Reminder"
 EMAIL_TEMPLATE_PATH = (
     Path(__file__).resolve().parent / "res" / "publication_reminder_email.html"
 )
@@ -58,7 +66,7 @@ def is_first_monday_lk(now: datetime | None = None) -> bool:
     return lk_now.weekday() == 0 and 1 <= lk_now.day <= 7
 
 
-def extract_staff_list() -> list[dict[str, Any]]:
+def extract_staff_list() -> list[str]:
     """
     Extract staff records from common taxonomy API response containers,
     and prepare a list of email addresses for on-duty staff members.
@@ -83,9 +91,8 @@ def extract_staff_list() -> list[dict[str, Any]]:
                     staff_email = staff_member.get("metadata", {}).get("email")
 
                     print(f"\t\t{staff_name} (On Duty={is_on_duty})")
-                    if is_on_duty:
-                        if validate_email_address(staff_email):
-                            staff_list.append(staff_email)
+                    if is_on_duty and validate_email_address(staff_email):
+                        staff_list.append(staff_email)
 
         except json.JSONDecodeError as exc:
             description = f"Failed to parse taxonomy API response as JSON. Status code: {response.status_code}, Response: {response.text[:500]}"
@@ -134,9 +141,8 @@ def run_workflow() -> dict[str, Any]:
     bcc = staff_members.copy()
 
     payload: dict[str, Any] = {
-        "to": ["nuwanjaliyagoda@eng.pdn.ac.lk"],
-        # "to": [EMAIL_TO],
-        # "bcc": ",".join(staff_members),
+        "to": [EMAIL_TO],
+        "bcc": ", ".join(bcc),
         "subject": EMAIL_SUBJECT,
         "reply_to": REPLY_TO,
         "body": html_body,
@@ -167,7 +173,7 @@ def run_workflow() -> dict[str, Any]:
         )
 
         if email_response.status_code in {200, 201, 202}:
-            summary["emails_sent"] = len(bcc)
+            summary["emails_sent_to"] = len(bcc)
             summary["status"] = STATUS_SUCCESS
             description = f"Sent reminder emails to {len(bcc)} recipients."
             send_notification(notify, "info", "SUCCESS", description)
