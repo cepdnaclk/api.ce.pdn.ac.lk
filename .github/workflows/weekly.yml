@@ -1,0 +1,59 @@
+name: Monthly Actions
+
+on:
+  schedule:
+    # GitHub cron uses UTC. 00:30 UTC is 06:00 in Sri Lanka (UTC+05:30).
+    # The Python script enforces first-Monday execution.
+    - cron: "30 0 * * 1"
+
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Skip email delivery and report the intended recipient count"
+        required: false
+        default: "true"
+        type: choice
+        options:
+          - "true"
+          - "false"
+      force_run:
+        description: "Bypass the first-Monday schedule guard"
+        required: false
+        default: "true"
+        type: choice
+        options:
+          - "true"
+          - "false"
+
+jobs:
+  publication-reminder:
+    runs-on: ubuntu-latest
+    env:
+      EMAIL_API_KEY: ${{ secrets.EMAIL_API_KEY }}
+      webhook_url: ${{ secrets.NOTIFICATION_WEBHOOK_URL }}
+      webhook_url_google: ${{ secrets.GOOGLE_CHAT_WEBHOOK_URL }}
+      DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
+      FORCE_RUN: ${{ github.event.inputs.force_run || 'false' }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Send publication update reminder
+        env:
+          EMAIL_API_KEY: ${{ secrets.EMAIL_API_KEY }}
+        working-directory: ./python_scripts
+        run: |
+          python3 publication_reminder.py

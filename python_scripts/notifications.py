@@ -39,7 +39,7 @@ class Notifications:
             self.get_webhook_url(), headers=headers, data=json.dumps(data)
         )
         if response.status_code == 204:
-            print("Message sent successfully!")
+            print("Webhook Notification sent successfully!")
         else:
             print("Error sending message. Response:")
             print(response.reason)
@@ -53,7 +53,7 @@ class Notifications:
             self.get_webhook_url_google_chat(), headers=headers, json=data, timeout=10
         )
         if response.status_code == 200:
-            print("Message sent successfully!")
+            print("Google Webhook Notification sent successfully!")
         else:
             print("Error sending message. Response:")
             print(response.reason)
