@@ -1,0 +1,80 @@
+{
+    "title": "Ciora",
+    "description": "An interactive, tabletop assistant robot engineered to support medication dispensing, telemonitoring, and remote care coordination.",
+    "category": {
+        "title": "Cyber-Physical Systems Projects",
+        "code": "3yp",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Ciora/",
+    "repo_url": "https://github.com/cepdnaclk/e22-3yp-Ciora",
+    "page_url": "https://cepdnaclk.github.io/e22-3yp-Ciora",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Ciora/",
+    "thumbnail_url": "https://cepdnaclk.github.io/e22-3yp-Ciora/data/thumbnail.jpg",
+    "team": {
+        "E/22/130": {
+            "name": "Sanindu Hansara",
+            "email": "e22130@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/saninduhansara",
+            "linkedin": "https://www.linkedin.com/in/sanindu-hansara-150297286/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/130",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22130.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/130/"
+        },
+        "E/22/010": {
+            "name": "Dineth Adikari",
+            "email": "e2210@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/010",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22010.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/010/"
+        },
+        "E/22/102": {
+            "name": "Achintha Gamage",
+            "email": "e22102@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/AKGamage",
+            "linkedin": "www.linkedin.com/in/achinthagamage",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/102",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22102.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/102/"
+        },
+        "E/22/008": {
+            "name": "Thisum Abeywickrama",
+            "email": "e22008@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/thisum-abeywickrama",
+            "linkedin": "https://www.linkedin.com/in/thisum-hansada-abeywickrama/",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/008",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22008.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/008/"
+        }
+    },
+    "supervisors": {
+        "yasodhav@eng.pdn.ac.lk": {
+            "name": "Ms. Yasodha Vimukthi",
+            "email": "yasodhav@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Web",
+        "Embedded Systems",
+        "Robotics",
+        "IoT",
+        "Healthcare"
+    ]
+}
