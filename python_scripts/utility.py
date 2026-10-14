@@ -1,13 +1,10 @@
 import logging
 import os
 import re
-import time
 import traceback
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
-
-import requests
 
 SENSITIVE_ENV_MARKERS = ("KEY", "TOKEN", "SECRET", "PASSWORD", "WEBHOOK")
 EMAIL_REGEX = re.compile(
