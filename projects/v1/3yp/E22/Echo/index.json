@@ -1,0 +1,78 @@
+{
+    "title": "Echo",
+    "description": "Echo \ud83e\udd1f \u2014 Every Gesture Has a Voice. An assistive smart-glove system that bridges communication barriers by translating Sign Language gestures into speech using flex sensors, an ESP32, and machine learning. Built to make communication more accessible, with motion-based recognition and neural networks planned for future development.",
+    "category": {
+        "title": "Cyber-Physical Systems Projects",
+        "code": "3yp",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Echo/",
+    "repo_url": "https://github.com/cepdnaclk/e22-3yp-Echo",
+    "page_url": "https://cepdnaclk.github.io/e22-3yp-Echo",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Echo/",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+    "team": {
+        "E/22/074": {
+            "name": "Yasas Dewshan",
+            "email": "e22074@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/074",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22074.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/074/"
+        },
+        "E/22/061": {
+            "name": "Sayuru Dassanayake",
+            "email": "e22061@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/061",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22061.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/061/"
+        },
+        "E/22/233": {
+            "name": "Teshini Matharaarachchi",
+            "email": "e22233@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/233",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22233.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/233/"
+        },
+        "E/22/253": {
+            "name": "Tharusha Nethmina",
+            "email": "e22253@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/253",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22253.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/253/"
+        }
+    },
+    "supervisors": {
+        "yasodhav@eng.pdn.ac.lk": {
+            "name": "Ms. Yasodha Vimukthi",
+            "email": "yasodhav@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Embedded Systems",
+        "Web",
+        "Mobile Application"
+    ]
+}

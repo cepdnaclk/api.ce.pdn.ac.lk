@@ -1,0 +1,38 @@
+{
+    "title": "Road ane sidewalk segmentation",
+    "description": "Semantic segmentation pipeline for autonomous driving road scenes. Identifies roads, lanes, and sidewalks using U-Net, DeepLabV3, and SegFormer architectures. Evaluated using IoU and Dice metrics.",
+    "category": {
+        "title": "Image Processing Projects (CO543)",
+        "code": "co543",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/co543/e22/Road-ane-sidewalk-segmentation/",
+    "repo_url": "https://github.com/cepdnaclk/e22-co543-Road-ane-sidewalk-segmentation",
+    "page_url": "https://cepdnaclk.github.io/e22-co543-Road-ane-sidewalk-segmentation",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E22/Road-ane-sidewalk-segmentation/",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+    "team": {
+        "E/22/303": {
+            "name": "R.B.R.M.D. RAJAPAKSHA",
+            "email": "e22303@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/303",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22303.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/303/"
+        },
+        "E/22/125": {
+            "name": "D.D.S.K.Gunawardhana",
+            "email": "e22125@eng.pdn.ac.lk",
+            "website": "#",
+            "github": "#",
+            "linkedin": "#",
+            "researchgate": "#",
+            "api_url": "#",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+            "profile_url": "#"
+        }
+    }
+}

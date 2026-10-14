@@ -145,6 +145,45 @@
     ],
     "AI": [
         {
+            "title": "AURA",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/AURA/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-AURA",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-AURA",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-AURA/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/AURA/"
+        },
+        {
+            "title": "ReflectStudio",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/ReflectStudio/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-ReflectStudio",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-ReflectStudio",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/ReflectStudio/"
+        },
+        {
+            "title": "Smart_STEM_Experiment_Kit",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Smart_STEM_Experiment_Kit/",
+            "repo_url": "https://github.com/cepdnaclk/e22-3yp-Smart_STEM_Experiment_Kit",
+            "page_url": "https://cepdnaclk.github.io/e22-3yp-Smart_STEM_Experiment_Kit",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-3yp-Smart_STEM_Experiment_Kit/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Smart_STEM_Experiment_Kit/"
+        },
+        {
             "title": "AI System for Lung nodule follow up using plain chest X Ray",
             "category": {
                 "code": "4yp",
@@ -311,6 +350,19 @@
     ],
     "AWS": [
         {
+            "title": "Forensic Medical Records Management System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/Forensic-Medical-Records-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co226-Forensic-Medical-Records-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e22-co226-Forensic-Medical-Records-Management-System",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-Forensic-Medical-Records-Management-System/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/Forensic-Medical-Records-Management-System/"
+        },
+        {
             "title": "PetGuard Pro",
             "category": {
                 "code": "3yp",
@@ -322,6 +374,19 @@
             "page_url": "https://cepdnaclk.github.io/e21-3yp-PetGuard-Pro",
             "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-PetGuard-Pro/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PetGuard-Pro/"
+        },
+        {
+            "title": "RouteLK",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RouteLK/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-RouteLK",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RouteLK/"
         }
     ],
     "Accelerated Computing": [
@@ -539,6 +604,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit/"
         }
     ],
+    "Air Pollution": [
+        {
+            "title": "Air Pollution Forecasting Using Temporal NNs Team VectorX",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e22/Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co542-Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX",
+            "page_url": "https://cepdnaclk.github.io/e22-co542-Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co542-Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E22/Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX/"
+        }
+    ],
     "Alert System": [
         {
             "title": "PeraVerse Organizer Dashboard Core Backend",
@@ -655,6 +735,32 @@
             "page_url": "https://cepdnaclk.github.io/e15-4yp-online-proctoring-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/online-proctoring-system/"
+        },
+        {
+            "title": "Fabric Defect Detection and Localisation Using Deep Neural Networks",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e23/Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks",
+            "page_url": "https://cepdnaclk.github.io/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E23/Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/"
+        },
+        {
+            "title": "DefectVision Intelligent Surface Defect Detection Using Deep Learning",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
+            "page_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/"
         }
     ],
     "Applied Software Architecture": [
@@ -745,6 +851,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/using-machine-learning-in-high-stake-settings/"
         }
     ],
+    "Assistive Technology": [
+        {
+            "title": "PathFinder",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/PathFinder/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-PathFinder",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-PathFinder",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-PathFinder/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PathFinder/"
+        }
+    ],
     "Atmospheric Duct Interference": [
         {
             "title": "Machine Learning based Atmospheric Duct Interference cancellation in TD LTE networks",
@@ -831,6 +952,21 @@
             "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
+        }
+    ],
+    "Autoencoder": [
+        {
+            "title": "DefectVision Intelligent Surface Defect Detection Using Deep Learning",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
+            "page_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/"
         }
     ],
     "Automated Grading": [
@@ -988,6 +1124,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Health-Watch-with-Emergency-Detection/"
         }
     ],
+    "Bare-board PCB Defect Detection": [
+        {
+            "title": "PCB Bare Board Defect Detection",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/PCB-Bare-Board-Defect-Detection/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co543-PCB-Bare-Board-Defect-Detection",
+            "page_url": "https://cepdnaclk.github.io/e23-co543-PCB-Bare-Board-Defect-Detection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/PCB-Bare-Board-Defect-Detection/"
+        }
+    ],
     "Bioinformatics": [
         {
             "title": "Skim Sequencing Analysis",
@@ -1102,6 +1253,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/AI-as-a-Microservice-for-Smart-Edge-of-Things/"
         }
     ],
+    "Blood Bank": [
+        {
+            "title": "bloodmsystem",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/bloodmsystem/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co2060-bloodmsystem",
+            "page_url": "https://cepdnaclk.github.io/e22-co2060-bloodmsystem",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-bloodmsystem/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/bloodmsystem/"
+        }
+    ],
     "Building Management": [
         {
             "title": "PeraVerse Organizer Dashboard Core Backend",
@@ -1145,9 +1311,50 @@
             "page_url": "https://cepdnaclk.github.io/e20-co542-Detect-AI-vs-Human-Generated-Images",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Detect-AI-vs-Human-Generated-Images/"
+        },
+        {
+            "title": "Fabric Defect Detection and Localisation Using Deep Neural Networks",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e23/Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks",
+            "page_url": "https://cepdnaclk.github.io/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E23/Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/"
+        }
+    ],
+    "CO2050": [
+        {
+            "title": "ForenSys_",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/ForenSys_/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co226-ForenSys_",
+            "page_url": "https://cepdnaclk.github.io/e22-co226-ForenSys_",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/ForenSys_/"
         }
     ],
     "CO2060": [
+        {
+            "title": "Forensa Fronsic Database Management System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/Forensa-Fronsic-Database-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co226-Forensa-Fronsic-Database-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e22-co226-Forensa-Fronsic-Database-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/Forensa-Fronsic-Database-Management-System/"
+        },
         {
             "title": "AI Integrated Ecommerce Platform",
             "category": {
@@ -1340,7 +1547,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/School-Van-Management-System/",
             "repo_url": "https://github.com/cepdnaclk/e22-co2060-School-Van-Management-System",
             "page_url": "https://cepdnaclk.github.io/e22-co2060-School-Van-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-School-Van-Management-System/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/School-Van-Management-System/"
         },
         {
@@ -1431,7 +1638,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/travel-plan-assistant/",
             "repo_url": "https://github.com/cepdnaclk/e22-co2060-travel-plan-assistant",
             "page_url": "https://cepdnaclk.github.io/e22-co2060-travel-plan-assistant",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-travel-plan-assistant/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/travel-plan-assistant/"
         },
         {
@@ -1574,7 +1781,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Merch4Change/",
             "repo_url": "https://github.com/cepdnaclk/e23-co2060-Merch4Change",
             "page_url": "https://cepdnaclk.github.io/e23-co2060-Merch4Change",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Merch4Change/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Merch4Change/"
         },
         {
@@ -1600,7 +1807,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/SkillShare/",
             "repo_url": "https://github.com/cepdnaclk/e23-co2060-SkillShare",
             "page_url": "https://cepdnaclk.github.io/e23-co2060-SkillShare",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-SkillShare/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/SkillShare/"
         },
         {
@@ -1899,6 +2106,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E20/RV32IM_Pipelined_Processor_Group-04/"
         }
     ],
+    "CO5430": [
+        {
+            "title": "PCB Bare Board Defect Detection",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/PCB-Bare-Board-Defect-Detection/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co543-PCB-Bare-Board-Defect-Detection",
+            "page_url": "https://cepdnaclk.github.io/e23-co543-PCB-Bare-Board-Defect-Detection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/PCB-Bare-Board-Defect-Detection/"
+        }
+    ],
     "CPR": [
         {
             "title": "ResQ",
@@ -1915,6 +2137,19 @@
         }
     ],
     "CSS": [
+        {
+            "title": "Flight Management System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Flight-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-Flight-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-Flight-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Flight-Management-System/"
+        },
         {
             "title": "Cardiac Patient Data Management System",
             "category": {
@@ -1953,19 +2188,6 @@
             "page_url": "https://cepdnaclk.github.io/e15-co328-Banking-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E15/Banking-Management-System/"
-        },
-        {
-            "title": "Flight Management System",
-            "category": {
-                "code": "co226",
-                "title": "Database Projects (CO226)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Flight-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co226-Flight-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e19-co226-Flight-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Flight-Management-System/"
         }
     ],
     "CVA6": [
@@ -2086,6 +2308,19 @@
     ],
     "Cloud Computing": [
         {
+            "title": "LOX",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/LOX/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-LOX",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-LOX",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-LOX/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/LOX/"
+        },
+        {
             "title": "Mountain Climber Health and GPS Tracker",
             "category": {
                 "code": "3yp",
@@ -2198,6 +2433,21 @@
             "page_url": "https://cepdnaclk.github.io/e20-co543-Colorization-of-Grayscale-Images-Using-Image-Processing-Techniques",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/Colorization-of-Grayscale-Images-Using-Image-Processing-Techniques/"
+        }
+    ],
+    "Community Marketplace": [
+        {
+            "title": "wedaklk",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/wedaklk/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co2060-wedaklk",
+            "page_url": "https://cepdnaclk.github.io/e23-co2060-wedaklk",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-wedaklk/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/wedaklk/"
         }
     ],
     "Comparative Analysis": [
@@ -2498,6 +2748,19 @@
     ],
     "Computer Vision": [
         {
+            "title": "PathFinder",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/PathFinder/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-PathFinder",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-PathFinder",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-PathFinder/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PathFinder/"
+        },
+        {
             "title": "Using Computer Vision and Agent Based Modelling to Explore the Human Elephant Conflict",
             "category": {
                 "code": "4yp",
@@ -2589,6 +2852,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/handwritten-character-recognition/"
         },
         {
+            "title": "Fabric Defect Detection and Localisation Using Deep Neural Networks",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e23/Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks",
+            "page_url": "https://cepdnaclk.github.io/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E23/Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/"
+        },
+        {
             "title": "Colorization of Grayscale Images Using Image Processing Techniques",
             "category": {
                 "code": "co543",
@@ -2600,6 +2876,58 @@
             "page_url": "https://cepdnaclk.github.io/e20-co543-Colorization-of-Grayscale-Images-Using-Image-Processing-Techniques",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/Colorization-of-Grayscale-Images-Using-Image-Processing-Techniques/"
+        },
+        {
+            "title": "DefectVision Intelligent Surface Defect Detection Using Deep Learning",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
+            "page_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/"
+        },
+        {
+            "title": "PCB Bare Board Defect Detection",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/PCB-Bare-Board-Defect-Detection/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co543-PCB-Bare-Board-Defect-Detection",
+            "page_url": "https://cepdnaclk.github.io/e23-co543-PCB-Bare-Board-Defect-Detection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/PCB-Bare-Board-Defect-Detection/"
+        },
+        {
+            "title": "Medical Image Abnormality Cassification Segmentation",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e22/Medical-Image-Abnormality-Cassification-Segmentation/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co543-Medical-Image-Abnormality-Cassification-Segmentation",
+            "page_url": "https://cepdnaclk.github.io/e22-co543-Medical-Image-Abnormality-Cassification-Segmentation",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E22/Medical-Image-Abnormality-Cassification-Segmentation/"
+        },
+        {
+            "title": "traffic sign detection",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e22/traffic-sign-detection/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co543-traffic-sign-detection",
+            "page_url": "https://cepdnaclk.github.io/e22-co543-traffic-sign-detection",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co543-traffic-sign-detection/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E22/traffic-sign-detection/"
         }
     ],
     "Computer and Network Security": [
@@ -2871,6 +3199,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Automated-Hydroponic-System/"
         }
     ],
+    "Cyber-Physical Systems": [
+        {
+            "title": "Ventra",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Ventra/",
+            "repo_url": "https://github.com/cepdnaclk/e22-3yp-Ventra",
+            "page_url": "https://cepdnaclk.github.io/e22-3yp-Ventra",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Ventra/"
+        }
+    ],
     "Cyberbullying Detection": [
         {
             "title": "SinhSafe",
@@ -3110,6 +3453,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Core-Frontend/"
         }
     ],
+    "Database": [
+        {
+            "title": "bloodmsystem",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/bloodmsystem/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co2060-bloodmsystem",
+            "page_url": "https://cepdnaclk.github.io/e22-co2060-bloodmsystem",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-bloodmsystem/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/bloodmsystem/"
+        }
+    ],
     "Database Design": [
         {
             "title": "agriculture management system",
@@ -3123,6 +3481,21 @@
             "page_url": "https://cepdnaclk.github.io/e19-co226-agriculture-management-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/agriculture-management-system/"
+        }
+    ],
+    "Database Management Systems": [
+        {
+            "title": "ForenSys_",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/ForenSys_/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co226-ForenSys_",
+            "page_url": "https://cepdnaclk.github.io/e22-co226-ForenSys_",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/ForenSys_/"
         }
     ],
     "Database Systems": [
@@ -3151,6 +3524,32 @@
             "page_url": "https://cepdnaclk.github.io/e19-co226-library-management-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/library-management-system/"
+        },
+        {
+            "title": "Forensic Medical Records Management System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/Forensic-Medical-Records-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co226-Forensic-Medical-Records-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e22-co226-Forensic-Medical-Records-Management-System",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-Forensic-Medical-Records-Management-System/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/Forensic-Medical-Records-Management-System/"
+        },
+        {
+            "title": "ForensicSys Medico Forensic DBMS",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/ForensicSys-Medico-Forensic-DBMS/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co226-ForensicSys-Medico-Forensic-DBMS",
+            "page_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/ForensicSys-Medico-Forensic-DBMS/"
         }
     ],
     "Deep Learning": [
@@ -3181,6 +3580,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort/"
         },
         {
+            "title": "Air Pollution Forecasting Using Temporal NNs Team VectorX",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e22/Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co542-Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX",
+            "page_url": "https://cepdnaclk.github.io/e22-co542-Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co542-Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E22/Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX/"
+        },
+        {
             "title": "handwritten character recognition",
             "category": {
                 "code": "co542",
@@ -3192,6 +3604,71 @@
             "page_url": "https://cepdnaclk.github.io/e20-co542-handwritten-character-recognition",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/handwritten-character-recognition/"
+        },
+        {
+            "title": "Fabric Defect Detection and Localisation Using Deep Neural Networks",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e23/Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks",
+            "page_url": "https://cepdnaclk.github.io/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E23/Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/"
+        },
+        {
+            "title": "DefectVision Intelligent Surface Defect Detection Using Deep Learning",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
+            "page_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/"
+        },
+        {
+            "title": "PCB Bare Board Defect Detection",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/PCB-Bare-Board-Defect-Detection/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co543-PCB-Bare-Board-Defect-Detection",
+            "page_url": "https://cepdnaclk.github.io/e23-co543-PCB-Bare-Board-Defect-Detection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/PCB-Bare-Board-Defect-Detection/"
+        },
+        {
+            "title": "Medical Image Abnormality Cassification Segmentation",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e22/Medical-Image-Abnormality-Cassification-Segmentation/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co543-Medical-Image-Abnormality-Cassification-Segmentation",
+            "page_url": "https://cepdnaclk.github.io/e22-co543-Medical-Image-Abnormality-Cassification-Segmentation",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E22/Medical-Image-Abnormality-Cassification-Segmentation/"
+        },
+        {
+            "title": "traffic sign detection",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e22/traffic-sign-detection/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co543-traffic-sign-detection",
+            "page_url": "https://cepdnaclk.github.io/e22-co543-traffic-sign-detection",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co543-traffic-sign-detection/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E22/traffic-sign-detection/"
         }
     ],
     "Deep Neural Network": [
@@ -3237,6 +3714,21 @@
             "page_url": "https://cepdnaclk.github.io/e21-co227-Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort/"
+        }
+    ],
+    "Defect Detection": [
+        {
+            "title": "PCB Bare Board Defect Detection",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/PCB-Bare-Board-Defect-Detection/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co543-PCB-Bare-Board-Defect-Detection",
+            "page_url": "https://cepdnaclk.github.io/e23-co543-PCB-Bare-Board-Defect-Detection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/PCB-Bare-Board-Defect-Detection/"
         }
     ],
     "Dental": [
@@ -3374,6 +3866,19 @@
     ],
     "Docker": [
         {
+            "title": "Forensic Medical Records Management System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/Forensic-Medical-Records-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co226-Forensic-Medical-Records-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e22-co226-Forensic-Medical-Records-Management-System",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-Forensic-Medical-Records-Management-System/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/Forensic-Medical-Records-Management-System/"
+        },
+        {
             "title": "PeraCom DECP",
             "category": {
                 "code": "co528",
@@ -3415,6 +3920,21 @@
             "page_url": "https://cepdnaclk.github.io/e19-co226-E-Commerce-Website",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/E-Commerce-Website/"
+        }
+    ],
+    "E-Commerce": [
+        {
+            "title": "LOX",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/LOX/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-LOX",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-LOX",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-LOX/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/LOX/"
         }
     ],
     "E19": [
@@ -3550,6 +4070,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/VR-Multiplayer-Golf-Game/"
         },
         {
+            "title": "Ventra",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Ventra/",
+            "repo_url": "https://github.com/cepdnaclk/e22-3yp-Ventra",
+            "page_url": "https://cepdnaclk.github.io/e22-3yp-Ventra",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Ventra/"
+        },
+        {
             "title": "Smart Traffic Light System",
             "category": {
                 "code": "co326",
@@ -3651,6 +4184,19 @@
     ],
     "Education": [
         {
+            "title": "Smart_STEM_Experiment_Kit",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Smart_STEM_Experiment_Kit/",
+            "repo_url": "https://github.com/cepdnaclk/e22-3yp-Smart_STEM_Experiment_Kit",
+            "page_url": "https://cepdnaclk.github.io/e22-3yp-Smart_STEM_Experiment_Kit",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-3yp-Smart_STEM_Experiment_Kit/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Smart_STEM_Experiment_Kit/"
+        },
+        {
             "title": "Large Language Models in Education",
             "category": {
                 "code": "4yp",
@@ -3677,6 +4223,21 @@
             "page_url": "https://cepdnaclk.github.io/e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education",
             "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/ai-driven-automated-feedback-and-tutoring-system-for-higher-education/"
+        }
+    ],
+    "Elderly Care": [
+        {
+            "title": "ReflectStudio",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/ReflectStudio/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-ReflectStudio",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-ReflectStudio",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/ReflectStudio/"
         }
     ],
     "Election-Database-Management-System": [
@@ -4129,17 +4690,17 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E15/Smart-Monitoring-and-Automated-Controlling-System-for-an-Aquarium/"
         },
         {
-            "title": "CluckNet",
+            "title": "AURA",
             "category": {
                 "code": "3yp",
                 "title": "Cyber-Physical Systems Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/CluckNet/",
-            "repo_url": "https://github.com/cepdnaclk/e21-3yp-CluckNet",
-            "page_url": "https://cepdnaclk.github.io/e21-3yp-CluckNet",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/CluckNet/"
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/AURA/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-AURA",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-AURA",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-AURA/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/AURA/"
         },
         {
             "title": "Drivora",
@@ -4164,7 +4725,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Drone-Swarm/",
             "repo_url": "https://github.com/cepdnaclk/e21-3yp-Drone-Swarm",
             "page_url": "https://cepdnaclk.github.io/e21-3yp-Drone-Swarm",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-Drone-Swarm/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Drone-Swarm/"
         },
         {
@@ -4229,7 +4790,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/PathFinder/",
             "repo_url": "https://github.com/cepdnaclk/e21-3yp-PathFinder",
             "page_url": "https://cepdnaclk.github.io/e21-3yp-PathFinder",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-PathFinder/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PathFinder/"
         },
         {
@@ -4244,6 +4805,19 @@
             "page_url": "https://cepdnaclk.github.io/e21-3yp-PetGuard-Pro",
             "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-PetGuard-Pro/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PetGuard-Pro/"
+        },
+        {
+            "title": "ReflectStudio",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/ReflectStudio/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-ReflectStudio",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-ReflectStudio",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/ReflectStudio/"
         },
         {
             "title": "ResQ",
@@ -4268,7 +4842,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RoadEye/",
             "repo_url": "https://github.com/cepdnaclk/e21-3yp-RoadEye",
             "page_url": "https://cepdnaclk.github.io/e21-3yp-RoadEye",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-RoadEye/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RoadEye/"
         },
         {
@@ -4281,7 +4855,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RouteLK/",
             "repo_url": "https://github.com/cepdnaclk/e21-3yp-RouteLK",
             "page_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RouteLK/"
         },
         {
@@ -4294,7 +4868,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SlideSense/",
             "repo_url": "https://github.com/cepdnaclk/e21-3yp-SlideSense",
             "page_url": "https://cepdnaclk.github.io/e21-3yp-SlideSense",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-SlideSense/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SlideSense/"
         },
         {
@@ -4309,19 +4883,6 @@
             "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-IV",
             "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-Smart-IV/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-IV/"
-        },
-        {
-            "title": "Smart Laser Distance Meter",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Smart-Laser-Distance-Meter/",
-            "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-Laser-Distance-Meter",
-            "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Laser-Distance-Meter",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-Laser-Distance-Meter/"
         },
         {
             "title": "Smart Metrolac",
@@ -5208,6 +5769,58 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/smart-shopping-cart/"
         },
         {
+            "title": "Echo",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Echo/",
+            "repo_url": "https://github.com/cepdnaclk/e22-3yp-Echo",
+            "page_url": "https://cepdnaclk.github.io/e22-3yp-Echo",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Echo/"
+        },
+        {
+            "title": "MedFlow",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/MedFlow/",
+            "repo_url": "https://github.com/cepdnaclk/e22-3yp-MedFlow",
+            "page_url": "https://cepdnaclk.github.io/e22-3yp-MedFlow",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/MedFlow/"
+        },
+        {
+            "title": "Smart_STEM_Experiment_Kit",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Smart_STEM_Experiment_Kit/",
+            "repo_url": "https://github.com/cepdnaclk/e22-3yp-Smart_STEM_Experiment_Kit",
+            "page_url": "https://cepdnaclk.github.io/e22-3yp-Smart_STEM_Experiment_Kit",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-3yp-Smart_STEM_Experiment_Kit/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Smart_STEM_Experiment_Kit/"
+        },
+        {
+            "title": "Ventra",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Ventra/",
+            "repo_url": "https://github.com/cepdnaclk/e22-3yp-Ventra",
+            "page_url": "https://cepdnaclk.github.io/e22-3yp-Ventra",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Ventra/"
+        },
+        {
             "title": "automatic fish tank control system",
             "category": {
                 "code": "3yp",
@@ -5591,6 +6204,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Heat_map/"
         }
     ],
+    "Ensemble Learning": [
+        {
+            "title": "Air Pollution Forecasting Using Temporal NNs Team VectorX",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e22/Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co542-Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX",
+            "page_url": "https://cepdnaclk.github.io/e22-co542-Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co542-Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E22/Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX/"
+        }
+    ],
     "Ensemble ML": [
         {
             "title": "Peak Load Detection System",
@@ -5718,6 +6346,36 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
         }
     ],
+    "Explainability": [
+        {
+            "title": "DefectVision Intelligent Surface Defect Detection Using Deep Learning",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
+            "page_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/"
+        }
+    ],
+    "Explainable AI": [
+        {
+            "title": "Medical Image Abnormality Cassification Segmentation",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e22/Medical-Image-Abnormality-Cassification-Segmentation/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co543-Medical-Image-Abnormality-Cassification-Segmentation",
+            "page_url": "https://cepdnaclk.github.io/e22-co543-Medical-Image-Abnormality-Cassification-Segmentation",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E22/Medical-Image-Abnormality-Cassification-Segmentation/"
+        }
+    ],
     "Explainable Machine Learning": [
         {
             "title": "using machine learning in high stake settings",
@@ -5764,6 +6422,19 @@
         }
     ],
     "Express.js": [
+        {
+            "title": "Forensic Medical Records Management System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/Forensic-Medical-Records-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co226-Forensic-Medical-Records-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e22-co226-Forensic-Medical-Records-Management-System",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-Forensic-Medical-Records-Management-System/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/Forensic-Medical-Records-Management-System/"
+        },
         {
             "title": "Crowd Balance Mobile App",
             "category": {
@@ -5921,19 +6592,6 @@
             "page_url": "https://cepdnaclk.github.io/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/"
-        },
-        {
-            "title": "onchip offline neuromorphic computing",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/onchip-offline-neuromorphic-computing/",
-            "repo_url": "https://github.com/cepdnaclk/e20-4yp-onchip-offline-neuromorphic-computing",
-            "page_url": "https://cepdnaclk.github.io/e20-4yp-onchip-offline-neuromorphic-computing",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/onchip-offline-neuromorphic-computing/"
         },
         {
             "title": "neuromorphic architecture",
@@ -6256,6 +6914,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-4yp-Multi-Modal-Data-Fusion-for-Trading-Market-Price-Forecasting",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Multi-Modal-Data-Fusion-for-Trading-Market-Price-Forecasting/"
+        },
+        {
+            "title": "NLP Driven IBN Layered Architecture for SDNs",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/NLP-Driven-IBN-Layered-Architecture-for-SDNs/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-NLP-Driven-IBN-Layered-Architecture-for-SDNs",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-NLP-Driven-IBN-Layered-Architecture-for-SDNs",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/NLP-Driven-IBN-Layered-Architecture-for-SDNs/"
         },
         {
             "title": "NursingVR WoundCareAI",
@@ -6594,19 +7265,6 @@
             "page_url": "https://cepdnaclk.github.io/e20-4yp-metagenomics",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/metagenomics/"
-        },
-        {
-            "title": "onchip offline neuromorphic computing",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/onchip-offline-neuromorphic-computing/",
-            "repo_url": "https://github.com/cepdnaclk/e20-4yp-onchip-offline-neuromorphic-computing",
-            "page_url": "https://cepdnaclk.github.io/e20-4yp-onchip-offline-neuromorphic-computing",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/onchip-offline-neuromorphic-computing/"
         },
         {
             "title": "symbolic music generation with xLSTM",
@@ -7615,6 +8273,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-For-Structural-Health-Monitoring/"
         },
         {
+            "title": "RouteLK",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RouteLK/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-RouteLK",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RouteLK/"
+        },
+        {
             "title": "Poultry Feed Efficiency Tracking System Group 17",
             "category": {
                 "code": "co227",
@@ -7639,6 +8310,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-SnaT-Meal-Tracking-App-Group-B",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/SnaT-Meal-Tracking-App-Group-B/"
+        },
+        {
+            "title": "OptiFlow",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/OptiFlow/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co2060-OptiFlow",
+            "page_url": "https://cepdnaclk.github.io/e22-co2060-OptiFlow",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/OptiFlow/"
         },
         {
             "title": "PowerShare SL",
@@ -7699,6 +8383,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients/"
         }
     ],
+    "Forensic Medicine": [
+        {
+            "title": "Forensic Medical Records Management System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/Forensic-Medical-Records-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co226-Forensic-Medical-Records-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e22-co226-Forensic-Medical-Records-Management-System",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-Forensic-Medical-Records-Management-System/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/Forensic-Medical-Records-Management-System/"
+        }
+    ],
     "Forex Market": [
         {
             "title": "Predicting Forex Currency Exchange Rate using Machine Learning",
@@ -7745,19 +8444,6 @@
         }
     ],
     "Full-Stack": [
-        {
-            "title": "PathFinder",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/PathFinder/",
-            "repo_url": "https://github.com/cepdnaclk/e21-3yp-PathFinder",
-            "page_url": "https://cepdnaclk.github.io/e21-3yp-PathFinder",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PathFinder/"
-        },
         {
             "title": "Heat_map",
             "category": {
@@ -7934,6 +8620,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/VR-Multiplayer-Golf-Game/"
         }
     ],
+    "GTSDB": [
+        {
+            "title": "traffic sign detection",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e22/traffic-sign-detection/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co543-traffic-sign-detection",
+            "page_url": "https://cepdnaclk.github.io/e22-co543-traffic-sign-detection",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co543-traffic-sign-detection/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E22/traffic-sign-detection/"
+        }
+    ],
     "Gaming Arcades": [
         {
             "title": "smart payment system",
@@ -7992,6 +8693,21 @@
             "page_url": "https://cepdnaclk.github.io/e14-4yp-ipb",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E14/ipb/"
+        }
+    ],
+    "Grad-CAM": [
+        {
+            "title": "DefectVision Intelligent Surface Defect Detection Using Deep Learning",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
+            "page_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/"
         }
     ],
     "Grafana": [
@@ -8157,19 +8873,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SafePlus/"
         },
         {
-            "title": "neuromorphic memory optimization",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/neuromorphic-memory-optimization/",
-            "repo_url": "https://github.com/cepdnaclk/e20-4yp-neuromorphic-memory-optimization",
-            "page_url": "https://cepdnaclk.github.io/e20-4yp-neuromorphic-memory-optimization",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/neuromorphic-memory-optimization/"
-        },
-        {
             "title": "NeuronGlow",
             "category": {
                 "code": "co542",
@@ -8269,6 +8972,19 @@
             "page_url": "https://cepdnaclk.github.io/e21-co227-Online-doctor-appointment-website-2yp",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Online-doctor-appointment-website-2yp/"
+        },
+        {
+            "title": "bloodmsystem",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/bloodmsystem/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co2060-bloodmsystem",
+            "page_url": "https://cepdnaclk.github.io/e22-co2060-bloodmsystem",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-bloodmsystem/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/bloodmsystem/"
         },
         {
             "title": "NexClinic",
@@ -8405,6 +9121,32 @@
         }
     ],
     "IOT": [
+        {
+            "title": "LOX",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/LOX/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-LOX",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-LOX",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-LOX/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/LOX/"
+        },
+        {
+            "title": "RouteLK",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RouteLK/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-RouteLK",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RouteLK/"
+        },
         {
             "title": "Green House Automation",
             "category": {
@@ -8553,6 +9295,34 @@
             "page_url": "https://cepdnaclk.github.io/e20-co543-SkinVision",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/SkinVision/"
+        },
+        {
+            "title": "traffic sign detection",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e22/traffic-sign-detection/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co543-traffic-sign-detection",
+            "page_url": "https://cepdnaclk.github.io/e22-co543-traffic-sign-detection",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co543-traffic-sign-detection/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E22/traffic-sign-detection/"
+        }
+    ],
+    "Image Segmentation": [
+        {
+            "title": "Fabric Defect Detection and Localisation Using Deep Neural Networks",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e23/Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks",
+            "page_url": "https://cepdnaclk.github.io/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E23/Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/"
         }
     ],
     "Indoor Navigation": [
@@ -8568,6 +9338,21 @@
             "page_url": "https://cepdnaclk.github.io/e19-3yp-smart-supermarket-navigation-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/smart-supermarket-navigation-system/"
+        }
+    ],
+    "Industrial Inspection": [
+        {
+            "title": "DefectVision Intelligent Surface Defect Detection Using Deep Learning",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
+            "page_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/"
         }
     ],
     "Industrial Networks": [
@@ -8856,19 +9641,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/smart-supermarket-navigation-system/"
         },
         {
-            "title": "CluckNet",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/CluckNet/",
-            "repo_url": "https://github.com/cepdnaclk/e21-3yp-CluckNet",
-            "page_url": "https://cepdnaclk.github.io/e21-3yp-CluckNet",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/CluckNet/"
-        },
-        {
             "title": "Mountain Climber Health and GPS Tracker",
             "category": {
                 "code": "3yp",
@@ -8880,6 +9652,19 @@
             "page_url": "https://cepdnaclk.github.io/e21-3yp-Mountain-Climber-Health-and-GPS-Tracker",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Mountain-Climber-Health-and-GPS-Tracker/"
+        },
+        {
+            "title": "PathFinder",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/PathFinder/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-PathFinder",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-PathFinder",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-PathFinder/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PathFinder/"
         },
         {
             "title": "PetGuard Pro",
@@ -8895,6 +9680,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PetGuard-Pro/"
         },
         {
+            "title": "ReflectStudio",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/ReflectStudio/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-ReflectStudio",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-ReflectStudio",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/ReflectStudio/"
+        },
+        {
             "title": "SlideSense",
             "category": {
                 "code": "3yp",
@@ -8904,7 +9702,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SlideSense/",
             "repo_url": "https://github.com/cepdnaclk/e21-3yp-SlideSense",
             "page_url": "https://cepdnaclk.github.io/e21-3yp-SlideSense",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-SlideSense/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SlideSense/"
         },
         {
@@ -9041,19 +9839,6 @@
         }
     ],
     "JWT Authentication": [
-        {
-            "title": "PathFinder",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/PathFinder/",
-            "repo_url": "https://github.com/cepdnaclk/e21-3yp-PathFinder",
-            "page_url": "https://cepdnaclk.github.io/e21-3yp-PathFinder",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PathFinder/"
-        },
         {
             "title": "PeraMorphiq",
             "category": {
@@ -9243,6 +10028,21 @@
             "page_url": "https://cepdnaclk.github.io/e20-co326-Digital-Twin-LED-Luminaire-Monitor",
             "thumbnail_url": "https://cepdnaclk.github.io/e20-co326-Digital-Twin-LED-Luminaire-Monitor/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Digital-Twin-LED-Luminaire-Monitor/"
+        }
+    ],
+    "Jenkins": [
+        {
+            "title": "Forensic Medical Records Management System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/Forensic-Medical-Records-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co226-Forensic-Medical-Records-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e22-co226-Forensic-Medical-Records-Management-System",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-Forensic-Medical-Records-Management-System/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/Forensic-Medical-Records-Management-System/"
         }
     ],
     "Kafka": [
@@ -9578,6 +10378,19 @@
             "page_url": "https://cepdnaclk.github.io/e21-co227-Online-doctor-appointment-website-2yp",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Online-doctor-appointment-website-2yp/"
+        },
+        {
+            "title": "TransitPro",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/TransitPro/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co2060-TransitPro",
+            "page_url": "https://cepdnaclk.github.io/e23-co2060-TransitPro",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/TransitPro/"
         }
     ],
     "MININET-WiFi": [
@@ -9787,6 +10600,21 @@
             "page_url": "https://cepdnaclk.github.io/e15-4yp-Adaptive-people-movement-and-action-prediction-using-CCTV-to-control-appliances",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Adaptive-people-movement-and-action-prediction-using-CCTV-to-control-appliances/"
+        }
+    ],
+    "MVTec AD": [
+        {
+            "title": "DefectVision Intelligent Surface Defect Detection Using Deep Learning",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
+            "page_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/"
         }
     ],
     "Machine Learning": [
@@ -10168,6 +10996,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/"
         },
         {
+            "title": "Air Pollution Forecasting Using Temporal NNs Team VectorX",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e22/Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co542-Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX",
+            "page_url": "https://cepdnaclk.github.io/e22-co542-Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co542-Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E22/Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX/"
+        },
+        {
             "title": "Bitcoin Cost Forecast System",
             "category": {
                 "code": "co544",
@@ -10349,6 +11190,19 @@
     ],
     "Medical": [
         {
+            "title": " co2050  Medico Legal_Case_Management_System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e23/-co2050--Medico-Legal_Case_Management_System/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co226--co2050--Medico-Legal_Case_Management_System",
+            "page_url": "https://cepdnaclk.github.io/e23-co226--co2050--Medico-Legal_Case_Management_System",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co226--co2050--Medico-Legal_Case_Management_System/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E23/-co2050--Medico-Legal_Case_Management_System/"
+        },
+        {
             "title": "ResQ",
             "category": {
                 "code": "3yp",
@@ -10386,6 +11240,51 @@
             "page_url": "https://cepdnaclk.github.io/e20-co542-heart-disease-prediction",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/heart-disease-prediction/"
+        }
+    ],
+    "Medical Image Processing": [
+        {
+            "title": "Medical Image Abnormality Cassification Segmentation",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e22/Medical-Image-Abnormality-Cassification-Segmentation/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co543-Medical-Image-Abnormality-Cassification-Segmentation",
+            "page_url": "https://cepdnaclk.github.io/e22-co543-Medical-Image-Abnormality-Cassification-Segmentation",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E22/Medical-Image-Abnormality-Cassification-Segmentation/"
+        }
+    ],
+    "Medical IoT": [
+        {
+            "title": "Ventra",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Ventra/",
+            "repo_url": "https://github.com/cepdnaclk/e22-3yp-Ventra",
+            "page_url": "https://cepdnaclk.github.io/e22-3yp-Ventra",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Ventra/"
+        }
+    ],
+    "Medical Records": [
+        {
+            "title": "Forensic Medical Records Management System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/Forensic-Medical-Records-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co226-Forensic-Medical-Records-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e22-co226-Forensic-Medical-Records-Management-System",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-Forensic-Medical-Records-Management-System/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/Forensic-Medical-Records-Management-System/"
         }
     ],
     "Metagenomics": [
@@ -10592,6 +11491,19 @@
     ],
     "Mobile App": [
         {
+            "title": "LOX",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/LOX/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-LOX",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-LOX",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-LOX/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/LOX/"
+        },
+        {
             "title": "Poultry Feed Efficiency Tracking System Group 12",
             "category": {
                 "code": "co227",
@@ -10621,6 +11533,19 @@
         }
     ],
     "Mobile Application": [
+        {
+            "title": "PathFinder",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/PathFinder/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-PathFinder",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-PathFinder",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-PathFinder/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PathFinder/"
+        },
         {
             "title": "PetGuard Pro",
             "category": {
@@ -10672,6 +11597,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-Road-Traffic-Ecosystem",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Road-Traffic-Ecosystem/"
+        },
+        {
+            "title": "Echo",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Echo/",
+            "repo_url": "https://github.com/cepdnaclk/e22-3yp-Echo",
+            "page_url": "https://cepdnaclk.github.io/e22-3yp-Echo",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Echo/"
         },
         {
             "title": "water quality monitoring and usage monitoring system",
@@ -10973,19 +11911,6 @@
     ],
     "MySQL": [
         {
-            "title": "Banking Management System",
-            "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e15/Banking-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e15-co328-Banking-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e15-co328-Banking-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E15/Banking-Management-System/"
-        },
-        {
             "title": "Database for Bank Management System",
             "category": {
                 "code": "co226",
@@ -11010,6 +11935,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-co226-business-to-business-database",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E17/business-to-business-database/"
+        },
+        {
+            "title": "Banking Management System",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e15/Banking-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e15-co328-Banking-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e15-co328-Banking-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E15/Banking-Management-System/"
         },
         {
             "title": "Baby Developing Tracking System Web Application",
@@ -11264,6 +12202,19 @@
     ],
     "Neural Networks": [
         {
+            "title": "Air Pollution Forecasting Using Temporal NNs Team VectorX",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e22/Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co542-Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX",
+            "page_url": "https://cepdnaclk.github.io/e22-co542-Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co542-Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E22/Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX/"
+        },
+        {
             "title": "Air Quality Analyser",
             "category": {
                 "code": "co542",
@@ -11355,19 +12306,6 @@
             "page_url": "https://cepdnaclk.github.io/e20-4yp-Neuromorphic-Smart-Sensor-for-Autonomous-Underwater-Vehicles",
             "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-Neuromorphic-Smart-Sensor-for-Autonomous-Underwater-Vehicles/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Neuromorphic-Smart-Sensor-for-Autonomous-Underwater-Vehicles/"
-        },
-        {
-            "title": "neuromorphic memory optimization",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/neuromorphic-memory-optimization/",
-            "repo_url": "https://github.com/cepdnaclk/e20-4yp-neuromorphic-memory-optimization",
-            "page_url": "https://cepdnaclk.github.io/e20-4yp-neuromorphic-memory-optimization",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/neuromorphic-memory-optimization/"
         }
     ],
     "Neuromorphic Computer Architecture": [
@@ -11385,21 +12323,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/neuromorphic-architecture/"
         }
     ],
-    "Neuromorphic Computing": [
-        {
-            "title": "onchip offline neuromorphic computing",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/onchip-offline-neuromorphic-computing/",
-            "repo_url": "https://github.com/cepdnaclk/e20-4yp-onchip-offline-neuromorphic-computing",
-            "page_url": "https://cepdnaclk.github.io/e20-4yp-onchip-offline-neuromorphic-computing",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/onchip-offline-neuromorphic-computing/"
-        }
-    ],
     "News Categorizing": [
         {
             "title": "Automatically categorizing Sinhala news items from selected news sources",
@@ -11413,6 +12336,21 @@
             "page_url": "https://cepdnaclk.github.io/e18-6sp-Automatically-categorizing-Sinhala-news-items-from-selected-news-sources",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Automatically-categorizing-Sinhala-news-items-from-selected-news-sources/"
+        }
+    ],
+    "Next.js": [
+        {
+            "title": "MPhil PhD Lifecycle Management System",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/MPhil-PhD-Lifecycle-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
         }
     ],
     "Node js": [
@@ -11446,6 +12384,19 @@
         }
     ],
     "Node.js": [
+        {
+            "title": "Forensic Medical Records Management System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/Forensic-Medical-Records-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co226-Forensic-Medical-Records-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e22-co226-Forensic-Medical-Records-Management-System",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-Forensic-Medical-Records-Management-System/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/Forensic-Medical-Records-Management-System/"
+        },
         {
             "title": "Crowd Balance Mobile App",
             "category": {
@@ -11614,6 +12565,19 @@
             "page_url": "https://cepdnaclk.github.io/e22-co2060-PowerShare-SL",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PowerShare-SL/"
+        },
+        {
+            "title": "bloodmsystem",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/bloodmsystem/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co2060-bloodmsystem",
+            "page_url": "https://cepdnaclk.github.io/e22-co2060-bloodmsystem",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-bloodmsystem/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/bloodmsystem/"
         },
         {
             "title": "Alumnet",
@@ -11786,6 +12750,19 @@
             "page_url": "https://cepdnaclk.github.io/e21-co227-Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort/"
+        },
+        {
+            "title": "traffic sign detection",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e22/traffic-sign-detection/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co543-traffic-sign-detection",
+            "page_url": "https://cepdnaclk.github.io/e22-co543-traffic-sign-detection",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co543-traffic-sign-detection/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E22/traffic-sign-detection/"
         }
     ],
     "Object Tracking": [
@@ -11816,21 +12793,6 @@
             "page_url": "https://cepdnaclk.github.io/e21-co227-QR-AI-Entry-Exit-Tracking-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/QR-AI-Entry-Exit-Tracking-System/"
-        }
-    ],
-    "On-Chip Learning": [
-        {
-            "title": "onchip offline neuromorphic computing",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/onchip-offline-neuromorphic-computing/",
-            "repo_url": "https://github.com/cepdnaclk/e20-4yp-onchip-offline-neuromorphic-computing",
-            "page_url": "https://cepdnaclk.github.io/e20-4yp-onchip-offline-neuromorphic-computing",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/onchip-offline-neuromorphic-computing/"
         }
     ],
     "Online Hospital Database Managment System": [
@@ -11981,6 +12943,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/road-accident-analyzer/"
         }
     ],
+    "Operations Research": [
+        {
+            "title": "OptiFlow",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/OptiFlow/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co2060-OptiFlow",
+            "page_url": "https://cepdnaclk.github.io/e22-co2060-OptiFlow",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/OptiFlow/"
+        }
+    ],
     "Oral Cavity Detection": [
         {
             "title": "Image Data Handling System for Research Group B",
@@ -12069,6 +13046,36 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PowerShare-SL/"
         }
     ],
+    "PCB": [
+        {
+            "title": "PCB Bare Board Defect Detection",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/PCB-Bare-Board-Defect-Detection/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co543-PCB-Bare-Board-Defect-Detection",
+            "page_url": "https://cepdnaclk.github.io/e23-co543-PCB-Bare-Board-Defect-Detection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/PCB-Bare-Board-Defect-Detection/"
+        }
+    ],
+    "PCB Inspection": [
+        {
+            "title": "PCB Bare Board Defect Detection",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/PCB-Bare-Board-Defect-Detection/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co543-PCB-Bare-Board-Defect-Detection",
+            "page_url": "https://cepdnaclk.github.io/e23-co543-PCB-Bare-Board-Defect-Detection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/PCB-Bare-Board-Defect-Detection/"
+        }
+    ],
     "PHP": [
         {
             "title": "Flight Management System",
@@ -12097,6 +13104,21 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-Remote-Controlled-PLC-Training-Kit",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Remote-Controlled-PLC-Training-Kit/"
+        }
+    ],
+    "PatchCore": [
+        {
+            "title": "DefectVision Intelligent Surface Defect Detection Using Deep Learning",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
+            "page_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/"
         }
     ],
     "Payment System": [
@@ -12305,7 +13327,35 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/post-quantum-cryptographic-schemes-based-on-plain-lattices/"
         }
     ],
+    "Postgraduate": [
+        {
+            "title": "MPhil PhD Lifecycle Management System",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/MPhil-PhD-Lifecycle-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
+        }
+    ],
     "PostgreSQL": [
+        {
+            "title": "Forensic Medical Records Management System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/Forensic-Medical-Records-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co226-Forensic-Medical-Records-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e22-co226-Forensic-Medical-Records-Management-System",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-Forensic-Medical-Records-Management-System/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/Forensic-Medical-Records-Management-System/"
+        },
         {
             "title": "PeraVerse Heatmap Predictive Analysis",
             "category": {
@@ -12477,6 +13527,19 @@
     ],
     "PyTorch": [
         {
+            "title": "Air Pollution Forecasting Using Temporal NNs Team VectorX",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e22/Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co542-Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX",
+            "page_url": "https://cepdnaclk.github.io/e22-co542-Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co542-Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E22/Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX/"
+        },
+        {
             "title": "handwritten character recognition",
             "category": {
                 "code": "co542",
@@ -12488,6 +13551,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co542-handwritten-character-recognition",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/handwritten-character-recognition/"
+        },
+        {
+            "title": "Medical Image Abnormality Cassification Segmentation",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e22/Medical-Image-Abnormality-Cassification-Segmentation/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co543-Medical-Image-Abnormality-Cassification-Segmentation",
+            "page_url": "https://cepdnaclk.github.io/e22-co543-Medical-Image-Abnormality-Cassification-Segmentation",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E22/Medical-Image-Abnormality-Cassification-Segmentation/"
         }
     ],
     "Python": [
@@ -12503,6 +13579,19 @@
             "page_url": "https://cepdnaclk.github.io/e22-co2060-AI-Smart-Assistant",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/AI-Smart-Assistant/"
+        },
+        {
+            "title": "OptiFlow",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/OptiFlow/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co2060-OptiFlow",
+            "page_url": "https://cepdnaclk.github.io/e22-co2060-OptiFlow",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/OptiFlow/"
         },
         {
             "title": "Peak Load Detection System",
@@ -12559,6 +13648,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/QR-AI-Entry-Exit-Tracking-System/"
         }
     ],
+    "Quality Assurance": [
+        {
+            "title": "PCB Bare Board Defect Detection",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/PCB-Bare-Board-Defect-Detection/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co543-PCB-Bare-Board-Defect-Detection",
+            "page_url": "https://cepdnaclk.github.io/e23-co543-PCB-Bare-Board-Defect-Detection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/PCB-Bare-Board-Defect-Detection/"
+        }
+    ],
     "Quality Inspection": [
         {
             "title": "Machine Vision For Quality Inspection",
@@ -12575,19 +13679,6 @@
         }
     ],
     "RESTful API": [
-        {
-            "title": "PathFinder",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/PathFinder/",
-            "repo_url": "https://github.com/cepdnaclk/e21-3yp-PathFinder",
-            "page_url": "https://cepdnaclk.github.io/e21-3yp-PathFinder",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PathFinder/"
-        },
         {
             "title": "Heat_map",
             "category": {
@@ -12762,19 +13853,6 @@
             "page_url": "https://cepdnaclk.github.io/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/"
-        },
-        {
-            "title": "onchip offline neuromorphic computing",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/onchip-offline-neuromorphic-computing/",
-            "repo_url": "https://github.com/cepdnaclk/e20-4yp-onchip-offline-neuromorphic-computing",
-            "page_url": "https://cepdnaclk.github.io/e20-4yp-onchip-offline-neuromorphic-computing",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/onchip-offline-neuromorphic-computing/"
         },
         {
             "title": "RV32IM Pipeline Implementation Group 2",
@@ -13045,6 +14123,19 @@
     ],
     "React": [
         {
+            "title": "Forensic Medical Records Management System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/Forensic-Medical-Records-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co226-Forensic-Medical-Records-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e22-co226-Forensic-Medical-Records-Management-System",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-Forensic-Medical-Records-Management-System/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/Forensic-Medical-Records-Management-System/"
+        },
+        {
             "title": "Smart Waste Management System",
             "category": {
                 "code": "3yp",
@@ -13160,6 +14251,19 @@
             "page_url": "https://cepdnaclk.github.io/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis",
             "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/"
+        },
+        {
+            "title": "bloodmsystem",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/bloodmsystem/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co2060-bloodmsystem",
+            "page_url": "https://cepdnaclk.github.io/e22-co2060-bloodmsystem",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-bloodmsystem/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/bloodmsystem/"
         },
         {
             "title": "Alumnet",
@@ -13407,19 +14511,6 @@
     ],
     "Responsive Design": [
         {
-            "title": "PathFinder",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/PathFinder/",
-            "repo_url": "https://github.com/cepdnaclk/e21-3yp-PathFinder",
-            "page_url": "https://cepdnaclk.github.io/e21-3yp-PathFinder",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PathFinder/"
-        },
-        {
             "title": "PeraMorphiq",
             "category": {
                 "code": "co227",
@@ -13616,7 +14707,48 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SafePlus/"
         }
     ],
+    "Scheduling": [
+        {
+            "title": "OptiFlow",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/OptiFlow/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co2060-OptiFlow",
+            "page_url": "https://cepdnaclk.github.io/e22-co2060-OptiFlow",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/OptiFlow/"
+        }
+    ],
     "Security": [
+        {
+            "title": "AURA",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/AURA/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-AURA",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-AURA",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-AURA/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/AURA/"
+        },
+        {
+            "title": "LOX",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/LOX/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-LOX",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-LOX",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-LOX/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/LOX/"
+        },
         {
             "title": "A Hierarchical Hybrid Framework for Intrusion Detection in Network and Application Layers",
             "category": {
@@ -13790,6 +14922,21 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-C",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-C/"
+        }
+    ],
+    "Smart Locker": [
+        {
+            "title": "LOX",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/LOX/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-LOX",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-LOX",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-LOX/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/LOX/"
         }
     ],
     "Smart Safety Helmet": [
@@ -13990,6 +15137,19 @@
     ],
     "Software Systems": [
         {
+            "title": "Forensa Fronsic Database Management System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/Forensa-Fronsic-Database-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co226-Forensa-Fronsic-Database-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e22-co226-Forensa-Fronsic-Database-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/Forensa-Fronsic-Database-Management-System/"
+        },
+        {
             "title": "AI Integrated Ecommerce Platform",
             "category": {
                 "code": "co2060",
@@ -14168,7 +15328,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/School-Van-Management-System/",
             "repo_url": "https://github.com/cepdnaclk/e22-co2060-School-Van-Management-System",
             "page_url": "https://cepdnaclk.github.io/e22-co2060-School-Van-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-School-Van-Management-System/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/School-Van-Management-System/"
         },
         {
@@ -14259,7 +15419,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/travel-plan-assistant/",
             "repo_url": "https://github.com/cepdnaclk/e22-co2060-travel-plan-assistant",
             "page_url": "https://cepdnaclk.github.io/e22-co2060-travel-plan-assistant",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-travel-plan-assistant/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/travel-plan-assistant/"
         },
         {
@@ -14389,7 +15549,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Merch4Change/",
             "repo_url": "https://github.com/cepdnaclk/e23-co2060-Merch4Change",
             "page_url": "https://cepdnaclk.github.io/e23-co2060-Merch4Change",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Merch4Change/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Merch4Change/"
         },
         {
@@ -14415,7 +15575,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/SkillShare/",
             "repo_url": "https://github.com/cepdnaclk/e23-co2060-SkillShare",
             "page_url": "https://cepdnaclk.github.io/e23-co2060-SkillShare",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-SkillShare/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/SkillShare/"
         },
         {
@@ -14488,6 +15648,19 @@
     ],
     "Software Systems Development": [
         {
+            "title": " co2050  Medico Legal_Case_Management_System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e23/-co2050--Medico-Legal_Case_Management_System/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co226--co2050--Medico-Legal_Case_Management_System",
+            "page_url": "https://cepdnaclk.github.io/e23-co226--co2050--Medico-Legal_Case_Management_System",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co226--co2050--Medico-Legal_Case_Management_System/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E23/-co2050--Medico-Legal_Case_Management_System/"
+        },
+        {
             "title": "NexClinic",
             "category": {
                 "code": "co2060",
@@ -14499,21 +15672,19 @@
             "page_url": "https://cepdnaclk.github.io/e23-co2060-NexClinic",
             "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-NexClinic/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/NexClinic/"
-        }
-    ],
-    "Spiking Neural Networks": [
+        },
         {
-            "title": "onchip offline neuromorphic computing",
+            "title": "Smart Tourism",
             "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/onchip-offline-neuromorphic-computing/",
-            "repo_url": "https://github.com/cepdnaclk/e20-4yp-onchip-offline-neuromorphic-computing",
-            "page_url": "https://cepdnaclk.github.io/e20-4yp-onchip-offline-neuromorphic-computing",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/onchip-offline-neuromorphic-computing/"
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Smart-Tourism/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co2060-Smart-Tourism",
+            "page_url": "https://cepdnaclk.github.io/e23-co2060-Smart-Tourism",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Smart-Tourism/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Smart-Tourism/"
         }
     ],
     "SpringBoot": [
@@ -14748,6 +15919,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-For-Structural-Health-Monitoring/"
         },
         {
+            "title": "Air Pollution Forecasting Using Temporal NNs Team VectorX",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e22/Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co542-Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX",
+            "page_url": "https://cepdnaclk.github.io/e22-co542-Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co542-Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E22/Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX/"
+        },
+        {
             "title": "handwritten character recognition",
             "category": {
                 "code": "co542",
@@ -14806,6 +15990,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/TecHub-help-desk-ticketing-system/"
         }
     ],
+    "Time Series Forecasting": [
+        {
+            "title": "Air Pollution Forecasting Using Temporal NNs Team VectorX",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e22/Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co542-Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX",
+            "page_url": "https://cepdnaclk.github.io/e22-co542-Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co542-Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E22/Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX/"
+        }
+    ],
     "TinyML": [
         {
             "title": "Digital Twin LED Luminaire Monitor",
@@ -14832,6 +16031,64 @@
             "page_url": "https://cepdnaclk.github.io/e20-co326-Motor-Thermal-Monitoring-Digital-Twin",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Motor-Thermal-Monitoring-Digital-Twin/"
+        }
+    ],
+    "Tourism": [
+        {
+            "title": "Smart Tourism",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Smart-Tourism/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co2060-Smart-Tourism",
+            "page_url": "https://cepdnaclk.github.io/e23-co2060-Smart-Tourism",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Smart-Tourism/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Smart-Tourism/"
+        }
+    ],
+    "Transfer Learning": [
+        {
+            "title": "Fabric Defect Detection and Localisation Using Deep Neural Networks",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e23/Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks",
+            "page_url": "https://cepdnaclk.github.io/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E23/Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/"
+        },
+        {
+            "title": "DefectVision Intelligent Surface Defect Detection Using Deep Learning",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
+            "page_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/"
+        }
+    ],
+    "Transport": [
+        {
+            "title": "TransitPro",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/TransitPro/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co2060-TransitPro",
+            "page_url": "https://cepdnaclk.github.io/e23-co2060-TransitPro",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/TransitPro/"
         }
     ],
     "Trip-Advisor": [
@@ -15240,6 +16497,58 @@
         }
     ],
     "Web": [
+        {
+            "title": "E Commerce Website",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/E-Commerce-Website/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-E-Commerce-Website",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-E-Commerce-Website",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/E-Commerce-Website/"
+        },
+        {
+            "title": "Flight Management System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Flight-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-Flight-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-Flight-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Flight-Management-System/"
+        },
+        {
+            "title": "Forensa Fronsic Database Management System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/Forensa-Fronsic-Database-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co226-Forensa-Fronsic-Database-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e22-co226-Forensa-Fronsic-Database-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/Forensa-Fronsic-Database-Management-System/"
+        },
+        {
+            "title": "ForensicSys Medico Forensic DBMS",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/ForensicSys-Medico-Forensic-DBMS/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co226-ForensicSys-Medico-Forensic-DBMS",
+            "page_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/ForensicSys-Medico-Forensic-DBMS/"
+        },
         {
             "title": "Handwritten Essay Marking Software",
             "category": {
@@ -15735,17 +17044,17 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E15/Smart-Monitoring-and-Automated-Controlling-System-for-an-Aquarium/"
         },
         {
-            "title": "CluckNet",
+            "title": "AURA",
             "category": {
                 "code": "3yp",
                 "title": "Cyber-Physical Systems Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/CluckNet/",
-            "repo_url": "https://github.com/cepdnaclk/e21-3yp-CluckNet",
-            "page_url": "https://cepdnaclk.github.io/e21-3yp-CluckNet",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/CluckNet/"
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/AURA/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-AURA",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-AURA",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-AURA/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/AURA/"
         },
         {
             "title": "Drivora",
@@ -15770,7 +17079,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Drone-Swarm/",
             "repo_url": "https://github.com/cepdnaclk/e21-3yp-Drone-Swarm",
             "page_url": "https://cepdnaclk.github.io/e21-3yp-Drone-Swarm",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-Drone-Swarm/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Drone-Swarm/"
         },
         {
@@ -15813,19 +17122,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/LOX/"
         },
         {
-            "title": "PathFinder",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/PathFinder/",
-            "repo_url": "https://github.com/cepdnaclk/e21-3yp-PathFinder",
-            "page_url": "https://cepdnaclk.github.io/e21-3yp-PathFinder",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PathFinder/"
-        },
-        {
             "title": "ResQ",
             "category": {
                 "code": "3yp",
@@ -15848,7 +17144,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RoadEye/",
             "repo_url": "https://github.com/cepdnaclk/e21-3yp-RoadEye",
             "page_url": "https://cepdnaclk.github.io/e21-3yp-RoadEye",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-RoadEye/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RoadEye/"
         },
         {
@@ -15861,7 +17157,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RouteLK/",
             "repo_url": "https://github.com/cepdnaclk/e21-3yp-RouteLK",
             "page_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RouteLK/"
         },
         {
@@ -15874,7 +17170,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SlideSense/",
             "repo_url": "https://github.com/cepdnaclk/e21-3yp-SlideSense",
             "page_url": "https://cepdnaclk.github.io/e21-3yp-SlideSense",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-SlideSense/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SlideSense/"
         },
         {
@@ -15889,19 +17185,6 @@
             "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-IV",
             "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-Smart-IV/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-IV/"
-        },
-        {
-            "title": "Smart Laser Distance Meter",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Smart-Laser-Distance-Meter/",
-            "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-Laser-Distance-Meter",
-            "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Laser-Distance-Meter",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-Laser-Distance-Meter/"
         },
         {
             "title": "Smart Metrolac",
@@ -16775,6 +18058,45 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/smart-shopping-cart/"
         },
         {
+            "title": "Echo",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Echo/",
+            "repo_url": "https://github.com/cepdnaclk/e22-3yp-Echo",
+            "page_url": "https://cepdnaclk.github.io/e22-3yp-Echo",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Echo/"
+        },
+        {
+            "title": "MedFlow",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/MedFlow/",
+            "repo_url": "https://github.com/cepdnaclk/e22-3yp-MedFlow",
+            "page_url": "https://cepdnaclk.github.io/e22-3yp-MedFlow",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/MedFlow/"
+        },
+        {
+            "title": "Smart_STEM_Experiment_Kit",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Smart_STEM_Experiment_Kit/",
+            "repo_url": "https://github.com/cepdnaclk/e22-3yp-Smart_STEM_Experiment_Kit",
+            "page_url": "https://cepdnaclk.github.io/e22-3yp-Smart_STEM_Experiment_Kit",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-3yp-Smart_STEM_Experiment_Kit/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Smart_STEM_Experiment_Kit/"
+        },
+        {
             "title": "automatic fish tank control system",
             "category": {
                 "code": "3yp",
@@ -17499,7 +18821,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/School-Van-Management-System/",
             "repo_url": "https://github.com/cepdnaclk/e22-co2060-School-Van-Management-System",
             "page_url": "https://cepdnaclk.github.io/e22-co2060-School-Van-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-School-Van-Management-System/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/School-Van-Management-System/"
         },
         {
@@ -17527,6 +18849,19 @@
             "page_url": "https://cepdnaclk.github.io/e22-co2060-Web_Based_PAR_Index_System",
             "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-Web_Based_PAR_Index_System/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Web_Based_PAR_Index_System/"
+        },
+        {
+            "title": "bloodmsystem",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/bloodmsystem/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co2060-bloodmsystem",
+            "page_url": "https://cepdnaclk.github.io/e22-co2060-bloodmsystem",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-bloodmsystem/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/bloodmsystem/"
         },
         {
             "title": "floodguard",
@@ -17577,7 +18912,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/travel-plan-assistant/",
             "repo_url": "https://github.com/cepdnaclk/e22-co2060-travel-plan-assistant",
             "page_url": "https://cepdnaclk.github.io/e22-co2060-travel-plan-assistant",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-travel-plan-assistant/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/travel-plan-assistant/"
         },
         {
@@ -17685,6 +19020,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Kitchen-Foods-Platform/"
         },
         {
+            "title": "MPhil PhD Lifecycle Management System",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/MPhil-PhD-Lifecycle-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
+        },
+        {
             "title": "Maathacare",
             "category": {
                 "code": "co2060",
@@ -17707,7 +19055,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Merch4Change/",
             "repo_url": "https://github.com/cepdnaclk/e23-co2060-Merch4Change",
             "page_url": "https://cepdnaclk.github.io/e23-co2060-Merch4Change",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Merch4Change/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Merch4Change/"
         },
         {
@@ -17733,7 +19081,7 @@
             "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/SkillShare/",
             "repo_url": "https://github.com/cepdnaclk/e23-co2060-SkillShare",
             "page_url": "https://cepdnaclk.github.io/e23-co2060-SkillShare",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-SkillShare/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/SkillShare/"
         },
         {
@@ -17789,32 +19137,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/stress-detection-and-analyzing-system/"
         },
         {
-            "title": "E Commerce Website",
-            "category": {
-                "code": "co226",
-                "title": "Database Projects (CO226)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/E-Commerce-Website/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co226-E-Commerce-Website",
-            "page_url": "https://cepdnaclk.github.io/e19-co226-E-Commerce-Website",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/E-Commerce-Website/"
-        },
-        {
-            "title": "Flight Management System",
-            "category": {
-                "code": "co226",
-                "title": "Database Projects (CO226)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Flight-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co226-Flight-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e19-co226-Flight-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Flight-Management-System/"
-        },
-        {
             "title": "Library Management System Web App",
             "category": {
                 "code": "co225",
@@ -17868,6 +19190,19 @@
         }
     ],
     "Web Application": [
+        {
+            "title": " co2050  Medico Legal_Case_Management_System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e23/-co2050--Medico-Legal_Case_Management_System/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co226--co2050--Medico-Legal_Case_Management_System",
+            "page_url": "https://cepdnaclk.github.io/e23-co226--co2050--Medico-Legal_Case_Management_System",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co226--co2050--Medico-Legal_Case_Management_System/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E23/-co2050--Medico-Legal_Case_Management_System/"
+        },
         {
             "title": "Price Prediction in Stock Market",
             "category": {
@@ -17932,6 +19267,19 @@
             "page_url": "https://cepdnaclk.github.io/e23-co2060-NexClinic",
             "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-NexClinic/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/NexClinic/"
+        },
+        {
+            "title": "Smart Tourism",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Smart-Tourism/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co2060-Smart-Tourism",
+            "page_url": "https://cepdnaclk.github.io/e23-co2060-Smart-Tourism",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Smart-Tourism/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Smart-Tourism/"
         }
     ],
     "Web Application Development": [
@@ -18053,6 +19401,19 @@
             "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
+        },
+        {
+            "title": "wedaklk",
+            "category": {
+                "code": "co2060",
+                "title": "Software Systems Design Project (CO2060)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/wedaklk/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co2060-wedaklk",
+            "page_url": "https://cepdnaclk.github.io/e23-co2060-wedaklk",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-wedaklk/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/wedaklk/"
         }
     ],
     "Web Security": [
@@ -18263,6 +19624,19 @@
             "page_url": "https://cepdnaclk.github.io/e21-co227-QR-AI-Entry-Exit-Tracking-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/QR-AI-Entry-Exit-Tracking-System/"
+        },
+        {
+            "title": "traffic sign detection",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e22/traffic-sign-detection/",
+            "repo_url": "https://github.com/cepdnaclk/e22-co543-traffic-sign-detection",
+            "page_url": "https://cepdnaclk.github.io/e22-co543-traffic-sign-detection",
+            "thumbnail_url": "https://cepdnaclk.github.io/e22-co543-traffic-sign-detection/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E22/traffic-sign-detection/"
         }
     ],
     "Yolo": [
@@ -18510,6 +19884,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/swarm-intelligence-programming-framework/"
         }
     ],
+    "database-system": [
+        {
+            "title": " co2050  Medico Legal_Case_Management_System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e23/-co2050--Medico-Legal_Case_Management_System/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co226--co2050--Medico-Legal_Case_Management_System",
+            "page_url": "https://cepdnaclk.github.io/e23-co226--co2050--Medico-Legal_Case_Management_System",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co226--co2050--Medico-Legal_Case_Management_System/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E23/-co2050--Medico-Legal_Case_Management_System/"
+        }
+    ],
     "deep learning": [
         {
             "title": "Applying deep learning on histological images of lymph tissues",
@@ -18598,6 +19987,36 @@
             "page_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter",
             "thumbnail_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/Mini-C-Interpreter/"
+        }
+    ],
+    "java": [
+        {
+            "title": "AURA",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/AURA/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-AURA",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-AURA",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-AURA/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/AURA/"
+        }
+    ],
+    "legal-system": [
+        {
+            "title": " co2050  Medico Legal_Case_Management_System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e23/-co2050--Medico-Legal_Case_Management_System/",
+            "repo_url": "https://github.com/cepdnaclk/e23-co226--co2050--Medico-Legal_Case_Management_System",
+            "page_url": "https://cepdnaclk.github.io/e23-co226--co2050--Medico-Legal_Case_Management_System",
+            "thumbnail_url": "https://cepdnaclk.github.io/e23-co226--co2050--Medico-Legal_Case_Management_System/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E23/-co2050--Medico-Legal_Case_Management_System/"
         }
     ],
     "lexical analysis": [
@@ -18712,6 +20131,36 @@
             "page_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter",
             "thumbnail_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter/data/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/Mini-C-Interpreter/"
+        }
+    ],
+    "reactjs": [
+        {
+            "title": "AURA",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/AURA/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-AURA",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-AURA",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-AURA/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/AURA/"
+        }
+    ],
+    "robot": [
+        {
+            "title": "AURA",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/AURA/",
+            "repo_url": "https://github.com/cepdnaclk/e21-3yp-AURA",
+            "page_url": "https://cepdnaclk.github.io/e21-3yp-AURA",
+            "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-AURA/data/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/AURA/"
         }
     ],
     "robotic automation": [

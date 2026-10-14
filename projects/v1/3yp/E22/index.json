@@ -1,0 +1,67 @@
+{
+    "e22-3yp-Echo": {
+        "title": "Echo",
+        "description": "Echo \ud83e\udd1f \u2014 Every Gesture Has a Voice. An assistive smart-glove system that bridges communication barriers by translating Sign Language gestures into speech using flex sensors, an ESP32, and machine learning. Built to make communication more accessible, with motion-based recognition and neural networks planned for future development.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Echo/",
+        "repo_url": "https://github.com/cepdnaclk/e22-3yp-Echo",
+        "page_url": "https://cepdnaclk.github.io/e22-3yp-Echo",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Echo/"
+    },
+    "e22-3yp-MedFlow": {
+        "title": "MedFlow",
+        "description": "https://cepdnaclk.github.io/e22-3yp-MedFlow",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/MedFlow/",
+        "repo_url": "https://github.com/cepdnaclk/e22-3yp-MedFlow",
+        "page_url": "https://cepdnaclk.github.io/e22-3yp-MedFlow",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/MedFlow/"
+    },
+    "e22-3yp-Smart_STEM_Experiment_Kit": {
+        "title": "Smart_STEM_Experiment_Kit",
+        "description": "Reusable STEM experiment kit for school classrooms. One base unit with six swappable sensor modules lets students run many experiments. A touchscreen shows live data, a web dashboard helps teachers, and an AI engine flags unusual readings and explains results simply. CO3060, Dept. of Computer Engineering, University of Peradeniya.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Smart_STEM_Experiment_Kit/",
+        "repo_url": "https://github.com/cepdnaclk/e22-3yp-Smart_STEM_Experiment_Kit",
+        "page_url": "https://cepdnaclk.github.io/e22-3yp-Smart_STEM_Experiment_Kit",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Smart_STEM_Experiment_Kit/"
+    },
+    "e22-3yp-Syncrobots": {
+        "title": "Syncrobots",
+        "description": "Infrastructure-free formation control for low-cost robot swarms using Ultra-Wideband (UWB) ranging instead of cameras, markers, or GPS. Each follower tracks distances to both the global leader and its immediate predecessor, damping chain oscillations and enabling affordable multi-robot experimentation for student teams.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Syncrobots/",
+        "repo_url": "https://github.com/cepdnaclk/e22-3yp-Syncrobots",
+        "page_url": "https://cepdnaclk.github.io/e22-3yp-Syncrobots",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Syncrobots/"
+    },
+    "e22-3yp-Ventra": {
+        "title": "Ventra",
+        "description": "Ventra is a low-cost, real-time Bag-Valve-Mask (BVM) ventilation feedback and training system using ESP32-S3, airflow and pressure sensors, and an offline dashboard to measure ventilation performance, provide corrective feedback, and support objective manikin-based training and OSCE assessment.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Ventra/",
+        "repo_url": "https://github.com/cepdnaclk/e22-3yp-Ventra",
+        "page_url": "https://cepdnaclk.github.io/e22-3yp-Ventra",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Ventra/"
+    }
+}
