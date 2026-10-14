@@ -142,7 +142,7 @@ def run_workflow() -> dict[str, Any]:
 
     payload: dict[str, Any] = {
         "to": [EMAIL_TO],
-        "bcc": ", ".join(bcc),
+        "bcc": bcc,
         "subject": EMAIL_SUBJECT,
         "reply_to": REPLY_TO,
         "body": html_body,
