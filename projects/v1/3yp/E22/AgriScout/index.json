@@ -1,0 +1,77 @@
+{
+    "title": "AgriScout",
+    "description": "AgriScout is an AI-powered autonomous agricultural robot that monitors plant health and soil conditions using sensors and computer vision. It combines Raspberry Pi, ESP32, machine learning, and cloud technology to detect potential plant diseases, nutrient deficiencies, and soil problems, helping farmers improve crop monitoring and management.",
+    "category": {
+        "title": "Cyber-Physical Systems Projects",
+        "code": "3yp",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+    },
+    "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/AgriScout/",
+    "repo_url": "https://github.com/cepdnaclk/e22-3yp-AgriScout",
+    "page_url": "https://cepdnaclk.github.io/e22-3yp-AgriScout",
+    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/AgriScout/",
+    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+    "team": {
+        "E/22/124": {
+            "name": "R.G.GUNAWARDANA",
+            "email": "e22124@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/124",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22124.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/124/"
+        },
+        "E/22/443": {
+            "name": "W.M.E.N.WIJESINGHE",
+            "email": "e22443@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/Ewmi2003",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/443",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22443.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/443/"
+        },
+        "E/22/366": {
+            "name": "M.D.S.SENANAYAKE",
+            "email": "e22366@eng.pdn.ac.lk",
+            "website": "",
+            "github": "https://github.com/senara06",
+            "linkedin": "https://www.linkedin.com/in/senara-senanayake-03b0a2354",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/366",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22366.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/366/"
+        },
+        "E/22/232": {
+            "name": "D.F.A.T.D.MATHANGADEERA",
+            "email": "e22232@eng.pdn.ac.lk",
+            "website": "",
+            "github": "",
+            "linkedin": "",
+            "researchgate": "",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/232",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22232.jpg",
+            "profile_url": "https://people.ce.pdn.ac.lk/students/e22/232/"
+        }
+    },
+    "supervisors": {
+        "yasodhav@eng.pdn.ac.lk": {
+            "name": "Ms. Yasodha Vimukthi",
+            "email": "yasodhav@eng.pdn.ac.lk",
+            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
+            "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
+            "website": "#",
+            "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
+            "researchgate": "#",
+            "google_scholar": "#"
+        }
+    },
+    "tags": [
+        "Web",
+        "Embedded Systems"
+    ]
+}

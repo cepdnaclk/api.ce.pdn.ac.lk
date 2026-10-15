@@ -1,4 +1,17 @@
 {
+    "e22-3yp-AgriScout": {
+        "title": "AgriScout",
+        "description": "AgriScout is an AI-powered autonomous agricultural robot that monitors plant health and soil conditions using sensors and computer vision. It combines Raspberry Pi, ESP32, machine learning, and cloud technology to detect potential plant diseases, nutrient deficiencies, and soil problems, helping farmers improve crop monitoring and management.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/AgriScout/",
+        "repo_url": "https://github.com/cepdnaclk/e22-3yp-AgriScout",
+        "page_url": "https://cepdnaclk.github.io/e22-3yp-AgriScout",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/AgriScout/"
+    },
     "e22-3yp-Agricultural-Hexabot-Robot": {
         "title": "Agricultural Hexabot Robot",
         "description": "\ud83c\udf31 IoT-powered agricultural hexapod robot for soil and environmental monitoring, weed and pest detection, and real-time farm telemetry.",
@@ -141,6 +154,19 @@
         "repo_url": "https://github.com/cepdnaclk/e22-3yp-Ventra",
         "page_url": "https://cepdnaclk.github.io/e22-3yp-Ventra",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Ventra/"
+    },
+    "e22-3yp-fes-foot-drop-orthosis": {
+        "title": "fes foot drop orthosis",
+        "description": "Closed-loop cyber-physical FES orthosis for foot drop rehabilitation. Combines dual IMUs and plantar pressure sensing with on-device ML for real-time gait detection to restore dorsiflexion, streaming telemetry via BLE to a distributed cloud platform for longitudinal clinical evaluation.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/fes-foot-drop-orthosis/",
+        "repo_url": "https://github.com/cepdnaclk/e22-3yp-fes-foot-drop-orthosis",
+        "page_url": "https://cepdnaclk.github.io/e22-3yp-fes-foot-drop-orthosis",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/fes-foot-drop-orthosis/"
     },
     "e22-3yp-himummy": {
         "title": "himummy",
