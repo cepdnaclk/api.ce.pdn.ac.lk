@@ -1,4 +1,17 @@
 {
+    "e22-3YP-I.V.I.S": {
+        "title": "I.V.I.S",
+        "description": "A smart adaptive IoT medical air bed overlay using real-time pressure & thermal spatial mapping, dynamic pneumatic actuation, and automated safety overrides to prevent pressure ulcers.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/I.V.I.S/",
+        "repo_url": "https://github.com/cepdnaclk/e22-3YP-I.V.I.S",
+        "page_url": "https://cepdnaclk.github.io/e22-3YP-I.V.I.S",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/I.V.I.S/"
+    },
     "e22-3yp-AgriScout": {
         "title": "AgriScout",
         "description": "AgriScout is an AI-powered autonomous agricultural robot that monitors plant health and soil conditions using sensors and computer vision. It combines Raspberry Pi, ESP32, machine learning, and cloud technology to detect potential plant diseases, nutrient deficiencies, and soil problems, helping farmers improve crop monitoring and management.",
