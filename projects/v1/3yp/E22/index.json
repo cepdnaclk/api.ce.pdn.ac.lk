@@ -90,6 +90,19 @@
         "page_url": "https://cepdnaclk.github.io/e22-3yp-MedFlow",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/MedFlow/"
     },
+    "e22-3yp-Modu-Rehab-Home": {
+        "title": "Modu Rehab Home",
+        "description": "",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Modu-Rehab-Home/",
+        "repo_url": "https://github.com/cepdnaclk/e22-3yp-Modu-Rehab-Home",
+        "page_url": "#",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Modu-Rehab-Home/"
+    },
     "e22-3yp-NETH": {
         "title": "NETH",
         "description": "A low-power cyber-physical system for intelligent wildlife monitoring, combining camera traps, environmental sensing, embedded processing, Edge AI and LoRa communication.",
@@ -193,19 +206,6 @@
         "repo_url": "https://github.com/cepdnaclk/e22-3yp-himummy",
         "page_url": "https://cepdnaclk.github.io/e22-3yp-himummy",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/himummy/"
-    },
-    "e22-3yp-modu-rehab-home": {
-        "title": "modu rehab home",
-        "description": "",
-        "category": {
-            "title": "Cyber-Physical Systems Projects",
-            "code": "3yp",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/modu-rehab-home/",
-        "repo_url": "https://github.com/cepdnaclk/e22-3yp-modu-rehab-home",
-        "page_url": "#",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/modu-rehab-home/"
     },
     "e22-3yp-project-OrthoSense": {
         "title": "project OrthoSense",
