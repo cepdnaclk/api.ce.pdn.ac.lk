@@ -1479,7 +1479,71 @@
         "repo_url": "https://github.com/cepdnaclk/e22-co226-Forensa-Fronsic-Database-Management-System",
         "page_url": "https://cepdnaclk.github.io/e22-co226-Forensa-Fronsic-Database-Management-System",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/Forensa-Fronsic-Database-Management-System/",
-        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg"
+        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+        "team": {
+            "E/22/001": {
+                "name": "H.M.H.N. Aberathna",
+                "email": "e22001@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/001",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22001.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/001/"
+            },
+            "E/22/027": {
+                "name": "M.A.N.P. Anawarathne",
+                "email": "e22027@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/027",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22027.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/027/"
+            },
+            "E/22/324": {
+                "name": "P.H.D. Rathnasiri",
+                "email": "e22324@eng.pdn.ac.lk",
+                "website": "",
+                "github": "",
+                "linkedin": "",
+                "researchgate": "",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/324",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22324.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/324/"
+            },
+            "E/22/120": {
+                "name": "A.S.V. Gunasiri",
+                "email": "e22120@eng.pdn.ac.lk",
+                "website": "",
+                "github": "https://github.com/sasvi123",
+                "linkedin": "https://www.linkedin.com/in/sasvi-gunasiri-224835400/",
+                "researchgate": "https://www.researchgate.net/profile/Sasvi-Gunasiri?ev=hdr_xprf",
+                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E22/120",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e22/e22120.jpg",
+                "profile_url": "https://people.ce.pdn.ac.lk/students/e22/120/"
+            }
+        },
+        "supervisors": {
+            "To be updated": {
+                "name": "To be updated",
+                "email": "To be updated",
+                "profile_url": "#",
+                "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                "api_url": "#",
+                "website": "#",
+                "linkedin": "#",
+                "researchgate": "#",
+                "google_scholar": "#"
+            }
+        },
+        "tags": [
+            "Web",
+            "Software Systems",
+            "CO2060"
+        ]
     },
     "e22-co226-ForensiX-Medico-Forensic-DBMS": {
         "title": "ForensiX Medico Forensic DBMS",
@@ -8579,98 +8643,6 @@
             "AWS",
             "Flutter",
             "IOT"
-        ]
-    },
-    "e21-3yp-SPECTRA-LEAF": {
-        "title": "SPECTRA LEAF",
-        "description": "SPECTRA LEAF is an IoT system automating tea fermentation. Using ESP32, gas, and color sensors, it tracks the shift from grassy to floral aromas. By saving digital profiles based on 'Good Leaf %,' it enables factories to replicate premium batches scientifically, replacing subjective smell with data-driven consistency.",
-        "category": {
-            "title": "Cyber-Physical Systems Projects",
-            "code": "3yp",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-        },
-        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SPECTRA-LEAF/",
-        "repo_url": "https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF",
-        "page_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SPECTRA-LEAF/",
-        "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF/data/thumbnail.jpg",
-        "team": {
-            "E/21/226": {
-                "name": "Nadeera Kothalawala",
-                "email": "e21226@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/226",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21226.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/226/"
-            },
-            "E/21/049": {
-                "name": "Lahiru Dinushan",
-                "email": "e21049@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/049",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21049.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/049/"
-            },
-            "E/21/200": {
-                "name": "Rangana Madhushanka",
-                "email": "e21200@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/200",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21200.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/200/"
-            },
-            "E/21/054": {
-                "name": "Deshan Dinidu",
-                "email": "e21054@eng.pdn.ac.lk",
-                "website": "",
-                "github": "",
-                "linkedin": "",
-                "researchgate": "",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/students/E21/054",
-                "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21054.jpg",
-                "profile_url": "https://people.ce.pdn.ac.lk/students/e21/054/"
-            }
-        },
-        "supervisors": {
-            "yasodhav@eng.pdn.ac.lk": {
-                "name": "Ms. Yasodha Vimukthi",
-                "email": "yasodhav@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/yasodha-vimukthi/",
-                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/yasodha-vimukthi.jpg",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/yasodhav",
-                "website": "#",
-                "linkedin": "https://www.linkedin.com/in/yashodha-vimukthi-586378137/",
-                "researchgate": "#",
-                "google_scholar": "#"
-            },
-            "isurunawinne@eng.pdn.ac.lk": {
-                "name": "Dr. Isuru Nawinne",
-                "email": "isurunawinne@eng.pdn.ac.lk",
-                "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
-                "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/isuru-nawinne.png",
-                "api_url": "https://api.ce.pdn.ac.lk/people/v1/staff/isurunawinne",
-                "website": "#",
-                "linkedin": "https://www.linkedin.com/in/isuru-nawinne-73302833/",
-                "researchgate": "https://www.researchgate.net/profile/Isuru-Nawinne",
-                "google_scholar": "https://scholar.google.com/citations?hl=en&user=8qqGvuwAAAAJ"
-            }
-        },
-        "tags": [
-            "Web",
-            "Embedded Systems",
-            "Industrial IoT",
-            "AWS",
-            "Sensor Networks",
-            "Machine Learning"
         ]
     },
     "e21-3yp-SlideSense": {
