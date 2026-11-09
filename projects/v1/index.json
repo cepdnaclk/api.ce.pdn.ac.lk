@@ -23,6 +23,30 @@
         "page_url": "https://projects.ce.pdn.ac.lk/3yp/",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
     },
+    "co227": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "description": "Software systems designed and developed by second year Computer Engineering Students as part of coursework",
+        "type": "COURSE",
+        "page_url": "https://projects.ce.pdn.ac.lk/co227/",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+    },
+    "co328": {
+        "code": "co328",
+        "title": "Software Engineering Projects (CO328)",
+        "description": "This section contains projects conducted as a partial requirement to complete the course CO328 - Software Engineering. Usually, these projects are conducted by groups of 3 students. The course focus on using software architectures and software project management experience.",
+        "type": "COURSE",
+        "page_url": "https://projects.ce.pdn.ac.lk/co328/",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+    },
+    "co502": {
+        "code": "co502",
+        "title": "Advanced Computer Architecture (CO502)",
+        "description": "This section contains projects conducted as a partial requirement to complete the course CO502 - Advanced Computer Architecture. The scope includes HDL implementations of modern computer processors based on ISAs such as RISC-V, caching, memory and assemblers.",
+        "type": "COURSE",
+        "page_url": "https://projects.ce.pdn.ac.lk/co502/",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+    },
     "co544": {
         "code": "co544",
         "title": "Machine Learning Projects (CO544)",
@@ -30,22 +54,6 @@
         "type": "COURSE",
         "page_url": "https://projects.ce.pdn.ac.lk/co544/",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
-    },
-    "co2060": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "description": "Software Systems Design Project is a structured project experience that enables students to design and develop a complete software system. It emphasizes applying fundamental software engineering principles through hands-on work.",
-        "type": "COURSE",
-        "page_url": "https://projects.ce.pdn.ac.lk/co2060/",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-    },
-    "co543": {
-        "code": "co543",
-        "title": "Image Processing Projects (CO543)",
-        "description": "This section contains projects conducted as a partial requirement to complete the course CO543 - Image Processing",
-        "type": "COURSE",
-        "page_url": "https://projects.ce.pdn.ac.lk/co543/",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
     },
     "co226": {
         "code": "co226",
@@ -55,13 +63,21 @@
         "page_url": "https://projects.ce.pdn.ac.lk/co226/",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
     },
-    "co523": {
-        "code": "co523",
-        "title": "Programming Languages (CO523)",
-        "description": "This section contains projects conducted as a partial requirement to complete the course CO523 - Programming Languages. The projects are designed to provide hands-on experience with various programming languages and paradigms, allowing students to apply theoretical concepts in practical scenarios. Each project focuses on different aspects of programming languages, such as syntax, semantics, and implementation techniques.",
+    "co542": {
+        "code": "co542",
+        "title": "Neural Networks Projects (CO542)",
+        "description": "This section contains projects conducted as a partial requirement to complete the course CO542 - Neural Networks and Fuzzy Systems",
         "type": "COURSE",
-        "page_url": "https://projects.ce.pdn.ac.lk/co523/",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/"
+        "page_url": "https://projects.ce.pdn.ac.lk/co542/",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+    },
+    "co543": {
+        "code": "co543",
+        "title": "Image Processing Projects (CO543)",
+        "description": "This section contains projects conducted as a partial requirement to complete the course CO543 - Image Processing",
+        "type": "COURSE",
+        "page_url": "https://projects.ce.pdn.ac.lk/co543/",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
     },
     "co326": {
         "code": "co326",
@@ -70,6 +86,14 @@
         "type": "COURSE",
         "page_url": "https://projects.ce.pdn.ac.lk/co326/",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+    },
+    "co523": {
+        "code": "co523",
+        "title": "Programming Languages (CO523)",
+        "description": "This section contains projects conducted as a partial requirement to complete the course CO523 - Programming Languages. The projects are designed to provide hands-on experience with various programming languages and paradigms, allowing students to apply theoretical concepts in practical scenarios. Each project focuses on different aspects of programming languages, such as syntax, semantics, and implementation techniques.",
+        "type": "COURSE",
+        "page_url": "https://projects.ce.pdn.ac.lk/co523/",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/"
     },
     "co225": {
         "code": "co225",
@@ -87,36 +111,12 @@
         "page_url": "https://projects.ce.pdn.ac.lk/co528/",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/"
     },
-    "co328": {
-        "code": "co328",
-        "title": "Software Engineering Projects (CO328)",
-        "description": "This section contains projects conducted as a partial requirement to complete the course CO328 - Software Engineering. Usually, these projects are conducted by groups of 3 students. The course focus on using software architectures and software project management experience.",
+    "co2060": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "description": "Software Systems Design Project is a structured project experience that enables students to design and develop a complete software system. It emphasizes applying fundamental software engineering principles through hands-on work.",
         "type": "COURSE",
-        "page_url": "https://projects.ce.pdn.ac.lk/co328/",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
-    },
-    "co542": {
-        "code": "co542",
-        "title": "Neural Networks Projects (CO542)",
-        "description": "This section contains projects conducted as a partial requirement to complete the course CO542 - Neural Networks and Fuzzy Systems",
-        "type": "COURSE",
-        "page_url": "https://projects.ce.pdn.ac.lk/co542/",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
-    },
-    "co227": {
-        "code": "co227",
-        "title": "Software Systems Projects",
-        "description": "Software systems designed and developed by second year Computer Engineering Students as part of coursework",
-        "type": "COURSE",
-        "page_url": "https://projects.ce.pdn.ac.lk/co227/",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-    },
-    "co502": {
-        "code": "co502",
-        "title": "Advanced Computer Architecture (CO502)",
-        "description": "This section contains projects conducted as a partial requirement to complete the course CO502 - Advanced Computer Architecture. The scope includes HDL implementations of modern computer processors based on ISAs such as RISC-V, caching, memory and assemblers.",
-        "type": "COURSE",
-        "page_url": "https://projects.ce.pdn.ac.lk/co502/",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+        "page_url": "https://projects.ce.pdn.ac.lk/co2060/",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
     }
 }
