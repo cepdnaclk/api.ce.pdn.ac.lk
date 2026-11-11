@@ -116,6 +116,19 @@
         "page_url": "https://cepdnaclk.github.io/e22-3yp-NETH",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/NETH/"
     },
+    "e22-3yp-RideTrace": {
+        "title": "RideTrace",
+        "description": "RideTrace: A modular, phone-independent ESP32 IoT motorcycle safety, live telemetry, and emission pre-check platform.",
+        "category": {
+            "title": "Cyber-Physical Systems Projects",
+            "code": "3yp",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+        },
+        "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/RideTrace/",
+        "repo_url": "https://github.com/cepdnaclk/e22-3yp-RideTrace",
+        "page_url": "https://cepdnaclk.github.io/e22-3yp-RideTrace",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/RideTrace/"
+    },
     "e22-3yp-RoadEye": {
         "title": "RoadEye",
         "description": "Edge-AI driver vigilance and risk monitoring system with real-time drowsiness and distraction detection, contextual risk assessment, local alerts, and fleet supervision for transport operators, logistics companies, and fleet managers.",
